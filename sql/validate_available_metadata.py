@@ -2,6 +2,8 @@
 
 This module reads a Parquet metadata table and replaces the DataFrame index
 with the string from the ``file_identifier`` column.
+
+uv run -m sql.validate_available_metadata
 """
 
 # %%

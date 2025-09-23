@@ -5,7 +5,7 @@ Conecta a la base de datos remota a través del túnel SSH y ejecuta la consulta
 muestra un resumen por pantalla y guarda el resultado como Parquet comprimido.
 
 Uso:
-    uv run -m src.queries.run_query_with_tunnel
+uv run -m sql.queries.run_query_with_tunnel
 """
 
 # %%
