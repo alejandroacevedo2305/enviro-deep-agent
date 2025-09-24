@@ -101,6 +101,59 @@ def ensure_directories():
     logger.info(f"Temp directory: {TEMP_DIR}")
 
 
+def verify_naming_convention(df: pd.DataFrame) -> tuple[bool, list[str]]:
+    """Verify that existing files match the dataframe index naming convention.
+    
+    Args:
+        df: Metadata dataframe with index values
+    
+    Returns:
+        Tuple of (all_valid, list_of_mismatched_files)
+    """
+    if not OUTPUT_DIR.exists():
+        return True, []
+    
+    mismatched_files = []
+    existing_files = list(OUTPUT_DIR.glob("*.md"))
+    
+    logger.info(f"Verifying naming convention for {len(existing_files)} existing files")
+    
+    for file_path in existing_files:
+        filename = file_path.stem  # Get filename without extension
+        
+        # Skip FAILED- files in this check
+        if filename.startswith("FAILED-"):
+            continue
+        
+        # Check if the filename exists in the dataframe index
+        if filename not in df.index:
+            # Try to find if it's a sanitized version
+            found = False
+            for idx in df.index:
+                if _sanitize_filename_component(idx) == filename:
+                    found = True
+                    break
+            
+            if not found:
+                mismatched_files.append(file_path.name)
+                logger.warning(
+                    f"File '{file_path.name}' does not match any index in metadata"
+                )
+    
+    if mismatched_files:
+        logger.error(
+            f"Found {len(mismatched_files)} files that don't match the naming convention:"
+        )
+        for file in mismatched_files[:10]:  # Show first 10
+            logger.error(f"  - {file}")
+        if len(mismatched_files) > 10:
+            logger.error(f"  ... and {len(mismatched_files) - 10} more")
+        return False, mismatched_files
+    else:
+        logger.info("✓ All existing files match the naming convention")
+        return True, []
+
+
 def save_error_markdown(
     index_value: str,
     error: Exception,
@@ -197,6 +250,17 @@ def process_single_pdf(
     Returns:
         Tuple of (success, status) where status is 'processed', 'skipped', or 'failed'
     """
+    # Sanity check: Verify the index matches the row name
+    if hasattr(row, 'name') and str(row.name) != index_value:
+        logger.error(
+            f"SANITY CHECK FAILED: Index '{index_value}' does not match row.name '{row.name}'. "
+            f"This indicates a serious data integrity issue."
+        )
+        # This should never happen if the code is correct
+        raise ValueError(
+            f"Index mismatch: processing '{index_value}' but row has index '{row.name}'"
+        )
+    
     # Build output path for markdown (preserve naming convention)
     safe_index = _sanitize_filename_component(index_value)
     markdown_path = OUTPUT_DIR / f"{safe_index}.md"
@@ -524,6 +588,24 @@ def main():
     except Exception as e:
         logger.error(f"Failed to load metadata: {e}")
         sys.exit(1)
+
+    # Verify naming convention sanity check
+    naming_valid, mismatched = verify_naming_convention(df)
+    if not naming_valid and not args.dry_run:
+        logger.warning(
+            f"Found {len(mismatched)} files that don't match the naming convention. "
+            "Consider reviewing or removing these files."
+        )
+        # Ask for confirmation to continue
+        if sys.stdin.isatty():  # Check if running interactively
+            response = input(
+                "\nDo you want to continue anyway? (y/N): "
+            ).strip().lower()
+            if response != 'y':
+                logger.info("Aborting due to naming convention mismatch")
+                sys.exit(1)
+        else:
+            logger.warning("Non-interactive mode, continuing despite mismatches")
 
     # Handle sample mode
     if args.sample:
