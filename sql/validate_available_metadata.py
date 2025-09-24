@@ -73,5 +73,6 @@ if __name__ == "__main__":
         "sample index keys:\n",
         df_indexed_loaded.index.to_series().head().to_string(index=False),
     )
+    print(f"Column names: {df_indexed_loaded.columns}")
 
 # %%
