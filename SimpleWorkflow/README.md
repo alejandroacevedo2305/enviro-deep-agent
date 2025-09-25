@@ -86,6 +86,7 @@ SimpleWorkflow/
 | `--no-skip-existing` | Reprocess all files | `--no-skip-existing` | Both |
 | `--dry-run` | Preview what would be processed | `--dry-run` | Both |
 | `--workers N` | Number of parallel workers | `--workers 8` | Async only |
+| `--retry-failed` | Retry only previously failed files | `--retry-failed` | Both |
 
 ## 📊 Output Format
 
@@ -198,15 +199,31 @@ Processing Summary:
 
 ### Retry Failed Files
 
-To retry only failed files:
-1. Delete the `FAILED-*.md` files
-2. Run the script again with `--skip-existing`
+**New Method (Recommended):**
+Use the `--retry-failed` flag to automatically retry only previously failed files:
 
 ```bash
-# Remove error reports
-rm SimpleWorkflow/ParsedFiles/FAILED-*.md
+# Retry failed files with sync version
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown.py --retry-failed
 
-# Retry processing
+# Retry failed files with async version (faster)
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_async.py --retry-failed --workers 5
+
+# Preview what would be retried
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown.py --retry-failed --dry-run
+```
+
+**Features of Retry Mode:**
+- Automatically detects all FAILED-*.md files
+- Only processes files that previously failed
+- Removes FAILED-*.md files for successfully processed files
+- Tracks retry attempts in error reports
+- Works with both sync and async versions
+
+**Manual Method (Alternative):**
+```bash
+# Remove specific error reports and retry
+rm SimpleWorkflow/ParsedFiles/FAILED-*.md
 uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown.py --skip-existing
 ```
 
@@ -262,11 +279,16 @@ Typical processing speeds (may vary based on PDF size and complexity):
 
 ## 🔒 Safety Features
 
-- **Automatic Retry**: Failed S3 downloads retry up to 3 times
+- **Automatic Retry**: Failed S3 downloads retry up to 3 times with exponential backoff
 - **Error Recovery**: Failures don't stop the entire batch
 - **Clean Temporary Files**: Automatically cleans up temp files
 - **Skip System Files**: Ignores macOS system files (__MACOSX, ._ files)
 - **Unicode Handling**: Safely handles problematic characters
+- **Smart Retry System**:
+  - Tracks failed files with detailed error reports
+  - Automatic cleanup of error reports after successful retry
+  - Prevents infinite retry loops
+  - Maintains retry attempt history
 
 ## 📝 Examples
 
@@ -297,6 +319,24 @@ uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown.py --sample 3
 uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown.py \
   --indices "2129356319_ei-document_" "2129370353_ei-document_" \
   --no-skip-existing
+```
+
+### Example 5: Complete Workflow with Retry
+```bash
+# Step 1: Initial processing batch
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_async.py --max-files 1000 --workers 10
+
+# Step 2: Check how many failed
+ls SimpleWorkflow/ParsedFiles/FAILED-*.md | wc -l
+
+# Step 3: Retry failed files
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_async.py --retry-failed --workers 8
+
+# Step 4: Check remaining failures (likely corrupted PDFs)
+ls SimpleWorkflow/ParsedFiles/FAILED-*.md
+
+# Step 5: Review specific error for investigation
+head -n 30 SimpleWorkflow/ParsedFiles/FAILED-{specific_file}.md
 ```
 
 ## 📚 Additional Information

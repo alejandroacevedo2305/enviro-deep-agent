@@ -204,6 +204,7 @@ def save_error_markdown(
     error: Exception,
     row: pd.Series,
     s3_key: str = None,
+    retry_count: int = 0,
 ) -> None:
     """Save error details to a markdown file for debugging.
 
@@ -212,6 +213,7 @@ def save_error_markdown(
         error: The exception that occurred
         row: Metadata row from the dataframe
         s3_key: The S3 key if available
+        retry_count: Number of retry attempts made
     """
     safe_index = _sanitize_filename_component(index_value)
     error_path = OUTPUT_DIR / f"FAILED-{safe_index}.md"
@@ -222,6 +224,7 @@ file_identifier: {index_value}
 status: FAILED
 error_type: {type(error).__name__}
 error_time: {pd.Timestamp.now().isoformat()}
+retry_attempts: {retry_count}
 s3_key: {s3_key or "N/A"}
 nombre: {row.get("nombre", "N/A")}
 fecha_presentacion: {row.get("fecha_de_presentacion", "N/A")}
@@ -458,12 +461,64 @@ page_count: {metadata.page_count}
             logger.debug(f"Deleted temp file: {temp_pdf_path}")
 
 
+def get_failed_files(output_dir: Path = OUTPUT_DIR) -> list[str]:
+    """Get list of file identifiers that previously failed.
+
+    Args:
+        output_dir: Directory containing the FAILED-*.md files
+
+    Returns:
+        List of file identifiers that failed
+    """
+    failed_files = []
+    failed_pattern = output_dir / "FAILED-*.md"
+
+    for failed_file in output_dir.glob("FAILED-*.md"):
+        # Extract the identifier from filename
+        # Format: FAILED-{sanitized_identifier}.md
+        filename = failed_file.stem  # Remove .md
+        if filename.startswith("FAILED-"):
+            sanitized_id = filename[7:]  # Remove "FAILED-" prefix
+
+            # Read the file to get the original identifier
+            try:
+                content = failed_file.read_text()
+                # Parse the YAML header to get the original file_identifier
+                for line in content.split("\n"):
+                    if line.startswith("file_identifier:"):
+                        original_id = line.split(":", 1)[1].strip()
+                        failed_files.append(original_id)
+                        break
+            except Exception as e:
+                logger.warning(f"Could not read failed file {failed_file}: {e}")
+
+    return failed_files
+
+
+def clean_failed_file(index_value: str) -> None:
+    """Remove the FAILED file for a successfully processed file.
+
+    Args:
+        index_value: The file identifier
+    """
+    safe_index = _sanitize_filename_component(index_value)
+    error_path = OUTPUT_DIR / f"FAILED-{safe_index}.md"
+
+    if error_path.exists():
+        try:
+            error_path.unlink()
+            logger.debug(f"Removed previous error report: {error_path}")
+        except Exception as e:
+            logger.warning(f"Could not remove error report {error_path}: {e}")
+
+
 def process_batch(
     df: pd.DataFrame,
     indices: Optional[list[str]] = None,
     max_files: Optional[int] = None,
     skip_existing: bool = True,
     dry_run: bool = False,
+    retry_failed: bool = False,
 ) -> ProcessingStats:
     """Process a batch of PDFs from the metadata.
 
@@ -473,6 +528,7 @@ def process_batch(
         max_files: Maximum number of files to process
         skip_existing: Skip files that already have markdown
         dry_run: If True, only show what would be processed
+        retry_failed: If True, only process previously failed files
 
     Returns:
         ProcessingStats with results
@@ -480,7 +536,22 @@ def process_batch(
     stats = ProcessingStats()
 
     # Determine which indices to process
-    if indices:
+    if retry_failed:
+        # Get list of previously failed files
+        failed_files = get_failed_files()
+        if not failed_files:
+            logger.info("No failed files found to retry")
+            return stats
+
+        logger.info(f"Found {len(failed_files)} failed files to retry")
+
+        # Filter to only process failed files that exist in the dataframe
+        process_indices = [idx for idx in failed_files if idx in df.index]
+
+        if len(process_indices) < len(failed_files):
+            missing = len(failed_files) - len(process_indices)
+            logger.warning(f"{missing} failed files not found in current metadata")
+    elif indices:
         process_indices = indices
     else:
         process_indices = list(df.index)
@@ -582,6 +653,8 @@ def process_batch(
                     stats.skipped += 1
                 elif status == "processed":
                     stats.processed += 1
+                    # Clean up any previous error report for this file
+                    clean_failed_file(idx)
                 elif status == "failed":
                     stats.failed += 1
                     stats.errors.append((idx, "Processing failed"))
@@ -645,6 +718,11 @@ def main():
         type=int,
         help="Process a random sample of N files",
     )
+    parser.add_argument(
+        "--retry-failed",
+        action="store_true",
+        help="Retry only previously failed files",
+    )
 
     args = parser.parse_args()
 
@@ -685,8 +763,15 @@ def main():
         else:
             logger.warning("Non-interactive mode, continuing despite mismatches")
 
+    # Handle retry-failed mode
+    if args.retry_failed:
+        logger.info("Retry mode: Processing only previously failed files")
+        args.skip_existing = False  # Don't skip for retries
+        args.indices = None  # Clear any specific indices
+        args.max_files = None  # Process all failed files
+        args.sample = None  # Clear sample mode
     # Handle sample mode
-    if args.sample:
+    elif args.sample:
         logger.info(f"Sampling {args.sample} random files")
         sample_indices = df.sample(n=min(args.sample, len(df))).index.tolist()
         args.indices = sample_indices
@@ -699,6 +784,7 @@ def main():
         max_files=args.max_files,
         skip_existing=args.skip_existing,
         dry_run=args.dry_run,
+        retry_failed=args.retry_failed,
     )
 
     # Log summary
