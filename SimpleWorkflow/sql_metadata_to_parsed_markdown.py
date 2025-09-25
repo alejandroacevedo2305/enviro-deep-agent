@@ -62,6 +62,51 @@ MAX_RETRIES = 3  # Maximum retries for S3 operations
 RETRY_DELAY = 2  # Seconds to wait between retries
 
 
+def _extract_pdf_from_zip_bytes(
+    zip_bytes: bytes, prefer_name: Optional[str] = None
+) -> tuple[str, bytes]:
+    """Extract a PDF file from ZIP archive bytes.
+
+    Args:
+        zip_bytes: The ZIP file content as bytes
+        prefer_name: Preferred PDF filename to extract if multiple exist
+
+    Returns:
+        Tuple of (pdf_filename, pdf_bytes)
+
+    Raises:
+        ValueError: If no PDF found in the ZIP
+    """
+    import zipfile
+    from io import BytesIO
+
+    with zipfile.ZipFile(BytesIO(zip_bytes), "r") as zf:
+        # Get all PDF files in the ZIP
+        pdf_files = [
+            name
+            for name in zf.namelist()
+            if name.lower().endswith(".pdf") and not name.startswith("__MACOSX")
+        ]
+
+        if not pdf_files:
+            raise ValueError("No PDF files found in ZIP archive")
+
+        # Select which PDF to extract
+        if prefer_name and prefer_name in pdf_files:
+            selected_pdf = prefer_name
+        elif len(pdf_files) == 1:
+            selected_pdf = pdf_files[0]
+        else:
+            # Pick the largest PDF if multiple exist
+            sizes = {name: zf.getinfo(name).file_size for name in pdf_files}
+            selected_pdf = max(sizes, key=sizes.get)
+            logger.info(f"Multiple PDFs found, selecting largest: {selected_pdf}")
+
+        # Extract and return the PDF
+        pdf_bytes = zf.read(selected_pdf)
+        return selected_pdf, pdf_bytes
+
+
 @dataclass
 class ProcessingStats:
     """Track processing statistics."""
@@ -440,12 +485,19 @@ def process_batch(
     else:
         process_indices = list(df.index)
 
+    # Display total rows in the dataframe
+    total_rows_in_df = len(df)
+    logger.info("=" * 60)
+    logger.info(f"Total rows in metadata: {total_rows_in_df:,}")
+
     # Limit if max_files specified
     if max_files:
         process_indices = process_indices[:max_files]
+        logger.info(f"Limited to processing: {max_files:,} files")
 
     stats.total = len(process_indices)
-    logger.info(f"Processing {stats.total} files...")
+    logger.info(f"Files to process: {stats.total:,}")
+    logger.info("=" * 60)
 
     if dry_run:
         logger.info("[DRY RUN MODE] - No files will be processed")
@@ -503,10 +555,23 @@ def process_batch(
     config = S3Config.from_env()
     downloader = S3Downloader(config)
 
-    # Process files with progress bar
-    with tqdm(total=stats.total, desc="Processing PDFs") as pbar:
-        for idx in process_indices:
+    # Process files with enhanced progress bar
+    with tqdm(
+        total=stats.total,
+        desc="Processing",
+        unit="files",
+        bar_format=(
+            "{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt} "
+            "[{elapsed}<{remaining}, {rate_fmt}]"
+        ),
+        ncols=100,
+        dynamic_ncols=True,
+    ) as pbar:
+        for current_idx, idx in enumerate(process_indices, 1):
             try:
+                # Update description with current file being processed
+                pbar.set_description(f"Processing [{current_idx}/{stats.total}]")
+
                 # Process the PDF (the function now handles the existence check)
                 row = df.loc[idx]
                 success, status = process_single_pdf(
@@ -515,20 +580,26 @@ def process_batch(
 
                 if status == "skipped":
                     stats.skipped += 1
-                    pbar.set_postfix({"skipped": stats.skipped})
                 elif status == "processed":
                     stats.processed += 1
-                    pbar.set_postfix({"processed": stats.processed})
                 elif status == "failed":
                     stats.failed += 1
                     stats.errors.append((idx, "Processing failed"))
-                    pbar.set_postfix({"failed": stats.failed})
+
+                # Update postfix with comprehensive stats
+                pbar.set_postfix_str(
+                    f"✓{stats.processed} ⏭{stats.skipped} ✗{stats.failed}", refresh=True
+                )
 
             except Exception as e:
                 stats.failed += 1
                 stats.errors.append((idx, str(e)))
                 logger.error(f"Error processing {idx}: {e}")
-                pbar.set_postfix({"failed": stats.failed})
+
+                # Update postfix with comprehensive stats
+                pbar.set_postfix_str(
+                    f"✓{stats.processed} ⏭{stats.skipped} ✗{stats.failed}", refresh=True
+                )
 
             pbar.update(1)
 
@@ -584,7 +655,14 @@ def main():
     logger.info(f"Loading metadata from {METADATA_PATH}")
     try:
         df = pd.read_parquet(METADATA_PATH)
-        logger.info(f"Loaded {len(df)} records")
+        logger.info("=" * 60)
+        logger.info("✓ Successfully loaded metadata")
+        logger.info(f"  Total rows in parquet file: {len(df):,}")
+        logger.info(
+            f"  Columns: {', '.join(df.columns[:5])}"
+            + (f", ... ({len(df.columns)} total)" if len(df.columns) > 5 else "")
+        )
+        logger.info("=" * 60)
     except Exception as e:
         logger.error(f"Failed to load metadata: {e}")
         sys.exit(1)

@@ -108,11 +108,22 @@ Error reports (`FAILED-{file_id}.md`) contain:
 
 ### Real-time Progress
 
-The script shows a progress bar with:
-- Files processed
-- Files skipped (already exist)
-- Failed files
-- Processing speed (files/second)
+The script provides comprehensive progress tracking:
+
+**Initial Display:**
+- Total rows in the metadata parquet file
+- Number of files to be processed
+- Column information from the metadata
+
+**Dynamic Progress Bar:**
+- Current file being processed (e.g., `[1/100]`)
+- Percentage completed with visual bar
+- Files per second processing rate
+- Estimated time remaining
+- Real-time counters:
+  - ✓ Successfully processed files
+  - ⏭ Skipped existing files
+  - ✗ Failed files
 
 ### Log Files
 
@@ -123,7 +134,24 @@ tail -f SimpleWorkflow/processing.log
 
 ### Processing Summary
 
-After completion, you'll see:
+Example output when starting:
+```
+============================================================
+✓ Successfully loaded metadata
+  Total rows in parquet file: 182,406
+  Columns: id, url, nombre, fecha_de_presentacion, tipologia, ... (16 total)
+============================================================
+Total rows in metadata: 182,406
+Files to process: 100
+============================================================
+```
+
+During processing:
+```
+Processing [45/100]: 45%|████▌     | 45/100 [02:15<02:45, 3.01s/files] ✓35 ⏭8 ✗2
+```
+
+After completion:
 ```
 Processing Summary:
   Total files: 100
