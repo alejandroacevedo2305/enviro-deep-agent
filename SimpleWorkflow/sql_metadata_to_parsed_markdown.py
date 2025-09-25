@@ -103,28 +103,28 @@ def ensure_directories():
 
 def verify_naming_convention(df: pd.DataFrame) -> tuple[bool, list[str]]:
     """Verify that existing files match the dataframe index naming convention.
-    
+
     Args:
         df: Metadata dataframe with index values
-    
+
     Returns:
         Tuple of (all_valid, list_of_mismatched_files)
     """
     if not OUTPUT_DIR.exists():
         return True, []
-    
+
     mismatched_files = []
     existing_files = list(OUTPUT_DIR.glob("*.md"))
-    
+
     logger.info(f"Verifying naming convention for {len(existing_files)} existing files")
-    
+
     for file_path in existing_files:
         filename = file_path.stem  # Get filename without extension
-        
+
         # Skip FAILED- files in this check
         if filename.startswith("FAILED-"):
             continue
-        
+
         # Check if the filename exists in the dataframe index
         if filename not in df.index:
             # Try to find if it's a sanitized version
@@ -133,13 +133,13 @@ def verify_naming_convention(df: pd.DataFrame) -> tuple[bool, list[str]]:
                 if _sanitize_filename_component(idx) == filename:
                     found = True
                     break
-            
+
             if not found:
                 mismatched_files.append(file_path.name)
                 logger.warning(
                     f"File '{file_path.name}' does not match any index in metadata"
                 )
-    
+
     if mismatched_files:
         logger.error(
             f"Found {len(mismatched_files)} files that don't match the naming convention:"
@@ -251,7 +251,7 @@ def process_single_pdf(
         Tuple of (success, status) where status is 'processed', 'skipped', or 'failed'
     """
     # Sanity check: Verify the index matches the row name
-    if hasattr(row, 'name') and str(row.name) != index_value:
+    if hasattr(row, "name") and str(row.name) != index_value:
         logger.error(
             f"SANITY CHECK FAILED: Index '{index_value}' does not match row.name '{row.name}'. "
             f"This indicates a serious data integrity issue."
@@ -260,7 +260,7 @@ def process_single_pdf(
         raise ValueError(
             f"Index mismatch: processing '{index_value}' but row has index '{row.name}'"
         )
-    
+
     # Build output path for markdown (preserve naming convention)
     safe_index = _sanitize_filename_component(index_value)
     markdown_path = OUTPUT_DIR / f"{safe_index}.md"
@@ -598,10 +598,10 @@ def main():
         )
         # Ask for confirmation to continue
         if sys.stdin.isatty():  # Check if running interactively
-            response = input(
-                "\nDo you want to continue anyway? (y/N): "
-            ).strip().lower()
-            if response != 'y':
+            response = (
+                input("\nDo you want to continue anyway? (y/N): ").strip().lower()
+            )
+            if response != "y":
                 logger.info("Aborting due to naming convention mismatch")
                 sys.exit(1)
         else:
