@@ -1,6 +1,6 @@
 # SimpleWorkflow - PDF to Markdown Converter
 
-A robust Python script that downloads PDFs from S3 and converts them to Markdown format for RAG (Retrieval-Augmented Generation) applications. Available in both synchronous and asynchronous versions for different performance requirements.
+A robust Python script that downloads PDFs from S3 and converts them to Markdown format for RAG (Retrieval-Augmented Generation) applications. Available in synchronous, asynchronous, and ultra-robust versions for different requirements and long-running tasks.
 
 ## 📋 Overview
 
@@ -61,32 +61,88 @@ uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_async.py --max-file
 uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_async.py --sample 50 --workers 8
 ```
 
+**Ultra-Robust Version (For Long-Running Tasks on Linux):**
+```bash
+# Process with timeout protection and signal handling
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_robust.py --max-files 1000
+
+# Resume from previous state after interruption
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_robust.py --resume
+
+# Run in background with nohup using wrapper script
+./SimpleWorkflow/run_processing.sh --mode background --max-files 10000
+
+# Run in screen session for detachable processing
+./SimpleWorkflow/run_processing.sh --mode screen --max-files 10000
+
+# Run in tmux session
+./SimpleWorkflow/run_processing.sh --mode tmux
+
+# Check status of background job
+./SimpleWorkflow/run_processing.sh --status
+```
+
+**Optimized Async Version (Maximum Performance):**
+```bash
+# Benchmark to find optimal workers for your system
+uv run python SimpleWorkflow/benchmark_workers.py --sample 50
+
+# Run with auto-detected optimal settings
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py
+
+# Run with custom worker configuration
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  --download-workers 15 --processing-workers 4 --max-files 1000
+
+# Background mode with optimal settings
+nohup uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  > SimpleWorkflow/optimized_processing.log 2>&1 &
+
+# Save PID for later
+echo $! > SimpleWorkflow/.optimized.pid
+```
+
 ## 📁 File Structure
 
 ```
 SimpleWorkflow/
-├── README.md                              # This file
-├── sql_metadata_to_parsed_markdown.py     # Synchronous version
-├── sql_metadata_to_parsed_markdown_async.py  # Async parallel version
-├── ParsedFiles/                           # Output directory
-│   ├── {file_id}.md                      # Successfully processed files
-│   └── FAILED-{file_id}.md               # Error reports for failed files
-├── processing.log                         # Processing logs (sync version)
-└── processing_async.log                   # Processing logs (async version)
+├── README.md                                    # This file
+├── USAGE_GUIDE.md                               # Quick usage guide
+├── sql_metadata_to_parsed_markdown.py           # Synchronous version
+├── sql_metadata_to_parsed_markdown_async.py     # Async parallel version
+├── sql_metadata_to_parsed_markdown_robust.py    # Ultra-robust with timeout
+├── sql_metadata_to_parsed_markdown_optimized.py # Optimized async (best performance)
+├── benchmark_workers.py                         # Find optimal worker settings
+├── run_processing.sh                            # Wrapper script for background execution
+├── ParsedFiles/                                 # Output directory
+│   ├── {file_id}.md                            # Successfully processed files
+│   └── FAILED-{file_id}.md                     # Error reports for failed files
+├── .processing_state.json                       # State file for resume capability
+├── .processing.pid                              # PID file for background jobs
+├── .optimized.pid                               # PID for optimized version
+├── processing.log                               # Processing logs (sync)
+├── processing_async.log                         # Processing logs (async)
+├── processing_robust.log                        # Processing logs (robust)
+└── processing_optimized.log                     # Processing logs (optimized)
 ```
 
 ## ⚙️ Command Line Options
 
 | Option | Description | Example | Available In |
 |--------|-------------|---------|--------------|
-| `--max-files N` | Process only N files | `--max-files 100` | Both |
-| `--indices ID1 ID2...` | Process specific file IDs | `--indices "2129356319_ei-document_"` | Both |
-| `--sample N` | Process random sample of N files | `--sample 10` | Both |
-| `--skip-existing` | Skip already processed files (default) | `--skip-existing` | Both |
-| `--no-skip-existing` | Reprocess all files | `--no-skip-existing` | Both |
-| `--dry-run` | Preview what would be processed | `--dry-run` | Both |
+| `--max-files N` | Process only N files | `--max-files 100` | All |
+| `--indices ID1 ID2...` | Process specific file IDs | `--indices "2129356319_ei-document_"` | Sync/Async |
+| `--sample N` | Process random sample of N files | `--sample 10` | Sync/Async |
+| `--skip-existing` | Skip already processed files (default) | `--skip-existing` | All |
+| `--no-skip-existing` | Reprocess all files | `--no-skip-existing` | All |
+| `--dry-run` | Preview what would be processed | `--dry-run` | Sync/Async |
 | `--workers N` | Number of parallel workers | `--workers 8` | Async only |
-| `--retry-failed` | Retry only previously failed files | `--retry-failed` | Both |
+| `--retry-failed` | Retry only previously failed files | `--retry-failed` | Sync/Async |
+| `--resume` | Resume from previous state | `--resume` | Robust only |
+| `--timeout N` | Timeout per file in seconds | `--timeout 600` | Robust only |
+| `--memory-limit N` | Memory limit in MB before GC | `--memory-limit 8000` | Robust only |
+| `--download-workers N` | Number of download workers | `--download-workers 15` | Optimized only |
+| `--processing-workers N` | Number of processing workers | `--processing-workers 4` | Optimized only |
 
 ## 📊 Output Format
 
@@ -196,6 +252,13 @@ Processing Summary:
 4. **Memory Issues with Large PDFs**
    - Process in smaller batches
    - Files over 100MB will show a warning
+   - Use `--memory-limit` flag with robust version
+
+5. **Script Timeout or Hanging on Linux**
+   - Use the robust version: `sql_metadata_to_parsed_markdown_robust.py`
+   - Run with wrapper script: `./SimpleWorkflow/run_processing.sh --mode background`
+   - Adjust timeout: `--timeout 600` (10 minutes per file)
+   - Resume after interruption: `--resume`
 
 ### Retry Failed Files
 
@@ -227,14 +290,77 @@ rm SimpleWorkflow/ParsedFiles/FAILED-*.md
 uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown.py --skip-existing
 ```
 
-## ⚡ Performance Comparison
+## ⚡ Performance Comparison & Optimization
 
-### Synchronous vs Async Version
+### Version Comparison
 
-| Version | Best For | Pros | Cons |
-|---------|----------|------|------|
-| **Sync** | Small batches (<50 files) | Simple, predictable, lower memory usage | Sequential processing, slower for large batches |
-| **Async** | Large batches (>50 files) | Parallel downloads, better throughput | Higher memory usage, complex error handling |
+| Version | Best For | Pros | Cons | Typical Speed |
+|---------|----------|------|------|---------------|
+| **Sync** | Small batches (<50 files) | Simple, predictable, lower memory | Sequential, slower | 0.5-2 files/s |
+| **Async** | Large batches (>50 files) | Parallel downloads | Higher memory, fixed workers | 2-5 files/s |
+| **Robust** | Unattended long runs | Timeout protection, resume | Safety overhead | 1-3 files/s |
+| **Optimized** | Maximum throughput | Best performance, auto-tuning | Requires tuning | 5-15 files/s |
+
+### Finding Optimal Settings
+
+The optimized version can achieve 3-5x better performance than the standard async version by separating download and processing workers.
+
+**Step 1: Run Benchmark**
+
+```bash
+# Test with 50 random files to find best configuration for your system
+uv run python SimpleWorkflow/benchmark_workers.py --sample 50
+```
+
+The benchmark will test multiple configurations and output:
+- Throughput (files/second) for each configuration
+- Memory usage patterns
+- Recommended settings for your system
+
+**Step 2: Use Recommended Settings**
+
+After benchmarking, use the recommended configuration:
+
+```bash
+# Example output from benchmark:
+# Recommended: --download-workers 15 --processing-workers 4
+
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  --download-workers 15 \
+  --processing-workers 4
+```
+
+### Performance Tuning Guide
+
+**System Resources:**
+- **Low RAM (<8GB)**: Use `--download-workers 5 --processing-workers 2`
+- **Medium RAM (8-16GB)**: Use `--download-workers 10 --processing-workers 3`
+- **High RAM (16-32GB)**: Use `--download-workers 15 --processing-workers 4`
+- **Very High RAM (>32GB)**: Use `--download-workers 20 --processing-workers 5`
+
+**Network Speed:**
+- **Slow (<10 Mbps)**: Lower download workers to 5-8
+- **Fast (>50 Mbps)**: Increase download workers to 15-20
+
+**CPU Cores:**
+- Processing workers should be: `min(CPU_cores - 1, 5)`
+- Download workers can be: `CPU_cores * 2 to 3`
+
+### Real-World Performance Examples
+
+```bash
+# Conservative (4 CPU, 8GB RAM, slow network)
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  --download-workers 8 --processing-workers 2
+
+# Balanced (8 CPU, 16GB RAM, good network)
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  --download-workers 15 --processing-workers 4
+
+# Aggressive (16 CPU, 32GB RAM, fast network)
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  --download-workers 20 --processing-workers 5
+```
 
 ### Recommended Settings
 
@@ -259,6 +385,137 @@ Typical processing speeds (may vary based on PDF size and complexity):
 - **Sync version**: ~0.5-2 files/second
 - **Async version (5 workers)**: ~2-5 files/second
 - **Async version (10 workers)**: ~3-8 files/second
+
+## 🛑 Graceful Shutdown Commands
+
+All scripts support graceful shutdown that saves progress and exits cleanly.
+
+### Kill Background Jobs Gracefully
+
+```bash
+# Method 1: Using PID file (recommended)
+kill -TERM $(cat SimpleWorkflow/.processing.pid 2>/dev/null)
+# Or for optimized version
+kill -TERM $(cat SimpleWorkflow/.optimized.pid 2>/dev/null)
+
+# Method 2: Using wrapper script
+./SimpleWorkflow/run_processing.sh --status  # Get PID first
+kill -TERM <PID>
+
+# Method 3: Find and kill by process name
+pkill -TERM -f "sql_metadata_to_parsed_markdown"
+
+# Specific version
+pkill -TERM -f "sql_metadata_to_parsed_markdown_robust"
+pkill -TERM -f "sql_metadata_to_parsed_markdown_optimized"
+```
+
+### Kill Foreground Process
+
+```bash
+# Press Ctrl+C in the terminal
+# The script will:
+# 1. Finish processing current file
+# 2. Save state (if using robust version)
+# 3. Log summary and exit gracefully
+```
+
+### Verify Process Was Killed
+
+```bash
+# Check if process is still running
+ps aux | grep sql_metadata_to_parsed_markdown
+
+# Check processing state
+cat SimpleWorkflow/.processing_state.json
+
+# View last log entries
+tail -n 20 SimpleWorkflow/processing_*.log
+```
+
+### Force Kill (Use Only as Last Resort)
+
+```bash
+# Only if graceful shutdown fails after 30 seconds
+kill -9 $(cat SimpleWorkflow/.processing.pid 2>/dev/null)
+
+# Or by process name
+pkill -9 -f "sql_metadata_to_parsed_markdown"
+
+# Note: Force kill may leave incomplete files or unsaved state
+```
+
+### Clean Up After Shutdown
+
+```bash
+# Remove PID files
+rm -f SimpleWorkflow/.processing.pid SimpleWorkflow/.optimized.pid
+
+# Check for orphaned temp files
+ls /tmp/pdf_processing*/ 2>/dev/null
+
+# Clean up temp files if needed
+rm -rf /tmp/pdf_processing*/
+```
+
+## 🔄 Handling Long-Running Processes
+
+For processing thousands of files that may take hours or days:
+
+### Using the Robust Version
+
+```bash
+# Start processing with resume capability
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_robust.py --max-files 10000
+
+# If interrupted, resume from where you left off
+uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_robust.py --resume
+
+# Monitor progress
+cat SimpleWorkflow/.processing_state.json | jq '.'
+```
+
+### Using the Wrapper Script
+
+```bash
+# Run in background (survives terminal closure)
+./SimpleWorkflow/run_processing.sh --mode background --max-files 10000
+
+# Run in screen session (can detach/reattach)
+./SimpleWorkflow/run_processing.sh --mode screen --max-files 10000
+
+# Run in tmux session
+./SimpleWorkflow/run_processing.sh --mode tmux --max-files 10000
+
+# Check status
+./SimpleWorkflow/run_processing.sh --status
+
+# Monitor logs in real-time
+tail -f SimpleWorkflow/processing_robust.log
+```
+
+### Monitoring Progress
+
+```bash
+# Count processed files
+ls SimpleWorkflow/ParsedFiles/*.md | grep -v FAILED | wc -l
+
+# Count failed files
+ls SimpleWorkflow/ParsedFiles/FAILED-*.md 2>/dev/null | wc -l
+
+# Check memory usage
+ps aux | grep sql_metadata_to_parsed_markdown
+
+# View processing state
+cat SimpleWorkflow/.processing_state.json
+```
+
+### Graceful Shutdown
+
+The robust version handles Linux signals properly:
+- `Ctrl+C` or `kill -TERM <pid>`: Graceful shutdown, saves state
+- State is preserved for resume
+- No data loss on interruption
 
 ## 📈 Performance Tips
 

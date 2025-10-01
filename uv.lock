@@ -1743,6 +1743,7 @@ dependencies = [
     { name = "numpy" },
     { name = "pandas" },
     { name = "paramiko" },
+    { name = "psutil" },
     { name = "psycopg" },
     { name = "psycopg2-binary" },
     { name = "pyarrow" },
@@ -1758,6 +1759,7 @@ dependencies = [
     { name = "sentry-sdk" },
     { name = "sqlalchemy" },
     { name = "sshtunnel" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -1775,6 +1777,7 @@ requires-dist = [
     { name = "numpy", specifier = ">=2.3.2" },
     { name = "pandas", specifier = ">=2.3.2" },
     { name = "paramiko", specifier = "<3.0.0" },
+    { name = "psutil", specifier = ">=5.9.0" },
     { name = "psycopg", specifier = ">=3.2.9" },
     { name = "psycopg2-binary", specifier = ">=2.9.10" },
     { name = "pyarrow", specifier = ">=21.0.0" },
@@ -1790,6 +1793,7 @@ requires-dist = [
     { name = "sentry-sdk", specifier = ">=2.35.0" },
     { name = "sqlalchemy", specifier = ">=2.0.43" },
     { name = "sshtunnel", specifier = ">=0.4.0" },
+    { name = "tqdm", specifier = ">=4.66.0" },
 ]
 
 [[package]]

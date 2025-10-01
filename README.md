@@ -2,7 +2,44 @@
 
 A production-ready Apache Airflow deployment using Docker Compose with CeleryExecutor, Redis, and PostgreSQL.
 
-## 🚀 Quick Start
+---
+
+## ⚡ PDF Processing - Optimal Command
+
+**Process ALL 182,406 files - Optimized for this system (20 CPUs, 125GB RAM):**
+
+```bash
+# Run with optimal parameters (16 download workers, 5 processing workers)
+nohup uv run python SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py \
+  --download-workers 16 \
+  --processing-workers 5 \
+  > SimpleWorkflow/optimized_processing.log 2>&1 &
+
+# Save PID for graceful shutdown
+echo $! > SimpleWorkflow/.optimized.pid
+
+# Monitor progress in real-time
+tail -f SimpleWorkflow/optimized_processing.log
+
+# Check progress anytime
+ls SimpleWorkflow/ParsedFiles/*.md | grep -v FAILED | wc -l
+
+# Stop gracefully when needed
+kill -TERM $(cat SimpleWorkflow/.optimized.pid)
+```
+
+**⏱️ Expected completion:** ~4-5 hours | **📊 Speed:** ~10-12 files/second | **💾 Memory:** ~3-4GB
+
+**🔍 Want to find your own optimal settings?** Run benchmark:
+```bash
+uv run python SimpleWorkflow/benchmark_workers.py --sample 50
+```
+
+📚 **Full documentation:** [`SimpleWorkflow/README.md`](SimpleWorkflow/README.md) | [`SimpleWorkflow/QUICK_REFERENCE.md`](SimpleWorkflow/QUICK_REFERENCE.md)
+
+---
+
+## 🚀 Airflow Quick Start
 
 ### Prerequisites
 
