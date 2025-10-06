@@ -23,29 +23,30 @@ from proyecto p
   join downloader.file df on el.id = df.fk_extracted_link_id
 where
   -- filtro para priorizar proyectos con todos los docs descargados (quitar después)
-  p.id in (
-      select p.id--, p.nombre, bool_and(el.used) as ready, count(e.*) > 0 as has_errors
-      from proyecto p
-        join extracted_link el on el.fk_project_id = p.id
-        left join downloader.error_log e on el.id = e.fk_extracted_link_id
-      where (
-        (
-          p.estado = 'Aprobado' -- solo proyectos aprobados de momento
-          and (
-            el.type like 'addendum-physics-files-%' or
-            el.type like 'complementary-addendum-physics-files-%' or
-            el.type = 'ei-document' or
-            el.type = 'icsara' and el.subtype != 'desconocido'
-          )
-        ) or (
-          el.subtype = 'anticipated-finished-resolution'
-        ))
-        and el.url != 'https://seia.sea.gob.cl/archivos/'
-        and p.fecha_de_presentacion >= '2014-01-01'
-      group by p.id, p.nombre
-      having bool_and(el.used) = true and count(e.*) = 0
-  )
-  and (
+--   p.id in (
+--       select p.id--, p.nombre, bool_and(el.used) as ready, count(e.*) > 0 as has_errors
+--       from proyecto p
+--         join extracted_link el on el.fk_project_id = p.id
+--         left join downloader.error_log e on el.id = e.fk_extracted_link_id
+--       where (
+--         (
+--           p.estado = 'Aprobado' -- solo proyectos aprobados de momento
+--           and (
+--             el.type like 'addendum-physics-files-%' or
+--             el.type like 'complementary-addendum-physics-files-%' or
+--             el.type = 'ei-document' or
+--             el.type = 'icsara' and el.subtype != 'desconocido'
+--           )
+--         ) or (
+--           el.subtype = 'anticipated-finished-resolution'
+--         ))
+--         and el.url != 'https://seia.sea.gob.cl/archivos/'
+--         and p.fecha_de_presentacion >= '2014-01-01'
+--       group by p.id, p.nombre
+--       having bool_and(el.used) = true and count(e.*) = 0
+--   )
+--   and
+  (
     (
       p.estado = 'Aprobado' -- solo proyectos aprobados de momento
       and (
