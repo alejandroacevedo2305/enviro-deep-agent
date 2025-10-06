@@ -7,7 +7,14 @@ uv run -m sql.validate_available_metadata
 """
 
 # %%
+import sys
+from pathlib import Path
+
 import pandas as pd
+
+# Add parent directory to path to import from SimpleWorkflow
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from SimpleWorkflow.summarize_markdown_outputs import summarize_markdown_outputs
 
 
 def set_file_identifier_index(df: pd.DataFrame) -> pd.DataFrame:
@@ -45,6 +52,65 @@ def load_indexed_metadata() -> pd.DataFrame:
     return pd.read_parquet("sql/metadata_table/flora_fauna_metadata_indexed.parquet")
 
 
+def print_line_count_distribution(summary: dict) -> None:
+    """Print distribution of files by line count ranges.
+
+    Excludes FAILED- files and reports failure percentage separately.
+    """
+    if not summary:
+        print("No file statistics available")
+        return
+
+    total_files = summary.get("total_files", 0)
+    success_files = summary.get("success_files", 0)
+    failed_files = summary.get("failed_files", 0)
+
+    if total_files == 0:
+        print("No files found")
+        return
+
+    # Calculate failure percentage
+    failure_rate = (failed_files / total_files) * 100 if total_files > 0 else 0
+
+    # Print failure statistics
+    print("\n" + "=" * 70)
+    print("FILE PROCESSING SUMMARY")
+    print("=" * 70)
+    print(f"Total files:        {total_files:>10,}")
+    print(f"✓ Successful:       {success_files:>10,}")
+    print(f"✗ Failed (FAILED-): {failed_files:>10,}")
+    print(f"Failure rate:       {failure_rate:>10.2f}%")
+    print("=" * 70)
+
+    # Only process successful files for line count distribution
+    file_details = summary.get("file_details", [])
+    if not file_details:
+        print("\nNo successful file statistics available")
+        return
+
+    # Define ranges
+    ranges = [
+        (5000, float("inf"), "more than 5,000 lines"),
+        (1000, 5000, "less than 5,000 and more than 1,000 lines"),
+        (100, 1000, "less than 1,000 and more than 100 lines"),
+        (10, 100, "less than 100 and more than 10 lines"),
+        (1, 10, "less than 10 and more than 1 lines"),
+    ]
+
+    print("\n" + "=" * 70)
+    print("LINE COUNT DISTRIBUTION (Successful files only)")
+    print("=" * 70)
+
+    for min_val, max_val, label in ranges:
+        if max_val == float("inf"):
+            count = sum(1 for f in file_details if f["lines"] >= min_val)
+        else:
+            count = sum(1 for f in file_details if min_val < f["lines"] <= max_val)
+        print(f"Files with {label}: {count:>5,}")
+
+    print("=" * 70 + "\n")
+
+
 if __name__ == "__main__":
     # Simple demonstration / validation
     PARQUET_PATH = "sql/metadata_table/flora_fauna_metadata.parquet"
@@ -74,5 +140,13 @@ if __name__ == "__main__":
         df_indexed_loaded.index.to_series().head().to_string(index=False),
     )
     print(f"Column names: {df_indexed_loaded.columns}")
+
+    # Analyze markdown files and print line count distribution
+    markdown_dir = Path("SimpleWorkflow/ParsedFiles")
+    if markdown_dir.exists():
+        summary = summarize_markdown_outputs(markdown_dir)
+        print_line_count_distribution(summary)
+    else:
+        print(f"\nMarkdown directory not found: {markdown_dir}")
 
 # %%
