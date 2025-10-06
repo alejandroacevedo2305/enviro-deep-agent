@@ -230,13 +230,13 @@ def print_summary(summary: dict, verbose: bool = False):
         if verbose:
             print_file_details(summary.get("file_details", []), show_all=verbose)
 
-        # Show failed files if any
-        if summary["failed_files"] > 0:
-            print("\n" + "-" * 70)
-            print("❌ Failed Files:")
-            print("-" * 70)
-            for stat in summary.get("failed_details", []):
-                print(f"  • {stat['filename']}")
+            # Show failed files if any (only in verbose mode)
+            if summary["failed_files"] > 0:
+                print("\n" + "-" * 70)
+                print("❌ Failed Files:")
+                print("-" * 70)
+                for stat in summary.get("failed_details", []):
+                    print(f"  • {stat['filename']}")
 
     print("=" * 70 + "\n")
 
