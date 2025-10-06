@@ -153,6 +153,30 @@ def print_file_details(file_stats: list[dict], show_all: bool = False):
         print(f"Showing top 10 of {len(sorted_stats)} files. Use --verbose to see all.")
 
 
+def print_line_count_distribution(summary: dict):
+    """Print distribution of files by line count ranges (successful only)."""
+    file_details = summary.get("file_details", [])
+    if not file_details:
+        return
+
+    # Define ranges
+    ranges = [
+        (5000, float("inf"), "more than 5,000 lines"),
+        (1000, 5000, "less than 5,000 and more than 1,000 lines"),
+        (100, 1000, "less than 1,000 and more than 100 lines"),
+        (10, 100, "less than 100 and more than 10 lines"),
+        (1, 10, "less than 10 and more than 1 lines"),
+    ]
+
+    print("\n📏 Line Count Distribution (Successful files only):")
+    for min_val, max_val, label in ranges:
+        if max_val == float("inf"):
+            count = sum(1 for f in file_details if f["lines"] >= min_val)
+        else:
+            count = sum(1 for f in file_details if min_val < f["lines"] <= max_val)
+        print(f"  Files with {label}: {count:>5,}")
+
+
 def print_summary(summary: dict, verbose: bool = False):
     """Print summary statistics in a formatted way."""
     if not summary:
@@ -162,10 +186,16 @@ def print_summary(summary: dict, verbose: bool = False):
     print("MARKDOWN FILES SUMMARY")
     print("=" * 70)
 
+    # Calculate failure percentage
+    total_files = summary.get("total_files", 0)
+    failed_files = summary.get("failed_files", 0)
+    failure_rate = (failed_files / total_files) * 100 if total_files > 0 else 0
+
     print("\n📊 File Counts:")
     print(f"  Total files:        {summary['total_files']:>10,}")
     print(f"  ✓ Successful:       {summary['success_files']:>10,}")
-    print(f"  ✗ Failed:           {summary['failed_files']:>10,}")
+    print(f"  ✗ Failed (FAILED-): {summary['failed_files']:>10,}")
+    print(f"  Failure rate:       {failure_rate:>10.2f}%")
     if summary["parse_errors"] > 0:
         print(f"  ⚠ Parse errors:     {summary['parse_errors']:>10,}")
 
@@ -192,6 +222,9 @@ def print_summary(summary: dict, verbose: bool = False):
             else 0
         )
         print(f"\n✨ Success Rate:      {success_rate:>10.1f}%")
+
+        # Print line count distribution
+        print_line_count_distribution(summary)
 
         # Print individual file details
         print_file_details(summary.get("file_details", []), show_all=verbose)
