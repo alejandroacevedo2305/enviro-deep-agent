@@ -226,8 +226,9 @@ def print_summary(summary: dict, verbose: bool = False):
         # Print line count distribution
         print_line_count_distribution(summary)
 
-        # Print individual file details
-        print_file_details(summary.get("file_details", []), show_all=verbose)
+        # Print individual file details only in verbose mode
+        if verbose:
+            print_file_details(summary.get("file_details", []), show_all=verbose)
 
         # Show failed files if any
         if summary["failed_files"] > 0:
