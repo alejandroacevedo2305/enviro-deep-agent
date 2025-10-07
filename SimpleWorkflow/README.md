@@ -116,6 +116,31 @@ nohup uv run python SimpleWorkflow/retry_failed_files.py \
   > SimpleWorkflow/retry_processing.log 2>&1 &
 ```
 
+Save the process ID for later management:
+
+```bash
+echo $! > SimpleWorkflow/.retry.pid
+```
+
+Monitor progress in real-time:
+
+```bash
+tail -f SimpleWorkflow/retry_processing.log
+```
+
+**Gracefully stop the background process:**
+
+```bash
+kill $(cat SimpleWorkflow/.retry.pid)
+```
+
+The script handles SIGTERM signals gracefully, completing current tasks before
+exiting. For immediate termination (not recommended):
+
+```bash
+kill -9 $(cat SimpleWorkflow/.retry.pid)
+```
+
 ### Main Processing Script
 
 **File**: `sql_metadata_to_parsed_markdown_optimized.py`
