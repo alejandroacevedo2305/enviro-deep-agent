@@ -76,6 +76,46 @@ kill $(cat SimpleWorkflow/.optimized.pid)
 
 ## Command Reference
 
+### Retry Failed Files Script
+
+High-performance retry script for failed PDF parsing with configurable
+parallelism:
+
+```bash
+uv run python SimpleWorkflow/retry_failed_files.py \
+  --download-workers 15 \
+  --processing-workers 4
+```
+
+**Key Features:**
+- Auto-detects optimal workers based on system resources
+- Separate semaphores for download vs processing operations
+- Performance metrics tracking (throughput, memory, speed)
+- Memory-aware task scheduling with periodic garbage collection
+- Handles UTF-8 BOM and corrupted files automatically
+- Removes FAILED-*.md files after successful parsing
+
+**Command-line Options:**
+- `--download-workers N`: Number of concurrent download workers (default:
+  auto-detected)
+- `--processing-workers N`: Number of concurrent processing workers (default:
+  auto-detected)
+
+**Example with custom workers:**
+```bash
+uv run python SimpleWorkflow/retry_failed_files.py \
+  --download-workers 20 \
+  --processing-workers 6
+```
+
+**Run in background:**
+```bash
+nohup uv run python SimpleWorkflow/retry_failed_files.py \
+  --download-workers 15 \
+  --processing-workers 4 \
+  > SimpleWorkflow/retry_processing.log 2>&1 &
+```
+
 ### Main Processing Script
 
 **File**: `sql_metadata_to_parsed_markdown_optimized.py`
