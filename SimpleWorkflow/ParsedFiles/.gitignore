@@ -2,3 +2,6 @@
 *
 # But keep this .gitignore file
 !.gitignore
+# Keep the failed_samples directory (used for testing)
+!failed_samples/
+!failed_samples/**

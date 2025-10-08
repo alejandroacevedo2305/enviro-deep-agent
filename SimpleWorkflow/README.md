@@ -101,6 +101,47 @@ uv run python SimpleWorkflow/retry_failed_files.py \
 - `--processing-workers N`: Number of concurrent processing workers (default:
   auto-detected)
 
+#### Finding Optimal Worker Configuration
+
+Before running retries at scale, use the optimizer to find the best configuration
+for your system:
+
+```bash
+# Run optimizer with default settings (tests with 30 files per config)
+uv run python SimpleWorkflow/optimize_retry_workers.py
+
+# Test with more files for more accurate results
+uv run python SimpleWorkflow/optimize_retry_workers.py --sample 50
+
+# Set a custom memory threshold (default 80%)
+uv run python SimpleWorkflow/optimize_retry_workers.py --max-memory 75
+```
+
+The optimizer will:
+- Test multiple worker configurations (conservative to aggressive)
+- Measure throughput, memory usage, and processing times
+- Provide a ranked list of best configurations
+- Show the optimal command ready to run
+
+**Example output:**
+```
+RECOMMENDATION
+======================================================================
+
+✓ Optimal configuration found:
+  Download workers: 20
+  Processing workers: 5
+  Expected throughput: 2.45 files/sec
+  Estimated time for 127 failed files: 0.9 minutes
+
+Recommended command:
+  uv run python SimpleWorkflow/retry_failed_files.py \
+    --download-workers 20 \
+    --processing-workers 5
+```
+
+#### Running Retries with Optimal Configuration
+
 **Example with custom workers:**
 ```bash
 uv run python SimpleWorkflow/retry_failed_files.py \
@@ -195,6 +236,53 @@ uv run python SimpleWorkflow/benchmark_workers.py --sample 25
 # Thorough benchmark with 100 files per config
 uv run python SimpleWorkflow/benchmark_workers.py --sample 100
 ```
+
+### Sample Failed Files Script
+
+**File**: `sample_fails.py`
+
+Creates a sample collection of FAILED-*.md files for testing, debugging, and
+sharing. These samples can be committed to git.
+
+```bash
+uv run python SimpleWorkflow/sample_fails.py [OPTIONS]
+```
+
+**Options:**
+
+- `--size N`: Number of files to sample (default: 10)
+- `--all`: Copy all failed files instead of sampling
+- `--clear`: Clear all files from samples directory
+- `--source-dir DIR`: Source directory (default: SimpleWorkflow/ParsedFiles)
+- `--target-dir DIR`: Target directory for samples (default:
+  SimpleWorkflow/ParsedFiles/failed_samples)
+
+**Examples:**
+
+```bash
+# Sample 10 failed files for quick testing
+uv run python SimpleWorkflow/sample_fails.py --size 10
+
+# Sample 30 failed files (good for optimizer testing)
+uv run python SimpleWorkflow/sample_fails.py --size 30
+
+# Copy all failed files
+uv run python SimpleWorkflow/sample_fails.py --all
+
+# Clear the samples directory
+uv run python SimpleWorkflow/sample_fails.py --clear
+```
+
+**Use cases:**
+
+- **Testing**: Use samples to test optimizer without processing main files
+- **Debugging**: Share specific failed cases for troubleshooting
+- **Reproducibility**: Commit samples to git for consistent testing
+- **Collaboration**: Share failed cases with team members
+
+**Output directory**: `SimpleWorkflow/ParsedFiles/failed_samples/`
+
+This directory is NOT ignored by git and can be committed to version control.
 
 ### Summary Script
 
