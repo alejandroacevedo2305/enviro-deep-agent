@@ -1,0 +1,650 @@
+---
+title: Microsoft Word - 7. NORMAS DE CALIDAD AMBIENTAL.docx
+author: Desconocido
+date: D:20150413191329Z00'00'
+language: es
+type: report
+pages: 9
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**4
+ ANTECEDENTES
+ PARA
+ EVALUAR
+ EL
+ CUMPLIMIENTO
+ DE
+ LAS
+ NORMAS
+ DE
+ CALIDAD
+ AMBIENTAL**
+
+**4.1.Normas
+ ambientales
+ aplicables
+ al
+ proyecto**
+
+|Normativa|Etapa en<br>que aplica al<br>proyecto|Forma de cumplimiento|
+|---|---|---|
+|Ley No 19.300 sobre Bases<br>Generales del Medio Ambiente.<br>Ley No 20.417 que modifica la Ley<br>19.300/1994 y que rediseña la<br>Institucionalidad<br>Ambiental<br>Ministerio Secretaría General de<br>la Presidencia|Todo el<br>proyecto|Mediante el cumplimiento de las normas ambientales<br>vigentes y la implementación de técnicas que permitan<br>reducir y minimizar los impactos ambientales o efectos<br>negativos sobre el medio ambiente.<br>Se presenta a tramitación al SEA de la región de Los<br>Lagos la presente Declaración de Impacto Ambiental.<br>Criterio de cumplimiento:<br>Etapa de Construcción: entendido como un proceso<br>global, el proyecto se inicia con la solicitud de concesión<br>de acuicultura que se ingresa al Servicio Nacional de<br>Pesca y Acuicultura, cumpliendo con los requisitos que<br>exige la Ley y el Reglamento.<br>Etapa de operación: Una vez superadas las etapas de<br>evaluación cartográfica e inspección en terreno de<br>presencia de recursos bentónicos, el proyecto se somete<br>al Sistema de Evaluación de Impacto Ambiental,<br>mediante el ingreso de la respectiva DIA y posterior<br>obtención de la RCA. Cumplidos los requisitos formales<br>para el otorgamiento y entrega material de la concesión<br>el titular cumplirá con las exigencias ambientales y<br>administrativas<br>Etapa de abandono: Desmantelar y asegurar la<br>estabilidad de las infraestructuras utilizada por el<br>proyecto, restaurar cualquier componente ambiental<br>que haya sido afectado durante la etapa de ejecución<br>del proyecto y prevenir futuros impactos sobre aire,<br>sueloy agua.|
+|D.S. (MMA) No 40 de 2012,<br>“Reglamento del Sistema de<br>Evaluación<br>de<br>Impacto<br>Ambiental”.|Todo el<br>proyecto|El D.S. N° 40/2012 establece las disposiciones por las<br>cuales se regirá el Sistema de Evaluación de Impacto<br>Ambiental y la Participación de la comunidad en el<br>proceso de Evaluación de Impacto Ambiental, de<br>conformidad con los preceptos de la Ley N° 19.300<br>sobre Bases Generales del Medio Ambiente.<br>Su forma de cumplimiento es mediante el ingreso de la<br>correspondiente Declaración de Impacto Ambiental, en<br>la cual bajo juramento, se establecen todas las medidas<br>necesarias para el cumplimiento de las normas en pro<br>del medio ambiente. En especifico dar cumplimiento al<br>Permiso<br>Ambiental<br>116<br>“permiso<br>para<br>realizar<br>actividades de acuicultura”, poniendo énfasis en no|
+
+|Col1|Col2|generar efectos adversos en la vida acuática y prevenir<br>el surgimiento de condiciones anaeróbicas en las áreas<br>de acuicultura.<br>Criterio de cumplimiento:<br>Etapa de construcción: Mediante la realización de los<br>trabajos en terreno para la caracterización preliminar de<br>sitio, levantamiento de línea base y elaboración de la<br>DIA que se evaluará ambientalmente conforme a lo<br>establecido en esta norma legal para finalmente<br>obtener la correspondiente RCA.<br>Etapa de Operación: acreditación y obtención de los<br>permisos sectoriales aplicables al proyecto para la<br>correcta operación de éste; medidas necesarias para la<br>mantención de las condiciones aeróbicas, cumplimiento<br>y levantamiento de información ambiental (INFAs).<br>Etapa de abandono: Desmantelar y asegurar la<br>estabilidad de las infraestructuras utilizada por el<br>proyecto, restaurar cualquier componente ambiental<br>que haya sido afectado durante la etapa de ejecución<br>del proyecto y prevenir futuros impactos sobre aire,<br>suelo y agua.|
+|---|---|---|
+|D.S. N 290 / 1991, Reglamento de<br>Concesiones y Autorizaciones de<br>Acuicultura. Aplicable a toda<br>actividad<br>de<br>acuicultura,<br>Reglamento de Concesiones y<br>Autorizaciones de Acuicultura.<br>Aplicable<br>a<br>toda<br>actividad<br>de acuicultura.|Todo el<br>proyecto|_Se dará cumplimiento al artículo 3 referente a que la_<br>_concesión o autorización de acuicultura tiene por objeto_<br>_la realización de actividades de cultivo en el área_<br>_concedida, respecto de la especie o grupo de especies_<br>_hidrobiológicas indicadas en las resoluciones que las_<br>_otorgan, y permiten a sus titulares el desarrollo de sus_<br>_actividades, sin más limitaciones que las expresamente_<br>_establecidas en la ley y sus reglamentos._<br>_Criterio de cumplimiento:_<br>_Etapa de construcción: mediante la tramitación de la_<br>_respectiva_<br>_solicitud_<br>_de_<br>_relocalización_<br>_ante_<br>_las_<br>_autoridades competentes con la entrega de la_<br>_documentación exigida en la Ley y por el presente_<br>_Reglamento._<br>_Etapa de operación: mediante la solicitud de entrega_<br>_material de la concesión de acuicultura y posterior_<br>_levantamiento del Acta de Entrega emitida por la_<br>_Autoridad Marítima respectiva, la que permite dar inicio_<br>_a las obras de construcción del proyecto con la_<br>_instalación de la infraestructura de cultivo la que se_<br>_ubicará dentro del área concesionada._<br>_Etapa de abandono: mediante el retiro de la_<br>_infraestructura y aseguramiento de las condiciones_<br>_ambientalesdelsitioocupado._|
+|Ley N° 20.091 que modifica el<br>D.S. No 430/1991 Ley General de<br>Pescay Acuicultura,Ministeriode|Construcción<br>y operación|Posee modificaciones en sus artículos 2, 67, 68, 69, 77,<br>78, 80, 84, 90, 113, 118, 142, que regulan las<br>concesiones acuícolas y perfeccionan el marco jurídico|
+
+|Economía, Fomento y<br>Reconstrucción.|Col2|aplicable a la actividad de Pesca y Acuicultura.<br>Cumplimiento<br>Se dará cumplimiento a la ley, la cual apunta a promover<br>el máximo crecimiento económico de la acuicultura en<br>un marco de sustentabilidad ambiental e igualdad en el<br>acceso a la actividad.<br>Criterios de cumplimiento:<br>Etapa Construcción: mediante el cumplimiento de la<br>normativa previo al otorgamiento y entrega material de<br>la concesión.<br>Etapa de operación:<br>1. mantención de todas las estructuras de cultivo<br>2. El titular establece que no entorpecerá el<br>desarrollo de otras actividades en el sector, en<br>la medida que éstas no entorpezcan el propio<br>desarrollo y logística del centro;<br>3. Una vez obtenida la RCA y permisos sectoriales,<br>el titular se compromete a dar inicio a la<br>operación del centro. Verificador, se dará aviso<br>a todas las entidades pertinentes del inicio de la<br>operación.<br>4. Cumplimiento del artículo 77 y 78, el proyecto<br>cuenta con un proyecto técnico ingresado ante<br>el Servicio, número de ingreso 94101023. Toda<br>la tramitación previa a la elaboración de la DIA<br>se ha ejecutado conforme lo dictan los<br>presentes artículos, verificación, ingreso de la<br>DIA al SEA.<br>5. Articulo 113 y 118, verificador, se entregará<br>siempre información fidedigna tanto de la<br>operación como de la condición sanitaria del<br>centro, registros entregados a SERNAPESCA<br>registros mantenidos en el centro de cultivo<br>para revisión<br>Articulo 142, se dará cumplimento a lo establecido en<br>dicho artículo, verificador: estadística entregada a<br>SERNAPESCA, con ello queda en evidencia de que el<br>centro sólo se explota para aquello que es objeto, pago<br>de la patente, cumplir con los plazos dados articulo 84|
+|---|---|---|
+|D.S.<br>N°<br>430<br>/<br>91,<br>Texto<br>Refundido,<br>Coordinado<br>y<br>Sistematizado de la Ley General<br>de Pesca y Acuicultura., La<br>mantención de la limpieza y<br>equilibrio ecológico de la zona<br>concedida.<br>Las<br>medidas<br>de<br>protección del medio ambiente<br>como la implementación en el|Operación|_Artículos 74, 86, 87, 118, 158_<br>La mantención de la limpieza y equilibrio ecológico de<br>las zonas concedidas es de responsabilidad del<br>concesionario. Las medidas de protección del medio<br>ambiente serán reglamentadas por Decreto Supremo.<br>Se establecen sanciones para el caso de incumplimiento<br>de las obligaciones anteriores. Por último, las áreas<br>marítimas que forman parte de áreas silvestres<br>protegidasnopuedenserconcesionadas.|
+
+|centro de técnicas de manejo y<br>tecnologías tendientes a reducir y<br>eliminar efectos negativos sobre<br>el medio ambiente. Se establecen<br>sanciones para el caso de<br>incumplimiento de las<br>obligaciones anteriores.|Col2|Criterio de cumplimiento: la empresa cuenta con planes<br>de contingencia y procedimientos, cada uno de los<br>cuales cuenta con registros asociados, en específico para<br>la mantención de la limpieza y equilibrio ecológico, la<br>empresa cuenta con procedimientos de limpieza de<br>playas, en el centro se mantendrán los registros<br>respectivos para ser revisados cada vez que la autoridad<br>estime pertinente.|
+|---|---|---|
+|D.S. (MINECON) No 320 de 2001 y<br>sus modificaciones, Reglamento<br>Ambiental para la Acuicultura.|Todo el<br>proyecto|Mediante el desarrollo de la CPS que acompaña la DIA y<br>los futuros monitoreos ambientales así como también<br>los informativos ambientales.<br>Además se cumplirá durante todas las etapas del<br>proyecto con las especificaciones del Articulo 4:<br>Etapa de construcción: Se instalará la infraestructura del<br>centro de cultivo evitando cualquier impacto sobre el<br>entorno, en particular el desprendimiento de materiales<br>o residuos que puedan generar escombros en el sector<br>costero aledaño.<br>Etapa de operación: mantener limpia el área y terrenos<br>aledaños al centro de cultivo de todo residuo generado<br>por éste.<br>Se dispondrán los desechos sólidos o líquidos en<br>depósitos y condiciones que no resulten perjudiciales al<br>medio circundante. Se retirará todo tipo de soporte no<br>degradable o degradable como sistema de fijación al<br>fondo, al término de la vida útil del centro. Impedir que<br>las estructuras tengan contacto con el fondo, se<br>utilizaran sistemas de flotación que no permitan ningún<br>tipo de desprendimiento.<br>Etapa de abandono: retiro de toda la infraestructura del<br>centro de cultivo, manteniendo las condiciones<br>ambientales del sitio que fue ocupado.<br>Verificador: se mantendrá en el centro de cultivo<br>registros que acrediten el cumplimiento del RAMA, se<br>mantendrá de manera digital la CPS e INFAs, así también<br>registros de la faena de limpieza de playas, registros de<br>verificación del estado de las estructuras a fin de evitar<br>uneventualevento.|
+|Resolución (SUBPESCA) No 3612<br>de 2009, Establece contenidos y<br>metodologías para elaborar la<br>caracterización preliminar de sitio<br>y la información ambiental.<br>|Todo el<br>proyecto|_Mediante el desarrollo de la CPS que acompañó la DIA_<br>_Original y los futuros monitoreos ambientales así como_<br>_también los informativos ambientales._<br>_Además, se dará cumplimiento con:_<br>Etapa de Construcción: La materialización del proyecto<br>con la instalación de toda la infraestructura del mismo.<br>Para acreditar que el centro entrará en la fase de<br>operación se debe obtener RCA favorable para dar inicio<br>a la operación. Etapa de operación: corresponde la<br>realizacióndelaCPSqueacompañalaDIAy losfuturos|
+
+|Col1|Col2|informativos ambientales (INFAs). Etapa de abandono:<br>informe a las autoridades de término de actividades del<br>centro.<br>Verificador: se mantendrá en formato digital la CPS y las<br>INFAs en el centro.|
+|---|---|---|
+|D.F.L. No 725 de 1967 (MINSAL)<br>Código Sanitario|Operación|Los residuos sólidos que se generen y los domésticos<br>asociados, serán depositados en vertederos autorizados.<br>Verificador: se mantendrá en la federación un registro<br>que acredite el cumplimiento de lo dispuesto en el<br>párrafo precedente, así también se mantendrá en<br>manos del titular en formato digital y/o papel<br>certificados de la disposición de los residuos en<br>vertederoautorizado.|
+|D.S. N° 594 de 1999 (MINSAL)<br>Reglamento<br>sobre<br>las<br>condiciones<br>sanitarias<br>y<br>ambientales<br>básicas<br>de<br>los<br>lugares de trabajo.|Construcción<br>y Operación|Establece las Normas sobre las condiciones ambientales<br>y sanitarias básicas en los lugares de trabajo y de salud<br>ocupacional; especialmente en la provisión de agua<br>potable y servicios higiénicos en el lugar de trabajo. El<br>proyecto contempla dar fiel cumplimiento a lo<br>establecido por dicha normativa, sobre todo en lo que<br>respecta a servicios higiénicos y circuito de agua<br>potable.<br>El personal que labora en el centro son habitantes de la<br>comuna de Maullín, es decir habitantes de la zona y<br>aledaños al sector de la concesión, de manera que<br>puedan acceder fácilmente a sus hogares para efectos<br>de colación y servicios higiénicos, teniendo todas las<br>facilidadesparaqueestosecumpla.|
+|D. Ex. (MINECON) No 225 de 1995<br>y sus modificaciones, Establece<br>protección de los mamíferos,<br>aves y reptiles marinos.|Todo el<br>Proyecto|Se establece medidas de protección, que prohíben la<br>caza y captura de mamíferos marinos, el Titular se<br>compromete a cumplir con lo dispuesto en ambos<br>Decretos supremos, aun cuando por el tipo de cultivo no<br>se prevé que pueda existir enmalles, en caso de ocurrir<br>algún evento de esta naturaleza se Dará aviso a la<br>autoridad marítima cada vez que por alguna eventual<br>circunstancia se vea atrapado algún individuo en las<br>boyas o alguna estructura del centro de cultivos.<br>Por el tipo de cultivo no se prevé afectación a<br>mamíferos,avesy reptilesmarinos.|
+|D. Ex. (MINECON) No 765 de<br>2004, Establece protección del<br>lobo marino común.|Todo el<br>Proyecto|El Titular se compromete a cumplir con lo dispuesto en<br>ambos Decretos supremos, para ello tomará medidas<br>para<br>prevenir<br>enmalles<br>y<br>capacitación<br>de<br>los<br>trabajadores en preservación de dichos animales.<br>Por el tipo de cultivo no se prevé afectación a<br>mamíferos,avesy reptilesmarinos.|
+|Ley No 17.288 de Monumentos<br>Nacionales|Todo<br>el<br>Proyecto<br>|artículo 1o: se establece que son monumentos<br>nacionales y quedan bajo la tuición y protección del<br>Estado, lo lugares, ruinas, construcciones u objetos de<br>carácter histórico o artístico; los enterratorios o|
+
+|Col1|Col2|cementerios u otros restos de los aborígenes,<br>paleontológicos o de formación natural, que existan<br>bajo o sobre la superficie del territorio nacional o en la<br>plataforma submarina de sus aguas jurisdiccionales y<br>cuya conservación interesa a la historia, al arte o a la<br>ciencia; los santuarios de la naturaleza; los<br>monumentos, estatuas, columnas, pirámides, fuentes,<br>placas, coronas, inscripciones y, en general, los objetos<br>que estén destinados a permanecer en un sitio público,<br>con carácter conmemorativo. Su tuición y protección se<br>ejercerá por medio del Consejo de Monumentos<br>Nacionales, en la forma que determina la presente ley.<br>Asimismo, Crea el Consejo de Monumentos Nacionales,<br>entre otros aspectos.<br>Cumplimiento<br>Ante cualquier hallazgo de carácter histórico,<br>antropológico, arqueológico o paleontológico, el Titular<br>se compromete a dar aviso a las autoridades<br>competentes y al Consejo de Monumentos Nacionales,<br>cumpliendo así con el Artículo 26 de la Ley No 17.288 y<br>Artículo 20 de su Reglamento. Lo anterior es también<br>válido ante la eventualidad de realizar un hallazgo de<br>restos de naufragio; por lo que el Titular se compromete<br>a dar oportuno aviso a la autoridad correspondiente, si<br>durante la instalación del proyecto se encontraran<br>vestigios que den cuenta de la existencia de dicho<br>patrimonio; cumpliendo así con el D.E. N° 311 de<br>08/10/1999 del Ministerio de Educación, que hace<br>referencia a la declaración genérica de Monumento<br>Histórico Nacional al Patrimonio Cultural Subacuático de<br>más de 50 años de antigüedad, existente en el fondo de<br>los ríos y lagos, de las aguas interiores y del mar<br>territorial.|
+|---|---|---|
+|D.S. No 1/1992 Reglamento para<br>el control de la contaminación<br>acuática<br>Ministerio de Defensa<br>|Todo<br>el<br>proyecto<br>|Íntegro.<br>Establece el régimen de prevención, vigilancia y<br>combate de la contaminación en las aguas de mar,<br>puertos, ríos y lagos sometidos a la jurisdicción nacional.<br> <br>Cumplimiento<br>Se cumplirá las disposiciones de la Armada referente al<br>no vertimiento de hidrocarburos y mezclas oleosas,<br>aguas sucias y basura en aguas bajo la jurisdicción de la<br>Armada.<br>Toda evacuación deliberada de desechos u otras<br>materias, efectuadas desde buques, artefactos navales,<br>Aeronaves u otras construcciones en el mar, de acuerdo<br>con las normas del “Convenio sobre Prevención de la|
+
+|Col1|Col2|Contaminación del Mar por Vertimiento de Desechos y<br>otras Materias”, de 1972. Se entiende con el mismo<br>significado el hundimiento deliberado del mismo<br>material nombrado anteriormente.|
+|---|---|---|
+|Resolución N° 1892/2009, D.Ex<br>(Minecom),<br>Establece<br>veda<br>extractiva para el recurso Lobo<br>Marino Común, en el área y<br>periodo que indica.|Operación|El Titular se compromete a cumplir con lo dispuesto en<br>el Decreto, aún cuando por el tipo de cultivo no se prevé<br>afectación a lobo marino común.<br>Verificador: el titular mantiene el compromiso de<br>capacitar al personal de acuerdo a lo indicado por el<br>RAMA|
+|Ley 20.293/2008, Modifica Ley<br>18.892, Protege a los cetáceos e<br>introduce modificaciones en la<br>ley 18.892 de LGPA.<br>|Construcción<br>y Operación|_Declárese los espacios marítimos de soberanía y_<br>_jurisdicción nacional, como zona libre de caza de_<br>_cetáceos sólo para los efectos previstos en esta ley._<br>_Se prohíbe dar muerte, cazar, capturar, acosar, tener,_<br>_poseer, transportar, desembarcar, elaborar o realizar_<br>_cualquier proceso de transformación, así como la_<br>_comercialización o almacenamiento de cualquier especie_<br>_de cetáceo que habite o surque los espacios marítimos_<br>_de soberanía y jurisdicción nacional._<br>Por el tipo de cultivo y ubicación de este, no se prevé<br>afectacióna cetáceos|
+|D.S. N 179 / 2008, (Subpesca),<br>Establece prohibición de captura<br>de especies de cetáceos en aguas<br>de jurisdicción nacional.|Todo el<br>proyecto|Se dará cumplimiento a todo lo relacionado con el<br>reglamento, tanto en la etapa de construcción como de<br>operación. En particular se dará cumplimiento al<br>Artículo 1o, en el cual se prohíbe, en forma permanente,<br>la captura con resultado de muerte y la retención de<br>animales vivos, de los ejemplares especies de cetáceos<br>presentes en aguas bajo jurisdicción nacional indicados<br>en dicho artículo.<br>Por el tipo de cultivo y ubicación de este, no se prevé<br>afectacióna cetáceos|
+
+**4.2.Permisos
+ Ambientales
+ Sectoriales
+ (Art.
+ 12
+ bis
+ D,
+ Ley
+ 20.417)**
+
+El
+ proyecto
+ presentado
+ en
+ esta
+ Declaración
+ de
+ Impacto
+ Ambiental
+ involucra
+ el
+ siguiente
+ permiso
+ambiental
+ sectorial:
+
+**Artículo
+ 116
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012:** Permiso
+ para
+ realizar
+ actividades
+ de
+ acuicultura:
+
+El
+ permiso
+ para
+ realizar
+ actividades
+ de
+ acuicultura,
+ será
+ el
+ establecido
+ en
+ el
+ inciso
+ 3o
+ del
+ artículo
+87
+ del
+ Decreto
+ Supremo
+ N°
+ 430
+ de
+ 1991,
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Reconstrucción,
+que
+ fija
+ el
+ texto
+ refundido,
+ coordinado
+ y
+ sistematizado
+ de
+ la
+ Ley
+ N°
+ 18.892,
+ de
+ 1989
+ y
+ sus
+modificaciones,
+ Ley
+ General
+ de
+ Pesca
+ y
+ Acuicultura.
+
+Los
+ requisitos
+ para
+ su
+ otorgamiento
+ consisten
+ en
+ no
+ generar
+ efectos
+ adversos
+ en
+ la
+ vida
+ acuática
+ y
+prevenir
+ el
+ surgimiento
+ de
+ condiciones
+ anaeróbicas
+ en
+ las
+ áreas
+ de
+ la
+ acuicultura.
+
+El
+ contenido
+ técnico
+ y
+ formal
+ que
+ debe
+ presentarse
+ para
+ acreditar
+ su
+ cumplimiento
+ corresponde
+ a
+la
+ caracterización
+ preliminar
+ del
+ sitio
+ (CPS)
+ o
+ información
+ ambiental
+ (INFA),
+ según
+ corresponda,
+ de
+acuerdo
+ a
+ los
+ contenidos
+ y
+ metodologías
+ de
+ elaboración
+ establecidos
+ en
+ la
+ Resolución
+ Exenta
+ N°
+3.612,
+ de
+ 2009,
+ de
+ la
+ Subsecretaría
+ de
+ Pesca,
+ o
+ aquella
+ que
+ la
+ reemplace.
+
+En
+ los
+ capítulos
+ “Planes
+ de
+ contingencia”
+ y
+ "Compromisos
+ ambientales",
+ se
+ establecen
+ todas
+ las
+medidas
+ para
+ minimizar
+ los
+ posibles
+ y
+ eventuales
+ impactos
+ que
+ pudiese
+ ocasionar
+ el
+ proyecto
+ en
+su
+ etapa
+ de
+ operación.
+
+Se
+ realizó
+ una
+ CPS,
+ cuyos
+ resultados
+ se
+ presentan
+ a
+ continuación.
+
+De
+ acuerdo
+ a
+ los
+ resultados
+ obtenidos
+ en
+ el
+ presente
+ documento
+ se
+ puede
+ establecer
+ que
+ el
+ área
+concesionada,
+ en
+ términos
+ generales,
+ presenta
+ un
+ buen
+ estado
+ ambiental
+ sin
+ evidenciarse
+ estrés
+ambiental
+ significativo.
+
+De
+ acuerdo
+ a
+ las
+ características
+ del
+ sistema
+ de
+ producción
+ de
+ la
+ solicitud,
+ así
+ como
+ su
+ producción,
+el
+ centro
+ se
+ clasifica
+ en
+ categoría
+ 0
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+ numeral
+ 5
+ de
+ la
+ Resolución
+(SUBPESCA)
+ N°
+ 3612/2009.
+
+Para
+ caracterizar
+ el
+ área
+ solicitada
+ en
+ concesión,
+ se
+ realizó
+ un
+ levantamiento
+ batimétrico
+ entre
+ los
+días
+ 03
+ y
+ 04
+ de
+ marzo
+ de
+ 2015.
+ Este
+ levantamiento
+ se
+ realizó
+ durante
+ los
+ periodos
+ de
+ marea
+ alta,
+dadas
+ las
+ condiciones
+ del
+ sector
+ solicitado
+ en
+ concesión.
+ De
+ esta
+ forma,
+ al
+ realizar
+ el
+ cálculo
+ de
+ las
+profundidades
+ referidas
+ al
+ nivel
+ de
+ reducción
+ de
+ sondas,
+ los
+ valores
+ resultantes
+ de
+ las
+ sondas
+medidas
+ ubican
+ la
+ solicitud
+ en
+ sector
+ de
+ playa,
+ más
+ que
+ en
+ fondo
+ de
+ río.
+
+Para
+ efectos
+ de
+ presentación
+ del
+ plano
+ batimétrico
+ en
+ el
+ anexo
+ correspondiente
+ a
+ la
+ CPS
+ de
+ la
+solicitud,
+ se
+ ha
+ considerado
+ presentar
+ las
+ profundidades
+ referidas
+ al
+ nivel
+ medio
+ del
+ río
+(profundidades
+ crudas
+ obtenidas
+ en
+ el
+ levantamiento).
+ Dicho
+ lo
+ anterior,
+ el
+ área
+ solicitada
+ en
+concesión
+ presenta
+ profundidades
+ referidas
+ al
+ nivel
+ medio
+ del
+ río
+ que
+ fluctúan
+ entre
+ 0,5
+ metros
+ y
+2,6
+ metros.
+
+Adicionalmente,
+ se
+ tomó
+ una
+ muestra
+ de
+ sedimento
+ aproximadamente
+ en
+ el
+ punto
+ medio
+ de
+ la
+solicitud,
+ en
+ coordenadas
+ N=
+ 5.386.738
+ y
+ E=
+ 610.831,
+ para
+ realizar
+ un
+ análisis
+ de
+ contenido
+ de
+materia
+ orgánica
+ en
+ el
+ sedimento
+ y
+ sus
+ características
+ granulométricas.
+ El
+ resultado
+ de
+ la
+ muestra
+indica
+ un
+ porcentaje
+ de
+ materia
+ orgánica
+ de
+ 1,48%
+ y
+ con
+ un
+ tipo
+ de
+ sustrato
+ compuesto
+principalmente
+ por
+ arena
+ fina
+ (63,18%)
+ y
+ arena
+ muy
+ fina
+ (26,84%).
+
+De
+ la
+ misma
+ forma,
+ el
+ valor
+ de
+ Potencial
+ Redox
+ medido
+ en
+ la
+ muestra
+ fue
+ de
+ 562
+ mV
+ y
+ el
+ pH
+ de
+7,81.
+
+En
+ base
+ a
+ una
+ revisión
+ general
+ de
+ todos
+ los
+ indicadores
+ ambientales,
+ se
+ puede
+ señalar
+ que
+ el
+sector
+ presenta
+ buenas
+ condiciones
+ ambientales
+ dentro
+ del
+ área
+ ubicada
+ en
+ el
+ Río
+ San
+ Pedro
+Nolasco,
+ al
+ Sur
+ de
+ Península
+ La
+ Isla
+ en
+ la
+ comuna
+ de
+ Maullín,
+ y
+ que
+ ésta
+ se
+ encuentra
+ sin
+evidencias
+ de
+ un
+ impacto
+ ambiental.
+
+Ver
+ informe
+ CPS
+ en **Anexo
+ 3** .

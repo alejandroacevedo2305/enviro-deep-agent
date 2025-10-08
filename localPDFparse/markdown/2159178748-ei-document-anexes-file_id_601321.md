@@ -1,0 +1,21 @@
+---
+title: Model
+author: Desconocido
+date: D:20230323121832
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|8.50<br>PATIO<br>1 2 5 8 9 10<br>55.0 196.0 103.5 23.5 145.0<br>535.0<br>60.0 180.0 55.0 180.0 60.0<br>18.0 499.0 18.0<br>V2 V3<br>130.0 185.0<br>COMEDOR<br>E ESTAR E<br>370.0<br>CALEFONT<br>MIGON<br>371.5 RA|Col3|Col4|
+|---|---|---|---|
+||_SALA DE E_<br>_17.00_<br>_0.125_<br>_-_<br>_N.P.T_<br>_RADIER HOR_<br>_LAVADO_<br>_COCINA_<br><br>_179.0_<br>_188.0_<br>_299._<br>_235.0_<br>_68.0_<br>_72.0_<br>_PV1_<br>_130.0_<br>_185.0_<br>_A_<br>_B_<br>_C_<br>_D_<br>_64.0_<br>_9.0_<br>_4.0_|_STAR_<br>_B.VISITA_<br>_6_<br>_5_<br>_1_<br>_2_<br>_3_<br>_4_<br>_ACCESO_<br>_17.00_<br>_7_<br>_8_<br>_12_<br>_11_<br>_10_<br>_9_<br>_PROYECCION 2° PISO_<br>_PROYECCION 2° PISO_<br>_0.125_<br>_-_<br>_N.P.T_<br>_13_<br>_330.0_<br>_103.5_<br>_25.025.025.0_<br>~~_77_~~_.5_<br>_95.5_<br>_1_~~_2_~~_.0_<br>_0_<br>_252.0_<br>_90.0_<br>_75.0_<br>_77.0_<br>_8.0_<br>_111.0_<br>_P1_<br>_P2_<br>_V4_<br>_152.5_<br>_78.5_<br>_78.5_<br>_185.0_<br>_A_<br>~~_B_~~<br>_C_<br>_D_<br>_00.0_<br>_250.0_<br>_70.0_|_12.0_<br>_8.0_<br>_78.5_<br>_18.0_<br>_371.0_<br>_18.0_<br>_78.5_|
+
+|Col1|8.50<br>1 2 3 4 6 7 9 10<br>55.0 102.0 59.0 84.0 47.2 145.0<br>539.0 30.8<br>127.0 100.0 91.0 100.0 121.0<br>11.0 293.0 9.0 215.0 11.0<br>V6 V6<br>MTS. MTS. MTS. MTS. MTS. MTS.<br>1,20 1,60 2,30 2,30 1,60 1,20<br>ALTURA= ALTURA= ALTURA= ALTURA= ALTURA= ALTURA=<br>249.0<br>DORMITORIO SALA DE ESTAR 309.0 318.0 309.0<br>E E<br>293.0<br>150.0 8.0 135.0 215.0<br>PROYECCION AREA DE CLOSET<br>0.0|Col3|Col4|Col5|
+|---|---|---|---|---|
+||_8.50_<br>_PROYECCION AREA DE CLOSET_<br>_SALA DE ESTAR_<br>_ DORMITORIO_<br>_10_<br>_9_<br>_2_<br>_1_<br><br>_V6_<br>_V6_<br>_E_<br>_E_<br>_3_<br>_4_<br>_6_<br>_7_<br>_55.0_<br>_102.0_<br>_30.8_<br>_47.2_<br>_145.0_<br>_539.0_<br>_127.0_<br>_100.0_<br>_91.0_<br>_100.0_<br>_121.0_<br>_11.0_<br>_293.0_<br>_9.0_<br>_215.0_<br>_11.0_<br>_150.0_<br>~~_8.0_~~<br>_135.0_<br>_215.0_<br>_0.0_<br>_249.0_<br>_293.0_<br>_309.0_<br>_318.0_<br>_309.0_<br>_ALTURA= 1,20 MTS._<br>_ALTURA= 1,60 MTS._<br>_ALTURA= 1,60 MTS._<br>_ALTURA= 1,20 MTS._<br>_ALTURA= 2,30 MTS._<br>_ALTURA= 2,30 MTS._<br>_59.0_<br>_84.0_|_100.0_<br>_91.0_<br>_100.0_<br>_121.0_<br>_3.0_<br>_9.0_<br>_215.0_<br>_1_|_100.0_<br>_91.0_<br>_100.0_<br>_121.0_<br>_3.0_<br>_9.0_<br>_215.0_<br>_1_|_100.0_<br>_91.0_<br>_100.0_<br>_121.0_<br>_3.0_<br>_9.0_<br>_215.0_<br>_1_|
+||_8.50_<br>_PROYECCION AREA DE CLOSET_<br>_SALA DE ESTAR_<br>_ DORMITORIO_<br>_10_<br>_9_<br>_2_<br>_1_<br><br>_V6_<br>_V6_<br>_E_<br>_E_<br>_3_<br>_4_<br>_6_<br>_7_<br>_55.0_<br>_102.0_<br>_30.8_<br>_47.2_<br>_145.0_<br>_539.0_<br>_127.0_<br>_100.0_<br>_91.0_<br>_100.0_<br>_121.0_<br>_11.0_<br>_293.0_<br>_9.0_<br>_215.0_<br>_11.0_<br>_150.0_<br>~~_8.0_~~<br>_135.0_<br>_215.0_<br>_0.0_<br>_249.0_<br>_293.0_<br>_309.0_<br>_318.0_<br>_309.0_<br>_ALTURA= 1,20 MTS._<br>_ALTURA= 1,60 MTS._<br>_ALTURA= 1,60 MTS._<br>_ALTURA= 1,20 MTS._<br>_ALTURA= 2,30 MTS._<br>_ALTURA= 2,30 MTS._<br>_59.0_<br>_84.0_|_SALA DE ESTAR_<br>_ORIO_<br><br>_V6_<br>_V6_<br>~~_8.0_~~<br>_135.0_<br>_215.0_<br>_0.0_<br>_249.0_<br>_3.0_<br>_309.0_<br>_318.0_<br>_309.0_<br>_ALTURA= 1,60 MTS._<br>_ALTURA= 1,20 MTS._<br>_ALTURA= 2,30 MTS._|||
+||_17.00_<br>_ DOR_<br>_V8_<br>_V8_<br>_BAÑO 1_<br>_BAÑO 2_<br>_A_<br>_B_<br>_C_<br>_D_<br>_79.0_<br>_38.0_<br>_128.0_<br>_8.0_<br>_120.0_<br>_209.0_<br>_209.0_<br>_ALTURA= 1,655 MTS._<br>_ALTURA= 2,30 MTS._<br>_22.0_|_7_<br>_8_<br>_12_<br>_11_<br>_10_<br>_9_<br>_6_<br>_5_<br>_2_<br>_3_<br>_4_<br>_13_<br>_MITORIO_<br>_P3_<br>_P3_<br>_P3_<br>_P3_<br>_P3_<br>_A_<br>_6_<br>_82.5_<br>_82.5_<br>_75.0_<br>_9.0_<br>_74.0_<br>_10.0_<br>_131.0_<br>_68.5_<br>_20.0_<br>_77.5_<br>_219.0_<br>_75.0_<br>_9.0_<br>_75.0_<br>_91.0_<br>_8.0_<br>_90.0_<br>_300.0_<br>_75.0_<br>_9.0_<br>_106.0_<br>_8.0_<br>_185.0_<br>_262.0_<br>_8.0_<br>_75.0_<br>_45.0_<br>_CLOSET_<br>_48.0_<br>_269.0_<br>_317.0_<br>_ALTURA= 1,655 MTS._<br>_ALTURA= 2,30 MTS._<br>_ALTURA= 1,60 MTS._<br>_ALTURA= 1,20 MTS._<br>_ALTURA= 2,30 MTS._<br>_119.0_<br>_14.0_<br>_5.0_|_17.00_<br>_V7_<br>_B_<br>_C_<br>_D_<br>|_11.0_<br>_259.0_<br>_11.0_<br>_119.0_<br>_9.0_<br>_165.0_<br>_10.0_|

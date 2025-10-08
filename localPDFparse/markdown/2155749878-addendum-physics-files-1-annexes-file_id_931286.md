@@ -1,0 +1,55 @@
+---
+title: Sin título
+author: Camila Castillo Robles
+date: D:20230330175434-03'00'
+language: es
+type: general
+pages: 3
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|TABLA 14: ARTÍCULO 11 LETRA D) DE LA LEY 19.300 Y ART. N° 8 DEL REGLAMENTO DEL SEIA.|Col2|
+
+<!-- INICIO TABLA 14 -->
+<!-- Confianza de extracción: 1.00 -->
+<!-- Contexto previo: -->
+<!-- |Existencia de recursos y áreas<br>protegidas, sitios prioritarios para la<br>conservación, humedales protegidos,<br>glaciares y zona con valor ambiental|De acuerdo con los resultados de los análisis espaciales del área de influencia del<br>Proyecto y las áreas protegidas y sitios prioritarios definidas en el Of. Ord D.E. N°<br>130844/13, complementado con el Ord. D.E. N° 161081/16, ambos del Servicio de<br>Evaluación Ambiental, se concluye que en el Área de Influencia del Proyecto se<br>encuentra en el límite del Sitio Prioritario para la Conservación de la Biodiversidad<br>“Cordillera El Melón”. <br>En el área de influencia del Proyecto no existen glaciares que puedan verse impactados<br>por las obras y actividades del Proyecto.<br>En el área de influencia del Proyecto no existen áreas con valor para la observación<br>astronómica con fines de investigación científica que puedan verse impactados por las<br>obras y actividades del Proyecto.| |<br>Los siguientes antecedentes justifican que el proyecto o actividad [_no_] se localización en o próxima a poblaciones, recursos y áreas<br>protegidas, sitios prioritarios para la conservación, humedales protegidos y glaciares, susceptibles de ser afectados, así como el<br>valor ambiental del territorio en que se pretende emplazar, en consideración a lo dispuesto en el artículo 8 del Reglamento del SEIA.<br>|<br>Los siguientes antecedentes justifican que el proyecto o actividad [_no_] se localización en o próxima a poblaciones, recursos y áreas<br>protegidas, sitios prioritarios para la conservación, humedales protegidos y glaciares, susceptibles de ser afectados, así como el<br>valor ambiental del territorio en que se pretende emplazar, en consideración a lo dispuesto en el artículo 8 del Reglamento del SEIA.<br>| |Susceptibilidad de afectar poblaciones<br>protegidas, considerando la extensión,<br>magnitud o duración de la intervención<br>en áreas donde ellas habitan.|En el Área de Influencia del Proyecto existen dos Asociaciones Indígenas, las cuales<br>corresponden a la Asociación Multicultural Newen Mapu y Asociación Newen Folle.<br>Ambas asociaciones indígenas no desarrollan actividades en el entorno inmediato al<br>proyecto, sino que estas actividades de tipo cultural se suscriben a la zona urbana de la<br>ciudad de Cabildo, específicamente en el Parque Municipal.<br> <br>El Proyecto de Disposición de Relaves en Pasta Interior Mina de Minera Las Cenizas,<br>se emplaza íntegramente al interior de la faena Cabildo, en terrenos del Minera Las<br>Cenizas, por lo que no generará alteraciones ni afectación a los sistemas de vida de los<br>grupos humanos pertenecientes a pueblos indígenas presentes en el Área de<br>Influencia.| |Susceptibilidad de afectar recursos y<br>áreas protegidas, sitios prioritarios para<br>la conservación, humedales protegidos,<br>glaciares<br>o <br>territorios<br>con<br>valor<br>ambiental, se considerará la extensión,<br>magnitud o duración de la intervención<br>de sus partes, obras o acciones, así<br>como de los impactos generados por el<br>proyecto o actividad, teniendo en<br>especial consideración los objetos de<br>protección que se pretenden resguardar.|Una parte de las obras, partes y acciones del Proyecto se localiza en el referido Sitio<br>Prioritario. En específico, el Proyecto contempla la construcción de dos tuberías para<br>el transporte de relaves que parte de su trazado se emplazaría parcialmente dentro<br>del Sitio Prioritario.<br> <br>Cabe destacar que, las actividades del Proyecto se realizarán en un área que se<br>encuentra previamente intervenida por actividad extractiva histórica y que el Proyecto<br>utilizará instalaciones en desuso, tales como los caserones, y caminos existentes que<br>actualmente se encuentran en operación. En cuanto a la susceptibilidad de afectación<br>del objeto de conservación del referido Sitio Prioritario, este representa<br>vegetacionalmente a la formación denominada “Bosque Esclerófilo Costero” donde se| -->
+
+**Tabla 14: Artículo 11 Letra D) de la Ley 19.300 y Art. N° 8 del Reglamento del SEIA. Página **1** de **3****
+
+| Estación | Línea<br>Base<br>mg/m2-<br>dia<br>(nov<br>20 a<br>oct 21) | Fase<br>Construcción,<br>FC +<br>operación<br>actual, mg/m2-<br>dia | Fase<br>Operación,<br>FO, mg/m2-<br>dia | LB +<br>Aporte<br>FC<br>mg/m2-<br>dia | LB +<br>Aporte<br>FO<br>mg/m2-<br>dia |
+| --- | --- | --- | --- | --- | --- |
+| Punto A | 77,8 | 0,19 | 0,05 | 77,99 | 77,85 |
+| Punto B | 72,1 | 5,44 | 2,35 | 77,54 | 74,45 |
+
+<!-- Estadísticas: 2 filas, 6 columnas -->
+<!-- Contexto posterior: -->
+<!-- TABLA 14: Artículo 11 Letra D) de la Ley 19.300 y Art. N° 8 del Reglamento del SEIA. Página **2** de **3** TABLA 14: Artículo 11 Letra D) de la Ley 19.300 y Art. N° 8 del Reglamento del SEIA. Página **3** de **3** -->
+<!-- FIN TABLA 14 -->
+
+|---|---|
+|Sobre la inexistencia de localización en o próxima a poblaciones, recursos y áreas protegidas, sitios prioritarios para la conservación,<br>humedales protegidos y glaciares, susceptibles de ser afectados, así como el valor ambiental del territorio en que se pretende<br>emplazar <br>|Sobre la inexistencia de localización en o próxima a poblaciones, recursos y áreas protegidas, sitios prioritarios para la conservación,<br>humedales protegidos y glaciares, susceptibles de ser afectados, así como el valor ambiental del territorio en que se pretende<br>emplazar <br>|
+|Impacto ambiental 25 <br>|Afectación de SP Cordillera El Melón por polvo sedimentable|
+|Parte, obra o acción que lo genera <br>|Instalación de la tubería, las superficies para las maniobras de construcción y<br>superficies para la instalación de obras de apoyo<br>|
+|Fase en que se presenta <br>|Construcción, <br>|
+|Impacto ambiental 26 <br>|Afectación población indígena|
+|Parte, obra o acción que lo genera <br>|No aplica|
+|Fase en que se presenta|No aplica|
+|Existencia de poblaciones protegidas|En el área del Proyecto no existen comunidades indígenas|
+|Existencia de recursos y áreas<br>protegidas, sitios prioritarios para la<br>conservación, humedales protegidos,<br>glaciares y zona con valor ambiental|De acuerdo con los resultados de los análisis espaciales del área de influencia del<br>Proyecto y las áreas protegidas y sitios prioritarios definidas en el Of. Ord D.E. N°<br>130844/13, complementado con el Ord. D.E. N° 161081/16, ambos del Servicio de<br>Evaluación Ambiental, se concluye que en el Área de Influencia del Proyecto se<br>encuentra en el límite del Sitio Prioritario para la Conservación de la Biodiversidad<br>“Cordillera El Melón”. <br>En el área de influencia del Proyecto no existen glaciares que puedan verse impactados<br>por las obras y actividades del Proyecto.<br>En el área de influencia del Proyecto no existen áreas con valor para la observación<br>astronómica con fines de investigación científica que puedan verse impactados por las<br>obras y actividades del Proyecto.|
+|<br>Los siguientes antecedentes justifican que el proyecto o actividad [_no_] se localización en o próxima a poblaciones, recursos y áreas<br>protegidas, sitios prioritarios para la conservación, humedales protegidos y glaciares, susceptibles de ser afectados, así como el<br>valor ambiental del territorio en que se pretende emplazar, en consideración a lo dispuesto en el artículo 8 del Reglamento del SEIA.<br>|<br>Los siguientes antecedentes justifican que el proyecto o actividad [_no_] se localización en o próxima a poblaciones, recursos y áreas<br>protegidas, sitios prioritarios para la conservación, humedales protegidos y glaciares, susceptibles de ser afectados, así como el<br>valor ambiental del territorio en que se pretende emplazar, en consideración a lo dispuesto en el artículo 8 del Reglamento del SEIA.<br>|
+|Susceptibilidad de afectar poblaciones<br>protegidas, considerando la extensión,<br>magnitud o duración de la intervención<br>en áreas donde ellas habitan.|En el Área de Influencia del Proyecto existen dos Asociaciones Indígenas, las cuales<br>corresponden a la Asociación Multicultural Newen Mapu y Asociación Newen Folle.<br>Ambas asociaciones indígenas no desarrollan actividades en el entorno inmediato al<br>proyecto, sino que estas actividades de tipo cultural se suscriben a la zona urbana de la<br>ciudad de Cabildo, específicamente en el Parque Municipal.<br> <br>El Proyecto de Disposición de Relaves en Pasta Interior Mina de Minera Las Cenizas,<br>se emplaza íntegramente al interior de la faena Cabildo, en terrenos del Minera Las<br>Cenizas, por lo que no generará alteraciones ni afectación a los sistemas de vida de los<br>grupos humanos pertenecientes a pueblos indígenas presentes en el Área de<br>Influencia.|
+|Susceptibilidad de afectar recursos y<br>áreas protegidas, sitios prioritarios para<br>la conservación, humedales protegidos,<br>glaciares<br>o <br>territorios<br>con<br>valor<br>ambiental, se considerará la extensión,<br>magnitud o duración de la intervención<br>de sus partes, obras o acciones, así<br>como de los impactos generados por el<br>proyecto o actividad, teniendo en<br>especial consideración los objetos de<br>protección que se pretenden resguardar.|Una parte de las obras, partes y acciones del Proyecto se localiza en el referido Sitio<br>Prioritario. En específico, el Proyecto contempla la construcción de dos tuberías para<br>el transporte de relaves que parte de su trazado se emplazaría parcialmente dentro<br>del Sitio Prioritario.<br> <br>Cabe destacar que, las actividades del Proyecto se realizarán en un área que se<br>encuentra previamente intervenida por actividad extractiva histórica y que el Proyecto<br>utilizará instalaciones en desuso, tales como los caserones, y caminos existentes que<br>actualmente se encuentran en operación. En cuanto a la susceptibilidad de afectación<br>del objeto de conservación del referido Sitio Prioritario, este representa<br>vegetacionalmente a la formación denominada “Bosque Esclerófilo Costero” donde se|
+
+TABLA 14: Artículo 11 Letra D) de la Ley 19.300 y Art. N° 8 del Reglamento del SEIA. Página **1** de **3**
+
+|Estación|Línea<br>Base<br>mg/m2-<br>dia<br>(nov<br>20 a<br>oct 21)|Fase<br>Construcción,<br>FC +<br>operación<br>actual, mg/m2-<br>dia|Fase<br>Operación,<br>FO, mg/m2-<br>dia|LB +<br>Aporte<br>FC<br>mg/m2-<br>dia|LB +<br>Aporte<br>FO<br>mg/m2-<br>dia|
+|---|---|---|---|---|---|
+|Punto A|77,8|0,19|0,05|77,99|77,85|
+|Punto B|72,1|5,44|2,35|77,54|74,45|
+
+TABLA 14: Artículo 11 Letra D) de la Ley 19.300 y Art. N° 8 del Reglamento del SEIA. Página **2** de **3**
+
+TABLA 14: Artículo 11 Letra D) de la Ley 19.300 y Art. N° 8 del Reglamento del SEIA. Página **3** de **3**

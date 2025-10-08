@@ -1,0 +1,34 @@
+---
+title: Plan Operativo de Emergencia
+author: Alejandro Ule
+date: D:20200227170901-03'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|No de Versión: 01|GUIA DE ACCION RAPIDA<br>NOMBRE:GUIA DE ACCION RAPIDA EN CASO DE DERRAME DE<br>BIOSÓLIDO|Tipo: GAR<br>Código: GAR005<br>Página 1 de 2|
+|---|---|---|
+|Fecha Entrada en Vigencia:<br>**20/01/2017**|Fecha Entrada en Vigencia:<br>**20/01/2017**|Fecha Entrada en Vigencia:<br>**20/01/2017**|
+
+|Objetivo|Establecer el procedimiento de actuación en caso de producirse una<br>contaminación por derrame de biosólido en la planta de depuración de aguas<br>servidas y/o vía pública.|
+|---|---|
+|**Alcance**|Este instructivo debe ser atendido por el personal, contratistas y/o visitas que<br>se encuentren en la planta al momento de un derrame de este tipo.|
+|**Responsabilidades**|Encargado de Sistemas de Agua: Tiene la responsabilidad y autoridad para<br>cumplir y hacer cumplir este instructivo por toda persona que se encuentre<br>en la instalación. <br>|
+|~~INSTRUCCIONES~~|~~INSTRUCCIONES~~|
+|**Durante la Emergencia **<br>• La persona que detecta el evento deberá comunicar inmediatamente al Líder de<br>Emergencia, quien será el encargado de canalizar la información hacia el CO.<br>• El CO será el área encargada de generar todas las restantes comunicaciones,<br>avisando entre ellos a bomberos, carabineros, asociación chilena de seguridad,<br>unidad de seguridad y salud ocupacional y/o ambulancias en caso que aplique.<br>También será el área que comunique el evento hacia las jefaturas respectivas<br>(Producción, Depuración) y hacia el Gerente de Operaciones.<br>• Dirigirse al lugar del derrame, para ver la magnitud de la fuga.<br>• Si el operador está en condiciones, debe detener el derrame de lodos. Si las<br>condiciones son adversas (olores o cantidades importantes), el operador debe<br>equiparse adecuadamente antes de intentar detener el derrame de lodos (máscara<br>de rostro completa con filtro contra H2S y botas de goma)<br>• El personal sólo podrá proceder a controlar el derrame (D.S N°594 del Ministerio de<br>Salud) si usan elementos de protección personal adecuados y se encuentran<br>debidamente capacitados.<br>• El operador debe iniciar las acciones de neutralización del derrame de lodos<br>producido adicionando cal y arena (si es lodo digerido puede prescindirse de ambos).<br>Si las condiciones del lugar lo permiten, el lodo se puede recuperar mediante bombeo<br>para retornar al lugar de origen o retorno a la planta. Evaluar impacto en el proceso.<br> <br>**Después de la Emergencia **<br>• Verificar donde ocurrió el derrame<br>• Verificar si se detuvo el derrame de lodos<br>• Estimar la cantidad de lodo derramado<br>• Identificar los riesgos ambientales y potenciales por el derrame de lodo producido<br>• Controlar el derrame<br> <br>**Elementos y equipos mínimos: **<br>• Ropa adecuada impermeable y resistente a productos químicos, guantes adecuados<br>por categoría de residuos, lentes de seguridad y mascarilla para protección<br>respiratoria con filtro para vapores orgánicos<br>• Tierra, arena o aserrín para evitar la dispersión del derrame.<br>• Se deberá contar con palas, baldes u otro elemento que permita su aplicación.<br>• Para evitar la generación de malos olores, aplicar cal apagada sobre el derrame de<br>lodo, cuando corresponda.<br> <br>**Derrame sobre superficie impermeable: (cemento, lata, pisos) es necesario: **<br>• Rodear rápidamente el derrame con tierra o arena, comenzando sobre menor cota<br>de suelo en caso de pendiente.|**Durante la Emergencia **<br>• La persona que detecta el evento deberá comunicar inmediatamente al Líder de<br>Emergencia, quien será el encargado de canalizar la información hacia el CO.<br>• El CO será el área encargada de generar todas las restantes comunicaciones,<br>avisando entre ellos a bomberos, carabineros, asociación chilena de seguridad,<br>unidad de seguridad y salud ocupacional y/o ambulancias en caso que aplique.<br>También será el área que comunique el evento hacia las jefaturas respectivas<br>(Producción, Depuración) y hacia el Gerente de Operaciones.<br>• Dirigirse al lugar del derrame, para ver la magnitud de la fuga.<br>• Si el operador está en condiciones, debe detener el derrame de lodos. Si las<br>condiciones son adversas (olores o cantidades importantes), el operador debe<br>equiparse adecuadamente antes de intentar detener el derrame de lodos (máscara<br>de rostro completa con filtro contra H2S y botas de goma)<br>• El personal sólo podrá proceder a controlar el derrame (D.S N°594 del Ministerio de<br>Salud) si usan elementos de protección personal adecuados y se encuentran<br>debidamente capacitados.<br>• El operador debe iniciar las acciones de neutralización del derrame de lodos<br>producido adicionando cal y arena (si es lodo digerido puede prescindirse de ambos).<br>Si las condiciones del lugar lo permiten, el lodo se puede recuperar mediante bombeo<br>para retornar al lugar de origen o retorno a la planta. Evaluar impacto en el proceso.<br> <br>**Después de la Emergencia **<br>• Verificar donde ocurrió el derrame<br>• Verificar si se detuvo el derrame de lodos<br>• Estimar la cantidad de lodo derramado<br>• Identificar los riesgos ambientales y potenciales por el derrame de lodo producido<br>• Controlar el derrame<br> <br>**Elementos y equipos mínimos: **<br>• Ropa adecuada impermeable y resistente a productos químicos, guantes adecuados<br>por categoría de residuos, lentes de seguridad y mascarilla para protección<br>respiratoria con filtro para vapores orgánicos<br>• Tierra, arena o aserrín para evitar la dispersión del derrame.<br>• Se deberá contar con palas, baldes u otro elemento que permita su aplicación.<br>• Para evitar la generación de malos olores, aplicar cal apagada sobre el derrame de<br>lodo, cuando corresponda.<br> <br>**Derrame sobre superficie impermeable: (cemento, lata, pisos) es necesario: **<br>• Rodear rápidamente el derrame con tierra o arena, comenzando sobre menor cota<br>de suelo en caso de pendiente.|
+
+|Impreso el:|SISTEMA DE GESTIÓN DE CALIDAD, MEDIO AMBIENTE Y<br>SEGURIDAD ESSAL|Col3|
+|---|---|---|
+|**27.02.2020**|**27.02.2020**|**27.02.2020**|
+
+|No de Versión: 01|GUIA DE ACCION RAPIDA<br>NOMBRE:GUIA DE ACCION RAPIDA EN CASO DE DERRAME DE<br>BIOSÓLIDO|Tipo: GAR<br>Código: GAR005<br>Página 2 de 2|
+|---|---|---|
+|Fecha Entrada en Vigencia:<br>**20/01/2017**|Fecha Entrada en Vigencia:<br>**20/01/2017**|Fecha Entrada en Vigencia:<br>**20/01/2017**|
+
+|Impreso el:|SISTEMA DE GESTIÓN DE CALIDAD, MEDIO AMBIENTE Y<br>SEGURIDAD ESSAL|Col3|
+|---|---|---|
+|**27.02.2020**|**27.02.2020**|**27.02.2020**|

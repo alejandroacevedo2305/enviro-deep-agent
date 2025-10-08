@@ -1,0 +1,16 @@
+---
+title: PA 01-PA 02
+author: Desconocido
+date: D:20230524192231
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|2M 2M 2M 2M OVITROPED SOSECCA LITNAFNI Y 15.451.1 13,228 44,2581 12,007 LATOT LATOT LATOT LATOT SOREDNES SEDREV OTNEIMAPIUQE ED OTNEIMAPIUQE AÍGOLOBMIS SAERÁ EICIFREPUS SAERÁ EICIFREPUS SAERÁ EICIFREPUS SAERÁ EICIFREPUS|
+|---|---|
+|||
+|||

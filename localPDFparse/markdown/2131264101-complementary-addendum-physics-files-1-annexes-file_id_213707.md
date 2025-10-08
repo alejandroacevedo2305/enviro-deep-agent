@@ -1,0 +1,2099 @@
+---
+title: Microsoft Word - Anexo I - PAS 146.docx
+author: Manuel Antonio Pizarro Morales
+date: D:20160822213010Z00'00'
+language: es
+type: report
+pages: 9
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ANEXO
+-->
+
+# ANEXO
+ I** **ANTECEDENTES
+ PAS
+ 146** **ADENDA
+ PLANTA
+ FOTOVOLTAICA
+ ALMEYDA**
+
+## CONTENIDOS
+
+**1.** **ANTECEDENTES
+ PARA
+ SOLICITAR
+ EL
+ PAS
+ 146 ......................................................................................3**
+
+1.1. I NTRODUCCIÓN ....................................................................................... **¡E** **RROR** **!M** **ARCADOR
+ NO
+ DEFINIDO** **.**
+1.2. A NTECEDENTES
+ TÉCNICOS
+ REQUERIDOS .......................................................................................................3
+
+**2.** **MEDIDAS
+ DE
+ ÉXITO
+ DEL
+ PLAN
+ DE
+ RESCATE
+ Y
+ RELOCALIZACIÓN...........................................................8**
+
+## 1. ANTECEDENTES
+ PARA
+ SOLICITAR
+ EL
+ PAS
+ 146**
+
+El
+ Proyecto
+ requerirá
+ del
+ otorgamiento
+ del
+ permiso
+ ambiental
+ sectorial
+ que
+ se
+ encuentra
+señalado
+ en
+ el
+ Artículo
+ 146
+ del
+ Reglamento
+ del
+ SEIA,
+ puesto
+ que
+ se
+ debe
+ realizar
+ Rescate
+ y
+Relocalización
+ de
+ fauna,
+ debido
+ a
+ que
+ durante
+ la
+ prospección
+ realizada
+ en
+ terreno,
+ se
+ detectó
+ la
+presencia
+ de
+ la **especie** _**Liolaemus
+ manueli**_ **,** que
+ si
+ bien
+ no
+ se
+ encuentra
+ en
+ categoría
+ de
+conservación
+ vigente,
+ si
+ presenta
+ una
+ singularidad
+ ambiental
+ que
+ vale
+ ser
+ resguardada.
+
+El
+ permiso
+ para
+ la
+ caza
+ o
+ captura
+ de
+ ejemplares
+ de
+ animales
+ de
+ especies
+ protegidas
+ para
+ fines
+ de
+investigación,
+ para
+ el
+ establecimiento
+ de
+ centros
+ de
+ reproducción
+ o
+ criaderos
+ y
+ para
+ la
+ utilización
+sustentable
+ del
+ recurso,
+ será
+ el
+ establecido
+ en
+ el
+ inciso
+ 1°
+ del
+ artículo
+ 90
+ de
+ la
+ Ley
+ N°
+ 4.601,
+ sobre
+Caza,
+ modificada
+ por
+ la
+ Ley
+ N°
+ 19.473,
+ que
+ sustituye
+ el
+ texto
+ de
+ la
+ Ley
+ N°4
+ .601,
+ sobre
+ Caza,
+ y
+artículo
+ 609
+ del
+ Código
+ Civil.
+
+El
+ requisito
+ para
+ su
+ otorgamiento
+ consiste
+ en
+ que
+ el
+ proyecto
+ de
+ caza
+ o
+ captura
+ sea
+ adecuado
+para
+ la
+ especie
+ y
+ necesario
+ para
+ no
+ ser
+ afectada
+ por
+ obras
+ constructivas
+ del
+ proyecto.
+ La
+ caza
+ o
+captura
+ de
+ animales
+ de
+ las
+ especies
+ protegidas,
+ en
+ el
+ medio
+ silvestre,
+ solo
+ se
+ podrá
+ efectuar
+ en
+sectores
+ o
+ áreas
+ determinadas
+ y
+ previa
+ autorización
+ del
+ Servicio
+ Agrícola
+ y
+ Ganadero
+ (SAG).
+
+Alguna
+ de
+ las
+ especies
+ registradas
+ en
+ el
+ Proyecto
+ presenta
+ “Baja
+ Movilidad”
+ (Reptiles),
+ lo
+ cual
+implica
+ que
+ poseen
+ rangos
+ de
+ desplazamiento
+ reducidos.
+ Tal
+ condición
+ se
+ traduce
+ en
+ que
+ frente
+ a
+las
+ obras
+ y/o
+ actividades
+ programadas,
+ individuos
+ de
+ estas
+ especies
+ registradas
+ eventualmente
+ no
+podrían
+ desplazarse
+ por
+ sus
+ propios
+ medios,
+ por
+ lo
+ que
+ no
+ podrían
+ evitar
+ los
+ impactos
+ propios
+ de
+las
+ obras
+ de
+ construcción
+ del
+ proyecto.
+ Dado
+ lo
+ anterior,
+ se
+ procederá
+ a
+ realizar
+ un
+ Plan
+ de
+Rescate
+ y
+ Relocalización
+ de
+ Reptiles,
+ con
+ el
+ objetivo
+ de
+ disminuir
+ el
+ impacto
+ por
+ eventual
+mortalidad
+ en
+ la
+ población
+ de
+ la
+ especie _Liolaemus
+ (Phrynosaura)
+ Manueli_ la
+ cual
+ será
+ rescatada
+ y
+relocalizada.
+ Las
+ capturas
+ deberán
+ realizarse
+ de
+ forma
+ previa
+ a
+ la
+ intervención
+ y/o
+ al
+ avance
+ de
+ la
+maquinaria
+ de
+ construcción
+ y
+ emplazamiento
+ de
+ obras.
+
+El
+ procedimiento
+ de
+ captura
+ y
+ relocalización
+ será
+ documentado
+ mediante
+ un
+ informe
+ a
+ ser
+presentado
+ a
+ la
+ autoridad
+ ambiental,
+ en
+ el
+ plazo
+ que
+ estipule
+ la
+ resolución
+ de
+ autorización
+ del
+SAG,
+ y
+ una
+ vez
+ que
+ el
+ proyecto
+ sea
+ Calificado
+ favorablemente.
+
+## 1.2. Antecedentes
+ técnicos
+ requeridos**
+
+_**a)**_ _**De
+ tratarse
+ de
+ caza
+ o
+ captura
+ para
+ fines
+ de
+ investigación,
+ se
+ presentará
+ un
+ proyecto
+ de**_
+
+_**investigación
+ científica
+ que
+ contendrá:**_
+
+**a.1.
+ Descripción
+ del
+ proyecto**
+En
+ función
+ de
+ los
+ antecedentes
+ recopilados
+ en
+ la
+ Caracterización
+ Ambiental
+ de
+ la
+ presente
+ DIA,
+ se
+contempla
+ realizar
+ un
+ rescate
+ y
+ relocalización
+ de
+ especies,
+ al
+ comienzo
+ de
+ la
+ fase
+ de
+ construcción
+de
+ las
+ obras
+ del
+ proyecto.
+ Lo
+ anterior
+ se
+ justifica,
+ ya
+ que
+ en
+ la
+ elaboración
+ de
+ la
+ Caracterización
+Ambiental
+ se
+ identificó
+ una
+ especie
+ de
+ reptil
+ de
+ baja
+ movilidad.
+ Este
+ plan
+ tiene
+ como
+ objetivo
+principal
+ el
+ rescate
+ y
+ relocalización
+ de
+ las
+ especies
+ de
+ fauna
+ de
+ baja
+ movilidad
+ presentes
+ en
+ el
+área
+ de
+ influencia
+ del
+ Proyecto.
+
+**a.2.
+ Especies,
+ sexo
+ y
+ número
+ de
+ ejemplares
+ estimados
+ cazar
+ o
+ capturar**
+Durante
+ la
+ caracterización
+ de
+ fauna
+ silvestre
+ se
+ evidenció
+ la
+ presencia
+ de
+ una
+ especie
+ de
+ reptil
+susceptible
+ de
+ ser
+ afectada
+ por
+ el
+ proyecto,
+ sobre
+ la
+ cual
+ estará
+ enfocado
+ el
+ plan
+ de
+ manejo.
+ Dicho
+plan
+ se
+ centrará
+ en
+ especies
+ de
+ baja
+ movilidad,
+ específicamente
+ reptiles.
+
+**Tabla
+ 1.
+ Especie
+ registrada
+ considerada
+ para
+ el
+ rescate
+ y
+ relocalización**
+
+|NOMBRE CIENTÍFICO|NOMBRE COMÚN|CATEGORÍA|DOCUMENTO|
+|---|---|---|---|
+|_Liolaemusmanueli_|Dragón de Manuel|En Peligro (Propuesta por<br>autores)|DS 5/1998 MINAGRI|
+
+Fuente:
+ Elaboración
+ propia
+
+En
+ base
+ a
+ los
+ datos
+ obtenidos
+ en
+ la
+ campaña
+ de
+ caracterización
+ ambiental
+ y
+ que
+ son
+ descritos
+ en
+el
+ punto
+ a.3
+ del
+ presente
+ PAS,
+ se
+ indica
+ el
+ número
+ aproximado
+ de
+ individuos
+ a
+ capturar.
+ De
+ la
+abundancia
+ estimada
+ se
+ espera **capturar
+ y
+ relocalizar
+ al
+ menos
+ un
+ 80%** para
+ la
+ especie.
+
+**Tabla
+ 2.
+ N°
+ de
+ individuos
+ aproximado
+ a
+ capturar**
+
+|ESPECIE|ABUNDANCIA<br>ESTIMADA|N° DE INDIVIDUOS APROXIMADO<br>A CAPTURAR (HEMBRAS)|N° DE INDIVIDUOS APROXIMADO<br>A CAPTURAR (MACHOS)|
+|---|---|---|---|
+|**REPTILES**|**REPTILES**|**REPTILES**|**REPTILES**|
+|_Liolaemus_<br>_manueli_|7|4|4|
+
+Fuente:
+ Elaboración
+ propia
+
+**a.3.
+ Estado
+ de
+ las
+ poblaciones
+ a
+ intervenir**
+En
+ función
+ de
+ los
+ datos
+ obtenidos
+ en
+ terreno
+ durante
+ la
+ campaña
+ se
+ realizó
+ un
+ cálculo
+ estimativo
+del
+ número
+ de
+ individuos
+ sujetos
+ a
+ intervención
+ asociado
+ al
+ área
+ de
+ obras
+ del
+ proyecto.
+ Cabe
+señalar
+ que
+ estas
+ abundancias,
+ fueron
+ registradas
+ en
+ sitios
+ con
+ gran
+ probabilidad
+ de
+ registro
+ de
+individuos.
+ Las
+ abundancias
+ concuerdan
+ con
+ un
+ ambiente
+ de
+ extrema
+ aridez.
+
+_**Abundancia
+ de
+ reptiles**_
+El
+ reptil
+ tuvo **solo
+ 1
+ registro** .
+ La
+ diversidad,
+ a
+ través
+ del
+ índice
+ de
+ Shannon-­‐Wiener,
+ arrojó
+ un
+ valor
+de
+ 0,98,
+ lo
+ cual
+ indica
+ una
+ diversidad
+ muy
+ baja,
+ la
+ cual
+ es
+ característica
+ de
+ ambientes
+ de
+ aridez
+extrema,
+ como
+ lo
+ es
+ el
+ área
+ de
+ influencia
+ (Figura
+ 1-­‐1)
+
+**Figura
+ 1-­‐1** **Resultados
+ prospección
+ Fauna
+ por
+ punto
+ de
+ muestreo**
+
+Fuente:
+ Elaboración
+ propia
+
+**a.4.
+ Metodologías
+ de
+ caza,
+ captura
+ y
+ manejo**
+
+- **Captura**
+Para
+ la
+ captura
+ de
+ los
+ reptiles,
+ se
+ efectuarán
+ recorridos
+ pedestres,
+ enfocándose
+ en
+ los
+microhábitats
+ utilizados
+ por
+ las
+ distintas
+ especies
+ de
+ reptiles
+ para
+ refugiarse.
+ Se
+ realizarán
+búsquedas
+ en
+ los
+ ambientes
+ frecuentados
+ por
+ herpetozoos,
+ tales
+ como
+ rocas,
+ cuevas
+ y
+ objetos
+humanos
+ que
+ puedan
+ servir
+ de
+ refugio.
+ Para
+ las
+ capturas
+ de
+ reptiles
+ se
+ realizarán
+ búsquedas
+ en
+los
+ ambientes
+ frecuentados
+ por
+ herpetozoos
+ (rocas,
+ cuevas
+ y
+ objetos
+ humanos
+ que
+ puedan
+ servir
+de
+ refugio).
+ Las
+ técnicas
+ de
+ capturas
+ serán
+ realizadas
+ mediante
+ la
+ captura
+ manual,
+ con
+ lazo
+ o
+ con
+mallas
+ entomológicas,
+ a
+ partir
+ de
+ transectos
+ pedestres
+ efectuados
+ en
+ las
+ áreas
+ a
+ intervenir,
+privilegiando
+ aquellos
+ sectores
+ en
+ que
+ se
+ aprecie
+ mayor
+ abundancia
+ y/o
+ condiciones
+ de
+ hábitat
+para
+ reptiles.
+ El
+ área
+ de
+ rescate
+ será
+ recorrida
+ mediante
+ la
+ aplicación
+ de
+ un
+ diseño
+ de
+ transectos
+de
+ ancho
+ fijo.
+ Se
+ considerará
+ el
+ trazado
+ de
+ una
+ línea
+ imaginaria
+ de
+ 200
+ m,
+ con
+ un
+ ancho
+ fijo
+ de
+ 20
+m
+ a
+ cada
+ lado
+ del
+ transecto.
+ Durante
+ el
+ recorrido,
+ se
+ capturarán
+ los
+ individuos
+ de
+ todas
+ las
+especies
+ observadas,
+ de
+ acuerdo
+ a
+ la
+ metodología
+ señalada.
+
+Con
+ el
+ fin
+ de
+ maximizar
+ la
+ eficiencia
+ de
+ la
+ captura,
+ ésta
+ se
+ llevará
+ a
+ cabo
+ durante
+ las
+ horas
+ del
+ día
+
+en
+ que
+ los
+ reptiles
+ objetivos
+ presentan
+ mayor
+ actividad,
+ entre
+ las
+ 10:00
+ y
+ las
+ 17:00.
+
+- **Manejo**
+Se
+ llevará
+ un
+ control
+ de
+ los
+ individuos
+ rescatados,
+ determinando
+ especie,
+ cantidad,
+ estado
+sanitario,
+ peso
+ de
+ los
+ ejemplares
+ y
+ morfometría,
+ entre
+ otros;
+ de
+ manera
+ de
+ recopilar
+ datos
+ que
+permitan
+ determinar
+ del
+ éxito
+ del
+ programa
+ de
+ rescate.
+
+**a.5.
+ Lugar
+ de
+ captura
+ y
+ de
+ destino
+ de
+ los
+ animales.**
+
+**Lugar
+ de
+ captura**
+Antes
+ de
+ iniciar
+ las
+ labores
+ de
+ captura,
+ se
+ dará
+ aviso,
+ con
+ una
+ semana
+ de
+ anticipación,
+ a
+ la
+autoridad
+ ambiental
+ y
+ particularmente
+ al
+ SAG
+ el
+ día
+ y
+ la
+ hora
+ en
+ que
+ comenzarán
+ las
+ labores
+ de
+este
+ plan.
+ El
+ lugar
+ de
+ captura
+ corresponderá
+ a
+ aquellas
+ zonas
+ asociadas
+ directamente
+ al
+ proyecto,
+las
+ cuales
+ corresponden
+ al
+ área
+ del
+ polígono.
+
+**Lugar
+ de
+ destino
+ de
+ los
+ animales**
+Previo
+ a
+ las
+ actividades
+ de
+ captura
+ se
+ realizará
+ un
+ estudio
+ al
+ área
+ de
+ relocalización
+ propuesta
+( **¡Error!No
+ se
+ encuentra
+ el
+ origen
+ de
+ la
+ referencia.** )
+ con
+ el
+ fin
+ de
+ identificar,
+ específicamente,
+aquellos
+ lugares
+ que
+ presenten
+ condiciones
+ adecuadas
+ para
+ recibir
+ a
+ los
+ individuos
+ relocalizados.
+Durante
+ este
+ estudio
+ se
+ tomarán
+ medidas
+ biométricas,
+ de
+ las
+ especies
+ de
+ reptiles,
+ junto
+ con
+ el
+registro
+ de
+ la
+ edad
+ y
+ sexo.
+ Todos
+ los
+ individuos
+ capturados
+ en
+ el
+ área
+ de
+ destino
+ (previo
+ a
+ las
+actividades
+ de
+ captura
+ y
+ relocalización)
+ serán
+ marcados
+ con
+ el
+ fin
+ de
+ realizar
+ un
+ adecuado
+seguimiento
+ a
+ la
+ medida.
+
+Se
+ definirán
+ las
+ áreas
+ más
+ apropiadas
+ para
+ la
+ liberación
+ de
+ fauna
+ trasladada
+ buscando
+ situaciones
+de
+ similares
+ condiciones
+ de
+ ambiente
+ en
+ general.
+ Cada
+ una
+ de
+ las
+ áreas
+ seleccionadas
+ para
+ la
+relocalización
+ contemplará
+ una
+ superficie
+ lo
+ suficientemente
+ extensa
+ para
+ evitar
+ sobrepasar
+ la
+capacidad
+ de
+ carga
+ de
+ estos
+ lugares.
+ El
+ sitio
+ de
+ liberación
+ estará
+ lo
+ más
+ cercano
+ posible
+ al
+ sitio
+ de
+captura
+ y
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ Dado
+ el
+ carácter
+ territorial
+ de
+ ciertas
+ especies,
+estos
+ sitios
+ se
+ ubicarán
+ entre
+ 500
+ metros
+ y
+ un
+ kilómetro
+ del
+ punto
+ de
+ rescate
+ fuera
+ del
+ área
+ de
+influencia
+ del
+ proyecto.
+
+**Figura
+ 1-­‐2** **Área
+ de
+ relocalización
+ propuesta**
+Fuente:
+ Elaboración
+ propia
+
+**Tabla
+ 3** **Vértices
+ del
+ polígono
+ de
+ relocalización**
+
+|VERTICE|COORDENADAS UTM WGS 84 HUSO 19S|Col3|
+|---|---|---|
+|**VERTICE**|**NORTE**|**ESTE**|
+|V1|392157|7104906|
+|V2|391292|7104506|
+|V3|392760|7103600|
+|V4|391895|7103200|
+
+Fuente:
+ Elaboración
+ propia
+
+**a.6.
+ Condiciones
+ de
+ transporte
+ e
+ instalaciones
+ de
+ cautiverio**
+Los
+ ejemplares
+ serán
+ depositados
+ en
+ bolsas
+ de
+ género,
+ cada
+ bolsa
+ conteniendo
+ no
+ más
+ de
+ 4
+individuos
+ y
+ siempre
+ de
+ la
+ misma
+ especie.
+ La
+ permeabilidad
+ de
+ las
+ bolsas
+ permite
+ el
+ ingreso
+ de
+aire
+ reduciendo
+ la
+ probabilidad
+ de
+ mortalidad
+ de
+ los
+ individuos.
+
+Antes
+ de
+ ser
+ devueltos
+ al
+ lugar
+ de
+ relocalización,
+ todos
+ los
+ reptiles
+ serán
+ identificados
+ a
+ nivel
+específico,
+ sexados,
+ medidos
+ y
+ pesados.
+ Además
+ se
+ marcarán
+ con
+ tintas
+ vitales
+ en
+ la
+ región
+ del
+pileus,
+ para
+ una
+ evaluación
+ posterior.
+
+**a.7.
+ Cronograma
+ de
+ actividades
+ a
+ realizar
+ y
+ período
+ por
+ el
+ que
+ se
+ solicita
+ el
+ permiso**
+
+**Tabla
+ 4
+ Cronograma
+ de
+ las
+ actividades
+ a
+ realizar**
+
+|Actividad/Mes|M1|Col3|Col4|Col5|M2|Col7|Col8|Col9|M3|Col11|Col12|Col13|M4|Col15|Col16|Col17|M5|Col19|Col20|Col21|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Actividades PAS 146**|**1**|**2**|**3**|**4**|**1**|**2**|**3**|**4**|**1**|**2**|**3**|**4**|**1**|**2**|**3**|**4**|**1**|**2**|**3**|**4**|
+|Solicitud permiso captura|||||||||||||||||||||
+|Estudio sitio de relocalización|||||||||||||||||||||
+|Captura y relocalización|||||||||||||||||||||
+|Seguimiento reptiles|||||||||||||||||||||
+|Análisis de información|||||||||||||||||||||
+|Entrega informe monitoreos|||||||||||||||||||||
+|Entrega informe final|||||||||||||||||||||
+
+Fuente:
+ Elaboración
+ propia
+
+**Competencia
+ de
+ los
+ profesionales
+ a
+ cargo**
+
+El
+ Plan
+ de
+ Rescate
+ y
+ Relocalización
+ será
+ desarrollado
+ por
+ cuadrillas
+ entrenadas
+ y
+ lideradas
+ por
+ un
+profesional
+ experto
+ en
+ manejo
+ de
+ fauna
+ silvestre.
+
+Los
+ profesionales
+ que
+ se
+ encuentren
+ a
+ cargo
+ de
+ las
+ labores
+ de
+ rescate
+ y
+ relocalización
+ deberán
+demostrar
+ sus
+ capacidades
+ y
+ experiencia
+ en
+ este
+ tipo
+ de
+ actividades,
+ enviando
+ en
+ forma
+ previa
+ a
+la
+ actividad
+ su
+ curriculum
+ vitae
+ al
+ SAG
+ de
+ la
+ Región
+ de
+ Atacama,
+ según
+ lo
+ establecerá
+ la
+Resolución
+ Exenta
+ que
+ en
+ la
+ práctica
+ otorgue
+ el
+ permiso
+ de
+ captura.
+
+**b)** **De
+ tratarse
+ de
+ captura
+ para
+ el
+ establecimiento
+ de
+ centros
+ de
+ reproducción
+ o
+ criaderos
+ se**
+
+**presentará
+ un
+ proyecto
+ de
+ captura
+ que
+ contendrá:**
+
+El
+ proyecto
+ no
+ considera
+ el
+ establecimiento
+ de
+ centros
+ de
+ reproducción
+ o
+ criaderos
+
+**c)** **De
+ tratarse
+ de
+ caza
+ o
+ captura
+ para
+ la
+ utilización
+ sustentable:**
+
+El
+ proyecto
+ no
+ considera
+ caza
+ o
+ captura
+ para
+ la
+ utilización
+ sustentable.
+
+## 2. MEDIDAS
+ DE
+ ÉXITO
+ DEL
+ PLAN
+ DE
+ RESCATE
+ Y
+ RELOCALIZACIÓN**
+
+El
+ plan
+ de
+ Rescate
+ y
+ relocalización
+ contempla
+ el
+ rescate
+ de
+ todos
+ los
+ individuos
+ de
+ la
+ especie
+ de
+_Liolaemus
+ manueli_ que
+ se
+ encuentren
+ en
+ el
+ área
+ del
+ polígono
+ del
+ Proyecto.
+Las
+ medidas
+ de
+ indicación
+ de
+ éxito
+ del
+ rescate
+ y
+ relocalización
+ que
+ contempla
+ ejecutar
+ el
+ Titular,
+se
+ basan
+ en
+ la
+ “ _Guía
+ técnica
+ para
+ implementar
+ medidas
+ de
+ rescate/relocalización
+ y
+ perturbación_
+_controlada”_ (elaborada
+ por:
+ Juan
+ C.
+ Torres-­‐Mura,
+ Edvin
+ Riveros-­‐Riffo
+ y
+ Víctor
+ Escobar-­‐Gimpel)
+
+que
+ se
+ encuentra
+ avalada
+ por
+ el
+ SAG,
+ son
+ los
+ siguientes:
+
+a) **Mejoramiento
+ del
+ hábitat** en
+ el
+ área
+ de
+ relocalización,
+ de
+ manera
+ de
+ facilitar
+ el
+ uso
+ de
+ micro
+hábitats
+ apropiados
+ para
+ los
+ ejemplares
+ recién
+ trasladados.
+ Esto
+ se
+ realizará
+ mediante
+ el
+establecimiento
+ de
+ pircas
+ y
+ acúmulos
+ de
+ rocas
+ dentro
+ del
+ área
+ de
+ relocalización
+ de
+ los
+ individuos,
+donde
+ los
+ reptiles
+ puedan
+ utilizar
+ de
+ refugio.
+
+b) **Monitoreo
+ 1,** que
+ incluirá
+ evaluar
+ los
+ individuos
+ marcados
+ presentes
+ en
+ el
+ nuevo
+ hábitat,
+ con
+una
+ frecuencia
+ de
+ 1
+ campaña
+ cada
+ 30
+ días,
+ por
+ un
+ periodo
+ de
+ tiempo
+ de
+ 3
+ meses,
+ debido
+ a
+ que
+se
+ trata
+ de
+ individuos
+ con
+ marca
+ temporal
+ y
+ con
+ el
+ objetivo
+ de
+ evaluar
+ la
+ proporción
+ de
+individuos
+ que
+ se
+ mantienen
+ o
+ que
+ se
+ van
+ del
+ hábitat
+ receptor.
+
+En
+ esta
+ etapa
+ se
+ estimará
+ el
+ porcentaje
+ de
+ individuos
+ observados
+ o
+ recapturados
+ haciendo
+ el
+siguiente
+ cálculo:
+
+**%
+ recaptura
+ =
+ No
+ individuos
+ marcados
+ /
+ No
+ Individuos
+ observados
+ con
+ marcas.**
+
+c) **Monitoreo
+ 2,** que
+ se
+ basa
+ en
+ los
+ atributos
+ ecológicos
+ y
+ de
+ historia
+ de
+ vida
+ (biología
+reproductiva)
+ de
+ los
+ organismos,
+ planificando
+ un
+ seguimiento
+ a
+ largo
+ plazo
+ (3
+ años)
+ que
+ incluirá
+al
+ menos
+ tres
+ estaciones
+ reproductivas
+ de
+ la
+ población
+ con
+ el
+ fin
+ de
+ evaluar
+ si
+ se
+ está
+ expresando
+el
+ potencial
+ reproductivo
+ y
+ por
+ ende
+ si
+ los
+ individuos
+ relocalizados
+ podrían
+ estar
+ insertos
+ en
+ un
+proceso
+ de
+ establecimiento
+ en
+ el
+ nuevo
+ hábitat,
+ tal
+ como
+ lo
+ señala
+ Bustamante
+ et
+ al.,
+ 2009
+ y
+IUCN
+ 2013.
+
+Los **indicadores
+ de
+ éxito** que
+ se
+ evaluarán
+ para
+ determinar
+ la
+ eficacia
+ de
+ la
+ medida
+ en
+ este
+segundo
+ monitoreo
+ son:
+
+ Riqueza
+ de
+ especies
+ del
+ ensamble
+ (antes/después
+ de
+ la
+ aplicación
+ de
+ la
+ medida)
+
+ Abundancia
+ específica
+ de
+ especies.
+
+ Estructura
+ poblacional
+ (Proporción
+ de
+ edad
+ y
+ sexo).
+
+ Área
+ cubierta
+ (superficie)
+ por
+ el
+ rescate
+ en
+ relación
+ al
+ área
+ que
+ se
+ verá
+ afectada.
+
+ Riqueza
+ y
+ Abundancia
+ de
+ otros
+ grupos
+ de
+ fauna
+ que
+ conviven
+ con
+ la
+ especie
+ foco,
+ para
+identificar potenciales competidores, depredadores y especies introducidas
+(identificación
+ de
+ factores
+ de
+ amenaza).
+
+El
+ titular
+ además
+ contempla
+ monitoreo
+ durante
+ la
+ construcción,
+ en
+ donde
+ se
+ verificará
+ la
+ausencia
+ de
+ las
+ especies
+ identificadas
+ durante
+ el
+ levantamiento
+ de
+ la
+ Línea
+ de
+ Base,
+ se
+ vigilarán
+ y
+reforzarán
+ las
+ señaléticas,
+ material
+ gráfico
+ y
+ las
+ inducciones
+ realizadas
+ al
+ personal.
+De
+ los
+ monitoreos
+ efectuados
+ por
+ el
+ Titular,
+ se
+ entregará
+ un
+ informe
+ por
+ cada
+ campaña,
+ el
+ cual
+dará
+ cuenta
+ de
+ las
+ actividades
+ realizadas
+ con
+ los
+ datos
+ recabados
+ y
+ el
+ análisis
+ de
+ dichos
+ datos.
+Una
+ vez
+ terminada
+ la
+ totalidad
+ de
+ las
+ campañas
+ de
+ monitoreo
+ se
+ realizará
+ un
+ informe
+consolidado,
+ que
+ dará
+ cuenta
+ del
+ éxito
+ de
+ la
+ medida.

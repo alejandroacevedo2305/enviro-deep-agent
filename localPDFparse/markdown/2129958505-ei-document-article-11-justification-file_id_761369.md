@@ -1,0 +1,11056 @@
+---
+title: 6. ARTICULO 11
+author: Paola Schnettler
+date: D:20141111000936Z00'00'
+language: es
+type: report
+pages: 39
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**4.**
+**ANTECEDENTES
+ PARA
+ EVALUAR
+ QUE
+ EL
+ PROYECTO
+ O
+ ACTIVIDAD
+ NO
+ REQUIERE**
+
+**PRESENTAR
+ UN
+ ESTUDIO
+ DE
+ IMPACTO
+ AMBIENTAL
+ (Artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal**
+**b).**
+
+En
+ el
+ presente
+ capitulo
+ el
+ Titular
+ presenta
+ un
+ análisis
+ de
+ los
+ criterios
+ que
+ definen
+ que
+ el
+ proyecto
+**“CENTRO
+ DE
+ CULTIVO
+ DE
+ MITÍLIDOS
+ BRAZO
+ DE
+ HOJEDA,
+ COMUNA
+ DE
+ NATALES,
+ PROVINCIA
+ DE**
+**ULTIMA
+ ESPERANZA,
+ DECIMO
+ SEGUNDA
+ REGIÓN
+ DE
+ MAGALLANES
+ Y
+ ANTÁRTICA
+ CHILENA,
+ PERT**
+**N°
+ 207122026”,** que
+ ingresa
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ mediante
+ una
+Declaración
+ de
+ Impacto
+ y
+ que
+ no
+ genera
+ ninguno
+ de
+ los
+ efectos
+ descritos
+ en
+ los
+ Criterios
+contenidos
+ en
+ los
+ Art.
+ 11
+ de
+ la
+ Ley
+ 19.300
+ y
+ su
+ modificaciones
+ Ley
+ 20.417,
+ y
+ por
+ ende
+ no
+ debe
+ ser
+ingresado
+ como
+ un
+ Estudio
+ de
+ Impacto
+ Ambiental,
+ así
+ como
+ también
+ de
+ acuerdo
+ a
+ lo
+ establecido
+por
+ el
+ literal
+ b)
+ del
+ D.S.
+ No
+ 40/12,
+ a
+ saber:
+
+b)
+ Los
+ antecedentes
+ necesarios
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ aquellos
+ efectos,
+ características
+ o
+circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley
+ que
+ pueden
+ dar
+ origen
+ a
+ la
+ necesidad
+ de
+ efectuar
+ un
+Estudio
+ de
+ Impacto
+ Ambiental.
+ Serán
+ parte
+ de
+ estos
+ antecedentes:
+
+**b.1.
+ La
+ determinación
+ y
+ justificación
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ o
+ actividad,
+ incluyendo**
+**una
+ descripción
+ general
+ de
+ la
+ misma,
+ conforme
+ a
+ lo
+ señalado
+ en
+ el
+ artículo
+ 18
+ letra
+ d)
+ de
+ este**
+**Reglamento.**
+
+Respecto
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ se
+ define
+ como
+ área
+ de
+ influencia
+ cercana
+ o
+ próxima,
+al
+ área
+ correspondiente
+ a
+ la
+ concesión
+ de
+ acuicultura,
+ con
+ sus
+ respectivas
+ estructuras
+ y
+ sistemas
+de
+ fondeo
+ más
+ la
+ superficie
+ destinada
+ al
+ movimiento
+ de
+ embarcaciones
+ para
+ las
+ faenas
+ de
+encordado
+ y
+ cosecha
+ y
+ su
+ proyección
+ a
+ la
+ línea
+ de
+ costa
+ cercana
+ (área
+ demarcada
+ con
+ el
+ borde
+rojo),
+ debido
+ a
+ la
+ obligación
+ de
+ mantener
+ limpias
+ la
+ porción
+ de
+ playa
+ (D.S.
+ N°
+ 320).
+ Conforme
+ a
+ lo
+anterior
+ se
+ estima
+ un
+ área
+ de
+ influencia
+ directa
+ de
+ 23,8
+ hás.
+ (Figura
+ 14).
+
+_Figura
+ 16_ .
+ Área
+ de
+ influencia
+ del
+ proyecto
+
+De
+ acuerdo
+ al
+ estudio
+ de
+ biodiversidad
+ realizado
+ en
+ el
+ sector
+ de
+ Seno
+ Poca
+ Esperanza,
+ parte
+ de
+ la
+región
+ está
+ dada
+ por
+ el
+ aporte
+ de
+ la
+ megafauna
+ compuesta
+ por
+ los
+ mamíferos
+ y
+ aves
+ marinas.
+ De
+las
+ aproximadamente
+ 150
+ especies
+ de
+ aves
+ marinas
+ descritas
+ en
+ Chile
+ (Vilina
+ &
+ Pizarro
+ 2008),
+ para
+la
+ Región
+ de
+ Magallanes,
+ Venegas
+ &
+ Sielfeld
+ (1998)
+ reconocen
+ al
+ menos
+ 50
+ especies,
+ en
+ que
+destaca
+ el
+ grupo
+ de
+ los
+ Procelariiformes
+ (petreles,
+ albatros,
+ fardelas,
+ entre
+ otros)
+ con
+ 29
+representantes.
+ En
+ particular
+ para
+ el
+ fiordo
+ Última
+ Esperanza
+ y
+ el
+ canal
+ Señoret,
+ Garay
+ et
+ al.
+(2008)
+ reconocen
+ la
+ presencia
+ de
+ 30
+ especies
+ de
+ aves
+ acuáticas
+ a
+ lo
+ largo
+ de
+ un
+ ciclo
+ anual.
+Aunque
+ para
+ la
+ zona
+ de
+ fiordos
+ y
+ canales
+ del
+ sur
+ de
+ Chile
+ se
+ ha
+ documentado
+ la
+ presencia
+ de
+ 26
+especies
+ de
+ cetáceos
+ (Aguayo
+ Lobo
+ et
+ al.
+ 1998),
+ en
+ la
+ región
+ de
+ Magallanes
+ es
+ posible
+ encontrar
+ al
+menos
+ 21
+ especies
+ (mayoritariamente
+ delfínidos
+ y
+ zifidos),
+ 10
+ de
+ los
+ cuales
+ se
+ conocen
+ de
+avistamientos
+ (Gibbons
+ et
+ al.
+ 2000).
+ Para
+ los
+ pequeños
+ cetáceos
+ (delfínidos
+ y
+ marsopas),
+ parece
+
+existir
+ una
+ baja
+ densidad
+ en
+ toda
+ la
+ región
+ (Gibbons
+ et
+ al.
+ 2001)
+ con
+ excepciones
+ locales.
+ Además
+se
+ han
+ registrado
+ tres
+ especies
+ de
+ lobos
+ marinos
+ (dos
+ frecuentes),
+ 3
+ de
+ focas
+ (aunque
+ sólo
+ una
+ es
+más
+ común)
+ y
+ dos
+ especies
+ de
+ nutrias
+ (Sielfeld
+ &
+ Castilla
+ 1999,
+ Torres
+ et
+ al.
+ 2000).
+
+El
+ litoral
+ marino
+ de
+ la
+ zona
+ austral
+ de
+ Chile
+ representa
+ un
+ hábitat
+ muy
+ particular,
+ distinto
+ al
+ resto
+del
+ continente
+ sudamericano.
+ En
+ estas
+ aguas
+ es
+ característica
+ la
+ presencia
+ frecuente
+ de
+ algunos
+mamíferos
+ marinos
+ como
+ los
+ lobos
+ marinos
+ (especialmente
+ el
+ Lobo
+ Fino
+ Austral),
+ el
+ Huillín
+ en
+algunos
+ sectores
+ estudiados
+ y
+ el
+ delfín
+ austral,
+ este
+ último
+ estrechamente
+ asociados
+ a
+ las
+ franjas
+de
+ macrófitas,
+ principalmente
+ en
+ el
+ sector
+ oriental
+ de
+ la
+ región
+ (Goodall
+ et
+ al.
+ 1996,
+ Lescrauwaet
+1996,
+ Sielfeld
+ &
+ Castilla
+ 1999,
+ Gibbons
+ et
+ al.
+ 2000,
+ Gibbons
+ et
+ al.
+ 2001,
+ Venegas
+ et
+ al.
+ 2002,
+Capella
+ &
+ Gibbons
+ 2008).
+ Por
+ otra
+ parte,
+ las
+ aves
+ constituyen
+ un
+ porcentaje
+ muy
+ importante
+ de
+ la
+fauna
+ de
+ vertebrados
+ de
+ los
+ canales
+ (Venegas
+ &
+ Jory
+ 1979,
+ Venegas
+ 1986)
+ y
+ muchas
+ de
+ ellas
+ han
+generado
+ especies
+ exclusivas
+ y
+ prácticamente
+ endémicas
+ a
+ las
+ zonas
+ de
+ canales,
+ destacando
+ entre
+ellas
+ el
+ Pato
+ Quetro
+ Volador
+ ( _Tachyeres
+ patachonicus_ (King,
+ 1831),
+ el
+ Pato
+ Quetro
+ No
+ Volador
+( _Tachyeres
+ pteneres_ (Forster,
+ 1844)
+ ),
+ la
+ Caranca
+ ( _Chloephaga
+ hybrida_ (Molina,
+ 1782)
+ ),
+ Pingüino
+Magallanico
+ ( _Spheniscus
+ magellanicus_ (Forster,
+ 1781)
+ ),
+ Cormorán
+ de
+ las
+ Rocas
+ ( _Phalacrocorax_
+_magellanicus_ (Gmelin,
+ 1789)
+ ),
+ Cormorán
+ Imperial
+ ( _Phalacrocorax
+ atriceps_ King,
+ 1828),
+ Cormorán
+de
+ las
+ Malvinas
+ ( _Phalacrocorax
+ albiventer_ (Lesson,
+ 1831)),
+ Carancho
+ Negro
+ ( _Phalcoboenus
+ australis_
+(Gmelin,
+ 1788)),
+ Pilpilén
+ Austral
+ ( _Haematopus
+ leucopodus_ Garnot,
+ 1826),
+ Gaviota
+ Austral
+ ( _Larus_
+_scoresbii_ Traill,
+ 1823)
+ y
+ Churrete
+ Austral
+ ( _Cinclodes
+ antarticus_ (Garnot,
+ 1826). [1]
+
+En
+ cuanto
+ a
+ la
+ fauna
+ marina
+ encontrada
+ en
+ el
+ área
+ de
+ estudio,
+ es
+ importante
+ mencionar
+ que
+ sólo
+se
+ observó
+ la
+ presencia
+ de
+ avifauna
+ yeco
+ y
+ Coromoran
+ Imperial,
+ especies
+ de
+ amplia
+ distribución
+ en
+el
+ país,
+ y
+ sin
+ problemas
+ de
+ conservación
+ (según
+ UICN).
+
+Las
+ especies
+ vegetales
+ identificadas,
+ correspondieron
+ a
+ especies
+ propias
+ del
+ bosque
+ siempre
+verde,
+ las
+ cuales
+ se
+ encontraron
+ distribuidas
+ en
+ toda
+ el
+ área
+ de
+ estudio.
+
+El
+ análisis
+ integrado
+ de
+ cada
+ componente
+ dentro
+ del
+ área
+ de
+ influencia
+ es
+ explicado
+ en
+ detalle
+ en
+los
+ siguientes
+ puntos,
+ específicamente
+ en
+ el
+ literal
+ b
+ del
+ artículo
+ 11.
+
+**b.2.
+ La
+ ubicación
+ del
+ proyecto
+ o
+ actividad
+ y,
+ en
+ caso
+ de
+ corresponder,
+ de
+ sus
+ principales
+ partes,**
+**obras
+ o
+ acciones.**
+
+La
+ totalidad
+ del
+ proyecto,
+ incluidas
+ sus
+ partes,
+ obras
+ o
+ acciones
+ se
+ desarrollaran
+ en
+ la
+ Comuna
+ de
+Natales,
+ Provincia
+ de
+ Última
+ Esperanza,
+ Décimo
+ Segunda
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+Chilena,
+ la
+ superficie
+ directa
+ corresponde
+ al
+ área
+ concesionada
+ de
+ 4
+ hás.
+
+Los
+ tracks
+ de
+ navegación
+ que
+ son
+ utilizados
+ regularmente
+ por
+ las
+ embarcaciones
+ comerciales
+ y
+ de
+turismo
+ en
+ la
+ región
+ de
+ Magallanes.
+ Se
+ puede
+ observar
+ que
+ las
+ rutas
+ de
+ navegación
+ comercial
+ a
+partir
+ del
+ puerto
+ de
+ Puerto
+ Natales,
+ se
+ realizan
+ principalmente
+ por
+ el
+ Canal
+ Señoret
+ hacia
+ el
+ Golfo
+Almirante
+ Montt
+ -
+ Canal
+ Kirke
+ -
+ Paso
+ Morla
+ Vicuña-­‐
+ Paso
+ Sobenes-­‐
+ Canal
+ Unión
+ y/o
+ Canal
+ SmythCanal
+ Sarmiento
+ -
+ Canal
+ Inocentes
+ -y
+ Canal
+ Wilde
+ al
+ norte.
+ Ruta
+ Turística
+ hacia
+ el
+ Glaciar
+
+ Asia
+ por
+Ruta
+ del
+ Canal
+ sarmiento
+ hasta
+ estero
+ Peel.
+
+ Y
+ la
+ ruta
+ turística
+ que
+ va
+ desde
+ Puerto
+ natales
+ al
+estero
+ de
+ última
+ esperanza
+ hacia
+ el
+ Río
+ y
+ Glaciar
+ Serrano.
+
+Las
+ rutas
+ de
+ navegación
+ por
+ los
+ tracks
+ comerciales
+ indicados
+ anteriormente
+ hacia
+ el
+ centro
+ de
+cultivo:
+
+1 Fuente:
+ Juan
+ Capella,
+ Gibbons
+ J.
+ Y
+ Toro
+ F.
+ (Biodiversidad
+ de
+ mamíferos
+ y
+ aves
+ marinas
+ en
+ el
+ estero
+ poca
+ esperanza,
+ provincia
+ de
+ ultima
+esperanza,
+ chile.
+ En
+ el
+ marco
+ de
+ evaluación
+ del
+ proyecto
+ Centro
+ De
+ Cultivo,
+ Sector
+ Estero
+ Poca
+ Esperanza,
+ Al
+ Sur
+ De
+ Punta
+ Mauricio,
+Pert
+ 207122033.
+
+(1):
+ desde
+ Puerto
+ Natales:
+ canal
+ Señoret-­‐
+ Golfo
+ Almirante
+ Montt-­‐Canal
+ Valdés-­‐Estero
+ Poca
+Esperanza
+ -
+ Brazo
+ de
+ Hojeda
+ a
+ la
+ concesión
+ de
+ acuicultura.
+
+(2):
+ Track
+ de
+ Navegación
+ desde
+ Punta
+ Arenas:
+ Estrecho
+ de
+ Magallanes-­‐Canal
+ Smyth-­‐Paso
+ Victoria-­‐
+Canal
+ unión-­‐Paso
+ Sobenes-­‐
+ Paso
+ Morla
+ Vicuña-­‐
+ Canal
+ Kirke-­‐Canal
+ Valdés-­‐Estero
+ Poca
+ Esperanza-­‐
+Brazo
+ de
+ Hojeda
+ a
+ la
+ concesión
+ de
+ acuicultura.
+
+_Respecto
+ de
+ sus
+ principales
+ partes,
+ obras
+ y
+ acciones
+ se
+ detallan
+ en
+ el
+ capítulo
+
+ 3
+ de
+ la
+ DIA._
+
+**b.3.
+ En
+ caso
+ de
+ corresponder,
+ la
+ ubicación
+ y
+ cuantificación
+ de
+ los
+ recursos
+ naturales
+ renovables**
+**a
+ extraer
+ o
+ explotar
+ por
+ el
+ proyecto
+ o
+ actividad
+ para
+ satisfacer
+ sus
+ necesidades.**
+
+El
+ proyecto
+ durante
+ la
+ etapa
+ de
+ operación,
+ no
+ considera
+
+ la
+ extracción
+ y
+ explotación
+ de
+ semillas
+ de
+mitílidos.
+
+**b.4.
+ Las
+ emisiones
+ del
+ proyecto
+ o
+ actividad.**
+
+Las
+ principales
+ emisiones
+ del
+ proyecto
+ se
+ describen
+ en
+ detalle
+ en
+ los
+ puntos
+ 3.2
+ Etapa
+ de
+construcción,
+ 3.3
+ Etapa
+ de
+ operación
+ y
+ en
+ el
+ presente
+ capítulo
+ referido
+ al
+ artículo
+ 11
+ de
+ la
+ Ley.
+
+**b.5.
+ La
+ cantidad
+ y
+ manejo
+ de
+ residuos,
+ productos
+ químicos
+ y
+ otras
+ sustancias
+ que
+ puedan
+ afectar**
+**el
+ Medio
+ ambiente.**
+
+Las
+ principales
+ emisiones
+ del
+ proyecto
+ se
+ describen
+ en
+ detalle
+ en
+ los
+ puntos
+ 3.2
+ Etapa
+ de
+construcción,
+ 3.3
+ Etapa
+ de
+ operación
+ y
+ en
+ el
+ presente
+ capítulo
+ referido
+ al
+ artículo
+ 11
+ de
+ la
+ Ley.
+
+**b.6.
+ En
+ caso
+ que
+ el
+ proyecto
+ o
+ actividad
+ se
+ emplace
+ en,
+ o
+ en
+ las
+ cercanías
+ de
+ tierras
+ indígenas,**
+**áreas
+ de
+ desarrollo
+ indígena
+ o
+ pueblos
+ indígenas,
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ deberá**
+**contener
+ los
+ antecedentes
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ susceptibilidad
+ de
+ afectación
+ a**
+**dichos
+ pueblos
+ localizados
+ en
+ el
+ área
+ en
+ que
+ se
+ desarrollará
+ el
+ proyecto
+ o
+ actividad.**
+
+Respecto
+ del
+ presente
+ punto,
+ se
+ emplaza
+ en
+ Brazo
+ de
+ Hojeda
+ península
+ Vicuña
+ Mackenna,
+ sector
+3,
+ en
+ la
+ Comuna
+ de
+ Natales,
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena,
+ a
+ aproximadamente
+ a
+ 62
+km
+ de
+ Puerto
+ Natales,
+ a
+ 46
+ km
+ de
+ la
+ localidad
+ de
+ Río
+ Blanco
+ y
+ a
+ 54
+ km
+ de
+ las
+ localidades
+ de
+ Solar
+ y
+a
+ 52
+ km
+ de
+ La
+ Junta.
+
+El
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+ tierra,
+ por
+ lo
+ que
+ la
+ implementación
+ de
+ este
+ no
+interferirá
+ con
+ la
+ componente
+ suelo
+ y
+ por
+ ende
+ no
+ estará
+ afectando
+ el
+ desarrollo
+ de
+ actividades
+indígenas,
+ de
+ la
+ misma
+ manera,
+ de
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ por
+ la
+ Subsecretaría
+de
+ Pesca
+ en
+ la
+ región
+ de
+ Magallanes
+ no
+ existen
+ áreas
+ costeras
+ marinas
+ de
+ pueblos
+ originarios
+(ECMPO).
+
+**b.7.
+ Cualquier
+ otra
+ información
+ ambiental
+ que
+ el
+ titular
+ estime
+ pertinente.**
+
+A
+ continuación
+ se
+ trata
+ en
+ detalle
+ los
+ literales
+ del
+ artículo
+ 11
+ de
+ la
+ Ley:
+
+**Art.
+ 11,
+ Ley
+ 19.300
+ y
+ su
+ modificación
+ Ley
+ 20.417
+ (artículo
+ 12
+ bis
+ b)**
+
+Los
+ proyectos
+ o
+ actividades
+ enumerados
+ en
+ el
+ artículo
+ precedente
+ requerirán
+ la
+ elaboración
+ de
+ un
+Estudio
+ de
+ Impacto
+ Ambiental,
+ si
+ generan
+ o
+ presentan
+ a
+ lo
+ menos
+ uno
+ de
+ los
+ siguientes
+ efectos,
+características
+ o
+ circunstancias:
+
+**a)** **Riesgo
+ para
+ la
+ salud
+ de
+ la
+ población,
+ debido
+ a
+ la
+ cantidad
+ y
+ calidad
+ de
+ efluentes,**
+
+**emisiones
+ o
+ residuos;**
+
+Las
+ principales
+ emisiones
+ que
+ genera
+ el
+ proyecto
+ son
+ las
+ siguientes:
+
+ -
+ Emisiones
+ atmosféricas
+
+ -
+ Residuos
+ líquidos
+
+ -
+ Residuos
+ sólidos
+
+**I.** **Emisiones
+ atmosféricas**
+
+**Etapa
+ de
+ construcción**
+
+ Ruido
+
+Las
+ fuentes
+ de
+ emisión
+ de
+ ruido
+ durante
+ la
+ etapa
+ de
+ construcción
+ corresponderán
+ a
+ los
+ motores
+de
+ las
+ embarcaciones
+ que
+ operen
+ en
+ el
+ centro
+ de
+ cultivo.
+ Estas
+ consideran
+ el
+ uso
+ de
+ GLP
+ como
+combustible,
+ los
+ que
+ trabajarán
+ de
+ manera
+ más
+ silenciosa.
+ La
+ emisión
+ de
+ ruido
+ se
+ generará
+durante
+ la
+ actividad
+ diurna,
+ en
+ forma
+ intermitente.
+
+ Gases
+
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ significativas
+ en
+ la
+ etapa
+ de
+ construcción
+ del
+ proyecto.
+Ya
+ que
+ sólo
+ se
+ puede
+ considerar
+ las
+ emisiones
+ generadas
+ por
+ los
+ motores
+ de
+ las
+ embarcaciones
+que
+ trabajarán
+ en
+ la
+ instalación
+ de
+ la
+ infraestructura
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+a
+ fuentes
+ móviles
+ y
+ autónomas
+ que
+ se
+ utilizan
+ como
+ combustible
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ el
+cual
+ principalmente
+ genera
+ emisiones
+ de
+ vapor
+ de
+ agua
+ reduciendo
+ en
+ un
+ 90%
+ la
+ generación
+ de
+CO 2 en
+ comparación
+ al
+ uso
+ de
+ combustibles
+ fósiles.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+tendrán
+ una
+ duración
+ máxima
+ de
+ 8
+ horas
+ diarias,
+ pero
+ su
+ utilización
+ será
+ en
+ forma
+ intermitente.
+
+Por
+ otra
+ parte,
+ la
+ localización
+ del
+ proyecto
+ se
+ encuentra
+ en
+ un
+ sector
+ con
+ una
+ alta
+ ventilación,
+ por
+lo
+ cual
+ las
+ generaciones
+ de
+ emisiones
+ atmosféricas
+ se
+ verán
+ reducidas
+ al
+ mínimo.
+
+**Etapa
+ de
+ operación**
+
+ Ruido
+
+Las
+ fuentes
+ de
+ emisión
+ de
+ ruido
+ durante
+ la
+ etapa
+ de
+ operación
+ corresponderán
+ a
+ los
+ motores
+ de
+las
+ embarcaciones
+ que
+ operen
+ en
+ el
+ centro
+ de
+ cultivo.
+ Estas
+ consideran
+ el
+ uso
+ de
+ GLP
+ como
+combustible,
+ los
+ que
+ trabajarán
+ de
+ manera
+ más
+ silenciosa.
+ La
+ emisión
+ de
+ ruido
+ se
+ generará
+durante
+ la
+ actividad
+ diurna,
+ en
+ forma
+ intermitente.
+
+ Gases
+
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ significativas
+ en
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto.
+
+ Ya
+que
+ sólo
+ se
+ puede
+ considerar
+ las
+ emisiones
+ generadas
+ por
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+trabajarán
+ faenas
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+ móviles
+ y
+ autónomas
+ que
+utilizan
+ como
+ combustible
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ el
+ cual
+ principalmente
+ genera
+ emisiones
+de
+ vapor
+ de
+ agua
+ reduciendo
+ en
+ un
+ 90%
+ la
+ generación
+ de
+ CO 2 en
+ comparación
+ al
+ uso
+ de
+combustibles
+ fósiles.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+ tendrán
+ una
+ duración
+ máxima
+ de
+ 8
+horas
+ diarias,
+ pero
+ su
+ utilización
+ será
+ en
+ forma
+ intermitente.
+
+En
+ cuanto
+ a
+ los
+ grupos
+ electrógenos
+ con
+ los
+ que
+ cuentan
+ las
+ embarcaciones
+ su
+ uso
+ se
+ verá
+reducido
+ al
+ mínimo,
+ debido
+ a
+ que
+ se
+ privilegiará
+ el
+ trabajo
+ con
+ luz
+ natural
+ del
+ día
+ en
+ jornadas
+laborales
+ de
+ 8
+ horas
+ diarias.
+
+Cabe
+ indicar
+ que
+ se
+ tendrá
+ especial
+ cuidado
+ en
+ la
+ mantención
+ de
+ estos
+ equipos,
+ con
+ la
+ finalidad
+ de
+mantener
+ la
+ eficiencia
+ de
+ consumo
+ y
+ permitir
+ una
+ combustión
+ óptima
+ en
+ los
+ motores
+ para
+producir
+ la
+ mínima
+ cantidad
+ de
+ gases
+ y
+ residuos,
+ tanto
+ en
+ los
+ generadores
+ como
+ en
+ los
+ motores
+fuera
+ de
+ borda.
+
+Por
+ otra
+ parte,
+ la
+ localización
+ del
+ proyecto
+ se
+ encuentra
+ en
+ un
+ sector
+ con
+ una
+ alta
+ ventilación,
+ por
+lo
+ cual
+ las
+ generaciones
+ de
+ emisiones
+ atmosféricas
+ se
+ verán
+ reducidas
+ al
+ mínimo.
+
+**II.** **Residuos
+ líquidos**
+
+**Etapa
+ de
+ Construcción**
+
+Los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+ las
+ aguas
+servidas,
+ las
+ embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ fondeo
+ e
+ instalación
+ de
+ las
+ estructuras
+de
+ cultivo
+ cuentan
+ con
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+homologadas
+ y
+ aprobadas
+ por
+ la
+ autoridad
+ marítima.
+
+**Etapa
+ de
+ operación**
+
+ Aguas
+ servidas
+ domésticas
+
+Para
+ el
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ la
+ embarcación
+
+ contará
+ con
+ una
+ planta
+ de
+ tratamiento
+cuyo
+ efluente
+ cumplirá
+ con
+ las
+ normas
+ destinadas
+ a
+ la
+ evacuación,
+ tratamiento
+ y
+ disposición
+ final
+de
+ desagües
+ y
+ aguas
+ servidas
+ a
+ cursos
+ naturales.
+ La
+ planta
+ referencial
+ a
+ implementar
+ en
+ el
+ centro
+cumplirá
+ con
+ la
+ Resolución
+ OMI
+ MEPC
+ 159(55).
+ De
+ esta
+ forma,
+ se
+ estará
+ cumpliendo
+ con
+ las
+prescripciones
+ establecidas
+ en
+ el
+ artículo
+ No
+ 95
+ del
+ “Reglamento
+ para
+ el
+ Control
+ de
+ la
+Contaminación
+ Acuática”,
+ en
+ cuanto
+ a
+ que
+ el
+ efluente
+ a
+ descargar
+ no
+ contendrá
+ sólidos
+ flotantes
+visibles
+ y
+ no
+ ocasionará
+ la
+ decoloración
+ de
+ las
+ aguas
+ circundantes.
+ Junto
+ con
+ esto
+ se
+ establece
+ que
+la
+ planta
+ de
+ tratamiento
+ ha
+ sido
+ autorizada
+ por
+ el
+ Servicio
+ de
+ Inspección
+ de
+ Naves
+ dependiente
+ de
+la
+ DIRECTEMAR.
+
+ Residuos
+ industriales
+ Líquidos
+
+El
+ proyecto
+ no
+ contempla
+ la
+ generación
+ de
+ residuos
+ industriales
+ líquidos,
+ debido
+ a
+ que
+ no
+realizaran
+ mantenciones
+ de
+ equipos,
+ lavados
+ de
+ cubiertas
+ o
+ alguna
+ otra
+ actividad
+ que
+ pueda
+generar
+ algún
+ otro
+ tipo
+ de
+ agua
+ sucia
+ o
+ contaminada
+ que
+ pueda
+ alterar
+ el
+ medio
+ ambiente.
+ Cabe
+mencionar
+ que
+ cualquier
+ actividad
+ de
+ mantención
+ o
+ lavado
+ de
+ equipos
+ e
+ infraestructura
+ de
+ la
+embarcación
+ se
+ realizar
+ en
+ un
+ lugar
+ debidamente
+ autorizado,
+ fuera
+ del
+ área
+ de
+ concesión
+ para
+cultivo
+ de
+ mitílidos.
+
+**III.** **Residuos
+ sólidos**
+
+**Etapa
+ de
+ construcción**
+
+Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+ instalación
+ y
+ fondeo
+ de
+ las
+ plataformas
+ de
+cultivo,
+ sistema
+ de
+ anclaje
+ y
+ fondeo
+ de
+ los
+ pontones
+ serán
+ retirados
+ por
+ las
+ mismas
+ empresas
+ de
+servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+ estos
+elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ser
+ dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+**Etapa
+ de
+ operación**
+
+Durante
+ la
+ etapa
+ de
+ operación
+ se
+ generaran
+ los
+ siguientes
+ residuos:
+
+ **Basura
+ domiciliaria:** se
+ prevé
+ una
+ generación
+ aproximada
+ de
+ 0,5
+ kg
+ de
+ basura
+ domiciliaria
+al
+ día,
+ esta
+ se
+ almacenara
+ en
+ recipientes
+ cerrados
+ dentro
+ de
+ la
+ embarcación
+ de
+ apoyo
+ para
+ser
+ dispuestos
+ en
+ el
+ vertedero
+ autorizado.
+
+ - **Materiales:** producto
+ del
+ desgaste
+ natural
+ del
+ uso
+ de
+ ciertos
+ materiales,
+ tales
+ como,
+flotadores,
+ restos
+ de
+ redes
+ y/o
+ cabos,
+ estos
+ serán
+ almacenados
+ en
+ contendores
+apropiados
+ para
+ ser
+ dispuesto
+ en
+ vertedero
+ autorizado.
+ Sin
+ perjuicio
+ de
+ ello,
+ y
+ como
+ una
+manera
+ de
+ minimizar
+ la
+ generación
+ de
+ residuos
+ por
+ este
+ concepto
+ es
+ que
+ el
+ titular
+realizará
+ una
+ revisión
+ periódica
+ de
+ sus
+ estructuras
+ para
+ evitar
+ pérdidas
+ innecesarias
+ y
+ en
+caso
+ de
+ ser
+ factible
+ procederá
+ a
+ la
+ reparación
+ de
+ estos.
+
+ - **Fecas:** El
+ cultivo
+ de
+ moluscos
+ bivalvos,
+ si
+ bien,
+ no
+ son
+ alimentados
+ en
+ forma
+ externa,
+igualmente
+ aportan
+ contenidos
+ de
+ materia
+ orgánica
+ al
+ ambiente,
+ aunque
+ en
+ menor
+cantidad
+ que
+ un
+ cultivo
+ intensivo.
+ De
+ acuerdo
+ a
+ un
+ estudio
+ realizado
+ por
+ Navarro _et
+ al_ .
+ el
+año
+ 1993 [2],
+ estableció
+ que
+ las
+ biodeposiciones
+ de
+ diferentes
+ moluscos
+ filtradores
+ pueden
+ser
+ re-­‐utilizadas
+ por
+ ellos
+ mismos
+ o
+ utilizadas
+ por
+ organismos
+ detritívoros,
+ junto
+ con
+ esto
+establece
+ que
+ tanto
+ la
+ cantidad
+ como
+ la
+ calidad
+ de
+ la
+ oferta
+ alimentaria
+ incide
+directamente
+ en
+ la
+ cantidad
+ de
+ biodepósitos
+ a
+ generar
+ por
+ los
+ moluscos
+ filtradores;
+ este
+mismo
+ autor
+ estimó
+ que
+ la
+ composición
+ de
+ las
+ fecas
+ es
+ de
+ alrededor
+ del
+ 75%
+ de
+ fracción
+inorgánica
+ y
+ del
+ 25%
+ materia
+ orgánica.
+ La
+ tasa
+ de
+ biodeposición
+ diaria
+ es
+ de
+ alrededor
+ del
+0,02194%
+ del
+ peso
+ del
+ chorito
+ de
+ alrededor
+ de
+ 5
+ cm.,
+ y
+ corresponderá
+ aproximadamente
+al
+ 27%
+ de
+ la
+ cantidad
+ de
+ alimento
+ digerido
+ y
+ disponible
+ en
+ el
+ medio.
+
+Aplicando
+ esta
+ fórmula
+ se
+ tiene
+ lo
+ siguiente:
+
+RB=2.194x10 [-­‐4
+ ] *W,
+
+Donde,
+
+RB:
+ es
+ la
+ tasa
+ de
+ Biodepositos
+ y,
+
+W:
+ es
+ el
+ peso
+ o
+ biomasa
+ de
+ choritos
+
+Si
+ W=
+ 384000
+ kg.
+ choritos
+
+RB
+ =
+ 84,25
+ kg.
+ de
+ fecas
+ al
+ día.
+
+La
+ sedimentación
+ de
+ las
+ fecas
+ depende
+ de
+ factores
+ de
+ suma
+ relevancia
+ como
+ son
+ la
+ profundidad,
+la
+ intensidad
+ de
+ corrientes,
+ los
+ vientos,
+ presencia
+ de
+ organismos
+ detritívoros
+ y
+ calidad
+ del
+ agua.
+ La
+profundidad
+ media
+ de
+ la
+ concesión
+ es
+ de
+ 61,7
+ m.
+ (Ver **anexo
+ 3
+ CPS** ).
+
+**IV.** **Residuos
+ Peligrosos**
+
+**Residuos
+ de
+ Aceites
+ Lubricantes
+ Usados
+ (Respels):** Respecto
+ de
+ la
+ generación
+ de
+ residuos
+peligrosos,
+ el
+ titular
+ no
+ prevé
+ la
+ generación
+ de
+ estos,
+ toda
+ vez
+ que
+ el
+ proyecto
+ considera
+ el
+ uso
+ de
+embarcaciones,
+ cuyas
+ mantenciones
+ se
+ realizarán
+ en
+ lugares
+ autorizados.
+
+**Etapa
+ de
+ Abandono**
+
+En
+ caso
+ de
+ que
+ el
+ titular
+ defina
+ poner
+ cese
+ al
+ centro,
+ en
+ la
+ etapa
+ de
+ abandono
+ se
+ generarán
+ las
+siguientes
+ emisiones
+ y/o
+ residuos:
+
+ -
+ Emisiones
+ atmosféricas
+
+ -
+ Residuos
+ líquidos
+
+ -
+ Residuos
+ sólidos
+
+2 Navarro
+ J.M.,
+ Clasing
+ E.,
+ Urrutia
+ G.,
+ Asencio
+ G.,
+ Stead
+ R.,
+ Herrera
+ C.
+ (1993).
+ Biochemical
+ composition
+ of
+ the
+ suspended
+ particulate
+matter
+ in
+ a
+ tidal
+ flat
+ of
+ Southern
+ Chile:
+ an
+ evaluation
+ of
+ its
+ nutritive
+ value.
+ Estuar
+ Coast
+ Shelf
+ Sci37:59-73
+
+**A.** **Emisiones
+ atmosféricas**
+
+ Ruido
+
+Las
+ fuentes
+ de
+ emisión
+ de
+ ruido
+ durante
+ la
+ etapa
+ de
+ abandono
+ corresponderán
+ a
+ los
+ motores
+ de
+las
+ embarcaciones
+ que
+ operen
+ en
+ el
+ centro
+ de
+ cultivo.
+ Estas
+ consideran
+ el
+ uso
+ de
+ GLP
+ como
+combustible,
+ los
+ que
+ trabajarán
+ de
+ manera
+ más
+ silenciosa.
+ La
+ emisión
+ de
+ ruido
+ se
+ generará
+durante
+ la
+ actividad
+ diurna,
+ en
+ forma
+ intermitente.
+
+ Gases
+
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ significativas
+ en
+ la
+ etapa
+ de
+ abandono
+ del
+ proyecto.
+
+ Ya
+que
+ sólo
+ se
+ puede
+ considerar
+ las
+ emisiones
+ generadas
+ por
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+trabajarán
+ en
+ la
+ instalación
+ de
+ la
+ infraestructura
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+fuentes
+ móviles
+ y
+ autónomas
+ que
+ se
+ utilizan
+ como
+ combustible
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ el
+cual
+ principalmente
+ genera
+ emisiones
+ de
+ vapor
+ de
+ agua
+ reduciendo
+ en
+ un
+ 90%
+ la
+ generación
+ de
+CO 2 en
+ comparación
+ al
+ uso
+ de
+ combustibles
+ fósiles.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+tendrán
+ una
+ duración
+ máxima
+ de
+ 8
+ horas
+ diarias,
+ pero
+ su
+ utilización
+ será
+ en
+ forma
+ intermitente.
+
+Por
+ otra
+ parte,
+ la
+ localización
+ del
+ proyecto
+ se
+ encuentra
+ en
+ un
+ sector
+ con
+ una
+ alta
+ ventilación,
+ por
+lo
+ cual
+ las
+ generaciones
+ de
+ emisiones
+ atmosféricas
+ se
+ verán
+ reducidas
+ al
+ mínimo.
+
+**B.** **Residuos
+ líquidos**
+
+Los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+ las
+ aguas
+servidas,
+ las
+ embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ desarme
+ de
+ las
+ estructuras
+ de
+ cultivo
+cuentan
+ con
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+ homologadas
+ y
+aprobadas
+ por
+ la
+ autoridad
+ marítima.
+
+**C.** **Residuos
+ sólidos**
+
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ abandono
+ en
+ general
+ NO
+ generará
+ residuos,
+ productos
+ químicos
+ u
+ otras
+sustancias
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+ Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+la
+ desinstalación
+ de
+ las
+ plataformas
+ de
+ cultivo,
+ sistema
+ de
+ anclaje
+ serán
+ retirados
+ por
+ las
+ mismas
+empresas
+ de
+ servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+estos
+ elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ser
+ dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+_**Con
+ los
+ antecedentes
+ expuestos,
+ es
+ posible
+ concluir
+ que
+ el
+ proyecto
+ NO
+ genera
+ riesgos
+ para
+ la**_
+_**salud
+ de
+ la
+ población
+ en
+ virtud
+ de
+ la
+ cantidad
+ y
+ tipo
+ de
+ residuos
+ generados
+ por
+ el
+ proyecto.**_
+
+**b)** **Efectos
+ adversos
+ significativos
+ sobre
+ la
+ cantidad
+ y
+ calidad
+ de
+ los
+ recursos
+ naturales**
+
+**renovables,
+ incluidos
+ el
+ suelo,
+ agua
+ y
+ aire.**
+
+El
+ titular
+ reitera
+ que
+ el
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+ tierra
+ durante
+ todo
+ su
+ desarrollo
+ y
+por
+ ende
+ se
+ estima
+ que
+ no
+ afectará
+ los
+ recursos
+ naturales
+ renovables
+ en
+ el
+ suelo,
+ la
+ única
+intervención
+ esta
+ circunscrita
+ en
+ la
+ limpieza
+ del
+ borde
+ costero.
+ Respecto
+ del
+ recurso
+ aire,
+ quedó
+establecido
+ en
+ el
+ punto
+ anterior
+ que
+ las
+ emisiones
+ a
+ la
+ atmósfera
+ quedarán
+ confinadas
+ a
+ aquellas
+correspondientes
+ al
+ motor
+ de
+ las
+ embarcaciones
+ a
+ usar,
+ los
+ cuales
+ se
+ abastecen
+ de
+ combustible
+ a
+base
+ de
+ Gas
+ Licuado
+ de
+ Petróleo.
+ Generando
+ como
+ emisiones
+ atmosféricas
+ principalmente
+ vapor
+de
+ agua
+ reduciendo
+ en
+ un
+ 90%
+ las
+ emisiones
+ de
+ CO 2 .
+
+Dado
+ que
+ el
+ proyecto
+ corresponde
+ a
+ un
+ centro
+ categoría
+ 0
+ y
+ 2,
+ los
+ antecedentes
+ levantados
+ en
+ la
+caracterización
+ preliminar
+ de
+ sitio
+ esta
+ circunscrita
+ a
+ la
+ batimetría
+ del
+ lugar
+ y
+ plano
+ de
+ sustrato,
+ sin
+perjuicio
+ de
+ lo
+ anterior
+ en
+ el
+ presente
+ literal
+ se
+ realiza
+ un
+ análisis
+ con
+ la
+ información
+ levantada
+ en
+este
+ proyecto
+ y
+ para
+ la
+ determinación
+ del
+ aporte
+ de
+ carbono
+ orgánico
+ producto
+ de
+ las
+ fecas
+ de
+ los
+mitílidos
+ se
+ utilizarán
+ el
+ estudio
+ de
+ corrientes
+ realizado
+ para
+ el
+ proyecto
+
+De
+ acuerdo
+ al
+ estudio
+ batimétrico
+ se
+ tiene
+ que
+ la
+ profundidad
+ media
+ del
+ sector,
+ es
+ de
+ 61,7m
+ de
+profundidad
+ a
+ nivel
+ de
+ reducción
+ de
+ sonda,
+ se
+ puede
+ inferir
+ que
+ la
+ columna
+ de
+ agua
+ actuaría
+ como
+agente
+ dispersor
+ de
+ las
+ partículas
+ en
+ suspensión.
+
+Según
+ Navarro
+ 1983 [3],
+ determinó
+ que
+ la
+ composición
+ de
+ las
+ fecas
+ de
+ mitílidos
+ es
+ de
+ alrededor
+ del
+75%
+ como
+ fracción
+ inorgánica,
+ y
+ el
+ 25%
+ restante
+ corresponde
+ a
+ la
+ fracción
+ orgánica.
+ Es
+ importante
+señalar
+ que
+ este
+ tipo
+ de
+ moluscos
+ emite
+ excreciones
+ que
+ no
+ necesariamente
+ corresponden
+ a
+ la
+fracción
+ sólida,
+ sino
+ como
+ todos
+ los
+ animales,
+ también
+ excretan
+ amonio.
+ Por
+ lo
+ tanto
+ también
+ es
+posible
+ que
+ algunas
+ fecas
+ dadas
+ las
+ características
+ físicas
+ y
+ químicas
+ y
+ nivel
+ de
+ concentración,
+puedan
+ ser
+ eliminadas
+ por
+ la
+ propia
+ capacidad
+ regeneradora
+ de
+ los
+ procesos
+ naturales.
+ De
+acuerdo
+ al
+ estudio
+ realizado
+ por
+ Navarro _et
+ al_ .
+ el
+ año
+ 1993 [4],
+ estableció
+ que
+ las
+ biodeposiciones
+ de
+diferentes
+ moluscos
+ filtradores
+ pueden
+ ser
+ re-­‐utilizadas
+ por
+ ellos
+ mismos
+ o
+ utilizadas
+ por
+organismos
+ detritívoros,
+ junto
+ con
+ esto
+ establece
+ que
+ tanto
+ la
+ cantidad
+ como
+ la
+ calidad
+ de
+ la
+oferta
+ alimentaria
+ incide
+ directamente
+ en
+ la
+ cantidad
+ de
+ biodepósitos
+ a
+ generar
+ por
+ los
+ moluscos
+filtradores;
+ este
+ mismo
+ autor
+ estimó
+ que
+ la
+ composición
+ de
+ las
+ fecas
+ es
+ de
+ alrededor
+ del
+ 75%
+ de
+fracción
+ inorgánica
+ y
+ del
+ 25%
+ materia
+ orgánica.
+ La
+ tasa
+ de
+ biodeposición
+ diaria
+ es
+ de
+ alrededor
+ del
+0,02194%
+ del
+ peso
+ del
+ chorito
+ de
+ alrededor
+ de
+ 5
+ cm.,
+ y
+ corresponderá
+ aproximadamente
+ al
+ 27%
+de
+ la
+ cantidad
+ de
+ alimento
+ digerido
+ y
+ disponible
+ en
+ el
+ medio.
+
+Aplicando
+ esta
+ fórmula
+ se
+ tiene
+ lo
+ siguiente:
+
+RB=2.194x10 [-­‐4
+ ] *W,
+
+Donde,
+
+RB:
+ es
+ la
+ tasa
+ de
+ Biodepositos
+ y,
+
+W:
+ es
+ el
+ peso
+ o
+ biomasa
+ de
+ choritos
+
+Si
+ W=
+ 384000
+ kg.
+ Choritos
+ (producción
+ máxima
+ según
+ proyecto
+ técnico)
+
+_**RB
+ =
+ 84,25
+ kg.
+ de
+ fecas
+ al
+ día**_ .
+
+Para
+ calcular
+ la
+ dispersión
+ de
+ las
+ fecas
+ se
+ utilizó
+ la
+ ecuación
+ propuesta
+ por
+ Gowen
+ &
+ Bradbury
+(1987) [5] :
+
+**D
+ =
+ [(z
+ *
+ Vc)
+ /
+ vs];
+ Donde:**
+
+D:
+ Distancia
+ de
+ dispersión
+ horizontal
+ (m)
+
+z:
+ Profundidad
+ mínima
+ y
+ máxima
+ de
+ la
+ concesión
+
+Vc:
+ Velocidad
+ promedio
+ de
+ la
+ corriente
+
+3 Navarro,
+ J.
+ 1983.
+ “Oferta
+ alimenticia
+ natural
+ y
+ su
+ efecto
+ sobre
+ los
+ procesos
+ fisiológicos
+ del
+ bivalvo
+ Mytilus
+ chilensis
+ en
+ la
+ Bahía
+ e
+Yaldad,
+ Chiloé
+ (Sur
+ de
+ Chile)”.
+ En
+ mems.
+ Asoc.
+ Latinoam.
+ Acuicult.,
+ 5(2):175-­‐187
+4 Navarro
+ J.M.,
+ Clasing
+ E.,
+ Urrutia
+ G.,
+ Asencio
+ G.,
+ Stead
+ R.,
+ Herrera
+ C.
+ (1993).
+ Biochemical
+ composition
+ of
+ the
+ suspended
+ particulate
+matter
+ in
+ a
+ tidal
+ flat
+ of
+ Southern
+ Chile:
+ an
+ evaluation
+ of
+ its
+ nutritive
+ value.
+ Estuar
+ Coast
+ Shelf
+ Sci37:59-73
+5 Gowen,
+ R.J.
+ and
+ Bradbury,
+ N.B.
+ 1987.
+ The
+ ecologycal
+ impact
+ of
+ Salmonid
+ Farming
+ in
+ Coastal
+ Waters:
+ A
+ Review.
+ Oceanogr.
+ Mar.
+ Biol.
+Ann
+ Rev.,
+ (25)
+ 563-­‐575.
+
+vs:
+ Velocidad
+ de
+ sedimentación
+ de
+ las
+ Fecas:
+ 0,01
+ m/s [6] .
+
+Por
+ tanto,
+ se
+ tiene
+ lo
+ siguiente:
+
+Z:
+ 61,7
+ m
+ promedio
+ del
+ área
+ solicitada
+ en
+ concesión.
+
+Vc:
+ 0,03
+ m/s
+ (velocidad
+ promedio
+ de
+ corrientes
+ en
+ una
+ columna
+ de
+ 60
+ m
+ de
+ profundidad) [7]
+
+Vs:
+ 0,01
+ m/s
+
+**D
+ =
+ [(z
+ *
+ Vc)
+ /
+ vs]=
+ [(61,7*0,032)/0,01]=** _**197,44
+ m**_
+
+Respecto
+ de
+ las
+ biodeposiciones,
+ los
+ mitílidos
+ poseen
+ una
+ alta
+ eficiencia
+ de
+ asimilación,
+ cercana
+ al
+8%,
+ Diversos
+ autores
+ como
+ Bayne
+ et.
+ al.,
+ 1976 [8] y
+ Navarro
+ y
+ Winter,
+ 1982 [9],
+ han
+ definido
+ la
+eficiencia
+ de
+ asimilación
+ como
+ la
+ cantidad
+ de
+ material
+ orgánico
+ asimilado,
+ expresado
+ como
+ un
+porcentaje
+ de
+ la
+ cantidad
+ de
+ material
+ orgánico
+ ingestado.
+ De
+ acuerdo
+ a
+ Winter
+ et
+ al.
+ (1984)
+ la
+eficiencia
+ de
+ asimilación
+ depende
+ sobre
+ todo
+ de
+ la
+ calidad
+ y
+ cantidad
+ de
+ alimento
+ y
+ del
+ tamaño
+ del
+individuo.
+
+De
+ acuerdo
+ a
+ Navarro
+ (1983) [10],
+ otro
+ factor
+ a
+ considerar,
+ que
+ en
+ la
+ mayoría
+ de
+ los
+ moluscos,
+ el
+alimento
+ (microalgas),
+ no
+ siempre
+ pasa
+ por
+ el
+ hepatopancreas
+
+ sino
+ que
+ se
+ mantiene
+ en
+ las
+branquias
+ y
+ los
+ palpos
+ labiales
+ y
+ luego
+ es
+ expulsado.
+ El
+ autor
+ señala
+ que
+ las
+ biodeposiciones
+aportadas
+ al
+ medio
+ marino
+ por
+ diferentes
+ moluscos
+ filtradores
+ pueden
+ ser
+ utilizadas
+ nuevamente
+por
+ ellos
+ mismos
+ o
+ por
+ otros
+ organismos
+ del
+ nivel
+ trófico
+ detritívoro.
+ Navarro,
+ señala
+ además,
+ que
+la
+ gran
+ variabilidad
+ de
+ la
+ oferta
+ alimentaria,
+ tanto
+ en
+ cantidad
+ y
+ calidad,
+ es
+ fundamental
+ para
+determinar
+ la
+ cantidad
+ de
+ los
+ biodepósitos.
+
+De
+ acuerdo
+ a
+ otros
+ autores,
+ se
+ tiene
+ que
+ de
+ la
+ cantidad
+ total
+ de
+ fecas
+ producidas
+ (84,25
+ kg),
+ se
+estima
+ que
+ un
+ 17%
+ corresponde
+ a
+ cenizas
+ y
+ humedad
+ (14,3
+ kg),
+ quedando
+ entonces
+ 69,93
+ kg/año.
+Por
+ otra
+ parte
+ si
+ se
+ considera
+ lo
+ expuesto
+ por
+ Silva
+ y
+ Rojas,
+ 2003 [11],
+ donde
+ señalan
+ que
+aproximadamente
+ un
+ 26%
+ se
+ podría
+ remineralizar
+ es
+ equivalente
+ a
+ 18,2
+ kg,
+ la
+ cantidad
+ se
+ reduce
+ a
+51,73
+ kg
+ de
+ fecas
+ al
+ año.
+
+De
+ la
+ misma
+ manera,
+ Otero _et
+ al_ (2001) [12],
+ realizó
+ una
+ caracterización
+ físico
+ química
+ de
+ los
+biodepósitos
+ de
+ mejillones
+ en
+ las
+ Rias
+ Gallegas,
+ donde
+ señala
+ que
+ la
+ concentración
+ de
+ COT
+ es
+ de
+aproximadamente
+ 3,22%,
+ del
+ contenido
+ sedimentado.
+ Por
+ tanto
+ y
+ en
+ consecuencia
+ a
+ lo
+ planteado
+en
+ el
+ párrafo
+ anterior,
+ si
+ se
+ considera
+ que
+ del
+ aporte
+ total
+ de
+ fecas
+ un
+ 17%
+ es
+ ceniza
+ y
+ humedad
+ y
+26%
+ podría
+ remineralizarse,
+ tenemos
+ que
+ el
+ aporte
+ de
+ fecas
+ al
+ medio
+ sería
+ de
+ 51,73
+ kg
+ de
+ fecas
+ al
+año,
+ por
+ lo
+ que
+ se
+ tendría
+ que
+ de
+ este
+ total
+ solo
+ 1,67
+ kg
+ C/año,
+ lo
+ que
+ equivale
+ a
+ una
+concentración
+ de
+ 4,57
+ gr
+ C/día,
+ considerando
+ como
+ área
+ de
+ depositación
+ la
+ superficie
+ del
+ área
+solicitada
+ en
+ concesión
+ (4
+ hás)
+ el
+ aporte
+ será
+ de
+ 0,11mgC/m2/día,
+ por
+ lo
+ que
+ de
+ acuerdo
+ a
+ lo
+
+6 Conversación
+ personal
+ investigador
+ Sergio
+ Olave.
+7 Dato
+ extraído
+ en
+ estudio
+ realizado
+ en
+ el
+ año
+ 2010
+ en
+ el
+ marco
+ de
+ evaluación
+ del
+ proyecto
+ "CENTRO
+ DE
+ CULTIVO
+ DE
+ SALMÓNIDOS,
+PENINSULA
+ MORGAN
+ PERT
+ No
+ 90120567"
+8 Bayne,
+ B.L.,
+ Widdows,
+ J.,
+ Thompson,
+ R.J.
+ (1976).
+ Physiological
+ integratios
+ In:
+ Bayne,
+ B.L.
+ (ed)
+ Marine
+ mussels.
+ Cambridge
+ University
+Press,
+ Cambridge,
+ pp.261-­‐299.
+9 Navarro,
+ J.M.
+ &
+ J.E.
+ Winter.
+ 1982.
+ Ingestion
+ rate,
+ assimilation
+ efficiency
+ and
+ energy
+ balance
+ in
+ Mytilus
+ chilensis
+ in
+ relation
+ to
+ body
+ size
+and
+ different
+ algal
+ concentrations.
+ Marine
+ Biology.
+ 67:
+ 255-­‐266.
+10 Navarro,
+ J.
+ 1983.
+ “Oferta
+ alimenticia
+ natural
+ y
+ su
+ efecto
+ sobre
+ los
+ procesos
+ fisiológicos
+ del
+ bivalvo
+ Mytilus
+ chilensis
+ en
+ la
+ Bahía
+ e
+Yaldad,
+ Chiloé
+ (Sur
+ de
+ Chile)”.
+ En
+ mems.
+ Asoc.
+ Latinoam.
+ Acuicult.,
+ 5(2):175-­‐187
+11 Silva,
+ N
+ y
+ N.Rojas.
+ 2003.
+ Contenido
+ de
+ Carbono,
+ Nitrógeno
+ Orgánico
+ y
+ Diagénesis
+ Temprana
+ en
+ Sedimentos
+ Superficiales
+ de
+ la
+ Zona
+de
+ Canales
+ Australes
+ de
+ Chile.
+ Boca
+ del
+ Guafo
+ (43°47’S)
+ a
+ Canal
+ Pulluche
+ (45°49’S).
+ Libro
+ de
+ Resúmenes,
+ Pág
+ 51-­‐59.
+ Resultados
+ del
+Crucero
+ Cimar
+ FIORDOS
+ 8
+12 Otero.
+ I,
+ Quintas.
+ I
+ y
+ F.
+ Macias.
+ 2001.
+ Caracterización
+ Fisico
+ Quiímica
+ de
+ bio-­‐depósitos
+ de
+ mejillón
+ en
+ las
+ Rías
+ Baixas
+ (Galicia-­‐
+NOPenínsula
+ Iberica).
+ Nova
+ Acta
+ Científica
+ Compostelana
+ (biología),
+ 11:197-­‐206.
+
+planteado
+ por
+ McShane,
+ 1997 [13],
+ el
+ aporte
+ total
+ de
+ carbono
+ del
+ proyecto
+ no
+ estaría
+ afectando
+significativamente
+ los
+ recursos
+ naturales
+ renovables
+ y
+ permite
+ inferir
+ que
+ le
+ proyecto
+ estará
+acorde
+ a
+ la
+ capacidad
+ de
+ carga
+ del
+ cuerpo
+ de
+ agua,
+ teniendo
+ un
+ cultivo
+ sustentable
+ en
+ el
+ tiempo.
+
+**Área
+ de
+ influencia
+ del
+ proyecto**
+
+Respecto
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ se
+ define
+ como
+ área
+ de
+ influencia
+ cercana
+ o
+ próxima,
+al
+ área
+ correspondiente
+ a
+ la
+ concesión
+ de
+ acuicultura,
+ con
+ sus
+ respectivas
+ estructuras
+ y
+ sistemas
+de
+ fondeo
+ más
+ la
+ superficie
+ destinada
+ al
+ movimiento
+ de
+ embarcaciones
+ para
+ las
+ faenas
+ de
+encordado
+ y
+ cosecha
+ y
+ su
+ proyección
+ a
+ la
+ línea
+ de
+ costa
+ cercana
+ (área
+ demarcada
+ con
+ el
+ borde
+rojo),
+ debido
+ a
+ la
+ obligación
+ de
+ mantener
+ limpias
+ la
+ porción
+ de
+ playa
+ (D.S.
+ N°
+ 320).
+ Conforme
+ a
+ lo
+anterior
+ se
+ estima
+ un
+ área
+ de
+ influencia
+ directa
+ de
+ 23,8
+ hás.
+ (Figura
+ 17).
+
+Se
+ reitera
+ que
+ el
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+ tierra
+ en
+ esta
+ etapa
+ y
+ por
+ ende
+ se
+ estima
+que
+ no
+ afectará
+ los
+ recursos
+ naturales
+ renovables
+ en
+ el
+ suelo.
+ Respecto
+ del
+ recurso
+ aire,
+ quedó
+establecido
+ que
+ las
+ emisiones
+ a
+ la
+ atmósfera
+ quedarán
+ confinadas
+ a
+ aquellas
+ correspondientes
+ al
+uso
+ de
+ motores
+ fuera
+ de
+ borda
+ equipados
+ con
+ motores
+ de
+ combustión
+ a
+ gas,
+ o
+ eventualmente
+ al
+generador
+ del
+ pontón,
+ emisiones
+ que
+ no
+ son
+ permanentes,
+ sino
+ que
+ esporádicas.
+
+En
+ relación
+ a
+ la
+ circulación
+ de
+ embarcaciones
+ para
+ la
+ operación
+ del
+ proyecto,
+ se
+ considera
+ que
+estos
+ serán
+ diarios,
+ en
+ la
+ medida
+ que
+ las
+ condiciones
+ meteorológicas
+ lo
+ permitan
+ estas
+ se
+ harán
+ en
+embarcaciones
+ acondicionadas
+ para
+ ello,
+ y
+ con
+ habitabilidad
+ para
+ el
+ personal
+ que
+ labore
+ en
+ el
+centro,
+ Tal
+ como
+ se
+ mencionó,
+ estos
+ viajes
+ serán
+ realizados
+ por
+ los
+ tracks
+ de
+ navegación
+establecidos
+ por
+ la
+ Autoridad
+ Marítima
+ y
+ siguiendo
+ todas
+ las
+ medidas
+ de
+ bioseguridad
+establecidas
+ por
+ el
+ Servicio
+ Nacional
+ de
+ Pesca
+ y
+ Acuicultura,
+ por
+ lo
+ que
+ no
+ se
+ verán
+ afectados
+ otros
+centros
+ de
+ cultivo
+ así
+ como
+ tampoco
+ se
+ verán
+ afectados
+ centros
+ o
+ lugares
+ de
+ interés
+ turístico.
+
+_**El
+ titular
+ considera
+ que
+ con
+ base
+ en
+ los
+ antecedentes
+ expuestos,
+ considerando
+ la
+ envergadura**_
+_**del
+ proyecto,
+ las
+ condiciones
+ oceanográficas,
+ el
+ tipo
+ de
+ recurso
+ a
+ cultivar
+ que
+ no
+ requiere
+ de**_
+_**alimentación
+ externa
+ y
+ por
+ ende
+ no
+ existe
+ un
+ aporte
+ alóctono
+ de
+ materia
+ orgánica
+ al
+ medio,**_
+
+13 McShane,
+ P.
+ 1997.
+ Environmental
+ effects
+ of
+ sea-­‐based
+ farming
+ of
+ paua
+ (Haliotis
+ spp.)
+ and
+ kina
+ (Evechinus
+ chloroticus).
+ Conservation
+Advisory
+ Science
+ Notes
+ No.
+ 143,
+ Department
+ of
+ Conservation,
+ Wellington.
+
+_**junto
+ con
+ operar
+ bajo
+ un
+ concepto
+ preventivo,
+ no
+ se
+ prevé
+ que
+ se
+ generen
+ efectos
+ adversos**_
+_**significativos
+ sobre
+ la
+ cantidad
+ y
+ calidad
+ de
+ los
+ recursos
+ naturales
+ renovables,
+ incluidos
+ suelo,**_
+_**agua
+ y
+ aire.**_
+
+_**Por
+ tanto,
+ de
+ acuerdo
+ a
+ este
+ análisis,
+ el
+ área
+ de
+ interés
+ presenta
+ la
+ capacidad
+ de
+ dilución,**_
+_**dispersión,
+ autodepuración,
+ asimilación
+ y
+ regeneración
+ de
+ los
+ recursos
+ naturales
+ renovables**_
+_**presentes
+ en
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ o
+ actividad.**_
+
+**c)** **Reasentamiento
+ de
+ comunidades
+ humanas,
+ o
+ alteración
+ significativa
+ de
+ los
+ sistemas
+ de**
+
+**vida
+ y
+ costumbres
+ de
+ grupos
+ humanos;**
+
+La
+ solicitud
+ de
+ concesión
+ Brazo
+ de
+ Hojeda
+ se
+ emplaza
+ en
+ Brazo
+ de
+ Hojeda
+ península
+ Vicuña
+Mackenna,
+ sector
+ 3
+ en
+ la
+ Comuna
+ de
+ Natales,
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena,
+emplazada
+ dentro
+ de
+ las
+ AAA.
+ El
+ sector
+ es
+ acuícola,
+ donde
+ es
+ posible
+ visualizar
+ actividad
+ antrópica
+como
+ centros
+ de
+ cultivo
+ de
+ salmónidos.
+
+A
+ continuación
+ se
+ realiza
+ un
+ análisis
+ para
+ determinar
+ si
+ la
+ implementación
+ del
+ proyecto
+ generará
+reasentamiento
+ o
+ alterará
+ significativamente
+ los
+ sistemas
+ de
+ vida;
+ el
+ análisis
+ se
+ acota
+ a
+ la
+ Comuna
+de
+ Natales
+ y
+ se
+ utiliza
+ como
+ fuente
+ de
+ información
+ el
+ Reporte
+ estadístico
+ Comunal
+ 2012
+ de
+ la
+Comuna
+ de
+ Natales
+ del
+ Biblioteca
+ del
+ Congreso
+ Nacional,
+ la
+ que
+ a
+ su
+ vez
+ utiliza
+ como
+ fuente
+ el
+censo
+ 2002
+ y
+ la
+ encuesta
+ Casen
+ del
+ año
+ 2009:
+
+La
+ concesión
+ se
+ localiza
+ en
+ Brazo
+ de
+ Hojeda
+ península
+ Vicuña
+ Mackenna,
+ en
+ la
+ Comuna
+ de
+ Natales,
+Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena,
+ a
+ aproximadamente
+ a
+ 62
+ km
+ de
+ Puerto
+ Natales
+ (18.500
+habitates
+ aproximadamente),
+ a
+ 72
+ km
+ de
+ Casas
+ Viejas,
+ 73
+ km
+ de
+ Río
+ Traqnuilo,
+ 54
+ km
+ de
+ Solar,
+ 52
+km
+ de
+ La
+ Junta,
+ 46
+ km
+ de
+ río
+ Blanco,
+ todas
+ ellas
+ localidades
+ de
+ menos
+ de
+ 500
+ habitantes
+
+ (fuente
+SNIT
+ Magallanes)
+ (Figura
+ 18).
+
+De
+ acuerdo
+ al
+ análisis
+ territorial
+ del
+ proyecto,
+ realizado
+ en
+ un
+ buffer
+ de
+ 25
+ km
+ considerando
+ las
+áreas
+ bajo
+ protección
+ oficial
+ (SEIA
+ artículo
+ 10),
+ Áreas
+ protegidas
+ (SEIA,
+ Artículo
+ 10),
+ sitios
+
+prioritarios
+ para
+ la
+ conservación
+ de
+ la
+ biodiversidad
+ y
+ proyectos
+ tanto
+ DIA
+ como
+ EIA,
+ se
+ obtuvo
+que
+ en
+ el
+ entorno
+ cercano
+ al
+ proyecto
+ sólo
+ se
+ registran
+ centros
+ de
+ cultivo
+ de
+ salmones.
+ (Figura
+19).
+
+La
+ CC.AA.
+ del
+ proyecto
+ de
+ estudio
+ se
+ localiza
+ dentro
+ de
+ las
+ Áreas
+ Aptas
+ para
+ la
+ Acuicultura _(A.A.A.)_ .
+Se
+ solicito
+ información
+ a
+ Sernapesca
+ respecto
+ de
+ la
+ existencia
+ áreas
+ solicitadas
+ por
+ pescadores
+artesanales,
+ como
+ áreas
+ de
+ manejo
+ para
+ la
+ explotación
+ de
+ recursos
+ bentónicos
+ y
+ zonas
+ de
+ pesca,
+de
+ acuerdo
+ a
+ carta
+ recepcionada
+ con
+ fecha
+ 03
+ de
+ Septiembre
+ 2014
+ correspondiente
+ al
+ ORD./N°
+ E
+7683
+ de
+ Dirección
+ Regional
+ de
+ Pesca
+ y
+ Acuicultura
+ Magallanes
+ y
+ Antártica
+ Chilena,
+ indica
+ que
+ en
+las
+ zonas
+ consultadas
+ no
+ existen
+ caletas
+ pesqueras,
+ ni
+ áreas
+ de
+ manejo
+ de
+ recursos
+ bentónicos.
+Siendo
+ la
+ caleta
+ pesquera
+ más
+ cercana
+ al
+ lugar,
+ “Puerto
+ Natales”,
+ de
+ acuerdo
+ a
+ la
+ Nomina
+ Oficial
+de
+ Caletas
+ (Decreto
+ N°
+ 240/1998)
+ y
+ sus
+ Modificaciones
+ (Decreto
+ N°
+ 337/2004,
+ 237/2009,
+632/2013).
+
+Dentro
+ de
+ la
+ información
+ levantada
+ en
+ la
+ página
+ de
+ SUBPESCA,
+ Portal
+ de
+ Chile
+ y
+ SNIT
+ de
+Magallanes,
+ se
+ identifica
+ una
+ caleta
+ de
+ pescadores
+ correspondiente
+ a
+ Puerto
+ Natales
+ y
+ un
+ área
+ de
+manejo
+ de
+ recursos
+ bentónicos
+ que
+ se
+ encuentra
+ disponible
+ por
+ renuncia
+ del
+ STI
+ de
+ Pescadores
+Artesanales
+ de
+ Puerto
+ Natales.
+ Y
+ aún
+ cuando
+ no
+ se
+ tiene
+ información
+ respecto
+ de
+ zonas
+ de
+ pesca
+en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto,
+ el
+ Titular
+ reconoce
+ que
+ en
+ particular
+ la
+ región
+ de
+Magallanes
+ ha
+ presentado
+ sitios
+ históricos
+ vinculados
+ a
+ la
+ actividad
+ de
+ la
+ pesca
+ artesanal
+ por
+ lo
+que
+ no
+ descarta
+ la
+ posibilidad
+ de
+ que
+ los
+ usos
+ históricos
+ sean
+ utilizados
+ en
+ la
+ actualidad
+ habida
+consideración
+ de
+ la
+ disponibilidad
+ de
+ los
+ recursos
+ bentónicos
+ que
+ en
+ el
+ desarrollo
+ de
+ esas
+actividades
+ históricas
+ se
+ obtuvieron,
+ por
+ lo
+ que
+ el
+ Titular
+ se
+ compromete
+ a
+ dar
+ paso
+ a
+embarcaciones
+ en
+ la
+ medida
+ que
+ no
+ dificulten
+ el
+ normal
+ desarrollo
+ del
+ centro
+ de
+ cultivo
+ (Figura
+ 20
+y
+ 21)
+ .
+
+Conforme
+ a
+ lo
+ ya
+ señalado
+ en
+ párrafos
+ anteriores,
+ el
+ proyecto
+ se
+ emplaza
+ distante
+ de
+ las
+ áreas
+ de
+manejo,
+ sitios
+ de
+ pesca,
+ zonas
+ de
+ extracción
+ y
+ caletas
+ de
+ pescadores
+ emplazados
+ en
+ su
+ mayoría
+ en
+el
+ canal
+ Valdés.
+ De
+ acuerdo
+ al
+ SNIT
+ de
+ Magallanes,
+ las
+ especies
+ declaradas
+ dan
+ cuenta
+ de
+ la
+explotación
+ de
+ recursos
+ tales
+ como
+ Erizo,
+ Luga
+ Roja
+ y
+ Choritos,
+ (Figura
+ 20).
+ Todos
+ ellos
+ distante
+ del
+área
+ de
+ influencia
+ directa
+ del
+ proyecto.
+
+Tal
+ como
+ se
+ planteó
+ en
+ la
+ etapa
+ de
+ construcción,
+ el
+ presente
+ proyecto
+ sólo
+ cuenta
+ con
+instalaciones
+ en
+ mar,
+ no
+ tendrá
+ ninguna
+ instalación
+ de
+ apoyo
+ en
+ tierra.
+ Seguido
+ de
+ esto,
+ tal
+ como
+se
+ planteó
+ en
+ los
+ párrafos
+ anteriores
+ el
+ poblado
+ más
+ cercano
+ se
+ ubica
+ aproximadamente
+ a
+ 37
+ km
+Río
+ Blanco;
+ en
+ tanto
+ Puerto
+ Natales
+ se
+ emplaza
+ a
+ más
+ de
+ 60
+ km
+ en
+ línea
+ recta
+ fuera
+ del
+ área
+ de
+influencia
+ del
+ proyecto.
+ Dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ no
+ hay
+ asentamientos
+humanos,
+ que
+ pudiesen
+ ser
+ afectados
+ por
+ la
+ operatividad
+ del
+ centro.
+
+De
+ acuerdo
+ a
+ los
+ resultados
+ obtenidos
+ en
+ el
+ censo
+ del
+ año
+ 2002,
+ la
+ región
+ de
+ Magallanes
+ tiene
+ una
+población
+ total
+ de
+ 150.826
+ habitantes,
+ y
+ la
+ comuna
+ de
+ Natales
+ tiene
+ una
+ población
+ de
+ 19.116
+habitantes. [14] Del
+ total
+ poblacional
+ el
+ 38,15%
+ pertenece
+ a
+ la
+
+ etnia
+ Mapuche.
+ El
+ nivel
+ educacional
+refleja
+ que
+ 20,98%
+ cuentan
+ un
+ nivel
+ de
+ escolaridad
+ de
+ enseñanza
+ media,
+ el
+ 7,8%
+ cuenta
+ con
+ un
+educación
+ superior
+ completa _(Fuente:
+ Encuesta
+ de
+ caracterización
+ socio
+ económica
+ (CASEN),_
+_Ministerio
+ de
+ Desarrollo
+ Social,
+ año
+ 2009)._
+
+Respecto
+ de
+ la
+ dimensión
+ demográfica,
+ consistente
+ en
+ la
+ estructura
+ de
+ la
+ población
+ local
+ por
+edades,
+ sexo,
+ rama
+ de
+ actividad,
+ categoría
+ ocupacional
+ y
+ status
+ migratorio,
+ considerando
+ la
+estructura
+ urbano
+ rural;
+ la
+ estructura
+ según
+ rama
+ de
+ actividad
+ económica
+ y
+ categoría
+ ocupacional;
+la
+ población
+ económicamente
+ activa;
+ la
+ estructura
+ de
+ edad
+ y
+ sexo;
+ la
+ escolaridad
+ y
+ nivel
+ de
+instrucción;
+ y
+ las
+ migraciones.
+ (Letra
+ b,
+ Art.8
+ RSEIA).
+
+De
+ acuerdo
+ al
+ reporte
+ estadístico
+ comunal
+ 2012
+ de
+ la
+ comuna
+ de
+ Aisén,
+ se
+ tiene
+ lo
+ siguiente:
+
+14 Fuente: reportes estadísticos comunales 2012. Comuna de Natales
+
+**Indicadores
+ demográficos**
+
+Del
+ total
+ de
+ la
+ población
+
+ de
+ la
+ Región
+ de
+ Magallanes
+ (150.826
+ habitantes),
+ la
+ comuna
+ de
+ Natales
+tiene
+ 19.116
+ habitantes;
+ de
+ este
+ total
+ el
+ 60,7%
+ son
+ hombres
+ y
+ el
+ 23,44%
+ está
+ dentro
+ del
+ grupo
+ de
+edad
+ de
+ 45
+ a
+ 64
+ años.
+ El
+ índice
+ de
+ dependencia
+ demográfica
+ es
+ de
+ un
+ 49,45%
+ en
+ la
+ comuna
+ de
+Natales
+ y
+ el
+ índice
+ de
+ adultos
+ mayores
+ es
+ de
+ 39,81%.
+ (Figuras
+ 22
+ a
+ 26).
+
+De
+ acuerdo
+ a
+ la
+ encuesta
+ Casen
+ del
+ año
+ 2009,
+ del
+ total
+ de
+ la
+ población
+ de
+ la
+ comuna
+ de
+ Natales
+ el
+38,15%
+ pertenece
+ a
+ la
+ etnia
+ Mapuche;
+ y
+ el
+ 80,13%
+ de
+ la
+ población
+ profesa
+ la
+ religión
+ católica.
+(Figuras
+ 27
+ y
+ 28).
+
+De
+ los
+ grupos
+ originarios
+ antes
+ mencionados,
+ los
+ únicos
+ con
+ presencia
+ histórica
+ en
+ la
+ Región
+ son
+los
+ Alacalufes,
+ pueblo
+ indígena
+ canoero,
+ que
+ recorría
+ los
+ canales
+ y
+ no
+ tenia
+ asentamientos
+ en
+ninguno
+ de
+ ellos.
+ No
+ existe
+ evidencia
+ de
+ navegantes
+ que
+ hayan
+ declarado
+ ser
+ descendientes
+ de
+pueblos
+ originarios
+ y
+ que
+ reclamen
+ territorios
+ o
+ zonas
+ de
+ pesca
+ en
+ el
+ sector
+ de
+ emplazamiento
+ del
+centro
+ de
+ cultivo.
+ Por
+ su
+ ubicación
+ geográfica
+ es
+ poco
+ frecuente
+ ver
+ embarcaciones
+ en
+ actividades
+de
+ pesca
+ extractiva
+ en
+ el
+ área.
+ De
+ igual
+ forma
+ se
+ destaca
+ que
+ este
+ centro
+ no
+ posee
+ instalaciones
+en
+ tierra,
+ por
+ lo
+ cual
+ de
+ existir
+ no
+ interferirá
+ con
+ sitios
+ de
+ valor
+ arqueológico
+ que
+ pudieran
+ ser
+encontrados.
+
+**I.** Población
+ Total
+
+**II.** Población
+ por
+ sexo
+
+**III.** Población
+ por
+ grupos
+ de
+ edad
+
+**IV.** Índice
+ de
+ dependencia
+ demográfica
+ y
+ mayores
+ de
+ edad
+
+**V.** Población
+ según
+ etnia
+
+**VI.** Población
+ según
+ religión
+
+**Indicadores
+ sociales**
+
+En
+ la
+ Comuna
+ de
+ Natales
+ el
+ 1,7%
+ es
+ pobre
+ indigente
+ y
+ el
+ 4,9%
+ pobre
+ no
+ indigente;
+ respecto
+ de
+ los
+hogares
+ el
+ 1,6%
+ es
+ pobre
+ indigente
+ y
+ el
+ 3,4%
+ es
+ pobre
+ no
+ indigente;
+ en
+ tanto
+ el
+ 41,17%
+ de
+ los
+hogares
+ tiene
+ a
+
+ la
+ mujer
+ como
+ jefa
+ de
+ hogar.
+ El
+ ingreso
+ promedio
+ en
+ la
+ comuna
+ es
+ de
+ $577.946.
+ El
+índice
+ de
+ hacinamiento
+ dice
+ que
+ el
+ 93,66%
+ son
+ hogares
+ sin
+ hacinamiento
+ y
+ el
+ porcentaje
+ de
+hogares
+ sin
+ allegamiento
+ interno
+ es
+
+ 91,83%
+ y
+ externo
+ un
+ 99,52%.
+ La
+ tenencia
+ de
+ viviendas
+ se
+detalla
+ de
+ manera
+ en
+ que
+ el
+ 74,19%
+ de
+ la
+ población
+ tiene
+ viviendas
+ pagadas;
+ el
+ 99,66%
+ cuenta
+ con
+casa.
+ De
+ estas
+ viviendas
+ el
+ 98,5%
+ tienen
+ una
+ calidad
+ de
+ vivienda
+ aceptable
+ no
+ existiendo
+ ninguna
+registrada
+ en
+ la
+ categoría
+ de
+ irrecuperable.
+ (Figuras
+ 29
+ a
+ la
+ 37)
+
+**VII.** Población
+ según
+ pobreza
+
+**VIII.** Hogares
+ según
+ pobreza
+
+**IX.** Hogares
+ con
+ mujeres
+ jefas
+ de
+ hogar
+
+**X.** Ingreso
+ promedio
+ de
+ los
+ hogares
+
+**XI.** Índice
+ de
+ hacinamiento
+
+**XII.** Índice
+ de
+ allegamiento
+
+**XIII.** Tipo
+ de
+ tenencia
+ de
+ la
+ vivienda
+
+**XIV.** Tipo
+ de
+ vivienda
+ predominante
+
+**XV.** Calidad
+ de
+ la
+ vivienda
+
+**Indicadores
+ de
+ salud**
+
+A
+ nivel
+ nacional,
+ el
+ acceso
+ de
+ las
+ personas
+ a
+ los
+ servicios
+ de
+ salud
+ está
+ determinado
+ por
+ el
+ tipo
+ de
+seguro
+ al
+ cual
+ están
+ afiliados.
+ En
+ el
+ año
+ 2011
+ el
+ 81,0%
+ de
+ la
+ población
+ pertenece
+ al
+ seguro
+ público,
+y
+ 12,9%
+ a
+ seguros
+ privados
+ (ISAPRES).
+ De
+ acuerdo
+ a
+ datos
+ CASEN,
+ el
+ sistema
+ público
+ ha
+ tenido
+ un
+incremento
+ sostenido
+ de
+ sus
+ beneficiarios
+ desde
+ el
+ año
+ 2003.
+ En
+ el
+ mismo
+ período
+ se
+ observa
+ una
+creciente
+ disminución
+ del
+ porcentaje
+ de
+ población
+ no
+ cubierta
+ por
+ ningún
+ seguro
+ de
+ salud
+ (en
+categoría
+ "Particular").
+ La
+ encuesta
+ Casen
+ 2011
+ permite
+ constatar
+ que
+ existen
+ importantes
+diferencias
+ regionales
+ en
+ la
+ afiliación
+ a
+ un
+ determinado
+ sistema,
+ verificándose
+ la
+ mayor
+ tasa
+ de
+afiliación
+ a
+ ISAPRE
+ en
+ Región
+ Metropolitana
+ (18,7%
+ versus
+ 12,9%
+ del
+ promedio
+ nacional).
+ FONASA
+clasifica
+ a
+ sus
+ beneficiarios
+ en
+ tramos
+ según
+ ingreso
+ (A/B/C/D),
+ lo
+ que
+ determina
+ su
+ forma
+ de
+acceder
+ a
+ la
+ atención
+ de
+ salud.
+ El
+ año
+ 2010,
+ del
+ total
+ de
+ los
+ afiliados
+ a
+ FONASA,
+ el
+ 29,5%
+ se
+inscribe
+ en
+ grupo
+ A
+ (personas
+ carentes
+ de
+ ingresos),
+ personas
+ para
+ las
+ cuales
+ no
+ está
+ disponible
+ la
+modalidad
+ de
+ libre
+ elección.
+
+**Indicadores
+ educacionales**
+
+Se
+ expone
+ un
+ conjunto
+ de
+ datos
+ educacionales
+ para
+ obtener
+ una
+ primera
+ visión
+ del
+ mapa
+ de
+establecimientos
+ que
+ imparten
+ educación
+ escolar
+ en
+ las
+ comunas
+ del
+ país.
+ Los
+ datos
+ sirven
+ para
+comparar
+ la
+ comuna
+ con
+ la
+ región
+ y
+ el
+ país,
+ cómo
+ se
+ distribuyen
+ los
+ establecimientos
+ por
+dependencia
+ -­‐municipal,
+ particular
+ subvencionado,
+ particular
+ pagado-­‐
+ y
+ si
+ han
+ existido
+ variaciones
+en
+ los
+ últimos
+ cinco
+ años
+ en
+ términos
+ de
+ aumentos
+ o
+ disminuciones.
+ Asimismo,
+ se
+ aportan
+ los
+resultados
+ promedio
+ de
+ las
+ pruebas
+ de
+ medición
+ calidad
+ (Simce)
+ durante
+ la
+ trayectoria
+ escolar
+ y
+los
+ resultados
+ al
+ egreso
+ del
+ sistema
+ escolar,
+ según
+ la
+ Pruebas
+ de
+ Selección
+ Universitaria
+ (PSU),
+ en
+orden
+ a
+ observar
+ elementos
+ de
+ desempeño.
+ Finalmente,
+ se
+ incluyen
+ los
+ años
+ de
+ escolaridad
+promedio
+ de
+ la
+ población
+ que
+ permiten
+ observar
+ el
+ nivel
+ educacional
+ de
+ la
+ población
+ y
+ cómo
+ ha
+evolucionado
+ en
+ los
+ últimos
+ ocho
+ años.
+
+ (Figura
+ 38)
+
+|XVI. Año
+ de
+ Escolaridad
+ Promedio|Col2|Col3|
+|---|---|---|
+||||
+||||
+||||
+||||
+|_Figura38.Niveleducacional_|_Figura38.Niveleducacional_|_Figura38.Niveleducacional_|
+
+**Indicadores
+ económicos**
+
+Las
+ tasas
+ de
+ desocupación
+ a
+ nivel
+ nacional
+ son
+ uno
+ de
+ los
+ indicadores
+ más
+ relevantes
+ a
+ la
+ hora
+ de
+establecer
+ comparaciones
+ regionales
+ o
+ comunales.
+ Ellas,
+ reflejan
+ en
+ gran
+ medida
+ la
+ situación
+económica
+ de
+ la
+ Comuna
+ en
+ relación
+ a
+ la
+ Región
+ y
+ al
+ conjunto
+ del
+ país.
+ Como
+ dato
+ de
+ referencia,
+cabe
+ mencionar
+ que
+ la
+ tasa
+ de
+ desempleo
+ nacional
+ ha
+ ido
+ reduciéndose
+ desde
+ 2009,
+ situándose
+en
+ al
+ 7,7%,
+ según
+ la
+ CASEN
+ de
+ 2011.
+ Relacionado
+ con
+ el
+ empleo
+ y
+ la
+ actividad
+ económica,
+ y
+ con
+ la
+finalidad
+ de
+ comprender
+ las
+ características
+ propias
+ de
+ cada
+ Comuna
+ y
+ poner
+ en
+ concordancia
+ las
+políticas
+ de
+ promoción
+ de
+ la
+ actividad
+ empresarial
+ con
+ la
+ realidad
+ comunal,
+ es
+ necesario
+ conocer
+ y
+ponderar
+ la
+ importancia
+ relativa
+ de
+ la
+ pequeña,
+ mediana
+ y
+ microempresa
+ y
+ la
+ cantidad
+ de
+empleos
+ que
+ generan
+ cada
+ una.
+ Los
+ principales
+ rubros
+ a
+ tener
+ en
+ cuenta,
+ y
+ donde
+ las
+comparaciones
+ con
+ el
+ total
+ nacional
+ y
+ regional
+ tienen
+ más
+ relevancia,
+ son
+ comercio
+ al
+ por
+ mayor
+ y
+menor,
+ transportes,
+ construcción
+ y
+ actividades
+ inmobiliarias,
+ y
+ las
+ actividades
+ relativas
+ a
+ los
+servicios
+ las
+ cuales,
+ en
+ general,
+ están
+ presentes
+ a
+ lo
+ largo
+ de
+ todo
+ el
+ país.
+ Sin
+ embargo,
+ también
+ se
+debe
+ tener
+ presente
+ los
+ datos
+ de
+ las
+ actividades
+ que
+ son
+ más
+ importantes
+ para
+ cada
+ Comuna
+ en
+particular,
+ más
+ allá
+ de
+ las
+ comparaciones
+ nacionales.
+ (Figura
+ 39
+ a
+ la
+ 42)
+
+**Indicadores
+ municipales**
+
+El
+ origen
+ de
+ los
+ ingresos
+ municipales
+ sirve
+ como
+ indicador
+ para
+ ilustrar
+ en
+ términos
+ comparativos,
+la
+ mayor
+ o
+ menor
+ independencia
+ financiera
+ de
+ estos
+ organismos.
+ Como
+ dato
+ referencial,
+ cerca
+ del
+38%
+ de
+ los
+ municipios
+ nacionales
+ dependen
+ financieramente
+ entre
+ un
+ 50%
+ y
+ un
+ 75%
+ del
+ Fondo
+Común
+ Municipal
+ (FCM).
+ En
+ el
+ gasto
+ se
+ determinan,
+ los
+ porcentajes
+ destinados
+ a
+ inversión
+municipal
+ que
+ puede
+ ser
+ estimado
+ el
+ motor
+ del
+ desarrollo
+ comuna;
+ el
+ porcentaje
+ de
+ recursos
+ que
+se
+ traspasan
+ desde
+ el
+ gobierno
+ central
+ para
+ cubrir
+ los
+ sectores
+ de
+ educación
+ y
+ salud
+ municipal,
+ y
+ el
+porcentaje
+ de
+ la
+ deuda
+ flotante
+ -­‐la
+ cual
+ hace
+ referencia
+ a
+ los
+ compromisos
+ que
+ se
+ deben
+ asumir
+en
+ el
+ año
+ calendario
+ venidero,
+ a
+ partir
+ de
+ obligaciones
+ asumidas
+ y
+ obligadas
+ en
+ el
+ año
+ anterior-­‐.
+Tomando
+ en
+ consideración
+ la
+ cantidad
+ de
+ habitantes,
+ se
+ puede
+ establecer
+ la
+ variabilidad
+ anual
+ del
+gasto
+ total
+ per
+ cápita
+ municipal,
+ a
+ fin
+ de
+ complementar
+ el
+ análisis
+ del
+ direccionamiento
+ del
+ gasto.
+La
+ estructuración
+ social
+ de
+ organizaciones
+ comunitarias
+ entrega
+ elementos
+ para
+ desarrollar
+ un
+análisis
+ de
+ participación
+ y
+ trabajo
+ asociativo
+ de
+ los
+ habitantes
+ de
+ la
+ comuna.
+
+**Indicadores
+ de
+ seguridad**
+
+Las
+ bases
+ de
+ datos
+ de
+ denuncias
+ por
+ delitos
+ de
+ mayor
+ connotación
+ social
+ (DMCS)
+ y
+ denuncias
+ de
+violencia
+ intrafamiliar
+ (VIF)
+ son
+ llevadas
+ por
+ el
+ Ministerio
+ del
+ Interior
+ desde
+ 1999
+ por
+ medio
+ de
+ la
+confrontación
+ de
+ la
+ información
+ de
+ denuncias
+ provista
+ por
+ Carabineros
+ y
+ Policía
+ de
+ Investigaciones
+y
+ se
+ expresan
+ en
+ tasas
+ por
+ cada
+ 100.000
+ habitantes.
+ Las
+ denuncias
+ corresponden
+ a
+ reportes
+voluntarios
+ de
+ la
+ población
+ sobre
+ hechos
+ delictuales,
+ por
+ tanto
+ las
+ estadísticas
+ de
+ denuncia
+ de
+delitos
+ no
+ contemplan
+ la
+ totalidad
+ de
+ los
+ hechos
+ delictuales
+ registrados
+ sino
+ solamente
+ aquellos
+que
+ han
+ sido
+ denunciados.
+ Según
+ las
+ encuestas
+ de
+ victimización,
+ cerca
+ de
+ un
+ 50
+ por
+ ciento
+ de
+ los
+delitos
+ no
+ son
+ denunciados.
+ Los
+ DMCS
+ involucran
+ una
+ serie
+ de
+ delitos
+ en
+ contra
+ de
+ la
+ propiedad,
+además
+ de
+ homicidio,
+ violación
+ y
+ lesiones,
+ entendiéndose
+ que
+ su
+ comisión
+ acarrea
+ una
+importante
+ alarma
+ pública.
+ Las
+ denuncias
+ por
+ violencia
+ intrafamiliar
+ se
+ registran
+ en
+ forma
+separada.
+ Verificar
+ datos
+ y
+ años
+ disponibles
+ en
+ Rocuant
+ y
+ los
+ publicados
+ en
+ el
+ Reporte,
+ para
+corregir
+ el
+ último
+ párrafo
+ del
+ texto
+ introductorio.
+ En
+ términos
+ de
+ evolución,
+ el
+ año
+ 2010
+ rompe
+ la
+tendencia
+ ascendente
+ de
+ las
+ denuncias
+ por
+ DMCS
+ y
+ VIF,
+ experimentando
+ leves
+ bajas
+ en
+ las
+ tasas
+de
+ denuncias
+ cada
+ 100.000
+ habitantes.
+
+Finalmente,
+ el
+ Titular
+ destaca
+ que,
+ aun
+ cuando
+ el
+ proyecto
+ se
+ encuentra
+ emplazado
+ en
+ las
+ áreas
+definidas
+ como
+ aptas
+ para
+ la
+ acuicultura,
+ y
+ que
+ de
+ acuerdo
+ a
+ la
+ información
+ recopilada
+ el
+ proyecto
+se
+ emplaza
+ distante
+ a
+ las
+ área
+ de
+ manejo;
+ de
+ acuerdo
+ al
+ SNIT
+ de
+ Magallanes
+ existen
+ zonas
+ de
+pesca
+ y
+ extracción
+ de
+ Luga
+ Roja,
+ erizo
+ y
+ Chorito
+ situados
+ en
+ el
+ Canal
+ Valdés
+ y
+ todas
+ ellas
+ fuera
+ al
+área
+ de
+ influencia
+ directa
+ del
+ proyecto,
+ reconociendo
+ que
+ en
+ particular
+ la
+ región
+ de
+ Magallanes
+ ha
+presentado
+ sitios
+ históricos
+ vinculados
+ a
+ la
+ actividad
+ de
+ la
+ pesca
+ artesanal
+ por
+ lo
+ que
+ no
+ descarta
+la
+ posibilidad
+ de
+ que
+ los
+ usos
+ históricos
+ sean
+ utilizados
+ en
+ la
+ actualidad
+ habida
+ consideración
+ de
+ la
+disponibilidad
+ de
+ los
+ recursos
+ pelágicos
+ o
+ demersales
+ que
+ en
+ el
+ desarrollo
+ de
+ esas
+ actividades
+históricas
+ se
+ obtuvieron.
+ El
+ Titular
+ se
+ compromete
+ a
+ dar
+ libre
+ paso
+ a
+ las
+ embarcaciones
+ en
+ la
+medida
+ que
+ no
+ interfieran
+ en
+ la
+ operación
+ del
+ centro.
+ Por
+ tanto
+ y
+ de
+ acuerdo
+ a
+ lo
+ expuesto
+ el
+titular
+ prevé
+ que
+ el
+ centro
+ de
+ cultivo
+ Barros
+ Arana,
+ en
+ atención
+ a
+ la
+ ubicación
+ dada
+ dentro
+ de
+ las
+áreas
+ aptas
+ para
+ el
+ desarrollo
+ acuícola,
+ así
+ como
+ también
+ a
+ la
+ lejanía
+ de
+ las
+ mayorías
+ zonas
+ de
+manejo
+ de
+ recursos
+ bentónicas
+ y
+ áreas
+ de
+ pesca,
+ junto
+ con
+ las
+ no
+ prevé
+ una
+ afectación
+
+_**De
+ acuerdo
+ a
+ lo
+ expuesto
+ en
+ las
+ tablas
+ anteriores,
+ la
+ comuna
+ de
+ Natales
+ presenta
+ una
+ condición**_
+_**socio
+ cultural
+ acorde
+ a
+ la
+ estructura
+ de
+ la
+ región
+ y
+ dentro
+ de
+ lo
+ esperado
+ a
+ nivel
+ nacional.
+ Ya
+ que**_
+_**el
+ centro
+ no
+ contará
+ con
+ infraestructura
+ en
+ tierra
+ y
+ en
+ virtud
+ de
+ la
+ ubicación
+ del
+ centro,
+ distante**_
+_**a
+ unos
+ 46
+ km
+ aproximadamente
+ del
+ centro
+ poblado
+ de
+ la
+ comuna
+ más
+ cercano,
+ Río
+ Blanco
+ y**_
+_**distantes
+ de
+ las
+ áreas
+ de
+ manejo
+ y
+ áreas
+ de
+ pesca,
+ que
+ de
+ acuerdo
+ al
+ análisis
+ se
+ encuentran**_
+
+_**todas
+ fuera
+ del
+ área
+ del
+ influencia
+ directa
+ del
+ proyecto,
+ junto
+ con
+ las
+ medidas
+ de
+ mitigación**_
+_**propuestas,
+ se
+ evalúa
+ que
+ el
+ centro
+ de
+ cultivo
+ Brazo
+ de
+ Hojeda
+
+ no
+ afectará
+ la
+ dimensión**_
+_**geográfica,
+ demográfica,
+ antropológica,
+ socioeconómica
+ y
+ de
+ bienestar
+ social
+ básico
+ de
+ las**_
+_**comunidades
+ adyacentes
+ al
+ proyecto.
+ Sólo
+ presentará
+ una
+ oportunidad
+ laboral
+ a
+ la
+ ya
+ existente**_
+_**en
+ el
+ sector.**_
+
+**d)** **Localización
+ en
+ o
+ próxima
+ a
+ poblaciones,
+ recursos
+ y
+ áreas
+ protegidas,
+ sitios
+ prioritarios**
+
+**para
+ la
+ conservación,
+ humedales
+ protegidos
+ y
+ glaciares,
+ susceptibles
+ de
+ ser
+ afectados,**
+**así
+ como
+ el
+ valor
+ ambiental
+ del
+ territorio
+ en
+ que
+ se
+ pretende
+ emplazar;**
+
+En
+ relación
+ a
+ áreas
+ protegidas,
+ podemos
+ señalar
+ que
+ el
+ lugar
+ de
+ emplazamiento
+ se
+ encuentra
+dentro
+ de
+ las
+ “Áreas
+ Aptas
+ para
+ la
+ Acuicultura”
+ según
+ lo
+ han
+ establecido
+ el
+ D.S.
+ (M.)
+ No
+ 340/94
+modificado
+ por
+ los
+ D.S.
+ No
+ 100/95,
+ 330/96,
+ 364
+ /2004,
+ 190/2005,
+ 503/2005,
+ 357/2006,
+ 385/2007
+ y
+1998
+ de
+ 2011
+ todos
+ del
+ MINDEF,
+ que
+ establecen
+ las
+ áreas
+ apropiadas
+ para
+ el
+ ejercicio
+ de
+ la
+acuicultura
+ en
+ la
+ región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena,
+ y
+ que
+ ubican
+ al
+ área
+ canal
+ unión
+ a
+puerto
+ natales
+ como
+ área
+ apta
+ para
+ realizar
+ el
+ cultivo
+ de
+ toda
+ especie
+ o
+ grupos
+ de
+ especies.
+
+El
+ centro
+ de
+ cultivo
+ se
+ encuentra
+ distante
+ de
+ las
+ SNASPE
+ ubicadas
+ en
+ la
+ comuna
+ de
+ Natales,
+ la
+ más
+cercana
+ es
+ la
+ Reserva
+ Forestal
+ Alacalufe,
+ distante
+ a
+ más
+ de
+ 13,4
+ km
+ del
+ proyecto.
+ (Figura
+ 43)
+
+De
+ la
+ misma
+ forma,
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ no
+ está
+ definida
+ como
+ área
+ de
+Patrimonio
+ Cultural,
+ no
+ se
+ encuentran
+ sitios
+ arqueológicos,
+ como
+ tampoco
+ se
+ evidencian
+ predios
+indígenas,
+ ni
+ áreas
+ de
+ desarrollo
+ indígena
+ ni
+ tierras
+ ancestrales.
+
+Tal
+ como
+ se
+ explicó
+ en
+ detalle
+ en
+ los
+ párrafos
+ anteriores,
+ una
+ estimación
+ de
+ las
+ fecas
+ está
+ dada
+por
+ la
+ tasa
+ de
+ biodepositos
+ (RB)
+ y
+ de
+ acuerdo
+ a
+ su
+ postulado
+ el
+ presente
+ proyecto
+ tiene
+ una
+ tasa
+de
+ biodepositos
+ de
+ 126,4
+ kg
+ de
+ fecas
+ al
+ día,
+ de
+ acuerdo
+ a
+ Navarro
+ el
+ 75%
+ de
+ éstas
+ corresponden
+ a
+la
+ fracción
+ inorgánica
+ y
+ del
+ 25%
+ materia
+ orgánica,
+ de
+ acuerdo
+ a
+ esto
+ se
+ podría
+ inferir
+ que
+ del
+ total
+de
+ fecas
+ aportadas
+ por
+ el
+ proyecto
+ sólo
+ 31,6
+ kg
+ sería
+ la
+ fracción
+ orgánica.
+
+De
+ acuerdo
+ a
+ otros
+ autores,
+ se
+ tiene
+ que
+ de
+ la
+ cantidad
+ total
+ de
+ fecas
+ producidas
+ (84,25
+ kg),
+ se
+estima
+ que
+ un
+ 17%
+ corresponde
+ a
+ cenizas
+ y
+ humedad
+ (14,3
+ kg),
+ quedando
+ entonces
+ 69,93
+ kg/año.
+Por
+ otra
+ parte
+ si
+ se
+ considera
+ lo
+ expuesto
+ por
+ Silva
+ y
+ Rojas,
+ 2003 [15],
+ donde
+ señalan
+ que
+aproximadamente
+ un
+ 26%
+ se
+ podría
+ remineralizar
+ es
+ equivalente
+ a
+ 18,2
+ kg,
+ la
+ cantidad
+ se
+ reduce
+ a
+
+15 Silva,
+ N
+ y
+ N.Rojas.
+ 2003.
+ Contenido
+ de
+ Carbono,
+ Nitrógeno
+ Orgánico
+ y
+ Diagénesis
+ Temprana
+ en
+ Sedimentos
+ Superficiales
+ de
+ la
+ Zona
+de
+ Canales
+ Australes
+ de
+ Chile.
+ Boca
+ del
+ Guafo
+ (43°47’S)
+ a
+ Canal
+ Pulluche
+ (45°49’S).
+ Libro
+ de
+ Resúmenes,
+ Pág
+ 51-­‐59.
+ Resultados
+ del
+Crucero
+ Cimar
+ FIORDOS
+ 8
+
+51,73
+ kg
+ de
+ fecas
+ al
+ año.
+
+De
+ la
+ misma
+ manera,
+ Otero _et
+ al_ (2001) [16],
+ realizó
+ una
+ caracterización
+ físico
+ química
+ de
+ los
+biodepósitos
+ de
+ mejillones
+ en
+ las
+ Rias
+ Gallegas,
+ donde
+ señala
+ que
+ la
+ concentración
+ de
+ COT
+ es
+ de
+aproximadamente
+ 3,22%,
+ del
+ contenido
+ sedimentado.
+ Por
+ tanto
+ y
+ en
+ consecuencia
+ a
+ lo
+ planteado
+en
+ el
+ párrafo
+ anterior,
+ si
+ se
+ considera
+ que
+ del
+ aporte
+ total
+ de
+ fecas
+ un
+ 17%
+ es
+ ceniza
+ y
+ humedad
+ y
+26%
+ podría
+ remineralizarse,
+ tenemos
+ que
+ el
+ aporte
+ de
+ fecas
+ al
+ medio
+ sería
+ de
+ 51,73
+ kg
+ de
+ fecas
+ al
+año,
+ por
+ lo
+ que
+ se
+ tendría
+ que
+ de
+ este
+ total
+ solo
+ 1,67
+ kg
+ C/año,
+ lo
+ que
+ equivale
+ a
+ una
+concentración
+ de
+ 4,57
+ gr
+ C/día,
+ considerando
+ como
+ área
+ de
+ depositación
+ la
+ superficie
+ del
+ área
+solicitada
+ en
+ concesión
+ (4
+ hás)
+ el
+ aporte
+ será
+ de
+ 0,11mgC/m2/día,
+ por
+ lo
+ que
+ de
+ acuerdo
+ a
+ lo
+planteado
+ por
+ McShane,
+ 1997 [17],
+ el
+ aporte
+ total
+ de
+ carbono
+ del
+ proyecto
+ no
+ estaría
+ afectando
+significativamente
+ los
+ recursos
+ naturales
+ renovables
+ y
+ permite
+ inferir
+ que
+ le
+ proyecto
+ estará
+acorde
+ a
+ la
+ capacidad
+ de
+ carga
+ del
+ cuerpo
+ de
+ agua,
+ teniendo
+ un
+ cultivo
+ sustentable
+ en
+ el
+ tiempo.
+
+_**De
+ acuerdo
+ a
+ lo
+ anteriormente
+ expuesto,
+ la
+ implementación
+ del
+ centro
+ no
+ generará
+ efectos**_
+_**adversos
+ significativos
+ a
+ la
+ fauna
+ presente
+ en
+ el
+ sector.
+ Además,
+ debido
+ a
+ la
+ distancia
+ que
+ existe**_
+_**entre
+ el
+ proyecto
+ y
+ Localización
+ en
+ o
+ próxima
+ a
+ poblaciones,
+ recursos
+ y
+ áreas
+ protegidas,
+ sitios**_
+_**prioritarios
+ para
+ la
+ conservación,
+ humedales
+ protegidos
+ y
+ glaciares,
+
+ susceptibles
+ de
+ ser**_
+_**afectados,
+ así
+ como
+ el
+ valor
+ ambiental
+ del
+ territorio
+ en
+ que
+ se
+ pretende
+ emplazar;
+ es
+ posible**_
+_**concluir
+ que
+ el
+ proyecto
+ no
+ generara
+ efectos,
+ características
+ o
+ circunstancias
+ negativas
+ que**_
+_**puedan
+ generar
+ alteraciones
+ en
+ el
+ medio.**_
+
+**e)** **Alteración
+ significativa,
+ en
+ términos
+ de
+ magnitud
+
+ o
+ duración,
+ del
+ valor
+ paisajístico
+ o**
+
+**turístico
+ de
+ una
+ zona,
+ y**
+
+En
+ relación
+ a
+ áreas
+ protegidas,
+ podemos
+ señalar
+ que
+ el
+ lugar
+ de
+ emplazamiento
+ se
+ encuentra
+dentro
+ de
+ las
+ “Áreas
+ Aptas
+ para
+ la
+ Acuicultura”
+ según
+ lo
+ han
+ establecido
+ el
+ D.S.
+ (M.)
+ No
+ 340/94
+modificado
+ por
+ los
+ D.S.
+ No
+ 100/95,
+ 330/96,
+ 364
+ /2004,
+ 190/2005,
+ 503/2005,
+ 357/2006,
+ 385/2007
+ y
+1998
+ de
+ 2011
+ todos
+ del
+ MINDEF,
+ que
+ establecen
+ las
+ áreas
+ apropiadas
+ para
+ el
+ ejercicio
+ de
+ la
+acuicultura
+ en
+ la
+ región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena,
+ y
+ que
+ ubican
+ al
+ área
+ canal
+ unión
+ a
+puerto
+ natales
+ como
+ área
+ apta
+ para
+ realizar
+ el
+ cultivo
+ de
+ toda
+ especie
+ o
+ grupos
+ de
+ especies,
+ y
+ que
+ubican
+ al
+ área
+ de
+ Estero
+ de
+ Poca
+ Esperanza
+ área
+ apta
+ para
+ realizar
+ el
+ cultivo
+ de
+ toda
+ especie
+ o
+grupos
+ de
+ especies.
+
+Respecto
+ del
+ entorno
+ donde
+ se
+ pretende
+ implementar
+ el
+ centro
+ de
+ cultivo
+
+ Brazo
+ de
+ Hojeda,
+ se
+realizo
+ una
+ caracterización
+ del
+ valor
+ paisajístico
+ y
+ turismo **(Anexo
+ 4).**
+
+Se
+ determinó
+ la
+ presencia
+ de
+ 3
+ UP
+ (figura
+ No44,
+ 45
+ y
+ 46)
+ actuando
+ como
+ elementos
+ estructurantes
+del
+ paisaje
+ principal
+ la
+ vegetación
+ y
+ secundario
+ la
+ morfología
+ del
+ terreno.
+ Se
+ trata
+ de
+ un
+ sector
+ de
+vegetación
+ nativa
+ que
+ va
+ desde
+ la
+ línea
+ de
+ costa
+ rocosa
+ hacia
+ las
+ alturas
+ de
+ las
+ penínsulas
+ Barros
+Arana
+ y
+ Muñoz
+ Gamero
+ e
+ isla
+ Lorca
+ circundantes
+ al
+ proyecto.
+
+UP
+ “Bosque
+ nativo
+ abierto,
+ afloramiento
+ Rocoso”
+ en
+ altura,
+ visualizados
+ en
+ la
+ dirección
+ norte
+ del
+Brazo
+ de
+ Hojeda
+ en
+ la
+ Península
+ Vicuña
+ Mackenna.
+ Luego
+ se
+ identifico
+ la
+ UP
+ “Bosque
+ nativo
+achaparrado
+ disperso”
+ se
+ presenta
+ principalmente
+ en
+ el
+ sector
+ de
+ Brazo
+ de
+ Hojeda.
+ Un
+ factor
+ que
+explica
+ la
+ existencia
+ de
+ un
+ bosque
+ nativo
+ bajo,
+ se
+ encuentra
+ en
+ la
+ exposición
+ de
+ este
+ sector
+ a
+ los
+vientos
+ provenientes
+ del
+ NE
+ y
+ que
+ entran
+ por
+ el
+ Estero
+ Poca
+ Esperanza.
+ El
+ tipo
+ forestal
+ dominante
+es
+ el
+ Coigue
+ de
+ Magallanes
+ ( _Nothofagus
+ betuloides_ ).
+
+16 Otero.
+ I,
+ Quintas.
+ I
+ y
+ F.
+ Macias.
+ 2001.
+ Caracterización
+ Fisico
+ Quiímica
+ de
+ bio-­‐depósitos
+ de
+ mejillón
+ en
+ las
+ Rías
+ Baixas
+ (Galicia-­‐
+NOPenínsula
+ Iberica).
+ Nova
+ Acta
+ Científica
+ Compostelana
+ (biología),
+ 11:197-­‐206.
+17 McShane,
+ P.
+ 1997.
+ Environmental
+ effects
+ of
+ sea-­‐based
+ farming
+ of
+ paua
+ (Haliotis
+ spp.)
+ and
+ kina
+ (Evechinus
+ chloroticus).
+ Conservation
+Advisory
+ Science
+ Notes
+ No.
+ 143,
+ Department
+ of
+ Conservation,
+ Wellington.
+
+La
+ UP
+ “Bosque
+ nativo
+ semidenso
+ a
+ abierto”,
+ se
+ trata
+ principalmente
+ de
+ unidades
+ de
+ bosque
+ nativo
+con
+ una
+ alta
+ dominancia
+ a
+ pesar
+ de
+ su
+ escasa
+ diversidad
+ y
+ variabilidad
+ de
+ colores,
+ las
+ especies
+arbóreas
+ dominantes
+ son
+ el
+ Ciprés
+ de
+ las
+ Guaitecas
+ ( _Pilgerodendron
+ uviferum_ ),
+ el
+ Coigue
+ de
+Magallanes
+ ( _Nothofagus
+ betuloides_ ),
+ Lenga
+ ( _Nothofagus
+ pumilio_ ),
+ Canelo
+ ( _Drimys
+ winteri_ )
+ y
+ Tepú
+( _Tepualia
+ stipularis_ ).
+ El
+ bosque
+ nativosemidenso
+ se
+ encuentra
+ principalmente
+ bajo
+ los
+ 300
+ metros
+de
+ altitud
+ y
+ en
+ los
+ fondos
+ de
+ quebrada,
+ mientras
+ que
+ el
+ bosque
+ nativo
+ abierto
+ se
+ sitúa
+mayormente
+ en
+ las
+ partes
+ altas
+ de
+ la
+ Península
+ Vicuña
+ Mackenna
+ (sobre
+ los
+ 300
+ metros).
+
+|Col1|Col2|
+|---|---|
+|Figura44.UP“Bosquenativosemidensoa abierto”,haciaelNortedeBrazodeHojeda|Figura44.UP“Bosquenativosemidensoa abierto”,haciaelNortedeBrazodeHojeda|
+
+|Col1|Col2|
+|---|---|
+|Figura45._UP “Bosque nativo achaparrado disperso” Sector costa Oeste península Vicuña Mackenna desde_<br>_BrazodeHojeda,cubiertaarbóreaachaparradamezcladoconcubiertaherbáceahacialaspartesaltas)_|Figura45._UP “Bosque nativo achaparrado disperso” Sector costa Oeste península Vicuña Mackenna desde_<br>_BrazodeHojeda,cubiertaarbóreaachaparradamezcladoconcubiertaherbáceahacialaspartesaltas)_|
+
+|Col1|Col2|
+|---|---|
+|Figura46. UP “Bosque nativo abierto, afloramiento rocoso”. Vegetación desde la línea de costa y sectores<br>conafloramientorocosoenaltura,costasurpenínsulaVicuñaMackennaalestedelBrazodeHojeda.|Figura46. UP “Bosque nativo abierto, afloramiento rocoso”. Vegetación desde la línea de costa y sectores<br>conafloramientorocosoenaltura,costasurpenínsulaVicuñaMackennaalestedelBrazodeHojeda.|
+
+**Calidad
+ visual
+ del
+ Paisaje**
+
+La
+ valoración
+ de
+ la
+ calidad
+ visual
+ se
+ hizo
+ en
+ función
+ de
+ las
+ UP
+ identificadas.
+ El
+ valor
+ para
+ el
+ área
+ de
+estudio,
+ como
+ resultado
+ de
+ la
+ sumatoria
+ de
+ cada
+ uno
+ de
+ los
+ valores
+ para
+ cada
+ factor,
+ fue
+ de
+ 180,
+lo
+ que
+ arroja
+ una
+ “calidad
+ visual
+ media”
+ para
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto.
+
+Dentro
+ de
+ los
+ factores
+ que
+ presentan
+ la
+ máxima
+ valoración,
+ es
+ decir,
+ “formas
+ de
+ agua”
+ (Brazo
+ de
+Hojeda,
+ península
+ Vicuña
+ Mackena)
+ y
+ “acción
+ antrópica”,
+ el
+ “fondo
+ escénico”
+ presenta
+ valoración
+media
+ cabe
+ señalar
+ que
+ estos
+ dominan
+ en
+ los
+ planos
+ medios
+ y
+ cercanos,
+ actuando
+ como
+elementos
+ dominantes
+ en
+ términos
+ paisajísticos.
+ No
+ obstante,
+ el
+ área
+ evaluada
+ presenta
+ valores
+bajos
+ a
+ medios
+ en
+ términos
+ de
+ morfología,
+ fauna,
+ vegetación
+ y
+ variabilidad
+ cromática,
+ lo
+ que
+reduce
+ su
+ valor
+ paisajístico
+ final.
+ Se
+ trata
+ de
+ un
+ área
+ libre
+ de
+ actuaciones
+ antrópicas
+ estéticamente
+no
+ deseadas.
+
+Si
+ bien
+ es
+ cierto
+ se
+ tiene
+ una
+ línea
+ de
+ costa
+ rocosa
+ sin
+ presencia
+ de
+ sectores
+ de
+ playa
+ caracterizada
+por
+ abundante
+ vegetación
+ desde
+ la
+ línea
+ de
+ costa
+ hacia
+ los
+ sectores
+ altos
+ de
+ la
+ Península
+ Vicuña
+Mackenna,
+ ambos
+ de
+ cierta
+ incidencia
+ visual
+ en
+ la
+ estructura
+ global
+ del
+ paisaje,
+ sólo
+ es
+ posible
+señalar
+ una
+ singularidad
+ o
+ rareza
+ de
+ carácter
+ medio,
+ ya
+ que
+ el
+ área
+ de
+ emplazamiento
+ del
+proyecto
+ es
+ similar
+ a
+ otras
+ de
+ la
+ Región.
+
+**Fragilidad
+ visual
+ del
+ paisaje**
+
+De
+ la
+ aplicación
+ del
+ método
+ propuesto
+ (Modelo
+ Rojas,
+ Kong
+ 1998
+ en
+ SERNATUR
+ 2009),
+ que
+contempla
+ un
+ grupo
+ de
+ cuatro
+ factores
+ (biofísicos,
+ de
+ visualización,
+ singularidad
+ y
+ accesibilidad
+visual),
+ se
+ obtuvo
+ para
+ el
+ área
+ de
+ influencia
+ del
+ proyecto,
+ es
+ decir,
+ área
+ de
+ emplazamiento,
+ una
+fragilidad
+ visual
+ media
+ (FV=180,
+ tabla
+ No7),
+ lo
+ que
+ significa
+ una
+ susceptibilidad
+ moderada
+ del
+paisaje
+ frente
+ a
+ las
+ obras
+ propuestas.
+
+El
+ elemento
+ “unicidad”,
+ con
+ una
+ valoración
+ media,
+ es
+ indicativo
+ de
+ que
+ el
+ área
+ en
+ que
+ se
+ inserta
+ el
+proyecto
+ presenta
+ cierta
+ importancia
+ visual
+ pero
+ que
+ es
+ habitual
+ en
+ la
+ Región.
+ En
+ cuanto
+ al
+ factor
+“tamaño
+ de
+ la
+ cuenca”
+ existe
+ un
+ predomino
+ de
+ planos
+ cercanos
+ mayoritariamente
+ y
+ medios
+ de
+visualización
+ (Península
+ Vicuña
+ Mackenna),
+ lo
+ cual
+ se
+ correlaciona
+ con
+ una
+ “forma
+ de
+ la
+ cuenca
+visual”
+ y
+ “compacidad”
+ media,
+ toda
+ vez
+ que
+ existe
+ un
+ predominio
+ de
+ “cuencas
+ irregulares”,
+ ya
+sean
+ abiertas
+ como
+ unidireccionales.
+
+En
+ cuanto
+ a
+ la
+ “accesibilidad
+ visual”,
+ la
+ existencia
+ de
+ una
+ percepción
+ visual
+ media,
+ dada
+ por
+primeros
+ planos
+ y
+ medios
+ en
+ altura,
+ permite
+ señalar
+ que
+ la
+ combinación
+ de
+ ambos
+ niveles
+ está
+ en
+directa
+ relación
+ con
+ la
+ topografía
+ del
+ área
+ de
+ emplazamiento
+ del
+ proyecto,
+ esto
+ es,
+ zonas
+ de
+ vistas
+unidireccionales
+ (en
+ dirección
+ hacia
+ Brazo
+ de
+ Merida).
+
+En
+ términos
+ generales,
+ se
+ observa
+ que
+ el
+ área
+ en
+ que
+ se
+ localizará
+ el
+ proyecto
+ presenta
+ una
+calidad
+ y
+ fragilidad
+ visual
+ media,
+ con
+ una
+ capacidad
+ de
+ absorción
+ visual
+ moderada,
+ lo
+ cual
+ se
+ ve
+favorecido
+ por
+ el
+ predominio
+ de
+ una
+ cubierta
+ vegetal
+ semidensa
+ en
+ los
+ sectores
+ cercanos
+ a
+ la
+ línea
+de
+ costa
+ (UP
+ “Bosque
+ nativo
+ semidenso
+ a
+ abierto”)
+ y
+ vistas
+ condicionadas
+ por
+ la
+ topografía
+ (Brazo
+de
+ Hojeda
+ en
+ la
+ península
+ Vicuña
+ Mackenna).
+
+**Modelación
+ fotográfica**
+
+Entre
+ los
+ 0
+ y
+ 500
+ mts.
+ de
+ distancia
+ a
+ la
+ concesión
+ las
+ obras
+ son
+ perfectamente
+ reconocibles.
+ En
+ la
+transecta
+ 1
+ y
+ 2
+ es
+ posible
+ observar
+ la
+ Península
+ Vicuña
+ Mackenna
+ en
+ la
+ costa
+ oeste
+ del
+ Brazo
+ de
+Hojeda,
+ dando
+ paso
+ a
+ sectores
+ de
+ bosque
+ nativo
+ semidenso
+ a
+ abierto
+ con
+ presencia
+ de
+ vegetación
+herbácea
+ en
+ algunas
+ áreas.
+ Desde
+ la
+ transecta
+ 3,
+ mientras
+ tanto,
+ se
+ tiene
+ como
+ plano
+ de
+ fondo
+ la
+Península
+ Vicuña
+ Mackenna
+ desde
+ el
+ NE
+ con
+ presencia
+ de
+ bosque
+ achaparrado.
+ Se
+ aprecia
+asimismo
+ sectores
+ de
+ bosque
+ nativo
+ con
+ algunos
+ afloramientos
+ rocosos
+ y
+ asociado
+ también
+ a
+fondos
+ de
+ quebradas
+ en
+ el
+ Brazo
+ de
+ Hojeda.
+
+En
+ términos
+ del
+ efecto
+ de
+ la
+ distancia
+ a
+ las
+ obras
+ proyectadas,
+ se
+ puede
+ señalar
+ que
+ hacia
+ los
+ 500
+mts.
+ comienza
+ la
+ integración
+ paisajística
+ con
+ el
+ entorno,
+ lo
+ cual
+ se
+ ve
+ favorecido
+ por
+ la
+ presencia
+de
+ la
+ cubierta
+ vegetacional
+ existente.
+
+Hacia
+ los
+ 500
+ a
+ 1000
+ mts.
+ las
+ obras
+ dejan
+ de
+ percibirse
+ en
+ detalle
+ lo
+ que
+ permite
+ definir
+ el
+ área
+ de
+influencia
+ visual
+ del
+ proyecto.
+ Por
+ tratarse
+ de
+ estructuras
+ flotantes
+ de
+ baja
+ altura
+ (en
+ torno
+ a
+ 0.5
+mt.),
+ el
+ corte
+ visual
+ es
+ mínimo.
+ El
+ uso
+ de
+ colores
+ para
+ las
+ boyas
+ acorde
+ al
+ fondo
+ escénico
+disminuye
+ el
+ contraste
+ visual
+ con
+ el
+ entorno.
+
+Asimismo,
+ y
+ ya
+ que
+ la
+ capacidad
+ de
+ absorción
+ visual
+ del
+ área
+ de
+ estudio
+ es
+ moderada,
+ es
+ posible
+señalar
+ que
+ el
+ proyecto
+ no
+ genera
+ efectos
+ o
+ impactos
+ adversos
+ significativos
+ sobre
+ el
+ valor
+ambiental
+ y
+ paisajístico
+ del
+ área
+ en
+ que
+ se
+ pretende
+ emplazar.
+ El
+ uso
+ de
+ colores
+ acorde
+ al
+ fondo
+escénico
+ e
+ instalaciones
+ de
+ baja
+ altura,
+ genera
+ condiciones
+ que
+ aminoran
+ el
+ impacto
+ visual
+adverso
+ sobre
+ el
+ medio
+ natural
+ circundante,
+ lo
+ que
+ comienza
+ a
+ evidenciarse
+ a
+ partir
+ de
+ los
+ 500
+metros
+ de
+ distancia
+ a
+ las
+ obras.
+Ver
+ informe
+ de
+ paisaje
+ adjunto
+ en **anexo
+ 4** .
+
+**ANÁLISIS
+ TURÍSTICO**
+
+**Sistema
+ Nacional
+ de
+ Áreas
+ Silvestres
+ Protegidas
+ por
+ el
+ Estado
+ (SNASPE)**
+
+De
+ acuerdo
+ al
+ Sistema
+ Nacional
+ de
+ Áreas
+ Silvestres
+ Protegidas
+ del
+ Estado
+ (SNASPE),
+ administradas
+por
+ CONAF,
+ en
+ la
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena
+ existen
+ cinco
+ Parques
+ Nacionales
+(Torres
+ del
+ Paine,
+ Bernardo
+ O ́Higgins,
+ Pali
+ Aike,
+ Alberto
+ de
+ Agostini
+ y
+ Cabo
+ de
+ Hornos);
+ tres
+Monumentos
+ Naturales
+ (Cueva
+ del
+ Milodón,
+ Laguna
+ de
+ los
+ Cisnes
+ y
+ Los
+ Pingüinos)
+ y
+ tres
+ Reservas
+Nacionales
+ (Alacalufes,
+ Laguna
+ Parrillar
+ y
+ Magallanes);
+ y
+ en
+ la
+ comuna
+ de
+ Natales
+ dos
+monumentos
+ históricos,
+ (Frigorífico
+ Bories
+ y
+ Faro
+ Evangelistas).
+ Todos
+ ellos
+ se
+ encuentran
+ distante
+del
+ área
+ de
+ CC.AA.
+ del
+ proyecto,
+ siendo
+ la
+ más
+ cercana
+ la
+ Reserva
+ Nacional
+ Alacalufes
+ distante
+ a
+13,4
+ km
+ en
+ línea
+ recta
+ (Figura
+ 47),
+ cabe
+ destacar
+ que
+ el
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+
+tierra
+ por
+ tanto
+ no
+ tendrá
+ ninguna
+ intervención
+ en
+ la
+ línea
+ de
+ costa,
+ sólo
+ aquella
+ referida
+ a
+ la
+limpieza
+ del
+ borde
+ costero.
+
+ (Figura
+ 47).
+ La
+ tabla
+ No
+ 19
+ muestra
+ la
+ distancia
+ en
+ línea
+ recta
+ del
+emplazamiento
+ del
+ proyecto
+ y
+ las
+ distintas
+ SNASPE
+ de
+ la
+ región
+ de
+ Magallanes.
+
+_Tabla
+ 19.
+ Proyecto
+ y
+ distancia
+ de
+ respecto
+ de
+ las
+ SNASPE_
+
+|N°|Área SNASPE|Distancia al proyecto<br>Kms.|
+|---|---|---|
+|1|ParqueNacionalBernardoO’Higgins|177|
+|2|ParqueNacionalTorresdelPaine|111|
+|3|ParqueNacionalPaliAike|229|
+|4|ParqueNacionalAlbertodeAgostini|371|
+|5|ParqueNacionalCabodeHornos|548|
+|6|ReservaNacionalAlacalufes|13,4|
+|7|ReservaNacionalLagunaParrillar|184|
+|8|ReservaNacionalMagallanes|171|
+|9|MonumentoNaturalCuevadelMilodón|72,1|
+|10|MonumentoNaturalLosPingüinos|189|
+|11|MonumentoNaturalLagunadelosCisnes|218|
+
+Fuente:
+ elaboración
+ propia.
+
+**Proyecto
+ y
+ área
+ de
+ Influencia**
+
+El
+ proyecto
+ solicitud
+ de
+ concesión
+ de
+ Mitílidos
+ Brazo
+ de
+ Hojeda,
+ se
+ ubica
+ en
+ el
+ Brazo
+ de
+ Hojeda,
+Península
+ Vicuña
+ Mackenna,
+ Sector
+ 3.
+ El
+ área
+ solicitada
+ en
+ concesión
+ se
+ ubica
+ fuera
+ de
+ los
+ límites
+de
+ la
+ Reserva
+ Nacional
+ Alacalufes,
+ de
+ alta
+ importancia
+ en
+ la
+ región,
+ cuyo
+ límite
+ pasa
+ por
+ la
+ costa
+oeste
+ de
+ la
+ Isla
+ Diego
+ Portales,
+ es
+ decir
+ por
+ el
+ Canal
+ Santa
+ María;
+ la
+ distancia
+ más
+ cercana
+ entre
+ la
+concesión
+ y
+ la
+ reserva
+ es
+ de
+ 13,4
+ km
+ aproximadamente,
+ separado
+ por
+ los
+ cerros
+ Diego
+ y
+ Portales
+pertenecientes
+ a
+ la
+ isla
+ Diego
+ Portales
+ y
+ la
+ Península
+ Vicuña
+ Mackenna
+ que
+ actúan
+ como
+ barreras
+visuales
+ entre
+ el
+ Canal
+ Valdés
+ y
+ Seno
+ Poca
+ Esperanza
+ desde
+ donde
+ se
+ accede
+ a
+ la
+ solicitud
+ de
+concesión
+ por
+ su
+ costa
+ sur.
+
+Asimismo,
+ el
+ poblado
+ más
+ cercano
+ al
+ proyecto
+ es
+ Río
+ Blanco,
+ distante
+ 46
+ Km
+ aproximadamente
+ en
+línea
+ recta
+ al
+ proyecto,
+ esto
+ es,
+ fuera
+ de
+ su
+ área
+ de
+ influencia
+ visual.
+
+**Proyecto
+ y
+ SERNATUR**
+
+De
+ acuerdo
+ a
+ las
+ “Áreas
+ Turísticas
+ Prioritarias
+ de
+ Chile”
+ (SERNATUR
+ 2011,
+ figura
+ No48),
+ el
+ proyecto
+se
+ encuentra
+ dentro
+ de
+ un
+ Área
+ Turística
+ Prioritaria,
+ la
+ cual
+ comprende,
+ entre
+ otros,
+ el
+ área
+ del
+Canal
+ Valdés,
+ como
+ vía
+ de
+ acceso
+ al
+ proyecto,
+ perteneciente
+ a
+ la
+ comuna
+ de
+ Natales
+ donde
+ se
+emplaza
+ el
+ proyecto.
+
+Por
+ otra
+ parte,
+ el
+ área
+ solicitada
+ en
+ concesión
+ se
+ ubica
+ en
+ Brazo
+ de
+ Hojeda,
+ Península
+ Vicuña
+Mackena,
+ Sector
+ 3
+ siendo
+ posible
+ acceder
+ desde
+ en
+ el
+ Canal
+ Valdés,
+ por
+ el
+ Seno
+ Poca
+ Esperanza
+que
+ de
+ acuerdo
+ al
+ Catastro
+ de
+ Atractivos
+ Turísticos
+ de
+ Magallanes
+ y
+ La
+ Antártica
+ Chilena,
+ se
+encuentra
+ tipificado
+ como
+ de
+ importancia
+ turística
+ con
+ jerarquía
+ I,
+ es
+ decir,
+ su
+ importancia
+ se
+circunscribe
+ como
+ corredor
+ turístico
+ hacia
+ el
+ Canal
+ de
+ Las
+ Montañas,
+ lugar
+ identificado
+ por
+SERNATUR
+ de
+ importancia
+ turística
+ de
+ mayor
+ jerarquía;
+ así,
+ dentro
+ del
+ buffer
+ de
+ 2.500
+ metros
+medido
+ desde
+ el
+ borde
+ de
+ la
+ solicitud
+ de
+ concesión,
+ no
+ se
+ identificaron
+ atractivos
+ y/o
+ actividades
+turísticas
+ de
+ mayor
+ jerarquía
+ que
+ las
+ registradas
+ para
+ el
+ Canal
+ Santa
+ María
+ y
+ Valdés.
+
+Según
+ el
+ Catastro
+ de
+ Atractivos
+ Turísticos
+ de
+ Magallanes
+ y
+ La
+ Antártica
+ Chilena
+ (SERNATUR
+ 2009),
+la
+ comuna
+ de
+ Natales
+ presenta
+ una
+ serie
+ de
+ lugares
+ de
+ interés
+ turístico,
+ tanto
+ actuales
+ como
+potenciales.
+ De
+ acuerdo
+ a
+ este
+ catastro
+ en
+ la
+ comuna
+ existen
+ 47
+ lugares
+ y/o
+ zonas
+ de
+ interés
+turístico
+ entre
+ fiordos,
+ glaciares,
+ parques,
+ lagunas,
+ ríos,
+ etc.
+ de
+ un
+ total
+ de
+ 265
+ lugares
+ definidos
+en
+ la
+ región,
+ es
+ decir,
+ la
+ comuna
+ de
+ Natales
+ presenta
+ el
+ 17,7%
+ del
+ total
+ regional;
+ los
+ cuales
+ pueden
+ser
+ caracterizados
+ en
+ función
+ de
+ su
+ capacidad
+ para
+ atraer
+ mercados.
+ Cabe
+ señalar
+ que
+ si
+ bien
+ el
+Canal
+ Valdés
+ es
+ un
+ área
+ declarada
+ por
+ SERNATUR
+ como
+ de
+ interés
+ turístico,
+ su
+ importancia,
+ al
+igual
+ que
+ el
+ Canal
+ Santa
+ María,
+ está
+ dada
+ por
+ ser
+ un
+ corredor
+ turístico
+ de
+ navegación
+ marítima
+ que
+conecta
+ con
+ el
+ Canal
+ o
+ Fiordo
+ de
+ Las
+ Montañas,
+ dejando
+ fuera
+ la
+ conexión
+ con
+ el
+ Seno
+ Poca
+Esperanza
+ que
+ conecta
+ con
+ el
+ proyecto,
+ el
+ cual
+ no
+ está
+ dentro
+ del
+ corredor
+ turístico.
+
+Las
+ áreas
+ y
+ su
+ importancia
+ en
+ términos
+ de
+ interés
+ turístico,
+ según
+ lo
+ mencionado
+ anteriormente
+ se
+jerarquizan
+ de
+ acuerdo
+ a
+ la
+ capacidad
+ para
+ atraer
+ mercados,
+ de
+ manera
+ que
+ cuanto
+ más
+ lejanos
+sean
+ los
+ mercados
+ que
+ acuden
+ a
+ visitarlo
+ mayor
+ será
+ su
+ jerarquía.
+
+Existen
+ 4
+ jerarquías
+ definidas:
+ Atractivos
+ Jerarquía
+ IV:
+ Excepcionales
+ capaces
+ por
+ si
+ solos
+ de
+ atraer
+una
+ corriente
+ importante
+ de
+ visitantes
+ actuales
+ o
+ potenciales
+ del
+ mercado
+ internacional.
+
+Atractivos
+ Jerarquía
+ III:
+ Excepcionales
+ capaces
+ por
+ sí
+ solos
+ de
+ atraer
+ una
+ corriente
+ del
+ mercado
+nacional
+ y
+ en
+ menor
+ porcentaje
+ que
+ los
+ atractivos
+ turísticos
+ jerarquía
+ IV
+ del
+ turismo
+ receptivo.
+
+Atractivos
+ Jerarquía
+ II:
+ atractivos
+ con
+ algún
+ rasgo
+ llamativo,
+ capaces
+ de
+ interesar
+ a
+ visitantes,
+ ya
+sea
+ nacional
+ o
+ receptivo
+ que
+ hubiesen
+ llegado
+ a
+ la
+ zona
+ por
+ otras
+ motivaciones
+ turísticas.
+
+Atractivos
+ Jerarquía
+ I:
+ Atractivos
+ sin
+ méritos
+ suficientes
+ para
+ considerarlos
+ en
+ las
+ jerarquías
+anteriores,
+ pero
+ que
+ forman
+ parte
+ del
+ patrimonio
+ turístico
+ como
+ complemento
+ de
+ otros
+ atractivos
+de
+ mayor
+ jerarquía.
+
+De
+ acuerdo
+ a
+ esta
+ jerarquización,
+ los
+ atractivos
+ turísticos
+ de
+ la
+ Comuna
+ de
+ Natales
+ mejor
+rankeados
+ son
+ El
+ Parque
+ Nacional
+ Bernardo
+ O’Higgins,
+ Monumento
+ Natural
+ Cueva
+ del
+ Milodón
+ y
+ El
+Canal
+ de
+ Las
+ montañas
+ con
+ jerarquía
+ 3;
+ en
+ tanto
+ con
+ jerarquía
+ 2
+ se
+ encuentran
+ los
+ Fiordos
+ de
+ Asia,
+Calvo,
+ de
+ Las
+ Montañas,
+ Eyre,
+ Falcon,
+ Peel,
+ Glaciar
+ Balmaceda,
+ Serrano;
+ Seno
+ Andrew,
+ Seno
+ Última
+Esperanza,
+ Estero
+ Calvo,
+ Península
+ Exmouth,
+ Reserva
+ Nacional
+ Alacalufes,
+ Puerto
+ Bories,
+ Paso
+Charteris,
+ Puerto
+ Edén
+ y
+ Puerto
+ Natales.
+ En
+ la
+ figura
+ No10
+ y
+ tabla
+ No11
+ se
+ tiene
+ los
+ atractivos
+turísticos
+ mejor
+ rankeados
+ y
+ cercanos
+ al
+ proyecto
+ de
+ acuerdo
+ a
+ SERNATUR.
+ Como
+ ha
+ sido
+ señalado
+anteriormente,
+ el
+ proyecto
+ se
+ encuentra
+ dentro
+ de
+ un
+ Área
+ Turística
+ Prioritaria,
+ lo
+ cual
+ implica
+ la
+existencia
+ de
+ diversos
+ atractivos
+ turísticos.
+ Dentro
+ de
+ éstos
+ tenemos
+ los
+ más
+ cercanos
+ al
+ proyecto
+son:
+ Lago
+ Balmaceda,
+ Lago
+ Pinto
+ y
+ Seno
+ Ultima
+ Esperanza
+ de _jerarquía
+ Nacional_ en
+ la
+ categoría
+sitio
+ natural,
+ distantes
+ 55
+ kms.;
+ 42,1
+ kms.
+ y
+ 58,8
+ kms.,
+ como
+ tipo
+ de
+ atractivo _lago,
+ laguna
+ o_
+_humedal_ ;
+ también
+ podemos
+ encontrar
+ Canal
+ de
+ Las
+ Montañas;
+ Puerto
+ Natales
+ como
+ ciudad
+categorizada
+ como
+ realización
+ técnica
+ científica
+ o
+ artística
+ contemporánea
+ y
+ su
+ museo
+ Histórico
+Municipal,
+ de _jerarquía
+ Internacional_ ;
+ Puerto
+ Bories
+ de
+ jerarquía
+ Nacional
+ como
+ lugar
+ histórico,
+distantes
+ 21,8
+ kms.,
+ 61,7
+ kms.,
+ 62,4
+ kms.
+ en
+ línea
+ recta
+ al
+ proyecto,
+ respectivamente.
+
+Tabla
+ 20.
+ Atractivos
+ de
+ interés
+ turístico
+ y
+ distancias
+ en
+ línea
+ recta
+ al
+ proyecto
+
+|Localidad o Atractivo Turístico|Distancia en línea recta (km)|
+|---|---|
+|MonumentoNaturale HistóricoCuevadelMilodón|72,1|
+|MonumentoHistóricoFrigoríficoBories|63,0|
+|MonumentoHistóricoCementeriodeCerroCastillo|111,0|
+|ParqueNacionalBernardoO’Higgins|177,0|
+|CanaldeLasMontañas|21,8|
+|SenoUltimaEsperanza|58,8|
+|ReservaNacionalAlacalufes|13,4|
+|PuertoBories|62,4|
+|PuertoNatales|62,0|
+|LagoBalmaceda|55,0|
+|LagoPinto|42,1|
+
+Si
+ bien
+ es
+ cierto
+ existe
+ relativa
+ cercanía
+ entre
+ el
+ proyecto
+ y
+ los
+ atractivos
+ turísticos
+ señalados
+anteriormente,
+ éstos
+ se
+ encuentra
+ fuera
+ de
+ su
+ área
+ de
+ influencia
+ visual
+ (buffer
+ 2.500m).
+
+Dada
+ la
+ importancia
+ y
+ número
+ de
+ atractivos
+ turísticos
+ que
+ presenta
+ la
+ zona
+ de
+ emplazamiento
+ del
+proyecto,
+ situado
+ en
+ un
+ Área
+ Turística
+ Prioritaria,
+ el
+ titular
+ reconoce
+ la
+ importancia
+ de
+ las
+ medidas
+de
+ mitigación
+ a
+ implementar
+ con
+ el
+ fin
+ de
+ reducir
+ al
+ mínimo
+ el
+ impacto
+ visual
+ y
+ paisajístico
+ del
+proyecto.
+
+Se
+ adjunta
+ en
+ el **anexo
+ 4** estudios
+ de
+ paisaje.
+
+_**“De
+ acuerdo
+ a
+ los
+ antecedentes
+ antes
+ presentados
+ se
+ puede
+ señalar
+ que
+ el
+ proyecto
+ no
+ generará**_
+_**o
+ presentará
+ alteración
+ significativa,
+ en
+ términos
+ de
+ magnitud
+ o
+ duración,
+ del
+ valor
+ paisajístico**_
+_**o
+ turístico
+ de
+ la
+ zona”.**_
+
+**f)** **Alteración
+ de
+ monumentos,
+ sitios
+ con
+ valor
+ antropológico,
+ arqueológico,
+ histórico
+ y,
+ en**
+
+**general,
+ los
+ pertenecientes
+ al
+ patrimonio
+ cultural.**
+
+En
+ el
+ sector
+ donde
+ se
+ emplazará
+ el
+ proyecto
+ no
+ existen
+ sitios
+ con
+ valor
+ antropológico,
+arqueológico
+ o
+ histórico.
+
+Cabe
+ destacar
+ que
+ el
+ centro
+ de
+ cultivo,
+ no
+ se
+ emplazara
+ cercana,
+ ni
+ considera
+ la
+ remoción,
+destrucción,
+ excavación,
+ traslado,
+ deterioro
+ o
+
+ modificación
+ de
+ algún
+ Monumento
+ Nacional
+ de
+aquellos
+ definidos
+ en
+ la
+ Ley
+ No
+ 17.288;
+ o
+ la
+
+ modificación
+ o
+ deterioro
+ en
+ construcciones,
+ lugares
+ o
+sitios
+ que
+ por
+ sus
+ características
+ constructivas,
+ por
+ su
+ antigüedad,
+ valor
+ científico,
+ contexto
+histórico
+ o
+ por
+ su
+ singularidad
+ pertenecen
+ al
+ patrimonio
+ cultural.
+
+Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ ante
+ cualquier
+ hallazgo
+ de
+ carácter
+ histórico,
+ antropológico,
+arqueológico
+ o
+ paleontológico,
+ el
+ Titular
+ se
+ compromete
+ a
+ dar
+ aviso
+ a
+ las
+ autoridades
+competentes
+ y
+ al
+ Consejo
+ de
+ Monumentos
+ Nacionales,
+ cumpliendo
+ así
+ con
+ el
+ Artículo
+ 26
+ de
+ la
+ Ley
+No
+ 17.288
+ y
+ Artículo
+ 20
+ de
+ su
+ Reglamento.
+ Lo
+ anterior
+ es
+ también
+ válido
+ ante
+ la
+ eventualidad
+ de
+realizar
+ un
+ hallazgo
+ de
+ restos
+ de
+ naufragio;
+ por
+ lo
+ que
+ el
+ Titular
+ se
+ compromete
+ a
+ dar
+ oportuno
+aviso
+ a
+ la
+ autoridad
+ correspondiente,
+ si
+ durante
+ la
+ instalación
+ del
+ proyecto
+ se
+ encontraran
+vestigios
+ que
+ den
+ cuenta
+ de
+ la
+ existencia
+ de
+ dicho
+ patrimonio;
+ cumpliendo
+ así
+ con
+ el
+ D.E.
+ N°
+ 311
+de
+ 08/10/1999
+ del
+ Ministerio
+ de
+ Educación,
+ que
+ hace
+ referencia
+ a
+ la
+ declaración
+ genérica
+ de
+Monumento
+ Histórico
+ Nacional
+ al
+ Patrimonio
+ Cultural
+ Subacuático
+ de
+ más
+ de
+ 50
+ años
+ de
+antigüedad,
+ existente
+ en
+ el
+ fondo
+ de
+ los
+ ríos
+ y
+ lagos,
+ de
+ las
+ aguas
+ interiores
+ y
+ del
+ mar
+ territorial.
+
+_**“En
+ base
+ al
+ análisis
+ presentado
+ este
+ proyecto
+ no
+ generará
+ o
+ presentará
+ alteraciones
+ de**_
+_**monumentos,
+ sitios
+ con
+ valor
+ antropológico,
+ arqueológico,
+ histórico
+ y
+ en
+ general,
+ los**_
+_**pertenecientes
+ al
+ patrimonio
+ cultural”.**_

@@ -1,0 +1,30 @@
+---
+title: ESTUDIO HIDRÁULICO PARA INGENIERÍA DE PROYECTO LÍNEAS DE ALTA TENSIÓN TORRES TRAMOS 4, 5 Y 6
+author: Desconocido
+date: D:20240909163725
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|278800 278850 278900 278950 279000 279050 279100 279150 279200 279250 279300 279350 279400 279450 279500 279550<br>6406650 6406650<br>6406600 6406600<br>4<br>-7<br>3<br>P -7 -72<br>P P-71 P-70 P-69 P-68 P-67<br>6406550 6406550 P P-66<br>P-65<br>P-64<br>P-63<br>P-62<br>-61<br>P 0<br>-6<br>P 9<br>-5<br>P 8<br>-5<br>P 7<br>-5<br>P 6<br>-5<br>P 5<br>6406500 6406500 -5<br>P 4<br>-5<br>P 3<br>-5<br>P 2<br>-5<br>P 1<br>-5<br>P 0<br>-5<br>P 9<br>-4<br>P 8<br>-4<br>P 7<br>-4<br>P 6<br>-4<br>6406450 6406450 P 5<br>-4 4<br>P -4 P-43<br>P P-42<br>P-41 P-40 P-39 P-38 P-37 P-36 P-35 P-34 P-33 P-32 P-31 P-30 P-29 P-28 P-27 P-26 P-25 P-24 P-23 P-22 P-21 P-20 P-19 P-18 P-17 P-16 P - 1 2<br>ALC. EXISTENTE ACERO CORRUGADO -1 5 4 P - 1 1<br>P -1<br>D = 1 m P P - 1 0<br>3<br>1<br>6406400 6406400 P -<br>P - 9<br>P - 8<br>6406350 6406350 P - 7<br>P - 6<br>P - 5<br>P - 4<br>P - 3<br>6406300 6406300 P - 2<br>P - 1<br>N<br>6406250 O E 6406250<br>S<br>6406200 6406200<br>278800 278850 278900 278950 279000 279050 279100 279150 279200 279250 279300 279350 279400 279450 279500 279550<br>SIMBOLOGÍA|Col2|Col3|Col4|
+|---|---|---|---|
+|P-1<br>P-2<br>P-3<br>P-4<br>P-5<br>P-6<br>P-7<br>P-8<br>P-9<br>P-10<br>P-11<br>P-12<br>P-13<br>P-14<br>P-15<br>P-16<br>P-17<br>P-18<br>P-19<br>P-20<br>P-21<br>P-22<br>P-23<br>P-24<br>P-25<br>P-26<br>P-27<br>P-28<br>P-29<br>P-30<br>P-31<br>P-32<br>P-33<br>P-34<br>P-35<br>P-36<br>P-37<br>P-38<br>P-39<br>P-40<br>P-41<br>P-42<br>P-43<br>P-44<br>P-45<br>P-46<br>P-47<br>P-48<br>P-49<br>P-50<br>P-51<br>P-52<br>P-53<br>P-54<br>P-55<br>P-56<br>P-57<br>P-58<br>P-59<br>P-60<br>P-61<br>P-62<br>P-63<br>P-64<br>P-65<br>P-66<br>P-67<br>P-68<br>P-69<br>P-70<br>P-71<br>P-72<br>P-73<br>P-74<br>ALC. EXISTENTE<br>ACERO CORRUGADO<br>D = 1 m<br>278800<br>278800<br>278850<br>278850<br>278900<br>278900<br>278950<br>278950<br>279000<br>279000<br>279050<br>279050<br>279100<br>279100<br>279150<br>279150<br>279200<br>279200<br>279250<br>279250<br>279300<br>279300<br>279350<br>279350<br>279400<br>279400<br>279450<br>279450<br>279500<br>279500<br>279550<br>279550<br>6406650<br>6406650<br>6406600<br>6406600<br>6406550<br>6406550<br>6406500<br>6406500<br>6406450<br>6406450<br>6406400<br>6406400<br>6406350<br>6406350<br>6406300<br>6406300<br>6406250<br>6406250<br>6406200<br>6406200<br>N<br>S<br>~~E~~<br>O<br>SIMBOLOGÍA||||
+|P-1<br>P-2<br>P-3<br>P-4<br>P-5<br>P-6<br>P-7<br>P-8<br>P-9<br>P-10<br>P-11<br>P-12<br>P-13<br>P-14<br>P-15<br>P-16<br>P-17<br>P-18<br>P-19<br>P-20<br>P-21<br>P-22<br>P-23<br>P-24<br>P-25<br>P-26<br>P-27<br>P-28<br>P-29<br>P-30<br>P-31<br>P-32<br>P-33<br>P-34<br>P-35<br>P-36<br>P-37<br>P-38<br>P-39<br>P-40<br>P-41<br>P-42<br>P-43<br>P-44<br>P-45<br>P-46<br>P-47<br>P-48<br>P-49<br>P-50<br>P-51<br>P-52<br>P-53<br>P-54<br>P-55<br>P-56<br>P-57<br>P-58<br>P-59<br>P-60<br>P-61<br>P-62<br>P-63<br>P-64<br>P-65<br>P-66<br>P-67<br>P-68<br>P-69<br>P-70<br>P-71<br>P-72<br>P-73<br>P-74<br>ALC. EXISTENTE<br>ACERO CORRUGADO<br>D = 1 m<br>278800<br>278800<br>278850<br>278850<br>278900<br>278900<br>278950<br>278950<br>279000<br>279000<br>279050<br>279050<br>279100<br>279100<br>279150<br>279150<br>279200<br>279200<br>279250<br>279250<br>279300<br>279300<br>279350<br>279350<br>279400<br>279400<br>279450<br>279450<br>279500<br>279500<br>279550<br>279550<br>6406650<br>6406650<br>6406600<br>6406600<br>6406550<br>6406550<br>6406500<br>6406500<br>6406450<br>6406450<br>6406400<br>6406400<br>6406350<br>6406350<br>6406300<br>6406300<br>6406250<br>6406250<br>6406200<br>6406200<br>N<br>S<br>~~E~~<br>O<br>SIMBOLOGÍA||||
+|P-1<br>P-2<br>P-3<br>P-4<br>P-5<br>P-6<br>P-7<br>P-8<br>P-9<br>P-10<br>P-11<br>P-12<br>P-13<br>P-14<br>P-15<br>P-16<br>P-17<br>P-18<br>P-19<br>P-20<br>P-21<br>P-22<br>P-23<br>P-24<br>P-25<br>P-26<br>P-27<br>P-28<br>P-29<br>P-30<br>P-31<br>P-32<br>P-33<br>P-34<br>P-35<br>P-36<br>P-37<br>P-38<br>P-39<br>P-40<br>P-41<br>P-42<br>P-43<br>P-44<br>P-45<br>P-46<br>P-47<br>P-48<br>P-49<br>P-50<br>P-51<br>P-52<br>P-53<br>P-54<br>P-55<br>P-56<br>P-57<br>P-58<br>P-59<br>P-60<br>P-61<br>P-62<br>P-63<br>P-64<br>P-65<br>P-66<br>P-67<br>P-68<br>P-69<br>P-70<br>P-71<br>P-72<br>P-73<br>P-74<br>ALC. EXISTENTE<br>ACERO CORRUGADO<br>D = 1 m<br>278800<br>278800<br>278850<br>278850<br>278900<br>278900<br>278950<br>278950<br>279000<br>279000<br>279050<br>279050<br>279100<br>279100<br>279150<br>279150<br>279200<br>279200<br>279250<br>279250<br>279300<br>279300<br>279350<br>279350<br>279400<br>279400<br>279450<br>279450<br>279500<br>279500<br>279550<br>279550<br>6406650<br>6406650<br>6406600<br>6406600<br>6406550<br>6406550<br>6406500<br>6406500<br>6406450<br>6406450<br>6406400<br>6406400<br>6406350<br>6406350<br>6406300<br>6406300<br>6406250<br>6406250<br>6406200<br>6406200<br>N<br>S<br>~~E~~<br>O<br>SIMBOLOGÍA||||
+
+|278800 278850 278900|278950 279000 279050 279100 279150|279200 279250|279300|279350 279400|
+|---|---|---|---|---|
+|6406650|||||
+|9<br>0<br>1<br>72<br>P-73<br>P-74<br>6406600|||||
+|P-61<br>P-62<br>P-63<br>P-64<br>P-65<br>P-66<br>P-67<br>P-68<br>P-6<br>P-7<br>P-7<br>P-<br><br>6406550|-56<br>P-57<br>P-58<br>P-59<br>P-60||||
+|6406500|-47<br>P-48<br>P-49<br>P-50<br>P-51<br>P-52<br>P-53<br>P-54<br>P-55<br>P||||
+|6406450<br>6406400|P-34<br>P-35<br>P-36<br>P-37<br>P-38<br>P-39<br>P-40<br>P-41<br>P-42<br>P-43<br>P-44<br>P-45<br>P-46<br>P|P-26<br>P-27<br>P-28<br>P-29<br>P-30<br>P-31<br>P-32<br>P-33|P-22<br>P-23<br>P-24<br>P-25<br>|P-13<br>P-14<br>P-15<br>P-16<br>P-17<br>P-18<br>P-19<br>P-20<br>P-21<br>ALC. EXISTENTE<br>ACERO CORRUGADO<br>D = 1 m|
+||||||
+|6406350|||||
+|6406300<br>N<br>|||||
+|6406250<br>S<br>~~E~~<br>O|||||
+|278800<br>278850<br>278900<br>6406200|278950<br>279000<br>279050<br>279100<br>279150|279200<br>279250|279300|279350<br>279400|

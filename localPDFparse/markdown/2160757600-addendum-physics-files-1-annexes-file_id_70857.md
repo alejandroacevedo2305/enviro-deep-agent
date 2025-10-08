@@ -1,0 +1,85 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20240416105054
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|||**PROYECCION**<br>**FOSO**<br>**ASCENSORES**<br>**EN N-1**|**PROYECCION**<br>**FOSO**<br>**ASCENSORES**<br>**EN N-1**|**PROYECCION**<br>**FOSO**<br>**ASCENSORES**<br>**EN N-1**|**PROYECCION**<br>**FOSO**<br>**ASCENSORES**<br>**EN N-1**|
+|||||||
+|||~~NPT +9~~<br>NOG +<br>~~**PUBLICO**~~|~~NPT +9~~<br>NOG +<br>~~**PUBLICO**~~|||
+|||~~NPT +9~~<br>NOG +<br>~~**PUBLICO**~~|~~**LICO**~~|~~**MALL**~~|~~**MALL**~~|
+|||~~NPT +9~~<br>NOG +<br>~~**PUBLICO**~~||||
+|||~~NPT +9~~<br>NOG +<br>~~**PUBLICO**~~||||
+|||~~NPT +9~~<br>NOG +<br>~~**PUBLICO**~~|~~NPT +9~~<br>NOG +|~~2,48~~<br>92,43|~~2,48~~<br>92,43|
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||**-1**|**-1**|**-1**|**-1**|
+|||||||
+|||NPT +<br>NOG|NPT +<br>NOG|NPT +<br>NOG|NPT +<br>NOG|
+|||||||
+|||||||
+
+|PROYECTO|Col2|Col3|Col4|
+|---|---|---|---|
+|PROPIETARIO|PROPIETARIO|PROPIETARIO|PROPIETARIO|
+|||||
+|ESPECIALISTAS<br>ATEC ARQUITECTOS<br>WWW.ATEC-ARQUITECTOS.CL|ESPECIALISTAS<br>ATEC ARQUITECTOS<br>WWW.ATEC-ARQUITECTOS.CL|ESPECIALISTAS<br>ATEC ARQUITECTOS<br>WWW.ATEC-ARQUITECTOS.CL|ESPECIALISTAS<br>ATEC ARQUITECTOS<br>WWW.ATEC-ARQUITECTOS.CL|
+|ATEC<br>ARQUITECTOS<br>CHRISTEL RENDEL A.<br>JOSELIN GONZALEZ M.<br>ALVARO BOLIVAR C.|ATEC<br>ARQUITECTOS<br>CHRISTEL RENDEL A.<br>JOSELIN GONZALEZ M.<br>ALVARO BOLIVAR C.|ATEC<br>ARQUITECTOS<br>CHRISTEL RENDEL A.<br>JOSELIN GONZALEZ M.<br>ALVARO BOLIVAR C.|ATEC<br>ARQUITECTOS<br>CHRISTEL RENDEL A.<br>JOSELIN GONZALEZ M.<br>ALVARO BOLIVAR C.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|ARQUITECTURA|ARQUITECTURA|ARQUITECTURA|ARQUITECTURA|
+|CENCOSUD SHOPPING CENTERS S.A.|CENCOSUD SHOPPING CENTERS S.A.|CENCOSUD SHOPPING CENTERS S.A.|CENCOSUD SHOPPING CENTERS S.A.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|PROYECTO<br>PORTAL RANCAGUA|PROYECTO<br>PORTAL RANCAGUA|PROYECTO<br>PORTAL RANCAGUA|PROYECTO<br>PORTAL RANCAGUA|
+|CONTENIDO<br>PLANTA NIVEL -2|CONTENIDO<br>PLANTA NIVEL -2|CONTENIDO<br>PLANTA NIVEL -2|CONTENIDO<br>PLANTA NIVEL -2|
+|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|
+|DIBUJO :<br>R.Y.|DIBUJO :<br>R.Y.|DIBUJO :<br>R.Y.|DIBUJO :<br>R.Y.|
+|SERIE<br>R|SERIE<br>R|EVISO<br>FECHA|EVISO<br>FECHA|
+|||A.Z<br>16.04.2024|A.Z<br>16.04.2024|
+|PLANO No<br>AR-RA-10|PLANO No<br>AR-RA-10|VERSION<br>A<br>05|VERSION<br>A<br>05|
+|MASTER PLAN|MASTER PLAN|ESCALA|ESCALA|
+|||INDICADAS|INDICADAS|
+|ARCHIVO CAD: .|ARCHIVO CAD: .|ARCHIVO CAD: .|ARCHIVO CAD: .|
+|N-2<br>NIVEL|N-2<br>NIVEL|N-2<br>NIVEL|N-2<br>NIVEL|

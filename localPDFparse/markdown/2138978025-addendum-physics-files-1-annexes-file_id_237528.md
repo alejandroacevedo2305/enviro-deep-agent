@@ -1,0 +1,16 @@
+---
+title: PLANTA GEOMETRICA
+author: Desconocido
+date: D:20181114223441
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|CROQUIS DE UBICACION<br>N<br>k-526<br>OLIVARES DE QUEPU<br>Aprox.<br>k-530<br>Km.<br>2.3<br>CAMINO A PENCAHUE k -6 0<br>MIRADOR<br>CERRO<br>LA VIRGEN<br>PERMISO<br>PLANTA DE ACEITE DE OLIVAS, PRODU<br>C<br>INGENIERO CIVIL<br>RICHARD SEPÚLVEDA UBILLA<br>AVENIDA FRANCIA N°325<br>COMUNA DE CHILLAN<br>Cel: +569 4234 5182<br>Correo: richard.sepulveda.icc@gmail.com|Col2|Col3|Col4|Col5|AMBIENTAL SECTORIAL 156<br>CCIÓN DE HUESO Y ORUJO DESHIDRATADO OLIVARES DE QUEPU S.A.<br>OMUNA DE PENCAHUE<br>C O N T E N I D O :<br>PLANTA GENERAL<br>SIMBOLOGIA<br>DETALLE OBRA DE DESCARGA<br>CROQUIS DE UBICACION<br>CRUADRO DE PR's<br>F E C H A E S C A L A L Á M I N A<br>OCTUBRE<br>INDICADAS 1 D E 5<br>2018|
+|---|---|---|---|---|---|
+|**C**<br>**RICHARD SEPÚLVEDA UBILLA**<br>**INGENIERO CIVIL**<br>**PERMISO**<br>**PLANTA DE ACEITE DE OLIVAS, PRODU**<br>**AVENIDA FRANCIA N°325**<br>**COMUNA DE CHILLAN**<br>**Cel: +569 4234 5182**<br>**Correo: richard.sepulveda.icc@gmail.com**<br>CROQUIS DE UBICACION<br>**N**<br>2.3 Km. Aprox.<br>CERRO<br>LA VIRGEN<br>CAMINO A PENCAHUE<br>OLIVARES DE QUEPU<br>k-60<br>k-530<br>k-526<br>MIRADOR|**C**<br>**RICHARD SEPÚLVEDA UBILLA**<br>**INGENIERO CIVIL**<br>**PERMISO**<br>**PLANTA DE ACEITE DE OLIVAS, PRODU**<br>**AVENIDA FRANCIA N°325**<br>**COMUNA DE CHILLAN**<br>**Cel: +569 4234 5182**<br>**Correo: richard.sepulveda.icc@gmail.com**<br>CROQUIS DE UBICACION<br>**N**<br>2.3 Km. Aprox.<br>CERRO<br>LA VIRGEN<br>CAMINO A PENCAHUE<br>OLIVARES DE QUEPU<br>k-60<br>k-530<br>k-526<br>MIRADOR|**C**<br>**RICHARD SEPÚLVEDA UBILLA**<br>**INGENIERO CIVIL**<br>**PERMISO**<br>**PLANTA DE ACEITE DE OLIVAS, PRODU**<br>**AVENIDA FRANCIA N°325**<br>**COMUNA DE CHILLAN**<br>**Cel: +569 4234 5182**<br>**Correo: richard.sepulveda.icc@gmail.com**<br>CROQUIS DE UBICACION<br>**N**<br>2.3 Km. Aprox.<br>CERRO<br>LA VIRGEN<br>CAMINO A PENCAHUE<br>OLIVARES DE QUEPU<br>k-60<br>k-530<br>k-526<br>MIRADOR|**C**<br>**RICHARD SEPÚLVEDA UBILLA**<br>**INGENIERO CIVIL**<br>**PERMISO**<br>**PLANTA DE ACEITE DE OLIVAS, PRODU**<br>**AVENIDA FRANCIA N°325**<br>**COMUNA DE CHILLAN**<br>**Cel: +569 4234 5182**<br>**Correo: richard.sepulveda.icc@gmail.com**<br>CROQUIS DE UBICACION<br>**N**<br>2.3 Km. Aprox.<br>CERRO<br>LA VIRGEN<br>CAMINO A PENCAHUE<br>OLIVARES DE QUEPU<br>k-60<br>k-530<br>k-526<br>MIRADOR|**C**<br>**RICHARD SEPÚLVEDA UBILLA**<br>**INGENIERO CIVIL**<br>**PERMISO**<br>**PLANTA DE ACEITE DE OLIVAS, PRODU**<br>**AVENIDA FRANCIA N°325**<br>**COMUNA DE CHILLAN**<br>**Cel: +569 4234 5182**<br>**Correo: richard.sepulveda.icc@gmail.com**<br>CROQUIS DE UBICACION<br>**N**<br>2.3 Km. Aprox.<br>CERRO<br>LA VIRGEN<br>CAMINO A PENCAHUE<br>OLIVARES DE QUEPU<br>k-60<br>k-530<br>k-526<br>MIRADOR|**C**<br>**RICHARD SEPÚLVEDA UBILLA**<br>**INGENIERO CIVIL**<br>**PERMISO**<br>**PLANTA DE ACEITE DE OLIVAS, PRODU**<br>**AVENIDA FRANCIA N°325**<br>**COMUNA DE CHILLAN**<br>**Cel: +569 4234 5182**<br>**Correo: richard.sepulveda.icc@gmail.com**<br>CROQUIS DE UBICACION<br>**N**<br>2.3 Km. Aprox.<br>CERRO<br>LA VIRGEN<br>CAMINO A PENCAHUE<br>OLIVARES DE QUEPU<br>k-60<br>k-530<br>k-526<br>MIRADOR|
+|||||||

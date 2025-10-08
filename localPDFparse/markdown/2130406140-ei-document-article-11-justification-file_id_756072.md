@@ -1,0 +1,7155 @@
+---
+title: Anexo.2.7.Paisaje.Rev.0.(16.04.2015)
+author: Diego J. Martínez Neira
+date: D:20150417171831Z00'00'
+language: es
+type: manual
+pages: 30
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Declaración
+  - Anexo
+-->
+
+# Declaración
+ de
+ Impacto
+ Ambiental** **Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+#### Comuna
+ de
+ Marchigüe**
+
+# Anexo
+ 2.7.** **Paisaje**
+
+#### Preparado
+ para**
+## Maitenes
+ Solar
+ Spa**
+
+### Abril
+ de
+ 2015**
+
+**Revisión
+ 0**
+
+________________________________________________________________________________________________________ **www.tet.cl**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+### Tabla
+ de
+ Contenidos**
+
+**1.** **INTRODUCCIÓN** **1**
+
+1.1. L OCALIZACIÓN
+ DEL
+ PROYECTO 1
+1.2. A NTECEDENTES
+ DEL
+ ÁREA
+ DE
+ INFLUENCIA 2
+
+**2.** **OBJETIVOS** **4**
+
+2.1. O BJETIVO G ENERAL 4
+2.2. O BJETIVOS
+ ESPECÍFICOS 4
+
+**3.** **METODOLOGÍA** **5**
+
+3.1. C ARACTERIZACIÓN
+ DEL
+ PAISAJE 5
+3.2. D ETERMINACIÓN
+ DE
+ LOS
+ VALORES
+ DE
+ CALIDAD
+ VISUAL
+ DEL
+ PAISAJE 6
+3.3. D ETERMINACIÓN
+ DE
+ LOS
+ VALORES
+ DE
+ FRAGILIDAD
+ VISUAL
+ DEL
+ PAISAJE 8
+3.4. D ETERMINACIÓN
+ DE
+ LA
+ SENSIBILIDAD
+ VISUAL
+ DEL
+ PAISAJE 9
+
+**4.** **RESULTADOS** **11**
+
+4.1. D EFINICIÓN
+ Y
+ CARACTERIZACIÓN
+ DE
+ UNIDADES
+ DE
+ PAISAJE 11
+4.1.1.
+ UP1 - L OS M AITENES -­‐M ARCHIGUE 14
+4.1.2.
+ Y ERBAS B UENAS 16
+4.1.3.
+ C OMPACIDAD
+ POR
+ UNIDAD
+ DE
+ PAISAJE 18
+4.1.4.
+ D ETERMINACIÓN
+ DEL
+ VALOR
+ PAISAJÍSTICO
+ POR
+ UNIDAD
+ DE
+ PAISAJE 18
+4.2. V ALORES
+ DE
+ CALIDAD
+ VISUAL 19
+4.3. V ALORES
+ DE
+ FRAGILIDAD
+ VISUAL 20
+4.4. S ENSIBILIDAD
+ VISUAL
+ DEL
+ PAISAJE 21
+4.4.1.
+ S ITUACIÓN
+ CON
+ PROYECTO
+ EN S INERGIA
+ CON
+ EL P ROYECTO P LANTA F OTOVOLTAICA B ERLINO 22
+
+**5.** **CONCLUSIONES Y RECOMENDACIONES** **25**
+
+**6.** **BIBLIOGRAFÍA** **27**
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**i**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+### Listado
+ de
+ Tablas**
+
+T ABLA 1. D ETERMINACIÓN
+ DE
+ VALOR
+ PAISAJÍSTICO
+ SEGÚN
+ ATRIBUTOS
+ BIOFÍSICOS 5
+T ABLA 2. C ALIDAD
+ VISUAL
+ DEL
+ PAISAJE
+ SEGÚN
+ SUS
+ ATRIBUTOS
+ BIOFÍSICOS
+ SEGÚN
+ LA
+ MACROZONA C ENTRO 7
+T ABLA 3. C ALIDAD
+ VISUAL
+ DEL
+ PAISAJE
+ SEGÚN
+ ATRIBUTOS
+ ESTRUCTURALES 8
+T ABLA 4. C ALIDAD
+ VISUAL
+ DEL
+ PAISAJE
+ SEGÚN
+ ATRIBUTOS
+ ESTÉTICOS 8
+T ABLA 5. V ALORES
+ PARA F RAGILIDAD V ISUAL 9
+T ABLA 6. I NTEGRACIÓN
+ DE R ESULTADOS
+ DE C ALIDAD
+ Y F RAGILIDAD V ISUAL
+ EN
+ BASE
+ A C LASES
+ DE P AISAJE
+ SEGÚN R AMOS,
+
+A. (1979) 10
+T ABLA 7. P UNTOS
+ DE
+ OBSERVACIÓN
+ PARA
+ LA
+ CARACTERIZACIÓN
+ DEL
+ PAISAJE 11
+T ABLA 8. U NIDADES
+ DE
+ PAISAJE 12
+T ABLA 9. P ORCENTAJE
+ DE
+ VISIBILIDAD
+ Y
+ COMPACIDAD
+ POR
+ UNIDAD
+ DE
+ PAISAJE 18
+T ABLA 10. D ETERMINACIÓN
+ DEL
+ VALOR
+ PAISAJÍSTICO
+ POR
+ UNIDAD
+ DE
+ PAISAJE 18
+T ABLA 11. V ALORES
+ DE
+ CALIDAD
+ VISUAL
+ POR
+ UNIDAD
+ DE
+ PAISAJE 20
+T ABLA 12. V ALORES
+ DE
+ FRAGILIDAD
+ VISUAL
+ POR
+ UNIDAD
+ DE
+ PAISAJE 21
+
+### Listado
+ de
+ Fotografías**
+
+F OTOGRAFÍA 1. V ISTA
+ ESTE
+ DESDE
+ EL
+ PUNTO P03 15
+F OTOGRAFÍA 2. V ISTA
+ OESTE
+ DESDE
+ EL
+ PUNTO P04 15
+F OTOGRAFÍA 3. V ISTA
+ OESTE
+ DESDE
+ EL
+ PUNTO P05 15
+F OTOGRAFÍA 4. V ISTA
+ SUROESTE
+ DESDE
+ EL
+ PUNTO P05 17
+F OTOGRAFÍA 5. V ISTA
+ NORTE
+ DESDE
+ EL
+ PUNTO P07 17
+F OTOGRAFÍA 6. F OTOMONTAJE
+ DEL
+ ACCESO
+ AL
+ PROYECTO, DESDE
+ EL
+ PUNTO P03 22
+F OTOGRAFÍA 7. F OTOMONTAJE
+ DEL
+ PROYECTO
+ DESDE
+ EL
+ PUNTO P04 22
+F OTOGRAFÍA 8. F OTOMONTAJE
+ DEL
+ PROYECTO
+ DESDE
+ UNA
+ RESIDENCIA
+ COLINDANTE
+ AL
+ SUR
+ DE
+ AMBOS
+ PROYECTOS . 23
+F OTOGRAFÍA 9. V ISTA
+ DE
+ LA
+ RESIDENCIA
+ DESDE
+ EL
+ SECTOR
+ SUR
+ DE
+ AMBOS
+ PROYECTOS 23
+F OTOGRAFÍA 10. F OTOMONTAJE
+ DE
+ AMBOS
+ PROYECTOS
+ DESDE
+ EL
+ PUNTO P06 24
+
+### Listado
+ de
+ Figuras**
+
+F IGURA 1. L OCALIZACIÓN
+ Y
+ ACCESIBILIDAD
+ AL P ROYECTO 2
+F IGURA 2. M ACROZONA
+ DE
+ PAISAJE C ENTRO 3
+F IGURA 3. P UNTOS
+ DE
+ OBSERVACIÓN
+ Y
+ TRACK
+ DE
+ ESFUERZO
+ DE
+ MUESTREO
+ PARA
+ CARACTERIZACIÓN
+ DE
+ PAISAJE 11
+F IGURA 4. A NÁLISIS
+ DE
+ VISIBILIDAD 12
+F IGURA 5. A NÁLISIS
+ DE
+ EXPOSICIÓN
+ VISUAL 13
+F IGURA 6. U NIDADES
+ DE
+ PAISAJE 14
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**ii**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**1.**
+**Introducción**
+
+El
+ proyecto
+ “Planta
+ Fotovoltaica
+ Maitenes”,
+ propiedad
+ de
+ Maitenes
+ Solar
+ SPA
+ y
+ en
+ adelante
+ e
+ indistintamente
+“Maitenes”
+ o
+ “el
+ Proyecto”,
+ se
+ emplaza
+ en
+ la
+ comuna
+ de
+ Marchigüe,
+ Provincia
+ de
+ Cardenal
+ Caro,
+ Región
+ de
+O’Higgins.
+
+Corresponde
+ a
+ una
+ planta
+ generadora
+ de
+ energía
+ eléctrica
+ a
+ partir
+ de
+ la
+ radiación
+ solar
+ y
+ pertenece
+ al
+ grupo
+ de
+las
+ Energías
+ Renovables
+ No
+ Convencionales
+ (ERNC).
+
+El
+ Proyecto
+ tendrá
+ una
+ capacidad
+ nominal
+ instalada
+ de
+ 10,5
+ MW,
+ para
+ inyectar
+ 9MW
+ al
+ Sistema
+ Interconectado
+Central
+ (SIC),
+ en
+ un
+ único
+ punto
+ común
+ de
+ conexión
+ a
+ una
+ línea
+ de
+ distribución
+ de
+ media
+ tensión,
+ conectada
+ a
+ su
+vez
+ al
+ SIC.
+ Esta
+ forma
+ de
+ conexión
+ define
+ el
+ Proyecto
+ como
+ Pequeños
+ Medios
+ de
+ Generación
+ (PMG),
+ acorde
+ al
+ D.S.
+N°244/2006
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Turismo.
+ La
+ etapa
+ de
+ construcción
+ tendrá
+ una
+ duración
+ de
+ 6
+meses,
+ la
+ etapa
+ de
+ operación,
+ 25
+ años
+ y
+ la
+ etapa
+ de
+ desmantelamiento
+ o
+ renovación
+ se
+ llevará
+ a
+ cabo
+ durante
+ el
+año
+ n°25.
+ Durante
+ la
+ construcción
+ habrá
+ un
+ máximo
+ de
+ 50
+ trabajadores,
+ mientras
+ que
+ la
+ operación,
+ el
+ control
+ y
+vigilancia
+ de
+ la
+ planta
+ se
+ realizarán
+ en
+ forma
+ remota.
+
+En
+ términos
+ generales,
+ la
+ planta
+ fotovoltaica
+ se
+ compone
+ de
+ dos
+ elementos
+ estructurales
+ fundamentales
+ para
+su
+ funcionamiento:
+ el
+ generador
+ fotovoltaico
+ y
+ el
+ sistema
+ de
+ conversión/transformación.
+ El
+ generador
+ está
+conformado
+ por
+ los
+ módulos
+ fotovoltaicos
+ conectados
+ en
+ series
+ paralelas
+ para
+ obtener
+ niveles
+ apropiados
+ de
+tensión
+ y
+ corriente,;
+ cuyos
+ paneles
+ están
+ fijados
+ al
+ terreno
+ mediante
+ soportes
+ metálicos
+ y
+ orientados
+ de
+ manera
+ de
+recibir
+ la
+ mayor
+ y
+ mejor
+ cantidad
+ de
+ energía
+ solar
+ durante
+ el
+ año.
+ En
+ tanto,
+ los
+ módulos
+ generadores
+ producen
+corriente
+ directa
+ que,
+ antes
+ de
+ ser
+ introducida
+ en
+ la
+ red,
+ debe
+ ser
+ transformada
+ de
+ Corriente
+ Continua
+ (CC)
+ a
+Corriente
+ Alterna
+ (CA),
+ usando
+ un
+ inversor,
+ mientras
+ que
+ el
+ nivel
+ de
+ voltaje
+ va
+ de
+ baja
+ tensión
+ (BT)
+ a
+ media
+ tensión
+(MT),
+ usando
+ un
+ transformador
+ elevador.
+ Estos
+ grupos
+ de
+ conversión
+ están
+ alojados
+ en
+ cabinas
+ eléctricas
+prefabricadas
+ donde
+ se
+ encuentran
+ también
+ otros
+ dispositivos
+ para
+ la
+ protección
+ de
+ la
+ red
+ y
+ el
+ sistema
+ eléctrico.
+ El
+generador
+ estará
+ conectado
+ al
+ sistema
+ de
+ conversión/transformación
+ y
+ a
+ la
+ red
+ de
+ distribución
+ eléctrica
+ mediante
+cables
+ subterráneos.
+
+El
+ Proyecto
+ considerará
+ además
+ la
+ instalación
+ de
+ un
+ cerco
+ perimetral,
+ puertas
+ de
+ acceso,
+ equipos
+ de
+iluminación
+ y
+ video-­‐vigilancia
+ y
+ todos
+ los
+ sistemas
+ auxiliares
+ necesarios
+ con
+ el
+ fin
+ de
+ asegurar
+ la
+ seguridad
+ y
+ la
+ salud
+de
+ las
+ personas,
+ la
+ flora
+ y
+ la
+ fauna
+ y
+ todos
+ los
+ aspectos
+ ambientales
+ involucrados
+ durante
+ la
+ construcción
+ y
+ la
+operación.
+
+**1.1.** **Localización
+ del
+ proyecto**
+La
+ Planta
+ Fotovoltaica
+ Maitenes
+ Solar
+ se
+ localiza
+ a
+ 7
+ km
+ al
+ noreste
+ de
+ la
+ localidad
+ de
+ Marchigüe,
+ comuna
+ de
+Marchigüe,
+ Provincia
+ de
+ Cardenal
+ Caro,
+ Región
+ del
+ Libertador
+ General
+ Bernardo
+ O ́Higgins.
+
+Se
+ puede
+ acceder
+ al
+ Proyecto
+ desde
+ la
+ Ruta
+ 5
+ Sur,
+ ingresando
+ al
+ oeste
+ por
+ la
+ ruta
+ 66,
+ a
+ la
+ altura
+ de
+ Pelequén,
+donde
+ se
+ puede
+ acceder
+ hacia
+ el
+ sur
+ a
+ través
+ de
+ las
+ rutas:
+ H-­‐774
+ (pasando
+ por
+ la
+ localidad
+ de
+ Peumo),
+ H-­‐830,
+ H-­‐740
+(El
+ Cristo
+ -
+ Pencahue)
+ o
+ H-­‐750;
+ hasta
+ la
+ ruta
+ H-­‐76
+ que
+ llega
+ directamente
+ al
+ Proyecto
+ y
+ a
+ Marchigüe
+ (Figura
+ 1).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**1**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Figura
+ 1.
+ Localización
+ y
+ accesibilidad
+ al
+ Proyecto**
+
+Fuente:
+ Elaboración
+ Terramar
+ Estudios
+
+ Territoriales.
+
+**1.2.** **Antecedentes
+ del
+ área
+ de
+ influencia**
+Maitenes
+ se
+ emplazará
+ en
+ lo
+ que
+ corresponde
+ a
+ la
+ macrozona
+ de
+ paisaje
+ Centro,
+ caracterizada
+ por
+ la
+dominancia
+ antrópica
+ derivada
+ de
+ la
+ existencia
+ de
+ grandes
+ conurbaciones,
+ la
+ ocupación
+ de
+ valles
+ y
+ laderas
+ de
+pendiente
+ moderada
+ por
+ usos
+ de
+ suelos
+ urbanos,
+ agrícolas
+ y/o
+ forestales.
+ La
+ naturalidad
+ se
+ ve
+ restringida
+ hacia
+zonas
+ de
+ las
+ cordilleras
+ de
+ la
+ Costa
+ y
+ Los
+ Andes,
+ donde
+ se
+ desarrollan
+ diversos
+ ecosistemas.
+ Las
+ condiciones
+climáticas
+ establecen
+ un
+ estacionalidad
+ moderada,
+ lo
+ que
+ se
+ traduce
+ en
+ un
+ paisaje
+ de
+ texturas
+ y
+ colores
+cambiantes.
+
+En
+ general
+ las
+ condiciones
+ climáticas
+ favorecen
+ el
+ desarrollo
+ de
+ actividades
+ en
+ terreno,
+ en
+ términos
+ de
+visibilidad
+ y
+ desplazamiento,
+ aspectos
+ que
+ determinan
+ un
+ alto
+ grado
+ de
+ exposición
+ del
+ territorio,
+ salvo
+ en
+ episodios
+de
+ neblina
+ o
+ nubosidad
+ en
+ zonas
+ costeras.
+ En
+ este
+ contexto,
+ las
+ cuencas
+ visuales
+ adquieren
+ una
+ forma
+ compacta,
+con
+ profundidad
+ de
+ campo
+ limitada,
+ productos
+ de
+ las
+ variaciones
+ del
+ relieve,
+ vegetación
+ e
+ infraestructuras,
+ (SEA,
+2013).
+
+Paralelamente,
+ el
+ Proyecto
+ se
+ incluye
+ en
+ la
+ subzona
+ Borde
+ Costero,
+ que
+ presenta
+ una
+ planicie
+ litoral
+ más
+desarrollada,
+ que
+ comienza
+ en
+ la
+ zona
+ del
+ Río
+ Loa,
+ hasta
+ alcanzar
+ su
+ máximo
+ desarrollo
+ en
+ la
+ zona
+ de
+ La
+ Serena;
+ no
+obstante
+ se
+ extiende
+ hasta
+ Carelmapu,
+ en
+ el
+ Golfo
+ Coronados,
+ Región
+ de
+ Los
+ Lagos
+ (Figura
+ 2).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**2**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Figura
+ 2.
+ Macrozona
+ de
+ paisaje
+ Centro**
+
+Fuente:
+ Elaboración
+ Terramar
+ Estudios
+
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**3**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**2.**
+**Objetivos**
+
+**2.1.** **Objetivo
+ General**
+ Caracterizar
+ el
+ paisaje
+ en
+ el
+ que
+ se
+ localizará
+ el
+ Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes,
+ en
+ base
+ a
+ lo
+
+establecido
+ en
+ el
+ artículo
+ 19,
+ letra
+ b)
+ del
+ RSEIA
+ (D.S.
+ 40/2012)
+ “Los
+ antecedentes
+ necesarios
+ que
+justifiquen
+ la
+ inexistencia
+ de
+ aquellos
+ efectos,
+ características
+ o
+ circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley
+que
+ pueden
+ dar
+ origen
+ a
+ la
+ necesidad
+ de
+ efectuar
+ un
+ Estudio
+ de
+ Impacto
+ Ambiental”;
+ y
+ el
+ artículo
+ 18,
+letra
+ e.6,
+ que
+ alude
+ a
+ la
+ línea
+ de
+ base
+ para
+ describir
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ y
+ los
+ elementos
+del
+ medioambiente
+ que
+ pudieran
+ verse
+ afectados;
+ en
+ este
+ caso,
+ el
+ paisaje.
+
+**2.2.** **Objetivos
+ específicos**
+ Caracterizar
+ la
+ visibilidad
+ del
+ paisaje
+ a
+ partir
+ de
+ puntos
+ de
+ observación
+ y
+ cuencas
+ visuales;
+ Determinar
+ el
+ valor
+ paisajístico
+ del
+ área
+ de
+ influencia
+ del
+ Proyecto;
+ Caracterizar
+ y
+ evaluar
+ la
+ calidad
+ visual
+ del
+ paisaje
+ en
+ función
+ de
+ sus
+ atributos
+ biofísicos,
+ estructurales
+ y
+
+estéticos;
+ Caracterizar
+ y
+ evaluar
+ la
+ fragilidad
+ del
+ paisaje;
+ y
+ Determinar
+ la
+ sensibilidad
+ del
+ paisaje.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**4**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**3.**
+**Metodología**
+
+**3.1.** **Caracterización
+ del
+ paisaje**
+La
+ caracterización
+ del
+ paisaje
+ y
+ de
+ los
+ recursos
+ escénicos
+ se
+ realiza
+ en
+ base
+ a
+ una
+ red
+ de
+ puntos
+ de
+ observación
+en
+ sectores
+ de
+ mayor
+ accesibilidad
+ o
+ tránsito
+ de
+ los
+ observadores,
+ y
+ que
+ representan
+ distintos
+ puntos
+ de
+ visibilidad
+hacia
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ a
+ partir
+ de
+ caminos
+ y
+ senderos
+ existentes
+ (Litton,
+ 1973).
+
+Desde
+ los
+ puntos
+ de
+ observación
+ descritos
+ se
+ evalúan
+ las
+ cuencas
+ visuales,
+ de
+ acuerdo
+ a
+ los
+ atributos
+ y
+características
+ (Tabla
+ 1)
+ y
+ a
+ sus
+ principales
+ aspectos:
+ forma
+ de
+ la
+ cuenca,
+ tipos
+ de
+ vistas,
+ tamaño
+ y
+ compacidad
+(zonas
+ no
+ vistas)
+ (Tevar,
+ 1996
+ en
+ SEA,
+ 2012).
+ Posteriormente,
+ se
+ determina
+ la
+ visibilidad,
+ con
+ apoyo
+ de
+ un
+ SIG
+(Sistema
+ de
+ Información
+ Geográfica),
+ que
+ corresponde
+ a
+ la
+ superficie
+ visible
+ desde
+ un
+ punto
+ o
+ una
+ línea,
+ con
+ una
+altura
+ determinada,
+ y
+ su
+ intervisibilidad,
+ que
+ se
+ refiere
+ a
+ la
+ suma
+ de
+ las
+ cuencas
+ visuales
+ de
+ una
+ malla
+ de
+ puntos
+ de
+observación
+ y
+ que
+ muestran,
+ en
+ consecuencia,
+ las
+ zonas
+ más
+ expuestas
+ del
+ territorio
+ (SEA,
+ 2013).
+
+A
+ partir
+ de
+ lo
+ anterior,
+ se
+ determina
+ el
+ área
+ de
+ influencia
+ visual,
+ en
+ base
+ al
+ dominio
+ nítido
+ de
+ la
+ vista
+ humana
+que
+ se
+ encuentra
+ en
+ torno
+ a
+ los
+ 3.500
+ m,
+ a
+ partir
+ del
+ cual
+ un
+ observador
+ deja
+ de
+ percibir
+ con
+ nitidez
+ un
+ objeto
+determinado,
+ pudiendo
+ alcanzar
+ los
+ 12.000
+ -
+ 15.000
+ m,
+ dependiendo
+ de
+ las
+ condiciones
+ atmosféricas,
+ (Ayuga,
+2001).
+ Esto,
+ en
+ combinación
+ con
+ lo
+ descrito
+ por
+ Escribano
+ et
+ al.
+ (1987,
+ en
+ De
+ La
+ Fuente,
+ 2012),
+ define
+ que
+ los
+planos
+ de
+ visibilidad
+ se
+ clasifican
+ en:
+
+ Corto
+ o
+ Inmediato:
+ de
+ 0
+ a
+ 200
+ m,
+ donde
+ el
+ observador
+ tiene
+ una
+ participación
+ directa
+ y
+ percibe
+ todos
+
+los
+ detalles
+ inmediatos;
+ Medio:
+ de
+ 200
+ a
+ 800
+ m,
+ donde
+ las
+ individualidades
+ del
+ área
+ se
+ agrupan
+ para
+ dotarla
+ de
+ carácter.
+ Es
+ la
+
+zona
+ donde
+ los
+ impactos
+ visuales
+ producidos
+ por
+ las
+ actuaciones
+ son
+ mayores;
+ y
+ Panorámico
+ o
+ Escénico:
+ de
+ 800
+ a
+ 3.500
+ m.
+ Se
+ pasa
+ del
+ detalle
+ a
+ la
+ silueta.
+ Los
+ colores
+ se
+ debilitan
+ y
+ las
+
+texturas
+ son
+ casi
+ irreconocibles.
+
+**Tabla
+ 1.
+ Determinación
+ de
+ valor
+ paisajístico
+ según
+ atributos
+ biofísicos**
+
+|Tipo de Artributo|Característica que otorga valor|
+|---|---|
+|Relieve|• <br>Presencia de volcán, montaña, cerro isla o afloramiento rocoso de magnitud<br>• <br>Pendiente mayor al 15% y cambios abruptos de pendiente<br>• <br>Orientación: no aplica|
+|Suelo|• <br>Rugosidadbaja(sueloliso)o rugosidadalta(suelorugoso)|
+|Agua|• <br>Tipo: no aplica<br>• <br>Abundancia alta o media<br>• <br>Calidad limpia o transparente<br>• <br>Ribera o zona ripariana con vegetación<br>• <br>Movimientorápidoy saltodeagua|
+|Vegetación|• <br>Cobertura alta o media<br>• <br>Temporalidad permanente<br>• <br>Diversidad alta o media<br>• <br>Más de un estrato de vegetación<br>• <br>Follajecaducoo mixto|
+|Fauna|• <br>Presencia alta o media<br>• <br>Diversidadaltao media|
+|Nieve|• <br>Cobertura alta o media<br>• <br>Temporalidad permanente|
+
+Fuente:
+ SEA,
+ 2013.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**5**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Según
+ estos
+ valores,
+ se
+ delimitan
+ las
+ unidades
+ de
+ paisaje,
+ correspondientes
+ a
+ unidades
+ reconocibles
+ al
+ interior
+de
+ zonas
+ homogéneas,
+ que
+ de
+ manera
+ interconectada
+ conforman
+ los
+ mosaicos,
+ pudiendo
+ clasificarse
+ a
+ su
+ vez
+ en
+parches,
+ conectores
+ o
+ matrices,
+ según
+ su
+ dominancia,
+ forma
+ y
+ función,
+ (SEA,
+ 2013).
+ Otros
+ parámetros
+ generales
+usados
+ en
+ la
+ delimitación
+ de
+ las
+ unidades
+ de
+ paisaje
+ son
+ el
+ tipo
+ de
+ vegetación
+ en
+ contraste
+ con
+ la
+ cobertura
+ de
+suelo,
+ barreras
+ visuales
+ como,
+ por
+ ejemplo:
+ cercos
+ vivos,
+ arboledas
+ u
+ otras
+ estructuras;
+ el
+ uso
+ del
+ suelo,
+ la
+pendiente
+ y
+ exposición.
+
+Se
+ suma
+ a
+ lo
+ anterior
+ la
+ identificación
+ de
+ áreas
+ singulares
+ que
+ son
+ sectores
+ o
+ elementos
+ reconocibles
+ dentro
+ de
+una
+ determinada
+ unidad
+ de
+ paisaje
+ que
+ dominan
+ por
+ sus
+ características
+ únicas
+ y
+ distintivas,
+ (SEA,
+ 2013).
+
+En
+ base
+ a
+ lo
+ descrito
+ anteriormente
+ y
+ al
+ carácter
+ del
+ paisaje
+ donde
+ se
+ emplaza
+ el
+ área
+ de
+ influencia
+ visual
+ del
+proyecto,
+ se
+ define
+ si
+ la
+ zona
+ posee
+ o
+ no
+ valor
+ paisajístico,
+ sobre
+ el
+ cual
+ se
+ determina
+ si
+ el
+ proyecto,
+ en
+ alguna
+ de
+sus
+ fases,
+ puede
+ provocar
+ una
+ obstrucción
+ de
+ la
+ visibilidad,
+ una
+ alteración
+ de
+ los
+ atributos
+ del
+ paisaje
+ o
+ ambas
+situaciones,
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+ reglamento
+ del
+ SEIA
+ D.S.
+ N°40/2013,
+ en
+ el
+ Título
+ II,
+ artículo
+ N°9,
+ sobre
+ el
+valor
+ paisajístico
+ o
+ turístico,
+ donde
+ se
+ define
+ que
+ “el
+ titular
+ deberá
+ presentar
+ un
+ Estudio
+ de
+ Impacto
+ Ambiental
+ si
+ su
+proyecto
+ o
+ actividad
+ genera
+ alteración
+ significativa,
+ en
+ términos
+ de
+ magnitud
+ o
+ duración,
+ del
+ valor
+ paisajístico
+ o
+turístico
+ de
+ una
+ zona.
+
+_Se
+ entenderá
+ que
+ una
+ zona
+ tiene
+ valor
+ paisajístico
+ cuando,
+ siendo
+ perceptible
+ visualmente,
+ posee
+ atributos_
+_naturales
+ que
+ le
+ otorgan
+ una
+ calidad
+ que
+ la
+ hace
+ única
+ y
+ representativa._
+
+_A
+ objeto
+ de
+ evaluar
+ si
+ el
+ proyecto
+ o
+ actividad,
+ en
+ cualquiera
+ de
+ sus
+ fases,
+ genera
+ o
+ presenta
+ alteración_
+_significativa
+ del
+ valor
+ paisajístico
+ de
+ una
+ zona,
+ se
+ considerará:_
+
+ La
+ duración
+ o
+ la
+ magnitud
+ en
+ que
+ se
+ obstruye
+ la
+ visibilidad
+ a
+ una
+ zona
+ con
+ valor
+ paisajístico;
+ y
+ La
+ duración
+ o
+ la
+ magnitud
+ en
+ que
+ se
+ alteren
+ atributos
+ de
+ una
+ zona
+ con
+ valor
+ paisajístico.
+
+_Se
+ entenderá
+ que
+ una
+ zona
+ tiene
+ valor
+ turístico
+ cuando,
+ teniendo
+ valor
+ paisajístico,
+ cultural
+ y/o
+ patrimonial,_
+_atraiga
+ flujos
+ de
+ visitantes
+ o
+ turistas
+ hacia
+ ella._
+
+_A
+ objeto
+ de
+ evaluar
+ si
+ el
+ proyecto
+ o
+ actividad,
+ en
+ cualquiera
+ de
+ sus
+ fases,
+ genera
+ o
+ presenta
+ alteración_
+_significativa
+ del
+ valor
+ turístico
+ de
+ una
+ zona,
+ se
+ considerará
+ la
+ duración
+ o
+ magnitud
+ en
+ que
+ se
+ obstruya
+ el
+ acceso
+ o
+ se_
+_alteren
+ zonas
+ con
+ valor
+ turístico.”
+ (MMA,
+ Octubre
+ de
+ 2012)._
+
+Complementariamente,
+ se
+ revisó
+ el
+ marco
+ biogeográfico
+ del
+ área
+ de
+ influencia
+ visual
+ del
+ Proyecto,
+ tomando
+como
+ base
+ el
+ Sistema
+ Básico
+ de
+ Clasificación
+ de
+ la
+ Vegetación
+ Nativa
+ de
+ Chile
+ desarrollado
+ por
+ Gajardo
+ (1994)
+ y
+ la
+Sinopsis
+ Bioclimática
+ y
+ Vegetacional
+ de
+ Chile
+ (Luebert
+ y
+ Pliscoff,
+ 2006),
+ que
+ permiten
+ conocer
+ los
+ ambientes
+vegetacionales
+ potenciales
+ del
+ área
+ de
+ influencia.
+
+**3.2.** **Determinación
+ de
+ los
+ valores
+ de
+ calidad
+ visual
+ del
+ paisaje**
+Una
+ vez
+ definidas
+ las
+ unidades
+ de
+ paisaje,
+ paralelamente
+ se
+ les
+ otorga
+ un
+ valor
+ de
+ calidad
+ visual,
+ según
+ la
+evaluación
+ y
+ determinación
+ de
+ características
+ comunes
+ para
+ los
+ atributos
+ biofísicos,
+ estructurales
+ y
+ estéticos
+ del
+paisaje,
+ señalados
+ en
+ la
+ Tabla
+ 2,
+ Tabla
+ 3
+ y
+ Tabla
+ 4.
+
+Al
+ promediar
+ los
+ valores
+ en
+ cada
+ unidad
+ de
+ paisaje
+ el
+ resultado
+ para
+ calidad
+ visual
+ puede
+ ser:
+
+ Paisaje de calidad destacada:
+ aquellos
+ donde
+ uno
+ o
+ más
+ de
+ sus
+ atributos
+ visuales
+ se
+ valoran
+ como
+
+destacados,
+ transformándose
+ en
+ el
+ o
+ los
+ elementos
+ que
+ permiten
+ reconocer
+ en
+ el
+ paisaje
+ una
+condición
+ destacada;
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**6**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+ Paisaje de calidad alta:
+ aquellos
+ paisajes
+ donde
+ la
+ mayoría
+ de
+ sus
+ atributos
+ se
+ reconocen
+ como
+ de
+
+calidad
+ alta,
+ con
+ rasgos
+ sobresalientes.
+ Si
+ más
+ del
+ 50%
+ de
+ los
+ atributos
+ se
+ valoran
+ en
+ la
+ categoría
+ alta,
+entonces
+ el
+ paisaje
+ tiene
+ esta
+ condición.
+ Igualmente,
+ si
+ se
+ valoran
+ los
+ atributos
+ en
+ igual
+ cantidad
+ en
+las
+ categorías
+ alta
+ y
+ media
+ y
+ ningún
+ atributo
+ en
+ la
+ categoría
+ baja,
+ entonces
+ el
+ paisaje
+ presenta
+ una
+calidad
+ visual
+ alta;
+ Paisaje de calidad media:
+ aquellos
+ cuyos
+ atributos
+ se
+ valoran
+ como
+ comunes
+ o
+ recurrentes.
+ Si
+ más
+ del
+
+50%
+ de
+ los
+ atributos
+ se
+ valoran
+ en
+ la
+ categoría
+ media,
+ entonces
+ el
+ paisaje
+ tiene
+ una
+ calidad
+ visual
+media.
+ Igualmente,
+ si
+ se
+ valoran
+ los
+ atributos
+ en
+ las
+ categorías
+ alta
+ y
+ media
+ en
+ igual
+ cantidad
+ y
+ un
+atributo
+ en
+ la
+ categoría
+ baja,
+ entonces
+ el
+ paisaje
+ presenta
+ calidad
+ visual
+ media;
+ y
+ Paisaje de calidad baja:
+ aquellos
+ que
+ contienen
+ muy
+ poca
+ variedad
+ de
+ atributos
+ y
+ además
+ éstos
+ se
+
+valoran
+ en
+ calidad
+ baja.
+ Si
+ más
+ del
+ 50%
+ de
+ los
+ atributos
+ se
+ valoran
+ en
+ la
+ categoría
+ baja,
+ entonces
+ el
+paisaje
+ asume
+ la
+ condición
+ de
+ calidad
+ visual
+ baja.
+ Igualmente,
+ si
+ se
+ valoran
+ los
+ atributos
+ en
+ igual
+cantidad
+ en
+ las
+ categorías
+ media
+ y
+ baja,
+ y
+ ningún
+ atributo
+ en
+ la
+ categoría
+ alta,
+ entonces
+ el
+ paisaje
+presenta
+ una
+ calidad
+ visual
+ baja.
+
+**Tabla
+ 2.
+ Calidad
+ visual
+ del
+ paisaje
+ según
+ sus
+ atributos
+ biofísicos
+ según
+ la
+ macrozona
+ Centro**
+
+|Atributo|Calidad Visual|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**Atributo**|**Destacada**<br>**(4)**|**Alta**<br>**(3)**|**Media**<br>**(2)**|**Baja**<br>**(1)**|
+|Relieve|Montaña, volcán o afloramiento<br>rocoso, pendiente sobre 30%|Colina o cerro isla,<br>pendiente sobre 30%|Colina o cerro isla,<br>pendiente entre 15%<br>y 30%|Valle, pendiente bajo<br>15%|
+|Suelo|Rugosidad alta|Rugosidad media|Rugosidad media|Rugosidad baja|
+|Agua|Presencia de agua, abundancia<br>alta, ribera con mucha vegetación<br>y calidad limpia o transparente|Presencia de agua,<br>abundancia media,<br>ribera con vegetación<br>y calidad limpia o<br>transparente|Presencia de agua,<br>abundancia baja,<br>ribera sin vegetación y<br>calidad limpia o<br>transparente|Presencia de agua,<br>abundancia baja,<br>ribera sin vegetación y<br>calidad sucia o turbia|
+|Vegetación|Cobertura sobre el 50%,<br>permanente, estrato arbóreo y<br>diversidad alta|Cobertura sobre el<br>50%, permanente,<br>estrato arbustivo y<br>diversidad alta|Cobertura sobre el<br>25%, ocasional o<br>estacional, estrato<br>arbustivo o herbáceo<br>y diversidadmedia|Cobertura menor al<br>25%, ocasional,<br>estrato herbáceo y<br>diversidad baja.|
+|Fauna|Presencia alta y diversidad alta|Presencia media y<br>diversidad media|Presencia media y<br>diversidad baja|Presencia nula (sin<br>fauna visible)|
+|Nieve|Cobertura sobre el 50% y<br>temporalidad permanente|Cobertura sobre el<br>25% y temporalidad<br>permanente|Cobertura menor al<br>25% y temporalidad<br>estacional||
+
+Fuente:
+ SEA,
+ 2013.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**7**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 3.
+ Calidad
+ visual
+ del
+ paisaje
+ según
+ atributos
+ estructurales**
+
+|Atributo|Calidad Visual|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**Atributo**|**Destacada**<br>**(4)**|**Alta**<br>**(3)**|**Destacada**<br>**(4)**|**Baja**<br>**(1)**|
+|**Diversidad paisajística**|Heterogeneidad alta y<br>singularidad alta.|Heterogeneidad alta<br>y singularidad<br>media.|Heterogeneidad<br>media y singularidad<br>media;<br>Heterogeneidad baja y<br>singularidadmedia.|Heterogeneidad baja y<br>singularidad nula.|
+|**Naturalidad**|Cualidad antrópica<br>nula.|Cualidad antrópica<br>baja.|Cualidad antrópica<br>media|Cualidad antrópica<br>alta.|
+
+Fuente:
+ SEA,
+ 2013.
+
+**Tabla
+ 4.
+ Calidad
+ visual
+ del
+ paisaje
+ según
+ atributos
+ estéticos**
+
+|Atributo|Calidad Visual|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**Atributo**|**Destacada**<br>**(4)**|**Alta**<br>**(3)**|**Destacada**<br>**(4)**|**Baja**<br>**(1)**|
+|**Forma**|Diversidadalta|Diversidadmedia|Diversidadmedia|Diversidadbaja|
+|**Color**|Diversidad alta y<br>contraste alto|Diversidad alta y<br>contraste medio|Diversidad media y<br>contraste medio;<br>Diversidad media y<br>contraste bajo;<br>Diversidad baja y<br>contrastealto|Diversidad baja y<br>contraste baja|
+|**Textura**|Grano grueso y<br>diversidad alta|Grano grueso y<br>diversidad alta|Grano medio y<br>diversidad alta;<br>Grano fino y diversidad<br>media|Grano fino y<br>diversidad baja|
+
+Fuente:
+ SEA,
+ 2013.
+
+Para
+ complementar
+ esta
+ valorización,
+ se
+ expone
+ también
+ una
+ recopilación
+ de
+ imágenes
+ y
+ datos
+ de
+ campo
+ en
+ las
+que
+ se
+ describen
+ las
+ características
+ más
+ relevantes
+ de
+ cada
+ unidad
+ de
+ paisaje,
+ que
+ no
+ son
+ explícitamente
+ reflejados
+en
+ las
+ tablas
+ y
+ valores,
+ y
+ que
+ igualmente
+ influyen
+ en
+ los
+ resultados.
+ De
+ esta
+ forma
+ se
+ obtiene
+ la
+ información
+necesaria
+ para
+ realizar
+ una
+ comparación
+ entre
+ la
+ situación
+ existente
+ y
+ la
+ incidencia
+ visual
+ del
+ proyecto
+ una
+ vez
+construido.
+
+**3.3.** **Determinación
+ de
+ los
+ valores
+ de
+ fragilidad
+ visual
+ del
+ paisaje**
+Se
+ refiere
+ a
+ la
+ capacidad
+ de
+ respuesta
+ de
+ un
+ paisaje
+ frente
+ a
+ un
+ uso
+ de
+ él,
+ o
+ bien,
+ el
+ grado
+ de
+ deterioro
+ de
+ las
+propiedades
+ del
+ paisaje
+ ante
+ cambios,
+ (Muñoz-­‐Pedreros,
+ 2004).
+ Para
+ este
+ análisis,
+ se
+ consideró
+ el
+ método
+propuesto
+ por
+ Muñoz
+ -
+ Pedreros
+ (2004),
+ inspirado
+ en
+ Escribano
+ et
+ al.
+ (1991)
+ y
+ MOPT
+ (1992),
+ el
+ que
+ entrega
+ valores
+de
+ fragilidad
+ visual
+ intrínseca,
+ al
+ considerar
+ factores
+ biofísicos
+ que
+ ponderan
+ fragilidad
+ visual
+ del
+ punto
+ de
+observación
+ y
+ el
+ carácter
+ histórico
+ -
+ cultural
+ de
+ éste.
+
+La
+ escala
+ de
+ valores
+ para
+ Fragilidad
+ Visual
+ es
+ de
+ 1
+ a
+ 3,
+ en
+ que
+ 1
+ equivale
+ a
+ Baja,
+ 2
+ a
+ Media
+ y
+ 3
+ a
+ Alta,
+ según
+ se
+describe
+ en
+ la
+ Tabla
+ 5.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**8**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 5.
+ Valores
+ para
+ Fragilidad
+ Visual**
+
+|Factor|Caracaterística|Valores de Fragilidad|Col4|
+|---|---|---|---|
+|**Factor**|**Caracaterística**|**Nominal**|**Numérico**|
+|**D**<br>**Densidad de la vegetación**|67-100%suelocubiertodeespeciesleñosas|Bajo|1|
+|**D**<br>**Densidad de la vegetación**|34-67%suelocubiertodeespeciesleñosas|Medio|2|
+|**D**<br>**Densidad de la vegetación**|0-34% Suelocubiertodeespeciesleñosas|Alto|3|
+|**E**<br>**Diversidad de estratos de la**<br>**vegetación**|> 3 estratosvegetacionales|Bajo|1|
+|**E**<br>**Diversidad de estratos de la**<br>**vegetación**|< 3 estratosvegetacionales|Medio|2|
+|**E**<br>**Diversidad de estratos de la**<br>**vegetación**|1 estratovegetacionaldominante|Alto|3|
+|**A**<br>**Altura de la vegetación**|> 3mdealturapromedio|Bajo|1|
+|**A**<br>**Altura de la vegetación**|> 1m< 3mdealturapromedio|Medio|2|
+|**A**<br>**Altura de la vegetación**|< 1mdealturapromedio|Alto|3|
+|**ES**<br>**Estacionalidad de la vegetación**|Vegetacióndominanteperennifolia|Bajo|1|
+|**ES**<br>**Estacionalidad de la vegetación**|Vegetaciónmixta|Medio|2|
+|**ES**<br>**Estacionalidad de la vegetación**|Vegetacióndominantecaducifolia|Alto|3|
+|**CV**<br>**Contraste cromático vegetación /**<br>**vegetación**|Manchaspolicromáticasinpautanítida|Bajo|1|
+|**CV**<br>**Contraste cromático vegetación /**<br>**vegetación**|Manchaspolicromáticasconpautanítida|Medio|2|
+|**CV**<br>**Contraste cromático vegetación /**<br>**vegetación**|Manchasmonocromáticas|Alto|3|
+|**CS**<br>**Contraste cromático vegetación /**<br>**suelo**|Contrastevisualbajo|Bajo|1|
+|**CS**<br>**Contraste cromático vegetación /**<br>**suelo**|Contrastevisualmedio|Medio|2|
+|**CS**<br>**Contraste cromático vegetación /**<br>**suelo**|Contrastevisualalto|Alto|3|
+|**P**<br>**Pendiente**|0 - 25%|Bajo|1|
+|**P**<br>**Pendiente**|25- 55%|Medio|2|
+|**P**<br>**Pendiente**|> 55%|Alto|3|
+|**O**<br>**Orientación del paisaje**|Exposiciónsur/ este|Bajo|1|
+|**O**<br>**Orientación del paisaje**|Exposiciónsureste/ noroeste|Medio|2|
+|**O**<br>**Orientación del paisaje**|Exposiciónnorte/ oeste|Alto|3|
+|**H**<br>**Valor histórico y cultural**|Bajaunicidad,singularidado valor|Bajo|1|
+|**H**<br>**Valor histórico y cultural**|Mediaunicidad,singularidado valor|Medio|2|
+|**H**<br>**Valor histórico y cultural**|Altaunicidad,singularidado valor|Alto|3|
+
+Fuente:
+ Muñoz
+ -
+ Pedreros
+ (2004).
+
+Los
+ criterios
+ de
+ diagnóstico
+ corresponderán
+ a
+ la
+ siguiente
+ puntuación:
+
+ Fragilidad
+ alta:
+ 22
+ a
+ 27
+ puntos;
+ Fragilidad
+ media:
+ 16
+ a
+ 21
+ puntos;
+ y
+ Fragilidad
+ baja:
+ 9
+ a
+ 15
+ puntos.
+
+A
+ partir
+ de
+ estos
+ indicadores,
+ es
+ posible
+ determinar
+ la
+ magnitud
+ de
+ posibles
+ alteraciones
+ del
+ proyecto
+ en
+ el
+sector
+ analizado.
+
+**3.4.** **Determinación
+ de
+ la
+ sensibilidad
+ visual
+ del
+ paisaje**
+De
+ acuerdo
+ con
+ Bolós
+ (1192)
+ y
+ Ramos
+ (1979),
+ es
+ importante
+ además
+ estimar
+ el
+ valor
+ actual
+ y
+ potencial
+ del
+paisaje.
+ Tanto
+ la
+ calidad
+ visual,
+ que
+ es
+ su
+ valor
+ actual,
+ como
+ su
+ fragilidad,
+ que
+ es
+ la
+ capacidad
+ de
+ respuesta
+ frente
+ a
+un
+ uso,
+ brindan
+ valiosa
+ información
+ para
+ evaluar
+ la
+ capacidad
+ paisajística
+ de
+ un
+ territorio
+ en
+ relación
+ a
+ la
+implementación
+ y/o
+ evaluación
+ de
+ determinadas
+ acciones
+ antrópicas
+ en
+ el
+ mismo.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**9**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Al
+ integrar
+ los
+ valores
+ de
+ fragilidad,
+ accesibilidad
+ y
+ calidad
+ visual
+ en
+ la
+ descripción
+ de
+ Ramos
+ (1979),
+ descritos
+en
+ la
+ Tabla
+ 6,
+ se
+ obtienen
+ los
+ valores
+ de
+ Sensibilidad
+ Visual.
+
+**Tabla
+ 6.
+ Integración
+ de
+ Resultados
+ de
+ Calidad
+ y
+ Fragilidad
+ Visual
+ en
+ base
+ a
+ Clases
+ de
+ Paisaje
+ según
+ Ramos,
+ A.**
+**(1979)**
+
+|Fragilidad Visual|Calidad Visual|Col3|Col4|
+|---|---|---|---|
+|**Fragilidad Visual**|**Baja**|**Media**|**Alta**|
+|Baja|5|3|2|
+|Media|4|3|2|
+|Alta|4|3|1|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales
+ en
+ base
+ a
+ Ramos
+ (1979).
+
+Como
+ explica
+ la
+ Tabla
+ 6,
+ al
+ relacionar
+ ambos
+ valores
+ se
+ obtiene
+ la
+ clase
+ de
+ la
+ unidad
+ de
+ paisaje,
+ o
+ bien,
+ la
+sensibilidad
+ de
+ éste
+ a
+ la
+ transformación,
+ de
+ acuerdo
+ a:
+
+ CLASE
+ 1:
+ Zonas
+ de
+ alta
+ calidad
+ visual
+ y
+ alta
+ fragilidad
+ visual,
+ cuya
+ conservación
+ resultará
+ prioritaria
+
+dada
+ sus
+ características
+ paisajísticas
+ sobresalientes.
+ Su
+ grado
+ de
+ restricción
+ es
+ máximo.
+ En
+ estas
+ zonas
+se
+ realizan
+ actividades
+ que
+ no
+ generan
+ impactos
+ o
+ alteraciones
+ en
+ las
+ cualidades
+ del
+ paisaje
+(ecoturismo,
+ investigación,
+ educación,
+ conservación,
+ etc.);
+ CLASE
+ 2:
+ Zonas
+ de
+ alta
+ calidad
+ y
+ fragilidad
+ media
+ o
+ baja,
+ aptas
+ en
+ principio
+ para
+ actividades
+ que
+
+requieran
+ calidad
+ paisajística
+ y
+ causen
+ poco
+ impacto
+ en
+ elementos
+ del
+ paisaje.
+ Su
+ grado
+ de
+ restricción
+de
+ uso
+ es
+ alto
+ (turismo
+ en
+ general,
+ proyectos
+ de
+ bajo
+ impacto
+ o
+ que
+ agreguen
+ valor
+ paisajístico,
+ etc.);
+ CLASE
+ 3:
+ Zonas
+ de
+ calidad
+ media
+ y
+ de
+ fragilidad
+ variable,
+ que
+ pueden
+ incorporarse
+ a
+ la
+ anterior
+
+categoría
+ cuando
+ las
+ circunstancias
+ lo
+ aconsejen,
+ esto
+ es,
+ que
+ alguno
+ de
+ los
+ elementos
+ evaluados
+requiera
+ protección
+ por
+ su
+ valor
+ individual.
+ Su
+ grado
+ de
+ restricción
+ variable
+ permite
+ un
+ nivel
+ mayor
+ de
+presión
+ sobre
+ el
+ paisaje,
+ pero
+ no
+ acepta
+ fuertes
+ impactos
+ paisajísticos.
+ (zonas
+ residenciales,
+ obras
+civiles
+ de
+ bajo
+ impacto,
+ etc.);
+ CLASE
+ 4:
+ Zonas
+ de
+ calidad
+ baja
+ y
+ de
+ fragilidad
+ alta
+ o
+ media,
+ que
+ pueden
+ incorporarse
+ a
+ la
+ Clase
+ 5
+
+cuando
+ se
+ considere
+ necesario.
+ Su
+ grado
+ de
+ restricción
+ es
+ bajo
+ por
+ lo
+ que
+ permite
+ un
+ nivel
+ de
+alteración
+ mayor
+ (trazado
+ de
+ caminos,
+ líneas
+ de
+ transmisión
+ eléctrica,
+ plantaciones
+ forestales,
+actividades
+ que
+ requieran
+ usos
+ intensivos
+ del
+ paisaje,
+ expansión
+ urbana,
+ etc.);
+ y
+ CLASE
+ 5:
+ Zonas
+ de
+ calidad
+ y
+ fragilidad
+ bajas,
+ aptas
+ desde
+ el
+ punto
+ de
+ vista
+ paisajístico
+ para
+ la
+
+localización
+ de
+ actividades
+ poco
+ gratas
+ o
+ que
+ causen
+ impactos
+ muy
+ fuertes
+ (vertederos,
+ complejos
+industriales,
+ etc.).
+ Su
+ grado
+ de
+ restricción
+ es
+ casi
+ nulo.
+ Son
+ por
+ lo
+ general
+ paisajes
+ altamente
+degradados
+ por
+ actividades
+ anteriores.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**10**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**4.**
+**Resultados**
+
+**4.1.** **Definición
+ y
+ caracterización
+ de
+ unidades
+ de
+ paisaje**
+La
+ identificación
+ y
+ delimitación
+ de
+ unidades
+ de
+ paisaje
+ se
+ realizó,
+ tanto
+ en
+ gabinete,
+ mediante
+ herramientas
+ SIG
+e
+ información
+ pública
+ disponible
+ (Google
+ Earth,
+ CBN
+,
+ SINIA),
+ como
+ en
+ terreno,
+ para
+ así
+ reconocer
+ las
+ porciones
+ del
+territorio
+ que
+ presentan
+ homogeneidad
+ en
+ lo
+ referente
+ a
+ sus
+ atributos
+ biofísicos,
+ estructurales
+ y
+ estéticos
+ descritos
+anteriormente.
+ Esta
+ información
+ se
+ levantó
+ a
+ partir
+ de
+ una
+ red
+ de
+ puntos
+ que
+ tienen
+ accesibilidad
+ física
+ y/o
+ visual
+al
+ proyecto
+ y
+ a
+ las
+ unidades
+ de
+ paisaje,
+ (Figura
+ 3.
+
+ Puntos
+ de
+ observación
+ y
+ track
+ de
+ esfuerzo
+ de
+ muestreo
+ para
+caracterización
+ de
+ paisaje,
+ Tabla
+ 7).
+
+**Figura
+ 3.
+ Puntos
+ de
+ observación
+ y
+ track
+ de
+ esfuerzo
+ de
+ muestreo
+ para
+ caracterización
+ de
+ paisaje**
+
+Fuente:
+ Mapcity
+ Image
+ 2014
+ -­‐
+ Digital
+ Globe
+ 2014
+ /
+ Google
+ Earth.
+
+**Tabla
+ 7.
+ Puntos
+ de
+ observación
+ para
+ la
+ caracterización
+ del
+ paisaje**
+
+|Coordenadas UTM, datum WGS84, huso 19S|Col2|Col3|
+|---|---|---|
+|**Punto**|**E**|**N**|
+|P01|264.716|6.198.580|
+|P02|263.483|6.197.087|
+|P03|262.776|6.196.263|
+|P04|263.473|6.195.668|
+|P05|263.684|6.195.223|
+|P06|263.866|6.195.651|
+|P07|262.104|6.194.121|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**11**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+A
+ los
+ criterios
+ descritos,
+ se
+ le
+ sumó
+ el
+ análisis
+ de
+ visibilidad,
+ en
+ base
+ al
+ modelo
+ de
+ elevación
+ de
+ terreno
+ (Figura
+4)
+ y
+ exposición
+ visual
+ (Figura
+ 5),
+ dando
+ como
+ resultado
+ la
+ delimitación
+ de
+ dos
+ unidades
+ de
+ paisaje
+ (Figura
+ 6
+ y
+ Tabla
+8).
+
+**Tabla
+ 8.
+ Unidades
+ de
+ paisaje**
+
+|Unidades de Paisaje|Col2|Col3|
+|---|---|---|
+|**Número**|**Nombre**|**Visible**|
+|UP1|Los Maitenes - Marchigüe|Si|
+|UP2|Yerbas Buenas|Como parte del fondo escénico|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Figura
+ 4.
+ Análisis
+ de
+ visibilidad**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**12**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Figura
+ 5.
+ Análisis
+ de
+ exposición
+ visual**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**13**
+
+**Figura
+ 6.
+ Unidades
+ de
+ paisaje**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales. .
+
+**4.1.1.** **UP1
+ -
+ Los
+ Maitenes-­‐Marchigue**
+Corresponde
+ a
+ la
+ unidad
+ de
+ paisaje
+ donde
+ está
+ inserto
+ el
+ Proyecto,
+ donde
+ las
+ cuencas
+ visuales
+ están
+ limitadas
+de
+ forma
+ circular
+ por
+ la
+ geomorfología
+ en
+ direcciones
+ este
+ (Fotografía
+ 1),
+ norte
+ y
+ oeste
+ (Fotografía
+ 2,
+ Fotografía
+ 3),
+en
+ planos
+ cortos
+ y
+ medio,
+ mientras
+ que
+ hacia
+ el
+ sur
+ las
+ vistas
+ se
+ abren
+ en
+ forma
+ focalizada
+ hasta
+ planos
+ de
+ fondo
+escénico.
+
+Los
+ tipos
+ de
+ vistas
+ dominantes
+ son
+ cerrados
+ hacia
+ el
+ este,
+ norte
+ y
+ oeste,
+ y
+ permiten
+ acceso
+ a
+ planos
+ cortos
+ y
+medios.
+ Hacia
+ el
+ sur,
+ las
+ vistas
+ son
+ de
+ tipo
+ focalizado
+ hasta
+ planos
+ de
+ fondo
+ escénico,
+ con
+ acceso
+ visual
+ hacia
+algunas
+ área
+ del
+ sector
+ de
+ Los
+ Maitenes.
+
+Con
+ respecto
+ a
+ los
+ atributos
+ biofísicos
+ de
+ esta
+ unidad,
+ cabe
+ indicar
+ que:
+
+ Relieve:
+ se
+ presenta
+ como
+ lomajes
+ suaves,
+ con
+ pendientes
+ entre
+ 15%
+ y
+ 30%;
+ Suelo:
+ de
+ rugosidad
+ baja;
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**14**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+ Agua:
+ en
+ época
+ estival
+ no
+ hay
+ presencia
+ de
+ agua,
+ aunque
+ en
+ época
+ invernal
+ la
+ evidencia
+ muestra
+ que
+
+se
+ activan
+ las
+ quebradas
+ estacionales
+ y
+ hay
+ presencia
+ baja
+ de
+ agua,
+ con
+ riberas
+ con
+ vegetación;
+ Vegetación:
+ en
+ general
+ presenta
+ cobertura
+ sobre
+ el
+ 25%.
+ Ocasional
+ o
+ estacional,
+ estrato
+ dominante
+
+arbustivo
+ y
+ herbáceo,
+ y
+ diversidad
+ media;
+ Fauna:
+ en
+ general
+ no
+ hay
+ fauna
+ aparente,
+ no
+ obstante
+ hay
+ sectores
+ con
+ presentacia
+ media
+ y
+
+diversidad
+ baja;
+ y
+ Nieve:
+ no
+ se
+ observa
+ nieve.
+
+En
+ cuanto
+ a
+ atributos
+ estructurales:
+
+ Diversidad
+ paisajística:
+ se
+ describe
+ con
+ heterogeneidad
+ alta
+ y
+ singularidad
+ media,
+ debido
+ a
+ la
+
+geomorfología
+ y
+ algunos
+ hitos
+ en
+ la
+ ruta
+ y
+ al
+ carácter
+ agrícola
+ del
+ paisaje;
+ y
+ Naturalidad:
+ corresponde
+ a
+ cualidad
+ antrópica
+ media,
+ principalmente
+ porque
+ es
+ un
+ sector
+ agrícola
+ de
+
+baja
+ intensidad
+ y
+ la
+ geomorfología
+ y
+ la
+ vegetación,
+ que
+ aportan
+ en
+ la
+ absorción
+ de
+ algunos
+ elementos
+antrópicos.
+
+Y
+ de
+ los
+ atributos
+ estéticos:
+
+ Forma:
+ presenta
+ diversidad
+ media
+ alta,
+ principalmente
+ por
+ las
+ formas
+ del
+ terreno;
+ Color:
+ diversidad
+ media
+ y
+ contraste
+ medio;
+ y
+ Textura:
+ grano
+ medio
+ y
+ diversidad
+ alta.
+
+**Fotografía
+ 1.
+ Vista
+ este
+ desde
+ el
+ punto
+ P03**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Fotografía
+ 2.
+ Vista
+ oeste
+ desde
+ el
+ punto
+ P04**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Fotografía
+ 3.
+ Vista
+ oeste
+ desde
+ el
+ punto
+ P05**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**15**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**4.1.2.** **Yerbas
+ Buenas**
+Es
+ la
+ unidad
+ de
+ paisaje
+ se
+ presenta
+ como
+ una
+ matriz
+ principalmente
+ agrícola
+ y
+ actúa
+ como
+ fondo
+ escénico
+ para
+ el
+Proyecto,
+ por
+ lo
+ que
+ se
+ realizó
+ la
+ caracterización
+ desde
+ puntos
+ insertos
+ en
+ la
+ UP1,
+ los
+ puntos
+ P04
+ y
+ P05
+ (Figura
+ 4).
+
+Las
+ vistas
+ desde
+ esta
+ unidad
+ son
+ abiertas,
+ circulares
+ y
+ de
+ gran
+ tamaño,
+ al
+ límite
+ del
+ alcance
+ visual
+ del
+ Proyecto,
+por
+ lo
+ tanto
+ sin
+ nitidez
+ de
+ detalles.
+
+Con
+ respecto
+ a
+ los
+ atributos
+ biofísicos
+ de
+ esta
+ unidad:
+
+ Relieve:
+ se
+ presenta
+ como
+ valle
+ con
+ pendientes
+ bajas,
+ menores
+ al
+ 15%
+ en
+ general;
+ Suelo:
+ de
+ rugosidad
+ baja;
+ Agua:
+ en
+ época
+ estival
+ no
+ hay
+ presencia
+ de
+ agua,
+ aunque
+ en
+ época
+ invernal
+ la
+ evidencia
+ muestra
+ que
+
+se
+ activan
+ las
+ quebradas
+ estacionales
+ y
+ hay
+ presencia
+ baja
+ de
+ agua,
+ con
+ riberas
+ con
+ vegetación;
+ Vegetación:
+ en
+ general
+ presenta
+ cobertura
+ sobre
+ el
+ 25%.
+ Ocasinal
+ o
+ estacional,
+ estrato
+ dominante
+
+arbutivo
+ y
+ herbáceo,
+ y
+ diversidad
+ media;
+ Fauna:
+ en
+ general
+ no
+ hay
+ fauna
+ aparente,
+ no
+ obstante
+ hay
+ sectores
+ con
+ presentacia
+ media
+ y
+
+diversidad
+ baja;
+ y
+ Nieve:
+ no
+ se
+ observa
+ nieve.
+
+En
+ cuanto
+ a
+ atributos
+ estructurales:
+
+ Diversidad
+ paisajística:
+ se
+ describe
+ con
+ heterogeneidad
+ baja
+ y
+ singularidad
+ media;
+ y
+ Naturalidad:
+ corresponde
+ a
+ cualidad
+ antrópica
+ media,
+ principalmente
+ porque
+ es
+ un
+ sector
+ agrícola.
+
+Y
+ de
+ los
+ atributos
+ estéticos:
+
+ Forma:
+ presenta
+ diversidad
+ media
+ baja;
+ Color:
+ diversidad
+ media
+ y
+ contraste
+ medio;
+ y
+ Textura:
+ grano
+ medio
+ y
+ diversidad
+ media.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**16**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 4.
+ Vista
+ suroeste
+ desde
+ el
+ punto
+ P05**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Fotografía
+ 5.
+ Vista
+ norte
+ desde
+ el
+ punto
+ P07**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**17**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**4.1.3.** **Compacidad
+ por
+ unidad
+ de
+ paisaje**
+La
+ compacidad
+ es
+ otra
+ manera
+ de
+ entender
+ las
+ áreas
+ visibles
+ y,
+ por
+ tanto,
+ es
+ importante
+ señalar
+ en
+ términos
+relativos
+ qué
+ porcentaje
+ es
+ visto
+ y
+ no
+ visto
+ en
+ cada
+ unidad
+ de
+ paisaje,
+ con
+ el
+ fin
+ de
+ determinar
+ qué
+ porcentaje
+ del
+territorio
+ se
+ verá
+ alterado
+ con
+ la
+ inserción
+ de
+ este
+ proyecto.
+
+En
+ la
+ Tabla
+ 9
+ se
+ observa
+ que
+ en
+ la
+ UP1
+ la
+ superficie
+ visible
+ corresponde
+ a
+ un
+ 37,76%,
+ y
+ de
+ ese
+ valor,
+aproximadamente
+ un
+ 50%
+ de
+ la
+ superficie
+ visible
+ está
+ disperso
+ en
+ planos
+ dentro
+ de
+ los
+ límites
+ de
+ nitidez
+ de
+ visión
+humana
+ (3.500
+ m);
+ mientras
+ que
+ en
+ la
+ UP2
+ es
+ visible
+ sólo
+ un
+ 7,38%,
+ en
+ límites
+ del
+ alcance
+ visual.
+
+**Tabla
+ 9.
+ Porcentaje
+ de
+ visibilidad
+ y
+ compacidad
+ por
+ unidad
+ de
+ paisaje**
+
+|UP|Nombre|Superficie total de<br>la UP (ha)|Visible|Superficie en función<br>de la visibilidad (ha)|%|
+|---|---|---|---|---|---|
+|1<br>|Los Maitenes - Marchigüe<br>|19.371,18<br>|No|12.056,37|<br>62,24|
+|1<br>|Los Maitenes - Marchigüe<br>|19.371,18<br>|<br>Si|7.314,81|<br>37,76|
+|2<br>|Yerbas Buenas<br>|10.844,32<br>|No|10.043,83|<br>92,62|
+|2<br>|Yerbas Buenas<br>|10.844,32<br>|<br>Si|800,49|<br>7,38|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**4.1.4.** **Determinación
+ del
+ valor
+ paisajístico
+ por
+ unidad
+ de
+ paisaje**
+Si
+ bien
+ la
+ singularidad
+ del
+ sistema
+ está
+ en
+ el
+ carácter
+ descritos
+ para
+ la
+ subzona
+ de
+ Borde
+ Costero,
+ el
+ paisaje
+también
+ posee
+ atributos
+ biofísicos
+ intrínsecos
+ importantes,
+ los
+ que
+ se
+ identificaron
+ por
+ unidades
+ de
+ paisaje
+ con
+accesibilidad
+ visual
+ desde
+ y
+ hacia
+ el
+ Proyecto
+ (Tabla
+ 10).
+
+**Tabla
+ 10.
+ Determinación
+ del
+ valor
+ paisajístico
+ por
+ unidad
+ de
+ paisaje**
+
+|Tipo de Atributo|Característica que otorga valor|UP1|UP2|
+|---|---|---|---|
+|Relieve|• <br>Presencia de volcán, montaña, cerro isla o afloramiento rocoso<br>de magnitud<br>• <br>Pendiente mayor al 15% y cambios abruptos de pendiente<br>• <br>Orientación:noaplica|<br> <br>X|<br> <br>|
+|Suelo|• <br>Rugosidad baja (suelo liso) o rugosidad alta (suelo rugoso)|||
+|Agua|• <br>Tipo: no aplica<br>• <br>Abundancia alta o media<br>• <br>Calidad limpia o transparente<br>• <br>Ribera o zona ripariana con vegetación<br>• <br>Movimiento rápido y salto de agua (estacional)|<br> <br> <br>X<br>X|<br>|
+|Vegetación|• <br>Cobertura alta o media<br>• <br>Temporalidad permanente<br>• <br>Diversidad alta o media<br>• <br>Más de un estrato de vegetación<br>• <br>Follaje caduco o mixto|<br> <br>X<br> <br>X|<br> <br>|
+|Fauna|• <br>Presencia alta o media<br>• <br>Diversidad alta o media|<br>||
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**18**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+|Tipo de Atributo|Característica que otorga valor|UP1|UP2|
+|---|---|---|---|
+|Nieve|• <br>Cobertura alta o media<br>• <br>Temporalidad permanente|||
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+La
+ UP1
+ presenta
+ sólo
+ un
+ 31,25%
+ de
+ las
+ características
+ que
+ otorgan
+ valor
+ escénico,
+ mientras
+ que
+ la
+ UP2
+ un
+ 0%,
+principalmente
+ porque
+ representa
+ el
+ fondo
+ escénico
+ en
+ función
+ de
+ la
+ UP1,
+ por
+ lo
+ tanto
+ ninguna
+ de
+ las
+ unidades
+ de
+paisaje
+ presentan
+ valor
+ paisajístico.
+
+**4.2.** **Valores
+ de
+ calidad
+ visual**
+Las
+ cuencas
+ visuales
+ fueron
+ evaluadas
+ según
+ la
+ Tabla
+ 2,
+ Tabla
+ 3
+ y
+ Tabla
+ 4,
+ para
+ determinar
+ su
+ calidad
+ visual
+ por
+unidad
+ de
+ paisaje
+ (Tabla
+ 11).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**19**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 11.
+ Valores
+ de
+ calidad
+ visual
+ por
+ unidad
+ de
+ paisaje**
+
+|CALIDAD VISUAL DEL PAISAJE SEGÚN ATRIBUTOS BIOFÍSICOS|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Resultados por<br>UP|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Atributo|Zona|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|Puntodeobservación|
+|Atributo|Zona|P01|P02|P03|P04|P05|P06|P07|P04|P05|P06|**UP1**|**UP2**|
+|Relieve|Relieve|2|3|2|1|3|3|1|1|1|1|2|1|
+|Suelo|Suelo|2|2|2|2|2|2|2|2|2|2|2|2|
+|Agua|Centro|0|2|0|0|0|0|0|0|0|0|0|0|
+|Vegetación|Centro|2|2|2|3|3|3|2|2|2|2|2|2|
+|Fauna|Fauna|1|2|1|1|2|2|2|1|1|1|2|1|
+|Nieve|Centro|0|0|0|0|0|0|0|0|0|0|0|0|
+
+|CALIDAD VISUAL DEL PAISAJE SEGÚN ATRIBUTOS ESTRUCTURALES|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Atributo|P01|P02|P03|P04|P05|P06|P07|P04|P05|P06|**UP1**|**UP2**|
+|DiversidadPaisajística|2|3|2|3|3|3|2|2|2|2|3|2|
+|Naturalidad|2|2|2|3|3|3|2|1|1|1|2|1|
+
+|CALIDAD VISUAL DEL PAISAJE SEGÚN ATRIBUTOS ESTÉTICOS|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Atributo|P01|P02|P03|P04|P05|P06|P07|P04|P05|P06|**UP1**|**UP2**|
+|Forma|3|3|2|2|3|3|2|2|2|2|2|2|
+|Color|2|3|2|2|2|2|3|2|2|2|2|2|
+|Textura|2|2|2|2|2|2|3|2|2|2|2|2|
+
+|Valores de Tablas 2, 3 y 4|Resultados|Calidad Visual|
+|---|---|---|
+|1<br>Baja<br>2 <br>Media|UP1<br>Los Maitenes - Marchigüe<br>UP2<br>YerbasBuenas|2<br>Media<br>1<br>Baja|
+|3<br>Alta<br>4 <br>Destacada|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+La
+ UP1
+ presenta
+ una
+ calidad
+ de
+ paisaje
+ media,
+ para
+ la
+ mayoría
+ de
+ sus
+ atributos,
+ no
+ obstante
+ los
+ que
+ se
+ destacan
+mayormente
+ son
+ el
+ relieve
+ del
+ terreno,
+ por
+ la
+ diversidad
+ y
+ características
+ de
+ sus
+ geoformas,
+ y
+ la
+ vegetación,
+ dadas
+sus
+ características
+ de
+ cobertura,
+ diversidad
+ de
+ estratos
+ y
+ dinamismo
+ estacional.
+ En
+ tanto,
+ la
+ UP2
+ presenta
+ una
+calidad
+ visual
+ baja,
+ debido
+ a
+ que
+ sus
+ características
+ se
+ perciben
+ sólo
+ como
+ fondo
+ escénico
+ en
+ los
+ límites
+ del
+ alcance
+visual,
+ por
+ lo
+ que
+ no
+ hay
+ nitidez
+ de
+ sus
+ detalles.
+
+**4.3.** **Valores
+ de
+ fragilidad
+ visual**
+La
+ fragilidad
+ visual
+ se
+ valoró
+ en
+ base
+ a
+ la
+ Tabla
+ 5
+ mediante
+ el
+ reconocimiento
+ del
+ lugar
+ por
+ parte
+ de
+ la
+ especialista
+ y
+por
+ registros
+ fotográficos
+ existentes
+ en
+ Google
+ Earth,
+ lo
+ que
+ se
+ registró
+ en
+ la
+ Tabla
+ 12.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**20**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 12.
+ Valores
+ de
+ fragilidad
+ visual
+ por
+ unidad
+ de
+ paisaje**
+
+|Puntos de<br>observación|Densidad de vegetacion|Diversidad de estratos de veg|Altura de la vegetación|Estacionalidad de la veg|Contraste cromatico veg / veg|Contraste cromatico veg / suelo|Pendiente|Orientacion del paisaje|Valor histórico y cultural|Total|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Puntos de**<br>**observación**|**D**|**E**|**A**|**ES**|**CV**|**CS**|**P**|**O**|**H**|**H**|
+|P01|2|2|2|2|2|2|2|1|1|16|
+|P02|2|2|2|2|2|2|1|2|1|16|
+|P03|2|2|2|2|2|2|1|2|1|16|
+|P04|2|2|2|2|2|2|1|1|1|15|
+|P05|2|1|2|2|2|2|2|3|1|17|
+|P06|2|1|2|2|2|2|2|3|1|17|
+|P07|2|2|2|2|2|2|1|1|1|15|
+|P04|2|2|2|2|2|2|1|1|1|15|
+|P05|2|1|2|2|2|2|1|1|1|14|
+|P06|2|2|1|2|2|2|2|3|1|17|
+|**Promedio**<br>**porvariable**|2|2|2|2|2|2|1|2|1||
+
+|Col1|Resultados|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|<br>|UP1|LosMaitenes- Marchigüe|16|Media|<br> <br>|
+|<br>|UP2|YerbasBuenas|15|Baja|<br> <br>|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Según
+ esta
+ valorización,
+ la
+ UP1
+ presenta
+ una
+ fragilidad
+ visual
+ Media,
+ principalmente
+ por
+ el
+ relieve
+ del
+ terreno
+donde
+ está
+ inserto
+ el
+ Proyecto,
+ donde
+ las
+ geoformas
+ circundantes
+ y
+ los
+ diversos
+ estratos,
+ solores
+ y
+ texturas
+dominantes
+ de
+ la
+ vegetación
+ son
+ capaces
+ de
+ absorber
+ esta
+ incompatibilidad
+ visual
+ y
+ artificialización
+ parcial
+ de
+ la
+unidad.
+
+En
+ tanto
+ la
+ UP2
+ muestra
+ una
+ fragilidad
+ baja,
+ debido
+ a
+ que
+ el
+ Proyecto
+ no
+ es
+ visible
+ desde
+ esa
+ unidad.
+
+Cabe
+ señalar
+ que
+ en
+ la
+ UP1
+ los
+ atributos
+ presentan
+ en
+ general
+ los
+ mismos
+ valores,
+ lo
+ que
+ se
+ interpreta
+ como
+ un
+funcionamiento
+ en
+ conjunto,
+ es
+ decir
+ la
+ homogeneidad
+ de
+ la
+ unidad
+ está
+ dada
+ por
+ un
+ equilibrio
+ en
+ los
+ valores
+ de
+los
+ atributos
+ existentes
+ de:
+ densidad
+ de
+ la
+ vegetación,
+ diversidad
+ de
+ estratos,
+ altura
+ de
+ la
+ vegetación,
+estacionalidad
+ de
+ la
+ vegetación,
+ contraste
+ cromático
+ de
+ la
+ vegetación
+ con
+ respecto
+ a
+ la
+ misma,
+ contraste
+ cromático
+de
+ la
+ vegetación
+ respecto
+ del
+ suelo
+ y
+ orientación
+ del
+ paisaje;
+ siendo
+ estas
+ caraterísticas
+ las
+ que
+ se
+ deben
+ proteger
+para
+ que
+ el
+ paisaje
+ conserve
+ su
+ capacidad
+ de
+ absorción
+ visual.
+
+**4.4.** **Sensibilidad
+ visual
+ del
+ paisaje**
+Al
+ integrar
+ los
+ valores
+ de
+ fragilidad,
+ accesibilidad
+ y
+ calidad
+ visual
+ según
+ la
+ descripción
+ de
+ Ramos
+ (1979),
+descritos
+ en
+ la
+ Tabla
+ 6,
+ se
+ obtiene
+ que
+ la
+ UP1
+ corresponde
+ a
+ un
+ paisaje
+ con
+ sensibilidad
+ clase
+ 3:
+ “Zonas
+ de
+ calidad
+media
+ y
+ de
+ fragilidad
+ variable,
+ que
+ pueden
+ incorporarse
+ a
+ la
+ anterior
+ categoría
+ cuando
+ las
+ circunstancias
+ lo
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**21**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+aconsejen,
+ esto
+ es,
+ que
+ alguno
+ de
+ los
+ elementos
+ evaluados
+ requiera
+ protección
+ por
+ su
+ valor
+ individual.
+ Su
+ grado
+ de
+restricción
+ variable
+ permite
+ un
+ nivel
+ mayor
+ de
+ presión
+ sobre
+ el
+ paisaje,
+ pero
+ no
+ acepta
+ fuertes
+ impactos
+paisajísticos
+ (zonas
+ residenciales,
+ obras
+ civiles
+ de
+ bajo
+ impacto,
+ etc.).”
+
+Con
+ respecto
+ a
+ la
+ UP2,
+ la
+ sensibilidad
+ corresponde
+ a
+ una
+ clase
+ 5:
+ “ _Zonas
+ de
+ calidad
+ y
+ fragilidad
+ bajas,
+ aptas_
+_desde
+ el
+ punto
+ de
+ vista
+ paisajístico
+ para
+ la
+ localización
+ de
+ actividades
+ poco
+ gratas
+ o
+ que
+ causen
+ impactos
+ muy_
+_fuertes
+ (vertederos,
+ complejos
+ industriales,
+ etc.).
+ Su
+ grado
+ de
+ restricción
+ es
+ casi
+ nulo.
+ Son
+ por
+ lo
+ general
+ paisajes_
+_altamente
+ degradados
+ por
+ actividades
+ anteriores”,
+ criterio
+ que
+ coincide
+ con
+ su
+ carcacterística
+ de
+ fondo
+ escénico
+ en_
+_loslímites
+ del
+ alcance
+ visual._ ”
+
+**4.4.1.** **Situación
+ con
+ proyecto
+ en
+ Sinergia
+ con
+ el
+ Proyecto
+ Planta
+ Fotovoltaica
+ Berlino**
+
+A
+ continuación
+ se
+ presentan
+ fotomontajes
+ del
+ Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes,
+ donde
+ se
+ muestra
+ el
+Proyecto
+ en
+ su
+ totalidad
+ y
+ es
+ posible
+ ver
+ que
+ para
+ la
+ UP1
+ este
+ Proyecto
+ se
+ puede
+ considerar
+ como
+ una
+ obra
+ obra
+civil
+ de
+ bajo
+ impacto
+ en
+ un
+ paisaje
+ de
+ clase
+ 3.
+
+Paralelamente
+ se
+ muestra
+ un
+ fotomontaje
+ en
+ sinergia
+ con
+ el
+ Proyecto
+ Planta
+ Fotovoltaica
+ Berlino,
+ actualmente
+en
+ evaluación
+ en
+ el
+ SEA.
+
+**Fotografía
+ 6.
+ Fotomontaje
+ del
+ acceso
+ al
+ proyecto,
+ desde
+ el
+ punto
+ P03**
+
+Fuente:
+ Renergetica.
+
+La
+ Fotografía
+ 6
+ corresponde
+ al
+ acceso
+ al
+ Proyecto
+ desde
+ la
+ ruta
+ H-­‐76,
+ desde
+ donde
+ la
+ accesibilidad
+ visual
+ es
+parcial.
+
+**Fotografía
+ 7.
+ Fotomontaje
+ del
+ proyecto
+ desde
+ el
+ punto
+ P04**
+
+Fuente:
+ Renergetica.
+
+La
+ Fotografía
+ 7
+ corresponde
+ a
+ una
+ visión
+ perpendicular
+ al
+ proyecto,
+ desde
+ la
+ ruta
+ H-­‐76:
+ desde
+ la
+ cual
+ no
+ hay
+accesibilidad
+ visual
+ por
+ la
+ existencia
+ de
+ una
+ barrera
+ vegetal.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**22**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 8.
+ Fotomontaje
+ del
+ proyecto
+ desde
+ una
+ residencia
+ colindante
+ al
+ sur
+ de
+ ambos
+ proyectos.**
+
+Fuente:
+ Renergetica.
+
+En
+ la
+ Fotografía
+ 8
+ se
+ ve
+ la
+ altura
+ de
+ los
+ paneles
+ y
+ otras
+ partes
+ del
+ proyecto,
+ desde
+ una
+ pequeña
+ parcela
+ de
+agrado,
+ la
+ que
+ no
+ tiene
+ una
+ relación
+ visual
+ directa
+ debidoa
+ la
+ vegetación
+ existente,
+ según
+ se
+ muestra
+ la
+ Fotografía
+9.
+
+**Fotografía
+ 9.
+ Vista
+ de
+ la
+ residencia
+ desde
+ el
+ sector
+ sur
+ de
+ ambos
+ proyectos**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**23**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 10.
+ Fotomontaje
+ de
+ ambos
+ proyectos
+ desde
+ el
+ punto
+ P06**
+
+Fuente:
+ Renergetica.
+
+Al
+ observar
+ la
+ totalidad
+ del
+ Proyecto
+ en
+ la
+ Fotografía
+ 10,
+ es
+ posible
+ señalar
+ que
+ éste
+ sólo
+ constituye
+ una
+alteración
+ parcial
+ de
+ los
+ atributos
+ estéticos
+ de
+ la
+ escena,
+ no
+ obstante
+ la
+ matriz
+ del
+ paisaje
+ es
+ capaz
+ de
+ reducir
+ la
+alteración
+ visual
+ de
+ estos
+ elementos.
+ Se
+ destaca
+ además,
+ la
+ existencia
+ de
+ elementos
+ naturales
+ que
+ reducen
+ la
+permeabilidad
+ visual;
+ por
+ ejemplo,
+ hacia
+ la
+ Residencia
+ Histórica
+ Marchigüe,
+ al
+ costado
+ derecho
+ de
+ la
+ imagen.
+ Se
+destaca
+ que
+ la
+ homogeneidad
+ de
+ esta
+ obra
+ de
+ ingeniería
+ contribuye
+ a
+ la
+ absorción
+ de
+ ésta
+ por
+ parte
+ del
+ paisaje.
+
+De
+ la
+ sinergia
+ propiamente
+ tal,
+ se
+ analizaron
+ ambos
+ proyectos
+ emplazados
+ en
+ la
+ mismas
+ unidades
+ de
+ paisaje.
+ En
+ese
+ contexto,
+ se
+ calculó
+ una
+ visibilidad
+ del
+ Proyecto
+ Berlino,
+ que
+ en
+ la
+ UP1
+ es
+ de
+ un
+ 32,4%
+ y
+ en
+ la
+ UP2
+ de
+ 3,1%,
+mientras
+ que
+ en
+ el
+ Proyecto
+ Maitenes
+ la
+ visibilidad
+ de
+ la
+ UP1
+ es
+ de
+ un
+ 37,8%
+ y
+ en
+ la
+ UP2
+ es
+ de
+ un
+ 7,3%.
+ Estas
+variaciones,
+ correspondientes
+ al
+ 5,4%
+ y
+ 4,2%
+ respectivamente,
+ son
+ marginales
+ y
+ están
+ influidas
+ principalmente
+porque
+ el
+ Proyecto
+ Maitenes
+ está
+ emplazado
+ en
+ un
+ sector
+ de
+ pendiente
+ entre
+ 2°
+ y
+ 5°,
+ en
+ tanto
+ que
+ el
+ Proyecto
+Berlino
+ se
+ emplaza
+ en
+ un
+ sector
+ con
+ pendientes
+ entre
+ un
+ 0°
+ y
+ un
+ 2°.
+
+Este
+ aumento
+ en
+ la
+ superficie
+ por
+ parte
+ del
+ Proyecto
+ Maitenes
+ abarca
+ principalmente
+ sectores
+ de
+ la
+ ruta
+ I-­‐214,
+en
+ el
+ sector
+ Los
+ Maitenes,
+ correspondiente
+ a
+ los
+ planos
+ panorámicos
+ o
+ escénicos
+ del
+ área
+ de
+ influencia
+ visual
+ del
+Proyecto,
+ que
+ además
+ cuenta
+ también
+ con
+ barreras
+ visuales
+ vegetales
+ existentes.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**24**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**5.**
+**Conclusiones
+ y
+ recomendaciones**
+
+Las
+ características
+ del
+ paisaje
+ presentes
+ en
+ el
+ área
+ de
+ influencia
+ visual
+ del
+ Proyecto
+ son
+ representativas
+ de
+ la
+macrozona
+ “Centro”
+ y
+ subzona
+ “Borde
+ costero”,
+ en
+ que
+ el
+ carácter
+ del
+ paisaje
+ está
+ determinado
+ por
+ la
+ dominancia
+antrópica,
+ derivada
+ de
+ la
+ existencia
+ de
+ grandes
+ zonas
+ homogéneas,
+ donde
+ los
+ fondos
+ de
+ valle
+ y
+ laderas
+ con
+pendientes
+ moderadas
+ está
+ ocupadas
+ por
+ usos
+ de
+ suelos
+ urbanos,
+ agrícolas
+ y
+ forestales,
+ como
+ es
+ el
+ caso
+ de
+Marchigüe
+ y
+ específicamente
+ el
+ área
+ de
+ influencia
+ del
+ Proyecto,
+ que
+ luego
+ del
+ análisis
+ de
+ valor
+ paisajístico
+ según
+sus
+ atributos
+ biofísicos,
+ se
+ concluye
+ que
+ no
+ presenta
+ valor
+ paisajístico
+ en
+ particular
+ respecto
+ de
+ su
+ entorno.
+
+En
+ cuanto
+ a
+ la
+ calidad
+ visual
+ del
+ paisaje,
+ la
+ unidad
+ de
+ paisaje
+ 1
+ “Los
+ Maitenes
+ -
+ Marchigüe”
+ (UP1)
+ se
+ clasificó
+con
+ calidad
+ media,
+ destacando
+ que
+ los
+ atributos
+ que
+ dominan
+ el
+ conjunto
+ escénico
+ son
+ el
+ relieve
+ del
+ terreno,
+ por
+ la
+diversidad
+ de
+ sus
+ geoformas,
+ y
+ la
+ vegetación,
+ dadas
+ sus
+ características
+ de
+ cobertura,
+ diversidad
+ de
+ estratos
+ y
+dinamismo
+ estacional.
+ En
+ tanto
+ la
+ unidad
+ de
+ paisaje
+ 2
+ “Yerbas
+ buenas”
+ (UP2),
+ presenta
+ una
+ calidad
+ baja,
+ debido
+ a
+que
+ sus
+ características
+ se
+ perciben
+ sólo
+ como
+ fondo
+ escénico
+ en
+ los
+ límites
+ del
+ alcance
+ visual,
+ por
+ lo
+ que
+ no
+ hay
+nitidez
+ de
+ sus
+ detalles.
+
+Con
+ respecto
+ a
+ la
+ fragilidad
+ visual,
+ la
+ UP1
+ presenta
+ una
+ fragilidad
+ visual
+ media,
+ principalmente
+ por
+ el
+ relieve
+ del
+terreno
+ donde
+ está
+ inserto
+ el
+ Proyecto,
+ donde
+ las
+ geoformas
+ circundantes
+ y
+ los
+ diversos
+ estratos,
+ colores
+ y
+ texturas
+dominantes
+ de
+ la
+ vegetación
+ son
+ capaces
+ de
+ absorber
+ estas
+ alteraciones
+ parciales
+ de
+ la
+ unidad,
+ correspondientes
+ a
+incompatibilidad
+ visual
+ y
+ artificialización
+ de
+ los
+ atributos
+ del
+ paisaje.
+ En
+ tanto
+ la
+ UP2
+ muestra
+ una
+ fragilidad
+ baja,
+debido
+ a
+ que
+ el
+ Proyecto
+ no
+ es
+ visible
+ en
+ forma
+ concreta
+ desde
+ esa
+ unidad.
+
+En
+ este
+ contexto,
+ cabe
+ señalar
+ que
+ en
+ la
+ UP1
+ los
+ atributos
+ presentan
+ en
+ general
+ los
+ mismos
+ valores
+ de
+fragilidad,
+ lo
+ que
+ se
+ interpreta
+ como
+ un
+ funcionamiento
+ en
+ conjunto,
+ es
+ decir,
+ la
+ homogeneidad
+ de
+ la
+ unidad
+ está
+dada
+ por
+ un
+ equilibrio
+ en
+ los
+ valores
+ de
+ los
+ atributos
+ existentes
+ de:
+ densidad
+ de
+ la
+ vegetación,
+ diversidad
+ de
+estratos,
+ altura
+ de
+ la
+ vegetación,
+ estacionalidad
+ de
+ la
+ vegetación,
+ contraste
+ cromático
+ de
+ la
+ vegetación
+ con
+respecto
+ a
+ la
+ misma,
+ contraste
+ cromático
+ de
+ la
+ vegetación
+ respecto
+ del
+ suelo
+ y
+ orientación
+ del
+ paisaje;
+ siendo
+ estas
+características
+ las
+ que
+ se
+ deben
+ proteger
+ para
+ que
+ el
+ paisaje
+ conserve
+ su
+ capacidad
+ de
+ absorción
+ visual
+ en
+ las
+distintas
+ estaciones
+ del
+ año,
+ considerando
+ el
+ dinamismo
+ estacional
+ del
+ paisaje
+ en
+ esta
+ macrozona.
+
+De
+ acuerdo
+ a
+ la
+ sensibilidad
+ visual,
+ la
+ UP1
+ corresponde
+ a
+ una
+ unidad
+ de
+ clase
+ 3:
+ “ _Zonas
+ de
+ calidad
+ media
+ y
+ de_
+_fragilidad
+ variable,
+ que
+ pueden
+ incorporarse
+ a
+ la
+ anterior
+ categoría
+ cuando
+ las
+ circunstancias
+ lo
+ aconsejen,
+ esto
+ es,_
+_que
+ alguno
+ de
+ los
+ elementos
+ evaluados
+ requiera
+ protección
+ por
+ su
+ valor
+ individual.
+ Su
+ grado
+ de
+ restricción
+ variable_
+_permite
+ un
+ nivel
+ mayor
+ de
+ presión
+ sobre
+ el
+ paisaje,
+ pero
+ no
+ acepta
+ fuertes
+ impactos
+ paisajísticos.
+ (zonas_
+_residenciales,
+ obras
+ civiles
+ de
+ bajo
+ impacto,
+ etc.)”;
+ mientras
+ que
+ la
+ UP2
+ se
+ inserta
+ como
+ una
+ unidad
+ de
+ clase
+ 5:_
+_“Zonas
+ de
+ calidad
+ y
+ fragilidad
+ bajas,
+ aptas
+ desde
+ el
+ punto
+ de
+ vista
+ paisajístico
+ para
+ la
+ localización
+ de
+ actividades_
+_poco
+ gratas
+ o
+ que
+ causen
+ impactos
+ muy
+ fuertes
+ (vertederos,
+ complejos
+ industriales,
+ etc.).
+ Su
+ grado
+ de
+ restricción
+ es_
+_casi
+ nulo.
+ Son
+ por
+ lo
+ general
+ paisajes
+ altamente
+ degradados
+ por
+ actividades
+ anteriores_ ”,
+ criterio
+ que
+ coincide
+ con
+su
+ característica
+ de
+ fondo
+ escénico
+ en
+ los
+ límites
+ del
+ alcance
+ visual
+ en
+ función
+ de
+ la
+ UP1.
+
+En
+ las
+ imágenes
+ con
+ proyecto
+ es
+ posible
+ ver
+ aspectos
+ fundamentales
+ que
+ definen
+ la
+ inserción
+ de
+ este
+ proyecto
+como
+ una
+ “obra
+ civil
+ de
+ bajo
+ impacto”,
+ principalmente
+ por
+ la
+ existencia
+ de
+ una
+ barrera
+ vegetal
+ que
+ reduce
+ el
+acceso
+ visual
+ desde
+ la
+ ruta
+ H-­‐76
+ y
+ desde
+ la
+ Residencia
+ Histórica
+ Marchigüe,
+ la
+ que
+ se
+ conservará
+ para
+ que
+ siga
+funcionando
+ en
+ esos
+ términos.
+ Además
+ se
+ muestra
+ la
+ altura
+ de
+ los
+ paneles
+ y
+ otras
+ partes
+ del
+ proyecto
+ (menor
+ a
+ 3
+m),
+ donde
+ su
+ escala
+ no
+ constituye
+ un
+ bloqueo
+ de
+ vistas
+ ni
+ tampoco
+ incide
+ en
+ la
+ dominancia
+ visual
+ de
+ la
+ escena.
+
+En
+ cuanto
+ a
+ la
+ sinergia
+ con
+ el
+ Proyecto
+ Planta
+ Fotovoltaica
+ Berlino
+ (en
+ evaluación),
+ es
+ posible
+ señalar
+ que
+ las
+variaciones
+ en
+ cuanto
+ al
+ aumento
+ de
+ la
+ superficie
+ visible
+ por
+ parte
+ el
+ Proyecto
+ Maitenes,
+ que
+ corresponden
+ al
+ 5,4%
+para
+ la
+ UP1
+ y
+ un
+ 4,2%
+ para
+ la
+ UP2
+ respectivamente,
+ son
+ marginales
+ y
+ están
+ influidas
+ principalmente
+ porque
+ el
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**25**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Proyecto
+ Maitenes
+ está
+ emplazado
+ en
+ un
+ sector
+ de
+ pendiente
+ entre
+ 2°
+ y
+ 5°,
+ en
+ tanto
+ que
+ el
+ Proyecto
+ Berlino
+ se
+emplaza
+ en
+ un
+ sector
+ con
+ pendientes
+ entre
+ un
+ 0°
+ y
+ un
+ 2°.
+
+Por
+ lo
+ tanto,
+ es
+ posible
+ señalar
+ que
+ el
+ Proyecto
+ influye
+ de
+ manera
+ menor
+ en
+ cuanto
+ la
+ artificialidad
+ y
+ en
+ la
+incompatibilidad
+ visual
+ dada
+ la
+ naturaleza
+ de
+ sus
+ elementos,
+ y
+ se
+ constituye
+ sólo
+ como
+ una
+ alteración
+ parcial
+ de
+ los
+atributos
+ estructurales
+ y
+ estéticos
+ de
+ la
+ escena,
+ por
+ lo
+ que
+ no
+ representa
+ pérdida
+ del
+ valor
+ paisajístico
+ del
+ conjunto,
+puesto
+ que
+ la
+ matriz
+ del
+ paisaje
+ es
+ capaz
+ de
+ absorber
+ estos
+ nuevos
+ elementos.
+ Se
+ destaca
+ además
+ que
+ la
+ existencia
+de
+ elementos
+ naturales
+ que
+ impiden
+ la
+ permeabilidad
+ visual,
+ por
+ ejemplo,
+ hacia
+ la
+ Residencia
+ histórica
+ Marchigüe.
+
+Por
+ lo
+ descrito
+ anteriormente,
+ se
+ recomienda:
+
+ conservar
+ la
+ barrera
+ visual
+ vegetal
+ existente;
+ durante
+ las
+ actividades
+ de
+ movimiento
+ de
+ tierras
+ se
+ deberán
+ conservar
+ las
+ geoformas
+ y
+ no
+ se
+ deberán
+
+cubrir
+ cursos
+ de
+ agua
+ presentes
+ el
+ el
+ terreno;
+ y
+ realizar
+ charlas
+ de
+ inducción
+ al
+ personal
+ que
+ trabaje
+ en
+ el
+ Proyecto,
+ en
+ cuanto
+ a
+ la
+ importancia
+ de
+
+mantener
+ las
+ condiciones
+ medioambientales
+ y
+ de
+ higiene
+ con
+ el
+ entorno.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**26**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**6.**
+**Bibliografía**
+
+ Ayuga,
+ F.
+ (2001).
+ Gestión
+ Sostenible
+ de
+ Paisajes
+ Rurales.
+ Técnicas
+ e
+ Ingeniería.
+ Mundi
+ -­‐
+ Prensa
+ libros
+ S.A.
+
+ De
+ Bolós,
+ M.
+ (1992).
+ Manual
+ de
+ Ciencia
+ del
+ Paisaje.
+ Colección
+ de
+ Geografía.
+ Barcelona,
+ España:
+ Masson.
+
+ Litton,
+ R.
+ (1973).
+ Landscape
+ Control
+ Points:
+ A
+ Procedure
+ for
+ Predicting
+ and
+ Monitoring
+ Visual
+ Impacts.
+
+California,
+ U.S.A.:
+ U.D.
+ Agriculture.
+
+ Ministerio
+ del
+ Medio
+ Ambiente,
+ MMA.
+ (Octubre
+ de
+ 2012).
+ Decreto
+ Supremo
+ N°40.
+ Reglamento
+ de
+
+Evaluación
+ de
+ Impacto
+ Ambiental.
+ Santiago.
+
+ Muñoz-­‐Pedreros,
+ A.
+ (2004).
+ La
+ Evaluación
+ de
+ Paisaje:
+ una
+ Herramienta
+ de
+ Gestión
+ Ambiental.
+ Revista
+
+Chilena
+ de
+ Historia
+ Natural,
+ 139-­‐156.
+
+ Ramos,
+ A.
+ (1979).
+ Planificacion
+ Física
+ y
+ Ecológica:
+ Modelos
+ y
+ Métodos.
+ Madrid,
+ España:
+ EMESA.
+
+ Servicio
+ de
+ Evalauación
+ Ambiental,
+ SEA.
+ (2013).
+ Guía
+ para
+ la
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ de
+
+Centrales
+ Eólicas
+ de
+ Generación
+ de
+ Energía
+ Eléctrica.
+ Santiago,
+ Chile
+
+ Servicio
+ Nacional
+ de
+ Turismo,
+ SERNATUR.
+ (2011).
+ Áreas
+ Turísticas
+ Prioritarias
+ 2011.
+ Santiago,
+ Chile.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.7.
+ Paisaje**
+**27**

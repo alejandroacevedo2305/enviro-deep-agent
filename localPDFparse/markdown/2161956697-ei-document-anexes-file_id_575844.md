@@ -1,0 +1,25 @@
+---
+title: L02_ETAPA ROJA
+author: Desconocido
+date: D:20220818174423Z
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|6 2 8 0 5 0 0 345000 I COMP A UR M NO AV SN ACI O N BE RAI NP AR DO 345500|005643 000643|
+|---|---|
+|6280000|PROVINCIA MAIPO - COMUNA SAN BERNARDO<br>PROVINCIA DE SANTIAGO - COMUNA LA PINTANA|
+|6279500|Área "e" Aeródromo El Bosque|
+|0m 50 100 150<br>250m<br>6279000||
+|||
+
+|6 2 8 0 5 0 0 345000 I COMP A UR M NO AV SN ACI O N BE RAI NP AR DO 345500|005643 000643|
+|---|---|
+|6280000|PROVINCIA MAIPO - COMUNA SAN BERNARDO<br>PROVINCIA DE SANTIAGO - COMUNA LA PINTANA|
+|6279500|Área "e" Aeródromo El Bosque|
+|0m 50 100 150<br>250m<br>6279000||
+|||

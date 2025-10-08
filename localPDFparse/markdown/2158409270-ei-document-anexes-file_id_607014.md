@@ -1,0 +1,17 @@
+---
+title: LAM-04
+author: Desconocido
+date: D:20221128143414
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|LEYENDA|Col2|
+|---|---|
+|LÍMITE PREDIO<br> LÍMITE INSTALACIÓN<br> LÍNEA ELÉCTRICA DE M.T. DE EVACUACIÓN ( AÉREA )<br> LÍNEA ELÉCTRICA DE M.T. DE EVACUACIÓN ( ENTERRADA )<br> LÍNEA ELÉCTRICA DE DISTRIBUCIÓN<br> LINEAS DE B.T. (ENTERRADA)<br> LINEAS DE CCTV. (ENTERRADA)||
+|PROYECCIÓN DE RASANTE<br> PEQUEÑA QUEBRADA<br> CANAL ARTIFICIAL||
+|PROYECCIÓN DE RASANTE<br> PEQUEÑA QUEBRADA<br> CANAL ARTIFICIAL||

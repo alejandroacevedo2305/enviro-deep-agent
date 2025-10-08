@@ -1,0 +1,39 @@
+---
+title: Sin título
+author: María José Vásquez
+date: D:20220903021542Z'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Ficha de registro Arqueológico|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|
+|---|---|---|---|---|---|---|---|---|---|---|
+|** Nombre**|Comahue 102|Comahue 102|Comahue 102|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|Rasgo lineal|Rasgo lineal|
+|** Región**|Antofagasta|Antofagasta|Antofagasta|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|
+|** Provincia**|Antofagasta|Antofagasta|Antofagasta|**Punto**|**Punto**|**Punto**|**Punto**|**UTM E**|**UTM E**|**UTM N**|
+|** Comuna**|Antofagasta|Antofagasta|Antofagasta|Inicio (intersección<br>con Comahue 99)|Inicio (intersección<br>con Comahue 99)|Inicio (intersección<br>con Comahue 99)|Inicio (intersección<br>con Comahue 99)|373208|373208|7401624|
+|**Sector proyecto**||||unión con Comahue<br>8|unión con Comahue<br>8|unión con Comahue<br>8|unión con Comahue<br>8|373466|373466|7401543|
+|**Uso del suelo**<br>**Dimensiones**|Sin uso<br>2,6 m de ancho<br>480 m de largo|Sin uso<br>2,6 m de ancho<br>480 m de largo|Sin uso<br>2,6 m de ancho<br>480 m de largo|Límite con polígono|Límite con polígono|Límite con polígono|Límite con polígono|373605|373605|7401567|
+|**Uso del suelo**<br>**Dimensiones**|Sin uso<br>2,6 m de ancho<br>480 m de largo|Sin uso<br>2,6 m de ancho<br>480 m de largo|Sin uso<br>2,6 m de ancho<br>480 m de largo|fnal|fnal|fnal|fnal|373638|373638|7401573|
+|**Uso del suelo**<br>**Dimensiones**|Sin uso<br>2,6 m de ancho<br>480 m de largo|Sin uso<br>2,6 m de ancho<br>480 m de largo|Sin uso<br>2,6 m de ancho<br>480 m de largo|**Alttud**|**Alttud**|742|742|742|742|742|
+|**Tipología General**|**Tipología General**|**Tipología General**|**Potencial Estratgráfco**|**Potencial Estratgráfco**|**Potencial Estratgráfco**|**Potencial Estratgráfco**|**Potencial Estratgráfco**|**Potencial Estratgráfco**|**Cronología estmada**|**Cronología estmada**|
+|Vialidad|Vialidad|Vialidad|Superfcial|Superfcial|Superfcial|Superfcial|Superfcial|Superfcial|Histórico|Histórico|
+|**Emplazamiento**|**Emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Cubierta vegetacional**|**Cubierta vegetacional**|**Cubierta vegetacional**|**Cubierta vegetacional**|
+|Cielo abierto|Cielo abierto|Llanura|Llanura|Llanura|Llanura|Llanura|Sin cubierta|Sin cubierta|Sin cubierta|Sin cubierta|
+|**Evidencias Muebles**|**Evidencias Muebles**|**Evidencias Muebles**|**Evidencias Muebles**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|
+|Vidrio|Vidrio|Vidrio|Vidrio|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|Huella de carreta de 3 surcos. Se extende en<br>dirección Noroeste/Sureste por 480 metros, se<br>asocian los siguientes hallazgos:<br>Comahue 118. Al realizar seguimiento se observa que<br>un tramo identfcado en campañas anteriores de<br>Comahue 8 corresponde a parte de Comahue 102.<br>Se extende por 30 metros fuera del polígono, y de<br>ahí se pierde su contnuidad. Surcos poco profundos<br>en algunos tramos, y también se observan<br>intervenciones de huellas vehiculares.|
+|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|
+|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|
+|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|
+|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|
+|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|
+|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|
+||||||||||||
+|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|**Fotografas**|
+||||||||||||
+
+Inicio, Vista hacia el Noroeste

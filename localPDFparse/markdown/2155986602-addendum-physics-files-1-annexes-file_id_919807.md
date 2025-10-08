@@ -1,0 +1,77 @@
+---
+title: A1
+author: Desconocido
+date: D:20211201101345
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|S A D A N E1 D° N R OO OI CIC EF D DI OE R D A U C|Col2|Col3|
+|---|---|---|
+|PUNTO|WGS 84 - H 19S<br>NORTE ESTE|WGS 84 - H 19S<br>NORTE ESTE|
+|PUNTO|WGS 84 - H 19S<br>NORTE ESTE|ESTE|
+|1a|352149.25|6287729.80|
+|1b|352197.41|6287747.76|
+|1c|352202.86|6287733.16|
+|1d|352171.05|6287724.60|
+|1e|352178.83|6287704.73|
+|1f|352164.22|6287699.26|
+
+|S A D A N E2 D° N R OO OI CIC EF D DI OE R D A U C|Col2|Col3|
+|---|---|---|
+|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|
+|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|ESTE|
+|2a|352167.14|6287691.44|
+|2b|352181.76|6287696.90|
+|2c|352188.90|6287676.77|
+|2d|352211.80|6287688.63|
+|2e|352217.25|6287674.01|
+|2f|352175.84|6287658.55|
+
+|S A D A N E3 D° N R OO OI CIC EF D DI OE R D A U C|Col2|Col3|
+|---|---|---|
+|PUNTO|WGS 84 - H 19S<br>NORTE ESTE|WGS 84 - H 19S<br>NORTE ESTE|
+|PUNTO|WGS 84 - H 19S<br>NORTE ESTE|ESTE|
+|3a|352213.95|6287738.53|
+|3b|352218.08|6287748.50|
+|3c|352227.64|6287748.31|
+|3d|352245.49|6287702.28|
+|3e|352227.79|6287695.42|
+
+|S A D A N E4 D° N R OO OI CIC EF D DI OE R D A U C|Col2|Col3|
+|---|---|---|
+|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|
+|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|PUNTO<br>WGS 84 - H 19S<br>NORTE ESTE|ESTE|
+|4a|352246.63|6287654.25|
+|4b|352259.48|6287658.48|
+|4c|352263.66|6287655.47|
+|4d|352245.49|6287702.28|
+|4e|352227.79|6287695.42|
+
+|Mail: Arquitectosaw@gmail.com / Wriveraz@yahoo.com.ar|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|||||||
+|**'(&/$5$&,Ð1'(,03$&72$0%,(17$/**<br>**LA FLORIDA**|**'(&/$5$&,Ð1'(,03$&72$0%,(17$/**<br>**LA FLORIDA**|**'(&/$5$&,Ð1'(,03$&72$0%,(17$/**<br>**LA FLORIDA**|**'(&/$5$&,Ð1'(,03$&72$0%,(17$/**<br>**LA FLORIDA**|**'(&/$5$&,Ð1'(,03$&72$0%,(17$/**<br>**LA FLORIDA**|**'(&/$5$&,Ð1'(,03$&72$0%,(17$/**<br>**LA FLORIDA**|
+|||||||
+|**SOCIEDAD DE RENTAS**<br>**COMERCIALES S.A**|**SOCIEDAD DE RENTAS**<br>**COMERCIALES S.A**|**SOCIEDAD DE RENTAS**<br>**COMERCIALES S.A**|**SOCIEDAD DE RENTAS**<br>**COMERCIALES S.A**|**SOCIEDAD DE RENTAS**<br>**COMERCIALES S.A**|**SOCIEDAD DE RENTAS**<br>**COMERCIALES S.A**|
+|DIRECCIÓN :<br>Vicuña Mackenna #9101, comuna de La Florida.|DIRECCIÓN :<br>Vicuña Mackenna #9101, comuna de La Florida.|DIRECCIÓN :<br>Vicuña Mackenna #9101, comuna de La Florida.|DIRECCIÓN :<br>Vicuña Mackenna #9101, comuna de La Florida.|ROL SII:<br>1425-1|ROL SII:<br>1425-1|
+|**ENRIQUE OLIVARES**<br>**DR. SOTERO DEL RIO**<br>**LOS ALMENDROS**<br>**LOS ALMENDROS**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**LOS CEDROS**<br>**DR. SOTERO DEL RIO**<br>**ROBERT KENNEDY**<br>**&21'20,1,2*5$1%5(7$f$**<br>**CONDOMINIO EL LIMONAR**<br>**ARGENTINA**<br>**1
+**<br>UBICACIÓN|**ENRIQUE OLIVARES**<br>**DR. SOTERO DEL RIO**<br>**LOS ALMENDROS**<br>**LOS ALMENDROS**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**LOS CEDROS**<br>**DR. SOTERO DEL RIO**<br>**ROBERT KENNEDY**<br>**&21'20,1,2*5$1%5(7$f$**<br>**CONDOMINIO EL LIMONAR**<br>**ARGENTINA**<br>**1
+**<br>UBICACIÓN|**ENRIQUE OLIVARES**<br>**DR. SOTERO DEL RIO**<br>**LOS ALMENDROS**<br>**LOS ALMENDROS**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**LOS CEDROS**<br>**DR. SOTERO DEL RIO**<br>**ROBERT KENNEDY**<br>**&21'20,1,2*5$1%5(7$f$**<br>**CONDOMINIO EL LIMONAR**<br>**ARGENTINA**<br>**1
+**<br>UBICACIÓN|**ENRIQUE OLIVARES**<br>**DR. SOTERO DEL RIO**<br>**LOS ALMENDROS**<br>**LOS ALMENDROS**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**LOS CEDROS**<br>**DR. SOTERO DEL RIO**<br>**ROBERT KENNEDY**<br>**&21'20,1,2*5$1%5(7$f$**<br>**CONDOMINIO EL LIMONAR**<br>**ARGENTINA**<br>**1
+**<br>UBICACIÓN|**ENRIQUE OLIVARES**<br>**DR. SOTERO DEL RIO**<br>**LOS ALMENDROS**<br>**LOS ALMENDROS**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**LOS CEDROS**<br>**DR. SOTERO DEL RIO**<br>**ROBERT KENNEDY**<br>**&21'20,1,2*5$1%5(7$f$**<br>**CONDOMINIO EL LIMONAR**<br>**ARGENTINA**<br>**1
+**<br>UBICACIÓN|**ENRIQUE OLIVARES**<br>**DR. SOTERO DEL RIO**<br>**LOS ALMENDROS**<br>**LOS ALMENDROS**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**9,&8f$0$&.(11$**<br>**LOS CEDROS**<br>**DR. SOTERO DEL RIO**<br>**ROBERT KENNEDY**<br>**&21'20,1,2*5$1%5(7$f$**<br>**CONDOMINIO EL LIMONAR**<br>**ARGENTINA**<br>**1
+**<br>UBICACIÓN|
+|CONTENIDO<br>PLANTA GENERAL DE ARQUITECTURA<br>CUADRO DE SUPERFICIES<br>CUADRO DE COORDENADAS|CONTENIDO<br>PLANTA GENERAL DE ARQUITECTURA<br>CUADRO DE SUPERFICIES<br>CUADRO DE COORDENADAS|CONTENIDO<br>PLANTA GENERAL DE ARQUITECTURA<br>CUADRO DE SUPERFICIES<br>CUADRO DE COORDENADAS|CONTENIDO<br>PLANTA GENERAL DE ARQUITECTURA<br>CUADRO DE SUPERFICIES<br>CUADRO DE COORDENADAS|CONTENIDO<br>PLANTA GENERAL DE ARQUITECTURA<br>CUADRO DE SUPERFICIES<br>CUADRO DE COORDENADAS|CONTENIDO<br>PLANTA GENERAL DE ARQUITECTURA<br>CUADRO DE SUPERFICIES<br>CUADRO DE COORDENADAS|
+|MODIFICACIONES<br>FECHA<br>|MODIFICACIONES<br>FECHA<br>|MODIFICACIONES<br>FECHA<br>|MODIFICACIONES<br>FECHA<br>|MODIFICACIONES<br>FECHA<br>|MODIFICACIONES<br>FECHA<br>|
+|||||||
+|||||||
+|||||||
+|||||||
+|Propietario<br>SOCIEDADES DE RENTA COMERCIALES S.A<br>Rut: 77.072.500-3|Propietario<br>SOCIEDADES DE RENTA COMERCIALES S.A<br>Rut: 77.072.500-3|Arquitecto<br>WERNER R. RIVERA Z.<br>Fono: +569 9979 5068 / +562 2226 9223<br>Mail: wriveraz@yahoo.com.ar|Arquitecto<br>WERNER R. RIVERA Z.<br>Fono: +569 9979 5068 / +562 2226 9223<br>Mail: wriveraz@yahoo.com.ar|Arquitecto<br>WERNER R. RIVERA Z.<br>Fono: +569 9979 5068 / +562 2226 9223<br>Mail: wriveraz@yahoo.com.ar|Arquitecto<br>WERNER R. RIVERA Z.<br>Fono: +569 9979 5068 / +562 2226 9223<br>Mail: wriveraz@yahoo.com.ar|
+|Propietario<br>SOCIEDADES DE RENTA COMERCIALES S.A<br>Rut: 77.072.500-3|ESCALA :<br>LAS INDICADAS|ESCALA :<br>LAS INDICADAS||||
+|Propietario<br>SOCIEDADES DE RENTA COMERCIALES S.A<br>Rut: 77.072.500-3|VERSIÓN :<br>A|VERSIÓN :<br>A|VERSIÓN :<br>A|VERSIÓN :<br>A|VERSIÓN :<br>A|

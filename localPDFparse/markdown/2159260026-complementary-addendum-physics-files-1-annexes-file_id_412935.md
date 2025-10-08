@@ -1,0 +1,54 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20240409171220-04
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ~~±~~
+-->
+
+247.000
+
+# ~~±~~
+
+247.000
+
+DATUM WGS84 UTM 19 SUR
+
+ESCALA
+
+No PROYECTO
+
+FECHA
+
+ELABORADO POR
+
+1:20.000
+
+
+
+9/4/2024
+
+ELABORADO PARA
+
+|248.500 250.000 251.500 253.000 254.500 256.000 257.500 259.000 260.500 262.000|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+||||||||||**_Quebrada_**<br>**_Honda_**|
+|||**S/R-I-20**|**2**|**2**|||||**_anfuen_**|
+|**_canal_**<br>**_emb_**<br>|**I-202**<br>**_canal embalse mallermo_**|||||^_<br>#*<br>#*<br>#*#*<br>#*<br>#*#*#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*#*<br>#*<br>**#***<br>!A<br>!A<br>!A<br>**S**<br>~~**63**~~<br>**64**<br>**65**<br>**66**<br>**67**<br>**68**<br>**69**<br>**70**<br>**71**<br>**72**<br>**73**<br>**74**<br>**75**<br>**76**<br>**77**<br>**78**<br>**79**<br>**80**<br>**81**<br>**82**<br>**83**<br>**M**<br>**_Estero Chequen_**<br>**I-204**<br>**I-20**<br>**I**<br>**I-204**<br>**I-204**|^_<br>#*<br>#*<br>#*#*<br>#*<br>#*#*#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*#*<br>#*<br>**#***<br>!A<br>!A<br>!A<br>**S**<br>~~**63**~~<br>**64**<br>**65**<br>**66**<br>**67**<br>**68**<br>**69**<br>**70**<br>**71**<br>**72**<br>**73**<br>**74**<br>**75**<br>**76**<br>**77**<br>**78**<br>**79**<br>**80**<br>**81**<br>**82**<br>**83**<br>**M**<br>**_Estero Chequen_**<br>**I-204**<br>**I-20**<br>**I**<br>**I-204**<br>**I-204**|^_<br>#*<br>#*<br>#*#*<br>#*<br>#*#*#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*#*<br>#*<br>**#***<br>!A<br>!A<br>!A<br>**S**<br>~~**63**~~<br>**64**<br>**65**<br>**66**<br>**67**<br>**68**<br>**69**<br>**70**<br>**71**<br>**72**<br>**73**<br>**74**<br>**75**<br>**76**<br>**77**<br>**78**<br>**79**<br>**80**<br>**81**<br>**82**<br>**83**<br>**M**<br>**_Estero Chequen_**<br>**I-204**<br>**I-20**<br>**I**<br>**I-204**<br>**I-204**|**E PORTEZUELO**<br>**(existente)**<br>**L**<br>**_d_**<br>**-20**<br>**_canal embalse s_**|
+|!P<br>**_onada_**<br>**_cones_**<br><br>**_alse_**<br>**_emproco_**|**_Estero La Rosa_**|||||#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>!P<br><br>**50**<br>**51**<br>**52**<br>**53**<br>**54**<br>**55**<br>**56**<br>**57**<br>**58**<br>**59**<br>**60**<br>**61**<br>**62**<br><br>**_Chequén_**<br>**_canal_**<br>**_embalse_**<br>**_santa marta_**|#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>!P<br><br>**50**<br>**51**<br>**52**<br>**53**<br>**54**<br>**55**<br>**56**<br>**57**<br>**58**<br>**59**<br>**60**<br>**61**<br>**62**<br><br>**_Chequén_**<br>**_canal_**<br>**_embalse_**<br>**_santa marta_**|#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>!P<br><br>**50**<br>**51**<br>**52**<br>**53**<br>**54**<br>**55**<br>**56**<br>**57**<br>**58**<br>**59**<br>**60**<br>**61**<br>**62**<br><br>**_Chequén_**<br>**_canal_**<br>**_embalse_**<br>**_santa marta_**|**El Crucero**<br>**_Estero de Trinida_**<br>**I-214**<br>**H-76**|
+|||#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>**19**<br>**20**<br>**21**<br>**22**<br>**23**<br>**24**<br>**25**<br>**26**<br>**27**<br>**28**|#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br><br>**29**<br>**30**<br>**31**<br>**32**<br>**33**<br>**34**<br>**35**<br>**36**<br>**37**<br>**38**<br>**3**|#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br><br>**29**<br>**30**<br>**31**<br>**32**<br>**33**<br>**34**<br>**35**<br>**36**<br>**37**<br>**38**<br>**3**|#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>!A<br>**9**<br>**40**<br>**41**<br>**42**<br>**43**<br>**44**<br>**45**<br>**46**<br>**I-208**|#*<br>#*<br>#*<br>~~#*~~<br>**47**<br>**48**<br>~~**49**~~<br>|#*<br>#*<br>#*<br>~~#*~~<br>**47**<br>**48**<br>~~**49**~~<br>|#*<br>#*<br>#*<br>~~#*~~<br>**47**<br>**48**<br>~~**49**~~<br>||
+|#*<br><br>**SE ALCONES**<br>**(existente)**<br>~~**ML**~~<br>**2**<br><br>**_canal_**|#~~*~~<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br>#*<br><br>**3**<br>**4**<br>**5**<br>**6**<br>**7**<br>**8**<br>**9**<br>**10**<br>**11**<br>**12**<br>**13**<br>**14**<br>**15**<br>**16**<br>**1**<br><br>**_ embalse el porotal_**|**7**<br>**18**|||**Comuna de**<br>**Marchihue**|**Marchihue**<br>**I-206**|**Marchihue**<br>**I-206**|**Marchihue**<br>**I-206**|**_Estero Yerbas Buenas_**<br>**8**|
+|~~^_~~#~~* ~~#*<br><br><br>!P<br>**INSTALACIÓN**<br>**DE FAENAS**<br><br>**1**<br>**I-674**<br>**_Alcones_**||**Ruta 90**|||**_Estero Yerbas Buenas_**|**_Estero de Piuchen_**<br>**I-660**<br>**I-680**|**_Estero de Piuchen_**<br>**I-660**<br>**I-680**|**_Estero de Piuchen_**<br>**I-660**<br>**I-680**|**_Estero Yerbas Buenas_**<br>**_Estero Las Cadenas_**<br>**I-20**|
+||||**_canal el sau_**|**_canal el sau_**|**_Estero del Monte_**<br>**_ce_**||||**_Estero La Rosa_**<br><br>500<br>0<br>500<br>250<br>m|
+|248.500<br>250.000<br>251.500<br>253.000|248.500<br>250.000<br>251.500<br>253.000|248.500<br>250.000<br>251.500<br>253.000|248.500<br>250.000<br>251.500<br>253.000|254.500<br>256.000|254.500<br>256.000|254.500<br>256.000||257.500<br>259.000|260.500<br>262.000|
+|**DIA LAT ALCONES-PORT**|**DIA LAT ALCONES-PORT**|**DIA LAT ALCONES-PORT**|**DIA LAT ALCONES-PORT**|**EZUELO - CRUCES DE VIALIDAD CON OBRAS DEL**|**EZUELO - CRUCES DE VIALIDAD CON OBRAS DEL**|**EZUELO - CRUCES DE VIALIDAD CON OBRAS DEL**|**PROYECTO**|**PROYECTO**||
+|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**SIMBOLOGÍA**<br>**Cruce trazado con vialidad**<br>!A<br>**Obras permanent**~~**es**~~** d**~~**e**~~**l **~~**pr**~~**oyecto**<br>#*<br>Estructura<br>Línea de transmisión<br>Franja de servidumbre<br>**Obras t**~~**e**~~**mporales del proyecto**<br>Instalación de Faenas<br>**Obras existentes**<br>^_<br>SE Alcones (existente)<br>^_<br>SE Portezuelo (existente)<br>**Rutas de operación**<br>**Rutas de construcción**<br>**Cartografía Base**<br>Red Vial MOP<br>Red Hidrográfica<br>Canales CNR<br>!P<br>Asentamientos<br>Área Urbana|**Región del**<br>**Libertador**<br>**Bernardo**<br>**O''Higgins**<br>_Región_<br>_Metropolitana_<br>_Región_<br>_de Valparaíso_<br>_Región del Maule_<br>**Cachapoal**<br>**Colchagua**<br>**Cardenal**<br>**Caro**<br>**CONTEXTO**<br>**NACIONAL**<br>**CONTEXTO**<br>**REGIONAL**|

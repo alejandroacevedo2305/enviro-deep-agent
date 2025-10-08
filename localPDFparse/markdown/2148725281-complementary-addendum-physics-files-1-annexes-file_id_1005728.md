@@ -1,0 +1,24 @@
+---
+title: Anexo 17. Planos imágenes satelitales
+author: Claudia Muñoz Poblete
+date: D:20220509132137Z00'00'
+language: es
+type: general
+pages: 3
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - PROYECTOS PRESENTADOS A EVALUACIÓN, POR REGULARIZAR, QUE SE ELIMINARÁN E INSTALACIONES ACTUALES
+  - PROYECTOS QUE SERÁN ELIMINADOS
+  - PROYECTOS PRESENTADOS A EVALUACIÓN Y POR REGULARIZAR
+-->
+
+# PROYECTOS PRESENTADOS A EVALUACIÓN, POR REGULARIZAR, QUE SE ELIMINARÁN E INSTALACIONES ACTUALES
+
+# PROYECTOS QUE SERÁN ELIMINADOS
+
+# PROYECTOS PRESENTADOS A EVALUACIÓN Y POR REGULARIZAR

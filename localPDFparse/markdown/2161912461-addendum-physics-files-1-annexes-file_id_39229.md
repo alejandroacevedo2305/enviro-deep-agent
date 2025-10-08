@@ -1,0 +1,114 @@
+---
+title: SITUACION ACTUAL
+author: Desconocido
+date: D:20231221133517
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|8.16 3.39 1.97 3.60 8.89|
+|---|---|
+|0.00<br>8.16<br>11.54<br>13.51<br>17.11<br>26.00|0.00<br>8.16<br>11.54<br>13.51<br>17.11<br>26.00|
+|318.66<br>318.43<br>318.48<br>317.16<br>318.49|318.66<br>318.43<br>318.48<br>317.16<br>318.49|
+|317.11|317.11|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|5.95 2.02 3.16 2.34 3.63 9.00|
+|---|---|
+|0.00<br>5.95<br>7.97<br>11.13<br>13.47<br>17.10<br>26.00|0.00<br>5.95<br>7.97<br>11.13<br>13.47<br>17.10<br>26.00|
+|318.05<br>318.46<br>318.00<br>318.12<br>317.38<br>316.94<br>318.30|318.05<br>318.46<br>318.00<br>318.12<br>317.38<br>316.94<br>318.30|
+|316.85|316.85|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|6.98|3.42|1.91|1.17|2.53|3.76|6.24|Col9|
+|---|---|---|---|---|---|---|---|---|
+|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|0.00<br>6.98<br>10.39<br>12.30<br>13.48<br>16.01<br>19.76<br>26.00|
+|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|317.93<br>318.23<br>317.93<br>316.82<br>317.75<br>318.16|
+|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|316.75<br>316.75|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|5.76|4.24|3.48|3.81|4.98|3.73|Col8|
+|---|---|---|---|---|---|---|---|
+|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|0.00<br>5.76<br>10.00<br>13.48<br>17.29<br>22.27<br>26.00|
+|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|317.76<br>318.00<br>317.75<br>316.64<br>317.60<br>317.94|
+|316.57|316.57|316.57|316.57|316.57|316.57|316.57|316.57|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|5.28 2.50 4.71 9.08 3.18 1.25|
+|---|---|
+|0.00<br>1.25<br>6.53<br>9.03<br>13.74<br>22.82<br>26.00|0.00<br>1.25<br>6.53<br>9.03<br>13.74<br>22.82<br>26.00|
+|317.65<br>317.82<br>317.65<br>317.43<br>316.54<br>317.77|317.65<br>317.82<br>317.65<br>317.43<br>316.54<br>317.77|
+|316.39|316.39|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|2.55 2.07 2.10 1.84 3.90 4.74 4.08 3.12 0.67 0.93|
+|---|---|
+|0.00<br>2.55<br>4.61<br>6.71<br>8.55<br>12.46<br>17.20<br>21.28<br>21.95<br>25.07<br>26.00|0.00<br>2.55<br>4.61<br>6.71<br>8.55<br>12.46<br>17.20<br>21.28<br>21.95<br>25.07<br>26.00|
+|317.13<br>317.73<br>317.06<br>317.49<br>316.66<br>316.62<br>316.92<br>317.799<br>317.41<br>317.72|317.13<br>317.73<br>317.06<br>317.49<br>316.66<br>316.62<br>316.92<br>317.799<br>317.41<br>317.72|
+|316.60<br>|316.60<br>|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|2.22 3.44 2.92 9.38 4.36 1.49 1.21 0.98|
+|---|---|
+|1.49<br>0.00<br>2.70<br>4.92<br>8.36<br>11.28<br>20.66<br>25.02<br>26.00|1.49<br>0.00<br>2.70<br>4.92<br>8.36<br>11.28<br>20.66<br>25.02<br>26.00|
+|317.33<br>317.61<br>317.30<br>317.55<br>316.73<br>316.700<br>317.29<br>318.38|317.33<br>317.61<br>317.30<br>317.55<br>316.73<br>316.700<br>317.29<br>318.38|
+|316.68<br>|316.68<br>|
+
+|DISTANCIA|PARCIALES|
+|---|---|
+|DISTANCIA|ACUMULADAS|
+|COTAS|BORDE|
+|COTAS|C. FONDO|
+
+|Col1|4.61 2.59 5.25 6.12 6.45 0.99|
+|---|---|
+|0.00<br>4.61<br>7.19<br>8.18<br>13.43<br>19.55<br>26.00|0.00<br>4.61<br>7.19<br>8.18<br>13.43<br>19.55<br>26.00|
+|318.45<br>319.48<br>319.48<br>317.95<br>317.26<br>317.83|318.45<br>319.48<br>319.48<br>317.95<br>317.26<br>317.83|
+|316.80|316.80|
+
+|M A L P O<br>SPA<br>e m p r e s a c o n s t r u c t o r a|Col2|
+|---|---|
+|PROYECTO<br>PERFILES TRANSVERSALES CANAL 2<br>MODIFICACIÓN DE CAUCE - SITUACIÓN SIN PROYECTO<br>VILLA RENKU - COMUNA DE RENGO|6 de 15|
+|UBICACION<br>AVENIDA SAN MARTIN 2024<br>COMUNA DE RENGO|UBICACION<br>AVENIDA SAN MARTIN 2024<br>COMUNA DE RENGO|
+|PROPIETARIO<br>DGA<br>DIRECCIÓN GENERAL DE AGUAS<br>PROPIETARIO<br>CONSTRUCTORA MALPO SPA.|DICIEMBRE<br>2023|
+|PROPIETARIO<br>DGA<br>DIRECCIÓN GENERAL DE AGUAS<br>PROPIETARIO<br>CONSTRUCTORA MALPO SPA.|ESCALAS INDICADAS|

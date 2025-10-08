@@ -1,0 +1,27 @@
+---
+title: FUSIÓN - ANTEPROYECTO LOTEO
+author: Desconocido
+date: D:20220801114411
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|IONES|Col2|
+|---|---|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|DISEÑO / LÁMINA|JUN-2021|
+|REVISION:|FECHA:|
+
+|INSTALACION DE FAENAS<br>Z o n a P l a n t a d e H o r m i g ó n<br>D i s t a n c i a s C a u c e s m a s C e r c a n o s<br>B o d e g a d e<br>PARCELA 2<br>P A R C E L A 2<br>ROL: 5510-36<br>R O L : 5 5 1 0 - 3 6 6 m 2 C e m e n t o<br>m o2<br>1 7 9 . 3 9 C A L L E L O S C O I G Ü E S Z 1 H o r mo n a 0 0 m P i gl a 2 ón nt a R . PB o1 2 edm l ie2 gg ra o s oR 6 sE 0 S m C 2 O N B D o mA s i mo d e1 2 m o c ii l a bg a 2 l i al e rs i o a s d eL 6 Ca v a n o aa d s R o d i l u v Es i o ta cio na m 1 25 m 2<br>ien<br>i<br>tos<br>C<br>A l<br>6<br>L<br>0<br>LE<br>m<br>4 ca a y 2 M e z c l a d o r / A c u m u l a d o r<br>sg g<br>ea r a r<br>C<br>D<br>B<br>2 o<br>0 deg<br>0<br>m a<br>D e t a l l e N o 1 2<br>CALLE s<br>a<br>in<br>ic<br>O f 2<br>m<br>A.V.3 0<br>5<br>2<br>1 m<br>0<br>3<br>o r<br>b e d m 2<br>a o m s 1 5 eA Ác o ip oi o<br>C o<br>ñ<br>a<br>B<br>d r d s<br>A<br>2-A3<br>AV.<br>c<br>d<br>=<br>jM P<br>A 257.59 A<br>S U R EA k '- DR<br>f PE L<br>R AF = E<br>e CT IC FE 2 H<br>IE: 6 U<br>A 1.42 R<br>1.4 A<br>g 6 5,14 B .N T A<br>.U D<br>h .P O<br>.<br>C A L L E 7 D e t a l l e N o 1<br>C A L L E 6 A V<br>CALL .<br>CA P P l a n t a d e H o r m i g o n<br>M1<br>A 1<br>M3 L.C.1 L L E D P A<br>E 4 R T A A 2<br>2 E E P<br>A<br>H T<br>E<br>U<br>R<br>CALLE T<br>A<br>D<br>C A L L E 5 O<br>5<br>A1-F=338.57<br>CANAL PROYECTADO<br>A 3 '<br>3<br>E<br>M4 L<br>A3 CALLE A L N A 3<br>C<br>L<br>L.C.2<br>8<br>L-A3=6.04 3<br>1 .<br>9<br>1<br>=<br>A4<br>L<br>A<br>-<br>4 u<br>C A L L E 3 A t<br>A<br>6<br>O<br>4<br>M8 T I<br>CALLE -A5 I<br>S<br>=55<br>M7 E T A P A 1 CALLE 4<br>.83<br>SITIO 6<br>E T A P A 2 v A 6 '<br>CALLE<br>M6 K-A6=7.06 A.V.6 A6 CALLE C A L L E 1 1 w L K A 6<br>2 H<br>J<br>CALLE<br>K 8 C A L L E 9 10 A 5 - K = 5 3 . 3 3<br>A<br>A 5<br>A.V.5 A5 6<br>-<br>A<br>1 CALLE<br>A.V.4 q 7<br>K<br>=<br>p<br>-<br>M5 J= 6<br>9<br>6 .<br>9<br>EQ. n 9 r C A L L E 1 5 2<br>CALLE .<br>m s 1<br>6<br>ñ<br>o 11<br>J<br>C A L L E 1<br>G<br>M9<br>A 7 A 7 '<br>A7<br>M1<br>F - J = 3 7 7 . 3 3<br>A 8 - LA 7 L= O3 8 6 . 2 3 C A M I N O E L C E R E UL C E R A R E R I L PRAL E R F I C I E : 3 . 1 4I L L O / P A D R E A F E C T A A B O 2 H. N . 5 2U R. U T. P m A. 2D O<br>S<br>F-A8=5.13 F F C A M I N O E L C E R R I<br>A8<br>A 8|INSTALACION DE FAENAS<br>LOTE K<br>SAN BERNARDO|
+|---|---|
+|Zona Planta de Hormigón<br>Bodega de<br>Cemento<br>Mezclador/Acumulador<br>Acopio<br>de Áridos<br>PARCELA 2<br>SITIO 6<br>AV. PADRE HURTADO<br>ROL: 5510-36<br>CALLE LOS COIGÜES<br>CAMINO EL CERRILLO<br>A5<br>K<br>J<br>K-J=65.16<br>A5-K=53.33<br>SITIO 6<br>A**4**<br>A4-A5=55.83<br>L<br>A4-L=19.38<br>A3<br>L-A3=6.04<br>M'-L=261.42<br>A2-A3=257.59<br>A~~6~~<br>K-A6=7.06<br>A7<br>A6-A7=69.92<br>F<br>A8<br>F-A8=5.13<br>A1-F=338.57<br>AV. PADRE HURTADO<br>CAMINO EL CERRILLO<br>PARCELA 2<br>ROL: 5510-36<br>F-J=377.33<br>A8-A7=386.23<br>179.39<br>A8<br>A7<br>A6<br>A5<br>A<br>A3<br>F<br>N<br>H<br>G<br>SUPERFICIE: 3.142.52 m2<br>EL CERRILLO /PADRE HURTADO<br> AREA AFECTA A B.N.U.P.<br>J<br>K<br>L<br>SUPERFICIE: 1.465,14<br> AREA AFECTA A B.N.U.P.<br>ETAPA 1<br>ETAPA 2<br>ETAPA 1<br>ETAPA 2<br>A3'<br>A6'<br>A7'<br>M1<br>M1<br>M3<br>M4<br>M5<br>M6<br>M7<br>M8<br>M9<br>A.V.3<br>A.V.4<br>A.V.5<br>A.V.6<br>L.C.1<br>~~L~~.C.2<br>EQ.<br>a<br>b<br>c<br>d<br>e<br>f<br>g<br>h<br>i<br>j<br>k<br>l<br>o<br>ñ<br>n<br>m<br>q<br>r<br>s<br>p<br>u<br>v<br>w<br>t<br>CALLE 1<br>CALLE 1<br>CALLE 1<br>CALLE 3<br>CALLE 3<br>CALLE 1<br>CALLE 2<br>CALLE 2<br>CALLE 1<br>CALLE 5<br>CALLE 5<br>CALLE 6<br>CALLE 7<br>CALLE 8<br>CALLE 9<br>CALLE 9<br>CALLE 10<br>CALLE 11<br>CALLE 11<br>CALLE 4<br>CALLE 4<br>CALLE 4<br>200 m2<br>Bodega<br>Bodega<br>Asimilables a<br>Domociliarios<br>RESCON<br>50 m2<br>60 m2<br>12 m2<br>12 m2<br>Bodega<br>R.Peligrosos<br>60m2<br>30 m2<br>Comedor<br>Zona Planta<br>Hormigón<br>15 m2<br>Baños<br>Oficinas<br>Rodiluvio<br>6 m2<br>Lavado<br>de Canoas<br>Carga y<br>Descarga<br>6 m2<br>Detalle No1<br>125 m2<br>Estacionamientos<br>Distancias Cauces mas Cercanos<br>100 m2<br>INSTALACION DE FAENAS<br>Detalle No1<br>CANAL PROYECTADO<br>Planta de Hormigon|MODIFICACIONES<br>PROYECTO:<br>FIRMA:<br>FECHA:<br>REVISION:<br>N°:<br>LOTEO DFL 2<br>LOTE K<br>COLABORADOR:<br>COMUNA:<br>FECHA:<br>DIBUJO:<br>RMB<br>ESCALAS:<br>LOCALIDAD:<br>UBICACIÓN:<br>CONTENIDO:<br>ARQUITECTOS:<br>PROPIETARIO:<br>CONSTRUCTORA CARRAN S.A.<br>CARLOS RIOS SCOTT<br>7.830.710-2<br>ARQUITECTO<br>carlos.crscott@gmail.com<br>ARQUITECTOS<br>76.837.570-4<br>LAS GARDENIAS N°260, ÑUÑOA<br>F. 993220704<br>CRIOS-RMB<br>JUN-2021<br>DISEÑO / LÁMINA<br>1<br>2<br>CLAUDIO BARROS M.<br>10.312.333-K<br>REPRESENTANTE LEGAL<br>3<br>4<br>5<br>INSTALACION DE FAENAS<br>SAN BERNARDO<br>INDICADAS<br>ANTEPROYECTO<br>CAMINO ELCERRILLO / AV. PADRE HURTADO N° 1588/19302<br>PARCELA 5 / SITIO 7 - ASENT. SANTA FILOMENA DE NOS<br>ROL (M): 5510-39<br>LAMINA:<br>CAD:<br>IF.dwg<br>01<br>VERSION<br>FEDERICO CUMMING G.<br>5.922.863-3<br>REPRESENTANTE LEGAL<br>DICIEMBRE 2021|

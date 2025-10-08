@@ -1,0 +1,1253 @@
+---
+title: Sin título
+author: Gustavo Salinas
+date: D:20210727114518-04'00'
+language: es
+type: report
+pages: 27
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ADENDA DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO “PARQUE EÓLICO LOMAS DE TALTAL”
+-->
+
+# ADENDA DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO “PARQUE EÓLICO LOMAS DE TALTAL”
+
+## Anexo AD 12 PAS 140
+
+**Julio 2021**
+
+**Adenda DIA Parque Eólico Lomas de Taltal**
+
+**Anexo AD 12: PAS 140**
+
+**ÍNDICE**
+
+**1.** **ANTECEDENTES PARA TRAMITACIÓN DE PRONUNCIAMIENTO DEL ARTÍCULO 140 DEL D.S. N°**
+
+**40/2012 .................................................................................................................................... 1**
+
+**2.** **ANTECEDENTES ARTÍCULO 140 ................................................................................................. 3**
+
+**2.1.** **Generales ....................................................................................................................................... 3**
+
+2.1.1. Descripción y planos del sitio ............................................................................................................... 3
+
+2.1.2. Descripción de variables meteorológicas relevantes ......................................................................... 14
+
+2.1.3. Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar ................................ 15
+
+Fase de construcción ........................................................................................................................... 15
+
+Fase de operación ............................................................................................................................... 16
+
+Fase de cierre ...................................................................................................................................... 16
+
+2.1.4. Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y equipamiento . 17
+
+2.1.5. Formas de abatimiento de emisiones y de control y manejo de residuos ......................................... 17
+
+Abatimiento de emisiones ................................................................................................................... 17
+
+Control y manejo de residuos ............................................................................................................. 18
+
+2.1.6. Descripción del sistema de manejo de rechazos ................................................................................ 19
+
+2.1.7. Plan de verificación y seguimiento de los residuos a ser tratados y rechazados ............................... 19
+
+2.1.8. Plan de contingencias ......................................................................................................................... 19
+
+2.1.9. Plan de emergencia ............................................................................................................................ 20
+
+**2.2.** **Tratándose de una estación de transferencia, además de lo señalado precedentemente ................**
+
+**.................................................................................................................................................. 22**
+
+**2.3.** **Tratándose de plantas de manejo de residuos orgánicos, además de lo señalado en las letras desde**
+
+**a.1) hasta a.9) ............................................................................................................................... 22**
+
+**2.4.** **Tratándose de una planta de incineración, además de lo señalado en las letras desde a.1) hasta a.9)**
+
+**22**
+
+**2.5.** **Tratándose de almacenamiento de residuos, además de lo señalado en las letras desde a.1) hasta**
+
+**a.9): .............................................................................................................................................. 23**
+
+2.5.1. Especificaciones técnicas de las características constructivas del sitio de almacenamiento y medidas
+
+de protección de condiciones ambientales ........................................................................................ 23
+
+2.5.2. Capacidad máxima de almacenamiento ............................................................................................ 24
+
+2.5.3. Descripción del tipo de almacenamiento, tales como a granel o en contenedores .......................... 24
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal**
+
+**Anexo AD 12: PAS 140**
+
+**ÍNDICE DE FIGURAS**
+
+Figura PAS 140 1: Ubicación de las bodegas de RSD en Campamento Parque Eólico - fase de construcción. .. 6
+
+Figura PAS 140 2: Ubicación de las bodegas de RSD y RSINP en Instalaciones de faena Parque Eólico - fase de
+
+construcción. .......................................................................................................................... 7
+
+Figura PAS 140 3: Ubicación de las bodegas de RSD y RSINP en Planta de Hormigón Parque Eólico - fase de
+
+construcción ........................................................................................................................... 8
+
+Figura PAS 140 4: Ubicación de las bodegas de RSD y RSINP en Planta de Chancado 1 Parque Eólico - fase de
+
+construcción ........................................................................................................................... 9
+
+Figura PAS 140 5: Ubicación de las bodegas de RSD y RSINP en Planta de Chancado 2 Parque Eólico - fase de
+
+construcción ......................................................................................................................... 10
+
+Figura PAS 140 6: Ubicación de las bodegas de RSD y RSINP en Planta de Chancado 3 Parque Eólico - fase de
+
+construcción ......................................................................................................................... 11
+
+Figura PAS 140 7: Ubicación de las bodegas de RSD en Subestación- fase de Operación ............................... 12
+
+**ÍNDICE DE TABLAS**
+
+Tabla PAS 140 1: Ubicación de los sitios en Campamento Parque Eólico - fase de construcción ...................... 3
+
+Tabla PAS 140 2: Ubicación de los sitios en Instalación de faena Parque Eólico - fase de construcción ........... 3
+
+Tabla PAS 140 3: Ubicación de los sitios en Planta Hormigón Parque Eólico - fase de construcción ................. 4
+
+Tabla PAS 140 4: Ubicación de los sitios en Planta Chancado 1 Parque Eólico - fase de construcción .............. 4
+
+Tabla PAS 140 5: Ubicación de los sitios en Planta Chancado 2 Parque Eólico - fase de construcción .............. 4
+
+Tabla PAS 140 6: Ubicación de los sitios en Planta Chancado 3 Parque Eólico - fase de construcción .............. 4
+
+Tabla PAS 140 7: Ubicación de los sitios en Subestación Elevadora Parque Eólico - fase de operación ............ 5
+
+Tabla PAS 140 8: Coordenadas y variables registradas por las estaciones de monitoreo. .............................. 14
+
+Tabla PAS 140 9: Cantidad de RSINP en las distintas etapas del Proyecto. ...................................................... 17
+
+Tabla PAS 140 10: Características de edificación de las bodegas. .................................................................... 23
+
+Tabla PAS 140 11: Capacidad máxima de almacenamiento en Fase de Construcción. .................................... 24
+
+Tabla PAS 140 12: Capacidad máxima de almacenamiento en Fase de Operación. ........................................ 24
+
+Tabla PAS 140 13: Capacidad máxima de almacenamiento en Fase de Cierre. ............................................... 24
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal**
+
+**Anexo AD 12: PAS 140**
+
+**Adenda**
+
+**Declaración de Impacto Ambiental**
+
+**“Parque Eólico Lomas de Taltal”**
+
+**1.** **ANTECEDENTES PARA TRAMITACIÓN DE PRONUNCIAMIENTO DEL ARTÍCULO 140 DEL D.S. N°**
+
+**40/2012**
+
+**Artículo 140.- Permiso** _**para la construcción, reparación, modificación y ampliación de cualquier**_
+
+_**planta de tratamiento de basuras y desperdicios de cualquier clase o para la instalación de todo**_
+
+_**lugar destinado a la acumulación, selección, industrialización, comercio o disposición final de**_
+
+_**basuras y desperdicios de cualquier clase.**_
+
+_El permiso para la construcción, reparación, modificación y ampliación de cualquier planta de_
+
+_tratamiento de basuras y desperdicios de cualquier clase, o para la instalación de todo lugar_
+
+_destinado a la acumulación, selección, industrialización, comercio o disposición final de basuras y_
+
+_desperdicios de cualquier clase, será el establecido en los artículos 79 y 80 del Decreto con Fuerza de_
+
+_Ley No 725, de 1967, del Ministerio de Salud Pública, Código Sanitario, y siempre que no corresponda_
+
+_la aplicación de otro permiso ambiental sectorial por la misma acción._
+
+_El requisito para su otorgamiento consiste en que las condiciones de saneamiento y seguridad eviten_
+
+_un riesgo a la salud de la población._
+
+_Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los_
+
+_siguientes:_
+
+_a)_ _Generales:_
+_a.1. Descripción y planos del sitio._
+
+_a.2. Descripción de variables meteorológicas relevantes._
+
+_a.3. Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar._
+
+_a.4. Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y_
+
+_equipamiento._
+
+_a.5. Formas de abatimiento de emisiones y de control y manejo de residuos._
+
+_a.6. Descripción del sistema de manejo de rechazos._
+
+_a.7. Plan de verificación y seguimiento de los residuos a ser tratados y rechazados._
+
+_a.8. Plan de contingencias._
+
+_a.9. Plan de emergencia._
+
+_b)_ _Tratándose de una estación de transferencia, además de lo señalado precedentemente:_
+_b.1. Descripción del sistema de carga y descarga de residuos._
+
+_b.2. Plan de medición y monitoreo de emisiones gaseosas._
+
+_b.3. Diseño del sistema de captación, conducción y manejo de líquidos lixiviados y de_
+
+_cualquier otro residuo líquido que se genere._
+
+_b.4. Descripción y diseño de zona de almacenamiento transitorio de residuos, si se_
+
+_contempla._
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **1**
+
+**Anexo AD 12: PAS 140**
+
+_c)_ _Tratándose de plantas de manejo de residuos orgánicos, además de lo señalado en las letras_
+_desde a.1) hasta a.9):_
+_c.1. Descripción del sistema perimetral de intercepción y evacuación de escorrentías_
+
+_superficiales._
+
+_c.2. Descripción del sistema de recolección y evacuación de las aguas que precipiten sobre_
+
+_la planta._
+
+_c.3. Descripción del sistema de monitoreo de la calidad del agua subterránea._
+
+_c.4. Programa de control de parámetros críticos de la de la planta._
+
+_d)_ _Tratándose de una planta de incineración, además de lo señalado en las letras desde a.1)_
+_hasta a.9):_
+_d.1._ _Programa de control de parámetros críticos de la operación del sistema._
+
+_d.2. Plan de medición y monitoreo de emisiones gaseosas._
+
+_e)_ _Tratándose de almacenamiento de residuos, además de lo señalado en las letras desde a.1)_
+_hasta a.9):_
+_e.1. Especificaciones técnicas de las características constructivas del sitio de_
+
+_almacenamiento y medidas de protección de condiciones ambientales._
+
+_e.2. Capacidad máxima de almacenamiento._
+
+_e.3. Descripción del tipo de almacenamiento, tales como a granel o en contenedores._
+
+A continuación, se presenta la información relativa al proyecto y que se relacionan con los
+
+contenidos considerados en el artículo N° 140 del Reglamento del Sistema de Evaluación de Impacto
+
+Ambiental para acreditar su cumplimiento.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **2**
+
+**Anexo AD 12: PAS 140**
+
+**2.** **ANTECEDENTES ARTÍCULO 140**
+
+**2.1.** **Generales**
+
+**2.1.1.** **Descripción y planos del sitio**
+
+Durante la fase de construcción, operación y cierre se contempla la generación de residuos sólidos
+
+domésticos y residuos sólidos industriales no peligrosos, para lo cual se habilitarán 6 sitios de
+
+almacenamiento de RSD y 5 para RSINP para su acopio temporal en fase de construcción, todos
+
+ubicados dentro del área del Parque Eólico. En la fase de operación se habilitará un sitio de
+
+almacenamiento de RSD en la Subestación.
+
+En las Tablas PAS 140 1, PAS 140 2, PAS 140 3, PAS 140 4, PAS 140 5, PAS 140 6 y PAS 140 7 a
+
+continuación se indican las coordenadas de los vértices de los sitios de almacenamiento temporal
+
+de residuos que se habilitarán en el marco de la fase de construcción y operación del Proyecto. Para
+
+la Fase de Cierre se consideran las bodegas utilizadas en IIFF y Campamento durante la fase de
+
+Construcción.
+
+**Tabla PAS 140 1:** Ubicación de los sitios en Campamento Parque Eólico - fase de construcción
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSD|V1|405.329|7.242.807|
+|RSD|V2|405.328|7.242.804|
+|RSD|V3|405.325|7.242.804|
+|RSD|V4|405.325|7.242.808|
+
+Fuente: Elaboración propia.
+
+**Tabla PAS 140 2:** Ubicación de los sitios en Instalación de faena Parque Eólico - fase de construcción
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSINP|V1|404.994|7.242.887|
+|RSINP|V2|405.005|7.242.884|
+|RSINP|V3|405.002|7.242.876|
+|RSINP|V4|404.992|7.242.879|
+|RSD|V1|405.016|7.242.881|
+|RSD|V2|405.005|7.242.884|
+|RSD|V3|405.002|7.242.876|
+|RSD|V4|405.013|7.242.872|
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **3**
+
+**Anexo AD 12: PAS 140**
+
+**Tabla PAS 140 3:** Ubicación de los sitios en Planta Hormigón Parque Eólico - fase de construcción
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSINP|V1|404.628|7.243.094|
+|RSINP|V2|404.621|7.243.094|
+|RSINP|V3|404.621|7.243.092|
+|RSINP|V4|404.628|7.243.092|
+|RSD|V1|404.620|7.243.094|
+|RSD|V2|404.612|7.243.094|
+|RSD|V3|404.612|7.243.092|
+|RSD|V4|404.620|7.243.092|
+
+Fuente: Elaboración propia.
+
+**Tabla PAS 140 4:** Ubicación de los sitios en Planta Chancado 1 Parque Eólico - fase de construcción
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSINP|V1|404.226|7.243.217|
+|RSINP|V2|404.226|7.243.210|
+|RSINP|V3|404.228|7.243.210|
+|RSINP|V4|404.228|7.243.217|
+|RSD|V1|404.226|7.243.226|
+|RSD|V2|404.226|7.243.218|
+|RSD|V3|404.228|7.243.218|
+|RSD|V4|404.228|7.243.226|
+
+Fuente: Elaboración propia.
+
+**Tabla PAS 140 5:** Ubicación de los sitios en Planta Chancado 2 Parque Eólico - fase de construcción
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSINP|V1|401.538|7.242.834|
+|RSINP|V2|401.538|7.242.827|
+|RSINP|V3|401.540|7.242.827|
+|RSINP|V4|401.540|7.242.834|
+|RSD|V1|401.538|7.242.844|
+|RSD|V2|401.538|7.242.837|
+|RSD|V3|401.540|7.242.837|
+|RSD|V4|401.540|7.242.844|
+
+Fuente: Elaboración propia.
+
+**Tabla PAS 140 6:** Ubicación de los sitios en Planta Chancado 3 Parque Eólico - fase de construcción
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSINP|V1|397.560|7.244.086|
+|RSINP|V2|397.560|7.244.079|
+|RSINP|V3|397.562|7.244.079|
+|RSINP|V4|397.562|7.244.086|
+|RSD|V1|397.560|7.244.096|
+|RSD|V2|397.560|7.244.089|
+|RSD|V3|397.562|7.244.089|
+|RSD|V4|397.562|7.244.096|
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **4**
+
+**Anexo AD 12: PAS 140**
+
+**Tabla PAS 140 7:** Ubicación de los sitios en Subestación Elevadora Parque Eólico - fase de operación
+
+|Obra|Vértice|Este|Norte|
+|---|---|---|---|
+|RSD|V1|400.820|7.242.844|
+|RSD|V2|400.825|7.242.845|
+|RSD|V3|400.826|7.242.839|
+|RSD|V4|400.821|7.242.839|
+
+Fuente: Elaboración propia.
+
+Como complemento, en las Figuras PAS 140 1 a PAS 140 7, se presentan la ubicación de los sitios
+
+que serán habilitados para el almacenamiento temporal de los RSINP y RSD durante la fase de
+
+construcción y operación del Proyecto. Para la Fase de Cierre se consideran las bodegas utilizadas
+
+en IIFF y Campamento durante la fase de Construcción.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **5**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 1:** Ubicación de las bodegas de RSD en Campamento Parque Eólico - fase de construcción.
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **6**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 2:** Ubicación de las bodegas de RSD y RSINP en Instalaciones de faena Parque Eólico - fase de construcción.
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **7**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 3:** Ubicación de las bodegas de RSD y RSINP en Planta de Hormigón Parque Eólico - fase de construcción
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **8**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 4:** Ubicación de las bodegas de RSD y RSINP en Planta de Chancado 1 Parque Eólico - fase de construcción
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **9**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 5:** Ubicación de las bodegas de RSD y RSINP en Planta de Chancado 2 Parque Eólico - fase de construcción
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **10**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 6:** Ubicación de las bodegas de RSD y RSINP en Planta de Chancado 3 Parque Eólico - fase de construcción
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **11**
+
+**Anexo AD 12: PAS 140**
+
+**Figura PAS 140 7:** Ubicación de las bodegas de RSD en Subestación- fase de Operación
+
+Fuente: Elaboración propia.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **12**
+
+**Anexo AD 12: PAS 140**
+
+Con respecto a un estudio del área que dé cuenta de los potenciales peligros naturales, en el Anexo
+
+A11-1 de la DIA ingresada, se realiza un análisis de los Riesgos Geológicos y de la posible
+
+susceptibilidad del Proyecto. Sin perjuicio de lo anterior, a continuación, se entregan las principales
+
+conclusiones de este análisis.
+
+En la fase de construcción del Proyecto se pueden generar procesos de erosión superficial en las
+
+rocas volcánicas y en los depósitos no consolidados y alteración leve del relieve natural de la zona.
+
+Sin embargo, esto no representa un riesgo o efecto en los procesos modeladores del relieve, por lo
+
+que estas componentes no se verán afectadas. En la etapa de operación del Proyecto las
+
+componentes no se verán afectadas.
+
+En cuanto a los riesgos presentes en el área del Proyecto, el riesgo sísmico es latente y permanente,
+
+debido a la actividad sísmica constante del país, siendo los sismos inter-placa los más recurrentes
+
+en el registro histórico. Sismos de alta magnitud son probables de ocurrir, a pesar de que su período
+
+de retorno es alto (último sismo importante en la zona norte fue Iquique 2015 con Mw=8,2), por lo
+
+que es necesario cumplir con los criterios de diseño de la norma sísmica para estar preparados para
+
+este tipo de eventos en cualquier momento que se produzcan.
+
+Respecto a los tipos de remociones de masa, tales como Deslizamiento de Suelo (DS),
+Desplazamiento de Roca (DR) y Caída de Roca (C), el umbral crítico de Índice de Susceptibilidad (IS)
+
+es menor a 50 (IS<50) propuesto por Lara (2017). Para el ISDS los valores alcanzan un máximo de
+
+27, lo que es menor al umbral, estimando que no existe riesgo asociado a aquella remoción. El ISDR
+
+los valores máximos alcanzan a 30, presentándose en zonas del sector N-W fuera del área donde se
+
+emplazará el proyecto.
+
+Finalmente, para el tipo de remoción de masa como la caída de rocas ISC, el valor máximo es de 23,
+
+en unidades geomorfológicas disgregadas que predominan en el sector N-O ubicado en los altos
+
+topográficos. Dichos valores son inferiores al umbral crítico. De acuerdo con lo anterior, es posible
+
+señalar que, en el área del Proyecto, debido a la evidencia expuesta, existe una baja susceptibilidad
+
+de ocurrencia en todos los tipos de remoción en masa estudiados.
+
+Las inundaciones y remociones en masa del tipo flujos de detrito o barro, dependen de la intensidad
+
+del evento meteorológico (precipitaciones extremas) y de la topografía del terreno. En el área del
+
+Proyecto, no se encuentran eventos anteriores documentados de este tipo ni quebradas
+
+importantes que puedan desarrollar flujos.
+
+Durante la fase de construcción, operación y cierre se contempla la generación de residuos sólidos
+
+domésticos y residuos sólidos industriales no peligrosos, para lo cual se habilitarán 6 sitios de
+
+almacenamiento de RSD y 5 para RSINP para su acopio temporal en fase de construcción y durante
+
+el cierre sólo se consideran las utilizadas en IIFF y Campamento de la fase de Construcción, todos
+
+ubicados dentro del área del Parque Eólico. En la fase de operación se habilitará un sitio de
+
+almacenamiento de RSD en la Subestación.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **13**
+
+**Anexo AD 12: PAS 140**
+
+Estos sitios de almacenamiento temporal estarán debidamente delimitados y señalizadas conforme
+
+a la segregación de residuos a realizar.
+
+El transporte y disposición final de estos residuos, se hará por un tercero autorizado y se dispondrán
+
+en sitios autorizados conforme al tipo de residuo que se trate. No habrá ningún tratamiento a estos
+
+residuos más que el almacenamiento temporal para su posterior retiro.
+
+El acopio temporal de RSD se realizará en la “Bodega RSD”, la cual se encontrará al interior de
+
+instalación de faenas, campamento, planta de hormigón, plantas de chancado y en el edificio de la
+
+subestación eléctrica en las diferentes fases. El acopio de RSD se realizará en contenedores cerrados
+
+en un recinto según características técnicas, la cual se describe en el numeral 2.5.1 y cuentan con
+
+superficie adecuada al volumen de residuos generados. Por otro lado, el acopio de RSINP se hará en
+
+una bodega, “Bodega RSINP”, donde se dispondrán estos residuos de forma ordenada, y en
+
+contenedores cerrados.
+
+En ambos casos, durante las fases de construcción y cierre, las bodegas estarán dispuestas dentro
+
+de las plataformas de terreno construidas para estas instalaciones. Las plataformas estarán
+
+ejecutadas consiguiendo una superficie de rasante uniforme mediante tongadas sucesivas de
+
+rellenos de material granular debidamente compactados para conseguir la adecuada capacidad
+
+portante del terreno. El análisis del área de emplazamiento refleja que no se observan potenciales
+
+riesgos naturales, morfológicos, ni ninguna otra tipología.
+
+A su vez, durante la fase de operación, se debe considerar que las obras donde se habilitarán estas
+
+bodegas corresponden a obras permanentes, por tanto, son obras de carácter sólido y de larga
+
+duración.
+
+**2.1.2.** **Descripción de variables meteorológicas relevantes**
+
+A continuación, se presenta un extracto de la caracterización meteorológica en el Área de Estudio
+
+del componente de clima y meteorología definida para el Proyecto, en función de los datos
+
+registrados por la estación de monitoreo “Taltal”.
+
+Los parámetros meteorológicos que se analizaron se obtuvieron de los datos registrados
+
+principalmente entre el año 2017 y 2019 en la siguiente estación meteorológica:
+
+**Tabla PAS 140 8:** Coordenadas y variables registradas por las estaciones de monitoreo.
+
+|Estación|Variables registradas|Inicio de<br>registros|Término<br>de registro|Coordenadas UTM (m)<br>WGS 84; Huso 18 Sur|Col6|
+|---|---|---|---|---|---|
+|**Estación**|**Variables registradas**|**Inicio de**<br>**registros**|**Término**<br>**de registro**|**Este**|**Norte**|
+|Taltal|• <br>Dirección y Velocidad del<br>Viento<br>• <br>T° medias<br>• <br>Humedad Relativa|Ene-2017|Dic 2019|350724|7188699|
+
+Fuente: Elaboración propia
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **14**
+
+**Anexo AD 12: PAS 140**
+
+A continuación, se presenta un resumen de las variables meteorológicas relacionadas al área de
+
+estudio del Proyecto, en el Anexo C2-1 se presenta en detalle la información asociada a las variables
+
+meteorológicas analizadas.
+
+ - Velocidad y dirección del viento
+
+En relación con la magnitud del viento, se aprecia que el valor promedio circula dentro de los 0 a 10
+
+nudos.
+
+Respecto de la dirección del viento, en la estación Centro, presentaron direcciones predominantes
+
+del viento hacia el Oeste y Noroeste.
+
+ - Temperatura
+
+Respecto a la temperatura, se concluye que presentan una temperatura media promedio de 17°C
+
+aproximadamente entre los años 2017 al 2019, alcanzando su máxima media en enero de 2017 con
+
+un 22,8°C.
+
+ - Humedad relativa
+
+En relación con la humedad relativa, se concluye que presenta un promedio diario de humedad
+
+relativa de un 67 %.
+
+**2.1.3.** **Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar**
+
+**Fase de construcción**
+
+ - RSD
+
+Durante la fase de construcción del Proyecto, se generarán residuos sólidos domésticos,
+
+correspondientes a basura de tipo domiciliaria, es decir, restos de alimentos y sus envases, papeles
+
+y cartones, entre otros. Para la estimación de la cantidad de residuos domésticos a generar, se
+
+considera una tasa de generación diaria de 0,9 kg/persona/día.
+
+Considerando lo anterior, y la mano de obra máxima durante esta fase (624 personas), se estima
+
+una generación de **13,5 ton/mes,** como volumen máximo durante esta fase del proyecto.
+
+ - RSINP
+
+Los residuos industriales no peligrosos (RSINP) generados en la fase de construcción corresponderán
+
+principalmente a escombros, restos de madera, clavos, despuntes de armado, excedentes de
+
+excavación, entre otros. Estos residuos se generarán tanto en la instalación de faenas como en los
+
+frentes de trabajo y serán almacenados en un sector habilitado para estos residuos, para ser
+
+retirados cada 3 meses.
+
+Se estima que durante la fase de construcción del Proyecto se generarán **10,4 ton/mes**
+
+aproximadamente.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **15**
+
+**Anexo AD 12: PAS 140**
+
+**Fase de operación**
+
+ - RSD
+
+Para la fase de operación se estima una generación de residuos sólidos domiciliarios (RSD) de 0,9
+
+kg/día por persona. Estos consisten principalmente en restos de comida, envases y envoltorios,
+
+papeles, desechos de alimentos y artículos de aseo personal entre otros.
+
+Considerando lo anterior, y la mano de obra máxima durante la fase de operación (10 personas), se
+
+estima una generación aproximada de **0,22 ton/mes.**
+
+ - RSINP
+
+No se contempla la generación de residuos sólidos industriales durante la operación del proyecto.
+
+Si debido a las actividades de mantención se llegaran a generar residuos sólidos industriales, estos
+
+serán retirados por las brigadas en los vehículos respectivos y llevados a lugares de disposición
+
+autorizados, ya sea de la empresa para almacenamiento temporal o directamente a disposición final
+
+en lugar autorizado. Se espera una generación de aproximadamente 50 kilos por mantención, lo que
+
+equivaldría a una generación aproximada de **0,05 ton/año**, considerando una mantención al año.
+
+**Fase de cierre**
+
+ - RSD
+
+Durante la fase de cierre del Proyecto se generarán residuos sólidos domésticos, correspondientes
+
+a basura de tipo domiciliaria, es decir, restos de alimentos y sus envases, papeles y cartones entre
+
+otros. Para la estimación de la cantidad de residuos domésticos a generar, se considera una tasa de
+
+generación diaria de 0,9 kg/persona/día.
+
+Considerando lo anterior, y una mano de obra máxima de 250 personas durante esta fase, se estima
+
+una generación de **5,4 ton/mes.**
+
+ - RSINP
+
+Los residuos industriales no peligrosos (RSINP) generados en la fase de cierre corresponden
+
+principalmente a escombros, restos de madera, clavos, despuntes de armado, excedentes de
+
+excavación, entre otros. Estos residuos se generarán tanto en la instalación de faenas como en los
+
+frentes de trabajo y serán almacenados en un sector habilitado para estos residuos, para ser
+
+retirados cada 3 meses.
+
+Se estima que durante la fase de cierre del Proyecto se generarán **6,3 ton/mes** aproximadamente.
+
+A modo de resumen se presenta en la siguiente tabla, las cantidades y detalles consolidados
+
+descritos anteriormente para los residuos industriales no peligros.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **16**
+
+**Anexo AD 12: PAS 140**
+
+**Tabla PAS 140 9:** Cantidad de RSINP en las distintas etapas del Proyecto.
+
+|Etapa|Unidad|Volumen|Detalles|
+|---|---|---|---|
+|**Construcción**|ton/mes|10,4|Escombros, restos de madera, clavos, despuntes<br>de armado, excedentes de excavación, entre<br>otros. Serán retirados cada 3 meses.|
+|**Operación**|ton/año|0,05|Si debido a las actividades de mantención se<br>llegaran a generar residuos sólidos industriales,<br>estos serán retirados por las brigadas en los<br>vehículos respectivos y llevados a lugares de<br>disposición autorizados.|
+|**Cierre**|ton/mes|6,3|Escombros, restos de madera, clavos, despuntes<br>de armado, excedentes de excavación, entre<br>otros.|
+
+**2.1.4.** **Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y**
+
+**equipamiento**
+
+El Proyecto no considera una planta de tratamiento para el manejo de residuos, ya que estos serán
+
+retirados por empresas autorizadas por la SEREMI de Salud de la Región de Antofagasta y
+
+dispuestos en lugares autorizados.
+
+**2.1.5.** **Formas de abatimiento de emisiones y de control y manejo de residuos**
+
+**Abatimiento de emisiones**
+
+Material Particulado:
+
+Se realizarán las siguientes acciones para mitigar la presencia de material particulado:
+
+ - Los caminos internos de servicio se mantendrán en todo momento en buen estado, a fin de
+
+facilitar el tránsito de vehículos.
+
+ - No exceder los 30 km/hr en las huellas no pavimentadas del Proyecto.
+
+ - Aplicar un supresor de polvo (bischofita) en los caminos en dirección a la instalación de faena.
+
+ - Humectar 3 veces al día con agua el resto de los caminos no pavimentados.
+
+ - Hacer una adecuada mantención mecánica de equipos, maquinaria y vehículos, por concepto
+
+de eficiencia operacional y minimización de emisiones atmosféricas (todas las mantenciones
+
+se realizarán en talleres autorizados, fuera del área del Proyecto).
+
+Olores y Vectores:
+
+En el caso de los residuos de tipo doméstico, el control de olores se realizará mediante el retiro
+
+periódico de éstos por empresas autorizadas y su almacenamiento en contenedores cerrados. Para
+
+el manejo de estos residuos se contemplan contenedores con tapas apropiadas, dispuestos en cada
+
+lugar donde se generen residuos domésticos, en sectores delimitados para tal efecto. Serán de
+
+plástico, sellados con tapa, de fácil traslado y lavables, además contarán con una bolsa plástica en
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **17**
+
+**Anexo AD 12: PAS 140**
+
+su interior, en buen estado, donde se depositarán los residuos domésticos.
+
+Estas bolsas serán cerradas al momento de ser retiradas desde los contenedores y una bolsa nueva
+
+será inmediatamente repuesta en el contenedor vacío. Las bolsas cerradas serán depositadas en el
+
+sector de acopio temporal de residuos domésticos, para posteriormente ser retirados por una
+
+empresa especializada contratada para efectuar el retiro, transporte y disposición final de los
+
+residuos en lugares autorizados.
+
+En el caso de los residuos industriales no peligrosos, los que cuenten con potencial de reciclaje o
+
+comercialización serán retirados por terceros para uso particular (subcontratista especialista y
+
+autorizado).
+
+**Control y manejo de residuos**
+
+Los principales puntos de generación de los residuos sólidos domésticos serán el campamento, la
+
+instalación de faenas, las Plantas de Chancado y Hormigón. Estos residuos serán recolectados
+
+mediante recipientes debidamente rotulados que contarán con tapas apropiadas para impedir el
+
+ingreso de vectores de interés sanitario (moscas, animales, roedores). Dichos recipientes, una vez
+
+que completen su capacidad, serán retirados desde el punto de generación y trasladados hasta el
+
+sitio de almacenamiento temporal de residuos correspondiente.
+
+El retiro de los residuos sólidos domésticos, desde el sitio de almacenamiento temporal se realizará
+
+dos veces por semana y se llevará el control de los retiros a través de los registros con que cuente
+
+el sitio de disposición final. Su retiro y disposición final será provisto por una empresa autorizada
+
+ante la Autoridad Sanitaria para dichos fines.
+
+Por su parte, los residuos industriales no peligrosos serán trasladados directamente desde los
+
+puntos de generación hasta los sitios de almacenamiento temporal de residuos ubicado en el
+
+campamento, la instalación de faenas, las Plantas de Chancado y Hormigón. El retiro lo realizará una
+
+empresa especialista en gestión de residuos industriales, autorizada por la autoridad competente,
+
+con una frecuencia aproximada de 3 meses, para disponerlos en un sitio final autorizado.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **18**
+
+**Anexo AD 12: PAS 140**
+
+**2.1.6.** **Descripción del sistema de manejo de rechazos**
+
+Debido a que no se efectuará un tratamiento de los residuos a almacenar, no habrá generación de
+
+rechazos.
+
+**2.1.7.** **Plan de verificación y seguimiento de los residuos a ser tratados y rechazados**
+
+Tal como se mencionó anteriormente, no se considera el tratamiento de residuos. Cabe mencionar
+
+que la disposición final de los residuos estará a cargo de una empresa especializada y autorizada
+
+para tal fin.
+
+**2.1.8.** **Plan de contingencias**
+
+Las medidas de contingencia que se tomarán estarán enfocadas principalmente a prevenir la
+
+ocurrencia de eventuales accidentes, permitiendo así el trabajo seguro del personal. Para esto, se
+
+resguardará la salud, el bienestar de los trabajadores y el medio ambiente, a través de la provisión
+
+de elementos de protección personal adecuados para cada una de las labores desempeñadas.
+
+Además, el Proyecto mantendrá un sistema de señalización compuesto por letreros de
+
+identificación de seguridad que indicarán los elementos de protección personal mínimo a utilizar al
+
+interior de la instalación, las vías de evacuación en caso de emergencias, los sistemas de extinción
+
+de incendio, la zona de seguridad, etc.
+
+Por otro lado, serán aplicadas las siguientes medidas:
+
+ - Se realizarán charlas a cada uno de los trabajadores cuya contratación sea directa o
+
+subcontratada. Se propone, al menos:
+
+✓ Dar a conocer los sitios de disposición de los distintos tipos de residuos;
+✓ Instruir respecto de la forma de disposición de los residuos, tanto por control sanitario
+
+como de orden e higiene de los frentes de trabajo y de la faena.
+
+ - Todo el personal que trabaje en el Proyecto será instruido respecto a la prevención de
+
+incendios y derrames, y tendrá conocimiento de los planes de contingencia y emergencia.
+
+ - Se implementará señalética en torno a los contenedores de residuos sólidos, de fácil lectura
+
+para los trabajadores.
+
+Medidas para prevenir contingencias por transporte de residuos:
+
+ - Se mantendrá en obra un registro de las empresas transportistas autorizadas para el
+
+transporte de residuos hacia el sitio de disposición final autorizado.
+
+ - Los transportistas deberán seguir los procedimientos de ingreso, circulación, descarga y carga
+
+que serán establecidos en el plan de seguridad del Proyecto.
+
+Medidas para prevenir contingencias por incendios:
+
+ - El plan de prevención de incendios se inicia en el diseño de las instalaciones. Se utilizarán
+
+criterios de diseño que consideren la locación y factores estructurales de seguridad.
+
+ - Todos los trabajadores se regirán por las medidas y obligaciones establecidas por el Titular del
+
+Proyecto para minimizar el riesgo de incendio.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **19**
+
+**Anexo AD 12: PAS 140**
+
+ - Se capacitará a los trabajadores en los procedimientos de trabajo seguro para las actividades
+
+que puedan presentar riesgos de incendios.
+
+ - Se dispondrán de defensas, protecciones y/o encerramientos en áreas donde se efectúen
+
+trabajos de oxicorte, soldadura, aserrado, corte y desbaste, mantenciones mecánicas y otros.
+
+ - En las instalaciones del Proyecto se dispondrá de los elementos básicos requeridos para
+
+combatir cualquier amago de fuego o incendio, según lo establecido por la normativa vigente
+en esta materia (extintores, mangueras, tambores con arena, etc.).
+
+ - Se proveerán, mantendrán e inspeccionarán los sistemas de extinción de fuego requeridos con
+
+la frecuencia que indique el fabricante.
+
+ - Se realizarán inspecciones a las instalaciones eléctricas y mantenimientos periódicos a las
+
+mismas con la frecuencia que indiquen las especificaciones del fabricante.
+
+ - Se conectarán a tierra los equipos que puedan generar chispas y almacenar electricidad
+
+estática.
+
+Medidas de prevención de riesgo de derrame de sustancias:
+
+ - Capacitación e instrucción del personal en temas sobre medio ambiente. Se exigirá a los
+
+contratistas que participen del Proyecto, la realización de capacitaciones al personal a través
+charlas sobre cómo evitar la contaminación, derrame durante el trasporte de carga de
+sustancias, el uso correcto de equipos y herramientas, medidas de protección: Se exigirá que
+los contratistas mantengan un registro actualizado de las actividades de capacitación.
+
+ - Mantención de la limpieza y orden. Las áreas de faenas se mantendrán limpias y ordenadas en
+
+la fase de construcción del Proyecto.
+
+ - Manejo adecuado de residuos. Segregación _in situ_ de residuos domésticos y asimilables, RINP
+
+y RIP, los que serán retirados directamente del área de faenas y destinados a sus centros de
+acopio.
+
+ - Contar en terreno con un kit de control de derrames que incluirá material absorbente, pala y
+
+bolsa de polietileno.
+
+ - Realizar una inspección constante y programada de los materiales de trabajo para asegurar que
+
+el equipo y los envases estén en buenas condiciones y guardados correctamente.
+
+**2.1.9.** **Plan de emergencia**
+
+Consideraciones generales:
+
+ - Las vías de evacuación y salidas de emergencia deben encontrarse señalizadas, habilitadas y
+
+libres de obstáculos en todo momento, para no entorpecer la evacuación del personal. El
+acceso a los equipos y elementos para combatir y controlar emergencias debe mantenerse
+siempre libre de obstáculos y debidamente señalizados.
+
+ - Las salidas destinadas para evacuación deberán poseer puertas que se abran hacia fuera, de
+
+tal manera de facilitar la evacuación.
+
+ - Los trabajadores deben conocer las vías de evacuación, las salidas de emergencia, puntos de
+
+reunión de emergencia o zonas de seguridad, la ubicación de los equipos para el control de la
+emergencia tales como extintores del área o sector en el cual desarrollan sus actividades,
+
+elementos de contención de derrames.
+
+ - Cada vez que un extintor ha sido usado en el control de algún amago de incendio, la persona
+
+deberá informar inmediatamente a su Encargado del Departamento de Seguridad y Prevención
+de Riesgos para que el extintor sea recargado. Este evento debe ser reportado como incidente.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **20**
+
+**Anexo AD 12: PAS 140**
+
+Procedimiento en caso de incidentes por residuos no peligrosos
+
+ - La construcción del Proyecto produce una acotada cantidad de residuos, claramente
+
+identificables y manejables.
+
+ - Los residuos no peligrosos corresponden a todos aquellos elementos exentos de cualquier
+
+contaminación por alguna sustancia química o algún residuo peligroso y que deberán
+
+eliminarse.
+
+ - Frente a cada incidente que se produzca por los elementos recientemente descritos, estos
+
+deberán ser acopiados en las zonas de trabajo, alejados de cualquier sustancia o residuos
+peligroso que los pueda contaminar, con el objeto de no contaminar el suelo.
+
+ - Una vez que se haga abandono de las zonas de trabajo, los residuos no peligrosos deberán ser
+
+trasladados a la Instalación de Faena del Proyecto, con objeto de ser derivados para su
+disposición final a través de la empresa correspondiente.
+
+Procedimiento en caso de incendio:
+
+ - Cada trabajador debe conocer la ubicación de los extintores y la forma de usarlos, mangueras
+
+contra incendios, salidas de emergencia y ubicación exacta de los teléfonos.
+
+ - En caso que ocurra un incendio, aquellas personas que lo descubran y aquellas del área cercana
+
+deberán primero solicitar ayuda al Encargado de Emergencias o al personal de Grupo de
+Respuesta, y explicar la situación, describir que tipo de fuego es (estructural, combustible,
+eléctrico, equipo mecánico, etc.) si es de menor o mayor envergadura, ubicación exacta, y si
+hay daños materiales, personales y cuántos trabajadores están involucrados, heridos o que
+necesiten atención médica, luego procurarán todos los intentos posibles para su extinción.
+
+ - Si el fuego está fuera de control, despeje el área. No corra ningún riesgo innecesario y espere
+
+que llegue personal de emergencias al lugar.
+
+ - En caso de evacuación del área afectada, el personal debe concurrir hasta la zona de seguridad
+
+afectada hasta que el incendio este completamente extinguido.
+
+ - El personal afectado por inhalación de humos, quemaduras, etc., debe ser trasladado a la
+
+brevedad al Policlínico u hospital para una atención médica de urgencia.
+
+ - Tratándose de un amago de incendio y en virtud del sector amagado, peligro o potencial, etc.,
+
+el Encargado de Emergencias en conjunto con el Encargado de Operaciones, estudiará la
+evacuación parcial o total del personal, como también coordinaran el ataque con los medios
+que, de acuerdo a la evaluación, se requieran.
+
+ - Desenergizar a la brevedad, todos los circuitos eléctricos del sector de la emergencia.
+
+Medidas y plan de emergencia por riesgo de derrame de sustancias:
+
+ - Informar al Supervisor y al Especialista Ambiental en turno.
+
+ - Evaluar la situación producida, detectar lugar exacto de la fuga y posibles reacciones tales como
+
+vapor, temperatura o humos. No ayudar a otros hasta saber lo que se enfrenta y se encuentra
+debidamente equipado.
+
+ - Si no conoce el producto derramado o en fuga, trate de identificarlo mediante la observación
+
+del etiquetado. Una vez identificado el producto, informe al personal especializado al momento
+de hacerse presente.
+
+ - Elimine o controle, cualquier fuente de ignición y/o llama abierta.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **21**
+
+**Anexo AD 12: PAS 140**
+
+ - No efectúe acciones de contención sin los elementos de protección personal y recursos
+
+materiales de absorción mecánica de sustancias. El personal especializado establecerá las
+acciones de contención requeridas.
+
+ - Si no se encuentra capacitado y no posee el equipo de protección personal para intervenir en
+
+su control, proceda a hacer abandono del lugar.
+
+ - Hacer el máximo esfuerzo para mantener confinado el derrame, evitando su avance.
+
+ - Cubrir con mezcla de arena seca, carbonato de sodio o tierra, nunca aserrín.
+
+ - Antes de retirar el residuo, se debe verificar que la mezcla de absorción esta seca antes de
+
+almacenarla, en caso contrario se debe agregar mayor cantidad de material absorbente.
+
+ - El contenedor donde se almacenarán los residuos debe ser de un material resistente al residuo.
+
+**2.2.** **Tratándose de una estación de transferencia, además de lo señalado precedentemente**
+
+El Proyecto no considera implementar una estación de transferencia de residuos, por lo tanto, no
+
+es aplicable este literal.
+
+**2.3.** **Tratándose de plantas de manejo de residuos orgánicos, además de lo señalado en las**
+
+**letras desde a.1) hasta a.9)**
+
+El Proyecto no considera implementar una planta de manejo de residuos orgánicos, por lo tanto,
+
+no es aplicable este literal.
+
+**2.4.** **Tratándose de una planta de incineración, además de lo señalado en las letras desde a.1)**
+
+**hasta a.9)**
+
+El Proyecto no considera implementar una planta de incineración de residuos, por lo tanto, no es
+
+aplicable este literal.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **22**
+
+**Anexo AD 12: PAS 140**
+
+**2.5.** **Tratándose de almacenamiento de residuos, además de lo señalado en las letras desde**
+
+**a.1) hasta a.9):**
+
+**2.5.1.** **Especificaciones técnicas de las características constructivas del sitio de**
+
+**almacenamiento y medidas de protección de condiciones ambientales**
+
+Los sitios de almacenamiento temporal de residuos no peligrosos contarán con un terreno
+
+estabilizado, piso nivelado, cierre perimetral, demarcación al interior de las áreas, señaléticas
+
+correspondientes y control de acceso para personal autorizado. Además, contarán con distintos
+
+sectores de modo que los residuos se almacenarán de forma segregada y ordenada, y contarán con
+
+un letrero que indique cada tipo de material a acopiar.
+
+Durante todas las fases del proyecto, los residuos no peligrosos que sea posible, serán depositados
+
+al interior de bolsas plásticas en contenedores tapados y debidamente rotulados en una bodega
+
+cerrada y techada, que los proteja de las condiciones climáticas (p. ej. sol, viento, lluvia, entre otras)
+
+e impida el acceso de personal no autorizado y de vectores sanitarios, tales como roedores, aves,
+
+entre otros. Estos contenedores serán lavados interior y exteriormente en forma periódica con agua
+
+y producto desinfectante. Aquellos residuos de mayor tamaño serán acopiados en sectores abiertos
+
+o cerrados (según su tipo) con las medidas de protección adecuadas hasta su disposición final. Los
+
+sitios de almacenamiento temporal de residuos no peligrosos contarán con puerta de acceso,
+
+ventilación natural y la señalización correspondiente.
+
+Las características de las bodegas de almacenamiento temporal de residuos no peligrosos en las
+
+fases de construcción y cierre se entregan en la Tabla PAS 140 10, a continuación:
+
+**Tabla PAS 140 10: Características de edificación de las bodegas.**
+
+|CARACTERÍSTICA|DESCRIPCIÓN|
+|---|---|
+|Tipo de cubierta|Estas bodegas serán de tipo modulares, con una estructura techada,<br>protegida de condiciones ambientales como humedad, temperatura,<br>radiación solar y eventuales precipitaciones.|
+|Cierre perimetral|Se considera un cierre perimetral con el fin de impedir el libre acceso de<br>personas y animales|
+|Piso|El piso será de una base continua, impermeable, lavable, resistente al calor<br>y al agua|
+|Sistema de contención de<br>derrames|No se considera sistema de contención, sin embargo, las bodegas<br>contarán con los implementos necesarios para asear la bodega en caso de<br>producirse algún volcamiento o derrame de residuos.|
+|Ventilación|Poseerán un sistema de ventilación natural mediante la construcción de<br>una sección con rejilla entre los muros y el techo.|
+|Sistema<br>de<br>lavado<br>e <br>higienización<br>de<br>contenedores|Los contenedores serán higienizados con sistemas de lavado a presión,<br>con agua y jabón o desengrasante, los residuos líquidos resultantes serán<br>conducidos a la PTAS que se encuentre más cercana.|
+
+Fuente: Elaboración propia
+
+Respecto a las dimensiones de los sitios de almacenamiento estas se encuentran señaladas y
+
+detalladas en las Figuras PAS 140 1 a PAS 140 7, del presente documento.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **23**
+
+**Anexo AD 12: PAS 140**
+
+**2.5.2.** **Capacidad máxima de almacenamiento**
+
+En las siguientes tablas se presenta la capacidad máxima de almacenamiento de cada sitio de acopio
+
+temporal.
+
+**Tabla PAS 140 11:** Capacidad máxima de almacenamiento en Fase de Construcción.
+
+|Instalación|Ubicación|Superficie [m2]|Capacidad máxima de<br>almacenamiento [m3]|
+|---|---|---|---|
+|Sitio de acopio de<br>RSD|Instalación de Faena Parque eólico|100,70|20|
+|Sitio de acopio de<br>RSD|Plantas de Chancado y Hormigón|15|3|
+|Sitio de acopio de<br>RSD|Campamento|12,80|3|
+|Sitio de acopio de<br>RSINP|Instalación de Faena Parque eólico|99,40|20|
+|Sitio de acopio de<br>RSINP|Plantas de Chancado y Hormigón|15|3|
+
+Fuente: elaboración propia.
+
+**Tabla PAS 140 12:** Capacidad máxima de almacenamiento en Fase de Operación.
+
+|Instalación|Ubicación|Superficie [m2]|Capacidad máxima de<br>almacenamiento [m3]|
+|---|---|---|---|
+|Sitio de acopio de<br>RSD|Subestación|25|5|
+
+Fuente: elaboración propia.
+
+**Tabla PAS 140 13:** Capacidad máxima de almacenamiento en Fase de Cierre.
+
+|Instalación|Ubicación|Superficie [m2]|Capacidad máxima de<br>almacenamiento [m3]|
+|---|---|---|---|
+|Sitio de acopio de<br>RSD|Instalación de Faena Parque eólico|100,70|20|
+|Sitio de acopio de<br>RSD|Campamento|12,80|3|
+|Sitio de acopio de<br>RSINP|Instalación de Faena Parque eólico|99,40|20|
+
+**2.5.3.** **Descripción del tipo de almacenamiento, tales como a granel o en contenedores**
+
+El tipo de almacenamiento de los residuos generados por el Proyecto será mediante contenedores,
+
+de acuerdo al tipo de residuo. Los contenedores serán retirados y transportados por una empresa
+
+especializada y autorizada para este tipo de actividades.
+
+A continuación, se detalla la forma de almacenamiento de los residuos en las distintas fases:
+
+**Residuos domésticos:** Durante la fase de construcción, operación y cierre los residuos sólidos
+
+domésticos serán recolectados mediante recipientes debidamente rotulados que contarán con
+
+tapas apropiadas para impedir el ingreso de vectores de interés sanitario (moscas, animales,
+
+roedores). Dichos recipientes una vez que completen su capacidad, serán retirados desde el punto
+
+de generación y trasladados hasta el sitio de almacenamiento temporal de residuos.
+
+**Residuos industriales no peligrosos:** Durante la fase de construcción y cierre los residuos serán
+
+trasladados diariamente desde los puntos de generación hasta el sitio de almacenamiento temporal
+
+de residuos.
+
+**Adenda** **DIA Parque Eólico Lomas de Taltal** **24**

@@ -1,0 +1,21 @@
+---
+title: Presentacion1
+author: Desconocido
+date: D:20131217232028Z
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|EFLUENTE|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|e=-2.33|e=-2.33|e=-2.33|e=-2.33|e=-2.33|e=-2.33|e=-2.33|||||||||||
+|e=-2.33|e=-2.33|e=-2.33|e=-2.33|e=-2.33|e=-2.33|e=-2.33|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|&,'20<br>CT=-0.50|1<br>|
+||||||||~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~Crs=-1.2~~<br>H=0.70|~~0~~|
+||||||||||||||||||
+|CRe=-1.15<br>CRe=-4.25<br>&,'201<br>CT=00.00<br>Cre=-1.08<br>Crs=-1.10<br>SO<br>OFICINA Y<br>SALA DE TABLEROS|CRe=-1.15<br>CRe=-4.25<br>&,'201<br>CT=00.00<br>Cre=-1.08<br>Crs=-1.10<br>SO<br>OFICINA Y<br>SALA DE TABLEROS|CRe=-1.15<br>CRe=-4.25<br>&,'201<br>CT=00.00<br>Cre=-1.08<br>Crs=-1.10<br>SO<br>OFICINA Y<br>SALA DE TABLEROS|CRe=-1.15<br>CRe=-4.25<br>&,'201<br>CT=00.00<br>Cre=-1.08<br>Crs=-1.10<br>SO<br>OFICINA Y<br>SALA DE TABLEROS|CRe=-1.15<br>CRe=-4.25<br>&,'201<br>CT=00.00<br>Cre=-1.08<br>Crs=-1.10<br>SO<br>OFICINA Y<br>SALA DE TABLEROS|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|SALA DE<br>PLADORES<br>G<br>~~EM~~|DRENAJE<br>=-2.91<br>1.28<br>Crs=-3.51<br>Crs=-2.83<br>SALA<br>CLORACION<br>CAMARA<br>DE CONTACTO|
+|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|LODOS A DESHIDRATADO<br>Cr=-2.55<br>Cr=-1.38<br>~~E~~<br>ON<br>Cr=+0.70<br>Cr=-0.20<br>TRATAMIENTO PRELIMINAR|
+|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A|Crs=+0.30<br><br>H=1.10<br>~~ESTANQU~~<br>DE AIREACI<br>LINEA BY-PASS DE SELECTOR A CAMARA DE CONTACTO<br>LINEA RETORNO A||||~~ESTANQU~~<br>DE AIREACI|~~ESTANQU~~<br>DE AIREACI|~~E~~<br>ON|~~E~~<br>ON|||||||||

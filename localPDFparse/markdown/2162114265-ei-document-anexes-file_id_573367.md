@@ -1,0 +1,72 @@
+---
+title: Patio RINP
+author: Desconocido
+date: D:20240514082048
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|Col26|Col27|Col28|Col29|Col30|Col31|Col32|Col33|Col34|Col35|Col36|Col37|Col38|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||190|||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+
+|5|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|Col26|Col27|Col28|Col29|Col30|Col31|Col32|Col33|Col34|Col35|Col36|Col37|Col38|Col39|Col40|Col41|Col42|Col43|Col44|Col45|Col46|Col47|Col48|Col49|Col50|Col51|Col52|Col53|Col54|Col55|Col56|Col57|Col58|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|212|212|212|212|212|212|212|212|212|212|212|212|212|212|212|212|212|212|212|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||212|||||190|||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||212|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+|Col1|Col2|Col3|
+|---|---|---|
+||||
+||190<br>10|190<br>10|
+
+|Col1|Col2|PERFIL METÁLICO ALAMBRE DE<br>5X10X0,3CM PÚAS IOWA|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|Col26|Col27|Col28|Col29|Col30|Col31|Col32|Col33|Col34|Col35|Col36|Col37|Col38|Col39|Col40|Col41|Col42|Col43|Col44|Col45|Col46|Col47|Col48|Col49|Col50|Col51|Col52|Col53|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||5||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||25|5||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|260|||||
+
+|PERFIL METÁLICO PERFIL METÁLICO<br>5X5X0,3CM PERFIL METÁLICO PERFIL METÁLICO PERFIL METÁLICO 15X15X0,3CM PERFIL METÁLICO PERFIL METÁLICO<br>5 5 5X5X0,3CM PERFIL METÁLICO PERFIL METÁLICO 15X15X0,3CM<br>5X5X0,3CM 5X5X0,3CM 5X5X0,3CM<br>5X5X0,3CM 5X5X0,3CM<br>10<br>10<br>PERFIL METÁLICO<br>PERFIL METÁLICO<br>15X5X0,3CM<br>15X5X0,3CM<br>CERCO<br>CERCO<br>GALVANIZADO<br>GALVANIZADO<br>300<br>222<br>210 212 190 222 220<br>210 190<br>PERFIL EN ÁNGULO PERFIL METÁLICO<br>PERFIL EN ÁNGULO PERFIL METÁLICO<br>LAMINADO COMO RIEL 15X5X0,3CM<br>LAMINADO COMO RIEL 15X5X0,3CM<br>300<br>200<br>DETALLE MODULO PORTON CORREDIZO 3.0 mtrs DETALLE MODULO PORTON CORREDIZO 2.0 mtrs<br>ESC 1:20 ESC 1:20<br>20<br>8 7 5<br>2 2 2<br>PERFIL METÁLICO ALAMBRE DE PERFIL METÁLICO ACCESO ACCESO ACCESO<br>PORTÓN CORREDIZO METÁLICO PORTÓN CORREDIZO METÁLICO<br>5X10X0,3CM PÚAS IOWA 5X10X0,3CM<br>CIERRE PERIMETRAL<br>PERIMETRAL<br>40 40<br>PERIMETRAL<br>PATIO DESPUNTE DE PATIO OTROS PATIO<br>GOMAS RESIDIOS NO DESPUNTE DE 5<br>PELIGROSOS MADERA CIERRE<br>CERCO<br>GALVANIZADO 10 10<br>METÁLICO<br>CIERRE<br>250 250<br>ACCESO<br>PATIO DESPUNTE DE 210 210 CORREDIZO<br>CHATARRA DE FIERROS 5 3<br>5 5 PORTÓN<br>255<br>CIERRE PERIMETRAL CIERRE PERIMETRAL<br>15 5<br>20 N<br>PLANTA PATIO RINP<br>ESC 1:100<br>260<br>PROYECTO 30 30<br>FUNDACIÓN FUNDACIÓN PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.<br>HORMIGÓN HORMIGÓN<br>30 30<br>MATERIA : PLANTA DE ARQUITECTURA , DETALLE DE CIERRE , DETALLE DE PORTON CORREDIZO<br>DETALLE MODULO CIERRE PERIMETRAL LÁMINA<br>UBICACIÓN : a 10KM Suroeste de Localidas Nantoco,Distrito MINERA Las Pintadas , Comuna de Tierra Amarilla ,<br>Región de Atacama<br>ESC 1:20 PROPIETARIO : M INERA Altair S.A.<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F. FECHA : MAYO 2024 MINERA Altair S.A.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com REPRESENTANTE LEGAL : MINERA Altair S.A. RUT 77.447.003-4 1/2<br>Representante Legal<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155 RUT REP.LEGAL : 77.447.003-4|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|260<br>210<br>40<br>210<br>40<br>250<br>250<br>255<br>PERFIL METÁLICO<br>5X10X0,3CM<br>PERFIL METÁLICO<br>5X10X0,3CM<br>ALAMBRE DE<br>PÚAS IOWA<br>CERCO<br>GALVANIZADO<br>5<br>5<br>30<br>30<br>FUNDACIÓN<br>HORMIGÓN<br>FUNDACIÓN<br>HORMIGÓN<br>30<br>30<br>CIERRE PERIMETRAL<br>CIERRE PERIMETRAL<br>10<br>20<br>CIERRE<br>PERIMETRAL<br>ACCESO<br>5<br>15<br>20<br>PORTÓN CORREDIZO METÁLICO<br>2<br>PATIO<br>DESPUNTE DE<br>MADERA<br>10<br>5<br>5<br>7<br>ACCESO<br>2<br>PATIO OTROS<br>RESIDIOS NO<br>PELIGROSOS<br>PATIO DESPUNTE DE<br>GOMAS<br>8<br>ACCESO<br>2<br>PORTÓN CORREDIZO METÁLICO<br>5<br>PATIO DESPUNTE DE<br>CHATARRA DE FIERROS<br>CIERRE<br>PERIMETRAL<br>CIERRE<br>PERIMETRAL<br>3<br>PORTÓN CORREDIZO METÁLICO<br>ACCESO<br>222<br>212<br>300<br>210<br>190<br>10<br>PERFIL METÁLICO<br>15X15X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>15X5X0,3CM<br>PERFIL EN ÁNGULO<br>LAMINADO COMO RIEL<br>PERFIL METÁLICO<br>15X5X0,3CM<br>CERCO<br>GALVANIZADO<br>300<br>5<br>5<br>222<br>220<br>210<br>190<br>10<br>PERFIL METÁLICO<br>15X15X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL EN ÁNGULO<br>LAMINADO COMO RIEL<br>PERFIL METÁLICO<br>15X5X0,3CM<br>CERCO<br>GALVANIZADO<br>200<br>PERFIL METÁLICO<br>15X5X0,3CM<br>PROYECTO<br>1/2<br>LÁMINA<br>DETALLE MODULO CIERRE PERIMETRAL<br>ESC 1:20<br>N<br>PLANTA PATIO RINP<br>ESC 1:100<br>DETALLE MODULO PORTON CORREDIZO 3.0 mtrs<br>ESC 1:20<br>DETALLE MODULO PORTON CORREDIZO 2.0 mtrs<br>ESC 1:20<br>MATERIA : PLANTA DE ARQUITECTURA , DETALLE DE CIERRE , DETALLE DE PORTON CORREDIZO<br>UBICACIÓN : a 10KM Suroeste de Localidas Nantoco,Distrito MINERA Las Pintadas , Comuna de Tierra Amarilla ,<br>PROPIETARIO : MINERA Altair S.A.<br>FECHA :<br>REPRESENTANTE LEGAL : MINERA Altair S.A.<br>MINERA Altair S.A.<br> Representante Legal<br>RUT 77.447.003-4<br>RUT REP.LEGAL : 77.447.003-4<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155<br> Región de Atacama<br>MAYO 2024<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|PROYECTO<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|PROYECTO<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|PROYECTO<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|PROYECTO<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|
+|260<br>210<br>40<br>210<br>40<br>250<br>250<br>255<br>PERFIL METÁLICO<br>5X10X0,3CM<br>PERFIL METÁLICO<br>5X10X0,3CM<br>ALAMBRE DE<br>PÚAS IOWA<br>CERCO<br>GALVANIZADO<br>5<br>5<br>30<br>30<br>FUNDACIÓN<br>HORMIGÓN<br>FUNDACIÓN<br>HORMIGÓN<br>30<br>30<br>CIERRE PERIMETRAL<br>CIERRE PERIMETRAL<br>10<br>20<br>CIERRE<br>PERIMETRAL<br>ACCESO<br>5<br>15<br>20<br>PORTÓN CORREDIZO METÁLICO<br>2<br>PATIO<br>DESPUNTE DE<br>MADERA<br>10<br>5<br>5<br>7<br>ACCESO<br>2<br>PATIO OTROS<br>RESIDIOS NO<br>PELIGROSOS<br>PATIO DESPUNTE DE<br>GOMAS<br>8<br>ACCESO<br>2<br>PORTÓN CORREDIZO METÁLICO<br>5<br>PATIO DESPUNTE DE<br>CHATARRA DE FIERROS<br>CIERRE<br>PERIMETRAL<br>CIERRE<br>PERIMETRAL<br>3<br>PORTÓN CORREDIZO METÁLICO<br>ACCESO<br>222<br>212<br>300<br>210<br>190<br>10<br>PERFIL METÁLICO<br>15X15X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>15X5X0,3CM<br>PERFIL EN ÁNGULO<br>LAMINADO COMO RIEL<br>PERFIL METÁLICO<br>15X5X0,3CM<br>CERCO<br>GALVANIZADO<br>300<br>5<br>5<br>222<br>220<br>210<br>190<br>10<br>PERFIL METÁLICO<br>15X15X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL EN ÁNGULO<br>LAMINADO COMO RIEL<br>PERFIL METÁLICO<br>15X5X0,3CM<br>CERCO<br>GALVANIZADO<br>200<br>PERFIL METÁLICO<br>15X5X0,3CM<br>PROYECTO<br>1/2<br>LÁMINA<br>DETALLE MODULO CIERRE PERIMETRAL<br>ESC 1:20<br>N<br>PLANTA PATIO RINP<br>ESC 1:100<br>DETALLE MODULO PORTON CORREDIZO 3.0 mtrs<br>ESC 1:20<br>DETALLE MODULO PORTON CORREDIZO 2.0 mtrs<br>ESC 1:20<br>MATERIA : PLANTA DE ARQUITECTURA , DETALLE DE CIERRE , DETALLE DE PORTON CORREDIZO<br>UBICACIÓN : a 10KM Suroeste de Localidas Nantoco,Distrito MINERA Las Pintadas , Comuna de Tierra Amarilla ,<br>PROPIETARIO : MINERA Altair S.A.<br>FECHA :<br>REPRESENTANTE LEGAL : MINERA Altair S.A.<br>MINERA Altair S.A.<br> Representante Legal<br>RUT 77.447.003-4<br>RUT REP.LEGAL : 77.447.003-4<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155<br> Región de Atacama<br>MAYO 2024<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155|MATERIA : PLANTA DE ARQUITECTURA , DETALLE DE CIERRE , DETALLE DE PORTON CORREDIZO<br>UBICACIÓN : a 10KM Suroeste de Localidas Nantoco,Distrito MINERA Las Pintadas , Comuna de Tierra Amarilla ,<br>PROPIETARIO : MINERA Altair S.A.<br>FECHA :<br>REPRESENTANTE LEGAL : MINERA Altair S.A.<br>RUT REP.LEGAL : 77.447.003-4<br> Región de Atacama<br>MAYO 2024|MINERA Altair S.A.<br> Representante Legal<br>RUT 77.447.003-4|LÁMINA|
+|260<br>210<br>40<br>210<br>40<br>250<br>250<br>255<br>PERFIL METÁLICO<br>5X10X0,3CM<br>PERFIL METÁLICO<br>5X10X0,3CM<br>ALAMBRE DE<br>PÚAS IOWA<br>CERCO<br>GALVANIZADO<br>5<br>5<br>30<br>30<br>FUNDACIÓN<br>HORMIGÓN<br>FUNDACIÓN<br>HORMIGÓN<br>30<br>30<br>CIERRE PERIMETRAL<br>CIERRE PERIMETRAL<br>10<br>20<br>CIERRE<br>PERIMETRAL<br>ACCESO<br>5<br>15<br>20<br>PORTÓN CORREDIZO METÁLICO<br>2<br>PATIO<br>DESPUNTE DE<br>MADERA<br>10<br>5<br>5<br>7<br>ACCESO<br>2<br>PATIO OTROS<br>RESIDIOS NO<br>PELIGROSOS<br>PATIO DESPUNTE DE<br>GOMAS<br>8<br>ACCESO<br>2<br>PORTÓN CORREDIZO METÁLICO<br>5<br>PATIO DESPUNTE DE<br>CHATARRA DE FIERROS<br>CIERRE<br>PERIMETRAL<br>CIERRE<br>PERIMETRAL<br>3<br>PORTÓN CORREDIZO METÁLICO<br>ACCESO<br>222<br>212<br>300<br>210<br>190<br>10<br>PERFIL METÁLICO<br>15X15X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>15X5X0,3CM<br>PERFIL EN ÁNGULO<br>LAMINADO COMO RIEL<br>PERFIL METÁLICO<br>15X5X0,3CM<br>CERCO<br>GALVANIZADO<br>300<br>5<br>5<br>222<br>220<br>210<br>190<br>10<br>PERFIL METÁLICO<br>15X15X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL METÁLICO<br>5X5X0,3CM<br>PERFIL EN ÁNGULO<br>LAMINADO COMO RIEL<br>PERFIL METÁLICO<br>15X5X0,3CM<br>CERCO<br>GALVANIZADO<br>200<br>PERFIL METÁLICO<br>15X5X0,3CM<br>PROYECTO<br>1/2<br>LÁMINA<br>DETALLE MODULO CIERRE PERIMETRAL<br>ESC 1:20<br>N<br>PLANTA PATIO RINP<br>ESC 1:100<br>DETALLE MODULO PORTON CORREDIZO 3.0 mtrs<br>ESC 1:20<br>DETALLE MODULO PORTON CORREDIZO 2.0 mtrs<br>ESC 1:20<br>MATERIA : PLANTA DE ARQUITECTURA , DETALLE DE CIERRE , DETALLE DE PORTON CORREDIZO<br>UBICACIÓN : a 10KM Suroeste de Localidas Nantoco,Distrito MINERA Las Pintadas , Comuna de Tierra Amarilla ,<br>PROPIETARIO : MINERA Altair S.A.<br>FECHA :<br>REPRESENTANTE LEGAL : MINERA Altair S.A.<br>MINERA Altair S.A.<br> Representante Legal<br>RUT 77.447.003-4<br>RUT REP.LEGAL : 77.447.003-4<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155<br> Región de Atacama<br>MAYO 2024<br>PATIO DE RESIDUOS NO PELIGROSOS . MINERA ALTAIR S.A.|ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155|MATERIA : PLANTA DE ARQUITECTURA , DETALLE DE CIERRE , DETALLE DE PORTON CORREDIZO<br>UBICACIÓN : a 10KM Suroeste de Localidas Nantoco,Distrito MINERA Las Pintadas , Comuna de Tierra Amarilla ,<br>PROPIETARIO : MINERA Altair S.A.<br>FECHA :<br>REPRESENTANTE LEGAL : MINERA Altair S.A.<br>RUT REP.LEGAL : 77.447.003-4<br> Región de Atacama<br>MAYO 2024|MINERA Altair S.A.<br> Representante Legal<br>RUT 77.447.003-4|1/2|

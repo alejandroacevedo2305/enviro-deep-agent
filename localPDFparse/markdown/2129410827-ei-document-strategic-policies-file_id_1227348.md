@@ -1,0 +1,778 @@
+---
+title: ARTÍCULO 15
+author: Paola Schnettler
+date: D:20140417040047Z00'00'
+language: es
+type: general
+pages: 3
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**ARTÍCULO
+ 15.
+ RELACIÓN
+ CON
+ LAS
+ POLÍTICAS
+ Y
+ PLANES
+ EVALUADOS
+ ESTRATÉGICAMENTE**
+
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ la
+ modificación
+ de
+ la
+ “Piscicultura
+ Chinquihue”,
+ de
+Sociedad
+ de
+ Inversiones
+ Lago
+ Sofía
+ Ltda.,
+ la
+ cual
+ se
+ ubica
+ en
+ Chinquihue
+ (sector
+ Río
+ Chincui),
+comuna
+ de
+ Puerro
+ Montt,
+ Región
+ de
+ Los
+ Lagos.
+ El
+ objetivo
+ del
+ proyecto
+ es
+ la
+ modificación
+ de
+ la
+piscicultura
+ implementando
+ un
+ módulo
+ de
+ recirculación
+ consistente
+ en
+ 8
+ estanques
+ de
+ 100
+ m [3]
+cada
+ uno,
+ adicionalmente
+ aumentar
+ en
+ 40
+ unidades
+ las
+ bateas
+ de
+ incubación,
+ haciendo
+ un
+ total
+ de
+200
+ y
+ reemplazar
+ el
+ actual
+ filtro
+ rotatorio
+ por
+ dos
+ unidades
+ de
+ última
+ generación
+ de
+ 550
+ lps
+ cada
+uno,
+ lo
+ que
+ permite
+ una
+ mejora
+ sustancial
+ en
+ el
+ sistema
+ de
+ tratamiento
+ de
+ RILes.
+
+La
+ relación
+ del
+ proyecto
+ con
+ las
+ Políticas
+ y
+ Planes
+ evaluados
+ estratégicamente
+ está
+ referida
+ a
+aquellos
+ que
+ han
+ sido
+ sometidos
+ a
+ Evaluación
+ Ambiental
+ Estratégica,
+ conforme
+ al
+ Artículo
+ 7°
+ bis
+de
+ la
+ Ley
+ N°
+ 19.300,
+ sobre
+ Bases
+ Generales
+ del
+ Medio
+ Ambiente
+ (modificada
+ por
+ la
+ Ley
+ N°
+ 20.417)
+y/o
+
+ Artículo
+ 2°
+ transitorio
+ del
+ Decreto
+ 40
+ de
+ 2013
+ que
+ Aprueba
+ Reglamento
+ del
+ Sistema
+ de
+Evaluación
+ de
+ Impacto
+ Ambiental.
+ En
+ este
+ sentido,
+ se
+ contempla
+ la
+ “Zonificación
+ del
+ Borde
+Costero
+ Región
+ de
+ Los
+ Lagos”,
+ “Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ 2004”, “Plan
+ Regional
+ de
+Ordenamiento
+ Territorial,
+ PROT
+ Región
+ de
+ Los
+ Lagos”
+ y
+ “Plan
+ Regulador
+ Comunal
+ Puerto
+ Montt
+(2008)”.
+
+**Zonificación
+ del
+ Borde
+ Costero
+ Región
+ de
+ Los
+ Lagos**
+
+La
+ Región
+ cuenta
+ con
+ una
+ Propuesta
+ Preliminar
+ de
+ Macrozonificación
+ del
+ Borde
+ Costero
+ y
+ que
+posee
+ recomendaciones
+ de
+ la
+ Secretaría
+ Regional
+ Ministerial
+ del
+
+ Ministerio
+ del
+ Medio
+ Ambiente
+como
+ parte
+ de
+ la
+ Evaluación
+ Ambiental
+ Estratégica
+ (2012) [1] .
+ Dentro
+ de
+ esta
+ zonificación
+ es
+ posible
+situar
+ la
+ piscicultura
+ dentro
+ de
+ la
+ “Zona
+ preferente
+ urbana
+ mayor”.
+
+De
+ los
+ objetivos
+ ambientales
+ de
+ la
+ Propuesta,
+ es
+ posible
+ vincular
+ el
+ proyecto
+ con
+ el
+ objetivo
+“Propender
+ a
+ la
+ valoración
+ de
+ las
+ actividades
+ económicas
+ en
+ armonía
+ con
+ el
+ medio
+ ambiente
+ en
+ la
+búsqueda
+ de
+ minimizar
+ los
+ impactos
+ negativos
+ y
+ potenciar
+ la
+ producción
+ limpia
+ y
+ responsabilidad
+ambiental
+ de
+ los
+ usuarios
+ del
+ borde
+ costero”.
+ Cabe
+ destacar
+ que
+ este
+ objetivo
+ presenta
+recomendaciones
+ que
+ apuntan
+ a
+ revisar
+ su
+ formulación,
+ esto
+ en
+ el
+ marco
+ de
+ las
+ observaciones
+Secretaría
+ Regional
+ Ministerial
+ del
+ Ministerio
+ del
+ Medio
+ Ambiente.
+ La
+ formulación
+ de
+ indicadores
+para
+ este
+ objetivo
+ es
+ la
+ siguiente:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa de<br>mejoramiento<br>capacidad de<br>tratamiento de<br>RILEs|Mejoramiento de<br>sistema de<br>tratamiento de RILEs|Encargado<br>piscicultura<br>|1=existencia de<br>sistema de<br>tratamiento de<br>RILEs<br>0=inexistencia de<br>sistema de<br>tratamiento de<br>RILEs|Se ampliará en un<br>10% la capacidad<br>de tratamiento<br>RILEs|Registros<br>caudalímetro|
+|Cumplimiento de<br>lanormativa|Implementación de<br>sistemade|Encargado<br>piscicultura|1=existencia de<br>sistemasde|Al inicio de<br>operaciónla|Registro de<br>monitoreode|
+
+1 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/28
+
+**Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ 2004**
+
+La
+ piscicultura
+ se
+ sitúa
+ dentro
+ de
+ un
+ “Área
+ de
+ uso
+ industrial”
+ (en
+ virtud
+ de
+ la
+ expansión
+ urbana
+ de
+la
+ comuna
+ registrada
+ en
+ los
+ último
+ años),
+ configurada
+ a
+ lo
+ largo
+ de
+ borde
+ costero
+ de
+ Chinquihue
+por
+ empresas
+ e
+ industrias
+ ligadas
+ a
+ la
+ actividad
+ portuaria,
+ naval
+ y
+ de
+ procesamiento
+ de
+ productos
+del
+ mar.
+ Toda
+ vez
+ que
+ la
+ piscicultura
+ implementará
+ mejoras
+ que
+ buscan
+ ampliar
+ su
+ capacidad productiva,
+ y
+dada
+ su
+ cercanía
+ al
+ borde
+ costero
+ de
+ Chinquihue,
+ sector
+ Río
+ Chincui,
+ se
+ proponen
+ los
+ siguientes
+indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa de<br>mejoramiento<br>capacidad de<br>tratamiento de<br>RILEs|Mejoramiento de<br>sistema de<br>tratamiento de<br>RILEs|Encargado<br>piscicultura<br>|1=existencia de<br>sistema de<br>tratamiento de<br>RILEs<br>0=inexistencia de<br>sistema de<br>tratamiento de<br>RILEs|Se ampliará en<br>un 10% la<br>capacidad de<br>tratamiento<br>RILEs|Registros<br>caudalímetro|
+|Cumplimiento<br>de la normativa<br>sanitaria|Implementación de<br>sistema de<br>desinfección de<br>efluentes|Encargado<br>piscicultura<br>|1=existencia de<br>sistemas de<br>desinfección<br>0=inexistencia de<br>sistemas de<br>desinfección|Al inicio de<br>operación la<br>piscicultura<br>contará con un<br>sistema de<br>desinfección|Registro de<br>monitoreo de<br>desinfección|
+
+**Plan
+ Regional
+ de
+ Ordenamiento
+ Territorial,
+ PROT
+ Región
+ de
+ Los
+ Lagos**
+
+El
+ Plan
+ Regional
+ de
+ Ordenamiento
+ Territorial,
+ PROT
+ Región
+ de
+ Los
+ Lagos
+ se
+ encuentra
+ en
+ proceso
+de
+ Evaluación
+ Ambiental
+ Estratégica,
+ habiendo
+ sido
+ ingresado
+ a
+ evaluación
+ el
+ 5
+ de
+ noviembre
+ de
+2013 [2] .
+ Tiene
+ su
+ origen
+ en
+ el
+ cumplimiento
+ de
+ los
+ lineamientos,
+ políticas
+ y
+ programas
+ establecidos
+en
+ la
+ Estrategia
+ Regional
+ de
+ Desarrollo,
+ y
+ su
+ propósito
+ es
+ servir
+ de
+ apoyo
+ para
+ la
+ toma
+ de
+decisiones
+ de
+ la
+ gestión,
+ planificación
+ e
+ inversión
+ regional.
+ En
+ este
+ sentido,
+ resulta
+ complejo
+ poder
+establecer
+ una
+ relación
+ directa
+ con
+ sus
+ objetivos
+ ambientales,
+ toda
+ vez
+ que
+ estos
+ corresponden
+ a
+objetivos
+ regionales
+ a
+ nivel
+ macro.
+ No
+ obstante,
+ y
+ en
+ virtud
+ del
+ objetivo
+ “Estimular
+ y
+ promover
+ la
+generación
+ de
+ estudios
+ e
+ instrumentos
+ de
+ Planificación
+ complementarios
+ al
+ PROT,
+ que
+ aborden
+temáticas
+ sectoriales
+ de
+ impacto
+ y
+ alcance
+ territorial
+ contingentes
+ a
+ la
+ situación
+ específica
+ de
+ la
+Región
+ de
+ Los
+ Lagos...”,
+ se
+ ha
+ de
+ reconocer
+ que
+ la
+ comuna
+ de
+ Puerto
+ Montt
+ ha
+ definido
+ dentro
+ de
+sus
+ roles
+ el
+ productivo-­‐acuícola.
+ En
+ este
+ sentido,
+ el
+ emplazamiento
+ del
+ proyecto
+ en
+ una
+ zona
+urbana
+ de
+ “Uso
+ de
+ Suelo
+ Actividades
+ Productivas
+ AP-­‐2”
+ (Plan
+ Regulador
+ Comunal
+ Puerto
+ Montt
+
+2 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/146
+
+2008)
+ y
+ “Zona
+ preferente
+ urbana
+ mayor”
+ (Zonificación
+ del
+ Borde
+ Costero
+ Región
+ de
+ Los
+ Lagos)
+resulta
+ compatible
+ con
+ el
+ uso
+ de
+ suelo
+ propuesto.
+
+**Plan
+ Regulador
+ Comunal
+ Puerto
+ Montt
+ 2008
+ (PRC)**
+
+La
+ piscicultura
+ se
+ sitúa
+ dentro
+ del
+ área
+ urbana
+ de
+ Puerto
+ Montt,
+ con
+ lo
+ cual
+ no
+ existe
+incompatibilidad
+ del
+ proyecto
+ respecto
+ de
+ usos
+ de
+ suelo
+ en
+ áreas
+ rurales.
+ De
+ la
+ zonificación
+ del
+PRC,
+ el
+ proyecto
+ se
+ emplaza
+ en
+ una
+ zona
+ urbana
+ de
+ “Uso
+ de
+ Suelo
+ Actividades
+ Productivas
+ AP-­‐2”,
+en
+ donde
+ las
+ actividades
+ industriales
+ permitidas
+ son
+ de
+ carácter
+ “sólo
+ inofensivas
+ y
+ molestas”.
+ En
+virtud
+ de
+ la
+ ubicación
+ del
+ proyecto
+ se
+ proponen
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa de<br>mejoramiento<br>capacidad de<br>tratamiento de<br>RILEs|Mejoramiento de<br>sistema de<br>tratamiento de RILEs|Encargado<br>piscicultura<br>|1=existencia de<br>sistema de<br>tratamiento de<br>RILEs<br>0=inexistencia de<br>sistema de<br>tratamiento de<br>RILEs|Se ampliará en un<br>10% la capacidad<br>de tratamiento<br>RILEs|Registros<br>caudalímetro|
+|Cumplimiento de<br>la normativa<br>sanitaria|Implementación de<br>sistema de<br>desinfección de<br>efluentes|Encargado<br>piscicultura<br>|1=existencia de<br>sistemas de<br>desinfección<br>0=inexistencia de<br>sistemas de<br>desinfección|Al inicio de<br>operación la<br>piscicultura<br>contará con un<br>sistema de<br>desinfección|Registro de<br>monitoreo de<br>desinfección|

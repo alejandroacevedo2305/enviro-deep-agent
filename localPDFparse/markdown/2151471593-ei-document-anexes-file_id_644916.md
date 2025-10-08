@@ -1,0 +1,30 @@
+---
+title: Modelo
+author: Desconocido
+date: D:20210315003537
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|1|ZONA DE VEGETACIÓN|
+|---|---|
+|**2**|OFICINAS|
+|**3**|CASETA PETRÓLEO|
+|4|CONTAINER|
+|5|AGUAS LLUVIAS|
+
+|16|PRODUCTO TERMINADO|
+|---|---|
+|17|ZONA DE DESCARGA DE CORTEZAS|
+|18|PAD ORGÁNICOS|
+|19|PILAS DE VOLTEO|
+|20|TRINCHERAS|
+
+|21|ESTACIONAMIENTO VEHÍCULOS|
+|---|---|
+|22|ESTACIONAMIENTO MAQUINARIA|
+|23|ZONA DE ALMACENAMIENTO Y CARGA DE<br>PRODUCTO TERMINADO (SUSTRATO BASE<br>Y COMPOST)|

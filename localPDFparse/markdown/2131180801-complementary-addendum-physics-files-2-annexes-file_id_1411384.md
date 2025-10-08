@@ -1,0 +1,4462 @@
+---
+title: Microsoft Word - ADENDA_2_ Malgarida II_ VF.DOCX
+author: Manuel Antonio Pizarro Morales
+date: D:20160805173229Z00'00'
+language: es
+type: report
+pages: 28
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+Documento
+ preparado
+ por:
+
+**TEBAL,
+ Estudios
+ e
+ ingeniería
+ ambiental**
+
+AVENIDA
+ PORTUGAL
+ 20,
+ OFICINA
+ 77,
+ SANTIAGO
+ DE
+ CHILE
+
+Teléfono +56
+ 2
+ 3702958
+
+Fax +56
+ 2
+ 3695657
+
+Email info@tebal.cl
+
+Website www.tebal.cl
+
+## REGISTRO
+ DE
+ CONTROL
+ DE
+ DOCUMENTO**
+
+|TÍTULO D EL D OCUMENTO|Col2|PLANTA F OTOVOLTAICA M ALGARIDA I I|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|**ID de documento** <br>|**ID de documento** <br>|ADENDA Complementaria<br>Malgarida II|**Número de proyecto**|**Número de proyecto**|||
+|**Versión**|**Fecha**|**Detalle/Estado**|**Autor**|**Revisión**<br>**TEBAL**|**Revisión**<br>**CLIENTE**|**Aprobado**<br>**por**|
+||||||||
+||||||||
+
+### CONTENIDO
+
+1. INTRODUCCIÓN........................................................................................................................... 4
+
+2. DESCRIPCIÓN
+ DE
+ PROYECTO ....................................................................................................... 4
+
+3. NORMATIVA
+ DE
+ CARÁCTER
+ AMBIENTAL
+ APLICABLE................................................................. 19
+
+4. PERMISOS
+ AMBIENTALES
+ SECTORIALES.................................................................................... 21
+
+5. PARTICIPACIÓN
+ CIUDADANA..................................................................................................... 22
+
+## 1. INTRODUCCIÓN
+
+El
+ presente
+ documento,
+ denominado **Adenda
+ Complementaria**,
+ contiene
+ las
+ respuestas
+ del
+ titular
+a
+ las
+ observaciones
+ formuladas
+ por
+ los
+ organismos
+ de
+ la
+ administración
+ del
+ estado
+ con
+competencia
+ ambiental,
+ en
+ el
+ marco
+ de
+
+ la
+ evaluación
+ ambiental
+ del
+ Proyecto
+ " **Planta
+ fotovoltaica**
+**Malgarida
+ II** ",
+ de
+ acuerdo
+ a
+ lo
+ establecido
+ en
+ el
+ artículo
+ 38
+ del
+ DS
+ 40/2012,
+ recibidas
+ por
+ parte
+ del
+titular
+ a
+ través
+ del
+ documento
+ " _Informe
+ Consolidado
+ de
+ Solicitud
+ de
+ Aclaraciones,
+ Rectificaciones_
+_y/o
+ Ampliaciones
+ Complementario
+ a
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ del
+ Proyecto
+ "PLANTA_
+_FOTOVOLTAICA
+ MALGARIDA
+ II_ "
+
+ Oficio
+ Ordinario
+ No
+
+ 131
+ de
+ fecha
+ 1
+ de
+ julio
+ de
+ 2016,
+ del
+ Director
+del
+ Servicio
+ de
+ Evaluación
+ Ambiental
+ de
+ la
+ región
+ de
+ Atacama.
+
+## 2. DESCRIPCIÓN
+ DE
+ PROYECTO**
+
+**1.
+ Se
+ solicita
+ al
+ corregir
+ los
+ valores
+ de
+ agua
+ industrial
+ entregados
+ en
+ la
+ Tabla
+ 2-­‐4
+ de
+ la
+ Adenda,**
+**pues
+ no
+ queda
+ claro
+ si
+ este
+ consumo
+ corresponde
+ al
+ total
+ de
+ la
+ fase
+ o
+ al
+ consumo
+ diario.**
+**Además,
+ se
+ solicita
+ incluir
+ en
+ el
+ consumo
+ de
+ agua
+ industrial,
+ el
+ agua
+ utilizada
+ para
+ la
+ limpieza
+ de**
+**paneles
+ fotovoltaico,
+ pues
+ en
+ dicha
+ tabla
+ no
+ lo
+ incluye.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ a
+ continuación
+ se
+ presenta
+ la
+ información
+ corregida
+ en
+ la
+ siguiente Tabla
+
+2-­‐1 :
+
+**Tabla
+ 2-­‐1** **Tabla
+ resumen
+ de
+ insumos
+ por
+ fase
+ del
+ Proyecto**
+
+|Cantidad por fase|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**Insumos**<br>|**Unidad de**<br>**tiempo**|**Construcción**|**Operación**|**Cierre**|
+|Agua potable (m~~3~~)<br>|día|50|1,5|8|
+|Agua Industrial (m~~3~~)<br>|día|5|0|4|
+|Lavado paneles (m~~3~~)|año|0|1.075|0|
+|Combustible (l)|mes|1.000|50|250|
+|Maquinarias (Un)|fase|59|2|10|
+|Sustancias Peligrosas (kg)|mes|148|5|0|
+|Hormigón (m3)|fase|850|0|0|
+|Energía eléctrica (Wh)|mes|10.000|2.000|3.500|
+
+Fuente:
+ Elaboración
+ propia
+
+**RESIDUOS**
+**2.
+ Se
+ indica
+ al
+ Proponente
+ que
+ los
+ Residuos
+ industriales
+ no
+ peligrosos
+ (los
+ generados
+ en**
+**procesos
+ de,
+ embalaje
+ y
+ otros),
+ deben
+ ser
+ dispuestos
+ en
+ relleno
+ controlado.
+ Además,
+ se
+ aclara**
+**que
+ solo
+ los
+ residuos
+ asimilables
+ a
+ domiciliarios
+ (los
+ generados
+ en
+ los
+ baños,
+ casinos,
+ oficinas,**
+**etc.)
+ pueden
+ ser
+ dispuestos
+ en
+ rellenos
+ sanitarios.
+ Se
+ indica
+ al
+ Proponente
+ que
+ deberá
+ declarar**
+**sus
+ residuos
+ peligroso
+ por
+ medio
+ digital,
+ a
+ través
+ del
+ sistema
+ VUSIDREP.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación
+ de
+ acuerdo
+ al
+ siguiente
+ detalle:
+
+ - El
+ titular
+ se
+ compromete
+ a
+ que
+ los **RSINP** serán
+ lllevados
+ a
+ un
+ Relleno
+ Controlado
+autorizado
+ como
+ sitio
+ de
+ disposición
+ final
+
+ - Los **RSD** serán
+ llevados
+ a
+ un
+ Relleno
+ Sanitario
+ autorizado
+ como
+ sitio
+ de
+ disposicón
+ final
+
+ Durante
+ todas
+ las
+ fases
+ del
+ Proyecto,
+ el
+ titular
+ declarará
+ sus **RESPEL** por
+ medio
+ digital,
+ a
+través
+ del
+ sistema
+ VUSIDREP.
+
+**INSUMOS**
+**3.
+ Se
+ solicita
+ al
+ Proponente
+ rectificar
+ o
+ corregir
+ las
+ Tablas
+ 2-­‐4
+ “Resumen
+ de
+ insumos
+ por
+ fase
+ del**
+**Proyecto”
+ y
+ Tabla
+ 2-­‐6
+ “Resumen
+ Insumos
+ a
+ utilizar
+ subestación
+ Malgarida
+ II”
+ de
+ la
+ Adenda,
+ pues**
+**no
+ queda
+ claro
+ en
+ que
+ unidad
+ de
+ tiempo
+ están
+ expresado
+ los
+ valores.
+ Además,
+ el
+ Proponente**
+**deberá
+ especificar
+ en
+ ambas
+ tablas
+ los
+ residuos
+ peligrosos,
+ para
+ ello
+ se
+ solicita
+ confeccionar
+ una**
+**tabla
+ que
+ especifique
+ cada
+ sustancia
+ peligrosa
+ y
+ en
+ qué
+ fase
+ del
+ proyecto
+ será
+ utilizada.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ a
+ continuación
+ se
+ presenta
+ la
+ información
+ corregida
+ y
+ solicitada
+ en
+ las
+siguientes
+ tablas:
+
+**Tabla
+ 2-­‐2** **Tabla
+ resumen
+ de
+ insumos
+ por
+ fase
+ del
+ Proyecto**
+
+|Cantidad por fase|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**Insumos**<br>|**Unidad**<br>**de**<br>**tiempo**|**Construcción**|**Operación**|**Cierre**|
+|Agua potable (m~~3~~)<br>|día|50|1,5|8|
+|Agua Industrial (m~~3~~)<br>|día|5|0|4|
+|Lavado paneles (m~~3~~)|año|0|1.075|0|
+|Combustible (l)|mes|1.000|50|250|
+|Maquinarias (Un)|fase|59|2|10|
+|Sustancias Peligrosas (kg)|mes|148|5|0|
+|Hormigón (m3)|fase|850|0|0|
+|Energía eléctrica (Wh)|mes|10.000|2.000|3.500|
+
+Fuente:
+ Elaboración
+ propia
+
+**Tabla
+ 2-­‐3** **Resumen
+ insumos
+ a
+ utilizar
+ subestación
+ Malgarida
+ II**
+
+|Cantidad por fase|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|**Insumos**<br>|**Unidad de**<br>**tiempo**|**Construcción**|**Operación**|**Cierre**|
+|Agua potable (m~~3~~)<br>|día|5|0|0.5|
+|Agua Industrial (m~~3~~)|día|0.5|0.4|0.4|
+|Combustible (l)|mes|100|5|25|
+|Maquinarias (Un)|fase|5|1|1|
+|Sustancias Peligrosas (kg)<br>|mes|15|0.5|0|
+|Hormigón (m~~3~~)|fase|85|0|0|
+|Energía eléctrica (Wh)|mes|1.000|200|350|
+
+Fuente:
+ Elaboración
+ propia
+
+**Tabla
+ 2-­‐4** **Tabla
+ resumen
+ de
+ residuos
+ peligrosos
+ por
+ fase
+ del
+ Proyecto**
+
+|FASE DE CONSTRUCCIÓN|Col2|
+|---|---|
+|**RESIDUOS PELIGROSOS**|**RESIDUOS PELIGROSOS**|
+|**Nombre**|**Descripción**|
+|Residuos sólidos peligrosos (RESPEL)|• <br>**Tipo:** Residuos de aceites. lubricantes, grasas,<br>pinturas, envases y huaipes contaminados. Todos<br>aquellos que si presentan las características de<br>peligrosidad definidas en el D.S. N°148/2004.<br>• <br>**Cantidad:**0,59 ton/mes <br>• <br>**Manejo**: Contenedores herméticos, sellados con<br>tapa, en bodega temporal de residuos peligrosos <br>• <br>**Frecuencia de retiro**: máximo 6 meses <br>• <br>**Disposición final:** Relleno de seguridad autorizado.|
+|**FASE DE OPERACIÓN**|**FASE DE OPERACIÓN**|
+|**RESIDUOS PELIGROSOS**|**RESIDUOS PELIGROSOS**|
+|**Nombre**|**Descripción**|
+|Residuos sólidos peligrosos (RESPEL)|• <br>**Tipo:** Durante la fase de operación,** podrían**<br>**generarse los siguientes RESPEL**:<br>`o` <br>Paneles fotovoltaicos o sus partes, ya sea<br>por roturas, reemplazo o vencimiento de<br>su vida útil. Los paneles y sus<br>componentes serán tratados como<br>RESPEL hasta que el titular no demuestre<br>lo contrario mediante los análisis de<br>laboratorio respectivos<br>`o` <br>Residuos generados durante las<br>mantenciones de equipos de la<br>subestación, paños contaminados o tierra<br>contaminada.<br>`o` <br>Cualquier otro residuo generado durante<br>alguna contingencia del proyecto que sea<br>calificado como residuo peligroso<br>• <br>**Cantidad:** Materiales contaminados 35 Kg/año<br>aprox; Partes o piezas de paneles fotovoltaicos 40<br>Kg/año aprox. <br>• <br>**Manejo**: Contenedores herméticos, sellados con<br>tapa,enbodegatemporalderesiduospeligrosos.|
+
+|Col1|Paneles FV completos se almacenará a granel en<br>BAT RESPEL.<br>• Frecuencia de retiro: máximo 6 meses<br>• Disposición final: Relleno de seguridad autorizado|
+|---|---|
+|**FASE DE CIERRE**|**FASE DE CIERRE**|
+|**RESIDUOS PELIGROSOS**|**RESIDUOS PELIGROSOS**|
+|**Nombre**|**Descripción**|
+|Residuos sólidos peligrosos (RESPEL)|• <br>**Tipo:** Residuos de aceites, lubricantes, grasas,<br>pinturas, envases y huaipes contaminados. Paneles<br>fotovoltaicos o sus partes. Los paneles y sus<br>componentes serán tratados como RESPEL hasta<br>que el titular no demuestre lo contrario mediante<br>los análisis de laboratorio respectivos.<br>• <br>Todos aquellos que si presentan las características<br>de peligrosidad definidas en el D.S. N°148/2004.<br>• <br>**Cantidad:**148,9 Kg/mes; 0,9 ton/fase (6 meses) <br>• <br>**Manejo**: Contenedores herméticos, sellados con<br>tapa, en bodega temporal de residuos peligrosos <br>• <br>**Frecuencia de retiro**: al final de la fase de cierre,<br>no mayor a 6 meses. <br>• <br>**Disposición final:** Relleno de seguridad autorizado|
+
+Fuente:
+ Elaboración
+ propia
+
+**5.
+ En
+ la
+ respuesta
+ 23,
+ letra
+ g,
+ el
+ Proponente
+ señala
+ “se
+ compromete
+ a
+ humectar
+ los
+ caminos
+ sin**
+**bischofita,
+ con
+ una
+ frecuencia
+ de
+ 1
+ vez/día
+ durante
+ la
+ fase
+ de
+ construcción.
+ Señala;
+ “Cualquier**
+**modificación
+ será
+ oportunamente
+ informada
+ a
+ la
+ autoridad”.
+ Al
+ respecto,
+ se
+ aclara
+ al**
+**Proponente
+ que
+ durante
+ la
+ presente
+ evaluación
+ debe
+ quedar
+ definida
+ la
+ frecuencia
+ y
+ consumo**
+**del
+ recurso
+ hídrico.
+ Por
+ lo
+ anterior,
+ debe
+ entregar
+ frecuencia
+ y
+ consumo
+ de
+ agua
+ para**
+**humectación.
+ Además,
+ debe
+ justificar
+ técnicamente
+ si
+ la
+ frecuencia
+ de
+ humectación
+ propuesta**
+**es
+ suficiente
+ como
+ medida
+ de
+ control
+ de
+ material
+ particulado.**
+
+**RESPUESTA**
+Con
+ respecto
+ a
+ la
+ actividad
+ de
+ humectación
+ de
+ caminos
+ internos,
+ se
+ indica
+ que
+ la
+ construcción
+ de
+la
+ planta
+ fotovoltaica
+ se
+ realizará
+ en
+ un **plazo
+ de
+ 14
+ meses** y
+ se
+ ejecutará **avanzando**
+**secuencialmente** y
+ de
+ manera
+ ordenada
+ en
+ forma
+ de
+ bloques
+ cuadrados
+ de
+ 90.000
+ m [2] cada
+ uno
+(300
+ x
+ 300
+ m
+ en
+ planta)
+ hasta
+ completar
+ los
+ 44
+ bloques
+ que
+ comprende
+ la
+ superficie
+ total
+ de
+paneles
+ dentro
+ del
+ proyecto.
+
+Considerando
+ este
+ avance
+ constructivo
+ secuencial,
+ se
+ minimizan
+ las
+ emisiones
+ de
+ material
+particulado,
+ ya
+ que
+ la
+ humectación
+ se
+ concentrará
+ en
+ los
+ frentes
+ donde
+ se
+ está
+ ejecutando
+ cada
+bloque
+ de
+ 90.000
+ m [2
+ ] y
+ en
+ la
+ humectación
+ de
+ los
+ bloques
+ contiguos
+ ya
+ finalizados.
+
+**Figura
+ 2-­‐1** **Referencia
+ de
+ avance
+ por
+ bloques
+ fase
+ de
+ construcción**
+
+Fuente:
+ Elaboración
+ propia
+
+Entonces,
+ considerando
+ el
+ bloque
+ unitario
+ de
+ 300
+ x
+ 300
+ m,
+ en
+ términos
+ de
+ humectación
+ se
+obtiene
+ el
+ siguiente
+ detalle:
+
+1. **Bloque
+ activo:** Humectación
+ de
+ caminos
+ bloque
+ activo
+ de
+ 300
+ x
+ 300
+ m
+ en
+ construcción,
+
+2.100
+ m
+ de
+ caminos
+ alrededor
+ y
+ dentro
+ del
+ bloque.
+ Para
+ este
+ bloque
+ se
+ considerarán **3**
+**humectaciones
+ por
+ día**
+2. **Bloque
+ inactivo** :
+ Humectación
+ de
+ caminos
+ del
+ bloque
+ contiguo
+ ya
+ ejecutado,
+ 2.100
+ m
+ de
+
+caminos
+ alrededor
+ y
+ dentro
+ del
+ bloque.
+ Para
+ este
+ bloque
+ se
+ considerará **1
+ humectación**
+**por
+ día** dado
+ que
+ no
+ tendrá
+ tránsito
+ vehicular.
+
+De
+ esta
+ manera
+ es
+ posible
+ justificar
+ los
+ 4
+ m [3] de
+ humectación
+ de
+ caminos
+ declarados
+anteriormente
+ en
+ la
+ Adenda
+ No
+ 1
+ ( Tabla
+ 2-­‐5 ):
+
+**Tabla
+ 2-­‐5** **Detalle
+ de
+ cálculo
+ de
+ agua
+ industrial
+ humectación
+ de
+ caminos**
+
+|Items|Cantidad|Unidad|
+|---|---|---|
+|NecesidaddeCamiones4,000l|1|un|
+|CantidaddekmsProyecto|2,1|Kms.|
+|Cantidaddepasadasdia|3|un|
+|Cantidaddekmsa humectar|8,4|Kms.|
+|Velocidaddecirculación|10|Km/hr|
+
+|Items|Cantidad|Unidad|
+|---|---|---|
+|horasefectivasdia|3|Hrs.|
+|Distanciadíacamion|30|Km.|
+|Humectación|5|%|
+|Velocidaddedescarga|2,22|lts/seg|
+|Consumo(lts/Hp*hr)|0,15||
+|Tiempodedescarga|30|min|
+|Carga+ vueltaa zonadetrabajo|60|min|
+|**Consumototalaproximado**|**4 **|**m3/día**|
+
+Fuente:
+ Elaboración
+ propia
+
+Como
+ se
+ mencionó
+ en
+ el
+ acápite
+ g)
+ de
+ la
+ respuesta
+ No
+ 23
+ de
+ la
+ Adenda
+ No
+ 1,
+ la
+ humectación
+ de
+caminos
+ internos
+ se
+ realizará
+ hasta
+ que
+ se
+ complete
+ la
+ estabilización
+ de
+ 9
+ kms
+ de
+ caminos
+ internos
+con
+ bischofita,
+ con
+ re-­‐aplicación
+ del
+ estabilizador
+ cada
+ 5
+ años
+ de
+ uso
+ ( Tabla
+ 2-­‐6 ).
+
+**Tabla
+ 2-­‐6** **Tabla
+ resumen
+ humectación
+ de
+ caminos
+ internos**
+
+|Ítem|Construcción|Operación|Cierre|
+|---|---|---|---|
+|**Consumo Agua industrial humectación**<br>**de caminos**|4 m3/día|0|4 m3/día|
+|**Frecuencia de humectación**|_ Bloque activo:3<br>veces/día<br>_ Bloque inactivo:1<br>vez/día|0|1 vez/día|
+
+Fuente:
+ Elaboración
+ propia
+
+El
+ Titular
+ especificará
+ a
+ la
+ Superintendencia
+ de
+ Medio
+ Ambiente,
+ antes
+ de
+ la
+ ejecución
+ del
+proyecto,
+ la
+ fuente
+ de
+ abastecimiento
+ de
+ agua
+ y
+ los
+ derechos
+ de
+ aprovechamiento
+ que
+ serán
+ejercidos,
+ adjuntando
+ los
+ antecedentes
+ respectivos.
+ Previo
+ al
+ inicio
+ de
+ la
+ construcción
+ del
+ Proyecto
+y
+ durante
+ la
+ fase
+ de
+ tramitación
+ de
+ permisos
+ sectoriales,
+ el
+ Titular
+ explicitará
+ ante
+ la
+ autoridad
+competente
+ quién
+ será
+ el
+ proveedor,
+ el
+ volumen
+ de
+ agua
+ a
+ utilizar
+ y
+ resolución
+ de
+ la
+ DGA,
+ Región
+de
+ Atacama,
+ que
+ autoriza
+ el
+ ejercicio
+ del
+ derecho
+ a
+ la
+ empresa
+ proveedora.
+ Además,
+ el
+ Titular
+reportará
+ el
+ consumo
+ de
+ agua
+ cada
+ 6
+ meses,
+ a
+ la
+ Superintendencia
+ de
+ Medio
+ Ambiente,
+disponiendo,
+ además,
+ en
+ oficinas
+ de
+ la
+ faena
+ toda
+ la
+ información
+ relacionada
+ a
+ estos
+ registros
+ y
+sus
+ respectivas
+ autorizaciones
+ durante
+ todas
+ las
+ fases
+ del
+ Proyecto.
+
+Con
+ respecto
+ a
+ las
+ emisiones
+ atmosféricas
+ producto
+ del
+ tránsito
+ de
+ vehículos
+ por
+ caminos
+ no
+pavimentados
+ (Anexo
+ A-­‐
+ Estimación
+ y
+ Modelación
+ de
+ Emisiones
+ Adenda
+ 2-­‐)
+ en
+ las
+ tablas
+ siguientes
+
+**se
+ presenta
+ su
+ estimación
+ con
+ y
+ sin
+ medidas
+ de
+ abatimiento,** las
+ cuales
+ son
+ consideradas
+ de
+menor
+ magnitud
+ durante
+ los
+ 14
+ meses
+ de
+ construcción
+ del
+ Proyecto, emisiones que se verán
+
+significativamente disminuidas unas vez estabilizados los caminos internos con bischofita, lo cual
+
+se espera ocurra al tercer mes de la fase de construcción.
+
+**Tabla
+ 2-­‐7** **Tránsito
+ de
+ vehículos
+ livianos
+ por
+ caminos
+ no
+ pavimentados.**
+
+|FUENTE|EMISIÓN|FÓRMULA FE1<br>(g/Km)|FE<br>(g/Km)|NA<br>(Km/Fase)|EMISIÓN<br>SIN ABAT.<br>(Ton/Fase)|EMISIÓN<br>CON ABAT.<br>(Ton/Fase)|
+|---|---|---|---|---|---|---|
+|Tránsito de<br>camionetas por<br>caminos no<br>pavimentados|MP10||180,417|13.944|2,515|0,629|
+|Tránsito de<br>camionetas por<br>caminos no<br>pavimentados|MP2,5<br>||17,953|17,953|0,250|0,0626|
+|Tránsito de<br>camionetas por<br>caminos no<br>pavimentados|MPS||575,21|575,21|8,021|2,005|
+
+Fuente:
+ Elaboración
+ propia
+
+**Tabla
+ 2-­‐8** **Tránsito
+ de
+ vehículos
+ pesados
+ por
+ caminos
+ no
+ pavimentados**
+
+|FUENTE|EMISIÓN|FÓRMULA FE2<br>(g/Km)|FE<br>(g/Km)|NA<br>(Km/Fase)|EMISIÓN<br>SIN ABAT.<br>(Ton/Fase)|EMISIÓN<br>CON ABAT.<br>(Ton/Fase)|
+|---|---|---|---|---|---|---|
+|Tránsito de<br>vehículos<br>pesados por<br>vías no<br>pavimentadas|MP10|FE (MP10)= 422,85*<br>|571,34|64.869|37,06|9,266|
+|Tránsito de<br>vehículos<br>pesados por<br>vías no<br>pavimentadas|MP2,5<br>|FE (MP2,5)= 42,285*<br>|57,13|57,13|3,06|0,926|
+|Tránsito de<br>vehículos<br>pesados por<br>vías no<br>pavimentadas|MPS|FE (MP2,5)= 1.381,31*<br>|2.179,16|2.179,16|141,36|35,34|
+
+1 Tabla
+ 4,
+ página
+ 33
+ (B&S
+ Consultores,
+ 2015).
+2 Tabla
+ 4,
+ página
+ 33
+ (B&S
+ Consultores,
+ 2015).
+
+Fuente:
+ Elaboración
+ propia
+
+**EMISIONES**
+**6.
+ Se
+ solicita
+ al
+ Proponente
+ entregar
+ la
+ fórmula
+ completa
+ para
+ los
+ factores
+ de
+ emisión
+ (FE)**
+**utilizados
+ para
+ la
+ estimación
+ de
+ material
+ paticulado,
+ señalado
+ en
+ el
+ Anexo
+ C
+ de
+ la
+ Adenda,**
+**debido
+ a
+ que
+ los
+ valores
+ de
+ los
+ factores
+ de
+ emisión
+ (FE)
+ en
+ las
+ tablas
+ para
+ la
+ estimación
+ de**
+**emisión
+ por
+ actividad,
+ no
+ se
+ encuentran
+ completos.**
+
+**RESPUESTA**
+El
+ Titular
+ aclara
+ que
+ el
+ error
+ de
+ formato
+ de
+ las
+ fórmulas
+ mencionadas
+ se
+ debió
+ al
+ trasapaso
+ del
+documento
+ desde
+ el
+ formato
+ Word
+ a
+ PDF.
+ Como
+ se
+ indica
+ en
+ el
+ Anexo
+ C
+ de
+ la
+ Adenda
+ No
+ 1,
+ la
+metodología
+ empleada
+ corresponde
+ a
+ aquella
+ propuesta
+ por
+ la
+ propia
+ autoridad,
+ por
+ lo
+ que
+ las
+fórmulas
+ utilizadas
+ corresponden
+ a
+ ecuaciones
+ ampliamente
+ conocidas
+ y
+ utilizadas
+ para
+ estos
+efectos.
+
+No
+ obstante
+ lo
+ anterior,
+ para
+ efectos
+ de
+ la
+ presente
+ Adenda
+ se
+ presenta **el
+ Anexo
+ A
+ -­‐Estimación
+ y**
+**Modelación
+ de
+ emisiones
+ atmosféricas
+ Adenda
+ 2-­‐**
+
+**7.
+ En
+ relación
+ a
+ los
+ factores
+ de
+ emisión,
+ se
+ solicita
+ al
+ Proponente
+ realizar
+ la
+ estimación
+ y**
+**modelación
+ del
+ MP2.5,
+ MP10
+ y
+ MPS
+ considerando
+ las
+ emisiones
+ con
+ y
+ sin
+ medidas
+ de**
+**abatimiento
+ en
+ su
+ escenario
+ más
+ desfavorables
+ para
+ las
+ tres
+ fases
+ del
+ proyectos.
+ Además,
+ dejar**
+**expreso
+ que
+ el
+ Proponente
+ señala,
+ en
+ Anexo
+ C
+ de
+ la
+ Adenda,
+ específicamente
+ en
+ la
+ definición
+ de**
+**los
+ objetivos
+ específicos,
+ “Cuantificación
+ de
+ emisiones:
+ MP10,
+ MP2,5,
+ MPS,
+ CO,
+ HC
+ y
+ NOx”.
+ Pero**
+**la
+ estimación
+ de
+ MPS
+ no
+ se
+ encuentra
+ en
+ este
+ documento.
+ Por
+ consecuencia
+ no
+ es
+ posible**
+**observar
+ los
+ datos
+ de
+ entrada
+ para
+ la
+ modelación
+ de
+ MPS
+ del
+ Anexo
+ G
+ de
+ la
+ Adenda.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ para
+ efectos
+ de
+ la
+ presente
+ Adenda
+ se
+ presenta **el
+ Anexo
+ A
+ -­‐Estimación
+ y**
+**Modelación
+ de
+ emisiones
+ atmosféricas
+ Adenda
+ 2-­‐**
+
+**8.
+ Se
+ solicita
+ al
+ Proponente
+ presentar
+ las
+ curvas
+ de
+ isoconcentración
+ y
+ evaluar
+ los
+ puntos
+ de**
+**máximo
+ impacto
+ de
+ MPS,
+ sobre
+ la
+ flora
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ Se
+ solicita
+ verificar**
+**cumplimiento
+ de
+ normativa
+ ambiental
+ vigente
+ nacional
+ para
+ MPS
+ o
+ norma
+ de
+ referencias
+ según**
+**artículo
+ 11
+ del
+ DS
+ 40/2012
+ de
+ MMA
+ para
+ las
+ especies
+ presentes
+ en
+ la
+ zona
+ de
+ emplazamiento**
+**del
+ proyecto.**
+
+**RESPUESTA**
+
+El
+ titular
+ aclara
+ que
+ la
+ información
+ solicitada
+ en
+ la
+ presente
+ observación
+ ya
+ fue
+ presentada
+ en
+ la
+Respuesta
+ de
+ observación
+ 23
+ c),
+ y
+ en
+ específico
+ en
+ el **Anexo
+ G
+ -­‐
+ Modelación
+ calidad
+ de
+ aire
+ MPs-­‐**
+**de
+ la
+ Adenda
+ No
+ 1,** donde
+ se
+ presentó una
+ modelación
+ de
+ calidad
+ de
+ aire
+ para
+ material
+particulado
+ sedimentable
+ para
+ la **fase
+ de
+ construcción
+ del
+ Proyecto,
+ como
+ peor
+ escenario**,
+ ya
+ que
+en
+ las
+ restantes
+ fases
+ la
+ generación
+ de
+ emisiones
+ es
+ mínima **.** La
+ simulación
+ de
+ densidad
+ fue
+realizada
+ usando
+ el
+ modelo
+ Calpuff
+ View.
+
+Con
+ el
+ objeto
+ de
+ ampliar
+ la
+ información
+ presentada
+ en
+ prmera
+ instancia,
+ en
+ esta
+ oportunidad
+ se
+presenta
+ el **Anexo
+ A
+ -­‐Estimación
+ y
+ Modelación
+ de
+ Emisiones
+ Atmosféricas
+ Adenda
+ 2-­‐** con
+ mayor
+profundidad
+ y
+ análisis.
+
+ **Curvas
+ de
+ isoconcentración**
+
+Los
+ resultados
+ de
+ la
+ modelación
+ efectuada
+ indican
+ que
+ las
+ emisiones
+ y
+ posterior
+ deposición
+ de
+material
+ particulado
+ fino
+ es
+ prácticamente
+ despreciable, con valores que tienden a cero en la
+pluma de dispersión. Las
+ máximas
+ depositaciones
+ secas
+ arrojadas
+ por
+ el
+ modelo
+ fueron
+ de
+ 0.0034
+(ug/m [2] dia)
+ y
+ húmedas
+ 2.766
+ (ug/m [2] dia)
+ y **para
+ efectos
+ de
+ poder
+ comparar
+ con
+ las
+ normas
+ de**
+**referencia
+ los
+ valores
+ fueron
+ convertidos
+ a
+ microgramo
+ dividiendo
+ por
+ mil
+ y
+ luego
+ multiplicando**
+**por
+ 30
+ días
+ para
+ la
+ norma
+ mensual** .
+ En
+ ambos
+ casos
+ se
+ aprecia
+ que
+ los
+ máximos
+ valores
+ obtenidos
+de
+ depositación
+ están
+ muy
+ por
+ debajo
+ de
+ las
+ normas
+ de
+ referencia
+ y
+ que
+ no
+ representan
+ riesgo
+para
+ la
+ actividad
+ agrícola
+ y
+ por
+ ende,
+ para
+ la
+ flora
+ y
+ vegetación
+ presente
+ en
+ el
+ emplazamiento
+desértico
+ del
+ Proyecto.
+
+En
+ las
+ siguientes
+ figuras
+ se
+ presentan
+ las **curvas
+ de
+ isoconcentración
+ del
+ modelo
+ MPS.**
+
+**Figura
+ 2-­‐2** **Curvas
+ de
+ isoconcentración
+ depositación
+ húmeda
+ 24
+ horas**
+
+Fuente:
+ Elaboración
+ propia
+
+**Figura
+ 2-­‐3** **Curvas
+ de
+ isoconcentración
+ depositación
+ seca
+ 24
+ horas**
+
+Fuente:
+ Elaboración
+ propia
+
+**Figura
+ 2-­‐4** **Curvas
+ de
+ isoconcentración
+ depositación
+ húmeda
+ anual**
+
+Fuente:
+ Elaboración
+ propia
+
+**Figura
+ 2-­‐5** **Curvas
+ de
+ isoconcentración
+ depositación
+ seca
+ 24
+ horas**
+
+Fuente:
+ Elaboración
+ propia
+
+ **Cumplimiento
+ de
+ normativa
+ ambiental
+ vigente
+ nacional
+ para
+ MPS**
+Con
+ respecto
+ a
+ normativa
+ ambiental
+ aplicable,
+ a
+ continuación
+ en
+ la Tabla
+ 2-­‐9 se
+ presenta
+ la
+verificación
+ de
+ la
+ normativa
+ nacional
+ e
+ internacional
+ de
+ referencia
+
+**Tabla
+ 2-­‐9
+ Evaluación
+ cumplimiento
+ normas
+ de
+ calidad
+ de
+ aire
+ Proyecto
+ Malgarida
+ II**
+
+|Norma|Valor Normado|Proyecto|Estadístico|
+|---|---|---|---|
+|D.S. N°59/98 del<br>Ministerio de<br>Salud|150 μg/m~~3~~|15 μg/m~~3~~ (Máxima emisión)<br>|Media Anual|
+|D.S. N°59/98 del<br>Ministerio de<br>Salud|50 μg/m3 <br>|20 μg/m~~3~~ (Máxima emisión)<br>|Percentil 98 Diario|
+|**D.S. N°4/92 del**<br>**Ministerio de**<br>**Agricultura**|**100 (mg/m**~~**2**~~**dia)**|**0,08 mg/m**~~**2**~~**dia (húmeda)**|**Media Mensual**|
+|**D.S. N°4/92 del**<br>**Ministerio de**<br>**Agricultura**|**200 (mg/m2dia)**|**1,09 mg/m2dia**|**Media Anual**|
+|Ordenanza Suiza<br>(1993)|200 (mg/m2dia)<br>|1,09 mg/m2dia<br>|Media Anual|
+|NAAQ (2012)|150 μg/m~~3~~|20 μg/m~~3~~ (Máxima emisión)|Media Anual|
+
+Fuente:
+ Elaboración
+ propia.
+
+**De
+ la
+ evaluación
+ anterior,
+ se
+ concluye
+ que
+ los
+ aportes
+ del
+ Proyecto
+ son
+ despreciables
+ y
+ muy
+ por**
+**debajo
+ de
+ los
+ límites
+ establecidos
+ en
+ la
+ norma
+ secundaria
+ de
+ calidad
+ de
+ aire
+ del
+ valle
+ del
+ Huasco**
+**(DS
+ No
+ 4/1992)
+ para
+ el
+ caso
+ del
+ material
+ particulado
+ sedimentable
+ y
+ para
+ otras
+ normas
+ de**
+**calidad
+ de
+ aire,
+ por
+ lo
+ que
+ no
+ se
+ identifican
+ impactos
+ ambientales
+ significativos
+ sobre
+ especies**
+**de
+ flora
+ y
+ vegetación
+ presentes
+ en
+ el
+ área
+ de
+ influencia
+ del
+ Proyecto.**
+
+Mayores
+ detalles
+ en **Anexo
+ A
+ -­‐Estimación
+ y
+ Modelación
+ de
+ Emisiones
+ Atmosféricas
+ Adenda
+ 2
+ -­‐** de
+la
+ presente
+ Adenda.
+
+ **Especies
+ de
+ flora
+ presentes
+ en
+ el
+ área
+ de
+ influencia
+ del
+ Proyecto**
+Con
+ respecto
+ a
+ las
+ especies
+ de
+ flora
+ presentes
+ en
+ el
+ área
+ de
+ influencia
+ del
+ Proyecto,
+ se
+ realizaron
+29
+ puntos
+ de
+ observación
+ y
+ registro
+ de
+ flora
+ y
+ vegetación
+ en
+ el
+ área
+ de
+ estudio,
+ identificándose
+siete
+ especies
+ de
+ flora
+ y
+ dos
+ formaciones
+ vegetacionales,
+ siendo
+ “ _Herbazal
+ de
+ Cistanthe_
+_celosiodes_ ”
+ la
+ de
+ mayor
+ representación
+ en
+ el
+ área
+ de
+ estudio.
+
+De
+ las
+ siete
+ especies
+ registradas
+ cinco
+ son
+ endémicas
+ de
+ chile
+ y
+ dos
+ son
+ nativas, **ninguna
+ de
+ ellas**
+**presenta
+ categoría
+ de
+ conservación
+ vigente,** por
+ lo
+ que
+ no
+ se
+ identifican
+ impactos
+ ambientales
+significativos
+ sobre
+ especies
+ de
+ flora
+ y
+ vegetación
+ presentes
+ en
+ el
+ área
+ de
+ influencia
+ del
+ Proyecto
+( Tabla
+ 2-­‐10 ):
+
+**Tabla
+ 2-­‐10** **Especies
+ de
+ flora
+ identificadas
+ en
+ el
+ área
+ de
+ influencia
+ del
+ Proyecto**
+
+|Familia|Nombre científico|Origen|Categoría de<br>conservación|
+|---|---|---|---|
+|Asteraceae|_Tessariaabsinthioides_|Nativa|**Ninguna**|
+|Loasaceae|_Huidobriachilensis_|Endémica|**Ninguna**|
+|Malpighiaceae|_Dinemandrachilensis_|Endémica|**Ninguna**|
+|Malvaceae|_Cristariaintegerrima_|Endémica|**Ninguna**|
+|Nolanaceae|_Nolanalinearifolia_|Nativa|**Ninguna**|
+|Nolanaceae|_Nolanaaplocaryoides_|Endémica|**Ninguna**|
+|Portulacaceae|_Cistanthecelosioides_|Endémica|**Ninguna**|
+
+Fuente:
+ Elaboración
+ propia.
+
+**9.
+ El
+ Proponente
+ deberá
+ tomar
+ medidas
+ de
+ control
+ de
+ emisiones
+ adicionales
+ a
+ las**
+**comprometidas
+ para
+ cada
+ etapa
+ del
+ proyecto,
+ cuando
+ existan
+ eventos
+ puntuales
+ de
+ vientos**
+**fuertes,
+ elevada
+ temperatura
+ y
+ radiación,
+ con
+ el
+ objeto
+ de
+ cumplir
+ sus
+ estimaciones
+ de**
+**emisiones
+ y
+ minimizar
+ el
+ impacto
+ en
+ la
+ calidad
+ del
+ aire.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ el
+ titular
+ se
+ compromete
+ a
+ tomar
+ medidas
+ adicionales
+ de
+ control
+ de
+material
+ particulado
+ cuando
+ existan
+ eventos
+ climáticos
+ extraordinarios,
+ como
+ aumentar
+ la
+frecuencia
+ de
+ humectación
+ de
+ caminos,
+ utilización
+ de
+ lonas
+ sobre
+ acopios
+ de
+ material,
+disminución
+ adicional
+ de
+ velocidad
+ de
+ circulación
+ de
+ vehículos,
+ etc.
+
+**MEDIO
+ HUMANO**
+**10.
+ Se
+ solicita
+ al
+ Proponente
+ entregar
+ los
+ KMZ
+ de
+ todos
+ los
+ Hitos
+ o
+ sitios
+ de
+ relevancia**
+**patrimonial
+ (huella,
+ sendero
+ etc.)
+ señalados
+ en
+ el
+ proceso
+ de
+ participación
+ ciudadana.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ en **Anexo
+ B
+ -­‐
+ KML
+ Hitos
+ PAC-­‐** se
+ presenta
+ la
+ ubicación
+ espacial
+ de
+aquellos
+ elementos
+ relevados
+ por
+ la
+ comunidad
+ durante
+ el
+ proceso
+ de
+ participación
+ ciudadana.
+
+## 3. NORMATIVA
+ DE
+ CARÁCTER
+ AMBIENTAL
+ APLICABLE**
+
+**DECRETO
+ 38/12
+ MMA**
+**El
+ Proponente
+ deberá
+ realizar
+ campaña
+ de
+ monitoreo
+ para
+ las
+ fases
+ de
+ construcción,
+ operación**
+**y
+ cierre
+ y
+ en
+ el
+ escenario
+ más
+ desfavorable,
+ con
+ objeto
+ de
+ verificar
+ cumplimiento
+ normativo
+ y**
+**modelación
+ en
+ los
+ puntos
+ evaluados.
+ Además,
+ deberá
+ tomar
+ medidas
+ para
+ los
+ casos
+ que
+ se**
+**detecte
+ superación
+ de
+ la
+ norma.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ el
+ titular
+ realizará **monitoreo
+ semestral
+
+ de
+ Ruido
+ durante
+ la
+ fase
+ de**
+**construcción
+ y
+ cierre**,
+ en
+ los
+ asentamientos
+ humanos
+ más
+ cercanos
+ al
+ proyecto
+ :
+
+ - “
+_Parcela
+ Los
+ Claveles_ ”,
+ ubicada
+ a
+ 9
+ km
+ del
+ Proyecto
+ y
+
+ Tranque
+ de
+ relaves
+ “ _Pampa
+ Austral_ ”
+ ubicado
+ a
+ 12
+ km.
+
+**Figura
+ 3-­‐1** **Ubicación
+ puntos
+ monitoreo
+ de
+ ruido**
+
+Fuente:
+ Elaboración
+ propia.
+
+Con
+ respecto
+ a
+ la **fase
+ de
+ operación**,
+ el
+ titular
+ se
+ compromete
+ a
+ efectuar
+ un
+ monitoreo
+ semestral
+**durante
+ el
+ primer
+ año** de
+ operación
+ de
+ la
+ planta.
+ Además,
+ se
+ compromete
+ a
+ tomar
+ medidas
+ para
+los
+ casos
+ en
+ que
+ dichos
+ monitoreos
+ arrojen
+ superación
+ de
+ la
+ citada
+ norma,
+ lo
+ cual
+ será
+oportunamente
+ informado
+ a
+ la
+ autoridad
+ ambiental.
+
+## 4. PERMISOS
+ AMBIENTALES
+ SECTORIALES**
+
+**PAS
+ 132**
+**Debido
+ a
+ que
+ es
+ uno
+ de
+ los
+ antecedentes
+ necesarios
+ para
+ la
+ obtención
+ del
+ PAS
+ 132,
+ se
+ reitera
+ al**
+**Proponente
+ la
+ necesidad
+ de
+ que
+ entregue,
+ durante
+ la
+ presente
+ evaluación,
+ la
+ carta
+ del
+ director**
+**de
+ la
+ institución
+ depositaria
+ aceptando
+ la
+ eventual
+ destinación
+ de
+ los
+ materiales
+ arqueológicos**
+**recuperados.
+ Además,
+ se
+ solicita
+ que
+ dicha
+ institución
+ se
+ localice
+ en
+ la
+ Región
+ de
+ Atacama.**
+
+**RESPUESTA**
+
+El
+ titular
+ acoge
+ la
+ observación
+ y
+ adjunta
+ en
+ el **Anexo
+ C
+ -­‐
+ Carta
+ Museo
+ Regional-­‐** de
+ la
+ presente
+Adenda
+ documento
+ del
+ Museo
+ Regional
+ de
+ Copiapó
+ en
+ la
+ que
+ la
+ entidad
+ se
+ compromete
+ a
+ recibir
+los
+ materiales
+ patrimoniales
+ provenientes
+ de
+ las
+ labores
+ de
+ construcción
+ del
+ proyecto.
+ Además,
+dicho
+ documento
+ se
+ entregará
+ de
+ manera
+ sectorial
+ al
+ Consejo
+ de
+ Monumentos
+ Nacionales,
+ con
+copia
+ al
+ Servicio
+ de
+ Evaluación
+ Ambiental
+ y
+ la
+ Superintendencia
+ de
+ Medio
+ Ambiente.
+
+**PAS
+ 138**
+**Se
+ acoge
+ la
+ no
+ presentación
+ del
+ PAS
+ 138
+ para
+ la
+ Subestación,
+ pues
+ el
+ Proponente
+ señala
+ que
+ no**
+**existirán
+ personas
+ trabajando
+ en
+ estas
+ instalaciones.**
+
+**En
+ cuanto
+ al
+ sistema
+ de
+ tratamiento
+ de
+ aguas
+ servidas,
+ ha
+ implemementar
+ en
+ las
+ etapas
+ de**
+**Construcción
+ y
+ operación
+ del
+ proyecto,que
+ detalla
+ el
+ Proponente,
+ se
+ solicita
+ aclarar
+ lo
+ siguiente:**
+
+**Respecto
+ del
+ "sistema
+ de
+ cloración"
+ el
+ Proponente
+ señala
+ que
+ “cuyo
+ insumo
+ se
+ aplica
+ dos
+ veces**
+**al
+ año
+ por
+ la
+ empresa
+ encargada
+ de
+ la
+ operación
+ de
+ la
+ PTAS,
+ la
+ cual
+ será
+ responsable
+ de**
+**trasportar
+ el
+ insumo
+ cumpliendo
+ con
+ todas
+ las
+ disposiciones
+ vigente”.
+ Se
+ señala
+ que
+ la**
+**responsabilidad
+ es
+ indelegable,
+ aun
+ cuando
+ la
+ empresa
+ externa
+ realice
+ la
+ actividad,
+ el**
+**Proponente
+ deberá
+ velar
+ por
+ las
+ condiciones
+ de
+ transporte
+ y
+ en
+ caso
+ de
+ incidente,
+ tomar
+ todas**
+**las
+ medidas
+ pertinentes.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación, **el
+ titular
+ será
+ el
+ responsable
+ final** de
+ cualquier
+ contingencia
+ asociada
+ al
+transporte
+ de
+ sustancias
+ peligrosas
+ y
+ no
+ peligrosas
+ durante
+ toda
+ la
+ vida
+ útl
+ del
+ Proyecto,
+idenpendiente
+ de
+ que
+ los
+ servicios
+ sean
+ prestados
+ por
+ empresas
+ externas
+ y
+ autorizadas.
+
+**El
+ Proponente
+ señala
+ que
+ “la
+ sustancia
+ para
+ declorar
+ el
+ efluente
+ corresponde
+ a
+ sulfito
+ de
+ sodio**
+**en
+ tabletas,
+ la
+ cual
+ no
+ es
+ sustancia
+ peligrosa
+ de
+ acuerdo
+ a
+ la
+ Norma
+ Chilena**
+**Oficial
+ N°
+ 382
+ Of.
+ 2004,
+ Sustancias
+ Peligrosas
+ -­‐
+ Clasificación
+ general”.
+ Deberá
+ actualizar
+ versión**
+
+**de
+ la
+ citada
+ norma
+ toda
+ vez
+ que
+ la
+ última
+ versión
+ es
+ del
+ año
+ 2013.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ se corrige la cita señalada:
+
+ La
+ sustancia
+ para
+ declorar
+ el
+ efluente
+ corresponde
+ a
+ sulfito
+ de
+ sodio
+ en
+ tabletas,
+ la
+ cual
+ no
+es
+ sustancia
+ peligrosa
+ de
+ acuerdo
+ a
+ la **Norma
+ Chilena
+ Oficial
+ N°
+ 382
+ Of.
+ 2013**,
+ Sustancias
+Peligrosas
+ -­‐
+ Clasificación
+ general”.
+
+**El
+ Proponente
+ señala
+ que
+ “Todos
+ los
+ insumos
+ de
+ la
+ PTAS
+ será
+ suministrados
+ por
+ la
+ empresa**
+**encargada
+ de
+ la
+ operación
+ de
+ la
+ PTAS,
+ la
+ cual
+ será
+ responsable
+ de
+ cumplir
+ con
+ todas
+ las**
+**disposiciones
+ vigente.
+ Se
+ señala
+ que
+ la
+ responsabilidad
+ es
+ indelegable,
+ aun
+ cuando
+ la
+ empresa**
+**externa
+ realice
+ la
+ actividad,
+ el
+ Proponente
+ deberá
+ velar
+ por
+ el
+ cumplimiento
+ normativo.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación, **el
+ titular
+ será
+ el
+ responsable
+ final** de
+ cualquier
+ contingencia
+ asociada
+ al
+transporte
+ de
+ sustancias
+ peligrosas
+ y
+ no
+ peligrosas
+ durante
+ toda
+ la
+ vida
+ útl
+ del
+ Proyecto,
+idenpendiente
+ de
+ que
+ los
+ servicios
+ sean
+ prestados
+ por
+ empresas
+ externas
+ y
+ autorizadas.
+
+**En
+ el
+ Anexo
+ Plan
+ de
+ Emergencia
+ cita
+ la
+ NCh.
+ 2245:2003,
+ debe
+ actualizar
+ información
+ debido
+ a**
+**que
+ el
+ año
+ 2015
+ fue
+ emitida
+ su
+ última
+ versión.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ se corrige la cita señalada:
+
+ Plan
+ de
+ emergencias,
+ normativa
+ y
+ legislación
+ ambiental
+ aplicable **Norma
+ Chilena
+ Oficial
+ N°**
+**2245
+ Of.
+ 2015**,
+ Hojas
+ de
+ datos
+ de
+ seguridad.
+
+## 5. PARTICIPACIÓN
+ CIUDADANA**
+
+**En
+ relación
+ a
+ respuesta
+ 2.2
+ del
+ anexo
+ P
+ -­‐
+ Respuestas
+ de
+ participación
+ ciudadana,
+ en
+ donde
+ el**
+**Proponente
+ señala
+ que
+ los
+ tres
+ puntos
+ indicados
+ por
+ la
+ ciudadanía
+ como
+ huellas
+ patrimoniales**
+**de
+ conexión
+ entre
+ Pueblo
+ Hundido
+ y
+ el
+ asentamiento
+ Colla
+ Inés
+ Chica
+ (lugar
+ de
+ culto
+ de
+ la**
+**Comuna
+ de
+ Diego
+ de
+ Almagro)
+ se
+ encuentran
+ fuera
+ del
+ polígono
+ del
+ proyecto.
+ Se
+ informa
+ al**
+**Proponente
+ que
+ de
+ acuerdo
+ a
+ los
+ antecedentes
+ presentados
+ en
+ Adenda
+ respecto
+ a
+ las**
+**coordenadas
+ UTM
+ 1
+ (HC5),
+ UTM
+ 2
+ (HC3)
+ y
+ UTM
+ 3,
+ la
+ primera
+ de
+ ellas
+ se
+ encuentra
+ 200mts
+ al**
+**interior
+ del
+ vértice
+ superior
+ izquierdo
+ del
+ Proyecto,
+ sobre
+ el
+ área
+ de
+ paneles
+ fotovoltaicos,**
+**motivo
+ por
+ el
+ cual,
+ se
+ le
+ solicita
+ realizar
+ las
+ correcciones
+ pertinentes
+ para
+ que
+,
+ efectivamente
+,el**
+
+**proyecto
+ no
+ intervenga
+ el
+ punto
+ UTM
+ 1.
+ Además,
+ dado
+ que
+ el
+ Propone
+ establece
+ como**
+**compromiso
+ ambiental
+ voluntario
+ la
+ elaboración
+ de
+ material
+ de
+ difusión
+ de
+ las
+ huellas
+ troperas**
+**consistentes
+ en
+ la
+ publicación
+ de
+ un
+ registro
+ fotográfico
+ y
+ una
+ breve
+ investigación**
+**historiográfica,
+ se
+ solicita
+ diseñar
+ y
+ presentar
+ un
+ plan
+ de
+ difusión
+ dirigido
+ a
+ la
+ comunidad
+ local,**
+**detallando
+ cantidad
+ de
+ ejemplares,
+ actividades,
+ lugares,
+ modalidad
+ de
+ la
+ difusión.
+ Todo
+ ello
+ con**
+**el
+ objeto
+ de
+ identificar
+ los
+ medios
+ de
+ verificación
+ de
+ este
+ compromiso.
+ Además,
+ se
+ solicita
+ al**
+**Proponnete
+ presentar
+ los
+ medios
+ de
+ verificación
+ que
+ permitan
+ garantizar
+ que
+ los
+ intengrantes**
+**de
+ la
+ comunidad
+ que
+ participaron
+ como
+ observantes
+ del
+ presente
+ proceso
+ de
+ evaluación
+ reciban**
+**dicho
+ material
+ de
+ difusión.**
+
+**RESPUESTA**
+
+ **Ubicación
+ hallazgo
+ patrimonial
+ PAC**
+Efectivamente
+ la
+ UTM
+ 1
+ "Huella
+ tropera"
+ (7.094.007
+ N
+ -
+ 402.791 [3] E)
+ se
+ encuentra
+ al
+ límite
+ del
+polígono
+ del
+ Proyecto
+ (esquina
+ superior
+ izquierda,
+ Figura
+ 5-­‐1),
+ por
+ lo
+ que
+ se
+ corrige
+ dicha
+información.
+ Por
+ otra
+ parte,
+ la
+ identificación
+ de
+ dicha
+ UTM
+ 1
+ como
+ punto
+ de
+ huella
+ de
+ HC5
+ no
+corresponde,
+ ya
+ que
+ Huella
+ de
+ carreta
+ HC5
+ se
+ desplaza
+ a
+ 180
+ metros
+ al
+ oeste
+ de
+ dicha
+coordenada.
+
+3 Aclarar
+ que
+ la
+ coordenada
+ Este
+ de
+ UTM
+ 1
+ es
+ E: **402.791** como
+ consta
+ en
+ documento
+ ICSARA
+ PAC
+
+**Figura
+ 5-­‐1** **Ubicación
+ hallazgos
+ patrimoniales
+ Participación
+ Ciudadana**
+
+Fuente:
+ Elaboración
+ propia
+
+Se
+ aclara
+ que
+ durante
+ las
+ prospecciones
+ realizadas
+ en
+ dicha
+ área
+ no
+ fue
+ registrado
+ sitio
+arqueológico
+ en
+ aquel
+ sector,
+ por
+ lo
+ que
+ se
+ propone
+ realizar
+ una
+ inspección
+ arqueológica
+ en
+ dicha
+área
+ previo
+ al
+ inicio
+ de
+ las
+ obras,
+ en
+ cuyo
+ caso,
+ de
+ registrar
+ un
+ sitio
+ arqueológico,
+ se
+ procederá
+ a
+ejecutar
+
+ las
+ medidas
+ vigentes
+ solicitadas
+ por
+ el
+ Consejo
+ de
+ Monumentos
+ Nacionales
+ que
+
+ en
+ caso
+de **afectación
+ de
+ rasgos
+ lineales** son:
+
+1. Registro
+ en
+ detalle
+ de
+ cada
+ huella
+ tropera
+ que
+ abarque
+ 1
+ kilómetro
+ por
+ lado,
+ a
+ partir
+
+del
+ punto
+ o
+ zona
+ donde
+ ocurrirá
+ la
+ intervención.
+2. Recolección
+ de
+ todos
+ los
+ hallazgos
+ arqueológicos
+ asociados
+ a
+ la
+ huella
+ registrados
+ al
+
+interior
+ del
+ área
+ del
+ proyecto,
+ los
+ que
+ son
+ analizados
+ y
+ depositados
+ en
+ museo.
+3. Inclusón
+ de
+ dicha
+ huella
+ dentro
+ del
+ compromiso
+ ambiental
+ voluntario _"Elaboración
+ de_
+
+_material
+ de
+ difusión
+ de
+ huellas
+ troperas"_ para
+ la
+ difusión
+ entre
+ la
+ comunidad
+ local
+ y
+científica.
+
+ **Plan
+ de
+ difusión
+ material
+ informativo**
+
+En
+ relación
+ al
+ compromiso
+ ambiental
+ voluntario _"Elaboración
+ de
+ material
+ de
+ difusión
+ de
+ huellas_
+_troperas"_ consistente
+ en
+ la
+ publicación
+ de
+ un
+ registro
+ fotográfico
+ y
+ una
+ breve
+ investigación
+historiográfica,
+ se
+ presenta
+ el
+ siguiente
+ plan
+ de
+ difusión
+ ( Tabla
+ 5-­‐1 )
+
+**Tabla
+ 5-­‐1** **Plan
+ de
+ difusión
+ material
+ de
+ disfusión
+ Huellas
+ troperas**
+
+|COMPROMISO VOLUNTARIO|Col2|Col3|"Elaboración de material de difusión de<br>huellas troperas"|Col5|
+|---|---|---|---|---|
+|**Cantidad**<br>**de**<br>**ejemplares**|200 unidades a todo color|200 unidades a todo color|200 unidades a todo color|200 unidades a todo color|
+|**Actividades**|Taller<br>único<br>de<br>presentación<br>del<br>libro (Estilo PAC)|**Lugar:**<br>Sede<br>comunitaria u otro<br>lugar en la comuna<br>de<br>Diego<br>de<br>Almagro|**Difusión:** <br>Aviso<br>radial en medio<br>local<br>durante<br>5<br>días<br>corridos,<br>1<br>inserto impreso en<br>diario<br>de<br>circulación<br>regional.|**Público**<br>**objetivo:**<br>Toda la comunidad<br>de<br>Diego<br>de<br>Almagro<br>y<br>alrededores y en<br>particular los<br>establecimientos<br>educacionales|
+|**Medio**<br>**de**<br>**verificación**|Informe<br>de<br>actividad<br>con<br>fotografías<br>y<br>listado<br>de<br>asistencia|**Remitido a:**|SMA, SEA|SMA, SEA|
+|**Medio**<br>**de**<br>**verificación**|Acta de entrega de<br>ejemplares<br>a<br>organizaciones<br>participantes<br>de<br>PAC Malgarida II y<br>acta de entrega en<br>establecimientos<br>educacionales|Acta de entrega de<br>ejemplares<br>a<br>organizaciones<br>participantes<br>de<br>PAC Malgarida II y<br>acta de entrega en<br>establecimientos<br>educacionales|Acta de entrega de<br>ejemplares<br>a<br>organizaciones<br>participantes<br>de<br>PAC Malgarida II y<br>acta de entrega en<br>establecimientos<br>educacionales|Acta de entrega de<br>ejemplares<br>a<br>organizaciones<br>participantes<br>de<br>PAC Malgarida II y<br>acta de entrega en<br>establecimientos<br>educacionales|
+
+Fuente:
+ Elaboración
+ propia.
+
+**En
+ relación
+ a
+ la
+ respuesta
+ 2.5
+ del
+ Anexo
+ P-­‐
+ Respuestas
+ de
+ participación
+ ciudadana,
+ el**
+**Proponente
+ aclara
+ que
+ "dichas
+ coordenadas
+ no
+ se
+ ubican
+ al
+ interior
+ del
+ proyecto",
+ al
+ respecto
+ y**
+**en
+ base
+ a
+ los
+ antecedentes
+ presentados
+ en
+ Adenda,
+ y
+ de
+ la
+ verificación
+ realizada
+ por
+ este**
+**Servicio
+ en
+ relación
+ a
+ la
+ coordenada
+ UTM
+ 1,
+ se
+ puede
+ indicar
+ que
+ esta
+ se
+ encuentra
+ dentro
+ del**
+**polígono
+ del
+ proyecto,
+ razón
+ por
+ la
+ cual
+ se
+ le
+ solicita
+ al
+ Proponente
+ rectificar
+ esta
+ información
+ y**
+**de
+ corresponder,
+ e
+ indicar
+ las
+ acciones
+ que
+ adoptará
+ para
+ no
+ intervenir
+ dicho
+ hallazgo.
+ Además,**
+
+**dado
+ que
+ el
+ Propone
+ establece
+ como
+ compromiso
+ ambiental
+ voluntario
+ la
+ elaboración
+ de**
+**material
+ de
+ difusión
+ de
+ las
+ huellas
+ troperas
+ consistentes
+ en
+ la
+ publicación
+ de
+ un
+ registro**
+**fotográfico
+ y
+ una
+ breve
+ investigación
+ historiográfica,
+ se
+ solicita
+ diseñar
+ y
+ presentar
+ un
+ plan
+ de**
+**difusión
+ dirigido
+ a
+ la
+ comunidad
+ local,
+ detallando
+ cantidad
+ de
+ ejemplares,
+ actividades,
+ lugares,**
+**modalidad
+ de
+ la
+ difusión.
+ Todo
+ ello
+ con
+ el
+ objeto
+ de
+ identificar
+ los
+ medios
+ de
+ verificación
+ de**
+**este
+ compromiso.
+ Además,
+ se
+ solicita
+ al
+ Proponente
+ presentar
+ los
+ medios
+ de
+ verificación
+ que**
+**permitan
+ garantizar
+ que
+ los
+ integrantes
+ de
+ la
+ comunidad
+ que
+ participaron
+ como
+ observantes
+ del**
+**presente
+ proceso
+ de
+ evaluación
+ reciban
+ dicho
+ material
+ de
+ difusión.**
+
+**RESPUESTA**
+
+ **Ubicación
+ hallazgo
+ patrimonial
+ PAC**
+Efectivamente
+ UTM
+ 1
+ "Huella
+ tropera"
+ (7.094.007
+ N
+ -
+ 402.971
+ E)
+ se
+ encuentra
+ al
+ límite
+ del
+polígono
+ del
+ Proyecto
+ (esquina
+ superior,
+ Figura
+ 5-­‐1),
+ por
+ lo
+ que
+ se
+ corrige
+ dicha
+ información.
+
+ **Plan
+ de
+ difusión
+ material
+ informativo**
+
+En
+ relación
+ al
+ compromiso
+ ambiental
+ voluntario _"Elaboración
+ de
+ material
+ de
+ difusión
+ de
+ huellas_
+_troperas"_,
+ en
+ la Tabla
+ 5-­‐1 anterior
+ se
+ presentó
+ el
+ plan
+ de
+ difusión
+ con
+ los
+ medios
+ de
+ verificación
+solicitados.
+
+**En
+ relación
+ a
+ la
+ respuesta
+ 2.6
+,
+ respecto
+ al
+ compromiso
+ de
+ elaborar
+ material
+ de
+ difusión
+ sobre**
+**las
+ huellas
+ troperas,
+ se
+ soliicta
+ al
+ Proponente
+ ampliar
+ dicho
+ compromiso
+ en
+ cuanto
+ a
+ incorporar**
+**en
+ este
+ material
+ de
+ difusión
+ los
+ vestigios,
+ hitos
+ y
+ otros
+ sitios
+ que
+ las
+ organizaciones
+ y**
+**comunidades
+ han
+ señalado
+ como
+ de
+ significancia
+ cultural.
+ Además,
+ dado
+ que
+ el
+ Propone**
+**establece
+ como
+ compromiso
+ ambiental
+ voluntario
+ la
+ elaboración
+ de
+ material
+ de
+ difusión
+ de
+ las**
+**huellas
+ troperas
+ consistentes
+ en
+ la
+ publicación
+ de
+ un
+ registro
+ fotográfico
+ y
+ una
+ breve**
+**investigación
+ historiográfica,
+ se
+ solicita
+ diseñar
+ y
+ presentar
+ un
+ plan
+ de
+ difusión
+ dirigido
+ a
+ la**
+**comunidad
+ local,
+ detallando
+ cantidad
+ de
+ ejemplares,
+ actividades,
+ lugares,
+ modalidad
+ de
+ la**
+**difusión.
+ Todo
+ ello
+ con
+ el
+ objeto
+ de
+ identificar
+ los
+ medios
+ de
+ verificación
+ de
+ este
+ compromiso.**
+**Además,
+ se
+ solicita
+ al
+ Proponnete
+ presentar
+ los
+ medios
+ de
+ verificación
+ que
+ permitan
+ garantizar**
+**que
+ los
+ intengrantes
+ de
+ la
+ comunidad
+ que
+ participaron
+ como
+ observantes
+ del
+ presente
+ proceso**
+**de
+ evaluación
+ reciban
+ dicho
+ material
+ de
+ difusión.**
+
+**RESPUESTA**
+Se
+ acoge
+ la
+ observación,
+ el
+ titular
+ incorporará
+ al
+ material
+ de
+ difusión
+ de
+ huellas
+ troperas,
+ otros
+elementos
+ patrimoniales
+ relevantes
+ identificados
+ durante
+ la
+ línea
+ base
+ del
+ Proyecto,
+ incluyendo
+aquellos
+ señalados
+ por
+ la
+ comunidad
+ y
+ que
+ se
+ encuentran
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+
+Proyecto.
+
+En
+ relación
+ al
+ compromiso
+ ambiental
+ voluntario _"Elaboración
+ de
+ material
+ de
+ difusión
+ de
+ huellas_
+_troperas"_,
+ en
+ la Tabla
+ 5-­‐1 anterior
+ se
+ presentó
+ el
+ plan
+ de
+ difusión
+ con
+ los
+ medios
+ de
+ verificación
+solicitados.
+
+**En
+ relación
+ a
+ la
+ respuesta
+ 2.8
+ en
+ la
+ que
+ el
+ Proponente
+ señala
+ que
+ no
+ existe
+ incompatibilidad**
+**entre
+ los
+ sitios
+ prioritarios
+ para
+ el
+ desarrollo
+ del
+ turismo
+ de
+ Atacama,
+ se
+ solicita
+ al
+ Proponente**
+**presentar
+ los
+ medios
+ de
+ verificación
+ que
+ permitan
+ dar
+ cuenta
+ de
+ la
+ entrega
+ y
+ disposición
+ del**
+**material
+ comprometido
+ a
+ la
+ comunidad
+ como
+ apoyo
+ al
+ fomento
+ del
+ turismo.**
+
+**RESPUESTA**
+En
+ relación
+ al
+ compromiso
+ ambiental
+ voluntario _"Elaboración
+ de
+ material
+ de
+ difusión
+ de
+ huellas_
+_troperas"_,
+ en
+ la Tabla
+ 5-­‐1 anterior
+ se
+ presentó
+ el
+ plan
+ de
+ difusión
+ con
+ los
+ medios
+ de
+ verificación
+solicitados.
+
+**En
+ cuanto
+ a
+ la
+ respuesta
+ 2.9
+ del
+ Anexo
+ P-­‐
+ Respuestas
+ de
+ participación
+ ciudadana
+ y
+ dada
+ la**
+**preocupación
+ de
+ la
+ Comunidad
+ Indígena
+ Colla
+ Geoxcultuxial
+ sobre
+ la
+ probable
+ pérdida
+ física
+ de**
+**huellas
+ patrimoniales.
+ Se
+ solicita
+ al
+ Proponente
+ en
+ primer
+ lugar,
+ ampliar
+ los
+ antecedentes
+ que**
+**permiten
+ descartar
+ que
+ dichas
+ rutas
+ sean
+ usadas
+ o
+ pertenezcan
+ a
+ las
+ comunidades
+ indígenas
+ de**
+**la
+ comuna
+ de
+ Diego
+ de
+ Almagro.**
+**Respecto
+ a
+ las
+ rutas
+ ancestrales
+ señaladas
+ en
+ la
+ respuesta
+ 2.11
+ del
+ Anexo
+ P-­‐
+ Respuestas
+ de**
+**participación
+ ciudadana.
+ Se
+ solicita
+ al
+ Proponente
+ presentar
+ los
+ antecedentes
+ que
+ permiten**
+**establecer
+ el
+ uso
+ de
+ dichas
+ rutas
+ por
+ parte
+ de
+ las
+ comunidades
+ indígenas
+ de
+ la
+ comuna
+ de
+ Diego**
+**de
+ Almagro.**
+
+**RESPUESTA**
+El
+ titular
+ aclara
+ que
+ las
+ huella
+ troperas
+ señaladas
+ tanto
+ en
+ proceso
+ de
+ PAC
+ como
+ aquellas
+identificadas
+ durante
+ la
+ prospección
+ de
+ línea
+ base,
+ corresponden
+ a
+ sitios
+ lineales
+ que
+ dan
+ cuenta
+de
+ caminos,
+ vías
+ de
+ traslados
+ y
+ comunicación
+ con
+ vestigios
+ tanto
+ humanos
+ como
+ animales
+ que
+corresponden
+ a
+ épocas
+ pre
+ y
+ post
+ hispánicas, **los
+ cuales
+ no
+ presentan
+ un
+ uso
+ actual
+ de
+ ningún**
+**tipo** y
+ corresponden
+ a
+ vestigios
+ lineales
+ que
+ dan
+ cuenta
+ de
+ ocupaciones
+ pasadas
+ del
+ territorio,
+situación
+ declarada
+ por
+ la
+ propia
+ comunidad
+ en
+ sus
+ observaciones
+ durante
+ el
+ proceso
+ PAC.
+ .
+ No
+obstante
+ lo
+ anterior,
+ en
+ concordancia
+ con
+ el
+ compromiso
+ voluntario
+ de
+ financiar
+ la
+ elaboración
+ de
+material
+ de
+ difusión,
+ el
+ proponente
+ indica
+ que
+ el
+ contenido
+ de
+ este
+ documento
+ -independiente
+del
+ formato-­‐
+ contendrá
+ información
+ histórica
+ y
+ antropológica
+ respecto
+ a
+ las
+ huellas,
+ la
+ cual
+ será
+puesta
+ a
+ disposición
+ de
+ la
+ comunidad
+ de
+ acuerdo
+ al
+ plan
+ de
+ difusión
+ contemplado.
+ Asimismo,
+ es
+posible
+ remitir
+ un
+ ejemplar
+ a
+ las
+ autoridades
+ competentes
+ a
+ modo
+ de
+ informe
+ de
+ los
+ trabajos
+
+realizados.

@@ -1,0 +1,38357 @@
+---
+title: DIA RELOCALIZACION CESARI_V2
+author: Paola Schnettler
+date: D:20150131163818Z00'00'
+language: es
+type: report
+pages: 189
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - “RELOCALIZACIÓN
+  - 1 DESCRIPCIÓN
+  - 2 ANTECEDENTES
+  - 3 ANTECEDENTES
+  - 4 COMPROMISOS
+  - 5 FICHA
+  - 6 EQUIPO
+  - 7 DESCRIPCIÓN
+  - 8 TEXTO
+  - 9 FIRMA
+-->
+
+# “RELOCALIZACIÓN
+ CONCESIÓN
+ DE
+ ACUICULTURA
+
+ AL
+ NORESTE
+ PUNTA
+ CESARI, COMUNA
+ DE
+ CISNES,
+ PROVINCIA
+ DE
+ AISÉN,
+ DÉCIMO
+ PRIMERA
+ REGIÓN
+ DE AYSEN. ACUÍCOLA
+ PUYUHUAPI
+ S.A. DECLARACIÓN
+ DE
+ IMPACTO
+ AMBIENTAL
+
+ELABORADO
+ POR:
+
+BUIN
+ 367
+ -
+ PUERTO
+ MONTT
++56-­‐65-­‐2752179/+56-­‐65-­‐2714278
+
+www.ecosistema.cl
+
+info@ecosistema.cl
+
+Puerto
+ Montt,
+ Enero
+ 2015
+
+**CONTENIDO**
+
+**1** **DESCRIPCIÓN DEL PROYECTO O ACTIVIDAD (ARTÍCULO 19 D.S. Na** **40/12, LITERAL A.1)** **6**
+
+**1.1** **ANTECEDENTES** **GENERALES** **DEL** **TITULAR** **6**
+**1.2** **ANTECEDENTES** **GENERALES** **DEL** **PROYECTO** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL
+ A** **.2)** **6**
+1.2.1 N OMBRE
+ DEL
+ PROYECTO 6
+1.2.2 B REVE D ESCRIPCIÓN
+ DEL P ROYECTO . 6
+1.2.3 O BJETIVO G ENERAL
+ DEL P ROYECTO 8
+1.2.4 T IPOLOGÍA
+ DEL P ROYECTO 8
+1.2.5 M ONTO E STIMADO
+ DE
+ LA I NVERSIÓN 9
+1.2.6 V IDA
+ ÚTIL 10
+1.2.7 M ODIFICACIÓN
+ DE
+ PROYECTO, A RTICULO 12 DEL D.S. No 40/2012 MMA 10
+1.2.8 D ESARROLLO
+ DEL
+ PROYECTO
+ POR
+ ETAPAS . A RTÍCULO 14 D.S. No 40/2012 MMA 10
+1.2.9 E STABLECIMIENTO
+ DE
+ INICIO
+ EJECUCIÓN
+ DEL
+ PROYECTO . A RTÍCULO 16 No 40/2012 MMA. 10
+1.2.10 I NFORMACIÓN
+ DE
+ NEGOCIACIONES . A RTÍCULO 17 No 40/2012 MMA. 10
+**1.3** **LOCALIZACIÓN** **DEL** **PROYECTO** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL
+ A** **.3)** **11**
+1.3.1 D IVISIÓN P OLÍTICO -­‐A DMINISTRATIVA 11
+1.3.2 R EPRESENTACIÓN C ARTOGRÁFICA
+ DE
+ LA C ONCESIÓN 11
+1.3.3 S UPERFICIE
+ DE
+ LA C ONCESIÓN 14
+1.3.4 V ÍAS
+ DE A CCESO 14
+1.3.5 J USTIFICACIÓN
+ DE
+ LA L OCALIZACIÓN 17
+**1.4** **DESCRIPCIÓN** **DE** **LAS** **PARTES,** **ACCIONES** **Y** **OBRAS** **FÍSICAS** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL**
+
+**A** **.4).
+ 41**
+1.4.1 L EVANTAMIENTO
+ DE I NFORMACIÓN 41
+**1.5** **ETAPA** **DE** **CONSTRUCCIÓN** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL
+ A** **.5).** **42**
+1.5.1 P ARTES, OBRAS
+ Y
+ ACCIONES
+ DE
+ LA
+ ETAPA
+ DE
+ CONSTRUCCIÓN 42
+1.5.2 F ECHAS
+ ESTIMADAS
+ PARA
+ INICIO
+ ETAPA
+ DE
+ CONSTRUCCIÓN 46
+1.5.3 C RONOGRAMA
+ DE
+ ACTIVIDADES
+ EN
+ ETAPA
+ DE
+ CONSTRUCCIÓN 46
+1.5.4 M ANO
+ DE O BRA
+ ETAPA
+ DE
+ CONSTRUCCIÓN 46
+1.5.5 P ROVISIÓN
+ SUMINISTROS
+ BÁSICOS 46
+1.5.6 C ANTIDAD
+ DE
+ RECURSOS
+ NATURALES
+ RENOVABLES
+ A
+ EXTRAER
+ O
+ EXPLOTAR 47
+1.5.7 E MISIONES
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD
+ Y
+ LAS
+ FORMAS
+ DE
+ ABATIMIENTO
+ Y
+ CONTROL
+ CONTEMPLADAS 47
+1.5.8 C ANTIDAD
+ Y
+ MANEJO
+ DE
+ RESIDUOS, PRODUCTOS
+ QUÍMICOS
+ Y
+ OTRAS
+ SUSTANCIAS
+ QUE
+ PUEDAN
+ AFECTAR
+ EL
+
+MEDIO
+ AMBIENTE . 47
+**1.6** **ETAPA** **DE** **OPERACIÓN** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL
+ A** **.6)** **48**
+1.6.1 E TAPA
+ DE O PERACIÓN 48
+1.6.2 F ECHAS
+ ESTIMADAS
+ PARA
+ INICIO
+ ETAPA
+ DE
+ OPERACIÓN 56
+1.6.3 C RONOGRAMA
+ DE
+ ACTIVIDADES
+ EN
+ ETAPA
+ DE
+ OPERACIÓN 57
+1.6.4 M ANO
+ DE O BRA
+ ETAPA
+ DE
+ OPERACIÓN 57
+1.6.5 P ROVISIÓN
+ SUMINISTROS
+ BÁSICOS 57
+1.6.6 C ANTIDAD
+ DE
+ RECURSOS
+ NATURALES
+ RENOVABLES
+ A
+ EXTRAER
+ O
+ EXPLOTAR 58
+1.6.7 E MISIONES
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD
+ Y
+ LAS
+ FORMAS
+ DE
+ ABATIMIENTO
+ Y
+ CONTROL
+ CONTEMPLADAS . 58
+
+1.6.8 C ANTIDAD
+ Y
+ MANEJO
+ DE
+ RESIDUOS, PRODUCTOS
+ QUÍMICOS
+ Y
+ OTRAS
+ SUSTANCIAS
+ QUE
+ PUEDAN
+ AFECTAR
+ EL
+
+MEDIO
+ AMBIENTE . 59
+**1.7** **ETAPA** **DE** **ABANDONO** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL
+ A** **.7)** **64**
+
+1.7.1 R ESIDUOS 64
+**1.8** **PLANES** **DE** **MITIGACIÓN** **Y** **CONTINGENCIA** **(** **ARTÍCULO** **19** **D.S.** **No** **40/12,** **LITERAL
+ A** **.8)** **66**
+1.8.1 P LAN D E C ONTINGENCIA . 66
+
+**2** **ANTECEDENTES PARA EVALUAR QUE EL PROYECTO O ACTIVIDAD NO REQUIERE PRESENTAR UN**
+**ESTUDIO DE IMPACTO AMBIENTAL (ARTÍCULO 19 D.S. No** **40/12, LITERAL B).** **68**
+
+**3** **ANTECEDENTES PARA EVALUAR EL CUMPLIMIENTO DE LAS NORMAS DE CALIDAD AMBIENTAL**
+
+**134**
+
+**3.1** **N** **ORMAS
+ AMBIENTALES
+ APLICABLES
+ AL
+ PROYECTO** **134**
+**3.2** **P** **ERMISOS** **A** **MBIENTALES** **S** **ECTORIALES** **(A** **RT** **.** **12** **BIS** **D,** **L** **EY** **20.417)** **141**
+
+**4** **COMPROMISOS AMBIENTALES** **143**
+
+**5** **FICHA RESUMEN PARA CADA FASE DEL PROYECTO O ACTIVIDAD** **144**
+
+**6** **EQUIPO PARTICIPANTE EN LA EJECUCIÓN Y ELABORACIÓN DE LA D.I.A.** **172**
+
+**7** **DESCRIPCIÓN DE RELACIÓN ENTRE PROYECTOS Y POLÍTICAS, PLANES Y PROGRAMAS DE**
+**DESARROLLO REGIONAL Y COMUNAL (ART. 9 TER, LEY 20.417)** **173**
+
+**8** **TEXTO AVISO RADIAL** **180**
+
+**9** **FIRMA DE LA DECLARACIÓN** **181**
+
+T ABLA 1 I DENTIFICACIÓN
+ DEL
+ TITULAR ...............................................................................................................................................................
+ 6
+T ABLA 2 N OMBRE
+ DEL P ROYECTO .....................................................................................................................................................................
+ 6
+T ABLA 3 U BICACIÓN
+ POLÍTICO
+ ADMINISTRATIVA
+ Y
+ GEOGRÁFICA
+ DE
+ LA
+ CONCESIÓN
+ DE
+ ACUICULTURA ........................................................
+ 11
+T ABLA 4 U BICACIÓN
+ GEOGRÁFICA
+ DE
+ LA
+ CONCESIÓN
+ DE
+ ACUICULTURA ........................................................................................................
+ 11
+T ABLA 5. S ITUACIÓN
+ DEMOGRÁFICA
+ GENERAL
+ SEGÚN
+ NIVELES
+ TERRITORIALES .
+ ...........................................................................................
+ 21
+T ABLA 6. P OBREZA
+ EN
+ LA
+ COMUNA
+ DE A ISÉN
+ SEGÚN E NCUESTA C ASEN . _(F_ _UENTE_ _:_ _B_ _IBLIOTECA
+ DE_ _C_ _ONGRESO
+ NACIONAL_ _,_ _R_ _EPORTE_
+
+_ESTADÍSTICO
+ DISTRITAL
+ Y
+ COMUNAL_ _,_ _2013)._ ......................................................................................................................................
+ 22
+T ABLA 7. E TNIAS
+ EN
+ LA C OMUNA
+ DE A ISEN
+ SEGÚN E NCUESTA C ASEN . _(F_ _UENTE_ _:_ _B_ _IBLIOTECA
+ DE_ _C_ _ONGRESO
+ NACIONAL_ _,_ _R_ _EPORTE_
+
+_ESTADÍSTICO
+ DISTRITAL
+ Y
+ COMUNAL_ _,_ _2013)._ ......................................................................................................................................
+ 22
+T ABLA 8. N IVEL
+ EDUCACIONAL
+ EN
+ LA
+ COMUNA
+ DE A ISÉN
+ SEGÚN E NCUESTA C ASEN . _(F_ _UENTE_ _:_ _B_ _IBLIOTECA
+ DE_ _C_ _ONGRESO
+ NACIONAL_ _,_
+
+_R_ _EPORTE
+ ESTADÍSTICO
+ DISTRITAL
+ Y
+ COMUNAL_ _,_ _2013)._ ......................................................................................................................
+ 23
+T ABLA 9. N ÚMEROS
+ NETOS
+ DE
+ ENTRADA
+ A
+ LOS
+ DIFERENTES SNASPE AÑO 2013
+ ......................................................................................
+ 23
+T ABLA 10. V IAJES
+ DENTRO
+ DE
+ LA R EGIÓN
+ AÑO 2013.
+ ..................................................................................................................................
+ 24
+T ABLA 11. SNASPE REGIÓN
+ DE A ISEN
+ Y
+ DISTANCIAS
+ EN
+ LÍNEA
+ RECTA
+ RESPECTO
+ DEL
+ PROYECTO ...............................................................
+ 39
+T ABLA 12. I NGRESO
+ DE
+ ESTRUCTURAS
+ DE
+ CULTIVO ........................................................................................................................................
+ 42
+T ABLA 13. G ENERACIÓN
+ DE
+ ENSILAJE
+ Y
+ FRECUENCIA
+ DE
+ RETIRO .
+ ..................................................................................................................
+ 45
+
+T ABLA 14. F ECHA
+ INICIO
+ ETAPA
+ CONSTRUCCIÓN .
+ ..........................................................................................................................................
+ 46
+T ABLA 15. C RONOGRAMA
+ DE
+ ACTIVIDADES ...................................................................................................................................................
+ 46
+T ABLA 16. M ANO
+ DE
+ OBRA .............................................................................................................................................................................
+ 46
+T ABLA 17. A LIMENTO
+ SUMINISTRADO ( KG ).
+ ..................................................................................................................................................
+ 51
+T ABLA 18. P ROYECCIÓN
+ DE
+ MORTALIDAD
+ POR
+ CICLO
+ DE
+ PRODUCCIÓN . M ORTALIDAD
+ PROYECTADA 15% ACUMULADA .
+ ........................
+ 53
+T ABLA 19. F ECHA
+ INICIO
+ DE
+ ACTIVIDADES ......................................................................................................................................................
+ 56
+T ABLA 20. C ARTA G ANTT
+ ETAPA
+ DE
+ PRODUCCIÓN ........................................................................................................................................
+ 57
+T ABLA 21. M ANO
+ DE
+ OBRA
+ ETAPA
+ DE
+ OPERACIÓN ........................................................................................................................................
+ 57
+T ABLA 22. C RONOGRAMA
+ DE
+ ACTIVIDADES
+ ETAPA
+ DE
+ ABANDONO ...............................................................................................................
+ 64
+T ABLA 23. C OORDENADAS
+ GEOGRÁFICAS
+ ESTACIONES
+ DE
+ MUESTREO ..........................................................................................................
+ 70
+T ABLA 24. E SPECIES
+ DE
+ AVES
+ MARINAS
+ Y
+ MAMÍFEROS
+ OBSERVADAS
+ EN
+ LOS
+ MUESTREOS .
+ ..........................................................................
+ 73
+T ABLA 25. E SPECIES
+ MAMÍFEROS
+ OBSERVADAS
+ EN
+ LOS
+ MUESTREOS .
+ ...........................................................................................................
+ 75
+T ABLA 26. E SPECIES
+ DE
+ FAUNA
+ MARINA, CRITERIOS
+ DE
+ PROTECCIÓN ...........................................................................................................
+ 79
+T ABLA 27. Í NDICE
+ DE
+ IMPACTO
+ RELOCALIZACIÓN P UNTA C ESARI .
+ ................................................................................................................
+ 93
+T ABLA 28. Í NDICE
+ DE
+ IMPACTO
+ RELOCALIZACIÓN P UNTA C ESARI . V ELOCIDAD
+ DE
+ CORRIENTES
+ PROMEDIO
+ A 60 M
+ DE
+ PRONDIDAD .........
+ 94
+T ABLA 29. D ETERMINACIÓN
+ DE
+ LOS
+ VALORES
+ DE
+ LAS
+ VARIABLES .
+ .................................................................................................................
+ 95
+T ABLA 30. S UPERFICIE
+ TASA
+ DE
+ DEPOSITACIÓN
+ CARBONO
+ ORGÁNICO
+ DE
+ ACUERDO
+ A
+ MODELACIÓN DEPOMOD
+ ...................................
+ 97
+T ABLA 31. C IRCULACIÓN
+ EMBARCACIONES
+ DE
+ LA
+ OPERACIÓN
+ DEL
+ PROYECTO .
+ .........................................................................................
+ 101
+T ABLA 32. Á REAS SNASPE Y
+ DISTANCIA
+ EN
+ LÍNEA
+ RECTA
+ AL
+ CENTRO
+ DE
+ CULTIVO ...................................................................................
+ 122
+T ABLA 33. A TRACTIVOS
+ TURÍSTICOS
+ CERCANOS
+ AL
+ PROYECTO
+ SEGÚN
+ JERARQUÍA, CATEGORÍA
+ Y
+ DISTANCIA
+ EN
+ LÍNEA
+ RECTA
+ AL
+ CENTRO
+ DE
+
+CULTIVO .............................................................................................................................................................................................
+ 124
+T ABLA 34. A NTECEDENTES, MEDIDAS
+ O
+ ACCIONES
+ A
+ IMPLEMENTAR
+ QUE
+ SE
+ HAGAN
+ CARGO
+ DE
+ LOS
+ IMPACTOS
+ DETECTADOS
+ QUE
+
+JUSTIFIQUEN
+ LA
+ INEXISTENCIA
+ DE AQUELLOS
+ EFECTOS, CARACTERÍSTICAS
+ O
+ CIRCUNSTANCIAS
+ DEL
+ ARTÍCULO 11 DE
+ LA L EY
+ QUE
+
+PUEDAN
+ DAR
+ ORIGEN
+ A
+ LA
+ NECESIDAD
+ DE
+ EFECTUAR
+ UN E STUDIO
+ DE I MPACTO A MBIENTAL .
+ ......................................................
+ 128
+
+F IGURA 1 U BICACIÓN C ONCESIÓN
+ ESTERO Q UEULAT
+ Y
+ SU
+ RELOCALIZACIÓN
+ EN P UNTA C ESARI ....................................................................
+ 7
+F IGURA 2. U BICACIÓN
+ PROYECTO P UNTA C ESARI .
+ .........................................................................................................................................
+ 12
+F IGURA 3. M APA
+ DE
+ UBICACIÓN
+ DEL
+ ÁREA
+ DEL
+ PROYECTO
+ RESPECTO
+ DE
+ ÁREAS SNASPE: PN Q UEULAT .................................................
+ 13
+F IGURA 4. R UTAS
+ DE
+ NAVEGACIÓN
+ GENERALES
+ EN
+ LA
+ REGIÓN
+ DE A YSÉN .....................................................................................................
+ 15
+F IGURA 5. T RACK
+ DE
+ NAVEGACIÓN
+ DESDE Q UELLON -­‐M ELINKA
+ AL
+ CENTRO
+ DE C ULTIVO .............................................................................
+ 16
+F IGURA 6. T RACK
+ DE N AVEGACIÓN
+ DESDE P UERTO A YSEN -­‐C HACABUCO
+ AL
+ CENTRO
+ DE
+ CULTIVO ..............................................................
+ 17
+F IGURA 7. U BICACIÓN
+ CENTROS
+ DE
+ CULTIVO A CUÍCOLA P UYUHUAPI
+ S .A.
+ ...................................................................................................
+ 18
+F IGURA 8. Á REAS A PROPIADAS
+ PARA
+ EL
+ EJERCICIO
+ DE
+ LA A CUICULTURA (F UENTE : I NFORMACIÓN S UBPESCA )
+ .........................................
+ 19
+F IGURA 9. Z ONIFICACIÓN B ORDE C OSTERO ...................................................................................................................................................
+ 20
+F IGURA 10. U BICACIÓN
+ PROYECTO
+ RELOCALIZACIÓN
+ Y SNASPE P.N. Q UEULAT
+ Y P.N. I SLA M AGDALENA .............................................
+ 21
+F IGURA 11. U BICACIÓN
+ CENTRO
+ CULTIVO
+ RESPECTO
+ DE
+ LAS
+ CALETAS
+ DE
+ PESCADORES
+ UBICADAS
+ EN
+ EL
+ SECTOR
+ Y
+ ÁREAS
+ DE
+ MANEJO . 1)
+
+C ALETA P UERTO P UYUHUAPI ; 2) C ALETA P UERTO
+ CISNES ; 3) P UERTO G AVIOTA . C IRCULO N ARANJO
+ INDICA
+ UBICACIÓN
+ DEL
+
+PROYECTO .
+ ............................................................................................................................................................................................
+ 25
+F IGURA 12. U BICACIÓN
+ CENTRO C ESARI
+ Y Z ONAS
+ DE P ESCA (F UENTE : SERNAPESCA)
+ ............................................................................
+ 27
+F IGURA 13U BICACIÓN
+ CENTRO
+ DE
+ CULTIVO C ÉSARI
+ Y
+ ZONAS
+ DE
+ PESCA
+ DE A LMEJA (2.03 MILLAS
+ NÁUTICAS ) Y S ARDINA A USTRAL (3.59
+
+MILLAS
+ NÁUTICAS ), Á REA
+ COLOR
+ MAGENTA : Á REA
+ DE I NFLUENCIA ( FUENTE : SERNAPESCA).
+ .....................................................
+ 28
+F IGURA 14. I NFRAESTRUCTURA
+ MARÍTIMA
+ Y
+ AÉREA . F UENTE IDE P ORTAL
+ DE C HILE .
+ .................................................................................
+ 29
+F IGURA 15. D ISTRIBUCIÓN
+ ESPACIAL
+ DE
+ LAS
+ AVES
+ MARINAS
+ Y
+ MAMÍFEROS
+ REGISTRADAS
+ DURANTE
+ EL
+ MUESTREO
+ REALIZADO
+ EL 4 AL 6 DE
+
+JULIO
+ DEL 2014.
+ ..................................................................................................................................................................................
+ 34
+F IGURA 16. T RANSECTA
+ REGISTRO
+ VISUAL
+ BORDE
+ COSTERO
+ ÁREA
+ DE
+ INFLUENCIA
+ DIRECTA
+ DEL
+ PROYECTO ...............................................
+ 35
+F IGURA 17. Á REA
+ DE
+ INFLUENCIA
+ DEL
+ PROYECTO ..........................................................................................................................................
+ 69
+
+F IGURA 18. UBICACIÓN
+ ESTACIONES
+ DE
+ MUESTREO
+ Y
+ AVISTAMIENTO
+ DENTRO
+ DEL
+ ÁREA
+ DE
+ INFLUENCIA
+ DIRECTA
+ DEL
+ PROYECTO . F LECHAS
+
+Y
+ LÍNEA
+ ROJA
+ PUNTEADAS
+ ZONA
+ DE
+ AVISTAMIENTOS
+ DE
+ AVES
+ Y
+ MAMÍFEROS
+ MARINOS ; LÍNEA B LANCA
+ RECORRIDO
+ BORDE
+ COSTERO
+
+CON
+ CÁMARA
+ SUBMARINA .
+ ..................................................................................................................................................................
+ 71
+F IGURA 19. D ISTRIBUCIÓN
+ DE
+ AVISTAMIENTOS .............................................................................................................................................
+ 74
+F IGURA 20. D ISPERSIÓN
+ Y
+ CONCENTRACIÓN
+ DE
+ CARBONO .
+ ..........................................................................................................................
+ 96
+F IGURA 21. Á REA
+ DE
+ INFLUENCIA
+ DEL
+ PROYECTO ..........................................................................................................................................
+ 99
+F IGURA 22. B IODIVERSIDAD
+ CORRESPONDIENTE
+ AL
+ BORDE
+ COSTERO
+ QUE
+ SE
+ ENCUENTRA
+ DENTRO
+ DEL
+ ÁREA
+ DE
+ INFLUENCIA
+ DEL
+
+PROYECTO ..........................................................................................................................................................................................
+ 100
+F IGURA 23. U BICACIÓN
+ CENTRO
+ DE
+ CULTIVO
+ Y
+ DISTANCIA
+ APROXIMADA
+ DE
+ LOS
+ CENTROS
+ POBLADOS .
+ ..................................................
+ 102
+F IGURA 24. P UERTOS
+ Y
+ CALETAS
+ DE
+ PESCADORES .......................................................................................................................................
+ 103
+F IGURA 25. A SENTAMIENTOS
+ Y
+ AERÓDROMOS
+ COMUNA
+ DE C ISNES .
+ ........................................................................................................
+ 104
+F IGURA 26. U BICACIÓN
+ CENTRO C ESARI
+ Y Z ONAS
+ DE P ESCA (F UENTE : SERNAPESCA)
+ .........................................................................
+ 106
+F IGURA 27. U BICACIÓN
+ CENTRO
+ DE
+ CULTIVO C ÉSARI
+ Y
+ ZONAS
+ DE
+ PESCA
+ DE A LMEJA (2.03 MILLAS
+ NÁUTICAS ) Y S ARDINA A USTRAL (3.59
+
+MILLAS
+ NÁUTICAS ), Á REA
+ COLOR M AGENTA, Á REA
+ DE I NFLUENCIA V ISUAL, Á REA
+ COLOR
+ ROJO : Á REA
+ DE I NFLUENCIA D IRECTA
+( FUENTE : SERNAPESCA).
+ ..............................................................................................................................................................
+ 107
+F IGURA 28. U BICACIÓN
+ CENTRO
+ DE
+ CULTIVO
+ RESPECTO
+ DE SNASPE MÁS
+ CERCANO ..............................................................................
+ 112
+F IGURA 29. U NIDADES
+ DE
+ PAISAJE
+ CENTRO P UNTA C ÉSARI .......................................................................................................................
+ 114
+F IGURA 30 C UENCA
+ VISUAL
+ TRACK
+ DE
+ NAVEGACIÓN
+ TURÍSTICO
+ COMERCIAL .............................................................................................
+ 115
+F IGURA 31 C UENCA
+ VISUAL
+ RUTA 7 Y
+ RUTA X-­‐24
+ ......................................................................................................................................
+ 116
+F IGURA 32C UENCA
+ VISUAL
+ DE
+ UN
+ OBSERVADOR
+ TEÓRICO .........................................................................................................................
+ 117
+F IGURA 33. F OTOMONTAJE
+ CENTRO P UNTA C ÉSARI ..................................................................................................................................
+ 120
+_F_ _IGURA_ _34._ _Á_ _REAS_ _SNASPE_ _EN
+ LA_ _R_ _EGIÓN
+ DE_ _A_ _YSÉN_ ..............................................................................................................................
+ 121
+F IGURA 35. A TRACTIVOS
+ TURÍSTICOS
+ CERCANOS
+ AL
+ CENTRO
+ DE
+ CULTIVO .................................................................................................
+ 123
+
+**“RELOCALIZACIÓN
+ CONCESIÓN
+ DE
+ ACUICULTURA
+ AL
+ NORESTE
+ DE
+ PUNTA
+ CESARI,
+ COMUNA**
+
+**DE
+ CISNES,
+ PROVINCIA
+ DE
+ AISÉN,
+ DÉCIMO
+ PRIMERA
+ REGIÓN
+ DE
+ AYSEN.**
+
+**ACUÍCOLA
+ PUYUHUAPI
+ S.A.**
+
+# 1 DESCRIPCIÓN
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD
+ (artículo
+ 19
+ D.S.
+ Na
+ 40/12,
+ literal** **a.1)**
+
+_**1.1**_
+_**ANTECEDENTES
+ GENERALES
+ DEL
+ TITULAR**_
+
+_Tabla
+ 1
+ Identificación
+ del
+ titular_
+
+|Nombre|ACUÍCOLA PUYUHUAPI S.A.|
+|---|---|
+|Rut|76.040.417-9|
+|Fono- Fax|+56652584100/ 2584100|
+|Domicilio|Av.DiegoPortales2000piso9 PuertoMontt|
+|Direcciónenvíodocumentación|Av.DiegoPortales2000piso9 PuertoMontt|
+|RepresentanteLegal|**IgnacioOchagavíaFuentes **|
+|RUT|7.011.357-0|
+|e-mail|pdelaparra@marinefarm.cl; info@ecosistema.cl|
+|Fono- Fax|+56652481280/ 2481280|
+|Domicilio|Av.DiegoPortales2000piso9 PuertoMontt|
+
+_**Cabe
+ destacar
+ que
+ en
+ el
+ mes
+ de
+ noviembre
+ del
+ 2014
+ se
+ ingresa
+ a
+ las
+ oficinas
+ del
+ SEA
+ de
+ Coihaique**_
+_**toda
+ la
+ documentación
+ legal
+ vigente
+ de
+ la
+ empresa
+ Acuícola
+ Puyuhuapi,
+ por
+ lo
+ que
+ nos
+ e
+ presenta**_
+_**dicha
+ documentación
+ por
+ encontrarse
+ en
+ poder
+ del
+ Servicio
+ de
+ Evaluación
+ Ambiental.**_
+
+_**1.2**_
+_**ANTECEDENTES
+ GENERALES
+ DEL
+ PROYECTO
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.2)**_
+
+1.2.1
+Nombre
+ del
+ proyecto
+
+_Tabla
+ 2
+ Nombre
+ del
+ Proyecto_
+
+|Nombre|PUNTA CESARI|
+|---|---|
+|Ubicación <br>|SenoVentisquero,alnorestedePuntaCesari <br>|
+|Comuna <br>|Cisnes <br>|
+|Provincia <br>|Aisén <br>|
+|Región|XIaREGIÓNDEAYSEN|
+
+1.2.2
+Breve
+ Descripción
+ del
+ Proyecto.
+El
+ proyecto
+ que
+ se
+ somete
+ a
+ evaluación
+ corresponde
+ a
+ una
+ solicitud
+ de
+ relocalización
+ de
+ la
+ concesión
+de
+ acuicultura
+ ubicada
+ en
+ estero
+ Queulat
+ (código
+ de
+ centro
+ 110362),
+ que
+ se
+ relocaliza
+ en
+ seno
+ventisquero,
+ al
+ noreste
+ de
+ Punta
+ Cesari,
+ comuna
+ de
+ Cisnes,
+ Provincia
+ de
+ Aisén,
+ XI
+ Región
+ de
+ Aisén,
+
+otorgada
+ originalmente
+ a
+ Patagonia
+ Salmon
+ Farming
+ S.A.
+ mediante
+ Resolución
+ N°
+ 1802
+ del
+ año
+ 2001
+de
+ la
+ Subsecretaría
+ de
+ Marina,
+ la
+ cual
+ fue
+ transferida
+ a
+ la
+ sociedad
+ Acuícola
+ Puyuhuapi
+
+ S.A.
+ según
+consta
+ en
+ el
+ Registro
+ de
+ Concesiones
+ de
+ Acuicultura
+ anotado
+ en
+ Repertorio
+ Fs.
+ 1
+ N°
+ 13
+ Registro
+ de
+Concesiones
+ de
+ Acuicultura,
+ Fs.
+ 02
+ UTA
+ N°
+ 04
+ año
+ 2010.
+
+Aun
+ cuando
+ el
+ proyecto
+ técnico
+ original
+ presenta
+ una
+ producción
+ de
+ 4000
+ ton,
+ el
+ titular,
+ de
+ acuerdo
+ a
+su
+ nuevo
+ programa
+ de
+ producción,
+ ha
+ decidido
+ modificar
+ el
+ proyecto
+ disminuyendo
+ la
+ producción
+ a
+3.200
+ ton;
+ por
+ tanto
+ el
+ presente
+ proyecto
+ pretende
+ producir
+ 3.200
+ toneladas
+ de
+ salmónidos,
+ para
+ ello
+se
+ requiere
+ el
+ uso
+ de
+ 16
+ balsas
+ jaulas
+ de
+ 30
+ m
+ de
+ lado
+ por
+ 18m
+ de
+ profundidad,
+ para
+ desarrollar
+ la
+etapa
+ de
+ engorda
+ de
+ salmónidos.
+ Este
+ centro
+ operará
+ sobre
+ una
+ extensión
+ de
+ 2,73
+ hás
+ que
+corresponden
+ a
+ la
+ concesión
+ de
+ acuicultura,
+ sólo
+ con
+ instalaciones
+ en
+ el
+ mar,
+ razón
+ por
+ la
+ cual
+ no
+existe
+ riesgo
+ de
+ interferir
+ las
+ actividades
+ de
+ la
+ población
+ en
+ tierra.
+
+El
+ acceso
+ se
+ realizará
+ por
+ vía
+ marítima
+ para
+ las
+ actividades
+ de
+ carga
+ y
+ descarga,
+
+ así
+ como
+ para
+ el
+traslado
+ de
+ las
+ estructuras
+ flotantes
+ y
+ sistemas
+ de
+ fondeos
+ con
+ las
+ que
+ contará
+ el
+ centro
+ durante
+ su
+etapa
+ de
+ construcción.
+ Por
+ las
+ mismas
+ vías
+ se
+ realizará
+ todo
+ el
+ movimiento
+ de
+ abastecimiento
+ de
+insumos
+ durante
+ su
+ etapa
+ de
+ operación.
+
+Cabe
+ destacar
+ que
+ la
+ relocalización
+ del
+ centro
+ es
+ a
+ un
+ sector
+ nuevo
+ y
+ sin
+ operación
+ de
+ ningún
+ tipo,
+ por
+tanto
+ la
+ implementación
+ del
+ centro
+ corresponde
+ a
+ la
+ instalación
+ de
+ estructuras
+ de
+ cultivo
+ y
+ estructuras
+anexas,
+ como
+ el
+ centro
+ Queulat
+ se
+ encuentra
+ vacío
+ sin
+ instalaciones,
+ por
+ tanto
+ no
+ habrá
+ traslado
+ de
+ninguna
+ estructura
+ desde
+ este
+ centro
+ a
+ la
+ nueva
+ localización.
+ Para
+ una
+ mejor
+ comprensión
+ se
+ adjunta
+en
+ el **anexo
+ 1** plano
+ ubicación
+ del
+ centro
+ Queulat
+ y
+ su
+ nueva
+ ubicación
+ en
+ Punta
+ Cesari.
+ (Figura
+ 1)
+
+_Figura
+ 1
+ Ubicación
+ Concesión
+ estero
+ Queulat
+ y
+ su
+ relocalización
+ en
+ Punta
+ Cesari_
+
+1.2.3
+Objetivo
+ General
+ del
+ Proyecto
+Obtener
+ en
+ el
+ proceso
+ de
+ evaluación,
+ la
+ calificación
+ ambiental
+ favorable
+ para
+ la
+ autorización
+ sectorial
+que
+ permita
+ la
+ relocalización
+ de
+ la
+ concesión
+ de
+ acuicultura
+ otorgada
+ por
+ Resolución
+ N°
+ 1802
+ del
+ año
+2001
+ de
+ la
+ Subsecretaría
+ de
+ Marina
+ y
+ consecuentemente
+ la
+ autorización
+ para
+ la
+ biomasa
+ máxima
+solicitada.
+El
+ proyecto
+ pretende
+ producir
+ 3.200
+ toneladas
+ de
+ salmónidos,
+ para
+ ello
+ se
+ requiere
+ el
+ uso
+ de
+ 16
+ balsas
+jaulas
+ de
+ 30
+ m
+ de
+ lado
+ por
+ 18m
+ de
+ profundidad,
+ para
+ desarrollar
+ la
+ etapa
+ de
+ engorda
+ de
+ salmónidos.
+Este
+ centro
+ operará
+ sobre
+ una
+ extensión
+ de
+ 2,73
+ hás
+ que
+ corresponden
+ a
+ la
+ concesión
+ de
+ acuicultura,
+sólo
+ con
+ instalaciones
+ en
+ el
+ mar,
+ razón
+ por
+ la
+ cual
+ no
+ existe
+ riesgo
+ de
+ interferir
+ las
+ actividades
+ de
+ la
+población
+ en
+ tierra.
+
+1.2.4
+Tipología
+ del
+ Proyecto
+El
+ proyecto
+ corresponde
+ a
+ la
+ relocalización
+ del
+ centro
+ de
+ cultivo
+ de
+ salmones
+ Estero
+ Queulat
+ a
+ un
+nuevo
+ sector
+ ubicado
+ en
+ seno
+ ventisquero,
+ al
+ Noreste
+ de
+ Punta
+ Cesari
+ Comuna
+ de
+ Cisnes,
+ Provincia
+ de
+Aisén,
+ XI [a] Región
+ de
+ Aysen.
+ El
+ proyecto
+ pretende
+ una
+ producción
+ máxima
+ autorizada
+ a
+ 3.200
+toneladas;
+ para
+ ello
+ se
+ contempla
+ el
+ uso
+ de
+ 16
+ balsas
+ jaulas
+ cuadradas
+ de
+ 30
+ m
+ de
+ lado
+ y
+ 18
+ m
+ de
+profundidad,
+ para
+ ejecutar
+ la
+ fase
+ de
+ engorda
+
+ de
+ salmones.
+ El
+ proyecto
+ cumple
+ con
+ la
+ tipología
+dispuesta
+ en
+ el
+ Artículo
+ 10°
+ literal
+ "n",
+ de
+ la
+ Ley
+ 19.300
+ y
+ sus
+ modificaciones
+ y
+ con
+ el
+ Artículo
+ 3°
+ literal
+"n.3",
+ del
+ Reglamento
+ del
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ (D.S.
+ No
+ 40
+ de
+ 2012,
+ del
+Ministerio
+ Secretaría
+ General
+ de
+ la
+ Presidencia).
+
+El
+ proyecto
+ debe
+ someterse
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ (SEIA),
+ en
+ conformidad
+ a
+las
+ siguientes
+ disposiciones:
+
+Según
+ la
+ Ley
+ 19.300
+ Ley
+ de
+ Bases
+ del
+
+ Medio
+ Ambiente
+ y
+ su
+ modificación
+ Ley
+ N°
+ 20.417.
+Artículo
+ 10:
+ “Los
+ proyectos
+ o
+ actividades
+ susceptibles
+ de
+ causar
+ impacto
+ ambiental,
+ en
+ cualesquiera
+ de
+sus
+ fases,
+ que
+ deberán
+ someterse
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental,
+ son
+ los
+ siguientes:”
+
+n)
+ Proyectos
+ de
+ explotación
+ intensiva,
+ cultivo,
+ y
+ plantas
+ procesadoras
+ de
+ recursos
+ hidrobiológicos;
+
+Artículo
+ 3:
+ “Los
+ proyectos
+ o
+ actividades
+ susceptibles
+ de
+ causar
+ impacto
+ ambiental,
+ en
+ cualesquiera
+ de
+sus
+ fases,
+ que
+ deberán
+ someterse
+ al
+ sistema
+ de
+ evaluación
+ de
+ impacto
+ ambiental,
+ son
+ los
+ siguientes:”
+
+n.3)
+ “Una
+ producción
+ anual
+ igual
+ o
+ superior
+ a
+ treinta
+ y
+ cinco
+ toneladas
+ (35ton)
+ tratándose
+ de
+equinodermos,
+ crustáceos
+ y
+ moluscos
+ no
+ filtradores,
+ peces
+ y
+ otras
+ especies,
+ a
+ través
+ de
+ un
+ sistema
+ de
+producción
+ intensivo”.
+
+El
+ proyecto
+ corresponde
+ a
+ la
+ relocalización
+ de
+ un
+ Centro
+ de
+ Engorda
+ de
+ Salmones,
+ el
+ cual
+ tendrá
+ una
+producción
+ anual
+ máxima
+ de
+ 3.200
+ toneladas
+ (Proyecto
+ Técnico, **Anexo
+ 1** ).
+
+De
+ conformidad
+ a
+ la
+ reglamentación
+ vigente,
+ la
+ solicitud
+ de
+ concesión
+ de
+ acuicultura,
+ junto
+ con
+ la
+totalidad
+ de
+ los
+ antecedentes
+ requeridos,
+ entre
+ los
+ que
+ se
+ incluye
+ el
+ proyecto
+ técnico
+ y
+ cronograma
+ de
+actividades
+ ( **Anexo
+ 1** ).
+
+Cabe
+ destacar
+ que
+ la
+ solicitud
+ de
+ relocalización
+ del
+ centro
+ de
+ cultivo
+ corresponde
+ a
+ la
+ concesión
+ de
+acuicultura
+ de
+ origen
+ Estero
+ Queulat,
+ la
+ que
+ se
+ relocalizará
+ a
+ lugar
+ nuevo
+ ubicado
+ en
+ Seno
+Ventisquero,
+ al
+ noreste
+ de
+ punta
+ Cesari.
+ La
+ concesión
+ de
+ acuicultura
+ original
+ (estero
+ Queulat),
+ no
+cuenta
+ con
+ RCA
+ anterior,
+ solo
+ cuenta
+ la
+ Resolución
+ de
+ calificación
+ para
+ el
+ sistema
+ de
+ ensilaje
+ y
+ con
+ las
+siguientes
+ autorizaciones:
+
+ Resolución
+ Subpesca
+ N°
+ 666/2001
+
+ Resolución
+ Marina
+ N°
+ 1802/2001
+
+ RCA
+ No236/2011,
+ sistema
+ ensilaje
+
+Dado
+ que
+ el
+ actual
+ proyecto
+ trata
+ de
+ una
+ relocalización
+ de
+ la
+ concesión
+ de
+ acuicultura
+ otorgada
+ en
+origen,
+ una
+ vez
+ calificado
+ favorablemente
+ le
+ proyecto,
+ las
+ resoluciones
+ de
+ subpesca
+ y
+ marina
+ antes
+citadas
+ quedaran
+ sin
+ efecto,
+ por
+ tratarse
+ de
+ un
+ lugar
+ nuevo
+ y
+ distinto
+ al
+ otorgado.
+ Esto
+ está
+ estipulado
+en
+ la
+ normativa
+ que
+ autoriza
+ la
+ relocalización
+ de
+ concesiones
+ y
+ tiene
+ como
+ garantía
+ la
+ firma
+ de
+certificado
+ de
+ renuncia
+ a
+ la
+ concesión
+ original.
+
+En
+ la
+ elaboración
+ de
+ este
+ informe,
+ el
+ proyecto
+ acreditará
+ en
+ el
+ Capítulo
+ 2
+ de
+ la
+ presente
+ DIA,
+ que
+ no
+reúne
+ ninguno
+ de
+ los
+ efectos,
+ características
+ o
+ circunstancias
+ del
+ Artículo
+ 11
+ de
+ la
+ Ley
+ de
+ Bases
+Generales
+ del
+ Medio
+ Ambiente
+ (Ley
+ N°19.300)
+ y
+ detallados
+ en
+ los
+ Artículos
+ 7
+ al
+ 11
+ del
+ Reglamento
+ del
+SEIA
+ (D.S.
+ No40/2012),
+ es
+ decir:
+
+ü No
+ afecta
+ a
+ la
+ salud
+ de
+ la
+ población.
+ü No
+ produce
+ efectos
+ adversos
+ significativos
+ sobre
+ recursos
+ naturales
+ renovables.
+ü No
+ produce
+ reasentamiento
+ de
+ comunidades
+ humanas
+ o
+ alteraciones
+ significativas
+ de
+ su
+
+sistema
+ de
+ vida.
+ü No
+ se
+ localiza
+ en
+ las
+ proximidades
+ de
+ áreas
+ protegidas
+ o
+ recursos
+ protegidos.
+ü No
+ se
+ localiza
+ en
+ una
+ zona
+ con
+ valor
+ paisajístico
+ o
+ turístico,
+ ni
+ zonas
+ declaradas
+ de
+ valor
+
+turístico
+ nacional,
+ según
+ lo
+ dispuesto
+ en
+ el
+ D.L.
+ No1294
+ de
+ 1975.
+ü No
+ produce
+ alteración
+ de
+ recursos
+ arqueológicos,
+ históricos
+ y
+ en
+ general
+ los
+ pertenecientes
+ al
+
+patrimonio
+ cultural
+ del
+ país.
+ü No
+ está
+ próximo
+ (menos
+ de
+ 500
+ m)
+ a
+ algún
+ Monumento
+ Nacional
+ de
+ aquellos
+ definidos
+ por
+ la
+
+Ley
+ No17.288.
+ü No
+ interferirá
+ con
+ lugares
+ o
+ sitios
+ donde
+ se
+ lleven
+ a
+ cabo
+ manifestaciones
+ propias
+ de
+ la
+ cultura
+
+o
+ folclore
+ de
+ la
+ comunidad.
+ü No
+ se
+ localiza
+ en
+ un
+ territorio
+ con
+ valor
+ ambiental.
+
+Por
+ lo
+ tanto
+ y
+ en
+ conformidad
+ con
+ lo
+ indicado
+ en
+ el
+ análisis
+ realizado
+ de
+ la
+ Ley
+ de
+ Bases
+ de
+ Medio
+Ambiente
+ y
+ el
+ Reglamento
+ del
+ SEIA,
+ el
+ proyecto **“RELOCALIZACIÓN
+ CONCESIÓN
+ DE
+ ACUICULTURA
+ AL**
+**NORESTE
+ DE
+ PUNTA
+ CESARI,
+ COMUNA
+ DE
+ CISNES,
+ PROVINCIA
+ DE
+ AISÉN,
+ DECIMO
+ PRIMERA
+ REGIÓN**
+**DE
+ AYSEN”**,
+ corresponde
+ que
+ se
+ presente
+ bajo
+ la
+ forma
+ de
+ una
+ Declaración
+ de
+ Impacto
+ Ambiental
+(DIA)
+ según
+ el
+ D.S.
+ 40/2012
+ Reglamento
+ del
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental.
+
+1.2.5
+Monto
+ Estimado
+ de
+ la
+ Inversión
+El
+ monto
+ estimado
+ de
+ la
+ inversión
+ del
+ proyecto
+ será
+ de
+ US
+ $
+ 2.500.000
+ de
+ dólares
+ americanos
+
+1.2.6
+Vida
+ útil
+Considerando
+ que
+ las
+ concesiones
+ de
+ acuicultura
+ se
+ renuevan
+ cada
+ 25
+ años,
+ se
+ considera
+ una
+ vida
+ útil
+de
+ 25
+ años,
+ evaluando
+ la
+ continuidad
+ del
+ proyecto
+ por
+ períodos
+ iguales.
+
+1.2.7
+Modificación
+ de
+ proyecto,
+ Articulo
+ 12
+ del
+ D.S.
+ No
+ 40/2012
+ MMA
+En
+ conformidad
+ señalado
+ en
+ el
+ artículo
+ 12
+ del
+ D.S.
+ No
+ 40/2012
+ MMA,
+ el
+ presente
+ proyecto
+ no
+corresponde
+ a
+ una
+ modificación,
+ el
+ proyecto
+ trata
+ de
+ una
+ relocalización
+ de
+ una
+ porción
+ de
+ la
+ CCAA
+otorgada
+ mediante
+ Resolución
+ de
+ la
+ Sub-­‐Secretaría
+ de
+ Marina
+ N°
+ 1802/2001,
+ y
+ por
+ tanto
+ no
+corresponde
+
+ a
+ una
+ modificación.
+ El
+ hecho
+ de
+ posicionarse
+ en
+ un
+ nuevo
+ sector
+ implica
+ que
+ su
+tratamiento
+ debe
+ ser
+ como
+ un
+ nuevo
+ proyecto.
+
+1.2.8
+Desarrollo
+ del
+ proyecto
+ por
+ etapas.
+ Artículo
+ 14
+ D.S.
+ No
+ 40/2012
+ MMA
+En
+ conformidad
+ a
+ lo
+ señalado
+ en
+ el
+ Artículo
+ 14
+ D.S.
+ N°
+ 40/2012
+ MMA,
+ el
+ titular
+ señala
+ que
+ el
+ proyecto
+en
+ evaluación
+ no
+ considera
+ un
+ fraccionamiento
+ del
+ mismo
+ con
+ el
+ objeto
+ de
+ variar
+ el
+ instrumento
+ de
+evaluación
+ o
+ de
+ eludir
+ el
+ ingreso
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental.
+
+La
+ Declaración
+ de
+ Impacto
+ Ambiental
+ indica
+ expresamente
+ que
+ el
+ proyecto
+ o
+ actividades
+ se
+desarrollarán
+ por
+ etapas:
+ Construcción,
+ Operación
+ y
+ Cierre,
+ todas
+ descritas
+ íntegramente
+ en
+ el
+presente
+ documento,
+ indicando
+ para
+ cada
+ una
+ de
+ ellas
+ las
+ obras
+ o
+ acciones
+ asociadas
+ y
+ su
+ duración
+estimada.
+
+1.2.9
+Establecimiento
+ de
+ inicio
+ ejecución
+ del
+ proyecto.
+ Artículo
+ 16
+ No
+ 40/2012
+ MMA.
+En
+ conformidad
+ a
+ lo
+ indicado
+ en
+ el
+ Artículo
+ 16
+ del
+ D.S.
+ N°40/2012
+ MMA,
+ el
+ titular
+ señala
+ que
+ la
+gestión,
+ acto
+ o
+ faena
+ mínima
+ para
+ dar
+ cuenta
+ del
+ inicio
+ de
+ ejecución
+ del
+ proyecto
+ en
+
+ su
+ etapa
+ de
+ampliación
+ de
+ biomasa
+ será
+ el
+ desarrollo
+ de
+ los
+ estudios
+ de
+ ingeniería
+ (memoria
+ de
+ cálculo
+ de
+ fondeo)
+e
+ instalación
+ de
+ los
+ sistemas
+ de
+ fondeo
+ de
+ las
+ estructuras
+ a
+ instalar.
+
+1.2.10
+Información
+ de
+ negociaciones.
+ Artículo
+ 17
+ No
+ 40/2012
+ MMA.
+En
+ conformidad
+ a
+ lo
+ señalado
+ en
+ el
+ Artículo
+ 17
+ D.S.
+ N°40/2012
+ MMA,
+ el
+ titular
+ señala
+ que
+ no
+
+ ha
+existido
+ negociaciones
+ antes
+ del
+ ingreso
+ al
+ proceso
+ de
+ evaluación.
+
+_**1.3**_
+_**LOCALIZACIÓN
+ DEL
+ PROYECTO
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.3)**_
+El
+ proyecto **“RELOCALIZACIÓN
+ CONCESIÓN
+ DE
+ ACUICULTURA
+ AL
+ NORESTE
+ DE
+ PUNTA
+ CESARI,**
+**COMUNA
+ DE
+ CISNES,
+ PROVINCIA
+ DE
+ AISÉN,
+ DECIMO
+ PRIMERA
+ REGIÓN
+ DE
+ AYSEN”**,
+ se
+ ubica
+ en
+ seno
+Ventisquero,
+ al
+ noreste
+ de
+ Punta
+ Cesari,
+ aproximadamente
+ a
+ 18
+ km
+ al
+ suroeste
+ de
+ Puerto
+ Puyuhuapi
+ y
+a
+ 26
+ km
+ al
+ norte
+ de
+ puerto
+ Cisnes,
+ a
+ 68
+ km
+ al
+ norte
+ de
+
+ Puerto
+ Gaviota.
+
+1.3.1
+División
+ Político-­‐Administrativa
+La **Tabla
+ 3** presenta
+ la
+ información
+ político
+ administrativa
+ de
+ la
+ zona
+ de
+ emplazamiento
+ del
+ proyecto,
+así
+ como,
+ la **Tabla
+ 4** presenta
+ las
+ coordenadas
+ geográficas
+ de
+ los
+ vértices
+ del
+ polígono
+ que
+ delimitan
+ la
+Concesión
+ de
+ Acuicultura
+ (CC.AA.),
+ con
+ referencia
+ Carta
+ SHOA
+ N°801
+ (Datum
+ Local),
+ actualmente
+ no
+vigente
+ y
+ reemplazada
+ por
+ la
+ carta
+ SHOA
+ N°
+ 8500.
+
+_Tabla
+ 3
+ Ubicación
+ político
+ administrativa
+ y_ _geográfica
+ de
+ la
+ concesión
+ de
+ acuicultura_
+
+|Región|Aysén del General Carlos Ibáñez del Campo|
+|---|---|
+|Provincia <br>|Aisén <br>|
+|Comuna <br>|Cisnes <br>|
+|Sector <br>|SenoVentisquero,alNorestedePuntaCesari <br>|
+|CuerpodeAgua|SenoVentisquero|
+
+De
+ conformidad
+ a
+ lo
+ establecido
+ en
+ la
+ Ley
+ General
+ de
+ Pesca
+ y
+ Acuicultura,
+ el
+ área
+ en
+ solicitud,
+ respecto
+de
+ la
+ cual
+ se
+ desarrolla
+ la
+ presente
+ DIA,
+ fue
+ fijada
+ como
+ autorizada
+ para
+ el
+ ejercicio
+ de
+ la
+ acuicultura
+por
+ el
+ D.S.
+ No
+ 371
+ de
+ 1993
+ de
+ Subsecretaría
+ de
+ Marina
+ y
+ sus
+ modificaciones,
+ debiendo
+ utilizarse
+ como
+referencia
+ cartográfica
+ la
+ carta
+ SHOA
+ 801,
+ actualmente
+ obsoleta
+ y
+ reemplazada
+ por
+ carta
+ SHOA
+ N°
+8500
+ Datum
+ WGS-­‐84
+
+1.3.2
+Representación
+ Cartográfica
+ de
+ la
+ Concesión
+Las
+ tablas
+ 4
+ presenta
+ la
+ ubicación
+ geográfica
+ de
+ la
+ solicitud
+ de
+ relocalización
+ del
+ centro
+ de
+ cultivo
+ en
+base
+ a
+ la
+ carta
+ SHOA
+ No
+ 8500,
+ Datum
+ WGS-­‐84.
+
+_Tabla
+ 4
+ Ubicación
+ geográfica
+ de
+ la
+ concesión
+ de
+ acuicultura_
+
+|Coordenadas geográfica Vértice|Latitud (S)|Longitud (W)|Lados|
+|---|---|---|---|
+|A <br>|44o29'18.151'' <br>|72o39'24.580'' <br>|A-B <br>|
+|B <br>|44o29'19.092'' <br>|72o39'21.304'' <br>|B-C <br>|
+|C <br>|44o29'29.616'' <br>|72o39'27.200'' <br>|C-D <br>|
+|D <br>|44o29'28.675'' <br>|72o39'30.477''|D-A|
+|Referencia <br>|SHOA8500(WGS-84) <br>|SHOA8500(WGS-84) <br>|SHOA8500(WGS-84) <br>|
+|SuperficieOtorgada(Hás)|2,73|2,73|2,73|
+
+La **Figura
+ 2** muestra
+ un
+ conjunto
+ de
+ imágenes
+ (Google
+ Earth)
+ que
+ conforman
+ la
+ ubicación
+ geográfica
+de
+ la
+ zona
+ de
+ emplazamiento
+ del
+ proyecto,
+ en
+ la
+ Comuna
+ de
+ Cisnes,
+ Región
+ de
+ Aysen.
+
+_Figura
+ 2.
+ Ubicación
+ proyecto
+ Punta
+ Cesari._
+
+En
+ la **Figura
+ 3** se
+ presenta
+ un
+ mapa
+ de
+ la
+ ubicación
+ del
+ área
+ del
+ proyecto
+ con
+ relación
+ a
+ la
+ Reserva
+Nacional
+ Las
+ Guaitecas,
+ Parque
+ Nacional
+ Isla
+ Magdalena
+ y
+ Parque
+ Nacional
+ Queulat
+ (área
+ SNASPE
+ de
+ la
+Región
+ de
+ Aysen).
+
+_Figura
+ 3.
+ Mapa
+ de
+ ubicación
+ del
+ área
+ del
+ proyecto
+ respecto
+ de
+ áreas
+ SNASPE:
+ PN
+ Queulat_
+
+De
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ por
+ CONAF,
+ la
+
+ unidad
+ Queulat
+ está
+ ubicada
+ en
+ la
+ Región
+de
+ Aysén
+ del
+ General
+ Carlos
+ Ibáñez
+ del
+ Campo,
+ al
+ sur
+ de
+ Chaitén
+ y
+ a
+ 165
+ Kms
+ al
+ norte
+ de
+ Coyhaique.
+Fue
+ creada
+ el
+ 13
+ de
+ octubre
+ de
+ 1983,
+ por
+ Decreto
+ Supremo
+ N°
+ 640.
+
+Bosques,
+ caídas
+ de
+ agua,
+ fiordos,
+ y
+ ríos
+ son
+ algunos
+ de
+ los
+ atractivos
+ del
+ parque,
+ siendo
+ el
+ de
+ mayor
+interés
+ el
+ ventisquero
+ Colgante.
+
+Se
+ destaca
+ por
+ la
+ protección
+ de
+ las
+ especies
+ fauna,
+ aves
+ como;
+ el
+ carpintero
+ negro,
+ cóndor
+ y
+ chucao.
+Están
+ presentes
+ entre
+ los
+ mamíferos
+ el
+ pudú,
+ guiña
+ y
+ puma.
+ En
+ anfibios,
+ destaca
+ el
+ sapito
+ de
+ cuatro
+ojos.
+ Mientras
+ que
+ en
+ flora,
+ en
+ los
+ bosques
+ andinos
+ patagónicos,
+ se
+ presentan
+ especies
+ como;
+ la
+ lenga
+y
+ coigüe
+ de
+ Magallanes.
+ En
+ los
+ bosques
+ siempreverde
+ y
+ turberas,
+ se
+ pueden
+ encontrar
+ coigüe
+ de
+Chiloé,
+ tepa
+ y
+ canelo.
+
+En
+ Tanto
+ el
+ Parque
+ Nacional
+ isla
+ Magdalena,
+ fue
+ creada
+ el
+ 25
+ de
+ mayo
+ de
+ 1983,
+ por
+ el
+ Decreto
+Supremo
+ N°
+ 301.
+ La
+ unidad
+ destaca
+ por
+ la
+ protección
+ de
+ las
+ especies
+ de
+ fauna
+ tales
+ como
+ el
+ pingüino,
+zorzal,
+ huillín
+ y
+ el
+ lobo
+ marino
+ común.
+ En
+ cuanto
+ a
+ flora,
+ está
+ el
+ coigüe
+ de
+ Chiloé,
+ canelo
+ y
+ el
+ ciruelillo
+ o
+notro.
+
+El
+ presente
+ proyecto
+ se
+ emplaza
+ a
+ 13
+ millas
+ náuticas
+ en
+ línea
+ recta
+ del
+ parque
+ Queulat
+ por
+ la
+ ribera
+oeste
+ del
+ canal
+ Puyuhuapi
+ y
+ a
+ 20
+ millas
+ náuticas
+ del
+ Parque
+ Isla
+ Magdalena,
+ ambos
+ fuera
+ del
+ área
+ de
+influencia
+ del
+ proyecto,
+ es
+ decir,
+ este
+ centro
+ no
+ será
+ visualizado
+ desde
+ el
+ Parque
+ Nacional
+ Isla
+Magdalena;
+ en
+ tanto
+ si
+ será
+ visualizado
+ desde
+ el
+ track
+ de
+ navegación
+ de
+ las
+ embarcaciones
+ que
+circulen
+ por
+ este
+ sector
+ del
+ canal
+ Puyuhuapi.
+ (para
+ mayor
+ detalle
+ ver
+ estudio
+ de
+ paisaje
+ adjunto
+ en
+ el
+**anexo
+ 6** ).
+
+La
+ unidad
+ Las
+ Guaitecas
+ está
+ ubicada
+ en
+ las
+ comunas
+ de
+ Cisnes
+ y
+ Aysén,
+ provincia
+ de
+ Aisén,
+ Región
+ de
+Aysen
+ del
+ General
+ Carlos
+ Ibáñez
+ del
+ Campo.
+ Forma
+ parte
+ del
+ Archipiélago
+ de
+ los
+ Chonos.
+ Fue
+ creada
+por
+ Decreto
+
+ Supremo
+ N°
+ 2612
+ del
+ 28
+ de
+ octubre
+ de
+ 1938.
+
+1.3.3
+Superficie
+ de
+ la
+ Concesión
+La
+ solicitud
+ de
+ relocalización
+ tiene
+ una
+ superficie
+ total
+ de
+ 2,73
+ Hás,
+ misma
+ superficie
+ señalada
+ en
+ la
+Resolución
+ N°
+ 1802
+ de
+ 2001
+ de
+ la
+ Subsecretaría
+ de
+ Marina
+ que
+ otorgó
+ originalmente
+ la
+ concesión.
+
+|Etapa|Superficie|
+|---|---|
+|Construcción <br>|2,73 hás (área de concesión) <br>|
+|Operación|2,73hás(áreadeconcesión)|
+
+1.3.4
+Vías
+ de
+ Acceso
+La
+ concesión
+ se
+ localiza
+ en
+ Seno
+ Ventisquero,
+ al
+ noreste
+ de
+ Punta
+ Cesari,
+ en
+ la
+ Comuna
+ de
+ Cisnes,
+Región
+ de
+ Aysen,
+ a
+ aproximadamente
+ a
+ 18
+ km
+ al
+ suroeste
+ de
+ Puerto
+ Puyuhuapi
+ y
+ a
+ 26
+ km
+ al
+ norte
+ de
+puerto
+ Cisnes,
+ a
+ 68
+ km
+ al
+ norte
+ de
+
+ Puerto
+ Gaviota.
+
+La
+ figura
+ N°
+ 4
+ muestra
+ los
+ tracks
+ de
+ navegación
+ que
+ son
+ utilizados
+ regularmente
+ por
+ las
+ embarcaciones
+comerciales
+ y
+ de
+ turismo
+ en
+ la
+ región
+ de
+ Aysén.
+ Se
+ puede
+ observar
+ que
+ las
+ rutas
+ de
+ navegación
+ a
+ partir
+del
+ puerto
+ de
+ Melinka,
+ se
+ realizan
+ principalmente
+ por
+ el
+ Canal
+ Moraleda
+ -­‐
+ incluso
+ saliendo
+ a
+ mar
+abierto
+ hacia
+ el
+ Océano
+ Pacífico
+ para
+ el
+ ingreso
+ de
+ naves
+ a
+ zonas
+ como
+ Caleta
+ Tortel
+ y
+ en
+ rumbo
+ a
+ la
+región
+ de
+ Magallanes
+ -­‐
+ para
+ las
+ naves
+ mayores
+ y
+ de
+ turismo
+ para
+ acceder
+ a
+ las
+ principales
+ áreas
+urbanas
+ de
+ la
+ región,
+ como
+ Puerto
+ Aguirre,
+ Puerto
+ Cisnes,
+ Puerto
+ Chacabuco;
+ otros
+ puntos
+ de
+conectividad
+ como
+ Puerto
+ Gala,
+ Puerto
+ Gaviota
+ y
+ por
+ supuesto
+ hacia
+ el
+ destino
+ turístico
+ más
+importante
+ de
+ acceso
+ marítimo
+ en
+ la
+ región
+ como
+ es
+ Laguna
+ San
+ Rafael
+ y
+ Estero
+ Quitralco.
+Embarcaciones
+ más
+ pequeñas
+ prefieren
+ sin
+ embargo
+ la
+ navegación
+ por
+ canales
+ interiores
+ como
+ los
+canales
+ Pérez
+ Norte
+ y
+ Pérez
+ Sur.
+
+Las
+ rutas
+ marítimas
+ posibles
+ de
+ seguir
+ para
+ acceder
+ al
+ centro
+ de
+ cultivo
+ serán
+ desde
+ Quellón
+ a
+ través
+del
+ Golfo
+ Corcovado,
+ pasando
+ por
+ Melinka,
+ Canal
+ Moraleda,
+ ingresando
+ ya
+ sea
+ por
+ Canal
+ Jacaf
+ al
+ canal
+Puyuhuapi,
+ o
+ desde
+ el
+ moraleda
+ ingresando
+ al
+ canal
+ Puyuhuapi.
+ Desde
+ el
+ sur
+ las
+ vías
+ de
+ acceso
+ de
+Puerto
+ Chacabuco,
+ Aysen
+ e
+ incluso
+ desde
+ Puerto
+ Aguirre,
+ las
+ vías
+ de
+ acceso
+ es
+ a
+ través
+ del
+ fiordo
+ de
+Aysen,
+ Canal
+ Pilcomayo,
+ canal
+ Ferronave
+ al
+ canal
+ Puyuhuapi.
+ (Figura
+ 5
+ y
+ 6).
+
+_Figura
+ 4.
+ Rutas
+ de
+ navegación
+ generales
+ en
+ la
+ región
+ de
+ Aysén_
+
+_Figura
+ 5.
+ Track
+ de
+ navegación
+ desde
+ Quellon-­‐Melinka
+ al
+ centro
+ de
+ Cultivo_
+
+_Figura
+ 6.
+ Track
+ de
+ Navegación
+ desde
+ Puerto
+ Aysen-­‐Chacabuco
+ al
+ centro
+ de
+ cultivo_
+
+1.3.5
+Justificación
+ de
+ la
+ Localización
+Se
+ propone
+ a
+ evaluación,
+ la
+ relocalización
+ de
+ la
+ concesión
+ de
+ acuicultura
+ Estero
+ Queulat
+ que
+ cuenta
+con
+ los
+ permisos
+ sectoriales
+ RSSP
+ N°666/2001
+ y
+ Subsecretaría
+ de
+ Marina
+ N°1802/2001,
+ resoluciones
+que
+ con
+ la
+ aprobación
+ del
+ presente
+ proyecto
+ quedaran
+ sin
+ efecto
+ por
+ tratarse
+ de
+ una
+ relocalización
+ del
+centro
+ de
+ cultivo
+ a
+ un
+ nuevo
+ lugar,
+ Punta
+ Cesari,
+ cuyas
+ coordenadas
+ están
+ detalladas
+ en
+ la
+ página
+ 11;
+ y
+por
+ tanto
+ debe
+ considerarse
+ como
+ un
+ proyecto
+ nuevo,
+ el
+ cual
+ deberá
+ dejar
+ sin
+ efecto
+ las
+ resoluciones
+antes
+ citadas,
+ por
+ tratarse
+ de
+ lugares
+ físicos
+ diferentes.
+
+La
+ zona
+ donde
+ se
+ ubicará
+ el
+ Centro
+ esta
+ dentro
+ del
+ área
+ en
+ donde
+ la
+ empresa
+ Acuícola
+ Puyuhuapi
+
+ S.A.
+tiene
+ otras
+ concesiones
+ de
+ acuicultura;
+ área
+ que
+ cuenta
+ con
+ buenas
+ características
+ para
+ esta
+ industria
+y
+ específicamente
+ para
+ este
+ Centro
+ de
+ Engorda
+ de
+ Salmónidos
+ (figura
+ 7).
+ En
+ particular,
+ la
+ amplia
+disponibilidad
+ y
+ calidad
+ de
+ sus
+ aguas,
+ en
+ términos
+ de
+ salinidad,
+ temperatura,
+ oxigeno
+ así
+ como
+ la
+ gran
+
+profundidad
+ del
+ área
+ y
+ un
+ entorno
+ libre
+ de
+ contaminación,
+ hacen
+ excelente
+ el
+ desarrollo
+ de
+ esta
+producción.
+ Dicha
+ relocalización
+ repercute
+ en
+ un
+ aporte
+ al
+ crecimiento
+ económico
+ de
+ la
+ Región
+ de
+Aysen,
+ a
+ la
+ generación
+ de
+ empleos
+ y
+ a
+ la
+ disminución
+ de
+ la
+ migración
+ local
+ a
+ centros
+ urbanos.
+
+_Figura
+ 7.
+ Ubicación
+ centros
+ de
+ cultivo
+ Acuícola
+ Puyuhuapi
+ s.A._
+
+De
+ acuerdo
+ al
+ plan
+ regional
+ el
+ centro
+ se
+ encontrará
+ ubicado
+ en
+ las
+ áreas
+ aptas
+ para
+ la
+ acuicultura.
+(Figura
+ 8).
+
+_Figura
+ 8.
+ Áreas
+ Apropiadas
+ para
+ el
+ ejercicio
+ de
+ la
+ Acuicultura
+ (Fuente:
+ Información
+ Subpesca)_
+
+**1.3.5.1**
+**Características
+ Generales
+ del
+ Área
+ del
+ Proyecto**
+El
+ centro
+ de
+ cultivo
+ se
+ encuentra
+ emplazado
+ al
+ noreste
+ de
+ Punta
+ Cesari;
+ de
+ acuerdo
+ al
+ D.S.
+No359/1994,
+ del
+ Ministerio
+ de
+ Defensa
+ Nacional
+ y
+ sus
+ modificaciones,
+ que
+ fija
+ las
+ Áreas
+ Apropiadas
+para
+ el
+ Ejercicio
+ de
+ Acuicultura
+ (AAA)
+ en
+ la
+ Región
+ de
+ Aysen,
+ las
+ coordenadas
+ geográficas
+ de
+ ubicación
+del
+ proyecto
+ original,
+ y
+ de
+ la
+ relocalización
+ (página
+ 11)
+ están
+ insertas
+ en
+ las
+ coordenadas
+ especificadas
+en
+ dichos
+ textos
+ regulatorios
+ como
+ zonas
+ AAA.
+ En
+ tanto
+ de
+ acuerdo
+ al
+ D.S.
+ No
+ 153
+ el
+ área
+ pertenece
+ a
+un
+ zona
+ preferencial
+ de
+ turismo
+ (figura
+ 9).
+
+_Figura
+ 9.
+ Zonificación
+ Borde
+ Costero_
+
+De
+ acuerdo
+ al
+ Sistema
+ Nacional
+ de
+ Áreas
+ Silvestres
+ Protegidas
+ del
+ Estado
+ (SNASPE),
+ administradas
+ por
+CONAF,
+ en
+ la
+ Región
+ de
+ Aysen
+ del
+ General
+ Carlos
+ Ibáñez
+ del
+ Campo
+ existen
+ cinco
+ Parques
+ Nacionales
+(Isla
+ Guamblin,
+ Isla
+ Magdalena,
+ Bernardo
+ O’Higgins,
+ Laguna
+ San
+ Rafael
+ y
+ Queulat);
+ dos
+ Monumentos
+Naturales
+ (Cinco
+ hermanas
+ y
+ Dos
+ Lagunas)
+ y
+ once
+ Reservas
+ Nacionales
+ (Lago
+ Cochrane
+ o
+ Tamango;
+Lago
+ Jeinimeni;
+ Lago
+ Carlota;
+ Lago
+ Las
+ Torres;
+ Río
+ Simpson;
+ Lago
+ Palena;
+ Lago
+ Trapananda;
+ Lago
+Rosselot;
+ Las
+ Guaitecas;
+ Katalalixar
+ de
+ Tortel,
+ y
+ Cerro
+ castillo);
+ una
+ Zona
+ Típica
+ y
+ Pintoresca
+ (Caleta
+Tortel)
+ y
+ un
+ Monumento
+ Histórico
+ (Isla
+ de
+ los
+ Muertos).
+ Todos
+ ellos
+ se
+ encuentran
+ distante
+ del
+ área
+ de
+CC.AA.
+ del
+ proyecto
+ a
+ excepción
+ del
+ Parque
+ Nacional
+ Queulat,
+ que
+ si
+ bien
+ se
+ ubica
+ a
+ mas
+ de
+ 6
+ km
+ en
+línea
+ recta
+ de
+ la
+ solicitud
+ de
+ relocalización,
+ y
+ por
+ ende
+
+ esta
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ si
+se
+ encuentra
+ dentro
+ del
+ track
+ de
+ navegación
+ del
+ canal
+ Puyuhuapi
+ y
+ por
+ ende
+ el
+ centro
+ de
+ cultivo
+ será
+visualizado
+ por
+ la
+ embarcaciones
+ que
+ circulen
+ en
+ el
+ cuerpo
+ de
+ agua
+ en
+ frente
+ al
+ área
+ concesionada
+(mayor
+ detalle
+ ver
+ estudio
+ de
+ paisaje
+ adjunto
+ en **anexo
+ 6** )
+ (figura
+ 10).
+ Cabe
+ destacar
+ que
+ el
+ proyecto
+no
+ considera
+ instalaciones
+ en
+ tierra
+ por
+ tanto
+ no
+ tendrá
+ ninguna
+ intervención
+ en
+ la
+ línea
+ de
+ costa,
+ sólo
+aquella
+ referida
+ a
+ la
+ limpieza
+ del
+ borde
+ costero;
+ así
+ mismo
+ los
+ resultados
+ de
+ la
+ modelación
+ muestra
+que
+ el
+ área
+ de
+ dispersión
+ de
+ los
+ biosólidos
+ aportados
+ por
+ el
+ proyecto
+ se
+ distribuyen
+ en
+ una
+ mancha
+
+única
+ cuya
+ tendencia
+ es
+ un
+ desplazamiento
+ hacia
+ el
+ centro
+ de
+ canal
+ alejándose
+ del
+ borde
+ costero.
+ (Ver
+capítulo
+ 2)
+
+**P.N.
+ Queulat**
+
+_Figura
+ 10.
+ Ubicación
+ proyecto
+ relocalización
+ y
+ SNASPE
+ P.N.
+ Queulat
+ y
+ P.N.
+ Isla
+ Magdalena_
+
+La
+ comuna
+ donde
+ se
+ emplaza
+ el
+ proyecto **“RELOCALIZACIÓN
+ CONCESIÓN
+ DE
+ ACUICULTURA
+ AL**
+**NORESTE
+ DE
+ PUNTA
+ CESARI,
+ COMUNA
+ DE
+ CISNES,
+ PROVINCIA
+ DE
+ AISÉN,
+ DECIMO
+ PRIMERA
+ REGIÓN**
+**DE
+ AYSEN”**, **,** presenta
+ las
+ siguientes
+ características:
+
+**1.3.5.2**
+**Caracterización
+ Socioeconómica**
+**Demografía**
+La
+ Comuna
+ de
+ Cisnes
+ posee
+ un
+ total
+ de
+ 5.739
+ habitantes
+ (año
+ 2002),
+ representando
+ el
+ 6,27%
+ de
+ la
+población
+ Regional.
+ (Tabla
+ 5)
+
+_Tabla
+ 5.
+ Situación
+ demográfica
+ general
+ según
+ niveles
+ territoriales._
+
+|Territorio|Año 2002|Año 2012|Variación (%)|
+|---|---|---|---|
+|ComunadeCisnes|5.739|6.166|7,4|
+|RegióndeAysén|91.492|106.885|16,8|
+|País|15.116.435|17.398.632|15,1|
+
+Fuente:
+ censo
+ 2002
+ y
+ proyección
+ de
+ población
+ 2012,
+ INE
+
+**Pobreza
+ e
+ Indigencia**
+Según
+ la _Encuesta
+ de
+ Caracterización
+ Socioeconómica
+ Casen
+ 2009_,
+ un
+ 1,89%
+ de
+ la
+ población
+ de
+ Cisnes
+es
+ pobre
+ indigente
+ y
+ el
+ 2,95%
+ pobre
+ no
+ indigente
+ (Tabla
+ 6).
+
+Tabla
+ 6.
+ Pobreza
+ en
+ la
+ comuna
+ de
+ Aisén
+ según
+ Encuesta
+ Casen. _(Fuente:
+ Biblioteca
+ de
+ Congreso_
+_nacional,
+ Reporte
+ estadístico
+ distrital
+ y
+ comunal,
+ 2013)._
+
+|Pobreza en las personas|2003|2006|2009|% según territorio (2009)|Col6|Col7|
+|---|---|---|---|---|---|---|
+|Pobreza en las personas|2003|2006|2009|Comuna|Región|País|
+|Pobreindigente|612|206|115|1,89|5,13|3,74|
+|Pobrenoindigente|731|230|179|2,95|9,72|11,38|
+|Nopobre|6.632|4.534|5.777|95,16|85,16|84,88|
+|Total|7.975|4.970|6.071|100|100|100|
+|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013|
+
+**Etnia**
+Según
+ la _Encuesta
+ de
+ Caracterización
+ Socioeconómica
+ Casen
+ 2009_,
+ un
+ 22,26%
+ de
+ la
+ población
+ de
+ Cisne
+se
+ adscriben
+ hacia
+ la
+ etnia
+ mapuche.
+ (Tabla
+ 7).
+
+Tabla
+ 7.
+ Etnias
+ en
+ la
+ Comuna
+ de
+ Aisen
+ según
+ Encuesta
+ Casen. _(Fuente:
+ Biblioteca
+ de
+ Congreso
+ nacional,_
+_Reporte
+ estadístico
+ distrital
+ y
+ comunal,
+ 2013)._
+
+|Etnia|Cantidad de personas|Col3|Col4|% según territorio (2009)|Col6|Col7|
+|---|---|---|---|---|---|---|
+|Etnia|2003|2006|2009|Comuna|Región|País|
+|Atacameño|0|13|0|0|0,06|0,18|
+|Aymara|0|0|12|0,35|0,02|0,57|
+|Mapuche|1.338|1.038|758|22,26|21,26|5,96|
+|Rapanui|0|0|0|0|0|0,03|
+|Otras|6.652|3.919|2.635|77,39|78,66|93,26|
+|Total<br>|7.990<br>|4.970<br>|3.405<br>|100<br>|100<br>|100|
+|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|_Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013._|
+
+**Educación**
+La
+ situación
+ de
+ la
+ población
+ comunal
+ se
+ tiene
+ que
+ en
+ el
+ año
+ 2009,
+ el
+ 5,74%
+ no
+ tiene
+ educación,
+ el
+ 16%
+tiene
+ educación
+ básica
+ completa,
+ el
+ 16,11%
+ tiene
+ un
+ nivel
+ educacional
+ media
+ completa
+ y
+ el
+ 4,86%
+superior
+ completa.
+ (Tabla
+ 8).
+
+Tabla
+ 8.
+ Nivel
+ educacional
+ en
+ la
+ comuna
+ de
+ Aisén
+ según
+ Encuesta
+ Casen. _(Fuente:
+ Biblioteca
+ de_
+_Congreso
+ nacional,
+ Reporte
+ estadístico
+ distrital
+ y
+ comunal,
+ 2013)._
+
+|Nivel educacional|2003|2006|2009|% según territorio (2009)|Col6|Col7|
+|---|---|---|---|---|---|---|
+|Nivel educacional|2003|2006|2009|Comuna|Región|País|
+|Sineducación|386|217|150|5,74|4,79|3,52|
+|Básicaincompleta|2.052|1.005|731|27,98|18,95|14,34|
+|Básicacompleta|1.014|704|418|16|15,12|10,97|
+|Mediaincompleta|1.126|711|671|25,68|22,29|18,98|
+|Mediacompleta|1.069|611|421|16,11|22,21|29,90|
+|Superiorincompleta|203|84|95|3,64|6,15|9,86|
+|Superiorcompleta|137|220|127|4,86|10,49|12,43|
+|Total|5.987|3.552|2.613|100,01|100|100|
+|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|Fuente:BibliotecadeCongresonacional,Reporteestadísticodistritaly comunal,2013.|
+
+**Economía**
+La
+ Región
+ de
+ Aysen
+ presenta
+ una
+ baja
+ diversidad
+ de
+ actividades
+ productivas,
+ focalizándose
+ en
+ la
+actividad
+ pesquera,
+ forestal,
+ la
+ industria
+ salmonera,
+
+ la
+ ganadería
+ y
+ el
+ turismo.
+ La
+ agricultura
+ se
+encuentra
+ poco
+ desarrollada,
+ debido
+ al
+ clima
+ y
+ a
+ las
+ características
+ de
+ los
+ suelos.
+ La
+ producción
+forestal
+ abarca
+ una
+ superficie
+ aproximada
+ de
+ 1,8
+ millones
+ de
+ hectáreas
+ de
+ bosque
+ explotable,
+mientras
+ que
+ otros
+ 7,4
+ millones
+ de
+ hectáreas,
+ corresponden
+ a
+ bosques
+ protegidos,
+ los
+ que
+ son
+controlados
+ directamente
+ por
+ CONAF.
+ La
+ ganadería
+ es
+ significativa
+ tanto
+ en
+ bovinos
+ como
+ en
+ ovinos.
+Estos
+ últimos
+ abarca
+ el
+ 13%
+ del
+ total
+ de
+ Chile.
+
+Respecto
+ de
+ la
+ actividad
+ turística,
+ información
+ extraída
+ desde
+ observatorio
+ turístico
+ de
+ la
+ Región
+ de
+Aysen,
+ la
+ distribución
+ de
+ los
+ turistas
+ que
+ visitan
+ la
+ región
+ es
+ la
+ siguiente
+ (Tabla
+ 9
+ y
+ 10):
+
+_Tabla
+ 9.
+ Números
+ netos
+ de
+ entrada
+ a
+ los
+ diferentes
+ SNASPE
+ año
+ 2013_
+
+|SNASPE|Chilenos|Porcentaje|Extranjeros|Porcentaje|Total|
+|---|---|---|---|---|---|
+|PN Laguna San<br>Rafael|686|67,12|336|32,88|1022|
+|PNQueulat|11489|10,06|4909|29,94|16398|
+|RNCoihaique|12792|91,59|1174|8,41|13966|
+|RNLagoJeinimeni|1319|85,71|220|14,29|1539|
+|RNCerroCastillo|2358|81,51|535|18,49|2893|
+|RNRíoSimpson|4352|37,97|7111|62,03|11463|
+|RNTamango|1489|82,31|320|17,69|1809|
+|AP Cerro<br>Huemules|243|87,10|36|12,90|279|
+|MNDosLaguna|1367|97,43|36|2,57|1403|
+|Total|36095|71,09|14677|28,91|50772|
+
+Fuente:
+ Anuario
+ estadístico
+ de
+ turismo,
+ Región
+ de
+ Aysen
+ 2013.
+
+_Tabla
+ 10.
+ Viajes
+ dentro
+ de
+ la
+ Región
+ año
+ 2013._
+
+|Lugar|Temporada Baja|Temporada Alta|
+|---|---|---|
+|ChileChico|25,88|9,91|
+|VillalaTapera|17,87|0|
+|Coyhaique|11,73|8,99|
+|PuertoRíoTranquilo|7,28|8,66|
+|Puyuhuapi|5,68|11,88|
+|PuertoCisnes|5,40|7,25|
+|Cochrane|5,39|6,49|
+|LaJunta|4,67|13,81|
+|PuertoAysén|4,63|5,74|
+|PuertoIbáñez|4,06|2,64|
+|VillaO ́Higgins|3,47|0|
+|CaletaTortel|1,09|1,46|
+|LagoVerde|1,06|0|
+|BahíaMurta|1,03|5,20|
+|PuertoBertrand|0,77|1,01|
+|PuertoGuadal|0|1,27|
+|VillaAmengual|0|5,2|
+|LagunaSanRafael|0|3,9|
+|LagoPólux|0|2,61|
+|PuertoRaúlMarínBalmaceda|0|2,56|
+|Mañihuales|0|1,44|
+
+Según
+ las
+ recopilaciones
+ del
+ INE
+ en
+ el
+ Censo
+ 2002,
+ el
+ 30,62%
+ de
+ la
+ población
+ económicamente
+ activa
+de
+ la
+ Comuna
+ de
+ Cisnes
+ se
+ dedica
+ a
+ la
+ pesca,
+ representando
+ la
+ actividad
+ económica
+ más
+ importante
+según
+ fuerza
+ de
+ trabajo.
+ El
+ comercio
+ y
+ la
+ construcción
+ también
+ emplean
+ a
+ parte
+ importante
+ de
+ la
+población,
+ integrando
+ al
+ 12,8%
+ y
+ 12,9%
+ de
+ la
+ población
+ económicamente
+ activa
+ respectivamente.
+ En
+tanto,
+ la
+ participación
+ laboral
+ femenina
+ es
+ de
+ un
+ 36,9%
+ en
+ la
+ Comuna,
+ debajo
+ del
+ 44,3%
+ que
+ tiene
+ en
+la
+ Región.
+ ( _**Fuente
+ carpeta
+ Comunal,
+ 2012,
+ Gobierno
+ Regional
+ de
+ Aysen**_ )
+
+La
+ CC.AA.
+ del
+ proyecto
+ de
+ estudio
+ se
+ localiza
+ dentro
+ de
+ las
+ Áreas
+ Aptas
+ para
+ la
+ Acuicultura _(A.A.A.)_ y
+ en
+un _Área
+ de
+ Uso
+ Preferente
+ para
+ el
+ Turismo,_ de
+ acuerdo
+ a
+ la
+ Memoria
+ de
+ Zonificación
+ del
+ Borde
+ Costero
+de
+ la
+ Región
+ de
+ Aysen.
+ De
+ acuerdo
+ a
+ la
+ información
+ levantada
+ respecto
+ de
+ caleta
+ de
+ pescadores
+ y
+áreas
+ de
+ manejo;
+ estas
+ últimas
+ se
+ distribuyen
+ en
+ Estero
+ Sibbald,
+ canal
+ Puyuhuapi
+ y
+ Seno
+ Magdalena,
+distantes
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ En
+ tanto
+ las
+ caletas
+ de
+ pescadores
+ se
+ identificaron
+ tres
+en
+ el
+ área
+ más
+ próxima
+ al
+ emplazamiento,
+ Puerto
+ Cisnes,
+ Puerto
+ Puyuhuapi
+ y
+ Puerto
+ Gaviota
+
+ que
+ se
+ubican
+ a
+ 20,3;
+ 26
+ y
+ 68
+ km,
+ respectivamente;
+ en
+ tanto
+ las
+ áreas
+ de
+ manejo
+ más
+ cercanas
+ se
+ encuentran
+en
+ paso
+ Sibbald
+
+
+ como
+ Islote
+ Bobadilla
+ distante
+ a
+ 21
+ km
+ en
+ línea
+ recta
+ del
+ emplazamiento
+ del
+proyecto,
+ canal
+ Yacaf
+ sector
+ C,
+ canal
+ Yacaf
+ sector
+ B,
+ Isla
+ Suarez
+ canal
+ Yacaf
+ sector
+ A,
+ distantes
+ a
+ 19,
+ 25,
+27,5
+ y
+ 28
+ km,
+ respectivamente
+ (figura
+ 13).
+
+7
+6
+
+5
+
+4
+
+**1**
+
+8
+
+9
+
+2
+
+10
+
+3
+
+11
+
+13
+12
+
+Figura
+ 11.
+ Ubicación
+ centro
+ cultivo
+ respecto
+ de
+ las
+ caletas
+ de
+ pescadores
+ ubicadas
+ en
+ el
+ sector
+ y
+ áreas
+ de
+ manejo.
+ 1)
+ Caleta
+Puerto
+ Puyuhuapi;
+ 2)
+ Caleta
+ Puerto
+ cisnes;
+ 3)
+ Puerto
+ Gaviota.
+ Circulo
+ Naranjo
+ indica
+ ubicación
+ del
+ proyecto.
+
+La
+ información
+ identificada
+ en
+ la
+ figura
+ 13
+ se
+ detalla
+ a
+ continuación:
+
+Caletas
+ de
+ Pescadores:
+
+1. Puerto
+ Puyuhuapi
+2. Puerto
+ Cisnes
+3. Puerto
+ Gaviota
+
+Áreas
+ de
+ manejo
+ de
+ recursos
+ bentónicos
+ Estero
+ Sibbald:
+
+4. Islote
+ Bobadilla,
+ 312,5
+ hás,
+ Pendiente
+ en
+ el
+ departamento
+ de
+ acuicultura,
+ Sindicato
+ de
+
+Pescadores
+ Artesanales
+ de
+ Puerto
+ Cisnes.
+
+5. Canal
+ Yacaf
+ sector
+ C,
+ 125
+ hás,
+ pendiente,
+ Sindicato
+ de
+ Pescadores
+ Artesanales
+ de
+ Puerto
+
+Cisnes.
+6. Isla
+ Suarez,
+ 62,5
+ hás,
+ pendiente,
+ Sindicato
+ de
+ Pescadores
+ Artesanales
+ de
+ Puerto
+ Cisnes.
+7. Canal
+ Yacaf
+ sector
+ A,
+ 80,75
+ hás,
+ ingresa
+ seguimiento,
+ STI
+ Buzos
+ mariscadores,
+ Pescadores
+
+Artesanal
+ y
+ Armadores
+ “Canal
+ Puyuhuapi”.
+
+Seno
+ Magdalena
+8. Isla
+ Magdalena,
+ sector
+ A,
+ 21,45
+ hás,
+ pendiente
+ en
+ el
+ Consejo
+ Zonal
+ de
+ Pesca,
+ STI
+ de
+ la
+ pesca
+
+artesanal,
+ buzos
+ mariscadores,
+ algueros,
+ jaiberos..
+ Armadores
+ artesanales
+ y
+ ramos
+ afines
+“elefantes”
+ de
+ Puerto
+ Cisnes.
+9. Isla
+ Magdalena,
+ sector
+ B,
+ 31,5
+ hás,
+
+ pendiente
+ en
+ el
+ Consejo
+ Zonal
+ de
+ Pesca,
+ STI
+ de
+ la
+ pesca
+
+artesanal,
+ buzos
+ mariscadores,
+ algueros,
+ jaiberos..
+ Armadores
+ artesanales
+ y
+ ramos
+ afines
+“elefantes”
+ de
+ Puerto
+ Cisnes.
+
+Canal
+ Puyuhuapi
+10. Canal
+ Puyuhuapi
+ sector
+ A,
+ 271,31
+ hás,
+ pendiente
+ en
+ el
+ Consejo
+ Zonal
+ de
+ Pesca,
+ Sindicato
+ de
+
+pescadores
+ artesanales
+ de
+ Puerto
+ Cisnes.
+ Sindicato
+ de
+ Pescadores
+ Artesanales
+ de
+ Puerto
+Cisnes.
+11. Canal
+ Puyuhuapi
+ sector
+ B,
+ 68,37
+ hás,
+ pendiente
+ en
+ el
+ Consejo
+ Zonal
+ de
+ Pesca,
+ Sindicato
+ de
+
+pescadores
+ artesanales
+ de
+ Puerto
+ Cisnes.
+ Sindicato
+ de
+ Pescadores
+ Artesanales
+ de
+ Puerto
+Cisnes.
+12. Canal
+ Puyuhuapi
+ sector
+ C,
+ 150,46
+ hás,
+ pendiente
+ en
+ el
+ Consejo
+ Zonal
+ de
+ Pesca,
+ Sindicato
+ de
+
+pescadores
+ artesanales
+ de
+ Puerto
+ Cisnes.
+ Sindicato
+ de
+ Pescadores
+ Artesanales
+ de
+ Puerto
+Cisnes.
+13. Puerto
+ Amparo
+ Chico,
+ sin
+ información
+ de
+ hectáreas,
+ pendiente
+ elaboración
+ de
+ información
+ de
+
+coordenadas.
+ STI
+ de
+ pescadores
+ artesanales
+ y
+ buzos
+ mariscadores
+ de
+ Puerto
+ Cisnes.
+
+En
+ cuanto
+ a
+ las
+ zonas
+ de
+ pesca,
+ de
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ por
+ Sernapesca,
+ y
+ de
+ la
+cual
+ se
+ dispone,
+ entre
+ las
+ especies
+ declaradas
+ y
+ desembarcadas,
+ se
+ reconoce
+ en
+ el
+ sector
+ del
+ canal
+Puyuhuapi
+ la
+ explotación
+ de
+ Almeja,
+ Sardina
+ Austral,
+ Congrio
+ Dorado
+ y
+ Merluza
+ Austral;
+ en
+ tanto
+ en
+Canal
+ Sibbald
+ se
+ reconoce
+ la
+ explotación
+ del
+ recurso
+ almeja,
+ Raya
+ Volantín,
+ Congrio
+ Dorado
+ y
+ Erizo,
+ en
+el
+ sector
+ de
+ Grupo
+ Gala
+ la
+ explotación
+ de
+ Merluza
+ Austral.
+ Dado
+ que
+ el
+ proyecto
+ se
+ ubica
+ en
+ el
+ entorno
+cercano
+ a
+ algunas
+ zonas
+ de
+ pesca,
+ pero
+ estas
+ últimas
+ ubicadas
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+proyecto
+ estimada
+ en
+ 49,18
+ hás,
+ el
+ titular
+ no
+ prevé
+ afectación
+ a
+ la
+ embarcaciones
+ que
+ van
+ de
+ paso
+ por
+el
+ sector
+ ya
+ que
+
+ los
+ sistemas
+ de
+ fondeo
+ utilizan
+ cadenas
+ en
+ el
+ primer
+ tercio
+ permite
+ que
+ las
+ líneas
+desciendan
+ con
+ menor
+ ángulo
+ (casi
+ perpendicular)
+ y
+ por
+ tanto
+ se
+ prevé
+ que
+ no
+ habrá
+ interferencia
+ con
+las
+
+ embarcaciones
+ que
+ naveguen
+ por
+ el
+ sector.
+ (Figura
+ 12).
+
+La
+ figura
+ 13
+ muestra
+ un
+ acercamiento
+ en
+ el
+ sector
+ próximo
+ al
+ área
+ de
+ influencia
+ del
+ proyecto,
+ se
+ puede
+apreciar
+ que
+ las
+ zonas
+ de
+ pesca
+ ubicadas
+ en
+ el
+ canal
+ Puyuhuapi
+ se
+ emplazan
+ distante
+ a
+ la
+ solicitud
+ de
+concesión.
+ Ver
+ plano
+ adjunta
+ en **anexo
+ 7** .
+
+Sin
+ perjuicio
+ de
+ todo
+ lo
+ anterior,
+ el
+ Titular
+ reconoce
+ que
+ en
+ particular
+ la
+ región
+ de
+ Aysen
+ ha
+presentado
+ sitios
+ históricos
+ vinculados
+ a
+ la
+ actividad
+ de
+ la
+ pesca
+ artesanal
+ por
+ lo
+ que
+ no
+ descarta
+ la
+posibilidad
+ de
+ que
+ los
+ usos
+ históricos
+ sean
+ utilizados
+ en
+ la
+ actualidad
+ habida
+ consideración
+ de
+ la
+disponibilidad
+ de
+ los
+ recursos
+ pelágicos
+ o
+ demersales
+ que
+ en
+ el
+ desarrollo
+ de
+ esas
+ actividades
+históricas
+ se
+ obtuvieron.
+
+_Figura
+ 12.
+ Ubicación
+ centro
+ Cesari
+ y
+ Zonas
+ de
+ Pesca
+ (Fuente:
+ SERNAPESCA)_
+
+_Figura
+ 13Ubicación
+ centro
+ de
+ cultivo
+ Césari
+ y
+ zonas
+ de
+ pesca
+ de
+ Almeja
+ (2.03
+ millas
+ náuticas)
+ y
+ Sardina
+ Austral_
+_(3.59
+ millas
+ náuticas),
+ Área
+ color
+ magenta:
+ Área
+ de
+ Influencia
+ (fuente:
+ SERNAPESCA)._
+
+**Infraestructura
+ Área
+ y
+ Marítima**
+En
+ la
+ infraestructura
+ aérea
+ en
+ la
+ Comuna
+ sólo
+ están
+ reconocidos
+ los
+ aeródromos
+ de
+ La
+ Junta,
+ Río
+Cisnes,
+ Puyuhuapi,
+ Cacique
+ Blanco,
+ R.M.
+ Balmaceda
+ y
+ Puerto
+ Cisnes.
+ Con
+ respecto
+ al
+ transporte
+marítimo,
+ el
+ centro
+ principal
+ de
+ embarque
+ y
+ desembarque,
+ tanto
+ de
+ carga
+ como
+ de
+ pasajeros
+ es
+Puerto
+ Cisnes,
+ el
+ cual
+ cuenta
+ con
+ muelles
+ al
+ igual
+ que
+ los
+ puertos
+ de
+ Puyuhuapi
+ y
+ Raúl
+ Marín
+Balmaceda;
+ así
+ también
+ se
+ reconoce
+ a
+ Puerto
+ Gaviota
+ como
+ caleta
+ de
+ Pescadores.
+ Adicionalmente
+existen
+ rampas
+ para
+ pesca
+ industrial
+ en
+ Puerto
+ Cisnes.
+ De
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ en
+el
+ portal
+ de
+ IDE
+ Chile,
+ dentro
+ del
+ canal
+ Puyuhuapi
+ se
+ cuenta
+ con
+ Caletas
+ de
+ conexión,
+ mejoramiento
+ de
+borde
+ costero
+ y
+ pesca
+ artesanal.
+ (Figura
+ 14).
+
+_Figura
+ 14.
+ Infraestructura
+ marítima
+ y
+ aérea.
+ Fuente
+ IDE
+ Portal
+ de
+ Chile._
+
+**Infraestructura
+ Vial**
+La
+ Región
+ y
+ en
+ particular
+ los
+ asentamientos
+ humanos,
+ se
+ encuentran
+ localizados
+ en
+ diversos
+ valles
+ con
+elementos
+ segregadores
+ claramente
+ definidos,
+ que
+ limitan
+ de
+ manera
+ importante
+ la
+ accesibilidad
+relativa
+ entre
+ los
+ sistemas
+ de
+ centros
+ poblados.
+ Esta
+ segregación
+ ha
+ sido
+ reducida
+ en
+ parte
+ por
+ la
+ red
+vial
+ estructurante
+ actual
+ de
+ la
+ Región
+ (Ruta
+ 7
+ o
+ Camino
+ Austral).
+
+Sin
+ embargo,
+ existen
+ una
+ serie
+ de
+ relaciones
+ de
+ conectividad
+ que
+ pueden
+ verse
+ sustancialmente
+mejoradas,
+ jerarquizando
+ la
+ vialidad
+ existente
+ e
+ incorporando
+ nuevos
+ caminos,
+ coordinados
+adecuadamente
+ desde
+ una
+ escala
+ Regional.
+ El
+ Plan
+ Regulador
+ Intercomunal
+ Cisnes
+ −
+ Lago
+ Verde
+ (en
+evaluación)
+ propone
+ el
+ desarrollo
+ de
+ la
+ red
+ vial.
+
+**Energía**
+La
+ energía
+ utilizada
+ en
+ la
+ Región
+ proviene
+ de
+ la
+ energía
+ eléctrica,
+ el
+ gas
+ licuado,
+ de
+ los
+ derivados
+ del
+petróleo
+ y
+ la
+ leña.
+ Esta
+ última
+ es
+ utilizada
+ principalmente
+ en
+ el
+ ámbito
+ residencial,
+ con
+ consecuencias
+adversas
+ para
+ el
+ medio
+ ambiente.
+
+**Agua
+ potable**
+El
+ agua
+ potable
+ en
+ la
+ Comuna
+ de
+ Cisnes
+ está
+ administrada
+ por
+ cooperativas
+ vecinales
+ en
+ la
+ forma
+ de
+Comités
+ de
+ Agua
+ Potable
+ Rural
+ que
+ se
+ encargan
+ de
+ la
+ cloración
+ de
+ las
+ aguas
+ que
+ distribuyen
+ en
+ sus
+áreas
+ operacionales,
+ coincidentes
+ con
+ el
+ área
+ consolidada
+ de
+ cada
+ una
+ de
+ ellas.
+ Este
+ sistema
+ local
+ de
+servicio
+ es
+ realizado
+ para
+ todos
+ los
+ poblados
+ de
+ la
+ Comuna
+ que
+ disponen
+ de
+ tomas
+ de
+ agua
+ por
+ cursos
+de
+ agua
+ superficial.
+
+En
+ general,
+ el
+ agua
+ potable
+ distribuida
+ es
+ de
+ muy
+ buena
+ calidad,
+ desconociéndose
+ problemas
+ que
+afecten
+ a
+ la
+ salud
+ pública
+ con
+ origen
+ en
+ la
+ calidad
+ del
+ agua
+
+**Sistema
+ de
+ Aseo
+ y
+ Disposición
+ de
+ Residuos**
+La
+ recolección,
+ transporte
+ y
+ disposición
+ final
+ de
+ la
+ basura
+ está
+ a
+ cargo
+ de
+ la
+ Municipalidad,
+ mediante
+un
+ sistema
+ de
+ pago
+ a
+ un
+ encargado
+ que
+ se
+ responsabiliza
+ de
+ la
+ recolección
+ entre
+ dos
+ y
+ tres
+ veces
+ por
+semana
+ y
+ de
+ disponer
+ la
+ basura
+ en
+ el
+ vertedero
+ de
+ la
+ localidad.
+ La
+ Comuna
+ de
+ Cisnes
+ percibe
+ la
+temática
+ de
+ los
+ residuos
+ sólidos,
+ como
+ una
+ prioridad,
+ por
+ lo
+ que
+ está
+ proyectando
+ algunos
+ rellenos
+sanitarios
+ para
+ las
+ localidades
+ de
+ Raúl
+ Marín,
+ Puyuhuapi,
+ Cisnes
+ y
+ La
+ Junta.
+
+En
+ la
+ Comuna
+ sólo
+ se
+ presenta
+ un
+ sistema
+ de
+ recolección
+ de
+ aguas
+ servidas
+ domésticas
+ (Puerto
+Cisnes),
+ direccionada
+ a
+ su
+ respectiva
+ planta
+ de
+ tratamiento
+ que
+ está
+ localizada
+ en
+ el
+ borde
+ costero
+ de
+la
+ localidad.
+ El
+ resto
+ de
+ centros
+ poblados
+ de
+ la
+ Comuna
+ presentan
+ soluciones
+ individuales
+ de
+ pozos
+negros
+ y
+ fosas
+ sépticas,
+ constituyendo
+ problemas
+ ambientales
+ como
+ consecuencia
+ del
+ vaciamiento
+ de
+aguas
+ servidas
+ a
+ los
+ afluentes
+ de
+ canales
+ y
+ esteros
+ y
+ las
+ potenciales
+ infiltraciones
+ al
+ agua
+ sub
+superficial.
+
+**Costa
+ y
+ Vegetación**
+El
+ centro
+ de
+ cultivo
+ se
+ ubica
+ en
+ promedio
+ a
+ unos
+ 130
+ metros
+ de
+ la
+ línea
+ de
+ costa
+ (vértice
+ A),
+ la
+ cual
+está
+ compuesta
+ principalmente
+ por
+ sectores
+ rocosos,
+ incluso
+ sus
+ playas.
+ Se
+ trata
+ de
+ un
+ sector
+ de
+vegetación
+ nativa
+ y
+ de
+ pendientes
+ medias
+ a
+ fuertes,
+ con
+ cotas
+ que
+ alcanzan
+ los
+ 200
+ mts.
+ hacia
+ la
+ línea
+de
+ costa.
+
+En
+ relación
+ a
+ la
+ cubierta
+ arbórea
+ asociada
+ al
+ área
+ de
+ influencia
+ del
+ proyecto,
+ se
+ trata
+ principalmente
+de
+ bosque
+ siempreverde
+ templado
+ interior
+ de _Nothofagus
+ nítida_ (Coigue
+ de
+ Chiloé), _Podocarpus_
+_nubigena_ (Mañío
+ macho), _Nothofagus
+ betuloides_ (Coigue
+ de
+ Magallanes)
+ y _Desfontainia
+ spinosa_
+(Michay).
+
+Respecto
+ del
+ inventario
+ de
+ recursos,
+ se
+ tiene:
+
+ Proyecciones
+ visuales:
+ campo
+ visual
+ amplio
+ caracterizado
+ por
+ vistas
+ lejanas
+ hacia
+ las
+ partes
+altas
+ de
+ la
+ costa
+ este
+ y
+ oeste
+ de
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Monte
+ Queulat.
+
+ Hitos
+ visuales:
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Monte
+ Queulat.
+
+ Cursos
+ de
+ agua:
+ el
+ proyecto
+ se
+ encuentra
+ situado
+ en
+ el
+ Seno
+ Ventisquero,
+ al
+ noreste
+ de
+ Punta
+Cesari.
+ Presencia
+ de
+ cursos
+ menores
+ de
+ agua
+ asociados
+ a
+ fondos
+ de
+ quebrada.
+
+ Cubiertas
+ vegetales
+ dominantes:
+ la
+ cubierta
+ arbórea
+ dominante
+ corresponde
+ a
+ bosque
+siempreverde
+ templado
+ interior
+ de _Nothofagus
+ nítida_ (Coigue
+ de
+ Chiloé), _Podocarpus_
+_nubigena_ (Mañío
+ macho), _Nothofagus
+ betuloides_ (Coigue
+ de
+ Magallanes)
+ y _Desfontainia_
+_spinosa_ (Michay).
+
+ Áreas
+ singulares:
+ el
+ proyecto
+ se
+ encuentra
+ situado
+ en
+ la
+ costa
+ oeste
+ de
+ Seno
+ Ventisquero,
+ a
+ 8,4
+kms.
+ aproximadamente
+ del
+ sector
+ Las
+ Termas,
+ esto
+ es,
+ Termas
+ de
+ Puyuhuapi;
+ y
+ a
+ unos
+ 4,8
+kms.
+ de
+ Seno
+ Queulat.
+
+Desde
+ el
+ lugar
+ de
+ emplazamiento
+ de
+ la
+ concesión
+ se
+ visualiza
+ la
+ presencia
+ de
+ cursos
+ de
+ agua
+ de
+ cauce
+menor,
+ mientras
+ que
+ la
+ actividad
+ antrópica
+ se
+ limita
+ a
+ algunas
+ embarcaciones
+ asociadas
+ a
+ centros
+ de
+cultivo
+ cercanos
+ a
+ la
+ concesión,
+ y
+ embarcaciones
+ de
+ otro
+ tipo.
+
+Cabe
+ destacar
+ que
+ el
+ proyecto
+ no
+ tiene
+ instalaciones
+ en
+ tierra,
+ por
+ lo
+ que
+ No
+ se
+ afectará
+ en
+ manera
+alguna
+ el
+ recurso
+ forestal
+ de
+ la
+ zona.
+ Esto
+ significa
+ que,
+ todas
+ las
+ estructuras
+ proyectadas
+ se
+encuentran
+ instaladas
+ sobre
+ la
+ superficie
+ del
+ mar.
+
+**Fauna**
+Respecto
+ de
+ la
+ fauna
+ descrita
+ para
+ la
+ región,
+ en
+ términos
+ generales,
+ la
+ literatura
+ indica
+ que
+ en
+ el
+ambiente
+ terrestre
+ existen
+ 261
+ especies
+ de
+ vertebrados
+ potencialmente
+ observables,
+ entre
+ los
+ que
+predominan
+ las
+ aves
+ con
+ 190
+ especies
+ (72,8%),
+ luego
+ siguen
+ los
+ mamíferos
+ con
+ 50
+ especies
+ (19,2%),
+los
+ anfibios
+ con
+ 14
+ (5,4%)
+ y
+ los
+ reptiles,
+ con
+ sólo
+ 7
+ especies
+ (2,7%).
+
+Sólo
+ existen
+ 16
+ especies
+ endémicas,
+ correspondiente
+ al
+ 6,1%
+ de
+ las
+ especies
+ posibles
+ de
+ encontrar
+ en
+el
+ área:
+ 5
+ mamíferos
+ ( _Chelemyx
+ megaloyx,
+ Geoxus
+ valdivianus,
+ Phyllotis
+ Darwin,
+ Ctenomys_
+_coyhaiquensis
+ y
+ probablemente
+ Ctenomys
+ magellanicus_ ),
+ 1
+ ave,
+ 1
+ reptil
+ y
+ 9
+ anfibios.
+
+De
+ las
+ especies
+ encontradas
+ en
+ la
+ XI
+ Región,
+ un
+ 26,8%
+ (70
+ especies)
+ presentan
+ problemas
+ de
+conservación
+ a
+ nivel
+ nacional
+ (incluyendo
+ la
+ categoría
+ de
+ Fuera
+ de
+ Peligro),
+ con
+ 25
+ mamíferos,
+ 28
+ aves,
+3
+ reptiles
+ y
+ 14.
+ Del
+ total
+ de
+ especies,
+ 8
+ se
+ encuentran
+ en
+ peligro,
+ 21
+ vulnerables,
+ 15
+ raras,
+ 18
+inadecuadamente
+ conocidas,
+ 2
+ fuera
+ de
+ peligro
+ y
+ 6
+ no
+ definidas.
+
+En
+ cuanto
+ a
+ las
+ especies
+ con
+ problemas
+ de
+ conservación
+ a
+ nivel
+ regional,
+ se
+ encuentran
+ 59
+ especies,
+con
+ 21
+ mamíferos,
+ 24
+ aves,
+ 2
+ reptiles
+ y
+ 12
+ anfibios.
+ De
+ este
+ total,
+ 7
+ se
+ encuentran
+ en
+ peligro,
+ 14
+vulnerables
+ 11
+ raras,
+ 17
+ inadecuadamente
+ conocidas,
+ 3
+ fuera
+ de
+ peligro
+ y
+ 7
+ no
+ definidas.
+
+En
+ la
+ región,
+ 21
+ especies
+ de
+ mamíferos
+ presentan
+ problemas
+ de
+ conservación,
+ encontrándose
+ 5
+especies
+ en
+ peligro
+ (el
+ Tuco-­‐tuco
+ de
+ Magallanes,
+ el
+ gato
+ de
+ Geoffroy,
+ el
+ gato
+ Colo-­‐colo,
+ la
+ Guiña
+ y
+ el
+Huemul),
+ 8
+ vulnerables
+ (el
+ Piche,
+ la
+ Vizcacha,
+ el
+ Coipo,
+ el
+ Puma
+ el
+ Quique,
+ el
+ Huillín,
+ el
+ Chungungo
+ y
+ el
+Guanaco),
+ 2
+ raras,
+ 5
+ inadecuadamente
+ conocidas
+ y
+ 1
+ fuera
+ de
+ peligro.
+
+Entre
+ las
+ aves
+ posibles
+ de
+ ubicar
+ en
+ ambientes
+ costeros
+ de
+ la
+ XI
+ Región,
+ se
+ pueden
+ mencionar
+ albatros,
+petreles,
+ fardelas,
+ yuncos,
+ cormoranes,
+ playeros
+ y
+ salteadores.
+
+Del
+ total
+ de
+ Áreas
+ Silvestres
+ Protegidas
+ presentes
+ en
+ la
+ XI
+ Región
+ (22),
+ existe
+ información
+relativamente
+ completa
+ sobre
+ especies
+ de
+ vertebrados
+ presentes
+ en
+ 9
+ de
+ ellas:
+ Parques
+ Nacionales
+ El
+Guayaneco,
+ Laguna
+ San
+ Rafael,
+ y
+ Queulat;
+ Reservas
+ Forestales
+ Lago
+ Jeinimeni,
+ Río
+ Pascua,
+ Lago
+Cochrane,
+ Península
+ de
+ Taitao
+ y
+ Coyhaique;
+ Reserva
+ Forestal
+ Nacional
+ Lago
+ Las
+ Torres.
+ No
+ existe
+información
+ sobre
+ presencia
+ de
+ vertebrados
+ en
+ el
+ Parque
+ Nacional
+ Isla
+ Magdalena.
+
+El
+ detalle
+ de
+ la
+ fauna
+ amenazada
+ de
+ Aysén
+ identifica
+ las
+ siguientes
+ especies:
+
+ Carpintero
+ Negro
+ ( _Campephilus
+ magellanicus_ ),
+ vive
+ en
+ bosques
+ nativos
+ y
+ su
+ categoría
+ de
+conservación
+ es
+ de
+ “vulnerable”.
+
+ Ñandu:
+ ( _Rhea
+ pennata_ ),
+ vive
+ en
+ la
+ estepa
+ patagónica
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ de
+“vulnerable”.
+
+ Torcaza:
+ ( _Columba
+ araucana_ ),
+ vive
+ en
+ bosques
+ siempreverdes
+ y
+ su
+ categoría
+ de
+ conservación
+es
+ de
+ “vulnerable”.
+
+ Coipo:
+ ( _Myocastor
+ coypus_ ),
+ vive
+ en
+ humedales
+ dulceacuícolas
+ y
+ su
+ categoría
+ de
+ conservación
+es
+ de
+ “vulnerable”.
+
+ Huemul:
+ ( _Hippocamelus
+ bisulcus_ ),
+ vive
+ en
+ bosques
+ de
+ lenga
+ y
+ matorrales
+ y
+ su
+ categoría
+ de
+conservación
+ es
+ de
+ “en
+ peligro”.
+
+ Hullín:
+ ( _Lontra
+ provocax_ ),
+ vive
+ en
+ el
+ litoral
+ dulceacuícola
+ y
+ su
+ estado
+ de
+ conservación
+ es
+ de
+“vulnerable”.
+
+ Cisnes
+ de
+ Cuello
+ Negro:
+ ( _Cygnus
+ melanocorypha_ ),
+ vive
+ en
+ el
+ litoral
+ dulceacuícola
+ y
+ su
+ categoría
+de
+ conservación
+ es
+ de
+ “vulnerable”.
+
+ Gato
+ de
+ Geoffroy:
+ ( _Oncifelis
+ geoffroyi_ ),
+ vive
+ en
+ bosques
+ y
+ matorrales
+ y
+ su
+ categoría
+ de
+conservación
+ es
+ de
+ “en
+ peligro”.
+
+ Zorro
+ Culpeo:
+ ( _Pseudalopex
+ culpaeus_ ),
+ vive
+ de
+ Arica
+ a
+ Magallanes
+ en
+ matorrales
+ abiertos
+ y
+estepa
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ “inadecuadamente
+ conocido”.
+
+ Chingue
+ de
+ la
+ Patagonia:
+ ( _Conepatus
+ humboldti_ ),
+ vive
+ en
+ Aysén
+ y
+ Magallanes
+ en
+ zonas
+arbustivas
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ “inadecuadamente
+ conocido”.
+
+ Gato
+ Colocolo:
+ ( _Lynchailurus
+ colocolo_ ),
+ vive
+ de
+ Arica
+ al
+ Estrecho
+ de
+ Magallanes
+ en
+ bosques
+abiertos
+ y
+ estepa
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ de
+ “en
+ peligro
+ de
+ extinción”.
+
+ Puma:
+ ( _Puma
+ concolor_ ),
+ vive
+ entre
+ Arica
+ y
+ el
+ Estrecho
+ de
+ Magallanes
+ en
+ bosques,
+ matorrales
+ y
+zonas
+ abiertas
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ de
+ “vulnerable”.
+
+ Guiña:
+ ( _Oncifelis
+ guigna_ ),
+ vive
+ entre
+ Coquimbo
+ y
+ Aysén
+ en
+ bosques
+ y
+ matorrales
+ y
+ su
+ categoría
+de
+ conservación
+ es
+ de
+ “en
+ peligro
+ de
+ extinción”.
+
+ Zorro
+ Chilla:
+ (P _seudalopex
+ griseus_ ),
+ vive
+ entre
+ Copiapó
+ y
+ el
+ Estrecho
+ de
+ Magallanes,
+introducido
+ en
+ Tierra
+ del
+ Fuego,
+ en
+ matorrales
+ abiertos
+ y
+ estepa
+ y
+ su
+ categoría
+ de
+conservación
+ es
+ “inadecuadamente
+ conocido”.
+
+ Chungungo:
+ ( _Lontra
+ felina_ ),
+ vive
+ de
+ Arica
+ al
+ Golfo
+ de
+ Penas,
+ en
+ zonas
+ costeras
+ marinas
+ y
+ su
+categoría
+ de
+ conservación
+ es
+ de
+ “en
+ peligro
+ de
+ extinción”
+
+ Concón:
+ ( _Strix
+ rufipes_ ),
+ vive
+ en
+ áreas
+ boscosas
+ entre
+ las
+ regiones
+ V
+ y
+ XII
+ y
+ su
+ categoría
+ de
+conservación
+ es
+ de
+ “vulnerable”.
+
+ Halcón
+ Peregrino:
+ ( _Falco
+ peregrinus_ ),
+ se
+ encuentra
+ entre
+ Arica
+ y
+ Tierra
+ del
+ Fuego.
+ Su
+ estado
+ de
+conservación
+ es
+ de
+ “vulnerable”.
+
+ Garza
+ Cuca:
+ ( _Ardea
+ cocoi_ ),
+ habita
+ en
+ humedales
+ entre
+ las
+ regiones
+ II
+ y
+ XII
+ y
+ su
+ estado
+ de
+conservación
+ es
+ “rara”.
+
+ Martineta
+ o
+ Perdiz
+ Copetona:
+ ( _Eudromia
+ elegans_ ),
+ vive
+ sólo
+ en
+ algunos
+ sectores
+ cercanos
+ a
+Chile
+ Chico
+ y
+ Puerto
+ Ibáñez
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ “rara”.
+
+ Ranita
+ de
+ Darwin:
+ ( _Rhinoderma
+ darwini_ ),
+ vive
+ entre
+ Concepción
+ y
+ Aysén
+ en
+ bosques
+ húmedos
+y
+ selva
+ valdiviana
+ y
+ su
+ categoría
+ de
+ conservación
+ es
+ de
+ “en
+ peligro
+ de
+ extinción”.
+
+Respecto
+ de
+ la
+ fauna
+ observada
+ en
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ (Figura
+ 15),
+ fue
+ posible
+ identificar
+avifauna
+ silvestre
+ y
+ mamíferos,
+ tales
+ como:
+
+|Nombre Común|Nombre Científico|Categoría IUCN|Individuos|
+|---|---|---|---|
+|Quetrunovolador|_Tachyerespteneres_|LeastConcern|2|
+|Yeco|_Phalacrocoraxbrasilianus _|LeastConcern|1|
+|CormoránImperial|_Phalacrocorax atriceps _|LeastConcern|2|
+|LoboMarinoComún|_Otariaflavescens _|LeastConcern|2|
+
+Se
+ realiza
+ una
+ track
+ de
+ navegación
+ por
+ el
+ borde
+ costero
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ donde
+ es
+posible
+ observar
+ sustrato
+ rocoso;
+ respecto
+ de
+ la
+ macrofauna
+ del
+ sector
+ se
+ identifico
+ ejemplares
+ del
+Phyllum
+ Echinodermata,
+ genero
+ Asteroridea,
+ estrellas
+ de
+ mar
+ ( _Comasteria
+ lurida_ ),
+ y
+ especies
+ del
+genero _Echinoidea_ _Pseudechinus
+ magellanicus_ (Temnopleuridae), _Arbacia
+ dufresnei_ (Arbaciidae).
+(figura
+ 16)
+
+Figura
+ 15.
+ Distribución
+ espacial
+ de
+ las
+ aves
+ marinas
+ y
+ mamíferos
+ registradas
+ durante
+ el
+ muestreo
+ realizado
+ el
+ 4
+ al
+
+6
+ de
+ julio
+ del
+ 2014.
+
+_Figura
+ 16.
+ Transecta
+ registro
+ visual
+ borde
+ costero
+ área
+ de
+ influencia
+ directa
+ del
+ proyecto_
+
+**Sitios
+ de
+ Interés
+ Histórico
+ y
+ Cultural**
+La
+ Región
+ de
+ Aysén
+ lleva
+ más
+ de
+ una
+ década
+ de
+ trabajos
+ sistemáticos
+ en
+ la
+ investigación
+ arqueológica
+y
+ más
+ de
+ 30
+ años
+ desde
+ sus
+ inicios.
+ Sólo
+ se
+ ha
+ reconocido
+ el
+ sitio
+ arqueológico
+ del _Alero
+ Las
+ Quemas_,
+en
+ el
+ Sector
+ ―La
+ Tapera‖,
+ en
+ el
+ valle
+ del
+ río
+ Cisnes,
+ en
+ la
+ Comuna
+ de
+ Lago
+ Verde
+ (Mena,
+ 1996).
+ No
+existe
+ información
+ de
+ sitios
+ arqueológicos
+ declarados
+ ante
+ el
+ Consejo
+ de
+ Monumentos
+ Nacionales
+ en
+la
+ Comuna
+ de
+ Cisnes.
+
+**1.3.5.3**
+**Medio
+ Marino**
+Para
+ caracterizar
+ el
+ lugar
+ donde
+ se
+ emplazará
+ el
+ proyecto
+ y
+ su
+ ampliación,
+ y
+ certificar
+ el
+ cumplimiento
+de
+ la
+ normativa
+ ambiental
+ vigente,
+ se
+ realizó
+ un
+ estudio
+ del
+ sitio,
+ basado
+ en
+ aquellos
+ caracteres
+ más
+relevantes
+ del
+ medio
+ marino,
+ que
+ permitan
+ conocer
+ las
+ condiciones
+ naturales
+ previas
+ a
+ la
+ etapa
+ de
+operación
+ del
+ proyecto
+ modificado
+ y
+ la
+ vulnerabilidad
+ ambiental
+ del
+ sitio.
+ Dicho
+ estudio
+ se
+ denomina
+_Caracterización
+ Preliminar
+ del
+ Sitio_ (CPS).
+ En
+ la
+ elaboración
+ de
+ la
+ CPS
+ se
+ siguió
+ la
+ metodología
+estipulada
+ en
+ la
+ RSSP
+ N°3.612/2009
+ en
+ todos
+ los
+ numerales
+ que
+ le
+ son
+ pertinentes,
+ se
+ categoriza
+ el
+centro
+ dentro
+ de
+ la
+ categoría
+ 5,
+ por
+ presentar
+ profundidades
+ mayores
+ a
+ 60
+ m
+ en
+ todas
+ sus
+ estaciones
+de
+ muestreo.
+
+En
+ el **Anexo
+ 5** de
+ la
+ DIA,
+ se
+ presenta
+ el
+ Levantamiento
+ Batimétrico,
+ el
+ Formulario
+ CPS
+ que
+ entrega
+ la
+SSP
+ para
+ estos
+ efectos,
+ Certificado
+ de
+ Calibración,
+ Fichas
+ Técnicas,
+ Certificados
+ de
+ Equipos
+ utilizados
+en
+ las
+ mediciones,
+ Datos
+ Crudos
+ de
+ Correntometría,
+ Informe
+ de
+ Corrientes
+ Eulerianas,
+ Permiso
+ SHOA
+ e
+Informe
+ de
+ la
+ CPS.
+
+De
+ acuerdo
+ a
+ los
+ resultados
+ obtenidos
+ en
+ el
+ presente
+ documento
+ se
+ puede
+ establecer
+ que
+ el
+ área
+Punta
+ Cesari,
+
+ solicitada
+ para
+ relocalizar
+ la
+ concesión
+ Queulat,
+ en
+ términos
+ generales,
+ presente
+ un
+buen
+ estado
+ ambiental
+ sin
+ evidenciarse
+ estrés
+ ambiental.
+
+El
+ área
+ presenta
+ una
+ profundidad
+ media
+ de
+ 80
+ m
+ con
+ una
+ pendiente
+ levemente
+ pronunciada
+ y
+ sin
+depresiones.
+
+Las
+ principales
+ medidas
+ de
+ tendencia
+ central
+ correspondientes
+ a
+ los
+ datos
+ de
+ corrientes
+ por
+profundidad
+ evidencian
+ que
+ la
+ columna
+ de
+ agua
+ presenta
+ valores
+ semejantes
+ de
+ velocidad
+ durante
+toda
+ la
+ columna
+ de
+ agua.
+ Se
+ evidenció
+ unos
+ valores
+ más
+ elevados
+ en
+ capas
+ medias
+ (Capas
+ 16
+ y
+ 17,
+entre
+ 30
+ y
+ 34m)
+ similares
+ a
+ lo
+ registrado
+ en
+ superficie
+ (capa
+ 2,
+ entre
+ 2
+ y
+ 4m).
+ En
+ toda
+ la
+ columna
+ de
+agua
+ la
+ velocidad
+ promedio
+ fue
+ de
+ 5,41cm/s,
+ registrándose
+ como
+ valor
+ mínimo
+ promedio
+ en
+ toda
+ la
+columna
+ de
+ agua
+ 4,58cm/s
+ (Capa
+ 6
+ entre
+ 10
+ y
+ 12m)
+ y
+ como
+ máximo
+ promedio
+ 7,97cm/s
+ en
+ la
+ capa
+ 2
+ (2
+a
+ 4m).
+
+En
+ el
+ análisis
+ de
+ frecuencia
+ de
+ velocidad
+ para
+ toda
+ la
+ columna
+ de
+ agua,
+ el
+ intervalo
+ dominante
+ fue
+ el
+situado
+ entre
+ los
+ 5,1
+ a
+ 10,0cm/s
+ con
+ un
+ 38,0%
+ de
+ los
+ casos,
+ fue
+ seguido
+ por
+ los
+ intervalos
+ de
+velocidades
+ comprendidos
+ entre
+ 3,1
+ a
+ 5,0cm/s
+ y
+ el
+ de
+ 1,5
+ a
+ 3,0cm/s
+ con
+ el
+ 28,4
+ y
+ el
+ 16,6%
+ de
+ los
+registros,
+ respectivamente.
+ El
+ registro
+ de
+ velocidades
+ superiores
+ a
+ 15,1cm/s
+ sólo
+ obtuvo
+ el
+ 1,4%
+ de
+ las
+mediciones,
+ por
+ lo
+ que
+ se
+ desarrolla
+ una
+ tendencia
+ de
+ velocidades
+ bajas
+ -­‐
+ medias
+ en
+ toda
+ la
+ columna.
+
+La
+ distribución
+ de
+ la
+ dirección
+ en
+ toda
+ la
+ columna
+ de
+ agua
+ no
+ presentó
+ una
+ tendencia
+ dominante
+distribuyendo
+ las
+ frecuencias
+ de
+ ocurrencia
+ en
+ todas
+ las
+ direcciones.
+ Los
+ intervalos
+ de
+ dirección
+ de
+ la
+corriente
+ que
+ estuvieron
+ más
+ representados
+ fueron
+ el
+ intervalo
+ Noroeste,
+ Oeste
+ con
+ un
+ 15,3
+ y
+ un
+15,1%
+ de
+ los
+ registros.
+ Fueron
+ seguidos
+ por
+ los
+ intervalos
+ Norte,
+ Sureste,
+ Suroeste
+ y
+ con
+ un
+ 13,2,
+ 13,2
+y
+ 12,7%
+ de
+ los
+ sucesos,
+ respectivamente.
+ El
+ intervalo
+ de
+ dirección
+ menos
+ frecuente
+ fue
+ el
+ Noreste,
+ con
+un
+ 8,7%
+ de
+ los
+ casos
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+
+Respecto
+ de
+ la
+ concentración
+ de
+ oxigeno
+ del
+ agua,
+ se
+ evidencia
+ una
+ columna
+ con
+ buena
+ mezcla
+ de
+ las
+masas
+ de
+ agua
+
+ y
+ con
+ una
+ leve
+ estratificación
+ de
+ los
+ parámetros
+ medidos,
+ con
+ valores
+ aptos
+ para
+ el
+crecimiento
+ y
+ desarrollo
+ de
+ organismos.
+
+De
+ acuerdo
+ a
+ los
+ antecedentes
+ antes
+ expuestos
+ el
+ área
+ solicitada
+ de
+ Punta
+ Cesari,
+ no
+ se
+ evidencia
+impactada
+ y
+ presenta
+ un
+ buen
+ estado
+ medio
+ ambiental.
+
+Ver
+ informe
+ CPS
+ en **Anexo
+ 5** .
+
+**1.3.5.4**
+**Paisaje
+ y
+ Estética**
+El
+ paisaje
+ del
+ sector
+ donde
+ se
+ ubica
+ el
+ Centro
+ de
+ Engorda
+ de
+ Salmónidos
+ que
+ se
+ evalúa
+ es
+ muy
+ típico
+del
+ territorio
+ circunscrito
+ en
+ los
+ canales
+ y
+ fiordos
+ de
+ la
+ Región
+ de
+ Aysen,
+ como
+ en
+ este
+ caso
+ particular,
+la
+ costa
+ de
+ canal
+ Puyuhuapi,
+ la
+ que
+ se
+ caracteriza
+ fundamentalmente
+ por
+ una
+ abundante
+ vegetación
+preferentemente
+ nativa
+ y
+ costa
+ rocosa.
+
+Se
+ trata
+ de
+ un
+ proyecto
+ estructurado
+ por
+ un
+ pontón
+ más
+ plataforma
+ de
+ ensilaje
+ y
+ grupos
+ de
+ balsas
+emplazadas
+ en
+ medio
+ de
+ una
+ matriz
+ homogénea
+ como
+ es
+ el
+ mar
+ y
+ en
+ condiciones
+ de
+ visibilidad
+fuertemente
+ parceladas
+ por
+ aspectos
+ geográficos
+ y
+ climáticos,
+ sumada
+ a
+ la
+ ausencia
+ casi
+ total
+ de
+población,
+ ya
+ que
+ el
+ poblado
+ más
+ cercano
+ es
+ Puyuhuapi
+ a
+ prácticamente
+ 18
+ km
+ en
+ línea
+ recta
+ ya
+ mas
+de
+ 26
+ km
+ en
+ línea
+ recta
+ de
+ Puerto
+ Cisnes.
+
+La
+ ruta
+ de
+ abastecimiento
+ al
+ centro
+ se
+ suma
+ a
+ otras
+ tantas
+ embarcaciones
+ que
+ a
+ diario
+ transitan
+ por
+estos
+ canales,
+ por
+ lo
+ que
+ no
+ se
+ prevé
+ un
+ impacto
+ en
+ la
+ fase
+ del
+ proceso
+ productivo.
+
+Las
+ embarcaciones
+ que
+ se
+ movilizan
+ por
+ este
+ cuerpo
+ de
+ agua
+ están
+ fundamentalmente
+ relacionadas
+con
+ personas
+ ligadas
+ a
+ transporte
+ marítimo
+ comercial,
+ turismo,
+ embarcaciones
+ de
+ insumos
+ y
+ personal
+de
+ los
+ diferentes
+ centros
+ de
+ cultivo
+ del
+ sector,
+ lugareños
+ y
+ de
+ acuerdo
+ a
+ la
+ información
+ recopilada
+ se
+indica
+ la
+ presencia
+ de
+ áreas
+ de
+ manejo
+ en
+ Canal
+ Puyuhuapi,
+ Paso
+ Sibbald,
+ todas
+ en
+ estado
+ de
+tramitación
+ pendiente
+ y
+ zonas
+ de
+ pesca
+ cercano
+ al
+ emplazamiento
+ del
+ proyecto,
+ todas
+ ellas
+ se
+emplazan
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto;
+ sin
+ perjuicio
+ de
+ ello
+ el
+ Titular
+ tomará
+ algunas
+medidas
+ preventivas
+ para
+ evitar
+ posibles
+ eventos
+ susceptibles
+ de
+ afectación
+ (ver
+ capitulo
+ 2).
+
+Las
+ rutas
+ marítimas
+ posibles
+ de
+ seguir
+ para
+ acceder
+ al
+ centro
+ de
+ cultivo
+ serán
+ desde
+ Quellón
+ a
+ través
+del
+ Golfo
+ Corcovado,
+ pasando
+ por
+ Melinka,
+ Canal
+ Moraleda,
+ ingresando
+ ya
+ sea
+ por
+ Canal
+ Jacaf
+ al
+ canal
+Puyuhuapi,
+ o
+ desde
+ el
+ moraleda
+ ingresando
+ al
+ canal
+ Puyuhuapi.
+ Desde
+ el
+ sur
+ las
+ vías
+ de
+ acceso
+ de
+Puerto
+ Chacabuco,
+ Aysen
+ e
+ incluso
+ desde
+ Puerto
+ Aguirre,
+ las
+ vías
+ de
+ acceso
+ es
+ a
+ través
+ del
+ fiordo
+ de
+Aysen,
+ Canal
+ Pilcomayo,
+ canal
+ ferronave
+ al
+ canal
+ Puyuhuapi.
+ (Ver
+ Figuras
+ 4;5
+ y
+ 6
+ en
+ paginas
+ 15
+ a
+ la
+ 17).
+
+Según
+ el
+ catastro
+ del _Sistema
+ de
+ Áreas
+ Silvestres
+ Protegidas
+ por
+ el
+ Estado_ (SNASPE),
+ administrado
+ por
+la
+ CONAF,
+ en
+ la
+ Región
+ de
+ Aysen
+ existen:
+ cinco
+ Parques
+ Nacionales
+ (Isla
+ Guamblin.
+ Isla
+ Magdalena,
+Bernardo
+ O’Higgins,
+ Laguna
+ San
+ Rafael
+ y
+ Queulat);
+ dos
+ Monumentos
+ Naturales
+ (Cinco
+ hermanas
+ y
+ Dos
+Lagunas)
+ y
+ una
+ Reservas
+ Nacionales
+ (Lago
+ Cochrane
+ o
+ Tamango;
+ Lago
+ Jeinimeni;
+ Lago
+ Carlota;
+ Lago
+ Las
+Torres;
+ Río
+ Simpson;
+ Lago
+ Palena;
+ Lago
+ Trapananda;
+ Lago
+ Rosselot;
+ Las
+ Guaitecas;
+ Katalalixar
+ de
+ Tortel,
+
+y
+ Cerro
+ castillo);
+ una
+ Zona
+ Típica
+ y
+ Pintoresca
+ (Caleta
+ Tortel)
+ y
+ un
+ Monumento
+ Histórico
+ (Isla
+ de
+ los
+Muertos).
+ Todos
+ ellos
+ se
+ encuentran
+ distante
+ del
+ área
+ de
+ CC.AA.
+ del
+ proyecto
+ de
+ estudio.
+
+Es
+ importante
+ destacar
+ que
+ el
+ proyecto
+ NO
+ contempla
+ tener
+ instalaciones
+ en
+ tierra,
+ que
+ su
+ mayor
+efecto
+ lo
+ tiene
+ por
+ su
+ cercanía
+ al
+ borde
+ costero
+ (que
+ se
+ encuentra
+ aproximadamente
+ a
+ unos
+ 130
+metros
+ en
+ promedio
+ del
+ área
+ concesionada)
+ y
+ que
+ NO
+ se
+ localiza
+ en
+ un
+ área
+ declarada _Zona
+ o
+ Centro_
+_de
+ Interés
+ Turístico
+ Nacional,_ según
+ lo
+ dispuesto
+ en
+ el
+ D.L.
+ N°1.224
+ de
+ 1975,
+ si
+ cercano
+ al
+ Parque
+Nacional
+ Queulat
+ distante
+ a
+ 6
+ km
+ en
+ línea
+ recta.
+
+En
+ el **Anexo
+ 6** de
+ la
+ DIA
+ se
+ adjunta
+ el
+ ―Informe
+ de
+ Paisaje‖,
+ que
+ recoge
+ el
+ resto
+ de
+ antecedentes,
+ que
+permiten
+ afirmar
+ que
+ las
+ estructuras
+ propuestas
+ al
+ proyecto
+ y
+ que
+ se
+ desarrollan
+ en
+ la
+ presente
+ DIA
+que
+ se
+ evalúa,
+ no
+ generan
+ o
+ presentan
+ alteración
+ significativa,
+ en
+ términos
+ de
+ magnitud
+ o
+ duración,
+del
+ valor
+ paisajístico
+ o
+ turístico
+ de
+ la
+ zona
+ donde
+ se
+ emplaza
+ el
+ proyecto.
+
+**Turismo**
+De
+ acuerdo
+ a
+ la
+ información
+ de
+ Sernatur
+ (2008)
+ los
+ principales
+ destinos
+ turísticos
+ de
+ la
+ Región
+ de
+Aysen,
+ son
+ Coihaique
+ y
+ Puerto
+ Aysén,
+ Ruta
+ Austral
+ y
+ Parque
+ Nacional
+ Queulat
+ -
+ Puyuhuapi,
+ Parque
+Nacional
+ Laguna
+ San
+ Rafael
+ y
+ Lago
+ General
+ Carrera,
+ Río
+ Baker
+ y
+ Tortel.
+ La
+ conectividad
+ para
+ la
+ región
+está
+ definida,
+ fundamentalmente,
+ por
+ la
+ Ruta
+ 7
+ o
+ Camino
+ Austral,
+ la
+ conectividad
+ marítima
+ y
+ la
+ aérea.
+De
+ la
+ información
+ entregada
+ por
+ Sernatur,
+ se
+ puede
+ apreciar
+ que
+ el
+ tema
+ turístico
+ en
+ la
+ Región
+ de
+Aysen
+ tiene
+ su
+ fuerte
+ en
+ las
+ Zonas
+ Norte
+ y
+ Centro,
+ lo
+ cual
+ se
+ puede
+ atribuir
+ al
+ nivel
+ de
+ accesibilidad
+que
+ presenta
+ esa
+ área
+ de
+ la
+ Región.
+ El
+ SNASPE
+ más
+ cercano
+ es
+ el
+ PN
+ Queulat
+ a
+ 6
+ km
+ en
+ línea
+ recta,
+ es
+decir,
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ (Tabla
+ 11).
+
+_Tabla
+ 11.
+ SNASPE
+ región
+ de
+ Aisen
+ y
+ distancias
+ en
+ línea
+ recta
+ respecto
+ del
+ proyecto_
+
+|N°|Área SNASPE|Distancia al centro (Kms.)|
+|---|---|---|
+|1|ReservaNacionalLagoRosselot|44|
+|2|ParqueNacionalQueulat|6|
+|3|ParqueNacionalIslaMagdalena|21|
+|4|ParqueNacionalIslaGuamblin|191|
+|5|ReservaNacionalLasGuaitecas|75|
+|6|ReservaNacionalLagoCarlota|74|
+|7|ReservaNacionalLagoLasTorres|46|
+|8|ReservaNacionalMañiguales|88|
+|9|ReservaNacionalTrapananda|115|
+|10|ReservaNacionalRíoSimpson|99|
+|11|MonumentoNaturalCincoHermanas|97|
+|12|ReservaNacionalCoyhaique|122|
+|13|MonumentoNaturalDosLagunas|131|
+|14|ReservaNacionalCerroCastillo|144|
+|15|ParqueNacionalLagunaSanRafael|212|
+|16|ReservaNacionalLagoJeinimeni|233|
+|17|ReservaNacionalTamango|294|
+|18|ReservaNacionalKatalalixa|351|
+|19|ParqueNacionalBernardoO'Higgins|398|
+
+Fuente:
+ elaboración
+ propia.
+
+El
+ Informe
+ de
+ Paisaje **(Anexo
+ 6** de
+ la
+ DIA)
+ recoge
+ también
+ lo
+ relacionado
+ al
+ Turismo.
+
+Por
+ tanto,
+ de
+ acuerdo
+ a
+ lo
+ anteriormente
+ expuesto,
+ se
+ puede
+ concluir
+ que:
+
+ El
+ proyecto
+ se
+ ubica
+ en
+ una
+ zona
+ donde
+ se
+ desarrolla
+ la
+ actividad
+ salmonera
+ y
+ dentro
+ de
+ las
+áreas
+ aptas
+ para
+ el
+ ejercicio
+ de
+ la
+ acuicultura.
+ Dada
+ su
+ ubicación,
+ existen
+ buenas
+ condiciones
+de
+ conectividad
+ hacia
+ el
+ área,
+ tanto
+ por
+ la
+ disponibilidad
+ de
+ infraestructura
+ vial
+ así
+ como
+portuaria
+ próxima
+ al
+ sector,
+ lo
+ que
+ facilita
+ las
+ actividades
+ operacionales
+ del
+ centro.
+ De
+ acuerdo
+a
+ la
+ información
+ disponible
+ de
+ la
+ línea
+ de
+ base
+ realizada
+ en
+ la
+ CPS,
+ se
+ establece
+ que
+ el
+ sector
+presenta
+ buenas
+ condiciones
+ oceanográficas,
+ que
+ permiten
+ desarrollar
+ un
+ sistema
+ de
+ cultivo
+intensivo
+ sustentable
+ en
+ el
+ tiempo.
+
+ Por
+
+ su
+ ubicación,
+ el
+ proyecto
+ no
+ presenta
+ riesgo
+ para
+ la
+ salud
+ de
+ la
+ población,
+ debido
+ a
+ la
+cantidad
+ y
+ calidad
+ de
+ efluentes,
+ emisiones
+ o
+ residuos.
+ Se
+ pone
+ en
+ antecedente
+ de
+ ello
+ al
+ SEA,
+con
+ el
+ objeto
+ de
+ dar
+ cumplimiento
+ al
+ Art.
+ 11,
+ literal
+ (a)
+ de
+ la
+ Ley
+ 19.300
+ y
+ el
+ Art.
+ 5
+ del
+ D.S.
+
+ No
+40
+ de
+ 2012
+ del
+ MMA.
+
+ El
+ proyecto
+ no
+ genera
+ efectos
+ adversos
+ significativos
+ sobre
+ la
+ cantidad
+ y
+ calidad
+ de
+ los
+recursos
+ naturales
+ renovables,
+ incluidos
+ el
+ suelo,
+ agua
+ y
+ aire
+ en
+ ninguna
+ de
+ sus
+ etapas,
+ según
+lo
+ indica
+ el
+ Art.11,
+ literal
+ (b)
+ de
+ la
+ Ley
+ 19.300
+ y
+ el
+ Art.
+ 6
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+ MMA.
+
+ La
+ instalación
+ del
+ proyecto
+ no
+ involucra
+ reasentamiento
+ de
+ comunidades
+ humanas,
+ ni
+alteración
+ significativa
+ de
+ los
+ sistemas
+ de
+ vida
+ y
+ costumbres
+ de
+ grupos
+ humanos.
+ Este
+
+antecedente
+ permite
+ evaluar
+ el
+ cumplimiento
+ de
+ lo
+ señalado
+ en
+ el
+ Art.
+ 11,
+ literal
+ (c)
+ de
+ la
+ Ley
+19.300
+ y
+ el
+ Art.
+ 7
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+ MMA.
+
+El
+ proyecto
+ contempla
+ la
+ protección
+ a
+ recursos,
+ áreas
+ susceptibles
+ y
+ al
+ valor
+ ambiental
+ del
+territorio
+ en
+ que
+ se
+ pretende
+ emplazar.
+ Se
+ entrega
+ esta
+ información
+ con
+ el
+ objeto
+ de
+ dar
+cumplimiento
+ al
+ Art.11,
+ literal
+ (d)
+ de
+ la
+ Ley
+ 19.300,
+ y
+ el
+ Art.
+ 8
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+ MMA.
+
+El
+ proyecto
+ contempla
+ la
+ protección
+ del
+ valor
+ paisajístico
+ y/o
+ turístico,
+ para
+ dar
+ cumplimiento
+a
+ lo
+ establecido
+ en
+ el
+ Art.11,
+ literal
+ (e)
+ de
+ la
+ Ley
+ 19.300
+ y
+
+ el
+ Art.
+ 9
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+MMA.
+
+La
+ actividad
+ propuesta
+ se
+ realizará
+ en
+ un
+ 100%
+ en
+ el
+ medio
+ marino,
+ por
+ lo
+ que
+ se
+ concluye
+ que
+este
+ proyecto
+ no
+ constituye
+ riesgo
+ alguno
+ para
+ el
+ patrimonio
+ arqueológico
+ que
+ pudiera
+ existir
+en
+ el
+ área.
+ Esta
+ información
+ se
+ pone
+ a
+ disposición
+ del
+ SEA
+ para
+ evaluar
+ el
+ cumplimiento
+ de
+ lo
+establecido
+ en
+ Art.11,
+ literal
+ (f)
+ de
+ la
+ Ley
+ 19300
+ y
+ el
+ Art.
+ 10
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+ MMA.
+
+No
+ se
+ generarán
+ o
+ presentarán
+ alteraciones
+ sobre
+ el
+ patrimonio
+ cultural,
+ según
+ lo
+ establecido
+en
+ Art.11,
+ literal
+ (f)
+ de
+ la
+ Ley
+ 19.300
+ y
+ el
+ Art.
+ 10
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+ MMA.
+
+El
+ proyecto
+ no
+ se
+ encuentra
+ emplazado
+ en
+ ninguna
+ zona
+ latente
+ o
+ saturada
+ por
+ algún
+contaminante,
+ según
+ exige
+ la
+ Ley
+ No
+ 19.300
+ y
+ sus
+ modificaciones.
+
+El
+ proyecto
+ no
+ constituye
+ riesgo
+ para
+ la
+ presencia
+ de
+ especies
+ vulnerables
+ de
+ flora
+ marina
+nativa,
+ de
+ fauna
+ marina
+ vulnerable
+ o
+ en
+ vías
+ de
+ extinción,
+ para
+ dar
+ cumplimiento
+ a
+ lo
+establecido
+ en
+ el
+ Art.
+ 6,
+ literal
+ (b)
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012
+ del
+ MMA.
+ Como
+ se
+ demuestra
+ en
+ el
+capítulo
+ 2,
+ la
+ ubicación
+ y
+ las
+ características
+ del
+ entorno
+ del
+ proyecto
+ permitirán
+ asegurar
+ que
+no
+ se
+ generará
+ ningún
+ efecto
+ nocivo
+ para
+ el
+ medio
+ ambiente.
+
+_**1.4**_
+_**DESCRIPCIÓN
+ DE
+ LAS
+ PARTES,
+ ACCIONES
+ Y
+ OBRAS
+ FÍSICAS
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,**_
+_**literal
+ a.4).**_
+El
+ proyecto
+ comprende
+ las
+ etapas
+ de
+ levantamiento
+ de
+ información,
+ construcción,
+ operación
+ y
+abandono.
+ De
+ acuerdo
+ al
+ artículo **14
+ del
+ D.S.
+ N°
+ 40
+ de
+ 2013**,
+ se
+ señala
+ que
+ el
+ presente
+ proyecto
+ no
+ se
+realiza
+
+ por
+ etapas,
+ es
+ decir,
+ se
+ trata
+ de
+ un
+ proyecto
+ que
+ se
+ ejecutara
+ en
+ una
+ sola
+ fase.
+
+De
+ la
+ misma
+ manera
+ es
+ preciso
+ señalar
+ que
+ dada
+ la
+ naturaleza
+ del
+ proyecto
+ y
+ su
+ ubicación,
+ no
+ ha
+ sido
+necesario
+ iniciar
+ negociaciones
+ con
+ ninguna
+ entidad
+ y/o
+ personas
+ naturales
+ del
+ sector
+ involucrado
+ en
+la
+ ejecución
+ del
+ proyecto
+
+ artículo **17
+ del
+ D.S.
+ N°
+ 40
+ de
+ 2013.**
+
+1.4.1
+Levantamiento
+ de
+ Información
+En
+ esta
+ etapa
+ del
+ proyecto
+ se
+ realizaron
+ los
+ estudios
+ en
+ terreno
+ para
+ la
+ caracterización
+ preliminar
+ del
+sitio,
+ cuyos
+ resultados
+ se
+ presentan
+ en **anexo
+ 5** de
+ este
+ informe.
+
+_**1.5**_
+_**ETAPA
+ DE
+ CONSTRUCCIÓN
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.5).**_
+
+1.5.1
+Partes,
+ obras
+ y
+ acciones
+ de
+ la
+ etapa
+ de
+ construcción
+El
+
+ inicio
+ del
+ proyecto
+ en
+ el
+ sitio
+ se
+ considera
+ a
+ partir
+ de
+ los
+ estudios
+ de
+ ingeniería
+ (memoria
+ de
+ cálculo
+de
+ fondeo)
+ e
+ instalación
+ de
+ los
+ sistemas
+ de
+ fondeo
+ de
+ las
+ estructuras
+ a
+ instalar
+ ( **Artículo
+ 16
+ del
+ D.S.
+ No**
+**40/2012**,
+ hito
+ de
+ inicio).
+
+Esta
+ etapa
+ contempla
+ la
+ instalación
+ de
+ 16
+ balsas
+ jaulas
+ de
+ 30x30m
+ en
+ el
+ centro
+ de
+ cultivo,
+ para
+producir
+ 3.200
+ toneladas
+ a
+ partir
+ del
+ primer
+ año
+ de
+ operación,
+ que
+ corresponde
+ a
+ la
+ máxima
+ biomasa
+en
+ cultivo.
+
+Cabe
+ destacar
+ que
+ todas
+ las
+ artes
+ de
+ cultivo
+ así
+ como
+ también
+ las
+ instalaciones
+ de
+ apoyo,
+ se
+encontrarán
+ en
+ concordancia
+ con
+ lo
+ indicado
+ en
+ Artículos
+ 67
+ bis
+ y
+ 74
+ de
+ la
+ Ley
+ N°
+ 18.892
+ Ley
+ General
+de
+ Pesca
+ y
+ Acuicultura,
+ así
+ como
+ lo
+ señalado
+ en
+ Artículo
+ 2°
+ letra
+ v
+ del
+ DS
+ N°
+ 320/2001
+ Reglamento
+Ambiental
+ para
+ la
+ Acuicultura
+ RAMA;
+ es
+ decir,
+ dentro
+ del
+ área
+ concesionada;
+ sin
+ embargo,
+ no
+ se
+dispone
+ de
+ los
+ planos
+ aún
+ debido
+ a
+ que
+ posterior
+ a
+ la
+ RCA
+ se
+ realizan
+ los
+ estudios
+ oceanográficos
+específicos
+ para
+ determinar
+ su
+ posición
+ y
+ configuración,
+ en
+ el **anexo
+ 5** se
+ presenta
+ la
+ ubicación
+referencial
+ de
+ los
+ módulos
+ de
+ cultivo.
+ La
+ siguiente
+ tabla
+ resume
+ el
+ número
+ de
+ balsas
+
+ a
+ ingresar
+ al
+centro.
+
+_Tabla
+ 12.
+ Ingreso
+ de
+ estructuras
+ de
+ cultivo_
+
+|No de Estructuras Instaladas|Balsa Jaulas Instaladas por Año a Evaluar|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|No de Estructuras Instaladas|<br>Año <br>|<br>1 <br>|<br>2 <br>|<br>3 <br>|<br>4 <br>|<br>5 <br>|<br>Total <br>|Superficie (m2) <br>|Volumen (m3) <br>|
+||(BJ/Año)|16|0|0|0|0|16|14.400|259.200|
+
+La
+ etapa
+ de
+ construcción
+ consta
+ de
+ la
+ instalación
+ de
+ 16
+ balsas
+ jaulas,
+ pontón
+ habitable
+ con
+ bodega
+para
+ almacenamiento
+ de
+ insumos
+ y
+ alimento;
+ y
+ una
+ plataforma
+ de
+ ensilaje
+ de
+ mortalidad
+ que
+ se
+encuentra
+ aprobada
+ mediante
+ resolución
+ RCA
+ No
+ 236/2011.
+
+Las
+ redes
+ podrán
+ ser
+ o
+ no
+ impregnadas
+ con
+ pintura
+ antifouling,
+ antes
+ de
+ su
+ ingreso
+ al
+ centro
+ de
+cultivo,
+ de
+ acuerdo
+ a
+ lo
+ que
+ estime
+ la
+ Gerencia
+ de
+ Operaciones
+ de
+ la
+ Empresa.
+ Las
+ redes
+ tendrán
+distinta
+ apertura
+ dependiendo
+ de
+ la
+ etapa
+ de
+ desarrollo
+ y
+ talla
+ de
+ los
+ peces.
+ En
+ este
+ centro
+ se
+utilizarán
+ tres
+ tipos
+ de
+ redes:
+ de
+ cultivo
+ para
+ la
+ engorda
+ de
+ peces,
+ de
+ protección
+ ante
+ depredadores
+(redes
+ loberas)
+ de
+ 23
+ m
+ de
+ profundidad
+ y
+ de
+ protección
+ contra
+ aves
+ y
+ escape
+ de
+ peces
+ (redes
+pajareras).
+
+**1.5.1.1**
+**Cambio
+ de
+ redes**
+Para
+ realizar
+ el
+ cambio,
+ limpieza
+ y
+ reparación
+ de
+ redes,
+ este
+ centro
+ optará
+ por
+ contratar
+ el
+ servicio
+ de
+empresas
+ que
+ cuenten
+ con
+ las
+ autorizaciones
+ pertinentes
+ para
+ el
+ tratamiento
+ y
+ manejo
+ de
+ dichos
+materiales
+ de
+ cultivo,
+ y
+ el
+ traslado
+ a
+ talleres
+ autorizados.
+
+Las
+ redes
+ que
+ sean
+ reemplazadas,
+ serán
+ estibadas
+ en
+ una
+ embarcación
+ que
+ las
+ transportará
+ por
+ vía
+marítima
+ para
+ su
+ tratamiento
+ y
+ mantención
+ correspondiente.
+ Las
+ maniobras
+ de
+ reemplazo
+ y
+ traslado
+de
+ redes
+ serán
+ de
+ exclusiva
+ responsabilidad
+ de
+ la
+ Empresa
+ con
+ la
+ cual
+ se
+ contrate
+ este
+ servicio,
+exigiendo
+ el
+ Titular
+ que
+ esto
+ se
+ realice
+ cumpliendo
+ la
+ normativa
+ vigente.
+ Cabe
+ señalar
+ que
+ el
+ Titular
+está
+ consciente
+ que
+ tiene
+ la
+ responsabilidad
+ ambiental
+ de
+ todas
+ las
+ faenas
+ realizadas
+ en
+ su
+ centro,
+ aun
+cuando
+ sean
+ ejecutadas
+ por
+ una
+ empresa
+ externa.
+
+Periódicamente
+ se
+ verificarán
+ las
+ condiciones
+ de
+ los
+ módulos
+ de
+ cultivo.
+
+Para
+ el
+ control
+ de
+ los
+ incrustantes
+ serán
+ utilizados
+ métodos
+ y
+ frecuencias
+ autorizados
+ por
+ el
+ Servicio
+Nacional
+ de
+ Pesca
+ y
+ Acuicultura.
+
+**1.5.1.2**
+**Fondeos**
+El
+ centro
+ de
+ cultivo
+ considera
+ preliminarmente
+ el
+ uso
+ de
+ muertos
+ de
+ concreto
+ de
+ diferentes
+ pesos
+dependiendo
+ de
+ la
+ ubicación
+ de
+ estos
+ en
+ las
+ diferentes
+ estructuras
+ a
+ instalar,
+ cadenas
+ de
+ 19
+ mm,
+grilletes
+ de
+ acero
+ galvanizado
+ de
+ 7/8,
+ cabo
+ de
+ polipropileno
+ de
+ 1
+ 1⁄4
+ de
+ diámetro
+ y
+ cable
+ de
+ acero
+ de
+una
+ pulgada.
+ La
+ decisión
+ final
+ respecto
+ de
+ este
+ punto
+ será
+ tomada
+ en
+ consideración
+ a
+ lo
+ sugerido
+ por
+la
+ empresa
+ que
+ entregue
+ el
+ servicio
+ de
+ fondeo
+ de
+ estructuras.
+
+La
+ siguiente
+ tabla
+ resume
+ la
+ cantidad
+ de
+ muertos
+ que
+ referencialmente
+ y
+ preliminarmente
+ puedan
+ ser
+utilizados
+ por
+ el
+ centro:
+
+|N° de Muertos|Peso (kg)|
+|---|---|
+|_56_|_20.000_|
+|_12_|_25.000_|
+|_2 _|_10.000_|
+
+Cabe
+ destacar
+ que
+ para
+ la
+ construcción
+ y/o
+ armado
+ de
+ las
+ estructuras
+ de
+ fondeo,
+ muertos,
+ así
+ como
+de
+ las
+ otras
+ estructuras
+ de
+ cultivo,
+ no
+ se
+ ocuparán
+ terrenos
+ de
+ playa
+ aledaños
+ al
+ centro
+ de
+ cultivo,
+estas
+ arribaran
+ al
+ sector
+ pre
+ armadas.
+
+**1.5.1.3**
+**Pontón
+ -Bodega**
+Para
+ la
+ operación
+ del
+ centro
+ de
+ cultivo,
+ no
+ se
+ contempla
+ la
+ instalación
+ de
+ infraestructura
+ en
+ tierra,
+ por
+lo
+ cual
+ se
+ instalará
+ una
+ plataforma
+ flotante
+ (pontón),
+ la
+ cual
+ corresponde
+ a
+ estructura
+ de
+ hormigón
+armado.
+ Este
+ será
+ construido
+ por
+ empresas
+ autorizadas,
+ constituyendo
+ un
+ artefacto
+ naval
+ que
+ estará
+diseñado
+ y
+ construido
+ cumpliendo
+ con
+ toda
+ la
+ normativa
+ legal
+ y
+ bajo
+ estrictas
+ normas
+ de
+ seguridad
+ y
+funcionalidad.
+
+De
+ manera
+ referencial
+ se
+ establece
+ que
+ el
+ pontón
+ consta
+ con
+ una
+
+ bodega
+ con
+ silos
+ para
+ el
+
+ almacenaje
+de
+ alimento
+ para
+ peces
+ y
+ otros
+ compartimientos
+ estancos
+ para
+ el
+ almacenamiento
+ de
+ insumos
+necesarios
+ para
+ la
+ actividad,
+ además
+ de
+
+ baños,
+ cocina
+ y
+ comedor,
+ dormitorios
+ y
+ una
+ sala
+ de
+ estar.
+ La
+plataforma
+ flotante,
+ cuenta
+ además,
+ con
+ un
+ equipo
+ electrógeno
+ ubicado
+ en
+ el
+ área
+ de
+ almacenaje,
+ el
+
+cual
+ suministrará
+ la
+ energía
+ eléctrica
+ a
+ los
+ alimentadores
+ automáticos,
+ a
+ la
+ habitación
+ y
+ a
+ la
+ bodega.
+Dicho
+ generador
+ cuenta
+ con
+ un
+ gabinete
+ para
+ el
+ aislamiento
+ acústico.
+Se
+ prevé,
+ que
+ el
+ pontón
+ sea
+ pintado
+ de
+ colores
+ en
+ relación
+ al
+ entorno
+ en
+ el
+ que
+ se
+ emplace,
+ así
+ como
+el
+ diseño
+ que
+ se
+ le
+ pretende
+ dar
+ que
+ sea
+ similar
+ a
+ una
+ embarcación
+ de
+ modo
+ que
+ el
+ observador
+ en
+tierra
+ o
+ a
+ una
+ distancia
+ prudente
+ al
+ sector
+ de
+ la
+ concesión
+ asocie
+ esta
+ estructura
+ a
+ una
+ embarcación
+que
+ navega
+ por
+ el
+ área
+ más
+ que
+ a
+ algo
+ estático
+ o
+ permanente,
+ todo
+ esto
+ con
+ el
+ fin
+ de
+ minimizar
+ el
+contraste
+ con
+ el
+ paisaje.
+
+**Agua
+ potable**
+Tanto
+ en
+ la
+ bodega
+ como
+ en
+ la
+ oficina
+ y
+ acomodaciones
+ del
+ pontón,
+ existirán
+ dispensadores
+ de
+ agua
+purificada
+ que
+ proveen
+ empresas
+ externas
+ mediante
+ bidones
+ cada
+ uno
+ para
+ el
+ consumo
+ de
+ todos
+ los
+trabajadores
+ y
+ visitas
+ del
+ centro.
+ Los
+ bidones
+ son
+ reemplazados
+ de
+ acuerdo
+ a
+ las
+ necesidades
+ del
+centro.
+
+ **Transporte
+ de
+ agua
+ potable:**
+El
+ titular
+ transportará
+ el
+ agua
+ potable
+ en
+ una
+ embarcación
+ o
+ barcaza
+ según
+ requerimiento.
+ La
+ norma
+vigente,
+ exige
+ que
+ se
+ dispongan
+ de
+ 100
+ L
+ por
+ persona
+ en
+ el
+ lugar
+ de
+ trabajo,
+ por
+ lo
+ que
+ se
+ necesitarán
+1.200
+ L.
+ diarios
+ para
+ todo
+ el
+ personal
+ en
+ periodo
+ de
+ máxima
+ operación.
+
+ **Almacenamiento
+ del
+ agua
+ potable:**
+El
+ agua
+ será
+ almacenada
+ en
+ un
+ estanque
+ de
+ acero
+ con
+ suficiente
+
+ capacidad
+ de
+ acopio
+ para
+ cumplir
+ los
+requerimientos
+ antes
+ señaladas.
+
+ **Servicios
+ Higiénicos**
+Para
+ el
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ se
+ contará
+ con
+ una
+ planta
+ de
+ tratamiento
+ autorizada
+ por
+ la
+Autoridad
+ Marítima,
+ cuyo
+ efluente
+ cumplirá
+ con
+ la
+ Norma
+ OMI
+ 159(55).
+
+Se
+ adjunta
+ certificado
+ de
+ aprobación
+ de
+ una
+ planta
+ de
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ referencial,
+ en
+el **anexo
+ 2** .
+
+**1.5.1.4**
+**Plataforma
+ Flotante
+ para
+ Ensilaje.**
+El
+ centro
+ de
+ cultivo
+ cuenta
+ con
+ un
+ sistema
+ de
+ ensilaje
+ de
+ la
+ mortalidad
+ aprobada
+ mediante
+ RCA
+ No
+ 236
+del
+ año
+ 2011.
+
+Se
+ adjunta
+ RCA
+ en
+ el **anexo
+ 1** y
+ en
+ el **anexo
+ 3** se
+ adjunta
+ manual
+ del
+ sistema
+ aprobado.
+
+ **Transporte
+ del
+ Ensilaje**
+El
+ traslado
+ del
+ producto
+ ensilado
+ será
+ con
+ embarcaciones
+ que
+
+ cuenten
+ con
+ las
+
+ adaptaciones
+ y
+ equipo
+para
+ el
+ transporte
+ en
+ el
+ mar
+ del
+ material
+ ensilado.
+ Dichas
+ embarcaciones
+ deberán
+
+ contar
+ con
+estanques
+ receptores
+ de
+ silo
+ y
+ una
+ bomba
+ capaz
+ de
+ succionar
+ el
+ silo
+ acumulado
+ en
+ los
+ estanques
+ de
+acopio.
+ Este
+ servicio
+ es
+ subcontratado
+ a
+ terceros,
+ que
+ corresponden
+ a
+ empresas
+ debidamente
+autorizadas.
+
+_Tabla
+ 13.
+ Generación
+ de
+ ensilaje
+ y_ _frecuencia
+ de
+ retiro._
+
+|Mortalidad (kilos)|Ensilaje (m3)|Capacidad silo al 80% de ocupación|Frecuencia de retiro|
+|---|---|---|---|
+|1.674|1,67|16,8|Retiro|
+|2.568|2,57|16,8|16,8|
+|3.687|3,69|16,8|16,8|
+|5.110|5,11|16,8|Retiro|
+|6.904|6,90|16,8|16,8|
+|8.987|8,99|16,8|Mensual|
+|11.320|11,32|16,8|Mensual|
+|13.852|13,85|16,8|Mensual|
+|16.524|16,52|16,8|Mensual|
+|19.276|19,28|16,8|Quincenal|
+|22.048|22,05|16,8|Quincenal|
+|24.785|24,79|16,8|Quincenal|
+|27.440|27,44|16,8|Quincenal|
+|29.974|29,97|16,8|Quincenal|
+|32.048|32,05|16,8|Quincenal|
+|26.652|26,65|16,8|Quincenal|
+|8.764|8,76|16,8|Retiro|
+|3.268|3,27|16,8|16,8|
+
+**1.5.1.5**
+**Sistema
+ de
+ Alimentación.**
+La
+ tecnología
+ a
+
+ utilizar,
+ en
+
+ el
+ sistema
+ de
+ alimentación
+
+ de
+ cada
+ Balsa
+ Jaula,
+ estará
+ compuesta
+ por
+ un
+Silo
+ Central
+ (Pontón),
+ contenedor
+ de
+
+ alimento
+ (Pellet
+ Extruido),
+ el
+ cual
+ será
+ conducido,
+ a
+ través
+ de
+ un
+sistema
+ de
+ inyección
+ de
+ aire,
+ hasta
+ cada
+ balsa
+ jaula,
+ donde
+ el
+ control
+ de
+ alimentación
+ se
+ hará
+ a
+ través
+de
+ cámaras
+ situadas
+ convenientemente
+ al
+ interior
+ de
+ la
+ red
+ pecera.
+Con
+
+ la
+ implementación
+ de
+ este
+ sistema,
+ los
+ peces
+ no
+ serán
+ alimentados
+ en
+ exceso,
+ por
+ lo
+ que
+ el
+alimento
+ que
+ se
+ pierde
+ y
+ termina
+ en
+ el
+ fondo
+ marino
+ será
+ menor
+ que
+ con
+ el
+ sistema
+ manual.
+ Además,
+con
+ las
+ cámaras
+ submarinas
+ se
+ monitoreará
+ el
+ comportamiento
+ de
+ los
+ peces
+ y
+ las
+ condiciones
+ de
+ las
+redes
+ y
+ anclajes.
+
+Finalizada
+ la
+ etapa
+ de
+ construcción,
+ el
+ centro
+ de
+ cultivo
+ contará
+ con
+ la
+ siguiente
+ infraestructura:
+
+ 16
+ balsas
+ jaulas.
+
+ 01
+ Pontón
+ habitable
+ con
+ bodega.
+
+ 01
+ Plataforma
+ de
+ ensilaje
+ de
+ mortalidad.
+
+ Botes
+ o
+ embarcaciones
+ menores
+ con
+ motor
+ para
+ el
+ traslado
+ de
+ insumos
+ o
+ personas
+ fuera
+ del
+área
+ del
+ centro
+ de
+ cultivo.
+
+1.5.2
+Fechas
+ estimadas
+ para
+ inicio
+ etapa
+ de
+ construcción
+Se
+ estima
+ que
+ el
+ inicio
+ de
+ las
+ obras
+ de
+ construcción
+ del
+ proyecto
+ será
+ durante
+ el
+ primer
+ semestre
+ del
+año
+ 2015,
+ dependiendo
+ de
+ la
+ obtención
+ de
+ la
+ RCA
+ de
+ los
+ permisos
+ sectoriales.
+
+Tabla
+ 14.
+ Fecha
+ inicio
+ etapa
+ construcción.
+
+|Etapa|Fecha Inicio|Fecha Término|
+|---|---|---|
+|Construcción|Mayo2015|Septiembre2015|
+
+(*)
+ Todas
+ estas
+ fechas
+ son
+ sólo
+ referenciales,
+ pues
+ están
+ sujetas
+ a
+ la
+ fecha
+ de
+ obtención
+ de
+ la
+ RCA
+ que
+ califique
+favorablemente
+ el
+ proyecto.
+
+1.5.3
+Cronograma
+ de
+ actividades
+ en
+ etapa
+ de
+ construcción
+
+Tabla
+ 15.
+ Cronograma
+ de
+ actividades
+
+|Actividad/Mes|1|2|3|4|
+|---|---|---|---|---|
+|Comprabalsasjaulas|X||||
+|Compramuertos|X||||
+|Trasladobalsas||X|X||
+|Instalaciónbalsas||X|X||
+|FondeoPontónHabitable||||X|
+|FondeoPontónEnsilaje||||X|
+
+1.5.4
+Mano
+ de
+ Obra
+ etapa
+ de
+ construcción
+
+Tabla
+ 16.
+ Mano
+ de
+ obra
+
+|Etapa|Mano de obra promedio|Mano de obra máximo|
+|---|---|---|
+|Etapadeconstrucción|6|6|
+
+1.5.5
+Provisión
+ suministros
+ básicos
+La
+ etapa
+ de
+ construcción
+ es
+ sub
+ contratada
+ a
+ empresas
+ que
+ se
+ dedican
+ a
+ la
+ instalación
+ de
+ fondeos
+ y
+estructuras
+ de
+ cultivo,
+ estas
+ empresas
+ cuentan
+ con
+ 100%
+ de
+ autonomía,
+ por
+ tanto
+ todos
+ los
+suministros
+ básicos
+ tales
+ como
+ agua
+ potable,
+ servicios
+ higiénicos,
+ energía,
+ alimentación,
+ alojamiento
+ y
+transporte
+ del
+ personal
+ está
+ dado
+ por
+ las
+ embarcaciones
+ que
+ utilizan
+ para
+ estas
+ faenas.
+ Sin
+ perjuicio
+de
+ eso
+ el
+ pontón
+ habitable
+ que
+ será
+ utilizado
+ por
+ los
+ profesionales
+ y
+ técnicos
+ que
+ operarán
+ el
+ centro
+de
+ cultivo,
+ será
+ ubicado
+ en
+ un
+ lugar
+ preliminar
+ antes
+ de
+ su
+ fondeo
+ definitivo
+ y
+ contará
+ con
+ energía
+ que
+provee
+ un
+ generador,
+ los
+ servicios
+ higiénicos
+ correspondientes,
+ la
+ habitabilidad
+ para
+ la
+ cantidad
+ de
+personas
+ que
+ trabajan
+ en
+ el
+ centro
+ y
+ visitas,
+ será
+ además
+ alhajado
+ con
+ todos
+ los
+ muebles
+ y
+ equipos
+para
+ la
+ alimentación
+ y
+ alojamiento
+ de
+ los
+ trabajadores.
+ El
+ agua
+ potable
+ será
+ cargada
+ en
+ el
+ estanque
+dispuesto
+ para
+ estos
+ efectos
+ en
+ el
+ mismo
+ pontón.
+ El
+ agua
+ de
+ bebida
+ será
+ provista
+ por
+ sistemas
+ de
+disposición
+ de
+ agua
+ purificada.
+ Una
+ vez
+ que
+ las
+ estructuras
+ de
+ cultivo
+ estén
+ ubicadas
+ en
+ su
+ posición
+final,
+ el
+ pontón
+ será
+ también
+ ubicado
+ en
+ su
+ posición
+ definitiva.
+
+1.5.6
+Cantidad
+ de
+ recursos
+ naturales
+ renovables
+ a
+ extraer
+ o
+ explotar
+El
+ proyecto
+ NO
+ considera
+ la
+ extracción
+ ni
+ explotación
+ de
+ ningún
+ recursos
+ natural
+ renovable
+ en
+ la
+ etapa
+de
+ construcción
+ del
+ proyecto.
+
+1.5.7
+Emisiones
+ del
+ proyecto
+ o
+ actividad
+ y
+ las
+ formas
+ de
+ abatimiento
+ y
+ control
+ contempladas
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ en
+ la
+ etapa
+ de
+ construcción
+ del
+ proyecto.
+
+ Sólo
+ se
+ puede
+considerar
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+ trabajarán
+ en
+ la
+ instalación
+ de
+ la
+ infraestructura
+ del
+centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+ móviles
+ y
+ autónomas.
+
+1.5.8
+Cantidad
+ y
+ manejo
+ de
+ residuos,
+ productos
+ químicos
+ y
+ otras
+ sustancias
+ que
+ puedan
+afectar
+ el
+ medio
+ ambiente.
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ construcción
+ en
+ general
+ NO
+ generará
+ residuos,
+ productos
+ químicos
+ u
+ otras
+sustancias
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+ Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+instalación
+ y
+ fondeo
+ de
+ las
+ plataformas
+ de
+ cultivo,
+ sistema
+ de
+ anclaje
+ y
+ fondeo
+ de
+ los
+ pontones
+ serán
+retirados
+ por
+ las
+ mismas
+ empresas
+ de
+ servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+de
+ que
+ ninguno
+ de
+ estos
+ elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+De
+ la
+ misma
+ manera
+ los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+las
+ aguas
+ servidas,
+ las
+ embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ fondeo
+ e
+ instalación
+ de
+ las
+estructuras
+ de
+ cultivo
+ cuentan
+ con
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+homologadas
+ y
+ aprobadas
+ por
+ la
+ autoridad
+ marítima.
+
+Aquellos
+ residuos
+ sólidos
+ que
+ se
+ generen
+ producto
+ de
+ la
+ instalación
+ y
+ fondeo
+ de
+ las
+ plataformas
+ de
+cultivo,
+ sistema
+ de
+ anclaje
+ y
+ fondeo
+ de
+ los
+ pontones
+ serán
+ retirados
+ por
+ las
+ mismas
+ empresas
+ de
+servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+ estos
+ elementos
+residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ ser
+dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+_**1.6**_
+_**ETAPA
+ DE
+ OPERACIÓN
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.6)**_
+
+1.6.1
+Etapa
+ de
+ Operación
+Durante
+ la
+ etapa
+ de
+ operación
+ del
+ centro
+ de
+ cultivo,
+ trabajaran
+ aproximadamente
+ 20
+ personas
+ en
+ 2
+turnos;
+ es
+ decir,
+ 10
+ personas
+ de
+ manera
+ permanente
+ en
+ el
+ centro,
+ incluyendo
+ el
+ Jefe
+ de
+ Centro
+además
+ de
+ técnicos
+ (Asistente),
+ operarios
+ y
+ buzos.
+ Esta
+ dotación
+ incluye
+ los
+ relevos
+ producto
+ de
+ los
+regímenes
+ de
+ salida.
+
+En
+ el
+ desarrollo
+ del
+ ciclo
+ productivo
+ se
+ podrán
+ identificar
+ tres
+ etapas.
+ La
+ primera
+ de
+ ellas
+ corresponde
+al
+ ingreso
+ de
+ los
+ smolts,
+
+ posteriormente
+ la
+ etapa
+ de
+ engorda
+ de
+ los
+ salmónidos
+ y
+ luego
+ el
+ proceso
+ de
+cosecha.
+
+El
+ personal
+ que
+ labora
+ en
+ este
+ centro
+ corresponde
+ idealmente
+ a
+ personas
+ de
+ los
+ centros
+ poblados
+cercanos
+ al
+ centro
+ de
+ cultivo.
+
+**1.6.1.1**
+**Ingreso
+ de
+ smolts**
+Los
+ smolts
+ ingresarán
+ con
+ un
+ peso
+ inicial
+ promedio
+ de
+ 100-­‐125
+ gramos
+ a
+ este
+ centro
+ de
+ engorda;
+provenientes
+ de
+ pisciculturas
+ autorizadas.
+
+Cada
+ movimiento
+ de
+ smolts
+ desde
+ la
+ piscicultura
+ hasta
+ el
+ centro
+ de
+ cultivo
+ será
+ autorizado
+ por
+Sernapesca.
+
+**1.6.1.2**
+**Engorda**
+En
+ esta
+ etapa
+ se
+ busca
+ que
+ los
+ peces
+ incrementen
+ su
+ peso
+ en
+ forma
+ homogénea
+ en
+ el
+ menor
+ tiempo
+posible
+ hasta
+ alcanzar
+ un
+ tamaño
+ de
+ cosecha
+ de
+ 4,5
+ kg.
+ Promedio
+ en
+ el
+ caso
+ de
+
+ salares;
+ en
+ tanto
+ en
+ el
+caso
+ de
+ Trucha
+ o
+ Coho
+ el
+ peso
+ promedio
+ de
+ cosecha
+ es
+ de
+ 3
+ kg
+ aproximadamente.
+ Para
+ esto
+ se
+alimentarán
+ en
+ forma
+ intensiva
+ utilizando
+ alimento
+ especialmente
+ preparado
+ para
+ cubrir
+ las
+necesidades
+ nutricionales
+ específicas
+ de
+ estos.
+
+También
+ se
+ utilizarán
+ alimentadores
+ automáticos
+ y
+ cámaras
+ submarinas
+ con
+ las
+ cuales
+ se
+ entregará
+ el
+alimento
+ según
+ apetito.
+ Un
+ ciclo
+ de
+ engorda
+ desde
+ que
+ llegan
+ los
+ smolts
+ hasta
+ que
+ alcanzan
+ un
+ peso
+de
+ cosecha
+ demora
+ aproximadamente
+ entre
+ 18
+ y
+ 21
+ meses
+ en
+ el
+ caso
+ de
+ los
+ salares,
+ en
+ tanto
+ para
+ el
+caso
+ de
+ las
+ especies
+ Coho
+ y
+ Trucha
+ el
+ tiempo
+ de
+ cultivo
+ será
+ de
+ 12
+ meses.
+
+Importante
+ destacar
+ que
+ existe
+ una
+ inspección
+ rutinaria
+ del
+ buen
+ estado
+ de
+ los
+ módulos
+ y
+ sistemas
+ de
+fondeo,
+ para
+ ello
+ el
+ titular
+ contrata
+ a
+ empresas
+ especializadas
+ en
+ ello,
+ y
+ mediante
+ una
+ inspección
+visual
+ con
+ ROV
+ se
+ describen
+ las
+ estructuras
+ en
+ detalle
+ y
+ su
+ estado,
+ todo
+ ello
+ conforme
+ lo
+ estipula
+ el
+literal
+ e),
+ del
+ artículo
+ 4
+ del
+ D.S.
+ No
+ 320,
+ debiendo
+ realizarse
+ la
+ mantención
+ en
+ caso
+ necesario
+ para
+ el
+restablecimiento
+ de
+ las
+ condiciones
+ de
+ seguridad,
+ de
+ lo
+ cual
+ se
+ llevará
+ registro
+ en
+ el
+ centro.
+
+En
+ esta
+ etapa
+ se
+ proyecta
+ una
+ mortalidad
+ aproximada
+ del
+
+ 15%.
+
+**1.6.1.3**
+**Tratamiento
+ de
+ patologías**
+El
+ proyecto
+ tendrá
+ un
+ trabajo
+ preventivo
+ y
+ de
+ control
+ de
+ enfermedades
+ de
+ manera
+ de
+ minimizar
+ al
+máximo
+ el
+ empleo
+ de
+ antibióticos
+ en
+ el
+ centro.
+ Entendiendo
+ que
+ los
+ brotes
+ de
+ enfermedades
+ están
+fuertemente
+ ligados
+ al
+ estrés
+ del
+ confinamiento,
+ a
+ las
+ condiciones
+ del
+ agua
+ de
+ cultivo,
+ a
+ las
+condiciones
+ oceanográficas
+ y
+ a
+ la
+ presencia
+ de
+ depredadores;
+ se
+ implementarán
+ medidas
+ básicas
+ para
+la
+ disminución
+ del
+ uso
+ de
+ estos
+ productos:
+
+ü Retiro
+ de
+ mortalidad
+ periódicamente.
+ü Realización
+ de
+ muestreos
+ sólo
+ cuando
+ sea
+ estrictamente
+ necesario.
+ü Tratamiento
+ a
+ los
+ peces
+ con
+ vitaminas
+ y
+ minerales.
+ü Utilización
+ de
+ redes
+ antidepredadores.
+ü Mantención
+ de
+ control
+ ictiopatológico
+
+Como
+ política
+ de
+ la
+ Compañía,
+ se
+ contempla
+ que
+ el
+ 100%
+ de
+ los
+ smolts
+ de
+ salmón
+ del
+ atlántico
+ingresen
+ vacunados
+ al
+ centro
+ contra
+ las
+ principales
+ patologías,
+ esto
+ con
+ el
+ fin
+ de
+ reducir
+ mortalidades
+y
+ el
+ consumo
+ de
+ antibióticos.
+
+El
+ Titular
+ cuenta
+ con
+ un
+ procedimiento
+ sanitario
+ de
+ administración
+ de
+ tratamientos
+ terapéuticos
+ cuyo
+alcance
+ es
+ establecer
+ los
+ métodos
+ aplicables
+ a
+ los
+ centros
+ de
+ engorda
+ y
+ de
+ smoltificación
+ para
+ el
+adecuado
+ manejo
+ de
+ enfermedades,
+ con
+ el
+ fin
+ de
+ contribuir
+ al
+ óptimo
+ estado
+ sanitario
+ de
+ las
+ especies
+hidrobiológicas,
+ en
+ los
+ siguientes
+ casos:
+
+ü Hallazgo
+ de
+ agentes
+ causales
+ de
+ enfermedades
+ de
+ alto
+ riesgo
+ lista
+ 2administración
+ de
+
+tratamientos
+ vía
+ oral.
+ü Tratamiento
+ de
+ enfermedades
+ lista
+ 1
+ y
+ 2,
+ además
+ de
+ aquellas
+ que
+ no
+ estén
+ incluidas
+ en
+ las
+
+listas.
+
+El
+ procedimiento
+ indica
+ el
+ desarrollo
+ de
+ las
+ actividades
+ en
+ cuanto
+ a
+ la
+ realización
+ del
+ muestreo
+sanitarios
+ de
+ peces
+,
+ administración
+ de
+ tratamientos
+ por
+ inmersión,
+
+ administración
+ de
+ tratamientos
+vía
+ inyectable,
+ y
+ administración
+ de
+ tratamientos
+ vía
+ oral,
+ a
+ saber:
+
+Toda
+ aplicación
+ de
+ tratamiento
+ o
+ medicación
+ deberá
+ estar
+ fundamentada
+ y
+ avalada
+ por
+ la
+ prescripción
+de
+ un
+ Médico
+ veterinario,
+ dicha
+ prescripción
+ se
+ archivará
+ en
+ el
+ centro
+ de
+ cultivo.
+
+Se
+ utilizarán
+ productos
+ farmacéuticos
+ de
+ usos
+ veterinario
+ registrados
+ en
+ el
+ SAG.
+
+a) Muestreo
+ sanitario
+ de
+ Peces
+De
+ acuerdo
+ al
+ procedimiento
+ con
+ que
+ cuenta
+ la
+ compañía,
+ los
+ centros
+ serán
+ chequeados
+periódicamente
+ por
+ el
+ medico
+ veterinario
+ para
+ detectar
+ presencia
+ o
+ ausencia
+ de
+ enfermedades.
+ En
+ el
+caso
+ del
+ programa
+ de
+ vigilancia
+ activa
+ de
+ enfermedades
+ de
+ alto
+ riesgo,
+ se
+ cumplirá
+ con
+ lo
+ estipulado
+en
+ la
+ Resolución
+ No
+ 61
+ del
+ servicio
+ nacional
+ de
+ Pesca
+ que
+ aprueba
+ el
+ Programa
+ sanitario
+ especifico
+ de
+Vigilancia
+ Activa
+ para
+ enfermedades
+ de
+ alto
+ riesgo
+ (EAR).
+Adicionalmente,
+ se
+ realizarán
+ muestreos
+ de
+ seguimiento
+ de
+ los
+ programas
+ específicos
+ en
+ aquellas
+patologías
+ que
+ se
+ encuentren
+ reguladas
+ por
+ esta
+ norma.
+
+b) Tratamientos
+ por
+ inmersión
+Para
+ la
+ aplicación
+ de
+ tratamientos
+ por
+ baño
+ o
+ inmersión,
+ se
+ tomarán
+ todas
+ las
+ medidas
+ necesarias
+ de
+tal
+ forma
+ de
+ no
+ tener
+ que
+ interrumpir
+ la
+ duración
+ del
+ tratamiento.
+ El
+ médico
+ veterinario
+
+ responsable
+calculará
+ la
+ dosis
+ y
+ la
+ cantidad
+ de
+ fármaco
+ a
+ utilizar,
+ además
+ de
+ la
+ cantidad
+ de
+ oxígeno
+ y
+ la
+ correcta
+administración
+ de
+ éstos.
+ Durante
+ la
+ ejecución
+ del
+ tratamiento,
+ deberá
+ existir
+ un
+ monitoreo
+ constante
+de
+ la
+ conducta
+ de
+ los
+ peces.
+ Para
+ el
+ correcto
+ uso
+ de
+
+ todos
+ producto
+ antiparasitario
+ de
+ uso
+ veterinario
+mediante
+ baños,
+ se
+ priorizará
+ el
+ uso
+ de
+ sistemas
+ cerrados
+ de
+ inmersión,
+ lonas
+ o
+ wellboats.
+
+c) Tratamiento
+ vía
+ inyectable
+Para
+ este
+ tratamiento
+ se
+ deberá
+ considerar
+ el
+ peso
+ exacto
+ de
+ los
+ peces,
+ la
+ dosis
+ del
+ producto
+veterinario,
+ la
+ temperatura
+ del
+ agua
+ y
+ la
+ condición
+ fisiológica
+ de
+ los
+ peces.
+ Previo
+ a
+ la
+ inyección,
+ los
+peces
+ se
+ mantendrán
+ por
+ 24
+ horas
+ en
+ ayuno
+ y
+ posterior
+ al
+ manejo
+ por
+ 48
+ horas,
+ con
+ todo
+ el
+ período
+de
+ ayuno
+ no
+ excederá
+ los
+ 7
+ días.
+
+d) Tratamiento
+ vía
+ oral
+El
+ calculo
+ de
+ la
+ dosis
+ como
+ la
+ duración
+ del
+ tratamiento
+ es
+ de
+ responsabilidad
+ del
+ médico
+ veterinario,
+se
+ debe
+ considerar
+ el
+ porcentaje
+ peso
+ cuerpo
+ de
+ alimentación
+ de
+ los
+ peces
+ durante
+ la
+ aplicación
+ y
+ la
+palatabilidad
+ del
+ alimento
+ medicado,
+ con
+ el
+ objeto
+ que
+ el
+ alimento
+ medicado
+ entregado
+ sea
+consumido
+ íntegramente
+ de
+ acuerdo
+ a
+ la
+ dosis
+ indicada.
+
+Se
+ adjunta
+ procedimiento
+ en
+ el **anexo
+ 4** .
+
+Con
+ respecto
+ al
+ almacenamiento
+ de
+ antibióticos
+ y/o
+ de
+ alimento
+ medicado
+ en
+ el
+ centro,
+ cuando
+ sea
+necesario
+ su
+ uso,
+ se
+ almacenará
+ en
+ el
+ lugar
+ destinado
+ al
+ acopio
+ del
+ alimento,
+ con
+ la
+ diferencia
+ que
+ el
+alimento
+ medicado
+ está
+ claramente
+ identificado
+ con
+ rótulos
+ especiales
+ que
+ la
+ misma
+ empresa
+fabricante
+ del
+ alimento
+ se
+ encarga
+ de
+ imprimir
+ en
+ las
+ bolsas
+ o
+ sacos
+ y
+ que
+ permiten
+ su
+ clara
+identificación
+ y
+ diferenciación
+ respecto
+ del
+ alimento
+ normal
+ y
+ la
+ carga
+ de
+ esta
+ información
+ al
+ sistema
+de
+ alimentación
+ automático.
+ .
+ El
+ alimento
+ medicado
+ producto
+ de
+ los
+ tratamientos
+ NO
+ tiene
+ sobrantes,
+toda
+ vez
+ que
+ éste
+ es
+ preparado
+ según
+ receta
+ médica
+ y
+ que
+ la
+ cantidad
+ que
+ se
+ prepara
+ es
+ la
+ cantidad
+justa
+ y
+ precisa
+ que
+ se
+ requiere
+ administrar
+ a
+ los
+ peces
+ y
+ se
+ entiende
+ que
+ para
+ la
+ mejoría
+ de
+ los
+ peces,
+se
+ debe
+ administrar
+ toda
+ la
+ dosis
+ prescrita
+ por
+ el
+ Veterinario.
+
+Por
+ último,
+ es
+ preciso
+ indicar
+ que
+ la
+ administración,
+ uso
+ y
+ control
+ de
+ existencias
+ de
+ alimento
+ medicado
+hasta
+ su
+ total
+ consumo
+ será
+ estrictamente
+ controlado
+ mediante
+ el
+ empleo
+ de
+ guías
+ de
+ despacho
+ en
+ el
+caso
+ de
+ la
+ recepción
+ del
+ alimento
+ y
+ mediante
+ controles
+ internos
+ en
+ el
+ centro
+ y
+ bitácoras
+ en
+ las
+ que
+ se
+consignarán
+ los
+ datos
+ del
+ evento
+ ocurrido,
+ las
+ dosis
+ empleadas,
+ información
+ de
+ la
+ empresa
+ que
+ provee
+el
+ alimento,
+ copia
+ de
+ la
+ receta
+ médico
+ veterinaria,
+ informes
+ de
+ alimentación
+ de
+ las
+ jaulas
+ que
+ se
+ han
+tratado
+ con
+ el
+ alimento
+ medicado
+ hasta
+ su
+ total
+ consumo
+ y
+ una
+ clara
+ identificación
+ tanto
+ del
+ alimento
+medicado
+ almacenado
+ en
+ el
+ pontón
+ respecto
+ del
+ alimento
+ normal,
+ así
+ como
+ también
+ la
+ señalización
+clara
+ de
+ las
+ jaulas
+ a
+ las
+ que
+ debe
+ suministrarse
+ alimento,
+ conforme
+ a
+ la
+ normativa
+ vigente.
+
+En
+ el
+ evento
+ que
+ accidentalmente
+ cayera
+ alimento
+ medicado
+ al
+ mar,
+ el
+ Titular
+ ha
+ implementado
+dentro
+ del
+ sistema
+ de
+ gestión
+ procedimientos
+ adecuados
+ para
+ la
+ evaluación
+ y
+ activación
+ de
+ los
+ planes
+de
+ contingencia,
+ de
+ acuerdo
+ a
+ lo
+ establecido
+ en
+ el
+ RAMA.
+ Algunas
+ acciones
+ a
+ destacar
+ son:
+
+a) Recuperar
+ el
+ alimento
+ perdido
+ en
+ superficie
+ y/o
+ por
+ medio
+ de
+ buceo.
+b) Depósito
+ en
+ envases
+ herméticos
+ para
+ su
+ traslado
+ a
+ vertedero
+ autorizado
+ en
+ la
+ región
+ o
+ fuera
+
+de
+ esta.
+
+**1.6.1.4**
+**Insumos**
+**Alimento**
+Los
+ peces
+ serán
+ alimentados
+ mediante
+ un
+ sistema
+ de
+ alimentación
+ automática,
+ lo
+ que
+ se
+ traduce
+ en
+una
+ mayor
+ eficiencia,
+ mejor
+ aprovechamiento
+ del
+ fotoperíodo,
+ menor
+ stress
+ del
+ pez,
+ mejores
+ tasas
+ de
+conversión
+ y
+ prácticamente
+ no
+ existen
+ pérdidas
+ de
+ alimento
+ no
+ consumido.
+ Junto
+ con
+ esto,
+ el
+ centro
+contará
+ con
+ un
+ sistema
+ de
+ monitoreo
+ de
+ cámaras
+ submarinas,
+ por
+ tanto,
+ es
+ posible
+ visualizar
+ la
+ balsa
+jaula
+ en
+ su
+ totalidad
+ tanto
+ en
+ la
+ faena
+ de
+ alimentación,
+ como
+ durante
+ todo
+ el
+ día.
+
+La
+ dieta
+ será
+ suministrada
+ en
+ las
+ raciones
+ requeridas.
+ El
+ alimento
+ utilizado
+ será
+ del
+ tipo
+ extruido,
+ su
+composición
+ dependerá
+ de
+ las
+ dietas
+ disponibles
+ en
+ el
+ mercado
+ para
+ estas
+ especies
+ y
+ de
+ la
+ estrategia
+de
+ alimentación
+ implementada
+ por
+ la
+ empresa.
+ El
+ factor
+ de
+ conversión
+ esperado
+ para
+ este
+ centro
+ será
+de
+ 1,2
+ kg
+ de
+ alimento/kg
+ de
+ pez.
+
+A
+ continuación
+ se
+ presenta
+ el
+ consumo
+ de
+ alimento
+ correspondiente
+ al
+ término
+ de
+ los
+ ciclos
+ de
+producción:
+
+Tabla
+ 17.
+ Alimento
+ suministrado
+ (kg).
+
+|Año<br>de producción|Cosecha<br>(kg)|Alimento<br>(kg)|
+|---|---|---|
+|1-5|3.200.000|3.714.600|
+
+El
+ abastecimiento
+ de
+ alimento
+ al
+ centro
+ será
+ periódico,
+ quedando
+ almacenado
+ en
+ la
+ bodega
+ hasta
+ su
+utilización.
+ Para
+ la
+ prevención
+ de
+ situaciones
+ de
+ pérdida
+ masiva
+ de
+ alimento,
+ se
+ tomarán
+ en
+ cuenta
+ los
+siguientes
+ criterios:
+
+ü Se
+ realizará
+ las
+ labores
+ de
+ descarga
+ sólo
+ con
+ condiciones
+ climáticas
+ apropiadas.
+ü No
+ se
+ recibirán
+ envases
+ en
+ mal
+ estado
+ o
+ defectuoso.
+ü Se
+ implementará
+ y
+ actualizará
+ un
+ procedimiento
+ de
+ descarga
+ definiendo,
+ modo
+ de
+ operar,
+
+funciones
+ y
+ responsabilidades,
+ incluyendo
+ un
+ chequeo
+ de
+ los
+ envases
+ del
+ alimento
+ previo
+ a
+ su
+traspaso
+ desde
+ el
+ barco
+ hasta
+ el
+ pontón.
+ü Se
+ contará
+ con
+ los
+ materiales
+ y
+ equipos
+ de
+ buceo
+ necesarios
+ para
+ la
+ recuperación
+ inmediata
+
+del
+ alimento
+ en
+ caso
+ de
+ caer
+ al
+ mar.
+
+**Desinfectantes**
+Como
+ desinfectante
+ para
+ maniluvios
+ y
+ pediluvios
+ (aspersión),
+ el
+ Titular
+ utilizará
+ productos
+ autorizados
+para
+ este
+ fin
+ y
+ que
+ cuenten
+ con
+ las
+ autorizaciones
+ de
+ las
+ autoridades
+ correspondientes.
+ Las
+concentraciones
+ iniciales
+ serán
+ aquellas
+ que
+ señale
+ el
+ fabricante
+ según
+ el
+ producto
+ elegido.
+ Al
+respecto,
+ considerando
+ que
+ el
+ centro
+ tendrá
+ una
+ cantidad
+ máxima
+ de
+ 16
+ balsas
+ jaulas,
+ se
+ considera
+que
+ se
+ dispondrán
+ los
+ aspersores
+ para
+ la
+ limpieza
+ de
+ calzado
+ al
+ ingreso
+ y
+ de
+ maniluvios,
+ consistentes
+en
+ rociadores
+ con
+ alcohol-­‐gel,
+
+ estarán
+ en
+ el
+ pontón
+ flotante
+ y
+ serán
+ necesarios
+ para
+ el
+ caso
+ de
+manipulación
+ de
+ productos
+ que
+ requieran
+ desinfección.
+ Cabe
+ destacar
+ que
+ ninguno
+ de
+ estos
+ métodos
+de
+ aplicación
+ genera
+ residuos.
+
+Para
+ la
+ desinfección
+ de
+ estructuras
+ mayores,
+ se
+ utilizará
+ también,
+ productos
+
+ que
+ cuenten
+ con
+ los
+correspondientes
+ permisos
+ de
+ las
+ autoridades
+ marítima
+ y
+ pesquera.
+
+Los
+ desinfectantes
+ se
+ almacenan
+ en
+ una
+ bodega
+ destinada
+ especialmente
+ para
+ estos
+ fines
+ y
+ aislados
+de
+ otros
+ insumos
+ y/o
+ productos
+ a
+ utilizar
+ por
+ el
+ centro.
+ Esta
+ bodega
+ se
+ encuentra
+ dentro
+ de
+ las
+instalaciones
+ del
+ pontón.
+
+**Redes**
+Conforme
+ a
+ lo
+ establecido
+ en
+ la
+ letra
+ e)
+ del
+ Art.
+ 4
+ del
+ D.S.
+ N°
+ 320/2001,
+ cada
+ 6
+ meses
+ o
+ según
+requerimiento
+ se
+ verificarán
+ las
+ condiciones
+ de
+ los
+ módulos
+ de
+ cultivo,
+ se
+ realizará
+ un
+ recambio
+ de
+redes
+ de
+ las
+ jaulas
+ y
+ una
+ vez
+ al
+ año
+ o
+ según
+ requerimiento
+ para
+ las
+ redes
+ loberas.
+ La
+ operación
+ se
+llevará
+ a
+ cabo
+ por
+ personal
+ del
+ centro,
+ capacitado
+ para
+ ello.
+ La
+ limpieza
+ se
+ realizará
+ en
+ una
+ empresa
+externa
+ calificada
+ ambientalmente
+ y
+ que
+ cuente
+ con
+ planta
+ de
+ tratamiento
+ de
+ RILes.
+
+**Hidrocarburos**
+A
+ fin
+ de
+ proveer
+ de
+ combustible
+ a
+ las
+ embarcaciones
+ menores
+ se
+ pretende
+ mantener
+ una
+ cantidad
+mínima
+ de
+ combustible
+ (menor
+ a
+ 400
+ L)
+ conservado
+ en
+ la
+ bodega
+ con
+ su
+ debida
+ rotulación.
+ Su
+abastecimiento
+ dependerá
+ de
+ la
+ actividad
+ y
+ demanda
+ del
+ centro.
+ Tanto
+ el
+ uso
+ como
+ la
+ mantención
+ de
+los
+ combustibles
+ se
+ hará
+ de
+ acuerdo
+ a
+ lo
+ estipulado
+ en
+ la
+ normativa
+ asociada,
+ entre
+ la
+ que
+ se
+ incluye
+en
+ primera
+ instancia,
+ la
+ Directiva
+ DGTM
+ y
+ MM
+ A-­‐53/002
+ que
+ indica
+ las
+ pautas
+ para
+ la
+ elaboración
+ del
+Plan
+ de
+ Contingencia
+ ante
+ derrames
+ de
+ Hidrocarburos.
+ Dicho
+ plan
+ de
+ contingencia
+ será
+ presentado
+ a
+la
+ Autoridad
+ Marítima
+ para
+ su
+ aprobación
+ antes
+ del
+ inicio
+ de
+ operación
+ del
+ pontón
+ en
+ el
+ centro
+ de
+cultivo.
+
+La
+ empresa
+ contará
+ con
+ un
+ Plan
+ de
+ Contingencia
+ de
+ Control
+ de
+ Derrames
+ de
+ Hidrocarburos
+ para
+ sus
+artefactos
+ navales
+ que
+ es
+ aplicable
+ para
+ todos
+ sus
+ centros
+ de
+ cultivo,
+ los
+ que
+ eventualmente
+ pueden
+presentar
+ muy
+ pequeñas
+ diferencias.
+
+ Se
+ adjunta
+ plan
+ en **anexo
+ 4.**
+
+Por
+ otra
+ parte,
+ el
+ transporte
+ de
+ combustibles
+ sólo
+ se
+ realizará
+ en
+ estanques
+ aprobados
+ por
+ la
+Autoridad
+ Competente
+ de
+ acuerdo
+ a
+ los
+ considerandos
+ establecidos
+ en
+ la
+ Res.
+ DGTM
+ y
+ MM
+ ORD.
+ No
+12.600/2545
+ de
+ fecha
+ 28
+ de
+ octubre
+ de
+ 2002.
+
+Los
+ residuos
+ peligrosos
+ emanados
+ de
+ al
+ mantenciones
+ de
+ los
+ equipos
+ serán
+ almacenados
+ en
+recipientes
+ cerrados
+ y
+ debidamente
+ identificados
+ y
+ etiquetados,
+ tomándose
+ todas
+ las
+ medidas
+necesarias
+ para
+ prevenir
+ la
+ inflamación
+ o
+ reacción
+ de
+ estos,
+ entre
+ ellas
+ su
+ separación
+ y
+ protección
+frente
+ a
+ cualquier
+ fuente
+ de
+ riesgo
+ capaz
+ de
+ provocar
+ tales
+ efectos,
+ según
+ lo
+ establece
+ artículo
+ 4
+ a
+ 9
+del
+ D.
+ S.
+ de
+ MINSAL
+ No
+ 148/03.
+ Los
+ residuos
+ generados
+ serán
+ manejados
+ según
+ normativa
+ vigente
+ (D.
+S.
+ MINSAL
+ 148/03),
+ quedando
+ almacenados
+ en
+ una
+ bodega
+ adecuada
+ para
+ este
+ fin.
+ Estos
+ residuos
+ se
+serán
+ transportados
+ hacia
+ empresas
+ autorizadas
+ ambientalmente
+ para
+ su
+ disposición
+ final.
+
+Cabe
+ mencionar,
+ que
+ los
+ hidrocarburos
+ serán
+ mantenidos
+ en
+ recipientes
+ de
+ acero
+ y
+ su
+reabastecimiento
+ se
+ realizará
+ resguardando
+ todas
+ las
+ medidas
+ de
+ seguridad
+ para
+ evitar
+ derrames,
+además
+ el
+ centro
+ contará
+ con
+ la
+ cantidad
+ mínima
+ de
+ material
+ de
+ contención
+ de
+ derrames.
+Respecto
+ a
+ la
+ operación
+ de
+ abastecimiento
+ y
+ manejo
+ de
+ combustible,
+ el
+ Jefe
+ de
+ Centro
+ tendrá
+ la
+responsabilidad
+ y
+ autoridad
+ de
+ coordinar
+ la
+ recepción
+ de
+ combustible.
+ Para
+ prevenir
+ incidentes
+ deberá
+asegurarse
+ que
+ el
+ surtidor
+ esté
+ bien
+ insertado
+ en
+ la
+ entrada
+ del
+ estanque
+ y
+ que
+ las
+ mangueras
+ se
+encuentren
+ bien
+ conectadas.
+
+En
+ caso
+ de
+ incidente
+ y/o
+ emergencia
+ por
+ derrame
+ de
+ combustible
+ se
+ implementará
+ el
+ plan
+ de
+contingencia
+ ante
+ derrame
+ de
+ hidrocarburos
+ el
+ cual
+ deberá
+ estar
+ autorizado
+ por
+ la
+ AAMM.
+ ( **Anexo
+ 4** ).
+
+**1.6.1.5**
+**Actividades
+ operativas**
+**Mortalidad**
+A
+ fin
+ de
+ evitar
+ la
+ propagación
+ de
+ enfermedades,
+ se
+ podrá
+ contar
+ con
+ dos
+ sistemas
+ de
+ extracción
+ de
+mortalidad:
+
+ Sistema
+ de
+ extracción
+ de
+ Mortalidad
+ Manual,
+ que
+ consiste
+ en
+ la
+ extracción
+ de
+ la
+ mortalidad
+ a
+través
+ de
+ un
+ equipo
+ de
+ buceo
+ en
+ profundidad,
+
+ Sistema
+ de
+ extracción
+ de
+ Mortalidad
+ mediante
+ Lift
+ Up,
+ llamado
+ Mortex,
+ como
+ parte
+ de
+ una
+mejora
+ tecnológica
+ al
+ incorporarse
+ al
+ sistema
+ productivo
+ y
+ que
+ consiste
+ en
+ la
+ extracción
+de
+
+ dicha
+ Mortalidad
+ a
+ través
+ de
+ manguera
+ de
+ succión,
+
+ que
+ sube
+ por
+ dentro
+ de
+ la
+ jaula,
+ y
+ su
+objetivo
+ es
+ disminuir
+ las
+ horas
+ de
+ buceo
+ en
+ la
+ extracción
+ de
+ mortalidad
+ en
+ jaulas
+ de
+ cultivo
+ en
+mar.
+ El
+ sistema
+ se
+ puede
+ programar
+ en
+ forma
+ automática
+ según
+ horarios
+ o
+ simplemente
+ se
+activa
+ manualmente.
+ Además
+ permite
+ extracción
+ de
+ altos
+ volúmenes
+ de
+ biomasa
+ en
+ caso
+ de
+mortalidad
+ masiva
+ y
+ mejora
+ condición
+ sanitaria
+ de
+ la
+ jaula
+ al
+ extraer
+ mortalidad
+ fresca.
+ Se
+adjunta
+ Manual
+ de
+ Operación
+ Sistema
+ Mortex,
+ Lift
+ Up.
+ Se
+ adjunta
+ ficha
+ técnica
+ en
+ el **anexo
+ 2** .
+
+Una
+ vez
+ cuantificados
+ y
+ clasificados
+ por
+ su
+ causa
+ de
+ muerte,
+ serán
+ depositados
+ en
+ bins
+ y
+ trasladados
+ a
+la
+ plataforma
+ de
+ ensilaje
+ del
+ centro.
+
+La
+ siguiente
+ tabla
+ muestra
+ la
+ mortalidad
+ del
+ centro
+ de
+ acuerdo
+ a
+ las
+ proyecciones
+ de
+ crecimiento
+ y
+engorda,
+ en
+ período
+ de
+ máxima
+ biomasa
+ en
+ cultivo
+
+Tabla
+ 18.
+ Proyección
+ de
+ mortalidad
+ por
+ ciclo
+ de
+ producción.
+ Mortalidad
+ proyectada
+ 15%
+ acumulada.
+
+|Año|Col2|Cosecha (Ton)|Col4|Mortalidad (unidades)|Biomasa (kg)|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|1-5|1-5|3.200|3.200|125.227|264.627|264.627|264.627|
+||**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 53**||
+
+**Cambio
+ de
+ redes**
+Para
+ realizar
+ el
+ cambio,
+ limpieza
+ y
+ reparación
+ de
+ redes,
+ este
+ centro
+ optará
+ por
+ contratar
+ el
+ servicio
+ de
+empresas
+ que
+ cuenten
+ con
+ las
+ autorizaciones
+ pertinentes
+ para
+ el
+ tratamiento
+ y
+ manejo
+ de
+ dichos
+materiales
+ de
+ cultivo,
+ a
+ talleres
+ autorizados
+ y
+ que
+ cumplan
+ con
+ la
+ normativa
+ ambiental
+ vigente.
+
+Las
+ redes
+ que
+ sean
+ reemplazadas,
+ serán
+ estibadas
+ en
+ una
+ embarcación
+ que
+ las
+ transportará
+ por
+ vía
+marítima
+ para
+ su
+ tratamiento
+ y
+ mantención
+ correspondiente.
+ Las
+ maniobras
+ de
+ reemplazo
+ y
+ traslado
+de
+ redes
+ serán
+ de
+ exclusiva
+ responsabilidad
+ de
+ la
+ Empresa
+ con
+ la
+ cual
+ se
+ contrate
+ este
+ servicio,
+exigiendo
+ el
+ Titular
+ que
+ esto
+ se
+ realice
+ cumpliendo
+ la
+ normativa
+ vigente.
+ Cabe
+ señalar
+ que
+ el
+ Titular
+esta
+ consiente
+ que
+ tiene
+ la
+ responsabilidad
+ ambiental
+ de
+ todas
+ las
+ faenas
+ realizadas
+ en
+ su
+ centro,
+ aún
+cuando
+ sean
+ ejecutadas
+ por
+ una
+ empresa
+ externa.
+
+**Manejo
+ de
+ Insumos**
+Los
+ insumos
+ serán
+ almacenados
+ en
+ envases
+ separados
+ y
+ cerrados.
+ Se
+ tendrá
+ especial
+ cuidado
+ al
+manipular
+ los
+ insumos
+ como
+ combustibles
+ para
+ evitar
+ cualquier
+ tipo
+ de
+ derrame
+ al
+ medio,
+ estos
+estarán
+ confinados
+ en
+ un
+ lugar
+ especial
+ totalmente
+ estanco,
+ de
+ modo
+ que
+ cualquier
+ derrame
+ queda
+contenido
+ en
+ el
+ casco
+ del
+ pontón,
+ es
+ importante
+ destacar
+ que
+ los
+ pontones
+ son
+ fiscalizados
+ por
+ la
+DIRECTEMAR
+ y
+ su
+ construcción
+ está
+ completamente
+ ajustada
+ a
+ lo
+ que
+ la
+ Autoridad
+ Marítima
+ solicita
+para
+ un
+ artefacto
+ naval
+ mayor
+ inscrito
+ en
+ Valparaíso,
+ por
+ lo
+ que
+ todas
+ las
+ especificaciones
+ técnicas
+están
+ resguardadas
+ por
+ la
+ normativa
+ de
+ la
+ Ley
+ de
+ navegación
+ del
+ año
+ 1987.
+
+El
+ Titular
+ se
+ compromete
+ a
+ que
+ el
+ manejo
+ de
+ combustibles
+ se
+ respaldará
+ adecuadamente
+ mediante
+guías
+ de
+ recepción
+ y
+ despacho.
+
+Para
+ prevenir
+ y
+ enfrentar
+ algún
+ tipo
+ de
+ derrame,
+ el
+ Titular
+ se
+ compromete
+ a
+ que
+ se
+ seguirán
+ las
+instrucciones
+ establecidas
+ en
+ el
+ D.S.
+ No
+ 1
+ de
+ 1992,
+ Titulo
+ II
+ del
+ “Reglamento
+ para
+ el
+ Control
+ de
+ la
+Contaminación
+ Acuática”
+ de
+ la
+ Dirección
+ General
+ del
+ Territorio
+ Marítimo
+ y
+ Marina
+ Mercante.
+
+Tanto
+ el
+ uso
+ como
+ la
+ mantención
+ de
+ los
+ combustibles
+ se
+ hará
+ de
+ acuerdo
+ a
+ lo
+ estipulado
+ en
+ la
+normativa
+ asociada
+ entre
+ la
+ que
+ se
+ incluye
+ en
+ primera
+ instancia,
+ la
+ Directiva
+ DGTM
+ y
+ MM
+ A-­‐53/002
+ la
+cual
+ indica
+ las
+ pautas
+ para
+ la
+ elaboración
+ del
+ Plan
+ de
+ Contingencia
+ ante
+ derrames
+ de
+ Hidrocarburos.
+Una
+ vez
+ aprobado
+ el
+ presente
+ proyecto
+ para
+ su
+ ejecución,
+ el
+ Plan,
+ confeccionado
+ en
+ base
+ a
+ las
+ pautas
+mencionadas,
+ será
+ puesto
+ a
+ disposición
+ de
+ la
+ Autoridad
+ Marítima
+ para
+ su
+ visación
+ y
+ aprobación.
+
+Por
+ otro
+ lado,
+ el
+ transporte
+ de
+ combustibles
+ sólo
+ se
+ realizará
+ en
+ estanques
+ aprobados
+ por
+ la
+ Autoridad
+Competente
+ de
+ acuerdo
+ a
+ los
+ considerandos
+ establecidos
+ en
+ la
+ Res.
+ DGTM
+ y
+ MM
+ ORD.
+ No
+12.600/2545
+ de
+ fecha
+ 28
+ de
+ octubre
+ de
+ 2002.
+
+Referente
+ al
+ transporte
+ de
+ combustible,
+ Acuícola
+ Puyuhuapi
+ S.A.,
+ contratará
+ los
+ servicios
+ de
+ empresas
+autorizadas
+ para
+ este
+ tipo
+ de
+ transporte
+ de
+ sustancias.
+ Estos
+ deberán
+ estar
+ debidamente
+ autorizados
+ y
+contarán
+ con
+ todo
+ el
+ equipamiento
+ necesario
+ tales
+ como
+ cinturones
+ de
+ contención
+ de
+ petróleo,
+extintores
+ Tipo
+ A,
+ paños
+ absorbentes,
+ entre
+ otros.
+ Por
+ tanto,
+ la
+ faena
+ de
+ carga
+ y
+ descarga
+ estará
+realizada
+ bajo
+ todas
+ las
+ medidas
+ de
+ seguridad
+ para
+ evitar
+ un
+ eventual
+ derrame.
+
+**Cosecha**
+Cuando
+ los
+ peces
+ alcancen
+ el
+ peso
+ de
+ cosecha,
+ entrarán
+ en
+ la
+ etapa
+ final
+ de
+ producción;
+ en
+ ésta
+ se
+detendrá
+ la
+ alimentación
+ de
+ los
+ peces
+ y
+ se
+ procederá
+ a
+ la
+ faena
+ de
+ cosecha.
+ La
+ cosecha
+ se
+ realizará
+mediante
+ sistemas
+ autorizados
+ por
+ la
+ Autoridad
+ según
+ condición
+ sanitaria
+ del
+ centro.
+ El
+ método
+utilizado
+ actualmente
+ por
+ el
+ titular
+ es
+ el
+ transporte
+ de
+ peces
+ vivos
+ mediante
+ el
+ empleo
+ de
+ naves
+ tipo
+wellboat,
+ los
+ cuales
+ tienen
+ la
+ capacidad
+ de
+ succionar
+ los
+ peces
+ desde
+ las
+ balsas
+ jaulas,
+ para
+ luego
+expulsarlos
+ por
+ la
+ parte
+ superior
+ de
+ sus
+ bodegas,
+ este
+ tipo
+ de
+ naves
+ tiene
+ la
+ particularidad
+ de
+transportar
+ los
+ peces
+ con
+ un
+ flujo
+ de
+ agua
+ constante
+ con
+ la
+ modalidad
+ de
+ compuertas
+ abiertas
+ o
+cerradas,
+ según
+ se
+ requiera,
+ lo
+ que
+ sanitariamente
+ es
+ adecuado
+ del
+ punto
+ de
+ vista
+ biológico.
+
+El
+ Titular
+ se
+ compromete
+ a
+ mantener
+ en
+ el
+ centro
+ de
+ cultivo
+ los
+ registros
+ de
+ retiro
+ de
+ los
+ peces.
+
+**Traslado
+ de
+ jaulas
+ y
+ período
+ de
+ descanso**
+Al
+ término
+ de
+ cada
+ período
+ productivo
+ las
+ instalaciones
+ entrarán
+ en
+ un
+ período
+ de
+ descanso
+ en
+ el
+ área
+de
+ acuerdo
+ al
+ descanso
+ sanitario
+ establecido
+ para
+ la
+ agrupación
+ de
+ concesiones,
+ con
+ el
+ propósito
+ de
+recuperar
+ las
+ condiciones
+ sanitarias.
+ Cabe
+ señalar
+ que
+ este
+ periodo
+ corresponde
+ al
+ momento
+ en
+ el
+ que
+el
+ centro
+ de
+ cultivo
+ se
+ encuentra
+ completamente
+ desocupado
+
+El
+ Titular
+ establece
+ que
+ cumplirá
+ con
+ lo
+ dispuesto
+ en
+ el
+ artículo
+ 21
+ del
+ D.S.
+ (MINECON)
+ N°
+ 320
+ del
+ 2001
+y
+ la
+ Resolución
+ (SUBPESCA)
+ No
+ 3612
+ del
+ 2009,
+ en
+ todos
+ sus
+ artículos,
+ referente
+ a
+ los
+ informativos
+ambientales,
+ frecuencia
+ y
+ condiciones
+ exigidas
+ en
+ cuanto
+ a
+ la
+ toma
+ de
+ muestra
+ y
+ análisis
+ de
+ los
+parámetros,
+ para
+ determinar
+ así,
+ las
+ condiciones
+ del
+ sustrato
+ asociado
+ bajo
+ los
+ módulos
+ de
+ cultivo.
+Junto
+ con
+ esto
+ el
+ Titular
+ establece
+ que
+ dará
+ cumplimiento
+ a
+ lo
+ establecido
+ en
+ el
+ artículo
+ 4°
+ del
+ D.S.
+(MINECON)
+ No
+ 320
+ del
+ 2001
+ y
+ sus
+ modificaciones,
+ referente
+ a:
+
+“Todo
+ centro
+ de
+ cultivo
+ deberá
+ cumplir
+ siempre
+ con
+ las
+ siguientes
+ condiciones”:
+
+a) Adoptar
+ medidas
+ para
+ impedir
+ el
+ vertimiento
+ de
+ residuos
+ y
+ desechos
+ sólidos
+ y
+ líquidos,
+ que
+
+tengan
+ como
+ causa
+ la
+ actividad,
+ incluidas
+ las
+ mortalidades,
+ compuestos
+ sanguíneos,
+ sustancias
+químicas,
+ lodos
+ y
+ en
+ general
+ materiales
+ y
+ sustancias
+ de
+ cualquier
+ origen,
+ que
+ puedan
+ afectar
+ el
+fondo
+ marino,
+ columna
+ de
+ agua,
+ playas,
+ terrenos
+ de
+ playa,
+ sin
+ perjuicio
+ de
+ lo
+ dispuesto
+ por
+ las
+normas
+ de
+ emisión
+ dictadas
+ en
+ conformidad
+ con
+ el
+ artículo
+ 40
+ de
+ la
+ Ley
+ N°
+ 19.300
+ sobre
+ Bases
+Generales
+ del
+ Medio
+ Ambiente.
+b) La
+ acumulación,
+ traslado
+ y
+ disposición
+ de
+ dichos
+ desechos
+ y
+ residuos
+ deberá
+ hacerse
+ en
+
+contenedores
+ herméticos
+ que
+ impidan
+ escurrimientos.
+ El
+ transporte
+ fuera
+ del
+ centro
+ y
+ la
+disposición
+ final
+ deberá
+ realizarse
+ conforme
+ los
+ procedimientos
+ establecidos
+ por
+ la
+ autoridad
+competente.
+c) Mantener
+ la
+ limpieza
+ de
+ las
+ playas
+ y
+ terrenos
+ de
+ playa
+ aledaños
+ al
+ centro
+ de
+ cultivo
+ de
+ todo
+
+residuo
+ sólido
+ generado
+ por
+ la
+ acuicultura.
+d) Retirar,
+ al
+ término
+ de
+ su
+ vida
+ útil
+ o
+ a
+ la
+ cesación
+ definitiva
+ de
+ las
+ actividades
+ del
+ centro,
+ todo
+
+tipo
+ de
+ soportes
+ no
+ degradables
+ o
+ de
+ degradación
+ lenta
+ que
+ hubieren
+ sido
+ utilizados
+ como
+sistema
+ de
+ fijación
+ al
+ fondo,
+ con
+ excepción
+ de
+ las
+ estructuras
+ de
+ concreto,
+ pernos
+ y
+ anclas.
+e) La
+ profundidad
+ de
+ las
+ redes,
+ linternas
+ u
+ otras
+ artes
+ de
+ cultivo,
+ incluidas
+ las
+ redes
+ loberas,
+ que
+
+penden
+ de
+ estructuras
+ flotantes,
+ no
+ debe
+ exceder
+ al
+ 90%
+ de
+ la
+ altura
+ de
+ la
+ columna
+ de
+ agua,
+
+respecto
+ del
+ nivel
+ de
+ reducción
+ de
+ sonda,
+ debiendo
+ quedar
+ el
+ decil
+ más
+ profundo
+ siempre
+libre
+ de
+ estas
+ estructuras.
+ Esta
+ condición
+ no
+ será
+ aplicable
+ a
+ los
+ colectores
+ de
+ semillas
+ y
+sistemas
+ de
+ fijación
+ al
+ fondo.
+ Tampoco
+ será
+ aplicable
+ respecto
+ de
+ artes
+ de
+ cultivo
+ que
+ hayan
+sido
+ sumergidos
+ como
+ medida
+ de
+ contingencia
+ ante
+ un
+ florecimiento
+ algal
+ nocivo
+ así
+declarado
+ por
+ la
+ autoridad
+ pesquera
+ o
+ por
+ otra
+ causa
+ de
+ fuerza
+ mayor.
+f) Disponer
+ de
+ módulos
+ de
+ cultivo
+ y
+ fondeo
+ que
+ presenten
+ condiciones
+ de
+ seguridad
+ apropiadas
+
+a
+ las
+ características
+ geográficas
+ y
+ oceanográficas
+ del
+ sitio
+ concesionado,
+ para
+ prevenir
+ el
+escape
+ o
+ pérdida
+ masiva
+ de
+ recursos
+ en
+ sistemas
+ de
+ cultivo
+ intensivo
+ o
+ desprendimiento
+ o
+pérdida
+ de
+ recursos
+ exóticos
+ en
+ cultivos
+ extensivos.
+ Deberá
+ verificarse
+ semestralmente
+ el
+buen
+ estado
+ de
+ los
+ mencionados
+ módulos,
+ debiendo
+ realizarse
+ la
+ mantención
+ en
+ caso
+necesario
+ para
+ el
+ restablecimiento
+ de
+ las
+ condiciones
+ de
+ seguridad,
+ de
+ los
+ cual
+ se
+ llevará
+registro
+ en
+ el
+ centro.
+g) Las
+ condiciones
+ de
+ seguridad
+ de
+ los
+ módulos
+ de
+ cultivo
+ y
+ del
+ fondeo
+ de
+ los
+ centros
+ de
+ cultivo
+
+intensivo
+ de
+ peces,
+ deberán
+ ser
+ certificadas
+ anualmente,
+ por
+ un
+ profesional
+ o
+ entidad
+debidamente
+ calificados.
+h) Una
+ copia
+ de
+ las
+ certificaciones
+ señaladas
+ en
+ el
+ inciso
+ anterior
+ deberá
+ ser
+ mantenida
+ en
+ el
+
+centro
+ de
+ cultivo
+i) Utilizar
+ sólo
+ aquellos
+ sistemas
+ de
+ emisión
+ de
+ sonidos
+ destinados
+ a
+ ahuyentar
+ mamíferos
+marinos
+ o
+ aves
+ que
+ hubieren
+ sido
+ autorizados
+ expresamente
+ por
+ la
+ autoridad
+ competente.
+j) Utilizar
+ los
+ elementos
+ de
+ flotación
+ compuestos
+ de
+ poliestileno
+ expandido
+ (tales
+ como
+ plumavit
+o
+ aislapol),
+ poliuretano
+ o
+ similares,
+ sólo
+ en
+ su
+ presentación
+ compacta,
+ no
+ en
+ perlas
+ ni
+ trozos,
+ y
+debidamente
+ forrados
+ con
+ materiales
+ resistentes
+ que
+ impidan
+ su
+ disgregación.
+k) Las
+ medidas
+ de
+ protección
+ ambiental
+ que
+ se
+ requieran
+ en
+ relación
+ con
+ el
+ cultivo
+ de
+ las
+
+especies
+ que
+ sean
+ incorporadas
+ en
+ la
+ nómina
+ de
+ especies
+ hidrobiológicas
+ vivas
+ de
+ importación
+autorizada,
+ fijada
+ en
+ conformidad
+ al
+ artículo
+ 13
+ de
+ la
+ Ley,
+ serán
+ establecidas
+ mediante
+ decreto
+supremo
+ expedido
+ a
+ través
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Reconstrucción,
+ previos
+informes
+ técnicos
+ debidamente
+ fundamentados
+ de
+ la
+ Subsecretaría,
+ del
+ Consejo
+ Nacional
+ de
+Pesca
+ y
+ del
+ Consejo
+ Zonal
+ que
+ corresponda.
+
+Activar
+ durante
+ el
+ proceso
+ de
+ alimentación
+ un
+ sistema
+ de
+ detección
+ o
+ captación
+ del
+ alimento
+ no
+ingerido.
+ Se
+ exceptúan
+ de
+ esta
+ obligación
+ los
+ centros
+ que
+ alimenten
+ las
+ especies
+ en
+ cultivo,
+exclusivamente
+ con
+ algas
+ y
+ los
+ centros
+ ubicados
+ en
+ tierra.
+
+1.6.2
+Fechas
+ estimadas
+ para
+ inicio
+ etapa
+ de
+ operación
+Se
+ estima
+ que
+ el
+ inicio
+ de
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto
+ será
+ a
+ partir
+ del
+ segundo
+ semestre
+ del
+año
+ 2015,
+ dependiendo
+ de
+ la
+ obtención
+ de
+ la
+ RCA
+ de
+ los
+ permisos
+ sectoriales.
+
+Tabla
+ 19.
+ Fecha
+ inicio
+ de
+ actividades
+
+|Etapa|Fecha Inicio|Fecha Término|
+|---|---|---|
+|Operación|Septiembre2015|INDEFINIDA,revisióncada25años|
+
+(*)
+ Todas
+ estas
+ fechas
+ son
+ sólo
+ referenciales,
+ pues
+ están
+ sujetas
+ a
+ la
+ fecha
+ de
+ obtención
+ de
+ la
+ RCA
+ que
+ califique
+favorablemente
+ el
+ proyecto.
+
+1.6.3
+Cronograma
+ de
+ actividades
+ en
+ etapa
+ de
+ operación
+Considerando
+ que
+ el
+ proceso
+ de
+ engorda,
+ que
+ forma
+ esencialmente
+ la
+ etapa
+ de
+ operación
+ del
+ centro
+de
+ cultivo
+ tiene
+ una
+ duración
+ aproximada
+ de
+ 18
+ meses
+ para
+ el
+ caso
+ de
+ los
+ salares,
+ en
+ tanto
+ la
+ duración
+es
+ de
+ 12
+ meses
+ en
+ el
+ caso
+ de
+ trucha
+ y
+ coho,
+ la
+ mayor
+ parte
+ de
+ las
+ faenas
+ que
+ comprende
+ esta
+ etapa
+tienen
+ un
+ frecuencia
+ semanal,
+ quincenal
+ o
+ mensual
+ dependiendo
+ de
+ la
+ actividad
+ de
+ que
+ trate.
+ Sólo
+ el
+cambio
+ de
+ redes
+ se
+ estima
+ en
+ un
+ periodo
+ semestral.
+
+Se
+ presenta
+ una
+ carta
+ Gantt
+ referencial
+ de
+ la
+ etapa
+ de
+ producción,
+ considerando
+ 21
+ meses
+ de
+ ciclo
+productivo.
+
+Tabla
+ 20.
+ Carta
+ Gantt
+ etapa
+ de
+ producción
+
+|Actividad|Tiempo (meses)|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Actividad|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|
+|Ingreso<br>smolts|x|x||||||||||||||||||||
+|Engorda|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|||||||
+|Cosecha||||||||||||||||x|x|x||||
+|Descanso|||||||||||||||||||x|x|x|
+
+*La
+ carta
+ Gantt
+ presentada
+ es
+ referencial
+
+1.6.4
+Mano
+ de
+ Obra
+ etapa
+ de
+ operación
+
+Tabla
+ 21.
+ Mano
+ de
+ obra
+ etapa
+ de
+ operación
+
+|Etapa|Mano de obra promedio|Mano de obra máximo|
+|---|---|---|
+|Etapadeoperación*|10|20|
+
+*la
+ dotación
+ es
+ referencial
+ y
+ dividida
+ en
+ turnos
+
+1.6.5
+Provisión
+ suministros
+ básicos
+
+**Agua
+ potable**
+Tanto
+ en
+ la
+ bodega
+ como
+ en
+ la
+ oficina
+ y
+ acomodaciones
+ del
+ pontón,
+ existirán
+ dispensadores
+ de
+ agua
+purificada
+ que
+ proveen
+ empresas
+ externas
+ mediante
+ bidones
+ cada
+ uno
+ para
+ el
+ consumo
+ de
+ todos
+ los
+trabajadores
+ y
+ visitas
+ del
+ centro.
+ Los
+ bidones
+ son
+ reemplazados
+ de
+ acuerdo
+ a
+ las
+ necesidades
+ del
+centro.
+
+ **Transporte
+ de
+ agua
+ potable:**
+El
+ titular
+ transportará
+ el
+ agua
+ potable
+ en
+ una
+ embarcación
+ o
+ barcaza
+ según
+ requerimiento.
+ La
+ norma
+vigente,
+ exige
+ que
+ se
+ dispongan
+ de
+ 100
+ L
+ por
+ persona
+ en
+ el
+ lugar
+ de
+ trabajo,
+ por
+ lo
+ que
+ se
+ necesitarán
+1.200
+ L.
+ diarios
+ para
+ todo
+ el
+ personal
+ en
+ periodo
+ de
+ máxima
+ operación.
+
+ **Almacenamiento
+ del
+ agua
+ potable:**
+El
+ agua
+ será
+ almacenada
+ en
+ un
+ estanque
+ de
+ acero
+ con
+ suficiente
+
+ capacidad
+ de
+ acopio
+ para
+ cumplir
+ los
+requerimientos
+ antes
+ señaladas.
+
+ **Servicios
+ Higiénicos**
+Para
+ el
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ se
+ contará
+ con
+ una
+ planta
+ de
+ tratamiento
+ cuyo
+ efluente
+cumplirá
+ con
+ las
+ normas
+ destinadas
+ a
+ la
+ evacuación,
+ tratamiento
+ y
+ disposición
+ final
+ de
+ aguas
+ servidas
+ a
+cursos
+ naturales.
+La
+ planta
+ referencial
+ a
+ implementar
+ en
+ el
+ centro
+ cumplirá
+ con
+ la
+ Resolución
+ OMI
+ MEPC
+ 159(55).
+ De
+esta
+ forma,
+ se
+ estará
+ cumpliendo
+ con
+ las
+ prescripciones
+ establecidas
+ en
+ el
+ artículo
+ No
+ 95
+ del
+“Reglamento
+ para
+ el
+ Control
+ de
+ la
+ Contaminación
+ Acuática”,
+ en
+ cuanto
+ a
+ que
+ el
+ efluente
+ a
+ descargar
+no
+ contendrá
+ sólidos
+ flotantes
+ visibles
+ y
+ no
+ ocasionará
+ la
+ decoloración
+ de
+ las
+ aguas
+ circundantes.
+ Junto
+con
+ esto
+ se
+ establece
+ que
+ la
+ planta
+ de
+ tratamiento
+ ha
+ sido
+ autorizada
+ por
+ el
+ Servicio
+ de
+ Inspección
+ de
+Naves
+ dependiente
+ de
+ la
+ DIRECTEMAR.
+
+**Energía**
+La
+ plataforma
+ flotante,
+ cuenta
+ con
+ un
+ equipo
+ electrógeno
+ ubicado
+ en
+ el
+ área
+ de
+ almacenaje,
+ el
+ cual
+suministrará
+ la
+ energía
+ eléctrica
+ a
+ los
+ alimentadores
+ automáticos,
+ a
+ las
+ habitaciones
+ y
+ a
+ la
+ bodega.
+
+**Alimentación
+ y
+ alojamiento**
+Teniendo
+ en
+ consideración
+ la
+ lejanía
+ de
+ centros
+ poblados,
+ todos
+ los
+ técnicos
+ y
+ operarios
+ que
+ trabajen
+en
+ el
+ centro
+ de
+ cultivo
+ estarán
+ alojados
+ en
+ el
+ pontón
+ habitable
+ que
+ estará
+ diseñado
+ para
+ soportar
+ la
+cantidad
+ de
+ trabajadores
+ suficiente
+ que
+ requiera
+ la
+ operación
+ del
+ centro,
+ para
+ ello
+ se
+ considera
+ la
+inclusión
+ de
+ un
+ cocinero
+ para
+ los
+ efectos
+ de
+ alimentación
+ del
+ personal.
+
+**Transporte**
+Para
+ el
+ transporte
+ del
+ personal
+ técnico
+ y
+ operarios
+ que
+ trabajen
+ en
+ el
+ centro
+ de
+ cultivo,
+ el
+ titular
+dispone
+ por
+ una
+ parte
+ de
+ embarcaciones
+ desde
+ el
+ centro
+ de
+ cultivo
+ a
+ centros
+ o
+ localidades
+ pobladas.
+
+1.6.6
+Cantidad
+ de
+ recursos
+ naturales
+ renovables
+ a
+ extraer
+ o
+ explotar
+El
+ proyecto
+ NO
+ considera
+ la
+ extracción
+ ni
+ explotación
+ de
+ ningún
+ recursos
+ natural
+ renovable
+ en
+ la
+ etapa
+de
+ operación
+ del
+ proyecto.
+
+1.6.7
+Emisiones
+ del
+ proyecto
+ o
+ actividad
+ y
+ las
+ formas
+ de
+ abatimiento
+ y
+ control
+ contempladas.
+Las
+ principales
+ emisiones
+ a
+ la
+ atmósfera
+ que
+ se
+ generarán
+ durante
+ la
+ operación
+ del
+ proyecto
+ ampliado
+del
+ centro
+ de
+ engorda
+ corresponden
+ a:
+
+ Ruido
+
+ Gases
+ producto
+ de
+ la
+ combustión
+ en
+ motores
+ fuera
+ de
+ borda
+ y
+ en
+ los
+ generadores
+ de
+electricidad.
+
+ Ruido
+Las
+ fuentes
+ de
+ emisión
+ de
+ ruido
+ durante
+ la
+ etapa
+ de
+ operación
+ corresponderán
+ a
+ los
+ motores
+ fuera
+ de
+borda,
+ los
+ generadores
+ eléctricos
+
+ y
+ los
+ blower
+ utilizados
+ para
+
+ alimentación.
+
+Los
+ motores
+ fuera
+ de
+ borda
+ GLP
+ (de
+ 50
+ HP)
+ generan
+ un
+ nivel
+ de
+ ruido
+ inferior
+ a
+
+ los
+ 85
+ dbA
+ (nivel
+ de
+presión
+ sonora
+ de
+ los
+ motores
+ bencineros),
+ durante
+ la
+ actividad
+ diurna
+ en
+ forma
+ intermitente.
+ No
+
+obstante,
+ con
+ el
+ uso
+ de
+ GLP
+ como
+ combustible,
+ los
+ motores
+ fuera
+ de
+ borda
+ trabajarán
+ de
+ manera
+ más
+silenciosa.
+ La
+ emisión
+ de
+ ruido
+ se
+ generará
+ durante
+ la
+ actividad
+ diurna,
+ en
+ forma
+ intermitente.
+
+En
+ el
+ interior
+ del
+ Artefacto
+ Naval
+ se
+ producirá
+ un
+ promedio
+ de
+ emisión
+ equivalente
+ del
+ orden
+ de
+ los
+ 79
+dBA,
+ lo
+ que
+ da
+ cumplimiento
+ al
+ Artículo
+ 74
+ del
+ D.S.
+ No
+ 594/1999.
+ Este
+ nivel
+ de
+ ruido
+ se
+ generará
+ en
+horario
+ diurno
+ y
+ en
+ forma
+ constante.
+ No
+ obstante,
+ las
+ unidades
+ generadoras
+ de
+ ruido
+ se
+ encontrarán
+ubicadas
+ en
+ zonas
+ aisladas
+ acústicamente
+ dentro
+ del
+ artefacto
+ naval,
+ con
+ lo
+ que
+ se
+ logrará
+ reducir
+ la
+emisión
+ de
+ ruido
+ en
+ dichas
+ salas.
+ Por
+ lo
+ demás,
+ los
+ trabajadores
+ contarán
+ con
+ protectores
+ auditivos
+ en
+la
+ sala
+ donde
+ se
+ ubican.
+
+ Gases
+Se
+ generarán
+ gases
+ producto
+ de
+ la
+ operación
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+ y
+ de
+ los
+ generadores
+ de
+electricidad.
+ El
+ proyecto
+ considera
+ el
+ uso
+ de
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ combustible
+ que
+ genera
+principalmente
+ vapor
+ de
+ agua
+ y
+ reduce
+ en
+ un
+ 90%
+ las
+ emisiones
+ de
+ CO 2 en
+ comparación
+ con
+ el
+ uso
+ de
+bencina.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+ tendrán
+ una
+ duración
+ de
+ 8
+ horas
+ diarias,
+ pero
+ su
+utilización
+ será
+ en
+ forma
+ intermitente.
+
+El
+ centro
+ de
+ engorda
+ contará
+ con
+ generadores,
+ los
+ que
+ serán
+ una
+ fuente
+ fija
+ de
+ emisión
+ constante.
+
+Cabe
+ indicar
+ que
+ se
+ tendrá
+ especial
+ cuidado
+ en
+ la
+ mantención
+ de
+ estos
+ equipos,
+ con
+ la
+ finalidad
+ de
+mantener
+ la
+ eficiencia
+ de
+ consumo
+ y
+ permitir
+ una
+ combustión
+ óptima
+ en
+ los
+ motores
+ para
+ producir
+ la
+mínima
+ cantidad
+ de
+ gases
+ y
+ residuos,
+ tanto
+ en
+ los
+ generadores
+ como
+ en
+ los
+ motores
+ fuera
+ de
+ borda.
+
+1.6.8
+Cantidad
+ y
+ manejo
+ de
+ residuos,
+ productos
+ químicos
+ y
+ otras
+ sustancias
+ que
+ puedan
+afectar
+ el
+ medio
+ ambiente.
+
+**Residuos
+ líquidos**
+Si
+ se
+ generarán
+ descargas
+ de
+ efluentes
+ líquidos
+ durante
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto,
+ que
+provendrán
+ de:
+
+ Aguas
+ servidas
+ domésticas
+ (procedentes
+ de
+ baños,
+ lavatorios,
+ duchas
+ y
+ cocina)
+Para
+ el
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ se
+ contará
+ con
+ una
+ planta
+ de
+ tratamiento
+ cuyo
+ efluente
+cumplirá
+ con
+ las
+ normas
+ destinadas
+ a
+ la
+ evacuación,
+ tratamiento
+ y
+ disposición
+ final
+ de
+ desagües
+ y
+aguas
+ servidas
+ a
+ cursos
+ naturales.
+ La
+ planta
+ referencial
+ a
+ implementar
+ en
+ el
+ centro
+ cumplirá
+ con
+ la
+Resolución
+ OMI
+ MEPC
+ 159(55).
+ De
+ esta
+ forma,
+ se
+ estará
+ cumpliendo
+ con
+ las
+ prescripciones
+establecidas
+ en
+ el
+ artículo
+ No
+ 95
+ del
+ “Reglamento
+ para
+ el
+ Control
+ de
+ la
+ Contaminación
+ Acuática”,
+ en
+cuanto
+ a
+ que
+ el
+ efluente
+ a
+ descargar
+ no
+ contendrá
+ sólidos
+ flotantes
+ visibles
+ y
+ no
+ ocasionará
+ la
+decoloración
+ de
+ las
+ aguas
+ circundantes.
+ Junto
+ con
+ esto
+ se
+ establece
+ que
+ la
+ planta
+ de
+ tratamiento
+ ha
+sido
+ autorizada
+ por
+ el
+ Servicio
+ de
+ Inspección
+ de
+ Naves
+ dependiente
+ de
+ la
+ DIRECTEMAR.
+
+Se
+ adjunta
+ certificado
+ de
+ homologación
+ en
+ el **anexo
+ 2** .
+
+ Desinfectantes
+Como
+ desinfectante,
+ el
+ Titular
+ utilizará
+ productos
+ autorizados
+ para
+ este
+ fin
+ de
+ acuerdo
+ a
+ la
+ normativa
+vigente.
+ Las
+ concentraciones
+ serán
+ aquellas
+ que
+ señale
+ el
+ fabricante
+ según
+ el
+ producto
+ elegido.
+ Para
+ la
+desinfección
+ de
+ botas
+ y
+ superficies
+ éste
+ se
+ realizará
+ por
+ medio
+ de
+ aspersores.
+ Los
+ maniluvios,
+ estarán
+en
+ el
+ pontón
+ flotante,
+ embarcaciones
+ y
+ al
+ ingreso
+ del
+ módulo
+ de
+ cultivo
+ y
+ serán
+ necesarios
+ para
+ el
+ caso
+de
+ manipulación
+ de
+ productos
+ que
+ requieran
+ desinfección.
+
+Para
+ las
+ manos
+ se
+ emplea
+ alcohol
+ gel,
+ el
+ que
+ se
+ encuentra
+ envasado
+ en
+ bolsas
+ que
+ se
+ ubican
+ dentro
+ de
+un
+ dispensador.
+ El
+ gel
+ se
+ evapora
+ al
+ momento
+ de
+ utilizarlo.
+
+**Residuos
+ Sólidos**
+Los
+ residuos
+ sólidos
+ se
+ generarán
+ en
+ las
+ etapas
+ de
+ construcción,
+ operación
+ y
+ abandono
+ del
+ centro
+ de
+cultivo.
+ A
+ continuación
+ se
+ describen
+ los
+ tipos
+ de
+ residuos
+ y
+ su
+ disposición:
+
+ **Etapa
+ de
+ Construcción**
+No
+ se
+ generarán
+ residuos
+ en
+ esta
+ etapa
+ ya
+ que
+ al
+ centro
+ las
+ balsas
+ llegarán
+ armadas
+ y
+ equipadas.
+
+ **Etapa
+ de
+ Operación**
+En
+ la
+ etapa
+ de
+ operación
+ se
+ identifican
+ los
+ siguientes
+ residuos
+ sólidos:
+
+ü Mortalidad
+ a
+ ensilaje
+ü Alimento
+ no
+ consumido
+ü Fecas
+ü Bolsas
+ de
+ alimento
+ü Residuos
+ sólidos
+ domésticos
+ü Residuos
+ lubricantes
+
+**Mortalidad
+ a
+ ensilaje:** la
+ mortalidad
+ será
+ recuperada
+ desde
+ las
+ jaulas
+ ya
+ sea
+ mediante
+ un
+ sistema
+ de
+extracción
+ de
+ mortalidad
+ manual,
+ o
+ a
+ través
+ de
+ un
+ sistema
+ de
+ extracción
+ de
+ Mortalidad
+ mediante
+ Lift
+Up,
+ llamado
+ Mortex,
+ como
+ parte
+ de
+ una
+ mejora
+ tecnológica
+ al
+ incorporarse
+ al
+ sistema
+ productivo
+ y
+que
+ consiste
+ en
+ la
+ extracción
+ de
+
+ dicha
+ Mortalidad
+ a
+ través
+ de
+ manguera
+ de
+ succión,
+
+ que
+ sube
+ por
+dentro
+ de
+ la
+ jaula,
+ y
+ su
+ objetivo
+ es
+ disminuir
+ las
+ horas
+ de
+ buceo
+ en
+ la
+ extracción
+ de
+ mortalidad
+ en
+jaulas
+ de
+ cultivo
+ en
+ mar.
+ El
+ sistema
+ se
+ puede
+ programar
+ en
+ forma
+ automática
+ según
+ horarios
+ o
+simplemente
+ se
+ activa
+ manualmente.
+ Además
+ permite
+ extracción
+ de
+ altos
+ volúmenes
+ de
+ biomasa
+ en
+caso
+ de
+ mortalidad
+ masiva
+ y
+ mejora
+ condición
+ sanitaria
+ de
+ la
+ jaula
+ al
+ extraer
+ mortalidad
+ fresca.
+ Se
+adjunta
+ Manual
+ de
+ Operación
+ Sistema
+ Mortex,
+ Lift
+ Up.
+ Se
+ adjunta
+ ficha
+ técnica
+ en
+ el **anexo
+ 2** .
+ Los
+residuos
+ serán
+ dispuestos
+ en
+ bins,
+ para
+ el
+ posterior
+ ensilaje
+ de
+ ésta.
+ Si
+ bien
+ el
+ ensilaje
+ posee
+ una
+consistencia
+ de
+ pasta
+ y
+ no
+ de
+ sólido,
+ se
+ catalogará
+ como
+ tal
+ producto
+ de
+ su
+ comportamiento
+ y
+ el
+formato
+ de
+ traslado
+ (contenedor).
+ La
+ generación
+ de
+ ensilaje
+ está
+ ligada
+ directamente
+ a
+ la
+ etapa
+ del
+ciclo
+ productivo
+ en
+ la
+ que
+ se
+ encuentre
+ el
+ centro
+ de
+ cultivo,
+ se
+ estima
+ una
+ producción
+ de
+ mortalidad
+de
+ 264,6ton/ciclo,
+ que
+ representa
+ un
+ 15%
+ acumulado
+ de
+ la
+ producción
+ anual.
+ La
+ mortalidad
+ generada
+se
+ almacenará
+ en
+ el
+ sistema
+ de
+ ensilaje,
+ una
+ vez
+ ensilada
+ se
+ retirará
+ una
+ vez
+ al
+ mes
+ o
+ según
+requerimiento,
+ por
+ vía
+ marítima
+ o
+ terrestre
+ hacia
+ empresas
+ reductoras
+ autorizadas.
+
+En
+ casos
+ de
+ contingencia
+ se
+ dispondrá
+ en
+ receptáculos
+ con
+ tapa
+ proporcionados
+ por
+ la
+ misma
+ empresa
+que
+ realizará
+ su
+ retiro.
+
+Los
+ envases
+ de
+ ácido
+ fórmico
+ se
+ almacenarán
+ adecuadamente
+ en
+ una
+ bodega
+ del
+ Artefacto
+ Naval
+ del
+centro.
+ Una
+ vez
+ estos
+ vacíos,
+ se
+ almacenarán
+ en
+ una
+ bodega
+ dentro
+ del
+ pontón
+ específicamente
+ para
+estos
+ residuos.
+ Posteriormente,
+ los
+ envases
+ vacíos
+ serán
+ dispuestos
+ por
+ empresas
+ autorizadas.
+ El
+titular
+ se
+ compromete
+ a
+ buscar
+ la
+ reutilización
+ de
+ estos
+ envases
+ y
+ ser
+ devueltos
+ al
+ proveedor
+ para
+ su
+reutilización.
+
+**Pérdida
+ de
+ alimento:** El
+ efecto
+ producido
+ por
+ las
+ corrientes
+ en
+ el
+ área
+ de
+ las
+ jaulas,
+ llevará
+ un
+ margen
+de
+ pérdida
+ de
+ este
+ tipo
+ de
+ insumos.
+ Del
+ alimento
+ entregado
+ a
+ los
+ peces,
+ un
+ porcentaje
+ no
+ es
+consumido
+ por
+ éstos,
+ representando
+ el
+ mayor
+ aporte
+ de
+ residuos
+ sólidos
+ del
+ proceso
+ de
+ engorda,
+ que
+de
+ acuerdo
+ a
+ Beveridge
+ (1987)
+ puede
+ llegar
+ a
+ ser
+ el
+ 20%
+ del
+ alimento
+ total
+ suministrado;
+ sin
+ embargo,
+gracias
+ a
+ la
+ alta
+ tecnología
+ aplicada
+ a
+ esta
+ faena
+ mediante
+ la
+ utilización
+ del
+ sistema
+
+ de
+ alimentación
+automático
+ y
+ el
+ sistema
+ de
+ monitoreo
+ mediante
+ cámaras
+ individuales,
+ la
+ perdida
+ de
+ alimento
+ tiende
+ a
+ser
+ menor
+ al
+ 3,0%,
+ por
+ tanto
+ se
+ tendría
+ que
+ del
+ total
+ suministrado
+ en
+ régimen
+ (3.714,6
+ ton)
+ sólo
+
+ 111,4
+ton/ciclo
+ de
+ producción,
+ se
+ perderían.
+ Si
+ consideramos
+ que
+ el
+ alimento
+ tiene
+ un
+ 7%
+ de
+ humedad
+ en
+promedio,
+ se
+ puede
+ establecer
+ que
+ la
+ pérdida
+ corresponde
+ a
+
+ 103,6
+ ton
+ alimento
+ (peso
+ seco)/ciclo.
+
+**Fecas:** El
+ presente
+ proyecto
+ hace
+ uso
+ de
+ alimento
+ extruido
+ de
+ alta
+ digestibilidad,
+ por
+ lo
+ que
+ se
+ espera
+que
+ el
+ porcentaje
+ eliminado
+ por
+ concepto
+ de
+ fecas
+ no
+ supere
+ el
+ 10%
+ del
+ total
+ ingerido
+ (90%
+ de
+digestibilidad).
+ Sin
+ perjuicio
+ de
+ ello,
+ de
+ acuerdo
+ a
+ lo
+ planteado
+ por
+ Cromey
+ et
+ al
+ (2002),
+ la
+digestibilidad
+ del
+ alimento
+ es
+ en
+ torno
+ al
+ 85%
+ (valor
+ por
+ defecto
+ dado
+ en
+ el
+ software
+ DEPOMOD),
+ por
+tanto
+ si
+ se
+ considera
+ esta
+ digestibilidad
+ se
+ tiene
+ que
+ del
+ total
+ suministrado,
+ 3.714,6
+ ton,
+ (equivalente
+ a
+3.454,6
+ ton
+ base
+ peso
+ seco),
+ el
+ 3,0
+ %
+ es
+ eliminado
+ como
+ alimento
+ no
+ consumido
+ y
+ por
+ tanto
+ 3.3.50,9
+ton
+ peso
+ seco
+ es
+ ingerido,
+ luego,
+ el
+ 15%
+ del
+ total
+ ingerido
+ es
+ eliminado
+ al
+ ambiente
+ por
+ concepto
+ de
+fecas,
+ es
+ decir,
+ a
+ partir
+ del
+ primer
+ año
+ de
+ operación,
+ será
+ eliminado
+ una
+ cantidad
+ equivalente
+ a
+ 502,6
+ton
+ fecas/ciclo,
+ considerado
+ a
+ partir
+ del
+ peso
+ del
+ alimento.
+
+**Bolsas
+ de
+ alimento:** las
+ bolsas
+ de
+ alimento
+ serán
+ ordenadas,
+ acopiadas
+ y
+ retiradas
+ por
+ la
+ embarcación
+que
+ transporta
+ el
+ alimento
+ mensualmente
+ para
+ ser
+ entregadas
+ a
+ un
+ externo
+ para
+ su
+ reciclaje.
+
+**Residuos
+ Sólidos
+ Domésticos
+ (RSD):** Los
+ residuos
+ sólidos
+ domésticos
+ generados
+ en
+ la
+ etapa
+ de
+operación
+ del
+ proyecto
+ se
+ estiman
+ con
+ una
+ tasa
+ de
+ 0,7
+ kg/d/persona
+ y
+ que
+ representan
+ 7,0
+ kg/d.
+ ó
+2,55
+ ton/año,
+ aproximadamente.
+ Estos
+ residuos
+ serán
+ acumulados
+ en
+ contenedores,
+ claramente
+identificados,
+ con
+ tapa
+ y
+ en
+ su
+ interior
+ con
+ bolsas
+ de
+ plástico.
+ Posteriormente,
+ las
+ bolsas
+ con
+ residuos
+en
+ su
+ interior
+ son
+ trasladadas
+ en
+ una
+ embarcación
+ de
+ logística
+ permanente
+ del
+ centro
+ hacia
+ un
+ lugar
+de
+ disposición
+ autorizado.
+ La
+ frecuencia
+ de
+ retiro
+ será
+ según
+ requerimiento.
+
+**Residuos
+ de
+ Aceites
+ Lubricantes
+ Usados
+ (RESPELs):** Producto
+ de
+ la
+ utilización
+ de
+ aceites
+ lubricantes
+ en
+los
+ motores
+ del
+ centro,
+ se
+ generarán
+ residuos
+ que
+ serán
+ almacenados
+ en
+ recipientes
+ cerrados
+ y
+debidamente
+ etiquetados
+ e
+ identificados.
+ Se
+ tomarán
+ todas
+ las
+ precauciones
+ necesarias
+ para
+ prevenir
+
+su
+ inflamación
+ o
+ reacción,
+ entre
+ ellas,
+ la
+ separación
+ y
+ protección
+ frente
+ a
+ cualquier
+ fuente
+ de
+ riesgo,
+según
+ lo
+ establece
+ el
+ Artículo
+ 4
+ y
+ 6
+ del
+ D.S.
+ No148/04,
+ del
+ Ministerio
+ de
+ Salud.
+
+Las
+ personas
+ que
+ vayan
+ a
+ embarcar
+ o
+ desembarcar
+ los
+ residuos
+ peligrosos,
+ informarán
+ del
+ hecho
+ a
+ la
+autoridad
+ marítima
+ con
+ al
+ menos
+ veinticuatro
+ horas
+ de
+ anticipación,
+ cumpliendo
+ con
+ la
+ Circular
+Marítima
+ DGTM
+ y
+ MM
+ O-­‐32/11.
+ Estos
+ residuos
+ serán
+ trasladados
+ en
+ embarcaciones
+ de
+ la
+ logística
+ del
+centro
+ y
+ derivados
+ para
+ su
+ tratamiento
+ y
+ disposición
+ final
+ a
+ empresas
+ autorizadas.
+ Se
+ generarán
+ 190
+L/año,
+ aproximadamente,
+ de
+ aceites
+ lubricantes
+ usados.
+
+La
+ siguiente
+ tabla
+ detalla
+ los
+ residuos
+ sólidos
+ generados
+ por
+ el
+ proyecto,
+ con
+ sus
+ respectivos
+volúmenes,
+ tipo
+ de
+ manejo
+ y
+ disposición
+ final:
+
+|Etapa del<br>proyecto|Identificación del<br>residuo|Peligrosidad|Volumen de los<br>residuos|Tipo de manejo de los residuos<br>generados|Destino de los residuos<br>generados|
+|---|---|---|---|---|---|
+|Construcción<br>e instalación|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Bolsas vacías de<br>alimento<br>(polietileno) al<br>quinto ciclo de<br>operación|<br> <br>Nula|<br> <br>1,86 ton ciclo-1|Ensiladas para posteriormente<br>vía marítima ser entregadas a<br>un externo para reciclaje|<br>Devueltas la proveedor y/o<br>Reciclaje|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Mortalidad a<br>partir del primer<br>ciclo de<br>operación|<br>Baja|<br>264,6 ton/ciclo|<br>Retiro en bins|Sistema de ensilaje de<br>mortalidad|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Alimento no<br>consumido a del<br>primer ciclo<br>producción.|<br> <br>Baja|<br>111,4 ton peso<br>seco/ciclo|Soluciones tecnológicas para el<br>control de residuos, tales como,<br>la utilización del sistema de<br>alimentación simultanea y<br>sistema de monitoreo mediante<br>cámaras individuales|Consumo por fauna<br>acompañante (alimentos).<br>Al fondo marino por<br>sedimentación, transporte<br>por corrientes.<br>(alimentos y fecas)|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|<br>Fecas a partir del<br>primer ciclo<br>producción.|<br> <br>Baja|502,6<br> ton/ciclo.<br>Considerando el<br>peso seco del<br>alimento|502,6<br> ton/ciclo.<br>Considerando el<br>peso seco del<br>alimento|502,6<br> ton/ciclo.<br>Considerando el<br>peso seco del<br>alimento|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Residuos<br>domiciliarios<br>(Ton) al primer<br>ciclo de<br>operación.|<br> <br> <br>Baja|<br> <br>2,55 ton/año|<br> <br>Almacenados en bins|Retirados desde el centro por<br>barcazas hasta disponerlo en<br>los contenedores de basura<br>de vertedero Municipal o de<br>cualquier otro relleno<br>sanitarioautorizado.|
+
+**Residuos
+ Peligrosos**
+**Residuos
+ de
+ Aceites
+ Lubricantes
+ Usados
+ (Respels):** Producto
+ de
+ la
+ utilización
+ de
+ aceites
+ lubricantes
+ en
+los
+ motores
+ del
+ centro,
+ se
+ generarán
+ residuos
+ que
+ serán
+ almacenados
+ en
+ recipientes
+ cerrados
+ y
+debidamente
+ etiquetados
+ e
+ identificados.
+ Se
+ tomarán
+ todas
+ las
+ precauciones
+ necesarias
+ para
+ prevenir
+su
+ inflamación
+ o
+ reacción,
+ entre
+ ellas,
+ la
+ separación
+ y
+ protección
+ frente
+ a
+ cualquier
+ fuente
+ de
+ riesgo,
+según
+ lo
+ establece
+ el
+ Artículo
+ 4
+ y
+ 6
+ del
+ D.S.
+ No148/04,
+ del
+ Ministerio
+ de
+ Salud.
+
+Las
+ personas
+ que
+ vayan
+ a
+ embarcar
+ o
+ desembarcar
+ los
+ residuos
+ peligrosos,
+ informarán
+ del
+ hecho
+ a
+ la
+autoridad
+ marítima
+ con
+ al
+ menos
+ veinticuatro
+ horas
+ de
+ anticipación,
+ cumpliendo
+ con
+ la
+ Circular
+Marítima
+ DGTM
+ y
+ MM
+ O-­‐32/11.
+ Estos
+ residuos
+ serán
+ trasladados
+ en
+ embarcaciones
+ de
+ la
+ logística
+ del
+
+centro
+ y
+ derivados
+ para
+ su
+ tratamiento
+ y
+ disposición
+ final
+ a
+ empresas
+ autorizadas.
+ Se
+ generarán
+ 190
+L/año,
+ aproximadamente,
+ de
+ aceites
+ lubricantes
+ usados.
+
+Cualquier
+ otro
+ tipo
+ de
+ residuos,
+ como
+ baterías,
+ pilas,
+ envases
+ de
+ fármacos,
+ entre
+ otros,
+ se
+almacenaran
+ en
+ áreas
+ destinadas
+ para
+ ello
+ dentro
+ del
+ pontón
+ hasta
+ su
+ retiro
+ y
+ disposición
+ final
+ en
+lugares
+ de
+ disposición
+ de
+ residuos
+ industriales
+ autorizados.
+
+_**1.7**_
+_**ETAPA
+ DE
+ ABANDONO
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.7)**_
+Dado
+ que
+ el
+ proyecto
+ considera
+ una
+ vida
+ útil
+ de
+ 25
+ años
+ renovables,
+ el
+ Titular
+ no
+ contempla
+ abandono
+del
+ proyecto,
+ para
+ ello
+ el
+ titular
+ realizará
+ periódicamente
+ trabajos
+ de
+ mantención
+ y
+ mejoras
+ cuando
+sea
+ necesario
+ para
+ mantener
+ en
+ buenas
+ condiciones
+ el
+ centro
+ de
+ cultivo.
+
+En
+ caso
+ de
+ que
+ el
+ Titular
+ considere
+ pertinente
+ el
+ cierre
+ del
+ centro
+ de
+ cultivo,
+ éste
+ se
+ compromete
+ a
+cumplir
+ con
+ lo
+ establecido
+ en
+ el
+ Artículo
+ 4,
+ letra
+ c)
+ del
+ D.S.
+ (MINECON)
+ No
+ 320
+ de
+ 2001,
+ en
+ cuanto
+ a
+retirar
+ al
+ término
+ de
+ su
+ vida
+ útil
+ o
+ a
+ la
+ cesación
+ de
+ actividades
+ del
+ centro,
+ todo
+ tipo
+ de
+ soportes
+ no
+degradables
+ o
+ de
+ degradación
+ lenta
+ que
+ hubieren
+ sido
+ utilizados
+ como
+ sistema
+ de
+ anclaje
+ al
+ fondo,
+exceptuando
+ las
+ estructuras
+ de
+ concreto
+ utilizadas
+ para
+ el
+ anclaje,
+ se
+ realizará
+ un
+ análisis
+ al
+ fin
+ de
+ la
+etapa
+ para
+ verificar
+ si
+ es
+ factible
+ el
+ retiro
+ de
+ las
+ estructuras
+ de
+ concreto
+ o
+ si
+ este
+ retiro
+ generaría
+ un
+daño
+ mayor
+ al
+ entorno.
+ Esta
+ tarea
+ será
+ ejecutada
+ por
+ 3
+ personas
+ con
+ apoyo
+ de
+ la
+ balsa
+ y
+embarcaciones,
+ estimándose
+ un
+ plazo
+ de
+ 90
+ días
+ para
+ el
+ total
+ abandono
+ del
+ centro
+ de
+ cultivo.
+
+Dado
+ que
+ el
+ proyecto
+ se
+ desarrollará
+ íntegramente
+ en
+ el
+ medio
+ marino,
+ se
+ estima
+ que
+ no
+ se
+ verá
+afectada
+ la
+ morfología
+ del
+ lugar,
+ así
+ como
+ la
+ vegetación
+ u
+ otro
+ componente
+ ambiental
+ del
+ sitio.
+
+Dado
+ que
+ el
+ proyecto
+ se
+ desarrollará
+ íntegramente
+ en
+ el
+ medio
+ marino,
+ se
+ estima
+ que
+ no
+ se
+ verá
+afectada
+ la
+ morfología
+ del
+ lugar,
+ así
+ como
+ la
+ vegetación
+ u
+ otro
+ componente
+ ambiental
+ del
+ sitio.
+
+Tabla
+ 22.
+ Cronograma
+ de
+ actividades
+ etapa
+ de
+ abandono
+
+|Actividad/Mes|1|2|3|
+|---|---|---|---|
+|Retiroy transportedebalsasjaulas|X|||
+|Retirodesistemasdefondeomuertos|X|X||
+|Retirodemuertos(*)|||X|
+|Retiroy transportedelsistemadeensilaje|||X|
+|Retiroy transportedelPontónHabitable|||X|
+
+(*)
+ consulta
+ pertinencia
+ a
+ la
+ autoridad
+
+1.7.1
+Residuos
+En
+ caso
+ de
+ que
+ el
+ titular
+ defina
+ poner
+ cese
+ al
+ centro,
+ en
+ la
+ etapa
+ de
+ abandono
+ se
+ generarán
+ las
+siguientes
+ emisiones
+ y/o
+ residuos:
+
+-
+ Emisiones
+ atmosféricas
+
+-
+ Residuos
+ líquidos
+
+-
+ Residuos
+ sólidos
+
+ **Emisiones
+ atmosféricas**
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ en
+ la
+ etapa
+ de
+ abandono
+ del
+ proyecto.
+
+ Sólo
+ se
+ puede
+considerar
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+ trabajarán
+ en
+ el
+ desarme
+ y/o
+ traslado
+ de
+ la
+infraestructura
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+ móviles
+ y
+ autónomas.
+
+ **Residuos
+ líquidos**
+Los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+ las
+ aguas
+ servidas,
+ las
+embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ desarme
+ de
+ las
+ estructuras
+ de
+ cultivo
+ cuentan
+ con
+servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+ homologadas
+ y
+ aprobadas
+ por
+ la
+autoridad
+ marítima.
+
+ **Residuos
+ sólidos**
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ abandono
+ en
+ general
+ NO
+ generará
+ residuos,
+ productos
+ químicos
+ u
+ otras
+sustancias
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+ Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+desinstalación
+ de
+ las
+ plataformas
+ de
+ cultivo,
+ sistema
+ de
+ anclaje
+ serán
+ retirados
+ por
+ las
+ mismas
+empresas
+ de
+ servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+ estos
+elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ ser
+dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+Restos
+ de
+ materiales
+ que
+ serán
+ llevados
+ a
+ reutilización,
+ vertedero
+ autorizado
+ o,
+ en
+ caso
+ de
+organismos,
+ a
+ planta
+ de
+ proceso.
+
+_**1.8**_
+_**PLANES
+ DE
+ MITIGACIÓN
+ Y
+ CONTINGENCIA
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.8)**_
+Conforme
+ a
+ lo
+ señalado
+ en
+ el
+ Artículo
+ 5°
+ del
+ D.S.
+ N°
+ 320,
+ el
+ centro
+ de
+ cultivo
+ dispondrá
+ de
+ un
+ Plan
+ de
+acción
+ antes
+ Contingencias
+ Ambientales,
+ el
+ que
+ establecerá
+ las
+ acciones
+ y
+ responsabilidades
+operativas
+ en
+ caso
+ de
+ ocurrir
+ circunstancias
+ susceptibles
+ de
+ provocar
+ efectos
+ ambientales
+ negativos
+ o
+adversos.
+ Este
+ plan
+ considerará
+ a
+ lo
+ menos:
+ temporales,
+ terremotos,
+ el
+ enmalle
+ de
+ mamíferos
+marinos,
+ el
+ choque
+ de
+ embarcaciones
+ con
+ los
+ módulos
+ de
+ cultivo,
+ las
+ pérdidas
+ accidentales
+ de
+alimento,
+ de
+ estructuras
+ de
+ cultivo
+ u
+ otros
+ materiales,
+ florecimientos
+ algales
+ nocivos,
+ los
+ escapes,
+ o
+ los
+desprendimientos
+ de
+ ejemplares
+ exóticos
+ en
+ cultivo.
+
+Entre
+ las
+ actividades
+ a
+ seguir,
+ el
+ plan
+ comprenderá
+ acciones
+ de
+ recaptura
+ de
+ los
+ individuos,
+recolección
+ y
+ disposición
+ segura
+ de
+ desechos
+ y
+ la
+ eliminación
+ de
+ los
+ ejemplares
+ muertos
+ en
+ la
+ forma
+prevista
+ en
+ la
+ letra
+ a)
+ del
+ artículo
+ 4°
+ y
+ en
+ el
+ Decreto
+ Supremo
+ N°
+ 319/2001,
+ por
+ el
+ que
+ se
+ aprueba
+ el
+reglamento
+ de
+ medidas
+ de
+ protección,
+ control
+ y
+ erradicación
+ de
+ enfermedades
+ de
+ alto
+ riesgo
+ para
+ las
+especies
+ hidrobiológicas.
+
+El
+ plan
+ de
+ acción
+ ante
+ contingencias
+ comprenderá
+ al
+ menos
+ lo
+ siguiente:
+
+a) Acciones
+ a
+ desarrollar
+ ante
+ una
+ contingencia
+ que
+ se
+ presente
+ y
+ el
+ cronograma
+ de
+ su
+
+aplicación;
+b) Equipos
+ y
+ elementos
+ necesarios
+ para
+ la
+ correcta
+ aplicación
+ de
+ las
+ acciones
+ enumeradas
+ en
+ el
+
+literal
+ anterior,
+ los
+ que
+ deberán
+ comprender
+ al
+ menos
+ los
+ medios
+ de
+ transporte,
+ señalización
+ y
+comunicaciones;
+ y
+c) Programa
+ actualizado
+ del
+ mantenimiento
+ de
+ los
+ equipos
+ señalados
+ en
+ el
+ inciso
+ anterior.
+
+Un
+ ejemplar
+ escrito
+ del
+ plan
+ de
+ acción
+ de
+ contingencias
+ se
+ mantendrá
+ en
+ e
+ centro
+ de
+ cultivo
+ y
+ será
+conocido
+ por
+ el
+ personal
+ del
+ mismo.
+ Una
+ copia
+ de
+ dicho
+ plan
+ se
+ remitirá
+ al
+ Servicio.
+
+El
+ Titular
+ se
+ hace
+ responsable
+ de
+ disponer
+ los
+ medios
+ adecuados
+ y
+ el
+ personal
+ capacitado
+ para
+ el
+cumplimento
+ del
+ plan
+ de
+ acción
+ frente
+ a
+ contingencias.
+ De
+ la
+ misma
+ forma
+ asumirá
+ los
+ costos
+ que
+involucre
+ su
+ aplicación.
+
+Todas
+ las
+ contingencias
+ que
+ ocurran
+ en
+ el
+ centro
+ se
+ informarán
+ al
+ Servicio
+ y
+ a
+ la
+ Autoridad
+ Marítima
+dentro
+ de
+ un
+ plazo
+ de
+ 24
+ horas
+ desde
+ que
+ se
+ detecte
+ el
+ hecho
+ o
+ contingencia.
+
+1.8.1
+Plan
+ De
+ Contingencia.
+El
+ plan
+ de
+ contingencia
+ detalla
+ las
+ acciones
+ a
+ seguir
+ en
+ los
+ casos
+ de
+ ocurrencia
+ de
+ accidentes
+ambientales
+ en
+ los
+ que
+ las
+ acciones
+ de
+ prevención
+ no
+ hayan
+ tenido
+ efecto.
+ Se
+ basa
+ en
+ las
+ directrices
+entregadas
+ por
+ la
+ normativa
+ ambiental
+ vigente
+ ya
+ sea
+ a
+ través
+ de
+ la
+ Ley
+ No
+ 19.300
+ y
+ de
+ los
+ decretos
+ y
+resoluciones
+ relacionados
+ a
+ ella.
+ Todas
+ las
+ acciones
+ comenzarán
+ con
+ el
+ aviso
+ oportuno
+ al
+ encargado
+del
+ centro
+ de
+ cultivo
+ quien
+ guiará
+ las
+ operaciones
+ de
+ contingencia
+ y
+ elaborará
+ los
+ respectivos
+informes.
+ Sus
+ acciones
+ se
+ definen
+ para
+ los
+ siguientes
+ eventos:
+
+ D
+ MB
+ 24
+ Plan
+ de
+ Contingencia
+ Choque
+ de
+ Embarcaciones
+ en
+ Centros
+ de
+ Cultivos
+
+ D
+ MB
+ 25
+ Plan
+ de
+ Contingencia
+ de
+ Escape
+ de
+ peces
+ en
+ Centros
+ de
+ Cultivos
+ y
+ Pisciculturas
+
+ - D
+ MB
+ 26
+ Plan
+ de
+ Contingencia
+ Florecimiento
+ Algales
+ Nocivos
+ y
+ bajas
+ de
+ oxigeno
+
+ D
+ MB
+ 27
+ Plan
+ de
+ Contingencia
+ Ante
+ Terremotos
+ y
+ Temporales
+ en
+ Centros
+ de
+ Cultivos
+ Mar
+ y
+Pisciculturas
+
+ D
+ MB
+ 28
+ Plan
+ de
+ Contingencia
+ Mortalidades
+ Masivas
+ en
+ Centros
+ Cultivos
+ y
+ Pisciculturas.
+
+ D
+ MB
+ 29
+ Plan
+ de
+ Contingencia
+ Enmalle
+ de
+ Mamíferos
+ Marinos
+ en
+ Centros
+ de
+ Cultivos.
+
+ D
+ MB
+ 30
+ Plan
+ de
+ Contingencia
+ ante
+ Pérdidas
+ Accidentales
+ de
+ Alimento,
+ Estructuras
+ de
+ cultivo
+u
+ otros
+ materiales
+ en
+ centros
+ de
+ cultivos.
+
+ D
+ MB
+ 31
+ Plan
+ de
+ Contingencia
+ Ante
+ Falla
+ del
+ Sistema
+ de
+ Ensilaje
+
+Se
+ adjuntan
+ los
+ manuales
+ en
+ el **anexo
+ 4** .
+
+**CUADRO
+ RESUMEN
+ POR
+ ETAPA
+ DEL
+ PROYECTO**
+
+|Contenidos Mínimos<br>DIA|Col2|Página|
+|---|---|---|
+|Artículo 12|Proyecto trata de una relocalización del centro Queulat, por tanto se debe<br>considerarcomoproyectonuevo|10|
+|Artículo13|Articulo9 Ter,ley20417|173|
+|Artículo14|Elproyectonoserealizaporetapas|10|
+|Artículo15|Relaciónconlaspolíticasy planesevaluadosestratégicamente|176|
+|Artículo16|Iniciodeejecucióndelproyecto:instalacióndefondeos|10|
+|Artículo17|Nosehainiciadonegociacionesconningunaentidady/opersonasnaturales|10|
+|Artículo19,literala.1)|Descripcióndelproyectoo actividad|6|
+|Artículo 19, literal a.2)|Antecedentes generales del proyecto|6|
+|Artículo19,literala.3)|Localizacióndelproyecto|11|
+|Artículo19,literala.4)|Descripcióndelaspartes,accionesy obrasfísicas|41|
+|Artículo19,literala.5)|Etapadeconstrucción|42|
+|Artículo19,literala.6)|Etapadeoperación|48|
+|Artículo19,literala.7)|Etapadeabandono|64|
+|Artículo19,literala.8)|Planesdemitigacióny contingencia|66|
+
+# 2 ANTECEDENTES
+ PARA
+ EVALUAR
+ QUE
+ EL
+ PROYECTO
+ O
+ ACTIVIDAD
+ NO** **REQUIERE
+ PRESENTAR
+ UN
+ ESTUDIO
+ DE
+ IMPACTO
+ AMBIENTAL
+ (Artículo
+ 19
+ D.S.** **No
+ 40/12,
+ literal
+ b).**
+
+En
+ el
+ presente
+ capitulo
+ el
+ Titular
+ presenta
+ un
+ análisis
+ de
+ los
+ criterios
+ que
+ definen
+ que
+ el
+ proyecto
+“Relocalización
+ Concesión
+ de
+ Acuicultura
+ Punta
+ Cesari”,
+ que
+ ingresa
+ al
+ Sistema
+ de
+ Evaluación
+ de
+Impacto
+ Ambiental
+ mediante
+ una
+ Declaración
+ de
+ Impacto
+ y
+ que
+ no
+ genera
+ ninguno
+ de
+ los
+ efectos
+descritos
+ en
+ los
+ Criterios
+ contenidos
+ en
+ los
+ Art.
+ 11
+ de
+ la
+ Ley
+ 19.300
+ y
+ su
+ modificaciones
+ Ley
+ 20.417,
+ y
+por
+ ende
+ no
+ debe
+ ser
+ ingresado
+ como
+ un
+ Estudio
+ de
+ Impacto
+ Ambiental,
+ así
+ como
+ también
+ de
+ acuerdo
+a
+ lo
+ establecido
+ por
+ el
+ literal
+ b)
+ del
+ D.S.
+ No
+ 40/12,
+ a
+ saber:
+
+b)
+ Los
+ antecedentes
+ necesarios
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ aquellos
+ efectos,
+ características
+ o
+circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley
+ que
+ pueden
+ dar
+ origen
+ a
+ la
+ necesidad
+ de
+ efectuar
+ un
+ Estudio
+ de
+Impacto
+ Ambiental.
+ Serán
+ parte
+ de
+ estos
+ antecedentes:
+
+**b.1.
+ La
+ determinación
+ y
+ justificación
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ o
+ actividad,
+ incluyendo
+ una**
+**descripción
+ general
+ de
+ la
+ misma,
+ conforme
+ a
+
+ lo
+ señalado
+ en
+ el
+ artículo
+ 18
+ letra
+ d)
+ de
+ este**
+**Reglamento.**
+Respecto
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ se
+ define
+ como
+ área
+ de
+ influencia
+ cercana
+ o
+ próxima,
+ al
+área
+ correspondiente
+ a
+ la
+ concesión
+ de
+ acuicultura,
+ con
+ sus
+ respectivas
+ estructuras
+ y
+ sistemas
+ de
+fondeo
+ más
+ la
+ superficie
+ comprendida
+ producto
+ de
+ la
+ dispersión
+ de
+ la
+ pluma
+ de
+ aporte
+ de
+ carbono
+ del
+proyecto
+ y
+ su
+ proyección
+ a
+ la
+ línea
+ de
+ costa
+ cercana
+ (área
+ demarcada
+ con
+ el
+ borde
+ negro),
+ debido
+ a
+ la
+obligación
+ de
+ mantener
+ limpias
+ la
+ porción
+ de
+ playa
+ (D.S.
+ N°
+ 320).
+ Conforme
+ a
+ lo
+ anterior
+ y
+ en
+ función
+del
+ resultado
+ de
+ la
+ modelación
+ se
+ estima
+ un
+ área
+ de
+ influencia
+ de
+ 49,18
+ Hás proyectada
+ hacia
+ el
+ E
+ de
+ la
+concesión
+ al
+ borde
+ costero
+ más
+ cercano.
+ Con
+ todo,
+ el
+ área
+ de
+ mayor
+ dispersión
+ equivalente
+ a
+ la
+ menor
+carga
+ orgánica
+ de
+ 0,2
+ kg
+ C/m [2] /año
+ se
+ ubica
+ a
+ más
+ de
+ 90m
+ distante
+ de
+ la
+ línea
+ de
+ costa.
+
+ (Figura
+ 17).
+Ver
+ plano **anexo
+ 7** .
+
+_Figura
+ 17_ .
+ Área
+ de
+ influencia
+ del
+ proyecto
+
+La
+ empresa
+ Acuícola
+ Puyuhuapi
+ S.A.
+ realizó
+ un
+ estudio
+ de
+ biodiversidad
+ en
+ el
+ sector
+ del
+ Canal
+Puyuhuapi
+ para
+ definir
+ la
+ existencia
+ de
+ fauna
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+
+El
+ estudio
+ se
+ realizó
+ entre
+ el
+ 4
+ al
+ 6
+ de
+ julio
+ de
+ 2014,
+ la
+ metodología
+ y
+ resultados
+ se
+ presentan
+ a
+continuación:
+
+**METODOLOGÍA**
+Para
+ la
+ determinación
+ de
+ la
+ biodiversidad
+ de
+ aves;
+ mamíferos
+ marinos
+ y
+ macrobentos,
+ en
+ la
+ zona
+ de
+ la
+solicitud
+ de
+ concesión
+ de
+ acuicultura
+ ubicada
+ en
+ el
+ sector
+ noreste
+ de
+ Punta
+ Cesari
+ (figura
+ 18)
+ se
+ realizó
+una
+ prospección
+ marítima
+ entre
+ el
+ 4
+ al
+ 6
+ de
+ julio
+ del
+ 2014.
+ El
+ muestreo
+ abarcó
+ un
+ recorrido
+ de
+ 1.6
+ km
+aproximadamente
+ por
+ la
+ ribera
+ del
+ emplazamiento
+ del
+ proyecto.
+ En
+ el
+ área
+ de
+ influencia
+ del
+ proyecto,
+se
+ establecieron
+ tres
+ transectas
+ cuyo
+ inicio
+ es
+ en
+ el
+ punto
+ central
+ de
+ la
+ concesión
+ y
+ dispuestas
+ en
+ línea
+recta
+ hacia
+ el
+ borde
+ costero
+ y
+ de
+ ese
+ punto
+ se
+ realizó
+ una
+ navegación
+ por
+ todo
+ el
+ borde
+ costero,
+ en
+estas
+ transectas
+ se
+ realizo
+ avistamientos
+ de
+ aves
+ y
+ mamíferos
+ marinos.
+ De
+ la
+ misma
+ manera
+ se
+ realizo
+un
+ recorrido
+ submarino,
+ mediante
+ cámara
+ por
+ el
+ borde
+ costero
+ comprendido
+ dentro
+ del
+ área
+ de
+influencia
+ para
+ identificar
+ y
+ cuantificar
+ macrofauna
+ bentónica.
+ (Figura
+ 18).
+ La
+ tabla
+ No
+ 23
+ detalla
+ las
+coordenadas
+ geográficas
+ de
+ cada
+ una
+ de
+ las
+ estaciones
+ en
+ comento.
+
+_Tabla
+ 23.
+ Coordenadas
+ geográficas
+ estaciones
+ de
+ muestreo_
+
+|Estaciones|Inicio|Col3|Término|Col5|
+|---|---|---|---|---|
+|**Estaciones**|**LatitudS **|**LongitudW **|**LatitudS **|**LongitudW **|
+|T1|44°29'23,90"|72°39'26,02"|44°29'16,98"|72°39'30,01"|
+|T2|44°29'23,90"|72°39'26,02"|44°29'21,00"|72°39'36,01"|
+|T3|44°29'23,90"|72°39'26,02"|44°29'27,65"|72°39'38,14"|
+|**TrackNavegaciónBordeCosteroÁreadeInfluencia **|**TrackNavegaciónBordeCosteroÁreadeInfluencia **|**TrackNavegaciónBordeCosteroÁreadeInfluencia **|**TrackNavegaciónBordeCosteroÁreadeInfluencia **|**TrackNavegaciónBordeCosteroÁreadeInfluencia **|
+|PuntosGPSTrack|**LatitudS**|**LatitudS**|**LongitudW**|**LongitudW**|
+|BC1|44o29’09.44”|44o29’09.44”|72o39’23.98”|72o39’23.98”|
+|BC2|44o29’15.98”|44o29’15.98”|72o39’15.98”|72o39’15.98”|
+|BC3|44o29’23.76”|44o29’23.76”|72o39’35.23”|72o39’35.23”|
+|BC4|44o29’31.79”|44o29’31.79”|72o39’36.77”|72o39’36.77”|
+|BC5|44o29’36.33”|44o29’36.33”|72o39’39.47”|72o39’39.47”|
+
+_Figura
+ 18.
+ ubicación
+ estaciones
+ de
+ muestreo
+ y
+ avistamiento
+ dentro
+ del
+ área
+ de
+ influencia
+ directa
+ del
+ proyecto._
+_Flechas
+ y
+ línea
+ roja
+ punteadas
+ zona
+ de
+ avistamientos
+ de
+ aves
+ y
+ mamíferos
+ marinos;
+ línea
+ Blanca
+ recorrido
+ borde_
+_costero
+ con
+ cámara
+ submarina._
+
+**Aves
+ y
+ Mamíferos
+ Marinos**
+El
+ muestreo
+ se
+ realizó
+ mediante
+ transectas
+ de
+ observación
+ y
+ registro,
+ observando
+ hasta
+ una
+ distancia
+de
+ 300
+ m
+ desde
+ la
+ embarcación
+ (Tasker
+ et
+ al.
+ 1984,
+ Bibby
+ et
+ al.
+ 2000).
+ Las
+ observaciones
+ fueron
+realizadas
+ desde
+ la
+ cubierta
+ de
+ una
+ embarcación
+ a
+ una
+ velocidad
+ constante
+ (4
+ nudos),
+ utilizando
+binoculares
+ Nikon
+ 10x50
+ y
+ se
+ registró
+ la
+ ruta
+ de
+ navegación
+ utilizando
+ un
+ GPS
+ marca
+ Garmin,
+ modelo
+Etrex20.
+
+Una
+ vez
+ realizado
+ un
+ avistamiento,
+ se
+
+ registró
+ su
+ ubicación
+ con
+ un
+ GPS,
+ distancia
+ aproximada
+ del
+avistamiento
+ a
+ la
+ embarcación
+ de
+ 300
+ m,
+ especie
+ observada
+ y
+ número
+ de
+ individuos
+ que
+ componen
+ el
+avistamiento.
+
+Dado
+ que
+ en
+ el
+ área
+ de
+ estudio
+ puede
+ existir
+ la
+ presencia
+ de
+ nutrias:
+ huillín
+ ( _Lontra
+ provocax_ ) y/o
+chungungo
+ ( _Lontra
+ felina),_ especies
+ catalogadas
+ como
+ en
+ peligro
+ por
+ la
+ IUCN,
+ se
+ muestreó
+ la
+ totalidad
+del
+ borde
+ costero
+ incluido
+ en
+ el
+ área
+ de
+ estudio
+ indicado
+ en
+ la
+ figura
+ 20,
+ utilizando
+ un
+ bote,
+ por
+ la
+geomorfología
+ de
+ la
+ línea
+ de
+ costa
+ no
+ fue
+ posible
+ inspeccionar
+ a
+ pie.
+
+Para
+ la
+ consulta
+ de
+ campo
+ se
+ utilizó
+ la
+ guía
+ de
+ Hucke-­‐Gaete
+ &
+ Ruiz
+ (2010)
+ y
+
+ “Guía
+ de
+ campo
+ de
+ las
+aves
+ de
+ Chile”
+ de
+ Araya
+ &
+ Millie.
+
+**Macrofauna
+ Bentónica**
+La
+ fauna
+ bentónica
+ marina
+ se
+ identificó
+ a
+ través
+ de
+ grabación
+ submarina
+ a
+ lo
+ largo
+ de
+ un
+ track
+ de
+navegación
+ de
+ 1,6
+ kilómetros,
+ bordeando
+ la
+ costa
+ que
+ estaba
+ situada
+ al
+ frente
+ del
+ área
+ de
+ influencia.
+La
+ embarcación
+ desde
+ la
+ cual
+ se
+ desplegó
+ la
+ cámara,
+ navegó
+ a
+ una
+ velocidad
+ aproximada
+ entre
+ 6
+ y
+ 8
+km/h
+ a
+ lo
+ largo
+ del
+ track.
+ De
+ esta
+ forma,
+ la
+ presencia
+ de
+ diferentes
+ especies
+ quedó
+ registrada
+ en
+ la
+unidad
+ de
+ almacenamiento
+ de
+ la
+ cámara.
+ Para
+ la
+ consulta
+ de
+ fauna
+ marina
+ se
+ utilizó
+ a
+ Häussermann
+&
+ Försterra
+ (2009),
+ Ruppert
+ &
+ Barnes
+ (1996).
+
+Las
+ especies
+ encontradas
+ fueron
+ revisadas
+ en
+ la
+ pagina
+ web
+ de
+ IUCN [1],
+ para
+ clasificarlas
+ según
+ su
+estado
+ ambiental.
+
+**RESULTADOS**
+**Aves
+ y
+ Mamíferos
+ Marinos**
+
+CLASE
+ AVES
+De
+ acuerdo
+ a
+ la
+ bibliografía
+ existente,
+ en
+ el
+ área
+ de
+ estudio
+ existen
+ alrededor
+ de
+ 120
+ especies,
+agrupadas
+ en
+ treinta
+ y
+ nueve
+ familias,
+ concentradas
+ en
+ diecinueve
+ órdenes.
+ El
+ orden
+ Podicipediformes
+se
+ encuentra
+ representado
+ por
+ la
+ familia
+ Podicipedidae.
+ Orden
+ Procellariformes
+ representado
+ por
+cuatro
+ familias:
+ Diomedeidae,
+ Procellaridae,
+ Hydrobatidae
+ y
+ Pelecanoididae.
+ Orden
+ Sphenisciformes
+representado
+ por
+ la
+ familia
+ Spheniscidae.
+ El
+ orden
+ Suliformes
+ representado
+ por
+ tres
+ familias:
+ Sulidae,
+Pelecanidae
+ y
+ Phalacrocoridae.
+ Orden
+ Ciconiiformes
+ representado
+ por
+ dos
+ familias:
+ Ardeidae
+ y
+Threskiornithidae.
+ Anseriformes
+ representado
+ por
+ la
+ familia
+ Anatidae.
+ Orden
+ Cathartiformes
+representado
+ por
+ la
+ familia
+ Cathartidae.
+ Orden
+ Accipitriformes
+ representado
+ por
+ la
+ familia
+Accipitridae.
+ Orden
+ Falconiformes
+ representado
+ por
+ la
+ familia
+ Falconidae.
+ Orden
+ Gruiformes
+representado
+ por
+ la
+ familia
+ Rallidae.
+ Orden
+ Charadriiformes
+ representado
+ por
+ tres
+ familias:
+Charadriidae,
+ Scolopacidae
+ y
+ Laridae.
+ Orden
+ Columbiformes
+ representado
+ por
+ la
+ familia
+ Columbidae.
+Orden
+ Psittaciformes
+ representado
+ por
+ la
+ familia
+ Psittacidae.
+ Orden
+ Strigiformes
+ representado
+ por
+ dos
+familias:
+ Tytonidae
+ y
+ Strigidae.
+ Orden
+ Caprimulgiformes
+ representado
+ por
+ la
+ familia
+ Caprimulgidae.
+
+1 http://www.iucnredlist.org
+
+Orden
+ Apodiformes
+ representado
+ por
+ la
+ familia
+ Trochilidae.
+ Orden
+ Coraciiformes
+ representado
+ por
+ la
+familia
+ Alcedinidae.
+ Orden
+ Piciformes
+ representado
+ por
+ la
+ familia
+ Picidae.
+ Orden
+ Passeriformes
+ está
+representado
+ por
+ doce
+ familias:
+ Furnariidae,
+ Rhinocryptidae,
+ Tyrannidae,
+ Hirundinidae,
+ Trogloditidae,
+Cotingidae,
+ Turdidae,
+ Motacillidae,
+ Icteridae,
+ Emberizidae,
+ Fringillidae
+ y
+ Ploceidae.
+
+Durante
+ la
+ ruta
+ de
+ navegación
+ se
+ registraron
+ un
+ total
+ de
+ 3
+ especies
+ de
+ aves
+ marinas
+ (no
+ se
+ observaron
+sitios
+ de
+ nidificación)
+ y
+ 1
+ especies
+ de
+ mamíferos
+ marinos,
+ las
+ que
+ se
+ muestran
+ en
+ la
+ Tabla
+ 24.
+
+_Tabla
+ 24.
+ Especies
+ de
+ aves
+ marinas
+ y
+ mamíferos
+ observadas
+ en
+ los
+ muestreos._
+
+|Nombre Común|Nombre Científico|Categoría IUCN|Individuos|
+|---|---|---|---|
+|Quetrunovolador|_Tachyerespteneres_|LeastConcern|2|
+|Yeco|_Phalacrocoraxbrasilianus _|LeastConcern|1|
+|CormoránImperial|_Phalacrocorax atriceps _|LeastConcern|2|
+|LoboMarinoComún|_Otariaflavescens _|LeastConcern|2|
+
+_Fuente:
+ EC
+ IUCN:
+ Estado
+ de
+ conservación
+ según
+ IUCN
+ (http://www.iucnredlist.org)_
+
+Se
+ realiza
+ una
+ track
+ de
+ navegación
+ por
+ el
+ borde
+ costero
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ donde
+ es
+posible
+ observar
+ sustrato
+ rocoso;
+ respecto
+ de
+ la
+ macrofauna
+ del
+ sector
+ se
+ identifico
+ ejemplares
+ del
+Phyllum
+ Echinodermata,
+ genero
+ Asteroridea,
+ estrellas
+ de
+ mar
+ ( _Comasteria
+ lurida_ ),
+ y
+ especies
+ del
+genero _Echinoidea_ _Pseudechinus
+ magellanicus_ (Temnopleuridae), _Arbacia
+ dufresnei_ (Arbaciidae).
+(figura
+ 18)
+
+La
+ distribución
+ espacial
+ de
+ las
+ especies
+ de
+ aves
+ y
+ mamíferos
+ observadas
+ durante
+ la
+ ruta
+ de
+ navegación
+se
+ muestra
+ en
+ la
+ figura
+ 19.
+
+_Figura
+ 19.
+ Distribución
+ de
+ avistamientos_
+
+Quetro
+ No
+ Volador
+ ( _Tachyeres
+ pteneres)_
+
+_Cormorán
+ Imperial
+ (Phalacrocorax
+
+ atriceps)_ Yeco
+ ( _Phalacrocorax
+ brasilianus)_
+
+CLASE
+ MAMMALIA
+De
+ acuerdo
+ a
+ la
+ bibliografía
+ existente,
+ en
+ el
+ área
+ de
+ estudio
+ existen
+ alrededor
+ de
+ 20
+ especies,
+agrupadas
+ en
+ siete
+ familias,
+ concentradas
+ en
+ 2
+ órdenes.
+ El
+ orden
+ Carnívora
+ se
+ encuentra
+ representado
+por
+ las
+ familias
+ Pinnipedia
+ y
+ Mustelidae.
+ Orden
+ Cetacea
+ representado
+ por
+ cinco
+ familias:
+Eschrichtiidae,
+ Balaenopteridae,
+ Physeteridae,
+ Phocoenidae
+ y
+ Delphinidae.
+
+_Tabla
+ 25.
+ Especies
+ mamíferos
+ observadas
+ en
+ los
+ muestreos._
+
+|Nombre Común|Nombre Científico|Categoría IUCN|Individuos|
+|---|---|---|---|
+|LoboMarinoComún|_Otariaflavescens _|LeastConcern|2|
+
+_Fuente:
+ EC
+ IUCN:
+ Estado
+ de
+ conservación
+ según
+ IUCN
+ (http://www.iucnredlist.org)_
+
+TIPO
+ DE
+ SUSTRATO
+La
+ filmación
+ submarina
+ permitió
+ identificar
+ sólo
+ sustrato
+ rocoso,
+ con
+ gran
+ número
+ de
+ conchillas
+ en
+ la
+superficie
+ de
+ las
+ rocas.
+ Esto
+ podría
+ estar
+ relacionado
+ con
+ las
+ estrellas
+ de
+ mar
+ encontradas,
+ puesto
+ que
+de
+ acuerdo
+ a
+ Häussermann
+ &
+ Försterra
+ (2009),
+ uno
+ de
+ sus
+ principales
+ alimentos
+ lo
+ constituyen
+ los
+choritos
+ ( _Mytilus
+ chilensis_ ).
+
+FAUNA
+ BENTÓNICA
+La
+ identificación
+ y
+ caracterización
+ de
+ fauna
+ bentónica
+ se
+ hacía
+ a
+ medida
+ que
+ la
+ filmación
+ estaba
+ en
+curso,
+ mientras
+ la
+ embarcación
+ avanzaba.
+ Ello
+ no
+ permitió
+ establecer
+ una
+ superficie
+ (el
+ recorrido
+ era
+lineal,
+ no
+ un
+ barrido),
+ razón
+ por
+ lo
+ cual
+ no
+ se
+ determinó
+ densidad,
+ ni
+ índice
+ de
+ diversidad
+ de
+ Shannon
+&
+ Wienner
+ ni
+ de
+ Equitatividad
+ de
+ Pielou
+ (J’).
+
+El
+ análisis
+ del
+ registro
+ visual
+ evidenció
+ una
+ moderada
+ riqueza
+ de
+ especies
+ en
+ la
+ transecta.
+Dentro
+ de
+ las
+ especies
+
+ fue
+ posible
+ determinar
+ ejemplares
+ de:
+
+**Phyllum
+ Annelida** :
+ se
+ observó
+
+ la
+ presencia
+
+ de
+ abundantes
+ tubos
+ de
+ Polychaeta.
+
+**Phyllum
+ Cnidaria:** se
+ identificaron
+ varios
+ ejemplares
+ (sobre
+ 50)
+ de
+ la
+ especie _Primnoella
+ chilensis_
+(Gorgonacea:
+ Primnoidae).
+
+**Phyllum
+ Chordata:** Se
+ determina
+ presencia
+ de
+ 8
+ individuos
+ de _Pinguipes
+ chilensis_ (Perciformes:
+Pinguipedidae).
+
+**Phyllum
+ Echinodermata:** se
+ identificaron
+ ejemplares
+ de
+ la
+ clase
+ Echinoidea,
+
+ sobre
+ 30
+ ejemplares
+ de
+_Pseudechinus
+ magellanicus_ (Temnopleuridae),
+ 7
+ de _Arbacia
+ dufresnei_ (Arbaciidae)
+ y
+ un
+ ejemplar
+indeterminado.
+
+ De
+ la
+ clase
+ Asteroidea,
+ 14
+ organismos
+ no
+ determinados
+ (posiblemente _Porania_
+_antárctica_ )
+ y
+ sobre
+ 40
+ de _Cosmasteria
+ lurida_ (Asteriidae).
+
+**Phyllum
+ Mollusca:** se
+ observaron
+ ejemplares
+ de
+ la
+ clase
+ Bivalvia,
+
+ varios
+ ejemplares
+ pertenecientes
+ a
+la
+ familia
+ Mytilidae.
+
+ De
+ la
+ clase
+ Gastropoda
+ de
+ identificaron
+ ejemplares _Crepidula_ sp
+(Archaeogastropoda:
+ Calyptraeidae).
+
+_Crepidula_ sp. Ejemplares
+ de
+ la
+ familia _Mytilidae_
+
+Clase
+ Asteroidea:
+ Comasteria
+ lurida;
+ clase
+ Echinoidea:
+ Arbacia
+ drufessnei,
+ Pseudoechinus
+ magellanicus, _Loxechinus
+ albus_
+
+Clase
+ Asteroidea:
+ Ponaria
+ antarctica
+
+_Primnoella
+
+ chilensis_
+
+_Tabla
+ 26_ .
+ Especies
+ de
+ fauna
+ marina,
+ criterios
+ de
+ protección
+
+|Nombre común|Nombre Científico|EC IUCN|
+|---|---|---|
+|Erizo|_Loxechinusalbus_|Nodata|
+|Erizo|_Arbaciadrufessnei_|Nodata|
+|Erizo|_Pseudiechinusmagellanicus_|Nodata|
+|Crepidula|_Crepidulasp._|Nodata|
+|Choritos|_Mitylussp. _|Nodata|
+|Látigodemar|_Primnoellachilensis_|Nodata|
+|Estrellademar|_Comasterialurida_|Nodata|
+|Estrellademar|_Poraniaantarctica_|Nodata|
+
+El
+ registro
+ realizado
+ por
+ el
+ borde
+ costero
+ fue
+ entre
+ los
+ 3
+ y
+ 15
+ m
+ de
+ profundidad.
+
+El
+ análisis
+ integrado
+ de
+ cada
+ componente
+ dentro
+ del
+ área
+ de
+ influencia
+ es
+ explicado
+ en
+ detalle
+ en
+ las
+siguientes
+ puntos,
+ específicamente
+ en
+ el
+ literal
+ b
+ del
+ artículo
+ 11.
+
+**b.2.
+ La
+ ubicación
+ del
+ proyecto
+ o
+ actividad
+ y,
+ en
+ caso
+
+ de
+ corresponder,
+ de
+ sus
+ principales
+ partes,**
+**obras
+ o
+ acciones.**
+La
+ totalidad
+ del
+ proyecto,
+ incluidas
+ sus
+ partes,
+ obras
+ o
+ acciones
+ se
+ desarrollaran
+ en
+ la
+ comuna
+ de
+Cisnes,
+ Provincia
+ de
+ Aisén,
+ Décimo
+ Primera
+ región
+ de
+ Aysen,
+ la
+ superficie
+ directa
+ corresponde
+ al
+ área
+concesionada
+ de
+ 2,73
+ hás.
+
+Los
+ tracks
+ de
+ navegación
+ que
+ son
+ utilizados
+ regularmente
+ por
+ las
+ embarcaciones
+ comerciales
+ y
+ de
+turismo
+ en
+ la
+ región
+ de
+ Aysén.
+ Se
+ puede
+ observar
+ que
+ las
+ rutas
+ de
+ navegación
+ a
+ partir
+ del
+ puerto
+ de
+Melinka,
+ se
+ realizan
+ principalmente
+ por
+ el
+ Canal
+ Moraleda
+ -­‐
+ incluso
+ saliendo
+ a
+ mar
+ abierto
+ hacia
+ el
+Océano
+ Pacífico
+ para
+ el
+ ingreso
+ de
+ naves
+ a
+ zonas
+ como
+ Caleta
+ Tortel
+ y
+ en
+ rumbo
+ a
+ la
+ región
+ de
+Magallanes
+ -­‐
+ para
+ las
+ naves
+ mayores
+ y
+ de
+ turismo
+ para
+ acceder
+ a
+ las
+ principales
+ áreas
+ urbanas
+ de
+ la
+región,
+ como
+ Puerto
+ Aguirre,
+ Puerto
+ Cisnes,
+ Puerto
+ Chacabuco;
+ otros
+ puntos
+ de
+ conectividad
+ como
+Puerto
+ Gala,
+ Puerto
+ Gaviota
+ y
+ por
+ supuesto
+ hacia
+ el
+ destino
+ turístico
+ más
+ importante
+ de
+ acceso
+marítimo
+ en
+ la
+ región
+ como
+ es
+ Laguna
+ San
+ Rafael
+ y
+ Estero
+ Quitralco.
+ Embarcaciones
+ más
+ pequeñas
+prefieren
+ sin
+ embargo
+ la
+ navegación
+ por
+ canales
+ interiores
+ como
+ los
+ canales
+ Pérez
+ Norte
+ y
+ Pérez
+ Sur.
+
+Las
+ rutas
+ marítimas
+ posibles
+ de
+ seguir
+ para
+ acceder
+ al
+ centro
+ de
+ cultivo
+ serán
+ desde
+ Quellón
+ a
+ través
+del
+ Golfo
+ Corcovado,
+ pasando
+ por
+ Melinka,
+ Canal
+ Moraleda,
+ ingresando
+ ya
+ sea
+ por
+ Canal
+ Jacaf
+ al
+ canal
+Puyuhuapi,
+ o
+ desde
+ el
+ moraleda
+ ingresando
+ al
+ canal
+ Puyuhuapi.
+ Desde
+ el
+ sur
+ las
+ vías
+ de
+ acceso
+ de
+Puerto
+ Chacabuco,
+ Aysen
+ e
+ incluso
+ desde
+ Puerto
+ Aguirre,
+ las
+ vías
+ de
+ acceso
+ es
+ a
+ través
+ del
+ fiordo
+ de
+Aysen,
+ Canal
+ Pilcomayo,
+ canal
+ ferronave
+ al
+ canal
+ Puyuhuapi.
+
+_Respecto
+ de
+ sus
+ principales
+ partes,
+ obras
+ y
+ acciones
+ se
+ detallan
+ en
+ el
+ capitulo
+
+ 1
+ de
+ la
+ DIA._
+
+**b.3.
+ En
+ caso
+ de
+ corresponder,
+ la
+ ubicación
+ y
+ cuantificación
+ de
+ los
+ recursos
+ naturales
+ renovables
+ a**
+**extraer
+ o
+ explotar
+ por
+ el
+ proyecto
+ o
+ actividad
+ para
+ satisfacer
+ sus
+ necesidades.**
+Dada
+ la
+ naturaleza
+ del
+ proyecto,
+ este
+ no
+ considera
+ extraer
+ o
+ explotar
+ recursos
+ naturales
+ renovables.
+
+**b.4.
+ Las
+ emisiones
+ del
+ proyecto
+ o
+ actividad.**
+Las
+ principales
+ emisiones
+ del
+ proyecto
+ se
+ describen
+ en
+ detalle
+ en
+ los
+ puntos
+ 1.5
+ Etapa
+ de
+ construcción,
+1.6
+ Etapa
+ de
+ operación
+ y
+ en
+ el
+ presente
+ capítulo
+ referido
+ al
+ artículo
+ 11
+ de
+ la
+ Ley.
+
+**b.5.
+ La
+ cantidad
+ y
+ manejo
+ de
+ residuos,
+ productos
+ químicos
+ y
+ otras
+ sustancias
+ que
+ puedan
+ afectar
+ el**
+**medio
+ ambiente.**
+Las
+ principales
+ emisiones
+ del
+ proyecto
+ se
+ describen
+ en
+ detalle
+ en
+ los
+ puntos
+ 1.5
+ Etapa
+ de
+ construcción,
+1.6
+ Etapa
+ de
+ operación
+ y
+ en
+ el
+ presente
+ capítulo
+ referido
+ al
+ artículo
+ 11
+ de
+ la
+ Ley.
+
+**b.6.
+ En
+ caso
+ que
+ el
+ proyecto
+ o
+ actividad
+ se
+ emplace
+
+ en,
+ o
+ en
+ las
+ cercanías
+ de
+ tierras
+ indígenas,**
+**áreas
+ de
+ desarrollo
+ indígena
+ o
+ pueblos
+ indígenas,
+
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ deberá**
+
+**contener
+ los
+ antecedentes
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ susceptibilidad
+ de
+ afectación
+ a
+ dichos**
+**pueblos
+ localizados
+ en
+ el
+ área
+ en
+ que
+ se
+ desarrollará
+ el
+ proyecto
+ o
+ actividad.**
+Respecto
+ del
+ presente
+ punto,
+ se
+ emplaza
+ en
+ Seno
+ Ventisquero
+ al
+ noreste
+ de
+ Punta
+ Cesari,
+aproximadamente
+ a
+ 18
+ km
+ al
+ suroeste
+ de
+ Puerto
+ Puyuhuapi
+ y
+ a
+ 26
+ km
+ al
+ norte
+ de
+ puerto
+ Cisnes,
+ a
+ 68
+km
+ al
+ norte
+ de
+
+ Puerto
+ Gaviota.
+
+El
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+ tierra,
+ por
+ lo
+ que
+ la
+ implementación
+ de
+ este
+ no
+ interferirá
+con
+ la
+ componente
+ suelo
+ y
+ por
+ ende
+ no
+ estará
+ afectando
+ el
+ desarrollo
+ de
+ actividades
+ indígenas,
+ de
+ la
+misma
+ manera,
+ de
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ por
+ la
+ Subsecretaría
+ de
+ Pesca
+ en
+ la
+ región
+de
+ Aysén
+ hay
+ solo
+ un
+ área
+ costera
+ marina
+ de
+ pueblos
+ originarios
+ (ECMPO),
+ ubicada
+ en
+ la
+ isla
+ Traiguen
+solicitada
+ por
+ la
+ comunidad
+ indígena
+ Nahuelquín
+ Delgado,
+ la
+ concesión
+ se
+ ubica
+ a
+ más
+ de
+ 130
+ km
+ al
+norte
+ de
+ esta
+ área.
+ Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ se
+ cuenta
+ también
+ con
+ alguna
+ información
+ acerca
+ de
+ la
+tramitación
+ de
+ una
+ nueva
+ solicitud
+ de
+ ECMPO
+ en
+ la
+ localidad
+ de
+ Melinka,
+ sin
+ embargo,
+ al
+ buscar
+mayores
+ antecedentes
+ en
+ la
+ página
+ web
+ oficial
+ de
+ Subpesca
+ y
+ CONADI,
+ no
+ se
+ logró
+ dar
+ con
+información
+ de
+ detalle
+ de
+ esta
+ solicitud
+ por
+ lo
+ que
+ se
+ estima
+ que
+ estaría
+ en
+ sus
+ etapas
+ más
+ tempranas
+de
+ tramitación.
+ El
+ centro
+ de
+ cultivo
+ se
+ encuentra
+ a
+ más
+ de
+ 100
+ km
+ al
+ sureste
+ de
+ la
+ localidad
+ de
+Melinka,
+ por
+ lo
+ que
+ se
+ estima
+ que
+ las
+ operaciones
+ del
+ mismo
+ no
+ afectará
+ dicha
+ solicitud.
+
+**b.7.
+ Cualquier
+ otra
+ información
+ ambiental
+ que
+ el
+ titular
+ estime
+ pertinente.**
+A
+ continuación
+ se
+ trata
+ en
+ detalle
+ los
+ literales
+ del
+ artículo
+ 11
+ de
+ la
+ Ley:
+
+**Art.
+ 11,
+ Ley
+ 19.300
+ y
+ su
+ modificación
+ Ley
+ 20.417
+ (artículo
+ 12
+ bis
+ b)**
+Los
+ proyectos
+ o
+ actividades
+ enumerados
+ en
+ el
+ artículo
+ precedente
+ requerirán
+ la
+ elaboración
+ de
+ un
+Estudio
+ de
+ Impacto
+ Ambiental,
+ si
+ generan
+ o
+ presentan
+ a
+ lo
+ menos
+ uno
+ de
+ los
+ siguientes
+ efectos,
+características
+ o
+ circunstancias:
+
+**a)** **Riesgo
+ para
+ la
+ salud
+ de
+ la
+ población,
+ debido
+ a
+ la
+ cantidad
+ y
+ calidad
+ de
+ efluentes,
+ emisiones
+ o**
+
+**residuos;**
+Las
+ principales
+ emisiones
+ que
+ genera
+ el
+ proyecto
+ son
+ las
+ siguientes:
+
+-
+ Emisiones
+ atmosféricas
+
+-
+ Residuos
+ líquidos
+
+-
+ Residuos
+ sólidos
+
+ **Emisiones
+ atmosféricas**
+**Etapa
+ de
+ construcción**
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ en
+ la
+ etapa
+ de
+ construcción
+ del
+ proyecto.
+
+ Sólo
+ se
+ puede
+considerar
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+ trabajarán
+ en
+ la
+ instalación
+ de
+ la
+ infraestructura
+ del
+centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+ móviles
+ y
+ autónomas.
+
+**Etapa
+ de
+ operación**
+
+ Ruido
+
+ Gases
+ producto
+ de
+ la
+ combustión
+ en
+ motores
+ fuera
+ de
+ borda
+ y
+ en
+ los
+ generadores
+ de
+electricidad.
+
+Las
+ fuentes
+ de
+ emisión
+ de
+ ruido
+ durante
+ la
+ etapa
+ de
+ operación
+ corresponderán
+ a
+ los
+ motores
+ fuera
+ de
+borda,
+ los
+ generadores
+ eléctricos
+
+ y
+ los
+ blower
+ utilizados
+ para
+
+ alimentación.
+
+Los
+ motores
+ fuera
+ de
+ borda
+ GLP
+ (de
+ 50
+ HP)
+ generan
+ un
+ nivel
+ de
+ ruido
+ inferior
+ a
+
+ los
+ 85
+ dbA
+ (nivel
+ de
+presión
+ sonora
+ de
+ los
+ motores
+ bencineros),
+ durante
+ la
+ actividad
+ diurna
+ en
+ forma
+ intermitente.
+ No
+obstante,
+ con
+ el
+ uso
+ de
+ GLP
+ como
+ combustible,
+ los
+ motores
+ fuera
+ de
+ borda
+ trabajarán
+ de
+ manera
+ más
+silenciosa.
+ La
+ emisión
+ de
+ ruido
+ se
+ generará
+ durante
+ la
+ actividad
+ diurna,
+ en
+ forma
+ intermitente.
+
+En
+ el
+ interior
+ del
+ Artefacto
+ Naval
+ se
+ producirá
+ un
+ promedio
+ de
+ emisión
+ equivalente
+ del
+ orden
+ de
+ los
+ 79
+dBA,
+ lo
+ que
+ da
+ cumplimiento
+ al
+ Artículo
+ 74
+ del
+ D.S.
+ No
+ 594/1999.
+ Este
+ nivel
+ de
+ ruido
+ se
+ generará
+ en
+horario
+ diurno
+ y
+ en
+ forma
+ constante.
+ No
+ obstante,
+ las
+ unidades
+ generadoras
+ de
+ ruido
+ se
+ encontrarán
+ubicadas
+ en
+ zonas
+ aisladas
+ acústicamente
+ dentro
+ del
+ artefacto
+ naval,
+ con
+ lo
+ que
+ se
+ logrará
+ reducir
+ la
+emisión
+ de
+ ruido
+ en
+ dichas
+ salas.
+ Por
+ lo
+ demás,
+ los
+ trabajadores
+ contarán
+ con
+ protectores
+ auditivos
+ en
+la
+ sala
+ donde
+ se
+ ubican.
+
+ Gases
+Se
+ generarán
+ gases
+ producto
+ de
+ la
+ operación
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+ y
+ de
+ los
+ generadores
+ de
+electricidad.
+ El
+ proyecto
+ considera
+ el
+ uso
+ de
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ combustible
+ que
+ genera
+principalmente
+ vapor
+ de
+ agua
+ y
+ reduce
+ en
+ un
+ 90%
+ las
+ emisiones
+ de
+ CO 2 en
+ comparación
+ con
+ el
+ uso
+ de
+bencina.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+ tendrán
+ una
+ duración
+ de
+ 8
+ horas
+ diarias,
+ pero
+ su
+utilización
+ será
+ en
+ forma
+ intermitente.
+
+El
+ centro
+ de
+ engorda
+ contará
+ con
+ generadores,
+ los
+ que
+ serán
+ una
+ fuente
+ fija
+ de
+ emisión
+ constante.
+
+Cabe
+ indicar
+ que
+ se
+ tendrá
+ especial
+ cuidado
+ en
+ la
+ mantención
+ de
+ estos
+ equipos,
+ con
+ la
+ finalidad
+ de
+mantener
+ la
+ eficiencia
+ de
+ consumo
+ y
+ permitir
+ una
+ combustión
+ óptima
+ en
+ los
+ motores
+ para
+ producir
+ la
+mínima
+ cantidad
+ de
+ gases
+ y
+ residuos,
+ tanto
+ en
+ los
+ generadores
+ como
+ en
+ los
+ motores
+ fuera
+ de
+ borda.
+
+ **Residuos
+ líquidos**
+**Etapa
+ de
+ Construcción**
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ construcción
+ en
+ general
+ NO
+ generará
+ residuos,
+ productos
+ químicos
+ u
+ otras
+sustancias
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+ Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+instalación
+ y
+ fondeo
+ de
+ las
+ plataformas
+ de
+ cultivo,
+ sistema
+ de
+ anclaje
+ y
+ fondeo
+ de
+ los
+ pontones
+ serán
+retirados
+ por
+ las
+ mismas
+ empresas
+ de
+ servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+de
+ que
+ ninguno
+ de
+ estos
+ elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+De
+ la
+ misma
+ manera
+ los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+las
+ aguas
+ servidas,
+ las
+ embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ fondeo
+ e
+ instalación
+ de
+ las
+estructuras
+ de
+ cultivo
+ cuentan
+ con
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+homologadas
+ y
+ aprobadas
+ por
+ la
+ autoridad
+ marítima.
+
+**Etapa
+ de
+ operación**
+
+ Aguas
+ servidas
+ domésticas
+ (procedentes
+ de
+ baños,
+ lavatorios,
+ duchas
+ y
+ cocina)
+
+Para
+ el
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ se
+ contará
+ con
+ una
+ planta
+ de
+ tratamiento
+ cuyo
+ efluente
+cumplirá
+ con
+ las
+ normas
+ destinadas
+ a
+ la
+ evacuación,
+ tratamiento
+ y
+ disposición
+ final
+ de
+ desagües
+ y
+aguas
+ servidas
+ a
+ cursos
+ naturales.
+ La
+ planta
+ referencial
+ a
+ implementar
+ en
+ el
+ centro
+ cumplirá
+ con
+ la
+Resolución
+ OMI
+ MEPC
+ 159(55).
+ De
+ esta
+ forma,
+ se
+ estará
+ cumpliendo
+ con
+ las
+ prescripciones
+establecidas
+ en
+ el
+ artículo
+ No
+ 95
+ del
+ “Reglamento
+ para
+ el
+ Control
+ de
+ la
+ Contaminación
+ Acuática”,
+ en
+cuanto
+ a
+ que
+ el
+ efluente
+ a
+ descargar
+ no
+ contendrá
+ sólidos
+ flotantes
+ visibles
+ y
+ no
+ ocasionará
+ la
+decoloración
+ de
+ las
+ aguas
+ circundantes.
+ Junto
+ con
+ esto
+ se
+ establece
+ que
+ la
+ planta
+ de
+ tratamiento
+ ha
+sido
+ autorizada
+ por
+ el
+ Servicio
+ de
+ Inspección
+ de
+ Naves
+ dependiente
+ de
+ la
+ DIRECTEMAR.
+
+Se
+ adjunta
+ certificado
+ de
+ homologación
+ en
+ el **anexo
+ 2** .
+
+ Desinfectantes
+Como
+ desinfectante,
+ el
+ Titular
+ utilizará
+ productos
+ autorizados
+ para
+ este
+ fin
+ de
+ acuerdo
+ a
+ la
+ normativa
+vigente.
+ Las
+ concentraciones
+ serán
+ aquellas
+ que
+ señale
+ el
+ fabricante
+ según
+ el
+ producto
+ elegido.
+ Para
+ la
+desinfección
+ de
+ botas
+ y
+ superficies
+ éste
+ se
+ realizará
+ por
+ medio
+ de
+ aspersores.
+ Los
+ maniluvios,
+ estarán
+en
+ el
+ pontón
+ flotante,
+ embarcaciones
+ y
+ al
+ ingreso
+ del
+ módulo
+ de
+ cultivo
+ y
+ serán
+ necesarios
+ para
+ el
+ caso
+de
+ manipulación
+ de
+ productos
+ que
+ requieran
+ desinfección.
+
+Para
+ las
+ manos
+ se
+ emplea
+ alcohol
+ gel,
+ el
+ que
+ se
+ encuentra
+ envasado
+ en
+ bolsas
+ que
+ se
+ ubican
+ dentro
+ de
+un
+ dispensador.
+ El
+ gel
+ se
+ evapora
+ al
+ momento
+ de
+ utilizarlo.
+
+ **Residuos
+ sólidos**
+**Etapa
+ de
+ construcción**
+Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+ instalación
+ y
+ fondeo
+ de
+ las
+ plataformas
+ de
+ cultivo,
+sistema
+ de
+ anclaje
+ y
+ fondeo
+ de
+ los
+ pontones
+ serán
+ retirados
+ por
+ las
+ mismas
+ empresas
+ de
+ servicio
+encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+ estos
+ elementos
+ residuales
+quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ ser
+dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+**Etapa
+ de
+ operación**
+En
+ la
+ etapa
+ de
+ operación
+ se
+ identifican
+ los
+ siguientes
+ residuos
+ sólidos:
+
+ü Mortalidad
+ a
+ ensilaje
+ü Alimento
+ no
+ consumido
+ü Fecas
+ü Bolsas
+ de
+ alimento
+ü Residuos
+ sólidos
+ domésticos
+ü Residuos
+ lubricantes
+
+**Mortalidad
+ a
+ ensilaje:** la
+ mortalidad
+ será
+ recuperada
+ desde
+ las
+ jaulas
+ ya
+ sea
+ mediante
+ un
+ sistema
+ de
+extracción
+ de
+ mortalidad
+ manual,
+ o
+ a
+ través
+ de
+ un
+ sistema
+ de
+ extracción
+ de
+ Mortalidad
+ mediante
+ Lift
+
+Up,
+ llamado
+ Mortex,
+ como
+ parte
+ de
+ una
+ mejora
+ tecnológica
+ al
+ incorporarse
+ al
+ sistema
+ productivo
+ y
+que
+ consiste
+ en
+ la
+ extracción
+ de
+
+ dicha
+ Mortalidad
+ a
+ través
+ de
+ manguera
+ de
+ succión,
+
+ que
+ sube
+ por
+dentro
+ de
+ la
+ jaula,
+ y
+ su
+ objetivo
+ es
+ disminuir
+ las
+ horas
+ de
+ buceo
+ en
+ la
+ extracción
+ de
+ mortalidad
+ en
+jaulas
+ de
+ cultivo
+ en
+ mar.
+ El
+ sistema
+ se
+ puede
+ programar
+ en
+ forma
+ automática
+ según
+ horarios
+ o
+simplemente
+ se
+ activa
+ manualmente.
+ Además
+ permite
+ extracción
+ de
+ altos
+ volúmenes
+ de
+ biomasa
+ en
+caso
+ de
+ mortalidad
+ masiva
+ y
+ mejora
+ condición
+ sanitaria
+ de
+ la
+ jaula
+ al
+ extraer
+ mortalidad
+ fresca.
+ Se
+adjunta
+ Manual
+ de
+ Operación
+ Sistema
+ Mortex,
+ Lift
+ Up.
+ Se
+ adjunta
+ ficha
+ técnica
+ en
+ el **anexo
+ 2** .
+ Los
+residuos
+ serán
+ dispuestos
+ en
+ bins,
+ para
+ el
+ posterior
+ ensilaje
+ de
+ ésta.
+ Si
+ bien
+ el
+ ensilaje
+ posee
+ una
+consistencia
+ de
+ pasta
+ y
+ no
+ de
+ sólido,
+ se
+ catalogará
+ como
+ tal
+ producto
+ de
+ su
+ comportamiento
+ y
+ el
+formato
+ de
+ traslado
+ (contenedor).
+ La
+ generación
+ de
+ ensilaje
+ está
+ ligada
+ directamente
+ a
+ la
+ etapa
+ del
+ciclo
+ productivo
+ en
+ la
+ que
+ se
+ encuentre
+ el
+ centro
+ de
+ cultivo,
+ se
+ estima
+ una
+ producción
+ de
+ mortalidad
+de
+ 264,6ton/ciclo,
+ que
+ representa
+ un
+ 15%
+ acumulado
+ de
+ la
+ producción
+ anual.
+ La
+ mortalidad
+ generada
+se
+ almacenará
+ en
+ el
+ sistema
+ de
+ ensilaje,
+ una
+ vez
+ ensilada
+ se
+ retirará
+ una
+ vez
+ al
+ mes
+ o
+ según
+requerimiento,
+ por
+ vía
+ marítima
+ o
+ terrestre
+ hacia
+ empresas
+ reductoras
+ autorizadas.
+
+En
+ casos
+ de
+ contingencia
+ se
+ dispondrá
+ en
+ receptáculos
+ con
+ tapa
+ proporcionados
+ por
+ la
+ misma
+ empresa
+que
+ realizará
+ su
+ retiro.
+
+Los
+ envases
+ de
+ ácido
+ fórmico
+ se
+ almacenarán
+ adecuadamente
+ en
+ una
+ bodega
+ del
+ Artefacto
+ Naval
+ del
+centro.
+ Una
+ vez
+ estos
+ vacíos,
+ se
+ almacenarán
+ en
+ una
+ bodega
+ dentro
+ del
+ pontón
+ específicamente
+ para
+estos
+ residuos.
+ Posteriormente,
+ los
+ envases
+ vacíos
+ serán
+ dispuestos
+ por
+ empresas
+ autorizadas.
+ El
+titular
+ se
+ compromete
+ a
+ buscar
+ la
+ reutilización
+ de
+ estos
+ envases
+ y
+ ser
+ devueltos
+ al
+ proveedor
+ para
+ su
+reutilización.
+
+**Pérdida
+ de
+ alimento:** El
+ efecto
+ producido
+ por
+ las
+ corrientes
+ en
+ el
+ área
+ de
+ las
+ jaulas,
+ llevará
+ un
+ margen
+de
+ pérdida
+ de
+ este
+ tipo
+ de
+ insumos.
+ Del
+ alimento
+ entregado
+ a
+ los
+ peces,
+ un
+ porcentaje
+ no
+ es
+consumido
+ por
+ éstos,
+ representando
+ el
+ mayor
+ aporte
+ de
+ residuos
+ sólidos
+ del
+ proceso
+ de
+ engorda,
+ que
+de
+ acuerdo
+ a
+ Beveridge
+ (1987)
+ puede
+ llegar
+ a
+ ser
+ el
+ 20%
+ del
+ alimento
+ total
+ suministrado;
+ sin
+ embargo,
+gracias
+ a
+ la
+ alta
+ tecnología
+ aplicada
+ a
+ esta
+ faena
+ mediante
+ la
+ utilización
+ del
+ sistema
+
+ de
+ alimentación
+automático
+ y
+ el
+ sistema
+ de
+ monitoreo
+ mediante
+ cámaras
+ individuales,
+ la
+ perdida
+ de
+ alimento
+ tiende
+ a
+ser
+ menor
+ al
+ 3,0%,
+ por
+ tanto
+ se
+ tendría
+ que
+ del
+ total
+ suministrado
+ en
+ régimen
+ (3.714,6
+ ton)
+ sólo
+
+ 111,4
+ton/ciclo
+ de
+ producción,
+ se
+ perderían.
+ Si
+ consideramos
+ que
+ el
+ alimento
+ tiene
+ un
+ 7%
+ de
+ humedad
+ en
+promedio,
+ se
+ puede
+ establecer
+ que
+ la
+ pérdida
+ corresponde
+ a
+
+ 103,6
+ ton
+ alimento
+ (peso
+ seco)/ciclo.
+
+**Fecas:** El
+ presente
+ proyecto
+ hace
+ uso
+ de
+ alimento
+ extruido
+ de
+ alta
+ digestibilidad,
+ por
+ lo
+ que
+ se
+ espera
+que
+ el
+ porcentaje
+ eliminado
+ por
+ concepto
+ de
+ fecas
+ no
+ supere
+ el
+ 10%
+ del
+ total
+ ingerido
+ (90%
+ de
+digestibilidad).
+ Sin
+ perjuicio
+ de
+ ello,
+ de
+ acuerdo
+ a
+ lo
+ planteado
+ por
+ Cromey
+ et
+ al
+ (2002),
+ la
+digestibilidad
+ del
+ alimento
+ es
+ en
+ torno
+ al
+ 85%
+ (valor
+ por
+ defecto
+ dado
+ en
+ el
+ software
+ DEPOMOD),
+ por
+tanto
+ si
+ se
+ considera
+ esta
+ digestibilidad
+ se
+ tiene
+ que
+ del
+ total
+ suministrado,
+ 3.714,6
+ ton,
+ (equivalente
+ a
+3.454,6
+ ton
+ base
+ peso
+ seco),
+ el
+ 3,0
+ %
+ es
+ eliminado
+ como
+ alimento
+ no
+ consumido
+ y
+ por
+ tanto
+ 3.3.50,9
+ton
+ peso
+ seco
+ es
+ ingerido,
+ luego,
+ el
+ 15%
+ del
+ total
+ ingerido
+ es
+ eliminado
+ al
+ ambiente
+ por
+ concepto
+ de
+fecas,
+ es
+ decir,
+ a
+ partir
+ del
+ primer
+ año
+ de
+ operación,
+ será
+ eliminado
+ una
+ cantidad
+ equivalente
+ a
+ 502,6
+ton
+ fecas/ciclo,
+ considerado
+ a
+ partir
+ del
+ peso
+ del
+ alimento.
+
+**Bolsas
+ de
+ alimento:** las
+ bolsas
+ de
+ alimento
+ serán
+ ordenadas,
+ acopiadas
+ y
+ retiradas
+ por
+ la
+ embarcación
+que
+ transporta
+ el
+ alimento
+ mensualmente
+ para
+ ser
+ entregadas
+ a
+ un
+ externo
+ para
+ su
+ reciclaje.
+
+**Residuos
+ Sólidos
+ Domésticos
+ (RSD):** Los
+ residuos
+ sólidos
+ domésticos
+ generados
+ en
+ la
+ etapa
+ de
+operación
+ del
+ proyecto
+ se
+ estiman
+ con
+ una
+ tasa
+ de
+ 0,7
+ kg/d/persona
+ y
+ que
+ representan
+ 7,0
+ kg/d.
+ ó
+2,55
+ ton/año,
+ aproximadamente.
+ Estos
+ residuos
+ serán
+ acumulados
+ en
+ contenedores,
+ claramente
+identificados,
+ con
+ tapa
+ y
+ en
+ su
+ interior
+ con
+ bolsas
+ de
+ plástico.
+ Posteriormente,
+ las
+ bolsas
+ con
+ residuos
+en
+ su
+ interior
+ son
+ trasladadas
+ en
+ una
+ embarcación
+ de
+ logística
+ permanente
+ del
+ centro
+ hacia
+ un
+ lugar
+de
+ disposición
+ autorizado.
+ La
+ frecuencia
+ de
+ retiro
+ será
+ según
+ requerimiento.
+
+**Residuos
+ de
+ Aceites
+ Lubricantes
+ Usados
+ (RESPELs):** Producto
+ de
+ la
+ utilización
+ de
+ aceites
+ lubricantes
+ en
+los
+ motores
+ del
+ centro,
+ se
+ generarán
+ residuos
+ que
+ serán
+ almacenados
+ en
+ recipientes
+ cerrados
+ y
+debidamente
+ etiquetados
+ e
+ identificados.
+ Se
+ tomarán
+ todas
+ las
+ precauciones
+ necesarias
+ para
+ prevenir
+su
+ inflamación
+ o
+ reacción,
+ entre
+ ellas,
+ la
+ separación
+ y
+ protección
+ frente
+ a
+ cualquier
+ fuente
+ de
+ riesgo,
+según
+ lo
+ establece
+ el
+ Artículo
+ 4
+ y
+ 6
+ del
+ D.S.
+ No148/04,
+ del
+ Ministerio
+ de
+ Salud.
+
+Las
+ personas
+ que
+ vayan
+ a
+ embarcar
+ o
+ desembarcar
+ los
+ residuos
+ peligrosos,
+ informarán
+ del
+ hecho
+ a
+ la
+autoridad
+ marítima
+ con
+ al
+ menos
+ veinticuatro
+ horas
+ de
+ anticipación,
+ cumpliendo
+ con
+ la
+ Circular
+Marítima
+ DGTM
+ y
+ MM
+ O-­‐32/11.
+ Estos
+ residuos
+ serán
+ trasladados
+ en
+ embarcaciones
+ de
+ la
+ logística
+ del
+centro
+ y
+ derivados
+ para
+ su
+ tratamiento
+ y
+ disposición
+ final
+ a
+ empresas
+ autorizadas.
+ Se
+ generarán
+ 190
+L/año,
+ aproximadamente,
+ de
+ aceites
+ lubricantes
+ usados.
+
+La
+ siguiente
+ tabla
+ detalla
+ los
+ residuos
+ sólidos
+ generados
+ por
+ el
+ proyecto,
+ con
+ sus
+ respectivos
+volúmenes,
+ tipo
+ de
+ manejo
+ y
+ disposición
+ final:
+
+|Etapa del<br>proyecto|Identificación del<br>residuo|Peligrosidad|Volumen de los<br>residuos|Tipo de manejo de los residuos<br>generados|Destino de los residuos<br>generados|
+|---|---|---|---|---|---|
+|Construcción<br>e instalación|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|No hay residuos en esta etapa ya que las estructuras de cultivo ingresaran armadas al centro de cultivo|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Bolsas vacías de<br>alimento<br>(polietileno) al<br>quinto ciclo de<br>operación|<br> <br>Nula|<br> <br>1,86 ton ciclo-1|Ensiladas para posteriormente<br>vía marítima ser entregadas a<br>un externo para reciclaje|<br>Devueltas la proveedor y/o<br>Reciclaje|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Mortalidad a<br>partir del primer<br>ciclo de<br>operación|<br>Baja|<br>264,6 ton/ciclo|<br>Retiro en bins|Sistema de ensilaje de<br>mortalidad|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Alimento no<br>consumido a del<br>primer ciclo<br>producción.|<br> <br>Baja|<br>111,4 ton peso<br>seco/ciclo|Soluciones tecnológicas para el<br>control de residuos, tales como,<br>la utilización del sistema de<br>alimentación simultanea y<br>sistema de monitoreo mediante<br>cámaras individuales|Consumo por fauna<br>acompañante (alimentos).<br>Al fondo marino por<br>sedimentación, transporte<br>por corrientes.<br>(alimentos y fecas)|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|<br>Fecas a partir del<br>primer ciclo<br>producción.|<br> <br>Baja|502,6<br> ton/ciclo.<br>Considerando el<br>peso seco del<br>alimento|502,6<br> ton/ciclo.<br>Considerando el<br>peso seco del<br>alimento|502,6<br> ton/ciclo.<br>Considerando el<br>peso seco del<br>alimento|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Operación|Residuos<br>domiciliarios<br>(Ton) al primer<br>ciclo de<br>operación.|<br> <br> <br>Baja|<br> <br>2,55 ton/año|<br> <br>Almacenados en bins|Retirados desde el centro por<br>barcazas hasta disponerlo en<br>los contenedores de basura<br>de vertedero Municipal o de<br>cualquier otro relleno<br>sanitarioautorizado.|
+
+**Residuos
+ Peligrosos**
+**Residuos
+ de
+ Aceites
+ Lubricantes
+ Usados
+ (Respels):** Producto
+ de
+ la
+ utilización
+ de
+ aceites
+ lubricantes
+ en
+los
+ motores
+ del
+ centro,
+ se
+ generarán
+ residuos
+ que
+ serán
+ almacenados
+ en
+ recipientes
+ cerrados
+ y
+debidamente
+ etiquetados
+ e
+ identificados.
+ Se
+ tomarán
+ todas
+ las
+ precauciones
+ necesarias
+ para
+ prevenir
+su
+ inflamación
+ o
+ reacción,
+ entre
+ ellas,
+ la
+ separación
+ y
+ protección
+ frente
+ a
+ cualquier
+ fuente
+ de
+ riesgo,
+según
+ lo
+ establece
+ el
+ Artículo
+ 4
+ y
+ 6
+ del
+ D.S.
+ No148/04,
+ del
+ Ministerio
+ de
+ Salud.
+
+Las
+ personas
+ que
+ vayan
+ a
+ embarcar
+ o
+ desembarcar
+ los
+ residuos
+ peligrosos,
+ informarán
+ del
+ hecho
+ a
+ la
+autoridad
+ marítima
+ con
+ al
+ menos
+ veinticuatro
+ horas
+ de
+ anticipación,
+ cumpliendo
+ con
+ la
+ Circular
+Marítima
+ DGTM
+ y
+ MM
+ O-­‐32/11.
+ Estos
+ residuos
+ serán
+ trasladados
+ en
+ embarcaciones
+ de
+ la
+ logística
+ del
+centro
+ y
+ derivados
+ para
+ su
+ tratamiento
+ y
+ disposición
+ final
+ a
+ empresas
+ autorizadas.
+ Se
+ generarán
+ 190
+L/año,
+ aproximadamente,
+ de
+ aceites
+ lubricantes
+ usados.
+
+Cualquier
+ otro
+ tipo
+ de
+ residuos,
+ como
+ baterías,
+ pilas,
+ envases
+ de
+ fármacos,
+ entre
+ otros,
+ se
+almacenaran
+ en
+ áreas
+ destinadas
+ para
+ ello
+ dentro
+ del
+ pontón
+ hasta
+ su
+ retiro
+ y
+ disposición
+ final
+ en
+lugares
+ de
+ disposición
+ de
+ residuos
+ industriales
+ autorizados.
+
+Los
+ envases
+ de
+ ácido
+ fórmico
+ se
+ almacenarán
+ adecuadamente
+ en
+ una
+ bodega
+ del
+ Artefacto
+ Naval
+ del
+centro.
+ Una
+ vez
+ estos
+ vacíos,
+ se
+ almacenarán
+ en
+ una
+ bodega
+ dentro
+ del
+ pontón
+ específicamente
+ para
+estos
+ residuos.
+ Posteriormente,
+ los
+ envases
+ vacíos
+ serán
+ devueltos
+ al
+ proveedor
+ y
+ dispuestos
+ por
+empresas
+ autorizadas.
+
+**Etapa
+ de
+ Abandono**
+En
+ caso
+ de
+ que
+ el
+ titular
+ defina
+ poner
+ cese
+ al
+ centro,
+ en
+ la
+ etapa
+ de
+ abandono
+ se
+ generarán
+ las
+siguientes
+ emisiones
+ y/o
+ residuos:
+
+-
+ Emisiones
+ atmosféricas
+
+-
+ Residuos
+ líquidos
+
+-
+ Residuos
+ sólidos
+
+ **Emisiones
+ atmosféricas**
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ en
+ la
+ etapa
+ de
+ abandono
+ del
+ proyecto.
+
+ Sólo
+ se
+ puede
+considerar
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+ trabajarán
+ en
+ el
+ desarme
+ y/o
+ traslado
+ de
+ la
+infraestructura
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+ móviles
+ y
+ autónomas.
+
+ **Residuos
+ líquidos**
+Los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+ las
+ aguas
+ servidas,
+ las
+embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ desarme
+ de
+ las
+ estructuras
+ de
+ cultivo
+ cuentan
+ con
+servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+ homologadas
+ y
+ aprobadas
+ por
+ la
+autoridad
+ marítima.
+
+ **Residuos
+ sólidos**
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ abandono
+ en
+ general
+ NO
+ generará
+ residuos,
+ productos
+ químicos
+ u
+ otras
+sustancias
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+ Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+desinstalación
+ de
+ las
+ plataformas
+ de
+ cultivo,
+ sistema
+ de
+ anclaje
+ serán
+ retirados
+ por
+ las
+ mismas
+empresas
+ de
+ servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+ estos
+elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ ser
+dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+Restos
+ de
+ materiales
+ que
+ serán
+ llevados
+ a
+ reutilización
+ o
+ a
+ vertedero
+ autorizado.
+
+**Con
+ los
+ antecedentes
+ ya
+ presentados,
+ es
+ posible
+ finalmente
+ concluir
+ que
+ el
+ proyecto
+ no
+ genera**
+**riesgos
+ para
+ la
+ salud
+ de
+ la
+ población
+ en
+ virtud
+ de
+ la
+ cantidad
+ y
+ tipo
+ de
+ residuos
+ generados
+ por
+ el**
+**proyecto.**
+
+**b)** **Efectos
+ adversos
+ significativos
+ sobre
+ la
+ cantidad
+ y
+ calidad
+ de
+ los
+ recursos
+ naturales**
+
+**renovables,
+ incluidos
+ el
+ suelo,
+ agua
+ y
+ aire**
+El
+ titular
+ reitera
+ que
+ el
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+ tierra
+ y
+ por
+ ende
+ se
+ estima
+ que
+ no
+afectará
+ los
+ recursos
+ naturales
+ renovables
+ en
+ el
+ suelo.
+ Respecto
+ del
+ recurso
+ aire,
+ quedó
+ establecido
+ en
+el
+ punto
+ anterior
+ que
+ las
+ emisiones
+ a
+ la
+ atmósfera
+ quedarán
+ confinadas
+ a
+ aquellas
+ correspondientes
+ al
+uso
+ de
+ motores
+ fuera
+ de
+ borda
+ equipados
+ con
+ motores
+ de
+ combustión
+ a
+ gas,
+ o
+ eventualmente
+ al
+generador
+ del
+ pontón,
+ emisiones
+ que
+ no
+ son
+ permanentes,
+ sino
+ que
+ esporádicas.
+
+Respecto
+ del
+ recurso
+ agua,
+ se
+ entrega
+ un
+ análisis
+ de
+ las
+ variables
+ consideradas
+ en
+ la
+ campaña
+ de
+terreno
+ para
+ los
+ estudios
+ de
+ corrientes
+ Eulerianas
+ realizado
+ por
+ 24
+ horas
+ en
+ cuadratura
+correspondientes
+ al
+ día
+ 04
+ de
+ julio
+ de
+ 2014
+ a
+ las
+ 13:00
+ horas
+ hasta
+ el
+ día
+ siguiente
+ a
+ las
+ 13:00
+ horas.
+
+Al
+ realizar
+ un
+ análisis
+ general
+ de
+ toda
+ la
+ columna
+ de
+ agua
+ medida,
+ se
+ puede
+ visualizar,
+ que
+ existe
+ un
+predominio
+ de
+ magnitudes
+ que
+ median
+ los
+ 5,4
+ cm/s,
+ en
+ toda
+ la
+ columna
+ de
+ agua,
+ descontando
+ la
+primera
+ capa.
+
+La
+ distribución
+ de
+ la
+ dirección
+ en
+ toda
+ la
+ columna
+ de
+ agua
+ no
+ presentó
+ una
+ tendencia
+ dominante
+distribuyendo
+ las
+ frecuencias
+ de
+ ocurrencia
+ en
+ todas
+ las
+ direcciones.
+ Los
+ intervalos
+ de
+ dirección
+ de
+ la
+corriente
+ que
+ estuvieron
+ más
+ representados
+ fueron
+ el
+ intervalo
+ Noroeste,
+ Oeste
+ con
+ un
+ 15,3
+ y
+ un
+15,1%
+ de
+ los
+ registros.
+ Fueron
+ seguidos
+ por
+ los
+ intervalos
+ Norte,
+ Sureste,
+ Suroeste
+ y
+ con
+ un
+ 13,2,
+ 13,2
+y
+ 12,7%
+ de
+ los
+ sucesos,
+ respectivamente.
+ El
+ intervalo
+ de
+ dirección
+ menos
+ frecuente
+ fue
+ el
+ Noreste,
+ con
+un
+ 8,7%
+ de
+ los
+ casos
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+
+Para
+ mayor
+ información
+ visualizar
+ el
+ informe
+ CPS
+ adjunto
+ en
+ el **anexo
+ 5** .
+
+Si
+ se
+ integra
+ la
+ profundidad
+ del
+ sector,
+ la
+ que
+ de
+ acuerdo
+ al
+ perfil
+ batimétrico,
+ la
+ profundidad
+ media
+ de
+la
+ concesión
+ fluctúan
+ en
+ torno
+ a
+ los
+ 80
+ metros,
+ se
+ puede
+ inferir
+ que
+ la
+ columna
+ de
+ agua
+ actuaría
+ como
+agente
+ dispersor
+ de
+ las
+ partículas
+ en
+ suspensión,
+ que
+ junto
+ con
+ la
+ implementación
+ del
+ sistema
+ de
+alimentación
+ simultánea
+ y
+ el
+ sistema
+ de
+ detección
+ de
+ pérdida
+ de
+ alimento
+ mediante
+ cámaras
+submarinas
+ individuales
+ por
+ cada
+ balsa,
+ permiten
+ minimizar
+ el
+ aporte
+ alóctono,
+ evitando
+ así,
+ la
+depositación
+ de
+ material
+ particulado
+ en
+ las
+ inmediaciones
+ del
+ centro
+ de
+ cultivo.
+ Por
+ otra
+ parte
+ el
+aporte
+ de
+ material
+ particulado
+ al
+ medio
+ marino
+ podría
+ causar
+ algún
+ efecto
+ sobre
+ el
+ sedimento
+ y
+bentos
+ asociado,
+ por
+ tanto,
+ las
+ condiciones
+ oceanográficas
+ del
+ sector
+ son
+ gravitantes
+ para
+ poder
+inferir
+ y/o
+ estimar
+ si
+ el
+ proyecto
+ no
+ cause
+ efectos
+ adversos
+ sobre
+ la
+ calidad
+ de
+ los
+ recursos
+ renovables
+y
+ su
+ capacidad
+ de
+ autodepuración.
+ Una
+ de
+ las
+ maneras
+ de
+ poder
+ conocer
+ estos
+ efectos
+ es
+ mediante
+modelos
+ predictivos
+ que
+ se
+ han
+ ido
+ desarrollando
+ y
+ que
+ forman
+ parte
+ de
+ la
+ literatura
+ disponible
+ para
+poder
+ predecir
+ algún
+ grado
+ de
+ impacto
+ sobre
+ el
+ bentos.
+ Uno
+ de
+ estos
+ modelos
+ corresponde
+ al
+propuesto
+ por
+ Findley
+ y
+ Watling
+ (1977),
+ el
+ que
+ predice
+ el
+ impacto
+ generado
+ en
+ el
+ bentos
+ en
+ base
+ al
+balance
+ entre
+ el
+ aporte
+ de
+ oxígeno
+ y
+ la
+ demanda
+ de
+ éste,
+ en
+ el
+ entendido
+ que
+ ante
+ la
+ eventualidad
+ de
+que
+ la
+ demanda
+ supere
+ la
+ oferta
+ se
+ generarán
+ condiciones
+ anaeróbicas
+ del
+ sedimento
+ trayendo
+ como
+consecuencia
+ una
+ disminución
+ de
+ la
+ macrofauna
+ asociada.
+
+Con
+ los
+ datos
+ obtenidos
+ en
+ terreno
+ se
+ procederá
+
+ a
+ calcular
+
+ la
+ tasa
+ de
+ recambio
+ de
+
+ la
+ masa
+ de
+ agua,
+la
+ capacidad
+ de
+ dilución
+ y
+ la
+ dispersión
+ del
+ área
+ solicitada
+ en
+ concesión,
+ y
+ se
+ determinará
+ el
+ aporte
+ de
+carbono
+ orgánico
+ total
+ (TOC).
+
+ **Tasa
+ de
+ Recambio
+ de
+ la
+ masa
+ de
+ agua.**
+Otro
+ dato
+ interesante
+ de
+ determinar,
+ es
+ el
+ cálculo
+ de
+ la
+ tasa
+ de
+ recambio
+ de
+ la
+ masa
+ de
+ agua
+ de
+ la
+concesión
+ y
+ para
+ ello
+ se
+ consideró
+ el
+ dato
+ de
+ la
+ velocidad
+ media
+ de
+ la
+ corriente
+ y
+ que
+ esta
+ información
+es
+ homogénea
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+ Si
+ se
+ considera
+ una
+ velocidad
+ promedio
+ de
+ 5,4
+ cm/s
+ (como
+
+media
+ aritmética
+ de
+ todas
+ las
+ capas
+ y
+ durante
+ todo
+ el
+ período
+ de
+ medición)
+ y
+ el
+ lado
+ más
+ largo
+ de
+ la
+concesión,
+ se
+ tiene:
+
+Velocidad
+ promedio
+ corriente: 0,054
+ m/s
+Largo
+ concesión
+ (B-­‐C
+ ó
+ A-­‐D): 350
+ m
+Tasa
+ recambio
+ en
+ el
+ largo
+ de
+ la
+ concesión: 1.8
+ horas
+
+Este
+ valor
+ indica
+ que
+ la
+ masa
+ de
+ agua
+ que
+ ocupa
+ la
+ concesión
+ se
+ renovaría
+ al
+ menos
+ 3
+ veces
+ durante
+un
+ ciclo
+ mareal,
+
+ utilizando
+ datos
+ promedios
+ y
+ asumiendo
+ que
+ la
+ velocidad
+ promedio
+ es
+ uniforme
+ en
+toda
+ la
+ columna
+ de
+ agua.
+
+ **Dispersión
+ del
+ material
+ particulado**
+Ahora
+ bien,
+ la
+ sedimentación
+ de
+ las
+ fecas
+ y
+ el
+ alimento
+ no
+ consumido
+ dependen
+ directamente
+ de
+varios
+ factores
+ físicos
+ de
+ la
+ columna
+ de
+ agua,
+ como
+ por
+ ejemplo
+ la
+ velocidad
+ de
+ las
+ corrientes
+ en
+ el
+área
+ de
+ cultivo
+ y
+ la
+ profundidad
+ del
+ sector;
+ si
+ consideramos
+ que
+ el
+ área
+ solicitada
+ en
+ concesión
+presenta
+ una
+ profundidad
+ promedio
+ de
+ 80
+ m
+ y
+ una
+ velocidad
+ promedio
+ de
+ corriente
+ de
+ 5.4
+ cm/s,
+ se
+ ve
+con
+ dificultad
+ que
+ el
+ aporte
+ de
+ materia
+ orgánica
+ producto
+ de
+ las
+ fecas
+ y
+ alimento
+ de
+ los
+ peces
+ en
+cultivo
+ afecten
+ negativamente
+ el
+ área
+ de
+ emplazamiento
+ del
+ centro.
+Según
+ Gowen
+ et
+ al
+ (1987)2,
+ la
+ tasa
+ de
+ sedimentación
+ del
+ alimento
+ no
+ consumido
+ es
+ de
+ 12
+ cm/s,
+ en
+tanto
+ que
+ la
+ tasa
+ de
+ sedimentación
+ de
+ fecas
+ es
+ de
+ 3,8
+ cm/s.
+ Si
+ aplicamos
+ estos
+ valores,
+ se
+ tiene
+ lo
+siguiente:
+
+Velocidad
+ promedio: 0,0526
+ m/s
+ (promedio
+ a
+ partir
+ de
+ los
+ 18-­‐20
+ m
+ de
+ profundidad,
+profundidad
+ de
+ las
+ redes
+ peceras)
+Profundidad
+ promedio
+ del
+ agua: 80
+ m
+Velocidad
+ promedio
+ de
+ caída
+ pellet: 0,12
+ m/s
+Velocidad
+ promedio
+ de
+ caída
+ fecas:
+
+
+
+
+
+
+ 0,038
+ m/s
+
+Por
+ lo
+ tanto
+ con
+ estos
+ datos
+ y
+ utilizando
+ la
+ fórmula:
+
+D=
+ Z
+ *
+ Vel.
+ Corriente/Vel.
+ Sed.
+ Partícula
+
+|Col1|Dispersión Alimento (m)|Dispersión fecas (m)|
+|---|---|---|
+|Media|35,1|110,7|
+
+Por
+ tanto,
+ se
+ tiene
+ que
+ la
+ dispersión
+ media
+ de
+ las
+ fecas
+ será
+ de
+ 110,7
+ m;
+ en
+ tanto
+ que
+ el
+ alimento
+ no
+consumido
+ tendrá
+ una
+ dispersión
+ media
+ de
+ 35,1
+ m.
+
+Se
+ debe
+ dejar
+ en
+ claro
+ que
+ los
+ valores
+ aquí
+ obtenidos
+ están
+ circunscritos
+ a
+ muchos
+ supuestos,
+ entre
+ellos,
+ algunos
+ de
+ los
+ siguientes:
+
+2 Gowen, R.J. & Bradbury, N.B. 1987. The ecological impacts of salmonid farming in coastal waters: a review.
+Oceanogr. Mar. Biol., Annu. Rev., 24: 563-575.
+
+ü Que
+ la
+ velocidad
+ de
+ corriente
+ es
+ homogénea
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+ü Que
+ la
+ velocidad
+ de
+ caída
+ de
+ una
+ partícula
+ es
+ constante
+ e
+ igual
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+ü Que
+ esta
+ partícula
+ no
+ sufre
+ alteraciones
+ por
+ efectos
+ físicos
+ de
+ roce
+ o
+ del
+ movimiento
+ del
+ agua.
+ü Que
+ no
+ existen
+ procesos
+ degradativos
+ de
+ la
+ partícula
+ por
+ acción
+ bacteriana
+ o
+ de
+ zooplancton
+
+detritívoro.
+ü Que
+ el
+ valor
+ de
+ producción
+ máxima
+ o
+ de
+ máxima
+ biomasa
+ que
+ se
+ alcanza
+ es
+ constante
+ durante
+
+todo
+ el
+ año.
+Adicionalmente,
+ se
+ debe
+ considerar
+ que
+ del
+ total
+ de
+ las
+ fecas
+ y
+ el
+ alimento
+ no
+ consumido
+ que
+ llegan
+ al
+fondo,
+ una
+ parte
+ es
+ degradado
+ por
+ acción
+ bacteriana,
+ otra
+ parte
+ puede
+ ser
+ consumida
+ por
+ organismos
+detritívoros
+ del
+ fondo
+ marino.
+ Parte
+ del
+ alimento
+ no
+ consumido
+ también
+ suele
+ ser
+ consumido
+ por
+peces
+ endémicos
+ del
+ lugar,
+ lo
+ que
+ minimizaría
+ la
+ deposición
+ de
+ ésta
+ en
+ el
+ fondo
+ marino.
+
+ **Determinación
+ del
+ aporte
+ de
+ Carbono
+ Orgánico
+ Total.**
+Para
+ la
+ determinación
+ del
+ carbono
+ orgánico
+ total
+ se
+ utilizará
+ la
+ fórmula
+ planteada
+ por
+ Brooks
+ et
+ al.
+(2001)3.
+ Este
+ autor
+ en
+ el
+ estudio
+ que
+ realizó,
+ colecto
+ durante
+ dos
+ años
+ muestras
+ de
+ carbono
+ orgánico
+total
+ y
+ de
+ sólidos
+ volátiles
+ totales
+ (TVS),
+ relacionándolos
+ entre
+ sí
+ y
+ llegando
+ a
+ determinar
+ una
+ relación
+lineal
+ entre
+ ambos
+ con
+ un
+ coeficiente
+ de
+ determinación
+ de
+ (r2)
+ equivalente
+ a
+ 0,8,
+ del
+ cual
+ obtuvo
+ la
+siguiente
+ fórmula,
+ que
+ permite
+ determinar
+ el
+ carbono
+ orgánico
+ aportado
+ por
+ concepto
+ de
+ fecas
+ y
+alimento
+ no
+ consumido:
+
+TVS=
+ 0,00900
+ +
+ 1,5904
+ *TOC
+Donde,
+TVS=
+ Sólidos
+ volátiles
+ totales
+TOC:
+ Carbono
+ orgánico
+ total
+
+Para
+ determinar
+ el
+ carbono
+ orgánico
+ total,
+ se
+ realizó
+ el
+ balance
+ de
+ masa,
+ en
+ máxima
+ producción,
+donde
+ se
+ determinó
+ el
+ balance
+ considerando
+ que
+ el
+ alimento
+ tiene
+ implícito
+ una
+ humedad
+ del
+ 7%,
+ que
+en
+ estricto
+ rigor
+ es
+ agua,
+ por
+ tanto,
+ para
+ realizar
+ un
+ análisis
+ y
+ calculo
+ más
+ exacto
+ debiese
+ restarse
+ el
+porcentaje
+ de
+ humedad
+ para
+ estimar
+ el
+ TOC
+ a
+ partir
+ del
+ peso
+ seco
+ del
+ alimento,
+ por
+ tanto,
+ el
+ balance
+de
+ aporte
+ es
+ el
+ siguiente:
+
+Parámetros:
+
+ü Pérdida
+ alimento: 3.0%
+ü Fecas: 15%
+ del
+ alimento
+ ingerido
+ü Ciclo: 549
+ días
+ (18
+ meses)
+ü Total
+ alimento
+ suministrado: 3.739,68
+ ton/ciclo
+ü %
+ humedad: 7%
+ü Peso
+ seco: 3.714,6
+ ton/ciclo
+ü Alimento
+ no
+ consumido: 103,6
+ ton/ciclo
+
+3 Brooks,
+ K.M.
+ (2001).
+ An
+ evaluation
+ of
+ the
+ relationship
+ between
+ salmon
+ faro
+ biomass,
+ organic
+ inputs
+ to
+ sediments,
+ physiochemical
+ changes
+associated
+ with
+ those
+ inputs
+ and
+ the
+ infaunal
+ response-­‐with
+ emphasis
+ on
+ total
+ sediments
+ sulfides,
+ total
+ volatile
+ solids,
+ and
+ oxidation-­‐
+reduction
+ potencial
+ as
+ surrogate
+ endpoints
+ for
+ biological
+ monitoring.
+ Final
+ report.
+
+ü Alimento
+ ingerido: 3.350,9
+ ton/ciclo
+ü Fecas: 502,6
+ ton
+ /ciclo
+ü Total
+ aporte: 606,27
+ ton
+ /ciclo
+ü TOC_ANC: 52.131,5
+ C/ciclo
+ =
+ 95
+ kg
+ C/día
+ü TOC_Fecas: 252.837,6
+ kg
+ C/ciclo
+ =
+ 460
+ kg
+ C/día
+ü TOC_total: 307.028,1
+ kg
+ C/ciclo
+ =
+ 555,49
+ kg
+ C/día
+ =
+ 0.55
+ ton/día
+
+Se
+ estima
+ un
+ ciclo
+ de
+ producción
+ de
+ 549
+ días,
+ equivalente
+ a
+ 18
+ meses,
+ que
+ incluye
+ engorda
+ y
+ cosecha.
+
+ **Cálculo
+ área
+ de
+ sedimentación:**
+Si
+ consideramos
+ que
+ la
+ dispersión
+ media
+ del
+ alimento
+ no
+ consumido
+ es
+ de
+ 35,1
+ m
+ y
+ el
+ de
+ las
+ fecas
+ es
+de
+ 110,7
+ m,
+ se
+ puede
+ calcular
+ la
+ superficie
+ de
+ sedimentación,
+ considerando
+ de
+ las
+ siguientes
+ premisas:
+
+ü La
+ velocidad
+ de
+ la
+ corriente
+ es
+ constante
+ y
+ homogénea
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+ü Que
+ la
+ dispersión
+ genera
+ un
+ efecto
+ sombra
+ sobre
+ bajo
+ las
+ balsas
+ jaulas
+ y
+ en
+ las
+ cuatro
+ caras
+ del
+
+polígono.
+ü Se
+ asume
+ una
+ dispersión
+ homogénea
+ por
+ las
+ cuatro
+ caras
+ del
+ polígono
+ü Se
+ desestima
+ la
+ dirección
+ de
+ las
+ corrientes.
+ü Que
+ la
+ dispersión
+ de
+ las
+ fecas
+ se
+ realiza
+ a
+ partir
+ del
+ perímetro
+ de
+ las
+ balsas
+ jaulas.
+ü Que
+ la
+ dispersión
+ del
+ ANC
+ se
+ realiza
+ a
+ partir
+ del
+ punto
+ medio
+ de
+ cada
+ uno
+ de
+ las
+ balsas,
+ por
+
+tanto
+ en
+ este
+ caso
+ en
+ particular
+ se
+ debe
+ descontar
+ el
+ radio
+ equivalente
+ a
+ 15
+ m.
+ü Que
+ la
+ base
+ de
+ cálculo
+ es
+ sobre
+ la
+ figura
+ de
+ un
+ rectángulo
+ü Que
+ la
+ disposición
+ de
+ las
+ balsas
+ será
+ un
+ modulo
+ de
+ 16
+ balsas,
+ dispuestas
+ en
+ par.
+ Se
+ considera
+
+de
+ esta
+ manera
+ para
+ poder
+ estimar
+ el
+ índice
+ de
+ impacto
+ del
+ centro,
+ considerando
+ la
+ totalidad
+de
+ los
+ aportes
+ producto
+ de
+ su
+ operación.
+
+De
+ acuerdo
+ a
+ lo
+ planteado
+ en
+ los
+ puntos
+ anteriores,
+ y
+ considerando
+ un
+ tren
+ de
+ balsas
+ de
+ 16
+ unidades
+dispuestas
+ en
+ dos
+ módulos
+ en
+ par,
+ donde
+ cada
+ unidad
+ es
+ de
+ 30
+ *30
+ m,
+ se
+ tiene
+ un
+ ancho
+ de
+ 60
+ m
+ por
+concepto
+ de
+ balsas;
+ en
+ tanto
+ el
+ largo
+ del
+ polígono
+ será
+ de
+ 240
+ m
+ por
+ concepto
+ de
+ balsas,
+ se
+ tiene
+ que
+la
+ superficie
+ por
+ módulo
+ es
+ la
+ siguiente:
+
+A=L*A
+A=
+ ((30*8)*((30*2)=
+ 240
+ *
+ 60
+ =
+ 14.400
+ m2
+
+Ahora
+ bien,
+ la
+ dispersión
+ media
+ del
+ alimento
+ es
+ de
+ 35,1
+ m,
+ al
+ considerar
+ que
+ el
+ alimentación
+ se
+realizará
+ en
+ la
+ parte
+ central
+ de
+ cada
+ balsa,
+ se
+ debe
+ restar
+ esta
+ distancia
+ (15
+ m)
+ desde
+ el
+ punto
+ de
+alimentación
+ al
+ perímetro,
+ así
+ la
+ dispersión
+ será
+ de
+
+ 20,1m
+ desde
+ el
+ perímetro
+ de
+ las
+ balsas,
+ en
+ tanto
+ la
+dispersión
+ media
+ de
+ las
+ fecas
+ es
+ de
+ 110,7m,
+ por
+ tanto,
+ la
+ superficie
+ de
+ sedimentación
+ del
+ alimento
+ y
+de
+ las
+ fecas,
+ estará
+ dado
+ por
+ el
+ largo
+ y
+ ancho
+ del
+ módulo
+ más
+ el
+ delta
+ de
+ distancia
+ ganado
+ en
+ la
+dispersión:
+
+ANC
+ =
+ ((240)+
+ ((35,1
+ -
+ 15)*2))
+ *
+ ((60)
+ +
+ ((35,1
+ -
+ 15)*2))
+
+ANC
+ =
+ 280,2*100,2=
+ 28.076
+ m2
+ =
+ 2,8
+ hás.
+
+Fecas
+ =
+ ((240)+
+ (110,7*2))
+ *
+ ((60)
+ +
+ ((110,7*2))
+Fecas
+ =
+ 461,4*281,4= 129.837,96
+ m2
+ =
+ 12,98
+ hás
+
+Por
+ lo
+ tanto,
+ el
+ aporte
+ de
+ carbono
+ orgánico
+ total
+ es
+ de:
+
+TOC
+ ANC: 3,382
+ g
+ C/m2/día
+TOC
+ Fecas: 3,547
+ g
+ C/m2/día
+TOC
+ Total: 6,929
+ g
+ C/m2/día
+
+Si
+ integramos
+ la
+ dirección
+ de
+ corrientes,
+ y
+ a
+ la
+ luz
+ de
+ los
+ resultados
+ de
+ la
+ modelación
+ numérica,
+ se
+puede
+ inferir
+ que
+ la
+ pluma
+ de
+ sedimentación
+ tendrá
+ un
+ desplazamiento
+ en
+ sentido
+ SE,
+ estimando
+ que
+la
+ pluma
+ tenderá
+ a
+ seguir
+ los
+ flujos
+ direccionales
+ de
+ la
+ corriente
+ por
+ efecto
+ de
+ las
+ condiciones
+hidráulicas
+ que
+ conforman
+ los
+ canales
+ en
+ los
+ que
+ está
+ emplazada
+ la
+ concesión,
+ luego
+ es
+ posible
+ inferir
+que
+ no
+ se
+ depositará
+ en
+ los
+ sectores
+ cercanos
+ a
+ la
+ línea
+ de
+ costa,
+ dispersando
+ el
+ material
+ particulado
+hacia
+ las
+ zonas
+ más
+ profundas.
+
+ **Índice
+ de
+ impacto
+ del
+ proyecto**
+El
+ índice
+ de
+ impacto
+ se
+ calcula
+ en
+ base
+ a
+ la
+ fórmula
+ propuesta
+ por
+ Findley
+ y
+ Waitling
+ (1997)
+ quienes
+determinan
+ un
+ posible
+ impacto
+ en
+ función
+ de
+ la
+ relación
+ entre
+ el
+ aporte
+ y
+ la
+ demanda
+ de
+ oxigeno
+ del
+sedimento
+ para
+ degradar
+ la
+ materia
+ orgánica
+ existente:
+
+I
+ =
+ aporte
+ de
+ oxigeno
+ /
+ demanda
+ de
+ oxígeno
+
+Para
+ ello
+ los
+ autores
+ consideran
+ que
+ el
+ aporte
+ de
+ oxígeno
+ depende
+ de
+ las
+ velocidades
+ de
+ corrientes
+ en
+profundidad,
+ y
+ debe
+ utilizarse
+ el
+ aporte
+ de
+ carbono
+ en
+ mmol.
+ El
+ resultado
+ de
+ este
+ índice
+ es
+ de
+ fácil
+interpretación,
+ cuando
+ el
+ índice
+ es
+ mayor
+ que
+ uno,
+ significa
+ que
+ el
+ aporte
+ de
+ oxigeno
+ supera
+ a
+ la
+demanda,
+ por
+ tanto
+ se
+ ve
+ con
+ dificultad
+ un
+ proceso
+ de
+ anaerobiosis
+ en
+ el
+ sedimento,
+ por
+ el
+ contrario
+si
+ el
+ índice
+ es
+ menor
+
+ a
+ 1
+ significa
+ que
+ la
+ demanda
+ supera
+ a
+ la
+ oferta
+ y
+ por
+ ende
+ es
+ factible
+ un
+ proceso
+de
+ anaerobiosis
+ en
+ el
+ sedimento;
+ si
+ el
+ índice
+ es
+ igual
+ a
+ 1,
+ en
+ términos
+ simples
+ existiría
+ un
+ equilibrio
+entre
+ oferta
+ y
+ demanda
+ y
+ por
+ ende
+ el
+ impacto
+ sería
+ menor.
+
+La
+ tabla
+ No
+ 27
+ detalla
+ el
+ índice
+ de
+ impacto
+ del
+ proyecto
+ en
+ el
+ área
+ de
+ relocalización
+ de
+ Punta
+ Cesari.
+
+_Tabla
+ 27.
+ Índice
+ de
+ impacto
+ relocalización
+ Punta
+ Cesari._
+
+|ÍNDICE IMPACTO GENERAL|Col2|Col3|
+|---|---|---|
+|ÍTEM|UNIDADES|TOTAL|
+|CicloProducción|Días|549|
+|AlimentoSuministrado|Kilos|3.714.600|
+|PesoSecoAlimentoSuministrado|Kilos|3.454.578|
+|AlimentoNoConsumido(ANC)|Kilos|103.637|
+|AlimentoIngerido|Kilos|3.350.941|
+|Fecas|Kilos|502.641|
+|TVSAlimentoNoConsumido|Kilos|82.910|
+|TOC_AlimentoNoConsumido|KilosC|52.131|
+|TVS_Fecas|Kilos|402.113|
+|TOC_Fecas|KilosC|252.838|
+|TOCTotal|KilosC|304.969|
+|ÁreaSedimentaciónTOCANC|m2|28.076|
+|ÁreaSedimentaciónTOCFecas|m2|129.838|
+|TOCAlimentoNoConsumido|gr/m2/día|3,382|
+|TOCFecas|gr/m2/día|3,547|
+|TOCtotal|gr/m2/día|6,929|
+|TOCtotal|mmol/m2/día|576,904|
+|Velocidadpromedioa partirdelos20m deprofundidad|cm/seg|5,260|
+|ÍNDICEIMPACTO||2,09|
+
+El
+ índice
+ de
+ impacto
+ calculado
+ para
+
+ relocalización
+ Punta
+ Cesari
+ es
+ de
+ 2,09;
+ por
+ lo
+ que
+ indica
+ que
+ el
+área
+ solicitada
+ en
+ concesión
+ soporta
+ de
+ manera
+ sustentable
+ una
+ producción
+ de
+ 3.200
+ toneladas.
+ Estos
+valores
+ están
+ determinados
+ básicamente
+ por
+ la
+ profundidad
+ del
+ sector.
+
+La
+ siguiente
+ tabla
+ muestra
+ el
+ índice
+ de
+ impacto
+ utilizando
+ la
+ velocidad
+ promedio
+ de
+ la
+ ultima
+ capa
+ del
+estudio
+ de
+ corrientes,
+ es
+ decir
+ la
+ velocidad
+ promedio
+ a
+ los
+ 60
+ m
+ de
+ profundidad.
+
+_Tabla
+ 28.
+ Índice
+ de
+ impacto
+ relocalización
+ Punta
+ Cesari.
+ Velocidad
+ de
+ corrientes
+ promedio
+ a
+ 60
+ m
+ de
+ prondidad_
+
+|ÍNDICE IMPACTO GENERAL|Col2|Col3|
+|---|---|---|
+|ÍTEM|UNIDADES|TOTAL|
+|CicloProducción|Días|549|
+|AlimentoSuministrado|Kilos|3.714.600|
+|PesoSecoAlimentoSuministrado|Kilos|3.454.578|
+|AlimentoNoConsumido(ANC)|Kilos|103.637|
+|AlimentoIngerido|Kilos|3.350.941|
+|Fecas|Kilos|502.641|
+|TVSAlimentoNoConsumido|Kilos|82.910|
+|TOC_AlimentoNoConsumido|KilosC|52.131|
+|TVS_Fecas|Kilos|402.113|
+|TOC_Fecas|KilosC|252.838|
+|TOCTotal|KilosC|304.969|
+|ÁreaSedimentaciónTOCANC|m2|28.076|
+|ÁreaSedimentaciónTOCFecas|m2|129.838|
+|TOCAlimentoNoConsumido|gr/m2/día|3,382|
+|TOCFecas|gr/m2/día|3,547|
+|TOCtotal|gr/m2/día|6,929|
+|TOCtotal|mmol/m2/día|576,904|
+|Velocidadpromedioa partirdelos20m deprofundidad|cm/seg|5,040|
+|ÍNDICEIMPACTO||2,07|
+
+De
+ acuerdo
+ a
+ estos
+ cálculos,
+ el
+ aporte
+ de
+ carbono
+ al
+ medio
+ circundante
+ producto
+ de
+ la
+ operación
+ del
+centro
+ relocalizado
+ Punta
+ Cesari,
+ será
+ mínimo,
+ por
+ lo
+ que
+ se
+ prevé
+ que
+ el
+ centro
+ de
+ cultivo
+ podrá
+soportar
+ de
+ manera
+ sustentable
+ un
+ cultivo
+ de
+ salmónidos
+ equivalentes
+ a
+ 3.200
+ toneladas;
+ este
+ aporte
+se
+ traduce
+ en
+ una
+ demanda
+ de
+ oxigeno
+ muy
+ inferior
+ a
+ la
+ oferta
+ de
+ oxigeno
+ disponible,
+ por
+ lo
+ que
+ no
+ se
+debiesen
+ producir
+ condiciones
+ de
+ anaerobiosis
+ en
+ el
+ área
+ concesionada,
+ hecho
+ que
+ se
+ sustenta
+ tanto
+en
+ las
+ características
+ oceanográficas
+ del
+ centro
+ como
+ también
+ en
+ la
+ aplicación
+ e
+ implementación
+ de
+tecnología
+ de
+ punta
+ en
+ el
+ centro
+
+ Punta
+ Cesari.
+
+A
+ mayor
+ abundamiento
+ se
+ simuló
+ la
+ distribución
+ del
+ aporte
+ de
+ carbono
+ del
+ proyecto
+ bajo
+ las
+ balsas
+jaulas.
+ Para
+ ello
+ se
+ utilizó
+ un
+ software
+ basado
+ en
+ un
+ modelo
+ matemático
+ llamado
+ “DEPOMOD”,
+ que
+relaciona
+
+ las
+ variables
+ de
+ la
+ batimetría
+ del
+ lugar,
+ la
+ posición,
+ cantidad,
+ forma
+ y
+ dimensiones
+ de
+ las
+estructuras
+ de
+ cultivo
+ (balsas
+ -
+ jaulas),
+ la
+ velocidad
+ y
+ dirección
+ de
+ la
+ corriente,
+ la
+ cantidad
+ de
+ alimento
+a
+ suministrar
+ y
+ características
+ del
+ alimento:
+ humedad,
+ digestibilidad
+ y
+ porcentaje
+ de
+ pérdida.
+
+Dicho
+ modelo
+ ha
+ sido
+ validado,
+ con
+ datos
+ de
+ terreno
+ reales,
+ en
+ el
+ hemisferio
+ norte
+ y
+ permiten
+ su
+aplicación
+ en
+ otras
+ latitudes
+ pues
+ todos
+ los
+ inputs
+ son
+ variables
+ conocidas
+ que
+ el
+ modelo
+ integra.
+
+Para
+ la
+ estimación
+ de
+ las
+ áreas
+ de
+ dispersión
+ y
+ concentraciones,
+ el
+ modelo
+ cuenta
+ con
+ módulos
+ de
+análisis
+ interdependientes,
+ en
+ los
+ cuáles
+ se
+ ingresan
+ los
+ valores
+ de
+ las
+ variables
+ solicitadas,
+ según
+ la
+estimación
+ a
+ realizar.
+ Los
+ resultados
+ del
+ modelo
+ han
+ sido
+ validados
+ y
+ contrastados
+ con
+ mediciones
+reales
+ en
+ el
+ Hemisferio
+ Norte
+ (Cromey
+ et
+ al.
+ 2002 [4] ).
+
+En
+ este
+ caso
+ se
+ utilizan
+ los
+ módulos
+ de
+ análisis,
+ que
+ entregan
+ como
+ resultados
+ el
+ área
+ dispersión
+ y
+concentración
+ para
+ las
+ partículas
+ sólidas
+ y
+ el
+ área
+ de
+ dispersión
+ y
+ concentración
+ de
+ carbono
+ total.
+
+Para
+ efectos
+ del
+ análisis
+ y
+ la
+ determinación
+ de
+ los
+ niveles
+ críticos
+ de
+ impacto
+ en
+ los
+ sedimentos
+ las
+estimaciones
+ del
+ aporte
+ de
+ carbono
+ total
+ proveniente
+ de
+ los
+ centros
+ de
+ cultivo
+ es
+ el
+ parámetro
+ más
+citado
+ en
+ la
+ literatura
+ como
+ indicador
+ de
+ impacto,
+ por
+ lo
+ que
+ la
+ estimación
+ de
+ la
+ cantidad,
+ distribución
+y
+ concentración
+ de
+ éste,
+ será
+ una
+ buena
+ aproximación
+ de
+ la
+ carga
+ del
+ sistema
+ acuícola,
+ ya
+ que
+ dicha
+carga
+ se
+ estima
+ en
+ función
+ de
+ la
+ cantidad
+ de
+ materia
+ orgánica
+ total
+ (MOT)
+ que
+ pueda
+ contener
+ en
+ el
+sedimento.
+
+La
+ modelación
+ hecha
+ con
+ DEPOMOD
+ considera
+ la
+ carga
+ acumulada
+ por
+ el
+ proyecto
+ durante
+ un
+ ciclo
+ de
+producción
+ máxima
+ (3.200
+ toneladas).
+
+Se
+ considera
+ un
+ sólo
+ escenario,
+ con
+ un
+ tren
+ de
+ balsas
+ jaulas
+ conformado
+ por
+ 16
+ unidades
+ de
+ 30*30
+ m
+de
+ lado,
+ cuya
+ ubicación
+ propuesta
+ es
+ en
+ el
+ mismo
+ sentido
+ de
+ orientación
+ del
+ polígono
+ solicitado,
+ esto
+es,
+ sentido
+ N-­‐S
+ y
+ situado
+ en
+ profundidades
+ entre
+ los
+ 70
+ y
+ 89
+ metros
+ con
+ una
+ media
+ de
+ 80
+ m.
+
+_Tabla
+ 29.
+ Determinación
+ de
+ los
+ valores
+ de
+ las
+ variables._
+
+|Variable|Valor|
+|---|---|
+|Nodejaulas|16|
+|Dimensiones|30x30x18m.|
+|Alimentodiarioporjaula|422,8kg.|
+|Humedaddelalimento|7%|
+|Digestibilidad|85%|
+|Pérdidadealimento|3%|
+|Corrientes|Registrode24horasencuadratura|
+
+Las
+ capas
+ de
+ corrientes
+ utilizadas
+ para
+ el
+ modelamiento
+ fueron:
+ capa
+ 10,
+ 15,
+ 20;
+ 25
+ y
+ 30,
+correspondientes
+ a
+ los
+ 20,
+ 30,
+ 40,
+ 50
+ y
+ 60
+ m.
+
+De
+ acuerdo
+
+ a
+ los
+ resultados
+ obtenidos,
+ se
+ observa
+ que
+ se
+ conforma
+ una
+ sola
+ área
+ de
+ sedimentación
+con
+ un
+ leve
+ desplazamiento
+ N-­‐S,
+ encontrándose
+ tasas
+ de
+ depositación
+ que
+ varían
+ entre
+ 0,2
+ y
+ 5,4
+ kg
+C/m [2] /año,
+ equivalente
+ a
+ 0,55
+ g
+ C/m [2] /día
+ y
+ 14,79
+ g
+ C/m2/día
+ en
+ un
+ área
+ total
+ de
+ sedimentación
+ de
+85.707m [2] (Figura
+ 240,
+ tabla
+ 30).
+ El
+ área
+ de
+ mayor
+ depositación
+ cercano
+ a
+ 5.4
+ kg
+ C/m [2] /año,
+ es
+
+4
+Cromey, C.J., Thomas D., Nickell, Keneth D. Black. 2001. DEPOMOD - modelling the depositions and biological effects of waste solids
+from marine cage farms. Aquaculture 214 (2002): 211 - 239
+
+equivalente
+ sólo
+ a
+ una
+ superficie
+ de
+ 0,1
+ Hás,
+ ubicado
+ dentro
+ de
+ la
+ concesión
+ y
+ bajo
+ la
+ porción
+ sur
+ del
+modulo
+ de
+ cultivo,
+ por
+ lo
+ que
+ su
+ impacto
+ es
+ muy
+ poco
+ significativo.
+
+_Figura
+ 20.
+ Dispersión
+ y
+ concentración
+ de
+ carbono._
+
+Del
+ total
+ del
+ área
+ de
+ sedimentación,
+ se
+ tiene
+ lo
+ siguiente:
+
+_Tabla
+ 30_ .
+ Superficie
+ tasa
+ de
+ depositación
+ carbono
+ orgánico
+ de
+ acuerdo
+ a
+ modelación
+ DEPOMOD
+
+|Tasa depositación (kg C/m/año)|Superficie (m2)|Porcentaje (%)|
+|---|---|---|
+|0,2-0,8|36.520|42,61|
+|0,8-1,6|22.954|26,78|
+|1,6-3,2|18.424|21,50|
+|3,2-3,6|3.060|3,57|
+|3,6-4,4|3658|4,27|
+|4,4-5,4|1091|1,27|
+|áreatotal|85.707|100|
+
+Respecto
+ de
+ los
+ cálculos
+ de
+ sedimentación
+ realizados
+ bajo
+ las
+ balsas
+ jaulas
+ son
+ muy
+ variables
+(dependiendo
+ de
+ la
+ metodología
+ ocupada
+ por
+ los
+ autores).
+ Así
+ se
+ tiene
+ valores
+ que
+ van
+ de
+ 4.9
+kg/m [2] /año
+ (Cross,
+ 1990)
+ a
+ 110
+ kg/
+ m [2] /año
+ (Weston
+ and
+ Gowen,
+ 1988 [5] ).
+
+En
+ Chile,
+ los
+ únicos
+ estudios
+ disponibles
+ datan
+ de
+ mediados
+ de
+ los
+ 90,
+ donde
+ González
+ (1997 [6] )
+ registró
+una
+ tasa
+ de
+ sedimentación
+ que
+ fluctuó
+ de
+ 26,09
+ g/m [2] /día
+ (9,5
+ kg/m [2] /año)
+ a
+ 67,62
+ g/m [2] /día
+ (24,68
+kg/m [2] /año)
+ dependiendo
+ de
+ si
+ la
+ balsa
+ contenía
+ smolt
+ o
+ individuos
+ adultos
+ respectivamente.
+ A
+ este
+respecto,
+ los
+ valores
+ máximos
+ encontrados
+ en
+ el
+ presente
+ proyecto
+ están
+ muy
+ por
+ debajo
+ de
+ lo
+registrado
+ por
+ González
+ (op
+ cit.).
+
+De
+ los
+ resultados
+ de
+ la
+ modelación
+ numérica,
+ se
+ puede
+ inferir
+ que
+ la
+ pluma
+ de
+ sedimentación
+ tendrá
+un
+ desplazamiento
+ en
+ sentido
+ N-­‐S
+ con
+ un
+ leve
+ desplazamiento
+ hacia
+ el
+ este,
+ siguiendo
+ la
+ configuración
+de
+ línea
+ de
+ costa,
+ lo
+ que
+ sugiere
+ un
+ comportamiento
+ por
+ fricción,
+ estimando
+ que
+ la
+ pluma
+ tenderá
+ a
+seguir
+ los
+ flujos
+ direccionales
+ de
+ la
+ corriente
+ por
+ efecto
+ de
+ las
+ condiciones
+ de
+ flujo
+ hidráulicas
+ que
+ se
+conforman
+ por
+ la
+ presencia
+ de
+ los
+ canales
+ en
+ los
+ que
+ está
+ emplazada
+ la
+ concesión,
+ luego
+ es
+ posible
+inferir
+ que
+ no
+ se
+ depositará
+ en
+ los
+ sectores
+ cercanos
+ a
+ la
+ línea
+ de
+ costa,
+ dispersando
+ el
+ material
+particulado
+ hacia
+ las
+ zonas
+ más
+ profundas.
+ El
+ área
+ de
+ mayor
+ dispersión
+ equivalente
+ a
+ la
+ menor
+ carga
+orgánica
+ de
+ 0,2
+ kg
+ C/m [2] /año
+ se
+ ubicaría
+
+ a
+ más
+ de
+ 90
+ m
+ de
+ la
+ costa.
+ Por
+ lo
+ que
+ esta
+ pluma
+ no
+ afectaría
+significativamente
+ la
+ fauna
+ encontrada
+ en
+ el
+ borde
+ costero.
+
+Finalmente,
+ y
+ respecto
+ al
+ resguardo
+ de
+ la
+ calidad
+ de
+ los
+ recursos
+ naturales
+ renovables
+ en
+ lo
+ relativo
+ a
+la
+ generación
+ de
+ resistencia
+ a
+ antibióticos
+ y
+ a
+ otros
+ efectos
+ que
+ puedan
+ generar
+ los
+ antibióticos,
+ se
+pondrá
+ especial
+ énfasis
+ a
+ un
+ suministro
+ estratégico
+ de
+ alimento
+ medicado,
+ en
+ cuanto
+ al
+ control
+ de
+ la
+ingesta
+ por
+ parte
+ de
+ los
+ peces
+ y
+ a
+ la
+ minimización
+ de
+ su
+ disposición
+ en
+ el
+ medio
+ ambiente
+ acuático,
+como
+ por
+ ejemplo:
+
+5 Weston DP, Gowen RJ. 1988. Assessment and prediction of the effects of salmon net-pen culture on the benthic environment.
+62 pp. In: Proceedings of the first annual meetings on Puget Sound research.
+6 González H. 1997. Investigaciones de los sedimentos aportados por el cultivo de salmones en balsas-jaula. Informe Final UACH.
+151 pp.
+
+Tomar
+ todas
+ las
+ medidas
+ sanitarias
+ y
+ de
+ manejo
+ necesarias
+ para
+ prevenir
+ la
+ situación
+ de
+ verse
+ en
+ la
+necesidad
+ de
+ aplicar
+ este
+ tipo
+ de
+ producto.
+
+En
+ caso
+ de
+ algún
+ brote,
+ y
+ sólo
+ en
+ caso
+ de
+ ser
+ necesario,
+ se
+ suministrará
+ en
+ las
+ raciones
+ de
+ alimento
+iniciales
+ del
+ día,
+ para
+ cada
+ jaula
+ tratada;
+ es
+ decir,
+ se
+ entregará
+ primero
+ el
+ alimento
+ medicado
+ en
+ un
+70%,
+ permitiendo
+ de
+ esta
+ forma
+ que
+ el
+ apetito
+ voraz
+ de
+ los
+ peces,
+ al
+ inicio
+ de
+ la
+ alimentación,
+ asegure
+la
+ ingesta
+ total
+ de
+ su
+ ración
+ diaria
+ medicada.
+
+Al
+ constituir
+ estas
+ medidas
+ parte
+ esencial
+ de
+ la
+ gestión
+ del
+ centro,
+ existe
+ una
+ baja
+ probabilidad
+ de
+tener
+ que
+ recurrir
+ al
+ uso
+ de
+ alimento
+ medicado.
+ De
+ esta
+ forma,
+ el
+ titular
+ resguardará
+ la
+ calidad
+ de
+ los
+recursos
+ naturales
+ renovables
+ de
+ la
+ zona.
+
+De
+ acuerdo
+ a
+ lo
+ anteriormente
+ expuesto
+ y/o
+ calculado,
+ el
+ centro
+ de
+ cultivo
+ Punta
+ Cesari,
+ puede
+soportar
+ un
+ cultivo
+ intensivo
+ de
+ 3.200
+ toneladas,
+ dado
+ que
+ los
+ resultados
+ obtenidos,
+ reflejan
+ que
+ no
+existiría
+ un
+ impacto
+ significativo
+ sobre
+ las
+ comunidades
+ bentónicas.
+ Si
+ se
+ considera
+ que
+ parte
+ del
+alimento
+ no
+ consumido
+ pueda
+ ser
+ devorado
+ por
+ otros
+ peces
+ endémicos
+ del
+ lugar,
+ y
+ que
+ del
+ total
+ de
+ las
+fecas
+ y
+ el
+ alimento
+ no
+ consumido
+ que
+ llegan
+ al
+ fondo,
+ una
+ parte
+ será
+ degradada
+ por
+ acción
+ bacteriana,
+otra
+ parte
+ pueda
+ ser
+ consumida
+ por
+ organismos
+ detritívoros
+ del
+ fondo
+ marino,
+ se
+ tendría
+ que
+ el
+aporte
+ de
+ carbono
+ orgánico
+ total
+ al
+ bentos
+ disminuiría
+ y
+ por
+ ende
+ la
+ demanda
+ de
+ oxígeno
+ para
+ su
+degradación,
+ junto
+ con
+ ello
+ se
+ debe
+ considerar
+ que
+ el
+ modelo
+ DEPOMOD,
+ presenta
+ algunas
+limitaciones,
+ el
+ modelo
+ presenta
+ un
+ resultado
+ sobre
+ la
+ base
+ de
+ las
+ condiciones
+ más
+ desfavorables
+posibles
+ de
+ modelar
+ en
+ cuanto
+ a
+ biomasa
+ propiamente
+ tal,
+ condiciones
+ de
+ circulación,
+ tasas
+ de
+pérdida
+ de
+ alimento,
+ etc
+ y
+ no
+ se
+ toma
+ en
+ cuenta
+ las
+ condiciones
+ naturales
+ de
+ los
+ sitios,
+ por
+ lo
+ que
+ si
+bien
+ el
+ Depomod
+ puede
+ ser
+ una
+ herramienta
+ para
+ establecer
+ una
+ alerta
+ temprana,
+ existen
+evidentemente
+ otros
+ métodos
+ más
+ confiables
+ para
+ realizar
+ seguimiento
+ a
+ un
+ centro
+ de
+ cultivo,
+ tal
+como
+ el
+ muestreo
+ de
+ comunidades
+ que
+ sean
+ indicadores
+ de
+ enriquecimiento
+ y
+ realizar
+ el
+ seguimiento
+mediante
+ un
+ indicador
+ como
+ de
+ Índice
+ Biótico
+ AMBI.
+
+**Área
+ de
+ influencia
+ del
+ proyecto**
+Respecto
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ y
+ de
+ acuerdo
+ al
+ análisis
+ anterior,
+ se
+ define
+ como
+ área
+ de
+influencia
+ cercana
+ o
+ próxima,
+ al
+ área
+ correspondiente
+ a
+ la
+ concesión
+ de
+ acuicultura
+ con
+ todas
+ las
+estructuras
+ y
+ sus
+ líneas
+ de
+ fondeo,
+ más
+ la
+ superficie
+ comprendida
+ producto
+ de
+ la
+ dispersión
+ de
+ la
+pluma
+ de
+ aporte
+ de
+ carbono
+ del
+ proyecto
+ y
+ su
+ proyección
+ a
+ la
+ línea
+ de
+ costa
+ cercana
+ (área
+ demarcada
+con
+ el
+ borde
+ rojo),
+ debido
+ a
+ la
+ obligación
+ de
+ mantener
+ limpias
+ la
+ porción
+ de
+ playa
+ (D.S.
+ N°
+ 320).
+Conforme
+ a
+ lo
+ anterior
+ y
+ en
+ función
+ del
+ resultado
+ de
+ la
+ modelación
+ se
+ estima
+ un
+ área
+ de
+ influencia
+directa
+ de
+ 49,18
+ Hás.
+ Con
+ todo,
+
+ el
+ área
+ de
+ mayor
+ dispersión
+ equivalente
+ a
+ la
+ menor
+ carga
+ orgánica
+ de
+0,2
+ kg
+ C/m [2] /año
+ se
+ ubicaría
+ a
+ más
+ de
+ 90
+ m
+ de
+ la
+ costa
+ (Figura
+ 21).
+
+_Figura
+ 21_ .
+ Área
+ de
+ influencia
+ del
+ proyecto
+
+Debido
+ a
+ que
+ como
+ se
+ aprecia
+ en
+ la
+ figura
+ 21,
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ es
+ mayor
+ al
+ área
+concesionada
+ y
+ por
+ ende
+ mayor
+ al
+ área
+ que
+ es
+ analizada
+ a
+ través
+ de
+ las
+ INFAS,
+ la
+ empresa
+ realizará
+mediciones
+ en
+ cada
+ período
+ productivo,
+ esto
+ con
+ el
+ objeto
+ de
+ garantizar
+ que
+ no
+ existan
+ efectos
+ sobre
+el
+ entorno,
+ este
+ monitoreo
+ constará
+ en
+ la
+ realización
+ de
+ un
+ registro
+ visual
+ por
+ la
+ misma
+ trayectoria
+realizada
+ para
+ el
+ estudio
+ de
+ biodiversidad,
+ continuará
+ con
+ la
+ metodología
+ propuesta
+ en
+ el
+ estudio.
+ De
+la
+ misma
+ manera
+ es
+ preciso
+ destacar
+ que
+ la
+ mancha
+ de
+ biosólidos
+ tiene
+ un
+ desplazamiento
+ hacia
+ el
+medio
+ de
+ canal,
+ alejándose
+ de
+ la
+ línea
+ de
+ costa
+ que
+ esta
+ dentro
+ del
+ área
+ de
+ influencia,
+ en
+ dicho
+ borde
+costero,
+ de
+ acuerdo
+ a
+ lo
+ registrado
+ en
+ el
+ informe
+ de
+ biodiversidad,
+ se
+ identifico
+ en
+ la
+ zona
+
+ sublitoral,
+la
+ presencia
+ de
+
+ ejemplares
+ moluscos,
+ de
+ la
+ especie _Crepidula_ sp.,ejemplares
+ de
+ la
+ familia _Mytilidae_,
+_Nacella_ sp
+ y _Chlamys_ sp.,
+
+ crustáceos
+ decápodos
+ sin
+ identificación,
+ del _Phyllum
+ Cnidaria_, _Primnoella_
+_chilensis_ (Gorgonacea: Primnoidae); _Phyllum_ _Chordata_ : _Pinguipes_ _chilensis_ (Perciformes:
+Pinguipedidae); _Phyllum
+ Echinodermata_ : _Pseudechinus
+ magellanicus_ (Temnopleuridae), _Arbacia_
+_dufresnei_ (Arbaciidae)
+ y _Cosmasteria
+ lurida_ (Asteriidae),
+ (Figura
+ 22).
+ Por
+ tanto,
+ y
+ aún
+ cuando
+ la
+modelación
+ refleja
+ que
+ el
+ aporte
+ de
+ carbono
+ orgánico
+ producto
+ de
+ la
+ operación
+ del
+ centro
+ no
+ se
+
+depositara
+ en
+ el
+ borde
+ costero,
+ el
+ Titular
+ se
+ compromete
+ a
+ un
+ muestreo
+ por
+ período
+ productivo
+ en
+ el
+sector
+ del
+ borde
+ costero
+ que
+ esta
+ dentro
+ del
+ área
+ de
+ influencia
+ directa
+ del
+ proyecto.
+ (figura
+ 22).
+
+_Figura
+ 22.
+ Biodiversidad
+ correspondiente
+ al
+ borde
+ costero
+ que
+ se
+ encuentra
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto_
+
+Se
+ reitera
+ que
+ el
+ proyecto
+ no
+ considera
+ instalaciones
+ en
+ tierra
+ y
+ por
+ ende
+ se
+ estima
+ que
+ no
+ afectará
+ los
+recursos
+ naturales
+ renovables
+ en
+ el
+ suelo.
+ Respecto
+ del
+ recurso
+ aire,
+ quedó
+ establecido
+ que
+ las
+emisiones
+ a
+ la
+ atmósfera
+ quedarán
+ confinadas
+ a
+ aquellas
+ correspondientes
+ al
+ uso
+ de
+ motores
+ fuera
+ de
+borda
+ equipados
+ con
+ motores
+ de
+ combustión
+ a
+ gas,
+ o
+ eventualmente
+ al
+ generador
+ del
+ pontón,
+emisiones
+ que
+ no
+ son
+ permanentes,
+ sino
+ que
+ esporádicas.
+
+En
+ relación
+ a
+ la
+ circulación
+ de
+ embarcaciones
+ para
+ la
+ operación
+ del
+ proyecto,
+ se
+ considera
+ lo
+ siguiente:
+
+_Tabla
+ 31_ .
+ Circulación
+ embarcaciones
+ de
+ la
+ operación
+ del
+ proyecto.
+
+|Ítem|Frecuencia|Ruta|
+|---|---|---|
+|_Transporte combustible_|_Cada_<br>_10_<br>_días_|_Ruta marítima Puerto Montt o Puerto Chacabuco hacia el_<br>_centrodecultivo(1)_|
+|_Cabotaje: transporte de_<br>_materiales, insumos, y/o_<br>_ensilaje_|_Cada_<br>_10_<br>_días_|_Ruta marítima desde X o XI región, hasta que en la región se_<br>_implemente la logística adecuada para operar desde la zona_<br>_( 1 y/o2)_|
+|_Alimento_|_Cada_<br>_10_<br>_días_|_Ruta marítima desde X o XI región, hasta que en la región se_<br>_implemente la logística adecuada para operar desde la zona_<br>_(1y/o2)_|
+|_Traslado de personal_|_Cada_<br>_7_<br>_días_|_Ruta marítima desde y hacia el centro de puerto Chacabuco_<br>_(3)_|
+|_Embarcación menor del_<br>_centro_|_Diario_|_Dentro del área concesionada entre sus instalaciones y_<br>_cuando corresponda al borde costero para limpieza de_<br>_playas,esdecir,dentrodeláreadeinfluenciadelproyecto_|
+
+_Ruta
+ (1):
+ Puerto
+ Montt-­‐Quellón-­‐Melinka
+ por:
+ Golfo
+ Corcovado
+ -
+ Canal
+ Moraleda
+ -
+ Canal
+ Jacaf
+ al
+ canal_
+_Puyuhuapi
+ o
+ por
+ el
+ Moraleda
+ al
+ Canal
+ Puyuhuapi
+ -­‐
+ Centro
+ de
+ cultivo_
+_Ruta
+ (2):
+ Puerto
+ Chacabuco,
+ Aysen
+ por:
+ Fiordo
+ de
+ Aysen-­‐Canales
+ Pilcomayo,
+ Ferronave
+ -
+ canal_
+_Puyuhuapi
+ al
+ Centro
+ de
+ cultivo_
+_Ruta
+ (3):
+ Puerto
+ Cisnes
+ en
+ el
+ canal
+ Puyuhuapi
+ al
+ centro
+ o
+ desde
+ Puyuhuapi
+ por
+ le
+ mismo
+ canal
+ al
+ centro._
+
+_Tal
+ como
+ se
+ mencionó,
+ estos
+ viajes
+ serán
+ realizados
+ por
+ los
+ tracks
+ de
+ navegación
+ establecidos
+ por
+ la_
+_Autoridad
+ Marítima
+ y
+ siguiendo
+ todas
+ las
+ medidas
+ de
+ bioseguridad
+ establecidas
+ por
+ el
+ Servicio_
+_Nacional
+ de
+ Pesca
+ y
+ Acuicultura,
+ por
+ lo
+ que
+ no
+ se
+ verán
+ afectados
+ otros
+ centros
+ de
+ cultivo
+ así
+ como_
+_tampoco
+ se
+ verán
+ afectados
+ centros
+ o
+ lugares
+ de
+ interés
+ turístico._
+
+_**El
+ titular
+ considera
+ que
+ con
+ base
+ en
+ los
+ antecedentes
+ expuestos,
+ considerando
+ la
+ envergadura
+ del**_
+_**proyecto,
+ las
+ condiciones
+ oceanográficas,
+ la
+ tecnología
+ de
+ punta
+ incorporada,
+ adoptando
+ las**_
+_**medidas
+ antes
+ mencionadas
+ y
+ operando
+ bajo
+ un
+ concepto
+ preventivo,
+ y
+ por
+ sobre
+ todo
+ la
+ política
+ de**_
+_**la
+ empresa
+ de
+ trabajar
+ con
+ bajas
+ densidades
+ de
+ cultivo,
+ no
+ se
+ generarán
+ efectos
+ adversos**_
+_**significativos
+ sobre
+ la
+ cantidad
+ y
+ calidad
+ de
+ los
+ recursos
+ naturales
+ renovables,
+ incluidos
+ suelo,
+ agua
+ y**_
+_**aire.**_
+
+_**Por
+ tanto,
+ de
+ acuerdo
+ a
+ este
+ análisis,
+ el
+ área
+ de
+ interés
+ presenta
+ la
+ capacidad
+ de
+ dilución,
+ dispersión,**_
+_**autodepuración,
+ asimilación
+ y
+ regeneración
+ de
+ los
+ recursos
+ naturales
+ renovables
+ presentes
+ en
+ el**_
+_**área
+ de
+ influencia
+ del
+ proyecto
+ o
+ actividad.**_
+
+**c)** **Reasentamiento
+ de
+ comunidades
+ humanas,
+ o
+ alteración
+ significativa
+ de
+ los
+ sistemas
+ de
+ vida**
+
+**y
+ costumbres
+ de
+ grupos
+ humanos;**
+La
+ solicitud
+ de
+ relocalización
+ Punta
+ Cesari
+ se
+ emplaza
+ en
+ Seno
+ Ventisquero
+ al
+ Noreste
+ Punta
+ Cesari,
+Comuna
+ de
+ Cisnes,
+ Región
+ de
+ Los
+ Lagos,
+ emplazada
+ dentro
+ de
+ las
+ AAA.
+ El
+ sector
+ es
+ acuícola,
+ donde
+ es
+
+posible
+ visualizar
+ actividad
+ antrópica
+ como
+ centros
+ de
+ cultivo
+ de
+ salmónidos
+ y
+ de
+ acuerdo
+ al
+ D.S.
+ No
+153
+ de
+ uso
+ de
+ preferente
+ para
+ el
+ turismo.
+
+A
+ continuación
+ se
+ realiza
+ un
+ análisis
+ para
+ determinar
+ si
+ la
+ implementación
+ del
+ proyecto
+ generará
+reasentamiento
+ o
+ alterará
+ significativamente
+ los
+ sistemas
+ de
+ vida;
+ el
+ análisis
+ se
+ acota
+ a
+ la
+ comuna
+ de
+Cisnes
+ y
+ se
+ utiliza
+ como
+ fuente
+ de
+ información
+ el
+ Reporte
+ estadístico
+ Comunal
+ 2012
+ de
+ la
+ comuna
+ de
+Cisnes
+ del
+ Biblioteca
+ del
+ Congreso
+ Nacional,
+ la
+ que
+ a
+ su
+ vez
+ utiliza
+ como
+ fuente
+ el
+ censo
+ 2002
+ y
+ la
+encuesta
+ Casen
+ del
+ año
+ 2009:
+
+El
+ centro
+ de
+ cultivo
+ se
+ ubica
+ a
+ más
+ de
+ 18
+ km
+ al
+ suroeste
+ de
+ Puyuhuapi,
+ a
+ 26
+ km
+ en
+ línea
+ recta
+ Puerto
+Cisnes,
+ y
+ a
+ 68
+ km
+ en
+ línea
+ recta
+ de
+ Puerto
+ gaviota.(Figura
+ 23).
+
+_Figura
+ 23.
+ Ubicación
+ centro
+ de
+ cultivo
+ y
+ distancia
+ aproximada
+ de
+ los
+ centros
+ poblados._
+
+De
+ acuerdo
+ a
+ la
+ zonificación
+ del
+ borde
+ costero,
+ los
+ sectores
+ poblados
+ más
+ cercanos
+ corresponden
+ a
+Raúl
+ Marín
+ Balmaceda,
+ ubicado
+ a
+ más
+ de
+ 83km
+ en
+ línea
+ recta
+ (311
+ habitantes);
+ La
+ Junta
+ a
+ 62
+ km
+ (1.281
+habitantes
+ aproximadamente);
+ Puerto
+ Puyuhuapi,
+ ubicado
+ a
+ unos
+ 18
+ km
+ (población
+ cercana
+ a
+ 826
+habitantes);
+ Puerto
+ Cisnes,
+ ubicado
+ aproximadamente
+ a
+ 26
+ km
+
+ (2.500
+ habitantes,
+ aproximadamente);
+
+Grupo
+ Gala
+ a
+ 52km
+ (población
+ cercana
+ a
+ 282
+ habitantes);
+ Puerto
+ Gaviota
+ a
+ 68km
+ (población
+ cercana
+ a
+346
+ habitantes);
+ Melimoyu
+ (poblado
+ de
+ 57
+ habitantes);
+ Santo
+ Domingo
+ localizado
+ a
+ unas
+ 70km
+(poblado
+ de
+ 28
+ habitantes) [7] .
+ De
+ acuerdo
+ a
+
+ la
+ información
+ proporcionada
+ por
+ SNIT
+ Coordinación
+regional
+ Aysen,
+ la
+ comuna
+ de
+ Cisnes
+ cuenta
+ con
+ Puertos,
+ y
+ caletas
+ de
+ pescadores
+ artesanales;
+aeródromos
+ en
+ las
+ áreas
+ de
+ Melinka
+ (1),
+ Raúl
+ Marín
+ Balmaceda
+ (2),
+ La
+ Junta
+ y
+ Risopatrón
+ (3),
+Puyuhuapi
+ (4),
+ Puerto
+ Cisnes
+ (5),
+ todo
+ esto
+ distante
+ y
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ (Figura
+24
+ y
+ 25).
+
+_Figura
+ 24.
+ Puertos
+ y
+ caletas
+ de
+ pescadores_
+
+7 Fuente: www.comunacisnes.cl
+
+|2<br>1<br>3<br>4<br>5|Col2|
+|---|---|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Figura 5. Asentamientos y aeródromos comuna de Cisnes.<br>||
+
+_Figura
+ 25.
+ Asentamientos
+ y
+ aeródromos
+ comuna
+ de
+ Cisnes._
+
+La
+ CC.AA.
+ del
+ proyecto
+ de
+ estudio
+ se
+ localiza
+ dentro
+ de
+ las
+ Áreas
+ Aptas
+ para
+ la
+ Acuicultura _(A.A.A.)_ y
+ en
+un _Área
+ de
+ Uso
+ Preferente
+ para
+ el
+ Turismo,_ de
+ acuerdo
+ a
+ la
+ Memoria
+ de
+ Zonificación
+ del
+ Borde
+ Costero
+de
+ la
+ Región
+ de
+ Aysen.
+ De
+ acuerdo
+ a
+ la
+ información
+ levantada
+ respecto
+ de
+ caleta
+ de
+ pescadores
+ y
+áreas
+ de
+ manejo;
+ estas
+ últimas
+ se
+ distribuyen
+ en
+ Estero
+ Sibbald,
+ canal
+ Puyuhuapi
+ y
+ Seno
+ Magdalena,
+distantes
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ En
+ tanto
+ las
+ caletas
+ de
+ pescadores
+ se
+ identificaron
+ tres
+en
+ el
+ área
+ más
+ próxima
+ al
+ emplazamiento,
+ Puerto
+ Cisnes,
+ Puerto
+ Puyuhuapi
+ y
+ Puerto
+ Gaviota
+ (figura
+13).
+
+En
+ cuanto
+ a
+ las
+ zonas
+ de
+ pesca,
+ de
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ por
+ Sernapesca,
+ y
+ de
+ la
+cual
+ se
+ dispone,
+ entre
+ las
+ especies
+ declaradas
+ y
+ desembarcadas,
+ se
+ reconoce
+ en
+ el
+ sector
+ del
+ canal
+Puyuhuapi
+ la
+ explotación
+ de
+ Almeja,
+ Sardina
+ Austral,
+ Congrio
+ Dorado
+ y
+ Merluza
+ Austral;
+ en
+ tanto
+ en
+Canal
+ Sibbald
+ se
+ reconoce
+ la
+ explotación
+ del
+ recurso
+ almeja,
+ Raya
+ Volantín,
+ Congrio
+ Dorado
+ y
+ Erizo,
+ en
+el
+ sector
+ de
+ Grupo
+ gala
+ la
+ explotación
+ de
+ Merluza
+ Austral.
+ Dado
+ que
+ el
+ proyecto
+ se
+ ubica
+ en
+ el
+ entorno
+cercano
+ a
+ algunas
+ zonas
+ de
+ pesca,
+ pero
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ el
+ titular
+ prevé,
+ que
+el
+ sector
+ que
+ pudiese
+ ser
+ susceptible
+ de
+ generar
+ algún
+ efecto
+ sería
+ el
+ área
+ en
+ donde
+ se
+ emplazarán
+ los
+sistemas
+ de
+ fondeo
+ (área
+ de
+ influencia
+ directa)
+ que
+ corresponde
+ a
+ un
+ polígono
+ de
+ 49,18
+ hás
+aproximadamente
+ (Figura
+ 26).
+ La
+ figura
+ 27
+ muestra
+ un
+ acercamiento
+ en
+ el
+ sector
+ próximo
+ al
+ rea
+ de
+influencia
+ del
+ proyecto,
+ se
+ puede
+ apreciar
+ que
+ las
+ zonas
+ de
+ pesca
+ ubicadas
+ en
+ el
+ canal
+ Puyuhuapi
+ se
+emplazan
+ distante
+ a
+ la
+ solicitud
+ de
+ concesión.
+ Ver
+ plano
+ adjunta
+ en **anexo
+ 7** .
+
+Sin
+ perjuicio
+ de
+ todo
+ lo
+ anterior,
+ el
+ Titular
+ reconoce
+ que
+ en
+ particular
+ la
+ región
+ de
+ Aysen
+ ha
+presentado
+ sitios
+ históricos
+ vinculados
+ a
+ la
+ actividad
+ de
+ la
+ pesca
+ artesanal
+ por
+ lo
+ que
+ no
+ descarta
+ la
+posibilidad
+ de
+ que
+ los
+ usos
+ históricos
+ sean
+ utilizados
+ en
+ la
+ actualidad
+ habida
+ consideración
+ de
+ la
+disponibilidad
+ de
+ los
+ recursos
+ pelágicos
+ o
+ demersales
+ que
+ en
+ el
+ desarrollo
+ de
+ esas
+ actividades
+históricas
+ se
+ obtuvieron.
+
+_Figura
+ 26.
+ Ubicación
+ centro
+ Cesari
+ y
+ Zonas
+ de
+ Pesca
+ (Fuente:
+ SERNAPESCA)_
+
+**Área
+ de
+ Influencia
+ Visual**
+
+**Área
+ de
+ Influencia
+ Directa**
+
+_Figura
+ 27.
+ Ubicación
+ centro
+ de
+ cultivo
+ Césari
+ y
+ zonas
+ de
+ pesca
+ de
+ Almeja
+ (2.03
+ millas
+ náuticas)
+ y
+ Sardina
+ Austral_
+_(3.59
+ millas
+ náuticas),
+ Área
+ color
+ Magenta,
+ Área
+ de
+ Influencia
+ Visual,
+ Área
+ color
+ rojo:
+ Área
+ de
+ Influencia
+ Directa_
+_(fuente:
+ SERNAPESCA)._
+
+Tal
+ como
+ se
+ detallo
+ anteriormente,
+ si
+ bien
+ existen
+ zonas
+ de
+ pesca
+ ubicadas
+ en
+ el
+ canal
+ Puyuhuapi,
+estas
+ se
+ encuentran
+ fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ el
+ titular
+ utilizará
+ sistemas
+ de
+ fondeo
+con
+ cadenas
+ en
+ el
+ primer
+ tercio
+ de
+ la
+ línea
+ lo
+ que
+ permite
+ que
+ éstas
+ desciendan
+ con
+ menor
+ ángulo
+(casi
+ perpendicular)
+ y
+ por
+ tanto
+ se
+ prevé
+ que
+ no
+ habrá
+ interferencia
+ con
+ las
+
+ embarcaciones
+ que
+naveguen
+ por
+ el
+ sector.
+
+Durante
+ la
+ campaña
+ de
+ terreno
+ no
+ se
+ visualizaron
+ asentamientos
+ de
+ grupos
+ humanos
+ en
+ el
+ área
+ de
+influencia,
+ establecidos
+ con
+ antelación
+ al
+ proyecto,
+ por
+ tanto,
+ se
+ prevé
+ que
+ éste
+ no
+ generará
+reasentamiento
+ de
+ comunidades.
+
+Tal
+ como
+ se
+ planteó
+ en
+ la
+ etapa
+ de
+ construcción,
+ el
+ presente
+ proyecto
+ sólo
+ cuenta
+ con
+ instalaciones
+ en
+mar,
+ no
+ tendrá
+ ninguna
+ instalación
+ de
+ apoyo
+ en
+ tierra.
+ Seguido
+ de
+ esto,
+ tal
+ como
+ se
+ planteó
+ en
+ el
+párrafo
+ anterior
+ el
+ poblado
+ más
+ cercano
+ se
+ ubica
+ aproximadamente
+ a
+ unos
+ 18km
+ (Puerto
+ Puyuhuapi),
+fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ Dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ no
+ hay
+asentamientos
+ humanos,
+ que
+ pudiesen
+ ser
+ afectado
+ por
+ la
+ operatividad
+ del
+ centro.
+
+De
+ acuerdo
+ a
+ los
+ resultados
+ obtenidos
+ en
+ el
+ censo
+ del
+ año
+ 2002,
+ la
+ región
+ de
+ Aysen
+ tiene
+ una
+población
+ total
+ de
+ 91.492
+ habitantes,
+ y
+ la
+ comuna
+ de
+ Cisnes
+ tiene
+ una
+ población
+ de
+ 5.739
+ habitantes,
+con
+ un
+ total
+ de
+ 1.600
+ hogares. [8] Del
+ total
+ poblacional
+ el
+ 22,26%
+ pertenece
+ a
+ la
+
+ etnia
+ Mapuche.
+ El
+ nivel
+educacional
+ refleja
+ que
+ 16,11%
+ cuentan
+ un
+ nivel
+ de
+ escolaridad
+ de
+ enseñanza
+ media,
+ el
+ 4,86%
+ cuenta
+con
+ un
+ educación
+ superior
+ completa _(Fuente:
+ Encuesta
+ de
+ caracterización
+ socio
+ económica
+ (CASEN),_
+_Ministerio
+ de
+ Desarrollo
+ Social,
+ año
+ 2009)._
+
+Respecto
+ de
+ la
+ dimensión
+ demográfica,
+
+ consistente
+ en
+ la
+ estructura
+ de
+ la
+ población
+ local
+ por
+ edades,
+sexo,
+ rama
+ de
+ actividad,
+ categoría
+ ocupacional
+ y
+ status
+ migratorio,
+ considerando
+ la
+ estructura
+ urbano
+rural;
+ la
+ estructura
+ según
+ rama
+ de
+ actividad
+ económica
+ y
+ categoría
+ ocupacional;
+ la
+ población
+económicamente
+ activa;
+ la
+ estructura
+ de
+ edad
+ y
+ sexo;
+ la
+ escolaridad
+ y
+ nivel
+ de
+ instrucción;
+ y
+ las
+migraciones.
+ (Letra
+ b,
+ Art.8
+ RSEIA).
+
+De
+ acuerdo
+ al
+ reporte
+ estadístico
+ comunal
+ 2012
+ de
+ la
+ comuna
+ de
+ Cisnes,
+ se
+ tiene
+ lo
+ siguiente:
+
+De
+ acuerdo
+ al
+ reporte
+ estadístico
+ comunal
+ 2012
+ de
+ la
+ comuna
+ de
+ Cisnes,
+ se
+ tiene
+ lo
+ siguiente:
+
+**Indicadores
+ demográficos**
+Del
+ total
+ de
+ la
+ población
+
+ de
+ la
+ Región
+ de
+ Aysen
+ (91.492
+ habitantes),
+ la
+ comuna
+ de
+ Cisnes
+ tiene
+ 5.739
+habitantes;
+ de
+ este
+ total
+ el
+ 59,4%
+ son
+ hombres
+ y
+ el
+ 26,27%
+ está
+ dentro
+ del
+ grupo
+ de
+ edad
+ de
+ 30
+ a
+ 44
+años.
+ El
+ índice
+ de
+ dependencia
+ demográfica
+ es
+ de
+ un
+ 44,78%
+ en
+ la
+ comuna
+ de
+ Cisnes
+ y
+ el
+ índice
+ de
+adultos
+ mayores
+ es
+ de
+ 16,55%.
+
+De
+ acuerdo
+ a
+ la
+ encuesta
+ Casen
+ del
+ año
+ 2009,
+ del
+ total
+ de
+ la
+ población
+ de
+ la
+ comuna
+ de
+ Cisnes
+ el
+22,26%
+ pertenece
+ a
+ la
+ etnia
+ Mapuche;
+ y
+ el
+ 69,9%
+ de
+ la
+ población
+ profesa
+ la
+ religión
+ católica.
+
+De
+ los
+ grupos
+ originarios
+ antes
+ mencionados,
+ los
+ únicos
+ con
+ presencia
+ histórica
+ en
+ la
+ Región
+ son
+ los
+Alacalufes,
+ pueblo
+ indígena
+ canoero,
+ que
+ recorría
+ los
+ canales
+ y
+ no
+ tenia
+ asentamientos
+ en
+ ninguno
+ de
+ellos.
+ No
+ existe
+ evidencia
+ de
+ navegantes
+ que
+ hayan
+ declarado
+ ser
+ descendientes
+ de
+ pueblos
+ originarios
+y
+ que
+ reclamen
+ territorios
+ o
+ zonas
+ de
+ pesca
+ en
+ el
+ sector
+ de
+ emplazamiento
+ del
+ centro
+ de
+ cultivo.
+ Por
+su
+ ubicación
+ geográfica
+ es
+ poco
+ frecuente
+ ver
+ embarcaciones
+ en
+ actividades
+ de
+ pesca
+ extractiva
+ en
+ el
+área.
+ De
+ igual
+ forma
+ se
+ destaca
+ que
+ este
+ centro
+ no
+ posee
+ instalaciones
+ en
+ tierra,
+ por
+ lo
+ cual
+ de
+ existir
+no
+ interferirá
+ con
+ sitios
+ de
+ valor
+ arqueológico
+ que
+ pudieran
+ ser
+ encontrados.
+
+8 Fuente: reportes estadísticos comunales 2012. Comuna de Cisnes
+
+**Indicadores
+ sociales**
+En
+ la
+ Comuna
+ de
+ Cisnes
+ el
+ 1,89%
+ es
+ pobre
+ indigente
+ y
+ el
+ 2,95%
+ pobre
+ no
+ indigente;
+ respecto
+ de
+ los
+hogares
+ el
+ 1,63
+ es
+ pobre
+ indigente
+ y
+ el
+ 2,63
+ es
+ pobre
+ no
+ indigente;
+ en
+ tanto
+ el
+ 19,69%
+ de
+ los
+ hogares
+tiene
+ a
+
+ la
+ mujer
+ como
+ jefa
+ de
+ hogar.
+ El
+ ingreso
+ promedio
+ en
+ la
+ comuna
+ es
+ de
+ $649.303.
+ El
+ índice
+ de
+hacinamiento
+ dice
+ que
+ el
+ 91,94%
+ son
+ hogares
+ sin
+ hacinamiento
+ y
+ el
+ 88,81%
+ hogares
+ sin
+ allegamiento
+interno.
+ La
+ tenencia
+ de
+ viviendas
+ se
+ detalla
+ que
+ el
+ 65,31%
+ tiene
+ viviendas
+ pagadas
+ y
+ el
+ 17,19%
+ son
+cedidas;
+ el
+ 99,50%
+ cuenta
+ con
+ casa,
+ no
+ hay
+ declarado
+ la
+ tenencia
+ de
+ departamentos
+ y/o
+ piezas.
+ Del
+99,5%
+ el
+ 72,56%
+ se
+ habla
+ de
+ una
+ vivienda
+ de
+ calidad
+ aceptable
+ y
+ sólo
+ el
+ 0,5%
+ es
+ irrecuperable.
+
+**Indicadores
+ de
+ salud**
+El
+ acceso
+ de
+ las
+ personas
+ a
+ los
+ servicios
+ de
+ salud
+ está
+ determinado
+ por
+ el
+ tipo
+ de
+ seguro
+ al
+ cual
+ están
+afiliados.
+ En
+ el
+ año
+ 2009
+ el
+ 78,9
+ %
+ de
+ la
+ población
+ pertenece
+ al
+ seguro
+ público,
+ y
+ 13,04%
+ a
+ seguros
+privados
+ (ISAPRES).
+ De
+ acuerdo
+ a
+ datos
+ CASEN,
+ el
+ sistema
+ público
+ ha
+ tenido
+ un
+ incremento
+ sostenido
+de
+ sus
+ beneficiarios
+ desde
+ el
+ año
+ 2003.
+ En
+ el
+ mismo
+ período
+ se
+ observa
+ una
+ creciente
+ disminución
+ del
+porcentaje
+ de
+ población
+ no
+ cubierta
+ por
+ ningún
+ seguro
+ de
+ salud
+ (en
+ categoría
+ “Particular”)
+
+La
+ encuesta
+ Casen
+ 2009
+ permite
+ constatar
+ que
+ existen
+ importantes
+ diferencias
+ regionales
+ en
+ la
+afiliación
+ a
+ un
+ determinado
+ sistema,
+ verificándose
+ la
+ mayor
+ tasa
+ de
+ afiliación
+ a
+ ISAPRE
+ en
+ Región
+Metropolitana
+ (20%
+ versus
+ 13%
+ del
+ promedio
+ nacional).
+
+FONASA
+ clasifica
+ a
+ sus
+ beneficiarios
+ en
+ tramos
+ según
+ ingreso
+ (A/B/C/D),
+ lo
+ que
+ determina
+ su
+ forma
+ de
+acceder
+ a
+ la
+ atención
+ de
+ salud.
+ El
+ año
+ 2010,
+ del
+ total
+ de
+ los
+ afiliados
+ a
+ FONASA,
+ el
+ 34,9%
+ se
+ inscribe
+ en
+grupo
+ A
+ (personas
+ carentes
+ de
+ ingresos),
+ personas
+ para
+ las
+ cuales
+ no
+ está
+ disponible
+ la
+ modalidad
+ de
+libre
+ elección.
+
+En
+ la
+ comuna
+ hay
+ un
+ hospital
+ y
+ 5
+ postas
+ rurales.
+
+**Indicadores
+ educacionales**
+Se
+ expone
+ un
+ conjunto
+ de
+ datos
+ educacionales
+ para
+ obtener
+ una
+ primera
+ visión
+ del
+ mapa
+ de
+establecimientos
+ que
+ imparten
+ educación
+ escolar
+ en
+ las
+ comunas
+ del
+ país.
+ Los
+ datos
+ sirven
+ para
+comparar
+ la
+ comuna
+ con
+ la
+ región
+ y
+ el
+ país,
+ cómo
+ se
+ distribuyen
+ los
+ establecimientos
+ por
+ dependencia
+-­‐municipal,
+ particular
+ subvencionado,
+ particular
+ pagado-­‐
+ y
+ si
+ han
+ existido
+ variaciones
+ en
+ los
+ últimos
+cinco
+ años
+ en
+ términos
+ de
+ aumentos
+ o
+ disminuciones.
+
+Asimismo,
+ se
+ aportan
+ los
+ resultados
+ promedio
+ de
+ las
+ pruebas
+ de
+ medición
+ calidad
+ (Simce)
+ durante
+ la
+trayectoria
+ escolar
+ y
+ los
+ resultados
+ al
+ egreso
+ del
+ sistema
+ escolar,
+ según
+ la
+ Pruebas
+ de
+ Selección
+Universitaria
+ (PSU),
+ en
+ orden
+ a
+ observar
+ elementos
+ de
+ desempeño.
+
+Finalmente,
+ se
+ incluyen
+ los
+ años
+ de
+ escolaridad
+ promedio
+ de
+ la
+ población
+ que
+ permiten
+ observar
+ el
+nivel
+ educacional
+ de
+ la
+ población
+ y
+ cómo
+ ha
+ evolucionado
+ en
+ los
+ últimos
+ seis
+ años.
+ Como
+ una
+ cifra
+relevante,
+ que
+ da
+ cuenta
+ del
+ crecimiento
+ dramático
+ de
+ la
+ cobertura
+ de
+ educación
+ superior
+ en
+ Chile,
+ en
+nivel
+ de
+ educación,
+ la
+ superior
+ completa,
+ más
+ que
+ se
+ duplica
+ entre
+ los
+ años
+ 2003
+ y
+ 2009.
+
+En
+ la
+ comuna,
+ año
+ 2009,
+
+ los
+ años
+ de
+ escolaridad
+ promedio
+ es
+ de
+ 8.26;
+ 5.74%
+ del
+ total
+ de
+ la
+ población
+esta
+ sin
+ educación,
+ 16%
+ con
+ educación
+ básica
+ completa,
+ 16.11%
+ con
+ enseñanza
+ media
+ completa
+ y
+ tan
+sólo
+ el
+ 4.86%
+ con
+ educación
+ superior
+ completa.
+
+**Indicadores
+ económicos**
+Las
+ tasas
+ de
+ desocupación
+ a
+ nivel
+ nacional
+ son
+ uno
+ de
+ los
+ indicadores
+ más
+ relevantes
+ a
+ la
+ hora
+ de
+establecer
+ comparaciones
+ regionales
+ o
+ comunales.
+ Ellas,
+ reflejan
+ en
+ gran
+ medida
+ la
+ situación
+económica
+ de
+ la
+ Comuna
+ en
+ relación
+ a
+ la
+ Región
+ y
+ al
+ conjunto
+ del
+ país.
+ Como
+ dato
+ de
+ referencia,
+ cabe
+mencionar
+ que
+ la
+ tasa
+ de
+ desempleo
+ nacional
+ ha
+ ido
+ reduciéndose
+ desde
+ 2009,
+ y
+ en
+ la
+ actualidad
+ se
+sitúa
+ en
+ torno
+ al
+ 6-­‐7%.
+
+Relacionado
+ con
+ el
+ empleo
+ y
+ la
+ actividad
+ económica,
+ y
+ con
+ la
+ finalidad
+ de
+ comprender
+ las
+características
+ propias
+ de
+ cada
+ Comuna
+ y
+ poner
+ en
+ concordancia
+ las
+ políticas
+ de
+ promoción
+ de
+ la
+actividad
+ empresarial
+ con
+ la
+ realidad
+ comunal,
+ es
+ necesario
+ conocer
+ y
+ ponderar
+ la
+ importancia
+ relativa
+de
+ la
+ pequeña,
+ mediana
+ y
+ microempresa
+ y
+ la
+ cantidad
+ de
+ empleos
+ que
+ generan
+ cada
+ una.
+
+Los
+ principales
+ rubros
+ a
+ tener
+ en
+ cuenta,
+ y
+ donde
+ las
+ comparaciones
+ con
+ el
+ total
+ nacional
+ y
+ regional
+tienen
+ más
+ relevancia,
+ son
+ comercio
+ al
+ por
+ mayor
+ y
+ menor,
+ transportes,
+ construcción
+ y
+ actividades
+inmobiliarias,
+ y
+ las
+ actividades
+ relativas
+ a
+ los
+ servicios
+ las
+ cuales,
+ en
+ general,
+ están
+ presentes
+ a
+ lo
+ largo
+de
+ todo
+ el
+ país.
+ Sin
+ embargo,
+ también
+ se
+ debe
+ tener
+ presente
+ los
+ datos
+ de
+ las
+ actividades
+ que
+ son
+ más
+importantes
+ para
+ cada
+ Comuna
+ en
+ particular,
+ más
+ allá
+ de
+ las
+ comparaciones
+ nacionales.
+
+Las
+ tasas
+ de
+ desocupación
+ para
+ el
+ año
+ 2009
+ es
+ de
+ 8.95%,
+ respecto
+ del
+ número
+ de
+ empresas
+ por
+ rubro,
+se
+ tiene
+ que
+ de
+ un
+ total
+ de
+ 475
+ empresas,
+ 159
+ se
+ dedican
+ al
+ comercio
+ y
+ solo
+ 15
+ a
+ Pesca;
+ en
+ tanto
+ el
+número
+ de
+ trabajadores
+ pro
+ rubro,
+ se
+ tiene
+ que
+ de
+ un
+ total
+ de
+ 971
+ trabajadores,
+ 230
+ se
+ dedican
+ ala
+construcción,
+ 218
+ a
+ actividades
+ inmobiliarias
+ y
+ 206
+ a
+ pesca.
+
+Finalmente,
+ el
+ Titular
+ destaca
+ que,
+ aun
+ cuando
+ el
+ proyecto
+ se
+ encuentra
+ emplazado
+ en
+ las
+ áreas
+definidas
+ como
+ aptas
+ para
+ la
+ acuicultura,
+ y
+ que
+ de
+ acuerdo
+ a
+ la
+ información
+ proporcionada
+ por
+Sernapesca
+ el
+ proyecto
+ se
+ emplaza
+ distante,
+ a
+ las
+ área
+ de
+ manejo
+ de
+ Estero
+ Sibbald,
+ canal
+ Puyuhuapi
+ y
+Seno
+ Magdalena,
+ y
+ que
+ aún
+ cuando
+ existen
+ zonas
+ de
+ pesca
+ en
+ el
+ canal
+ Puyuhuapi,
+ estas
+ se
+ ubican
+fuera
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ distantes
+
+ a
+ más
+ de
+ 2
+ millas
+ náuticas
+ el
+ titular
+ reconoce
+ que
+en
+ particular
+ la
+ región
+ de
+ Aysén
+ ha
+ presentado
+ sitios
+ históricos
+ vinculados
+ a
+ la
+ actividad
+ de
+ la
+ pesca
+artesanal
+ por
+ lo
+ que
+ no
+ descarta
+ la
+ posibilidad
+ de
+ que
+ los
+ usos
+ históricos
+ sean
+ utilizados
+ en
+ la
+actualidad
+ habida
+ consideración
+ de
+ la
+ disponibilidad
+ de
+ los
+ recursos
+ pelágicos
+ o
+ demersales
+ que
+ en
+ el
+desarrollo
+ de
+ esas
+ actividades
+ históricas
+ se
+ obtuvieron.
+
+_De
+ acuerdo
+ a
+ lo
+ expuesto
+ en
+ los
+ párrafos
+ anteriores,
+ la
+ comuna
+ de
+ Cisnes
+ presenta
+ una
+ condición
+ socio_
+_cultural
+ acorde
+ a
+ la
+ estructura
+ de
+ la
+ región
+ y
+ dentro
+ de
+ lo
+ esperado
+ a
+ nivel
+ nacional,
+ ya
+ que
+ el
+ centro
+ no_
+_contará
+ con
+ infraestructura
+ en
+ tierra
+ y
+ en
+ virtud
+ de
+ la
+ ubicación
+ de
+ éste,
+ distante
+ a
+ unos
+ 18
+ km_
+_aproximadamente
+ del
+ centro
+ poblado
+ de
+ la
+ comuna
+ más
+ cercano,
+ Puyuhuapi,
+ y
+ distantes
+ de
+ la
+ mayoría_
+_de
+ las
+ áreas
+ de
+ manejo
+ y
+ áreas
+ de
+ pesca,
+ que
+ de
+ acuerdo
+ al
+ análisis
+ se
+ encuentran
+ todas
+ fuera
+ del
+ área_
+_del
+ influencia
+ del
+ proyecto,
+ sumado
+ a
+ los
+ compromisos
+ propuestos,
+ se
+ evalúa
+ que
+ la
+ relocalización
+
+ del_
+
+_centro
+ de
+ cultivo_ _**no**_ _afectará
+ la
+ dimensión
+ geográfica,
+ demográfica,
+ antropológica,
+ socioeconómica
+ y_
+_de
+ bienestar
+ social
+ básico
+ de
+ las
+ comunidades
+ adyacentes
+ al
+ proyecto.
+ Sólo
+ presentará
+ una_
+_oportunidad
+ laboral
+ a
+ la
+ ya
+ existente
+ en
+ el
+ sector._
+
+**d)** **Localización
+ en
+ o
+ próxima
+ a
+ poblaciones,
+ recursos
+ y
+ áreas
+ protegidas,
+ sitios
+ prioritarios
+ para**
+
+**la
+ conservación,
+ humedales
+ protegidos
+ y
+ glaciares,
+ susceptibles
+ de
+ ser
+ afectados,
+ así
+ como**
+**el
+ valor
+ ambiental
+ del
+ territorio
+ en
+ que
+ se
+ pretende
+ emplazar;**
+En
+ relación
+ a
+ áreas
+ protegidas,
+ podemos
+ señalar
+ que
+ el
+ lugar
+ de
+ emplazamiento
+ se
+ encuentra
+ dentro
+de
+ las
+ “Áreas
+ Aptas
+ para
+ la
+ Acuicultura”
+ según
+ lo
+ han
+ establecido
+ los
+ D.S.
+ (M)
+ No
+ 359/94
+ y
+ 350/96,
+modificados
+ por
+ los
+ D.S.
+ N°
+ 100/95,
+ 27/2004,
+ 252/2009,
+ 201/2010
+ y
+ D.S.
+ (SS.FF.AA)
+ N°
+ 1393/2011
+ y
+3818/2012,
+ todos
+ del
+ MINDEF,
+ que
+ establecen
+ las
+ áreas
+ apropiadas
+ para
+ el
+ ejercicio
+ de
+ la
+ acuicultura
+en
+ la
+ región
+ de
+ Aysen,
+ y
+ que
+ ubican
+ al
+ área
+ de
+ Punta
+ Cesari
+ como
+ área
+ apta
+ para
+ realizar
+ el
+ cultivo
+ de
+toda
+ especie
+ o
+ grupos
+ de
+ especies.
+
+El
+ centro
+ de
+ cultivo
+ se
+ encuentra
+ dentro
+ del
+ seno
+ Ventisquero,
+ canal
+ Puyuhuapi,
+ que
+ de
+ acuerdo
+ al
+ DS
+No
+ 153
+ es
+ de
+ uso
+ preferente
+ para
+ el
+ turismo;
+
+ distante
+ a
+ 6
+ km
+ del
+ parque
+ Nacional
+ Queulat,
+ fuera
+ del
+área
+ de
+ influencia
+ del
+ proyecto
+ aun
+ cuando
+ sus
+ instalaciones
+ serán
+ visibles
+ desde
+ las
+ embarcaciones
+que
+ naveguen
+ por
+ el
+ canal.
+ De
+ las
+ demás
+ áreas
+ SNASPE,
+ el
+ Parque
+ Nacional
+ Isla
+ Magdalena
+ y
+ Reserva
+Nacional
+ Lago
+ Rosselot,
+ situadas
+ a
+ 21
+ kms.
+ y
+ 44
+ kms.
+ del
+ proyecto
+ en
+ línea
+ recta,
+ son
+ las
+ más
+ cercanas.
+(figura
+ 28).
+
+Con
+ la
+ finalidad
+ de
+ asegurar
+ que
+ no
+ se
+ producirán
+ efectos
+ significativos
+ sobre
+ las
+ áreas
+ protegidas
+ en
+las
+ cuales
+ el
+ proyecto
+ se
+ encuentra
+ inserto
+ se
+ procedió
+ a
+ realizar
+ una
+ modelación
+ de
+ la
+ dispersión
+ de
+los
+ sólidos
+ (alimento
+ no
+ consumido
+ y
+ fecas)
+ y
+ la
+ concentración
+ de
+ carbono
+ (materia
+ orgánica)
+ que
+ se
+acumula
+ por
+ m [2] en
+ un
+ año
+ de
+ producción
+ máxima.
+
+Los
+ resultados
+ de
+ los
+ cálculos
+ de
+ dispersión
+ e
+ índice
+ de
+ impacto
+ se
+ encuentran
+ detallados
+ en
+ el
+ literal
+b),
+ que
+ de
+ acuerdo
+ a
+ la
+ modelación
+ matemática
+ obtenida,
+ se
+ prevé
+ que
+ el
+ centro
+ de
+ cultivo
+ Punta
+Cesari
+ está
+ acorde
+ con
+ la
+ capacidad
+ de
+ carga
+ del
+ lugar,
+ lo
+ que
+ sugiere
+ un
+ desarrollo
+ sustentable
+ del
+sistema
+ de
+ cultivo.
+ Adicionalmente
+ el
+ titular
+ se
+ compromete
+ a
+ realizar
+ un
+ estudio
+ complementario
+ en
+cada
+ período
+ de
+ productivo,
+ para
+ tener
+ una
+ levantamiento
+ de
+ línea
+ de
+ base
+ ambiental
+ del
+ borde
+costero
+ que
+ se
+ ubica
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ la
+ metodología
+ a
+ utilizar
+ será
+ la
+planteada
+ en
+ el
+ estudio
+ de
+
+ biodiversidad
+ (anexo
+ 6),
+ por
+ tanto
+ con
+ ello
+ se
+ hará
+ un
+ seguimiento
+ para
+determinara
+ que
+ el
+ centro
+ de
+ cultivo
+ no
+ estaría
+ afectando
+ la
+ fauna
+ encontrada
+ en
+ el
+ borde
+ costero
+
+_Figura
+ 28.
+ Ubicación
+ centro
+ de
+ cultivo
+ respecto
+ de
+ SNASPE
+ más
+ cercano_
+
+De
+ la
+ misma
+ forma,
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ no
+ está
+ definida
+ como
+ área
+ de
+ Patrimonio
+Cultural,
+ no
+ se
+ encuentran
+ sitios
+ arqueológicos,
+ como
+ tampoco
+ se
+ evidencian
+ predios
+ indígenas,
+ ni
+áreas
+ de
+ desarrollo
+ indígena
+ ni
+ tierras
+ ancestrales.
+
+Con
+ la
+ finalidad
+ de
+ dar
+ garantías
+ de
+ que
+ no
+ se
+ producirán
+ efectos
+ adversos
+ significativos
+ sobre
+ las
+áreas
+ protegidas
+ en
+ las
+ cuales
+ el
+ proyecto
+ se
+ encuentra
+ inserto
+ se
+ procedió
+ a
+ realizar
+ una
+ modelación
+de
+ la
+ dispersión
+ de
+ los
+ sólidos
+ (alimento
+ no
+ consumido
+ y
+ fecas)
+ y
+ la
+ concentración
+ de
+ carbono
+ (materia
+orgánica)
+ que
+ se
+ acumula
+ por
+ m [2] en
+ un
+ año
+ de
+ producción
+ máxima.
+
+Los
+ resultados
+ de
+ los
+ cálculos
+ de
+ dispersión
+ e
+ índice
+ de
+ impacto
+ que
+ dio
+ como
+ resultado
+ un
+ valor
+ 2,15,
+utilizando
+ el
+ promedio
+ de
+ corrientes
+ a
+ un
+ metro
+ del
+ fondo;
+ se
+ encuentran
+ descritos
+ en
+ detalle
+ en
+ el
+literal
+ b),
+ que
+ de
+ acuerdo
+ a
+ la
+ modelación
+ matemática
+ obtenida,
+ se
+ prevé
+ que
+ el
+ centro
+ de
+ cultivo
+Punta
+ Césari,
+ está
+ acorde
+ con
+ la
+ capacidad
+ de
+ carga
+ del
+ lugar,
+ lo
+ que
+ indicaría
+ una
+ un
+ desarrollo
+sustentable
+ del
+ sistema
+ de
+ cultivo.
+
+De
+ la
+ misma
+ manera
+ es
+ preciso
+ destacar
+ que
+ la
+ mancha
+ de
+ biosólidos
+ tiene
+ un
+ desplazamiento
+ hacia
+ el
+medio
+ de
+ canal,
+ alejándose
+ de
+ la
+ línea
+ de
+ costa
+ que
+ está
+ dentro
+ del
+ área
+ de
+ influencia,
+ en
+ dicho
+ borde
+costero,
+ de
+ acuerdo
+ a
+ lo
+ registrado
+ en
+ el
+ informe
+ de
+ biodversidad,
+ se
+ identifico
+ en
+ la
+ zona
+
+ litoral
+moluscos
+ de
+ la
+ clase _Archeogastropodas_ Crepidulas
+ sp, _Bivalvia_ con
+ ejemplares
+ de
+ las
+ familia
+_Mytilidae_ ;
+ acompañada
+ con
+ ejemplares
+ de
+ la
+ clase _Echinoidea_ y _Asteroidea_,
+ ejemplares
+ de
+ la
+ clase
+_Gorgonacea_, _Primnoella
+ chilensis_,
+ principalmente.
+ Por
+ tanto,
+ y
+ aún
+ cuando
+ la
+ modelación
+ refleja
+ que
+ el
+aporte
+ de
+ carbono
+ orgánico
+ producto
+ de
+ la
+ operación
+ del
+ centro
+ no
+ se
+ depositara
+ en
+ el
+ borde
+ costero,
+el
+ Titular
+ se
+ compromete
+ a
+ un
+ muestreo
+ anual
+ en
+ el
+ sector
+ definido,
+ como
+ muestreo
+ de
+ seguimiento
+que
+ permitirá
+ tener
+ una
+ línea
+ de
+ base
+ ambiental
+ en
+ el
+ borde
+ costero
+ que
+ se
+ ubica
+ dentro
+ del
+ Área
+ de
+Influencia
+ Directa
+ del
+ proyecto.
+
+_De
+ acuerdo
+ a
+ lo
+ anteriormente
+ expuesto,
+ por
+ emplazamiento
+ (distante
+ a
+ áreas
+ protegidas)
+ y
+ de_
+_acuerdo
+ a
+ los
+ cálculos
+ de
+ dispersión
+ e
+ índice
+ de
+ impacto,
+ el
+ Titular
+ no
+ prevé
+ que
+ la
+ operación
+ del
+ centro_
+_afecte
+ poblaciones,
+ recursos
+ y
+ áreas
+ protegidas,_
+
+**e)** **Alteración
+ significativa,
+ en
+ términos
+ de
+ magnitud
+
+ o
+ duración,
+ del
+ valor
+ paisajístico
+ o**
+
+**turístico
+ de
+ una
+ zona,
+ y**
+En
+ relación
+ a
+ áreas
+ protegidas,
+ podemos
+ señalar
+ que
+ el
+ lugar
+ de
+ emplazamiento
+ se
+ encuentra
+ dentro
+de
+ las
+ “Áreas
+ Aptas
+ para
+ la
+ Acuicultura”
+ según
+ lo
+ han
+ establecido
+ los
+ D.S.
+ (M)
+ No
+ 359/94
+ y
+ 350/96,
+modificados
+ por
+ los
+ D.S.
+ N°
+ 100/95,
+ 27/2004,
+ 252/2009,
+ 201/2010
+ y
+ D.S.
+ (SS.FF.AA)
+ N°
+ 1393/2011
+ y
+3818/2012,
+ todos
+ del
+ MINDEF,
+ que
+ establecen
+ las
+ áreas
+ apropiadas
+ para
+ el
+ ejercicio
+ de
+ la
+ acuicultura
+en
+ la
+ región
+ de
+ Aysen,
+ y
+ que
+ ubican
+ al
+ área
+ de
+ Punta
+ Cesari
+ como
+ área
+ apta
+ para
+ realizar
+ el
+ cultivo
+ de
+toda
+ especie
+ o
+ grupos
+ de
+ especies.
+
+Respecto
+ del
+ entorno
+ donde
+ se
+ pretende
+ implementar
+ el
+ centro
+ de
+ cultivo
+
+ Punta
+ Cesari,
+ se
+ trata
+ de
+ un
+sector
+ con
+ los
+ siguientes
+ recursos:
+
+ Proyecciones
+ visuales:
+ campo
+ visual
+ amplio
+ caracterizado
+ por
+ vistas
+ lejanas
+ hacia
+ las
+ partes
+altas
+ de
+ la
+ costa
+ este
+ y
+ oeste
+ de
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Monte
+ Queulat.
+
+ Hitos
+ visuales:
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Monte
+ Queulat.
+
+ Cursos
+ de
+ agua:
+ el
+ proyecto
+ se
+ encuentra
+ situado
+ en
+ el
+ Seno
+ Ventisquero,
+ al
+ noreste
+ de
+ Punta
+Cesari.
+ Presencia
+ de
+ cursos
+ menores
+ de
+ agua
+ asociados
+ a
+ fondos
+ de
+ quebrada.
+
+ Cubiertas
+ vegetales
+ dominantes:
+ la
+ cubierta
+ arbórea
+ dominante
+ corresponde
+ a
+ bosque
+siempreverde
+ templado
+ interior
+ de _Nothofagus
+ nítida_ (Coigue
+ de
+ Chiloé), _Podocarpus
+ nubigena_
+(Mañío
+ macho), _Nothofagus
+ betuloides_ (Coigue
+ de
+ Magallanes)
+ y _Desfontainia
+ spinosa_ (Michay).
+
+ Áreas
+ singulares:
+ el
+ proyecto
+ se
+ encuentra
+ situado
+ en
+ la
+ costa
+ oeste
+ de
+ Seno
+ Ventisquero,
+ a
+ 8,4
+kms.
+ aproximadamente
+ del
+ sector
+ Las
+ Termas,
+ esto
+ es,
+ Termas
+ de
+ Puyuhuapi;
+ y
+ a
+ unos
+ 4,8
+ kms.
+de
+ Seno
+ Queulat.
+
+En
+ relación
+ a
+ los
+ resultados
+ del
+ Informe
+ de
+ Paisaje
+ y
+ Turismo,
+ sus
+ resultados
+ indican
+ lo
+ siguiente:
+
+**RESULTADOS**
+
+**Unidades
+ de
+ paisaje**
+
+Se
+ determinó
+ la
+ presencia
+ de
+ 1
+ UP
+ (figura
+ 29),
+ siendo
+ los
+ elementos
+ o
+ componentes
+ principales
+ la
+vegetación
+ y
+ la
+ morfología
+ del
+ terreno.
+ Se
+ trata
+ de
+ un
+ sector
+ de
+ vegetación
+ nativa
+ y
+ de
+ pendientes
+fuertes,
+ con
+ cotas
+ que
+ alcanzan
+ los
+ 1.200
+ mts.
+ hacia
+ la
+ costa
+ oeste
+ de
+ Seno
+ Ventisquero.
+
+La
+ UP
+ identificada
+ corresponde
+ a
+ “Bosque
+ nativo
+ denso,
+ escarpado”
+ (967,9
+ hás.),
+ llegando
+prácticamente
+ a
+ la
+ línea
+ de
+ costa
+ en
+ el
+ sector
+ oeste
+ de
+ Seno
+ Ventisquero.
+ En
+ relación
+ a
+ la
+ cubierta
+arbórea
+ asociada,
+ se
+ trata
+ principalmente
+ de
+ bosque
+ siempreverde
+ templado
+ interior
+ de _Nothofagus_
+
+_nítida_ (Coigue
+ de
+ Chiloé), _Podocarpus
+ nubigena_ (Mañío
+ macho), _Nothofagus
+ betuloides_ (Coigue
+ de
+Magallanes)
+ y _Desfontainia
+ spinosa_ (Michay).
+
+_Figura
+ 29.
+ Unidades
+ de
+ paisaje
+ centro
+ Punta
+ Césari_
+
+**Cuenca
+ visual**
+Las
+ figuras
+ N°30
+ y
+ N°31
+ muestran
+ las
+ cuencas
+ visuales
+ asociadas
+ al
+ track
+ de
+ navegación
+ Canal
+ Moraleda
+-­‐
+ Canal
+ Jacaf
+ -­‐
+ Seno
+ Ventisquero
+ -­‐
+ Canal
+ Puyuhuapi
+ y
+ a
+ la
+ Ruta
+ 7
+ (Carretera
+ Austral).
+ En
+ el
+ primer
+ caso
+la
+ cuenca
+ visual
+ configurada
+ es
+ tipo
+ irregular
+ (mezcla
+ de
+ cuencas
+ de
+ tipo
+ alargadas
+ y
+ redondeadas),
+ con
+una
+ importante
+ componente
+ unidireccional
+ dada
+ por
+ el
+ Canal
+ Moraleda,
+ Canal
+ Jacaf,
+ Seno
+ Ventisquero
+y
+ Canal
+ Puyuhuapi,
+ y
+ vistas
+ abiertas
+ hacia
+ Cerro
+ Horacio,
+ Cerro
+ Colmillo,
+ Nevado
+ Queulat,
+ Cerro
+Quilodrán
+ y
+ Monte
+ Mentolat.
+ En
+ cuanto
+ a
+ la
+ cuenca
+ visual
+ asociada
+ a
+ la
+ Ruta
+ 7
+ (Carretera
+ Austral),
+ la
+cuenca
+ configurada
+ es
+ tipo
+ unidireccional,
+ quedando
+ condicionada
+ por
+ Seno
+ Ventisquero,
+ Canal
+Puyuhuapi
+ y
+ Seno
+ Queulat.
+
+En
+ el
+ caso
+ de
+ la
+ figura
+ N°30
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ aparece
+ como
+ visible,
+ quedando
+ el
+track
+ Seno
+ Ventisquero
+ a
+ unos
+ 1,6
+ kms.
+ del
+ proyecto,
+ y
+ en
+ donde
+ la
+ visibilidad
+ efectiva
+ del
+ proyecto
+está
+ dada
+ por
+ el
+ área
+ de
+ influencia
+ visual
+ (buffer
+ de
+ 2.500
+ mts.).
+ Asimismo,
+ la
+ visibilidad
+ del
+ proyecto
+desde
+ la
+ Ruta
+ 7
+ (Carretera
+ Austral)
+ se
+ encuentra
+ condicionada
+ por
+ la
+ distancia
+ a
+ la
+ concesión,
+ esto
+ es,
+unos
+ 5,7
+ kms,
+ por
+ lo
+ que
+ se
+ sitúa
+ fuera
+ de
+ área
+ de
+ influencia
+ visual
+ (figura
+ N°31).
+
+Respecto
+ del
+ track
+ que
+ conecta
+ con
+ las
+ Termas
+ de
+ Puyuhuapi
+ (sector
+ Las
+ Termas),
+ y
+ en
+ virtud
+ de
+ la
+distancia
+ al
+ proyecto
+ (8,4
+ kms.
+ aproximadamente),
+ las
+ obras
+ asociadas
+ a
+ éste
+ no
+ lograrán
+ ser
+visualizadas,
+ por
+ cuanto
+ se
+ encuentran
+ fuera
+ de
+ su
+ área
+ de
+ influencia
+ visual.
+
+En
+ cuanto
+ a
+ la
+ cuenca
+ visual
+ configurada
+ por
+ un
+ observador
+ teórico
+ situado
+ a
+ 2.500
+ mts.
+ de
+ la
+concesión
+ (figura
+ No32),
+ se
+ observa
+ que
+ ésta
+ es
+ de
+ tipo
+ unidireccional,
+ con
+ vistas
+ hacia
+ Puyuhuapi,
+Seno
+ Ventisquero,
+ Seno
+ Queulat,
+ Nevado
+ Queulat
+ y
+ Cerro
+ Quilodrán.
+
+Los
+ primeros
+ y
+ segundos
+ planos
+ en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ (0-­‐500
+ y
+ 500-­‐2.000
+ mts.,
+respectivamente),
+ quedan
+ caracterizados
+ por
+ el
+ sector
+ noreste
+ de
+ Punta
+ Cesari,
+ costa
+ oeste
+ de
+ Seno
+Ventisquero.
+ Los
+ planos
+ de
+ fondo
+ (sobre
+ los
+ 2.000
+ mts.),
+ mientras
+ tanto,
+ están
+ dados
+ por
+ Nevado
+
+Queulat,
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Cerro
+ Quilodrán.
+ La
+ UP
+ “Bosque
+ nativo
+ denso,
+ escarpado”,
+constituye
+ el
+ plano
+ predominante
+ en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto.
+
+_Figura
+ 30
+ Cuenca
+ visual
+ track
+ de
+ navegación
+ turístico
+ comercial_
+
+_Figura
+ 31
+ Cuenca
+ visual
+ ruta
+ 7
+ y
+ ruta
+ X-­‐24_
+
+_Figura
+ 32Cuenca
+ visual
+ de
+ un
+ observador
+ teórico_
+
+**Calidad
+ visual
+ del
+ paisaje**
+La
+ valoración
+ de
+ la
+ calidad
+ visual
+ se
+ hizo
+ en
+ función
+ de
+ la
+ UP
+ identificada.
+ El
+ valor
+ para
+ el
+ área
+ de
+estudio,
+ como
+ resultado
+ de
+ la
+ sumatoria
+ de
+ cada
+ uno
+ de
+ los
+ valores
+ para
+ cada
+ factor,
+ fue
+ de
+ 210,
+ lo
+que
+ arroja
+ una
+ “calidad
+ visual
+ alta”
+ para
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto.
+ Ver
+ informe
+ de
+paisaje
+ adjunto
+ en
+ el **anexo
+ 6** .
+
+**Fragilidad
+ visual
+ del
+ paisaje**
+De
+ la
+ aplicación
+ del
+ método
+ propuesto
+ (Modelo
+ Rojas,
+ Kong
+ 1998
+ en
+ SERNATUR
+ 2009),
+ que
+ contempla
+un
+ grupo
+ de
+ cuatro
+ factores
+ (biofísicos,
+ de
+ visualización,
+ singularidad
+ y
+ accesibilidad
+ visual),
+ se
+ obtuvo
+para
+ el
+ área
+ de
+ influencia
+ del
+ proyecto,
+ es
+ decir,
+ área
+ de
+ emplazamiento,
+ una
+ fragilidad
+ visual
+ media
+(FV=180),
+ lo
+ que
+ significa
+ una
+ susceptibilidad
+ moderada
+ del
+ paisaje
+ frente
+ a
+ las
+ obras
+ propuestas.
+
+ Ver
+informe
+ de
+ paisaje
+ adjunto
+ en
+ el **anexo
+ 6** .
+
+**Modelación
+ fotográfica**
+El
+ resultado
+ de
+ la
+
+ modelación
+ fotográfica
+ del
+ área,
+ incluyendo
+ las
+ obras
+ del
+ proyecto,
+ se
+ puede
+visualizar
+ de
+ manera
+ objetiva
+ en
+ la
+ figura
+ N°33.
+ En
+ las
+ transectas
+ de
+ navegación
+ se
+ ha
+ trabajado
+ con
+ las
+estructuras
+ asociadas
+ al
+ proyecto
+ utilizando
+ el
+ mismo
+ color.
+
+Se
+ observa
+ que
+ entre
+ los
+ 500
+ y
+ 1.000
+ mts.
+ de
+ distancia
+ a
+ la
+ concesión
+ las
+ obras
+ son
+ perfectamente
+reconocibles.
+ En
+ tanto
+ los
+ puntos
+ de
+ toma
+ de
+ fotografías
+ se
+ van
+ alejando
+ de
+ la
+ concesión,
+ en
+ dirección
+
+al
+ centro
+ de
+ Seno
+ Ventisquero,
+ la
+ altura
+ del
+ pontón
+ provoca
+ un
+ mínimo
+ corte
+ visual,
+ lo
+ cual
+ se
+ ve
+favorecido
+ por
+ una
+ cubierta
+ arbórea
+ densa
+ dominante
+ (UP
+ “Bosque
+ nativo
+ denso,
+ escarpado”)
+ hacia
+ la
+costa
+ oeste
+ de
+ Seno
+ Ventisquero,
+ sector
+ noreste
+ de
+ Punta
+ Cesari.
+
+Entre
+ los
+ 1.000
+ y
+ 2.000
+ mts.
+ las
+ obras
+ comienzan
+ a
+ integrarse
+ paisajísticamente,
+ toda
+ vez
+ que
+ los
+colores
+ utilizados
+ provocan
+ un
+ mínimo
+ contraste
+ visual.
+ En
+ la
+ transecta
+ 1
+ se
+ registran
+ fotografías
+ hacia
+la
+ costa
+ noroeste
+ de
+ Seno
+ Ventisquero,
+ mientras
+ que
+ en
+ la
+ transecta
+ 2
+ se
+ tiene
+ como
+ plano
+ de
+ fondo
+Punta
+ Cesari,
+ costa
+ suroeste
+ de
+ Seno
+ Ventisquero.
+ Cabe
+ destacar
+ que
+ el
+ proyecto
+ se
+ encuentra
+ a
+ unos
+1,6
+ kms.
+ del
+ track
+ Seno
+ Ventisquero.
+
+Hacia
+ los
+ 2.000
+ a
+ 2.500
+ mts.
+ las
+ obras
+ dejan
+ de
+ percibirse
+ en
+ detalle.
+ Lo
+ que
+ un
+ observador
+ ve
+ puede
+perfectamente
+ confundirse
+ con
+ una
+ embarcación
+ menor
+ que
+ está
+ de
+ paso
+ por
+ el
+ sector,
+ por
+ lo
+ que
+ el
+impacto
+ visual
+ resulta
+ ser
+ mínimo
+ o
+ poco
+ significativo.
+ Así,
+ y
+ en
+ virtud
+ de
+ que
+ la
+ capacidad
+ de
+absorción
+ visual
+ del
+ área
+ de
+ estudio
+ es
+ moderada,
+ es
+ dable
+ señalar
+ que
+ el
+ proyecto
+ no
+ genera
+ efectos
+o
+ impactos
+ adversos
+ significativos
+ sobre
+ el
+ valor
+ ambiental
+ y
+ paisajístico
+ del
+ área
+ en
+ que
+ se
+ pretende
+emplazar.
+ El
+ uso
+ de
+ colores
+ acorde
+ al
+ fondo
+ escénico
+ e
+ instalaciones
+ de
+ baja
+ altura,
+ genera
+ condiciones
+que
+ aminoran
+ el
+ impacto
+ visual
+ adverso
+ sobre
+ el
+ medio
+ natural
+ circundante,
+ lo
+ que
+ comienza
+ a
+evidenciarse
+ a
+ partir
+ de
+ los
+ 1.000
+ mts.
+ de
+ distancia
+ a
+ las
+ obras.
+
+500
+ metros
+
+1000
+ metros
+
+1500
+ metros
+
+2000
+ metros
+
+2500
+ metros
+
+_Figura
+ 33.
+ Fotomontaje
+ centro
+ Punta
+ Césari_
+
+_**En
+ virtud
+ de
+ que
+ la
+ capacidad
+ de
+ absorción
+ visual
+ del
+ área
+ de
+ estudio
+ es
+ moderada,
+ es
+ dable
+ señalar**_
+_**que
+ el
+ proyecto
+ no
+ genera
+ efectos
+ o
+ impactos
+ adversos
+ significativos
+ sobre
+ el
+ valor
+ ambiental
+ y**_
+_**paisajístico
+ del
+ área
+ en
+ que
+ se
+ pretende
+ emplazar.
+ El
+ uso
+ de
+ colores
+ acorde
+ al
+ fondo
+ escénico
+ e**_
+_**instalaciones
+ de
+ baja
+ altura,
+ genera
+ condiciones
+ que
+ aminoran
+ el
+ impacto
+ visual
+ adverso
+ sobre
+ el**_
+_**medio
+ natural
+ circundante,
+ lo
+ que
+ comienza
+ a
+ evidenciarse
+ a
+ partir
+ de
+ los
+ 1.000
+ mts.
+ de
+ distancia
+ a**_
+_**las
+ obras.**_
+
+**ANÁLISIS
+ TURÍSTICO**
+
+**Sistema
+ Nacional
+ de
+ Áreas
+ Silvestres
+ Protegidas
+ por
+ el
+ Estado
+ (SNASPE)**
+En
+ la
+ figura
+ N°34
+ es
+ posible
+ ver
+ la
+ distribución
+ espacial
+ de
+ las
+ principales
+ Áreas
+ Silvestres
+ Protegidas
+ del
+Estado
+ en
+ la
+ Región
+ de
+ Aysén.
+ Se
+ trata
+ de
+ 5
+ Parques
+ Nacionales,
+ 12
+ Reservas
+ Nacionales
+ y
+ 2
+Monumentos
+ Naturales
+ (tabla
+ N°31).
+ Como
+ se
+ ve,
+ el
+ centro
+ Punta
+ Cesari
+ se
+ sitúa
+ a
+ 6
+ kms.
+ del
+ Parque
+Nacional
+ Queulat,
+ quedando
+ por
+ tanto
+ fuera
+ de
+ su
+ área
+ de
+ influencia
+ visual.
+ De
+ las
+ demás
+ áreas
+SNASPE,
+ el
+ Parque
+ Nacional
+ Isla
+ Magdalena
+ y
+ Reserva
+ Nacional
+ Lago
+ Rosselot,
+ situadas
+ a
+ 21
+ kms.
+ y
+ 44
+kms.
+ del
+ proyecto
+ en
+ línea
+ recta,
+ son
+ las
+ más
+ cercanas.
+
+_Figura
+ 34.
+ Áreas
+ SNASPE
+ en
+ la
+ Región
+ de
+ Aysén_
+Fuente:
+ Gobierno
+ Regional
+ de
+ Aysén.
+ SNASPE.
+ Carta
+ Base
+ 02.
+ Fecha
+ 03/2011.
+
+_Tabla
+ 32.
+ Áreas
+ SNASPE
+ y
+ distancia
+ en
+ línea
+ recta
+ al
+ centro
+ de
+ cultivo_
+
+|N°|Área SNASPE|Distancia al centro (Kms.)|
+|---|---|---|
+|1|ReservaNacionalLagoRosselot|44|
+|2|ParqueNacionalQueulat|6|
+|3|ParqueNacionalIslaMagdalena|21|
+|4|ParqueNacionalIslaGuamblin|191|
+|5|ReservaNacionalLasGuaitecas|75|
+|6|ReservaNacionalLagoCarlota|74|
+|7|ReservaNacionalLagoLasTorres|46|
+|8|ReservaNacionalMañiguales|88|
+|9|ReservaNacionalTrapananda|115|
+|10|ReservaNacionalRíoSimpson|99|
+|11|MonumentoNaturalCincoHermanas|97|
+|12|ReservaNacionalCoyhaique|122|
+|13|MonumentoNaturalDosLagunas|131|
+|14|ReservaNacionalCerroCastillo|144|
+|15|ParqueNacionalLagunaSanRafael|212|
+|16|ReservaNacionalLagoJeinimeni|233|
+|17|ReservaNacionalTamango|294|
+|18|ReservaNacionalKatalalixa|351|
+|19|ParqueNacionalBernardoO'Higgins|398|
+
+Fuente:
+ elaboración
+ propia.
+
+**Proyecto
+ y
+ área
+ de
+ Influencia**
+De
+ acuerdo
+ a
+ las
+ “Áreas
+ Turísticas
+ Prioritarias
+ de
+ Chile”
+ (SERNATUR
+ 2011),
+ el
+ proyecto
+ se
+ encuentra
+dentro
+ de
+ las
+ Áreas
+ Turísticas
+ Prioritarias
+ 2011.
+ En
+ la
+ figura
+ N°35
+ y
+ tabla
+ N°32,
+ mientras
+ tanto,
+ se
+ tiene
+los
+ atractivos
+ turísticos
+ más
+ cercanos
+ al
+ proyecto
+ de
+ acuerdo
+ a
+ SERNATUR.
+ Dentro
+ de
+ éstos
+ se
+ tiene
+Seno
+ Queulat,
+ a
+ unos
+ 4,8
+ kms.,
+ Parque
+ Nacional
+ Queulat
+ y
+ Temas
+ de
+ Puyuhuapi
+ distantes
+ 6
+ y
+ 8,4
+ kms.,
+respectivamente.
+
+En
+ relación
+ a
+ las
+ Zonas
+ y
+ Centros
+ de
+ Interés
+ Turístico
+ Nacional,
+ ZOIT
+ y
+ CEIT
+ (SERNATUR
+ 2009b
+ y
+ 2011),
+la
+ Región
+ cuenta
+ con
+ la
+ ZOIT
+ “Lago
+ General
+ Carrera”.
+ Respecto
+ de
+ aquellas
+ en
+ revisión
+ para
+ ser
+declaradas como tal, se tiene: ZOIT Puyuhuapi/Raúl Marín Balmaceda, ZOIT
+Puyuhuapi/Quitralco/Estero
+ Elefante,
+ ZOIT
+ Hoya
+ Superior
+ Río
+ Blanco
+ y
+ ZOIT
+ Tortel/Lago
+ O ́Higgins.
+ Al
+respecto,
+ el
+ centro
+ de
+ cultivo
+ se
+ sitúa
+ dentro
+ de
+ la
+ propuesta
+ de
+ ZOIT
+ Puyuhuapi/Quitralco/Estero
+Elefante.
+
+Cabe
+ destacar
+ la
+ importancia
+ y
+ número
+ de
+ atractivos
+ turísticos
+ que
+ presenta
+ la
+ zona
+ de
+ emplazamiento
+del
+ proyecto,
+ cuya
+ relevancia
+ o
+ jerarquía
+ va
+ desde
+ lo
+ local
+ a
+ internacional.
+ En
+ este
+ sentido,
+ y
+ dada
+ la
+relativa
+ cercanía
+ del
+ proyecto
+ a
+ Seno
+ Queulat,
+ Parque
+ Nacional
+ Queulat
+ y
+ Termas
+ de
+ Puyuhuapi,
+además
+ de
+ estar
+ situado
+ a
+ unos
+ 5,7
+ kms.
+ de
+ la
+ Ruta
+ 7
+ (Carretera
+ Austral),
+ principal
+ ruta
+ de
+ conexión
+
+con
+ otros
+ atractivos
+ de
+ la
+ zona,
+ el
+ titular
+ reconoce
+ la
+ importancia
+ de
+ las
+ medidas
+ de
+ mitigación
+ a
+implementar
+ con
+ el
+ fin
+ de
+ reducir
+ al
+ mínimo
+ el
+ impacto
+ visual
+ y
+ paisajístico
+ del
+ proyecto.
+
+_Figura
+ 35.
+ Atractivos
+ turísticos
+ cercanos
+ al
+ centro
+ de
+ cultivo_
+
+**15**
+**16-17-18**
+
+**11**
+
+**12-13**
+
+**14**
+
+**21**
+
+**22**
+
+**20**
+**23**
+
+**19**
+
+Fuente:
+ elaborado
+ a
+ partir
+ de
+ SERNATUR,
+ según
+ solicitud
+ de
+ información
+ pública
+ AH008W-­‐0000435
+ año
+ 2013.
+
+_Tabla
+ 33.
+ Atractivos
+ turísticos
+ cercanos
+ al
+ proyecto
+ según
+ jerarquía,
+ categoría
+ y
+ distancia
+ en
+ línea
+ recta
+ al
+ centro_
+_de
+ cultivo_
+
+|N°|Nombre|Jerarquía|Categoría|Coordenadas WGS-­‐84, Zona 18<br>Sur|Col6|Distancia al<br>centro (Kms.)|
+|---|---|---|---|---|---|---|
+|**N°**|**Nombre**|**Jerarquía**|**Categoría**|**Este_UTM**|**Norte_UTM**|**Norte_UTM**|
+|1|Península de<br>Melimoyu|Nacional|Sitio Natural|645262<br>|5118871<br>|62|
+|2|SenoGala|Nacional|SitioNatural|648270|5104783|50|
+|3|VolcánMelimoyu|Nacional|SitioNatural|670506|5118120|49|
+|4|LagoRisopatrón|Nacional|SitioNatural|697395|5094300|24|
+|5|Puyuhuapi|Nacional|Folklore|694636|5089131|18|
+|6|Fiesta Costumbrista<br>entre Curanto y<br>Kuchen|Local|Acontecimiento Programado|694617|5089275|18|
+|7|TermasdePuyuhuapi|Internacional|SitioNatural|687418|5079433|8,4|
+|8|Ventisquero Colgante<br>Queulat|Nacional|Sitio Natural|698705|5076758|13|
+|9|Seno Queulat|Nacional|Sitio Natural|691150|5070112<br>|4,8|
+|10|Parque Nacional<br>Queulat|Internacional|Sitio Natural|708036|5069771|6|
+|11|Piedra El Gato|Local|Realización Técnica, Científica o<br>ArtísticaContemporánea|718190|5048698<br>|38|
+|12|Festival Internacional<br>de Jineteadas y Fiesta<br>delaCarreteraAustral|Internacional|Acontecimiento Programado|720787<br>|5041295<br>|45|
+|13|VillaAmengual|Regional|Folklore|720776|5041267|45|
+|14|Reserva Nacional Lago<br>LasTorres|Nacional|Sitio Natural|722465|5034158|51|
+|15|RíoCisnes|Internacional|SitioNatural|697329|5048768|24|
+|16|Semana de Puerto<br>Cisnes|Local|Acontecimiento Programado|683717|5044752<br>|26|
+|17|Fiesta del Pescao Frito<br>enPuertoCismes|Regional|Acontecimiento Programado|683628|5044739|26|
+|18|PuertoCisnes|Nacional|Folklore|683678|5044681|26|
+|19|CanalPuyuhuapi|Nacional|SitioNatural|670701|5039523|35|
+|20|TermasValleMarta|Local|SitioNatural|663119|5029735|46|
+|21|MonteMentolat|Regional|SitioNatural|652371|5049112|40|
+|22|Parque Nacional Isla<br>Magdalena|Nacional|Sitio Natural|646261|5046490|46|
+|23|CanalMoraleda|Nacional|SitioNatural|618243|5032867|77|
+
+Fuente:
+ elaborado
+ a
+ partir
+ de
+ SERNATUR,
+ según
+ solicitud
+ de
+ información
+ pública
+ AH008W-­‐0000435
+ año
+ 2013.
+
+**CONCLUSIONES**
+De
+ acuerdo
+ a
+ lo
+ expuesto
+ en
+ el
+ presente
+ documento
+ se
+ puede
+ concluir
+ lo
+ siguiente:
+
+ El
+ área
+ en
+ que
+ se
+ emplaza
+ el
+ proyecto
+ corresponde
+ a
+ una
+ zona
+ de
+ uso
+ preferente
+ para
+ el
+turismo.
+
+ Las
+ componentes
+ principales
+ en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ corresponden
+ a
+vegetación
+ y
+ morfología
+ del
+ terreno.
+
+ Se
+ identificó
+ la
+ “Bosque
+ nativo
+ denso,
+ escarpado”.
+ La
+ cubierta
+ arbórea
+ nativa
+ predominante
+corresponde
+ bosque
+ siempreverde
+ templado
+ interior
+ de _Nothofagus
+ nítida_ (Coigue
+ de
+ Chiloé),
+
+_Podocarpus
+ nubigena_ (Mañío
+ macho), _Nothofagus
+ betuloides_ (Coigue
+ de
+ Magallanes)
+ y
+_Desfontainia
+ spinosa_ (Michay).
+
+El
+ tipo
+ de
+ cuenca
+ visual
+ configurada,
+ asociada
+ al
+ proyecto
+ y
+ las
+ rutas
+ de
+ navegación
+identificadas,
+ es
+ de
+ carácter
+ irregular,
+ esto
+ es,
+ mezcla
+ de
+ cuencas
+ de
+ tipos
+ redondeadas
+ y
+alargadas,
+ con
+ una
+ importante
+ componente
+ unidireccional
+ dada
+ por
+ el
+ Canal
+ Moraleda,
+ Canal
+Jacaf,
+ Seno
+ Ventisquero
+ y
+ Canal
+ Puyuhuapi,
+ y
+ vistas
+ abiertas
+ hacia
+ Cerro
+ Horacio,
+ Cerro
+Colmillo,
+ Nevado
+ Queulat,
+ Cerro
+ Quilodrán
+ y
+ Monte
+ Mentolat.
+
+La
+ cuenca
+ visual
+ asociada
+ a
+ la
+ Ruta
+ 7
+ (Carretera
+ Austral)
+ es
+ tipo
+ unidireccional,
+ quedando
+condicionada
+ por
+ Seno
+ Ventisquero,
+ Canal
+ Puyuhuapi
+ y
+ Seno
+ Queulat.
+
+Se
+ constata
+ que
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ aparece
+ como
+ visible
+ desde
+ el
+ track
+ de
+navegación
+ Seno
+ Ventisquero
+ y
+ Ruta
+ 7
+ (Carretera
+ Austral),
+ en
+ donde
+ su
+ visibilidad
+ efectiva
+ está
+dada
+ por
+ su
+ área
+ de
+ influencia
+ visual
+ (buffer
+ de
+ 2.500
+ mts.).
+ Al
+ respecto,
+ el
+ proyecto
+ se
+ sitúa
+ a
+unos
+ 1,6
+ kms.
+ y
+ 5,7
+ kms.
+ del
+ track
+ Seno
+ Ventisquero
+ y
+ la
+ Ruta
+ 7,
+ respectivamente.
+
+Respecto
+ del
+ track
+ que
+ conecta
+ con
+ las
+ Termas
+ de
+ Puyuhuapi
+ (sector
+ Las
+ Termas),
+ y
+ en
+ virtud
+de
+ la
+ distancia
+ al
+ proyecto
+ (8,4
+ kms.
+ aproximadamente),
+ las
+ obras
+ asociadas
+ a
+ éste
+ no
+ lograrán
+ser
+ visualizadas,
+ por
+ cuanto
+ se
+ encuentran
+ fuera
+ de
+ su
+ área
+ de
+ influencia
+ visual.
+
+La
+ cuenca
+ visual
+ configurada
+ por
+ un
+ observador
+ teórico
+ situado
+ a
+ 2.500
+ mts.
+ de
+ la
+ concesión
+ es
+de
+ tipo
+ unidireccional,
+ con
+ vistas
+ hacia
+ Puyuhuapi,
+ Seno
+ Ventisquero,
+ Seno
+ Queulat,
+ Nevado
+Queulat
+ y
+ Cerro
+ Quilodrán.
+
+Los
+ primeros
+ y
+ segundos
+ planos
+ en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ (0-­‐500
+ y
+ 500-­‐2.000
+mts.,
+ respectivamente)
+ quedan
+ caracterizados
+ por
+ el
+ sector
+ noreste
+ de
+ Punta
+ Cesari,
+ costa
+oeste
+ de
+ Seno
+ Ventisquero.
+ Los
+ planos
+ de
+ fondo
+ (sobre
+ los
+ 2.000
+ mts.)
+ están
+ dados
+ por
+Nevado
+ Queulat,
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Cerro
+ Quilodrán.
+
+Se
+ registra
+ una
+ calidad
+ visual
+ alta
+ para
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto.
+ Los
+ valores
+ con
+máxima
+ valoración
+ corresponden
+ a
+ “morfología
+ o
+ terreno”,
+ “vegetación”,
+ “formas
+ de
+ agua”,
+“fondo
+ escénico”
+ y
+ “singularidad
+ o
+ rareza”.
+ Seno
+ Ventisquero,
+ con
+ una
+ alta
+ significancia
+ en
+ la
+estructura
+ global
+ del
+ paisaje,
+ potencia
+ la
+ apreciación
+ estética
+ del
+ área
+ de
+ emplazamiento
+ del
+proyecto.
+ Se
+ trata
+ de
+ un
+ paisaje
+ singular,
+ dado
+ por
+ las
+ Termas
+ de
+ Puyuhuapi
+ y
+ proyecciones
+visuales
+ hacia
+ Seno
+ Ventisquero,
+ Seno
+ Queulat
+ y
+ Nevado
+ Queulat.
+
+El
+ área
+ en
+ que
+ se
+ emplaza
+ el
+ centro
+ de
+ cultivo
+ presenta
+ cierto
+ grado
+ de
+ intervención
+ antrópica,
+dada
+ por
+ la
+ existencia
+ de
+ centros
+ de
+ cultivos
+ de
+ salmónidos
+ en
+ las
+ cercanías
+ del
+ proyecto,
+ la
+existencia
+ de
+ las
+ Termas
+ de
+ Puyuhuapi
+ y
+ de
+ la
+ Ruta
+ 7
+ (Carretera
+ Austral)
+ que
+ conecta
+ con
+ los
+principales
+ atractivos
+ turísticos
+ de
+ la
+ zona.
+
+Se
+ registra
+ una
+ fragilidad
+ visual
+ media
+ para
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto,
+ con
+ una
+
+capacidad
+ de
+ absorción
+ visual
+ moderada
+ del
+ paisaje
+ frente
+ a
+ las
+ obras
+ propuestas,
+ lo
+ cual
+ se
+ ve
+favorecido
+ por
+ el
+ predominio
+ de
+ una
+ cubierta
+ vegetal
+ densa
+ (UP
+ “Bosque
+ nativo
+ denso,
+escarpado”).
+ La
+ máxima
+ valoración
+ la
+ tienen
+ los
+ elementos
+ “pendiente”,
+ forma
+ de
+ la
+ cuenca
+visual”,
+ “compacidad”
+ y
+ “unicidad
+ del
+ paisaje”.
+
+En
+ cuanto
+ a
+ las
+ transectas
+ de
+ navegación,
+ entre
+ los
+ 500
+ y
+ 1.000
+ mts.
+ de
+ distancia
+ a
+ la
+concesión,
+ las
+ obras
+ son
+ perfectamente
+ reconocibles,
+ mientras
+ que
+ entre
+ los
+ 1.000
+ y
+ 2.000
+mts.
+ éstas
+ comienzan
+ a
+ integrarse
+ paisajísticamente,
+ toda
+ vez
+ que
+ los
+ colores
+ utilizados
+provocan
+ un
+ mínimo
+ contraste
+ visual.
+ Hacia
+ los
+ 2.000
+ y
+ 2.500
+ mts.
+ las
+ obras
+ dejan
+ de
+
+percibirse
+ en
+ detalle,
+ por
+ lo
+ que
+ lo
+ que
+ un
+ observador
+ ve
+ puede
+ perfectamente
+ confundirse
+con
+ una
+ embarcación
+ menor
+ que
+ está
+ de
+ paso
+ por
+ el
+ sector.
+
+ En
+ la
+ transecta
+ 1
+ se
+ tiene
+ como
+ plano
+ de
+ fondo
+ la
+ costa
+ noroeste
+ de
+ Seno
+ Ventisquero,
+mientras
+ que
+ en
+ la
+ transecta
+ 2
+ se
+ observa
+ Punta
+ Cesari,
+ costa
+ suroeste
+ de
+ Seno
+ Ventisquero.
+Cabe
+ destacar
+ que
+ el
+ track
+ Seno
+ Ventisquero,
+ situado
+ a
+ unos
+ 1,6
+ kms.
+ del
+ proyecto,
+ se
+encuentra
+ dentro
+ de
+ su
+ área
+ de
+ influencia
+ visual,
+ quedando
+ por
+ tanto
+ en
+ un
+ plano
+ medio
+ a
+lejano.
+
+ Respecto
+ de
+ las
+ áreas
+ SNASPE,
+ una
+ de
+ las
+ más
+ cercanas
+ al
+ proyecto
+ es
+ el
+ Parque
+ Nacional
+
+Queulat
+ distante
+ unos
+ 6
+ kms.,
+ con
+ cual
+ se
+ sitúa
+ fuera
+ de
+ su
+ área
+ de
+ influencia
+ visual.
+
+ El
+ proyecto
+ se
+ encuentra
+ dentro
+ de
+ las
+ Áreas
+ Turísticas
+ Prioritarias
+ 2011.
+ Asimismo,
+ dentro
+ de
+
+los
+ atractivos
+ turísticos
+ más
+ cercanos
+ se
+ tiene
+ Seno
+ Queulat,
+ a
+ unos
+ 4,8
+ kms.,
+ Parque
+ Nacional
+Queulat
+ y
+ Temas
+ de
+ Puyuhuapi
+ distantes
+ 6
+ y
+ 8,4
+ kms.,
+ respectivamente.
+ Si
+ bien
+ es
+ cierto
+ track
+de
+
+ navegación
+ Seno
+ Ventisquero
+ se
+ encuentra
+ dentro
+ del
+ área
+ de
+ influencia
+ visual
+ del
+proyecto,
+ su
+ visibilidad
+ efectiva
+ está
+ en
+ condicionada
+ por
+ la
+ distancia
+ al
+ centro
+ de
+ cultivo,
+ esto
+es
+ 1,6
+ kms.
+
+ Dada
+ la
+ importancia
+ de
+ los
+ atractivos
+ turísticos
+ existentes
+ en
+ la
+ zona
+ y
+ la
+ cercanía
+ del
+ proyecto
+a
+ Seno
+ Queulat,
+ Termas
+ de
+ Puyuhuapi
+ y
+ Ruta
+ 7
+ (Carretera
+ Austral),
+ que
+ conecta
+ con
+ diversos
+atractivos
+ turísticos,
+ el
+ titular
+ reconoce
+ la
+ necesidad
+ de
+ hacerse
+ cargo
+ del
+ impacto
+ visual
+ y
+paisajístico
+ que
+ el
+ proyecto
+ genere
+ con
+ ocasión
+ de
+ su
+ implementación
+ y
+ puesta
+ en
+ operación.
+En
+ este
+ sentido,
+ se
+ proponen
+ un
+ conjunto
+ de
+ compromisos
+ detallados
+ en
+ el
+ capítulo
+ 7,
+ y
+ que
+asimismo
+ han
+ sido
+ reflejadas
+ en
+ la
+ simulación
+ fotográfica
+ (capítulo
+ 5.5),
+ en
+ donde
+ el
+ uso
+apropiado
+ de
+ colores
+ permite
+ disminuir
+ el
+ impacto
+ visual,
+ generando
+ un
+ menor
+ contraste
+ con
+el
+ fondo
+ escénico
+ y
+ una
+ mayor
+ integración
+ paisajística
+ de
+ las
+ obras
+ proyectadas,
+ no
+ rompiendo
+así
+ la
+ dominancia
+ visual
+ de
+ los
+ planos
+ de
+ fondo
+ en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto.
+
+**Compromisos**
+Respecto
+ de
+ este
+ punto,
+ y
+ dadas
+ las
+ conclusiones
+ del
+ estudio
+ de
+ paisaje
+ y
+ turismo
+ que
+ señalan
+ que:
+ a)
+el
+ área
+ donde
+ se
+ localizará
+ el
+ proyecto
+ centro
+ de
+ cultivo
+ de
+ salmónidos
+ Punta
+ Cesari
+ presenta
+ una
+calidad
+ visual
+ alta
+ y
+ fragilidad
+ visual
+ media,
+ con
+ una
+ capacidad
+ de
+ absorción
+ moderada
+ del
+ medio
+natural
+ frente
+ a
+ las
+ obras
+ que
+ se
+ proyectan;
+ b)
+ el
+ sector
+ Seno
+ Ventisquero
+ está
+ definido
+ como
+ un
+ área
+preferencial
+ para
+ el
+ turismo;
+ y
+ c)
+ de
+ acuerdo
+ a
+ la
+ información
+ recopilada
+ por
+ el
+ consultor
+ el
+ proyecto
+ se
+encuentra
+ a
+ 4,8
+ kms.
+ de
+ Seno
+ Queulat,
+ a
+ 1,6
+ kms.
+ del
+ track
+ Seno
+ Ventisquero
+ y
+ a
+ unos
+ 5,7
+ kms.
+ de
+ la
+Ruta
+ 7
+ (Carretera
+ Austral);
+ el
+ titular,
+ en
+ virtud
+ de
+ dar
+ plena
+ garantía
+ de
+ que
+ el
+ proyecto
+ no
+ interferirá
+en
+ el
+ desarrollo
+ turístico
+ de
+ la
+ zona
+ (actual
+ o
+ futuro)
+ y
+ de
+ que
+ buscará
+ reducir
+ al
+ mínimo
+ el
+ impacto
+visual
+ asociado
+ a
+ la
+ implementación
+ del
+ proyecto
+ (pontón
+ y
+ balsas
+ jaulas),
+ presenta
+ las
+ siguientes
+medidas
+ de
+ mitigación.
+
+**Medidas
+ de
+ diseño**
+El
+ titular
+ se
+ compromete
+ a
+ implementar
+ el
+ centro
+ con
+ un
+ pontón
+ que
+ provoque
+ el
+ mínimo
+ corte
+ visual.
+
+**Medidas
+ sobre
+ textura
+ y
+ color**
+El
+ titular
+ se
+ compromete
+ a
+ utilizar
+ materiales
+ y
+ colores
+ que
+ eviten
+ contrastes
+ y
+ faciliten
+ la
+ integración
+paisajística
+ de
+ las
+ obras
+ a
+ implementar,
+ esto
+ es:
+
+ El
+ titular
+ del
+ proyecto
+ se
+ hará
+ cargo
+ de
+ adoptar
+ las
+ medidas
+ pertinentes
+ destinadas
+ a
+ favorecer
+el
+ uso
+ de
+ colores
+ poco
+ contrastantes,
+ es
+ decir,
+ trabajar
+ con
+ tonalidades
+ que
+ sean
+ acordes
+ con
+el
+ fondo
+ escénico,
+ a
+ fin
+ de
+ minimizar
+ al
+ máximo
+ el
+ eventual
+ contraste
+ visual
+ de
+ las
+instalaciones
+ con
+ su
+ entorno.
+
+ Dado
+ que
+ los
+ centros
+ de
+ cultivo
+ se
+ deben
+ implementar
+ con
+ un
+ cerco
+ lobero,
+ que
+ por
+ norma
+son
+ barreras
+ de
+ malla
+ de
+ aproximadamente
+ 1
+ metro
+ de
+ altura
+ sobre
+ el
+ nivel
+ del
+ mar
+ que
+protegen
+ a
+ las
+ estructuras
+ de
+ cultivo,
+ el
+ titular
+ se
+ compromete
+ a
+ utilizar
+ mallas
+ de
+ colores
+oscuros
+ y
+ opacos,
+ acordes
+ con
+ el
+ fondo
+ escénico.
+
+**Medidas
+ de
+ retiro
+ de
+ residuos:**
+
+El
+ titular
+ realizará
+ el
+ retiro
+ periódico
+ de
+ los
+ residuos
+ de
+ la
+ costa
+ frente
+ a
+ la
+ cual
+ se
+ emplaza
+ el
+ centro
+ de
+cultivo,
+ estableciendo
+ para
+ este
+ efecto
+ una
+ frecuencia
+ quincenal
+ de
+ limpieza.
+ Existirá
+ en
+ el
+ centro
+ de
+cultivo
+ un
+ registro
+ que
+ acredite
+ la
+ ejecución
+ de
+ la
+ actividad
+ de
+ retiro
+ de
+ residuos.
+
+Dada
+ la
+ condición
+ marítima
+ del
+ proyecto
+ se
+ advierte
+ que
+ no
+ existen
+ medidas
+ de
+ mitigación
+ generales
+para
+ este
+ tipo
+ de
+ proyectos,
+ como
+ sí
+ ocurre
+ para
+ aquellos
+ que
+ se
+ ubican
+ en
+ tierra [9],
+ donde
+ medidas
+como
+ pantallas
+ y
+ cierres
+ perimetrales
+ son
+ de
+ fácil
+ y
+ efectiva
+ implementación.
+ Por
+ ello,
+ las
+ medidas
+ de
+mitigación
+ aquí
+ propuestas
+ apuntan
+ hacia
+ aquellos
+ aspectos
+ que
+ tienen
+ mayor
+ incidencia
+ en
+ el
+impacto
+ visual
+ y
+ que
+ pueden
+ ser,
+ por
+ lo
+ demás,
+ efectivamente
+ implementadas.
+ Dichas
+ medidas
+ son
+ la
+que
+ apuntan
+ al
+ diseño,
+ manejo
+ de
+ las
+ formas,
+ texturas
+ y
+ colores.
+
+Copia
+ íntegra
+ del
+ Informe
+ de
+ Paisaje
+ y
+ Turismo
+ se
+ adjunta
+ en
+ el **anexo
+ 6** .
+
+_**De
+ acuerdo
+ a
+ lo
+ anteriormente
+ expuesto
+ y
+ en
+ virtud
+ de
+ que
+ el
+ centro
+ solo
+ será
+ visualizado
+ por**_
+_**aquellas
+ embarcaciones
+ que
+ naveguen
+ por
+ el
+ canal
+ Puyuhuapi
+ y
+ considerando
+ las
+ medidas
+ de
+ diseño**_
+_**y
+ color
+ a
+ implementar
+ el
+ Titular
+ prevé
+ que
+ el
+ impacto
+ visual
+ que
+ el
+ centro
+ pudiese
+ generar
+ será**_
+_**mínimo
+ toda
+ vez
+ que
+ las
+ instalaciones
+ se
+ dejan
+ de
+ percibir
+ en
+ detalle
+ a
+ partir
+ de
+ lo
+ mil
+ metros
+ de**_
+_**distancia,
+ así
+ mismo
+ la
+ ubicación
+ del
+ centro
+ distante
+ a
+ 6,0
+ km
+ del
+ parque
+ Queulat
+ (SNASPE
+ más**_
+_**cercano),
+ poniendo
+ énfasis
+ en
+ el
+ uso
+ apropiado
+ de
+ colores
+ permite
+ disminuir
+ el
+ impacto
+ visual,**_
+_**generando
+ un
+ menor
+ contraste
+ con
+ el
+ fondo
+ escénico
+ y
+ una
+ mayor
+ integración
+ paisajística
+ de
+ las**_
+_**obras
+ proyectadas,
+ no
+ rompiendo
+ así
+ la
+ dominancia
+ visual
+ de
+ los
+ planos
+ de
+ fondo
+ en
+ el
+ área
+ de**_
+_**emplazamiento
+ del
+ proyecto.**_
+
+**f)** **Alteración
+ de
+ monumentos,
+ sitios
+ con
+ valor
+ antropológico,
+ arqueológico,
+ histórico
+ y,
+ en**
+
+**general,
+ los
+ pertenecientes
+ al
+ patrimonio
+ cultural.**
+En
+ el
+ sector
+ donde
+ se
+ emplazará
+ el
+ proyecto
+ no
+ existen
+ sitios
+ con
+ valor
+ antropológico,
+ arqueológico
+ o
+histórico.
+
+ En
+ la
+ inspección
+ de
+ terreno
+ realizada
+ para
+ caracterizar
+ el
+ área
+ de
+ influencia
+ del
+ proyecto,
+ en
+donde
+ se
+ realizó
+ una
+ navegación
+ por
+ el
+ borde
+ costero
+ con
+ la
+ finalidad
+ de
+ poder
+ avistar
+ avifauna
+ y
+
+9 http://www.e-­‐seia.cl/informacion_seia/usuarios_externos/select_doc.php?id_doc=109
+
+mamíferos
+ marinos,
+ así
+ también
+ en
+ el
+ recorrido
+ realizado
+ con
+ la
+ cámara
+ de
+ registros
+ visual
+ submarina,
+no
+ se
+ identificaron
+ sitios
+ con
+ valor
+ antropológico,
+ arqueológico,
+ histórico
+ y,
+ en
+ general,
+ los
+pertenecientes
+ al
+ patrimonio
+ cultural.
+
+Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ ante
+ cualquier
+ hallazgo
+ de
+ carácter
+ histórico,
+ antropológico,
+ arqueológico
+o
+ paleontológico,
+ el
+ Titular
+ se
+ compromete
+ a
+ dar
+ aviso
+ a
+ las
+ autoridades
+ competentes
+ y
+ al
+ Consejo
+ de
+Monumentos
+ Nacionales,
+ cumpliendo
+ así
+ con
+ el
+ Artículo
+ 26
+ de
+ la
+ Ley
+ No
+ 17.288
+ y
+ Artículo
+ 20
+ de
+ su
+Reglamento.
+ Lo
+ anterior
+ es
+ también
+ válido
+ ante
+ la
+ eventualidad
+ de
+ realizar
+ un
+ hallazgo
+ de
+ restos
+ de
+naufragio;
+ por
+ lo
+ que
+ el
+ Titular
+ se
+ compromete
+ a
+ dar
+ oportuno
+ aviso
+ a
+ la
+ autoridad
+ correspondiente,
+ si
+durante
+ la
+ instalación
+ del
+ proyecto
+ se
+ encontraran
+
+ vestigios
+ que
+ den
+ cuenta
+ de
+ la
+ existencia
+ de
+ dicho
+patrimonio;
+ cumpliendo
+ así
+ con
+ el
+ D.E.
+ N°
+ 311
+ de
+ 08/10/1999
+ del
+ Ministerio
+ de
+ Educación,
+ que
+ hace
+referencia
+ a
+ la
+ declaración
+ genérica
+ de
+ Monumento
+ Histórico
+ Nacional
+ al
+ Patrimonio
+ Cultural
+Subacuático
+ de
+ más
+ de
+ 50
+ años
+ de
+ antigüedad,
+ existente
+ en
+ el
+ fondo
+ de
+ los
+ ríos
+ y
+ lagos,
+ de
+ las
+ aguas
+interiores
+ y
+ del
+ mar
+ territorial.
+
+**Tabla
+ Resumen:**
+_Tabla
+ 34.
+ Antecedentes,
+ medidas
+ o
+ acciones
+ a
+ implementar
+ que
+ se
+ hagan
+ cargo
+ de
+ los
+ impactos
+ detectados
+ que
+ justifiquen
+ la_
+_inexistencia
+ de
+
+ aquellos
+ efectos,
+ características
+ o
+ circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley
+ que
+ puedan
+ dar
+ origen
+ a
+ la
+ necesidad_
+_de
+ efectuar
+ un
+ Estudio
+ de
+ Impacto
+ Ambiental._
+
+|Literal<br>Art 11|Fase Proyecto|Acciones o actividades<br>que pueden causar<br>impactos|Potenciales impactos<br>ambientales|A ntecedentes, medidas o acciones que<br>justifiquen la no presentación de un EIA|No Página|
+|---|---|---|---|---|---|
+|Letra a)|Construcción|•Emisiones<br>atmosféricas<br> <br>• Residuos líquidos<br> <br>• Residuos sólidos<br>|Generación de ruido.<br>Emisión<br>de<br>gases<br>a<br>la<br>atmósfera.<br>Vertimiento<br>de<br>residuos<br>líquidos.<br>Acumulación<br>de<br>residuos<br>sólidos en el borde costero.|<br> <br> <br>Las embarcaciones de servicio encargadas del<br>fondeo de las estructuras del centro (balsas,<br>pontones, etc.<br>La emisión de gases de motores fuera de borda<br>se mitiga con el uso de GLP.<br>No existe vertimiento de residuos líquidos al<br>medio marino. Las embarcaciones de servicio<br>cuentan con sus propias plantas de tratamiento.<br>Todos los restos de cadenas, cabos y otros<br>residuos sólidos se recogen y mantienen en<br>cubierta de trabajo de embarcaciones de<br>servicio.|47|
+||Operación|Ruido y Gases<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|Ruido de motores fuera de<br>borda.<br>Emisión de gases.<br>Ruido Pontón|<br>Los motores fuera de borda de 50 HP GLP, con<br>un nivel de ruido inferior a los 85 dbA Uso:<br>esporádico y diurno<br>Combustible: GLP, la emisión es menor, generan<br>vapor de agua y reduce en un 90% las emisiones<br>de CO2.<br>Se realiza mantenimiento permanente a los<br>motores fuera de borda y se mantiene bitácora<br>de mantenimiento en el centro.<br>Pontón: promedio de emisión equivalente del<br>orden de los 79 dBA, lo que da cumplimiento al<br>Artículo 74 del D.S. No 594/1999. Este nivel de<br>ruido se generará en horario diurno y en forma<br>constante.<br>Las unidades se encontrarán ubicadas en zonas<br>aisladas acústicamente dentro del artefacto|58 y 59<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|
+
+|Col1|Col2|Residuos líquidos.<br>Residuos sólidos.|Aguas servidas domésticas<br>Desinfectantes<br>Mortalidad a ensilaje<br>Alimento no consumido<br>Fecas<br>Bolsas de alimento<br>Residuos sólidos domésticos<br>Residuos lubricantes|naval, con lo que se logrará reducir la emisión de<br>ruido en dichas salas.<br>Los trabajadores contarán con protectores<br>auditivos en la sala donde se ubican.<br>Tratamiento: físico -química que no genera<br>lodos y homologada, cumple con la Resolución<br>OMI MEPC 159(55)<br>Manos: alcohol-­‐gel<br>Pediluvios: aspersión<br>Residuos: sin residuos<br>264,6ton/ciclo (15% estimado)<br>3%: 103,6 ton/ciclo<br>15%: 502,6 ton/ciclo<br>1,86 Ton/ciclo<br>2,55 ton/año<br>190 l/año|59<br>59 y 60<br>60-­‐62|
+|---|---|---|---|---|---|
+||Cierre|Emisiones|ruido y gases.<br>Residuos Líquidos<br>Residuos sólidos|Las embarcaciones de servicio encargadas del<br>retiro de las estructuras del centro, fuentes<br>móviles y autónomas.<br>No existe vertimiento de residuos líquidos al<br>medio marino. Las embarcaciones de servicio<br>cuentan con sus propias plantas de tratamiento.<br>Todos los restos de cadenas, cabos y otros<br>residuos sólidos se recogen y mantienen en<br>cubierta de trabajo de embarcaciones de<br>servicio.<br>Domiciliarios: almacenados en contenedores en<br>las embarcaciones y enviados a vertedero<br>autorizado|63-64|
+|Letra b)|Construcción|Cantidad y calidad de<br>recursos<br>naturales<br>renovables,<br>incluido<br>suelo, agua y aire|Generación de basura en el<br>borde costero, emisión y<br>emanación de gases a la<br>atmósfera, vertimientos al<br>mediomarino.|<br> <br> <br> <br>No hay uso del borde costero en la etapa de<br>construcción del proyecto. Todo llega pre<br>armado.|86-100<br>|
+||Operación|Intervención de borde<br>costero<br> <br> <br> <br> <br> <br>Alimento no consumido<br>y fecas|Generación de basura en el<br>borde costero, emisión y<br>emanación de gases a la<br>atmósfera, vertimientos al<br>medio marino.|<br> <br> <br> <br>No hay uso del borde costero en la etapa de<br>operación del proyecto. Solo limpieza de este<br>mensualmente.<br>Las emisiones de los motores fuera de borda<br>corresponden a vapor de agua, con un 90%<br>menos de CO2.<br>Respecto del recurso agua en la etapa de<br>operación no se prevé efectos adversos<br>significativos<br>dado<br>que<br>las<br>condiciones<br>oceanográficas<br>del<br>sector<br>presenta<br>características adecuadas para un desarrollo<br>sustentable del centro Punta Césari:<br>Área de influencia directa: 49,18 hás<br>Area de fondeos: 49,18 hás<br>Distancia de la Costa: más de 90 m<br>Índice de impacto: 2,07 (velocidad promedio<br>de corrientes capa profunda)<br>Modelacióndepomod:|<br> <br> <br> <br>No hay uso del borde costero en la etapa de<br>operación del proyecto. Solo limpieza de este<br>mensualmente.<br>Las emisiones de los motores fuera de borda<br>corresponden a vapor de agua, con un 90%<br>menos de CO2.<br>Respecto del recurso agua en la etapa de<br>operación no se prevé efectos adversos<br>significativos<br>dado<br>que<br>las<br>condiciones<br>oceanográficas<br>del<br>sector<br>presenta<br>características adecuadas para un desarrollo<br>sustentable del centro Punta Césari:<br>Área de influencia directa: 49,18 hás<br>Area de fondeos: 49,18 hás<br>Distancia de la Costa: más de 90 m<br>Índice de impacto: 2,07 (velocidad promedio<br>de corrientes capa profunda)<br>Modelacióndepomod:|
+
+|Col1|Col2|Col3|Col4|Aporte máximo de carbono 5,4 Kg/m2/año,<br>superficie de 0,1 hás de un área total de<br>depositación de 8,57 hás, equivale al 1,27%.<br>Desplazamiento de la mancha de biosólidos<br>hacia el medio del canal alejándose de la línea<br>de costa., a más de 90 m de la costa cercana que<br>se encuentra dentro del área de influencia<br>directa. Por tanto:<br>No se prevé afectación de la fauna encontrada<br>en el borde costero ubicado dentro del AI.<br>Soporta de manera sustentable las 3.200 ton.<br>Titular realizará un seguimiento del borde<br>costero ubicado dentro del área de influencia,<br>con monitoreos por período productivo,<br>considerando la misma metodología del estudio<br>de biodiversidad.<br>Posible generación de resistencia a antibióticos y<br>a otros efectos que puedan generar los<br>antibióticos, se pondrá especial énfasis a un<br>suministro estratégico de alimento medicado, en<br>cuanto al control de la ingesta por parte de los<br>peces y a la minimización de su disposición en el<br>medio ambiente acuático.<br>Tracks de navegación: rutas establecidas,<br>frecuencia de embarcaciones en detalle página<br>100.|Col6|
+|---|---|---|---|---|---|
+||Cierre|Intervención del borde<br>costero|Generación de basura en el<br>borde costero, emisión y<br>emanación de gases a la<br>atmósfera, vertimientos al<br>medio marino.|<br> <br> <br> <br>La actividad de cierre de un centro de cultivo es<br>una actividad que tiene un periodo de tiempo<br>muy acotado a 2 ó 3 meses y todo el material es<br>transferido a la embarcación de servicio que lo<br>traslada a otro centro o a bodega si<br>corresponde.|<br> <br> <br> <br>La actividad de cierre de un centro de cultivo es<br>una actividad que tiene un periodo de tiempo<br>muy acotado a 2 ó 3 meses y todo el material es<br>transferido a la embarcación de servicio que lo<br>traslada a otro centro o a bodega si<br>corresponde.|
+|Letra c)|Construcción|Reasentamiento<br>de<br>comunidades humanas,<br>o alteración significativa<br>de los sistemas de vida y<br>costumbres de grupos<br>humanos;|Expropiación de terrenos,<br>aumento o disminución de la<br>población, interrupción de<br>actividades<br>culturales,<br>religiosas, etc<br>Noaplica|<br> <br> <br>Los técnicos y operarios que trabajan en la<br>etapa<br>de<br>construcción<br>del<br>proyecto<br>corresponden<br>a<br>personal<br>propio<br>de<br>las<br>embarcaciones de servicio encargadas del<br>fondeo del centro.|100-110|
+||Operación|Reasentamiento<br>de<br>comunidades humanas,<br>o alteración significativa<br>de los sistemas de vida y<br>costumbres de grupos<br>humanos;|Expropiación<br>de<br>terrenos,<br>aumento o disminución de la<br>población, interrupción de<br>actividades<br>culturales,<br>religiosas, etc<br>No aplica|<br> <br> <br> <br>El proyecto se ubica en Punta Césari, zona AAA<br>y de acuerdo al 153 preferente para el turismo,<br>los poblados más cercanos son:<br>Puyuhuapi: 18 km<br>Puerto Cisnes: 26 km<br>Puerto Gaviota: 68 km<br>Área de explotación de recursos bentónicos:<br>De acuerdo a la información proporcionada por<br>SERNAPESCA, éstas últimas se encuentran<br>principalmente en sectores Estero Sibbald, canal<br>Puyuhuapi y Seno Magdalena, distantes del área<br>de influencia del proyecto. En tanto las caletas<br>de pescadores se identificaron tres en el área|<br> <br> <br> <br>El proyecto se ubica en Punta Césari, zona AAA<br>y de acuerdo al 153 preferente para el turismo,<br>los poblados más cercanos son:<br>Puyuhuapi: 18 km<br>Puerto Cisnes: 26 km<br>Puerto Gaviota: 68 km<br>Área de explotación de recursos bentónicos:<br>De acuerdo a la información proporcionada por<br>SERNAPESCA, éstas últimas se encuentran<br>principalmente en sectores Estero Sibbald, canal<br>Puyuhuapi y Seno Magdalena, distantes del área<br>de influencia del proyecto. En tanto las caletas<br>de pescadores se identificaron tres en el área|
+
+|Col1|Col2|Col3|Col4|más próxima al emplazamiento, Puerto Cisnes,<br>Puerto Puyuhuapi y Puerto Gaviota<br>Algunas zonas de pesca se ubican en el sector<br>del canal Puyuhuapi la explotación de Almeja,<br>Sardina Austral, Congrio Dorado y Merluza<br>Austral; en tanto en Canal Sibbald se reconoce la<br>explotación del recurso almeja, Raya Volantín,<br>Congrio Dorado y Erizo, en el sector de Grupo<br>gala la explotación de merluza Austral. Dado que<br>el proyecto se ubica en el entorno cercano a<br>algunas zonas de pesca, el titular prevé que el<br>área susceptible de causar algún efecto<br>significativo es el polígono de 49,18 hás que<br>conforma las líneas de fondeo del proyecto sin<br>embargo el uso de cadenas en el primer tercio<br>de las líneas de fondeo permiten que están<br>bajen con un menor ángulo minimizando el<br>riesgo por el paso de embarcaciones.<br>De acuerdo a la información proporcionada por<br>la encuesta Casen, la comuna de Cisnes presenta<br>una condición socio cultural a la región, dado<br>que el proyecto se localiza distante a unas 18 km<br>del poblado más cercano, se prevé que la<br>implementación del centro no afectará la<br>dimensión geográfica, demográfica,<br>antropológica, socioeconómica y del bienestar<br>social básico, todo ello asociado también a las<br>medidas de mitigación propuestas y a que el<br>centro de cultivo es operado por profesionales,<br>técnicos y operarios contratados en Puerto<br>Montt. No se altera significativamente los<br>sistemas de vida y costumbres de ningún tipo de<br>grupo humano.|Col6|
+|---|---|---|---|---|---|
+||Cierre|Reasentamiento<br>de<br>comunidades humanas,<br>o alteración significativa<br>de los sistemas de vida y<br>costumbres de grupos<br>humanos;|Expropiación<br>de<br>terrenos,<br>aumento o disminución de la<br>población, interrupción de<br>actividades<br>culturales,<br>religiosas, etc<br>Noaplica|<br> <br> <br> <br>La actividad de cierre de un centro de cultivo es<br>una actividad que tiene un periodo de tiempo<br>muy acotado a 2 ó 3 meses y todo el material es<br>transferido a la embarcación de servicio que lo<br>traslada a otro centro o a bodega si<br>corresponde.|<br> <br> <br> <br>La actividad de cierre de un centro de cultivo es<br>una actividad que tiene un periodo de tiempo<br>muy acotado a 2 ó 3 meses y todo el material es<br>transferido a la embarcación de servicio que lo<br>traslada a otro centro o a bodega si<br>corresponde.|
+|Letra d)|Construcción|Localización<br>en<br>o<br>próxima a poblaciones,<br>recursos<br>y<br>áreas<br>protegidas,<br>sitios<br>prioritarios<br>para<br>la<br>conservación,<br>humedales protegidos y<br>glaciares, susceptibles<br>de ser afectados, así<br>como el valor ambiental<br>del territorio en que se<br>pretendeemplazar;|Intervención de poblaciones<br>o áreas o sitios protegidos<br>No se considera|<br>En relación a áreas protegidas, el proyecto se<br>encuentra dentro de las AAA y de acuerdo al DS<br>153 dentro de las áreas preferentes para el<br>turismo.<br>El centro Punta Cesari se sitúa a 6 kms. del<br>Parque Nacional Queulat, quedando por tanto<br>fuera de su área de influencia visual. De las<br>demás áreas SNASPE, el Parque Nacional Isla<br>Magdalena y Reserva Nacional Lago Rosselot,<br>situadas a 21 kms. y 44 kms. del proyecto en<br>línea recta, son las más cercanas. El proyecto no<br>cuentaconinstalacionesentierra.|110-112|
+||Operación|Localización<br>en<br>o<br>próxima a poblaciones,<br>recursos<br>y<br>áreas<br>protegidas,<br>sitios<br>prioritarios<br>para<br>la<br>conservación,|Intervención de poblaciones<br>o áreas o sitios protegidos<br>No se considera|<br>Los cálculos de dispersión arrojan una mancha<br>que se desplaza hacia el medio del canal<br>alejándose del borde costero del área de<br>influencia del proyecto, por lo que no se prevé<br>una<br>posible<br>afectación<br>a<br>las<br>especies<br>encontradasendichaárea,sinperjuiciodeello|<br>Los cálculos de dispersión arrojan una mancha<br>que se desplaza hacia el medio del canal<br>alejándose del borde costero del área de<br>influencia del proyecto, por lo que no se prevé<br>una<br>posible<br>afectación<br>a<br>las<br>especies<br>encontradasendichaárea,sinperjuiciodeello|
+
+|Col1|Col2|humedales protegidos y<br>glaciares, susceptibles<br>de ser afectados, así<br>como el valor ambiental<br>del territorio en que se<br>pretende emplazar;|Col4|el Titular se compromete a un muestreo por<br>período productivo en el sector del borde<br>costero que se ubica dentro del área de<br>influencia directa, un muestreo de seguimiento<br>que permitirá tener una línea de base ambiental<br>en el borde costero que se ubica dentro del Área<br>de Influencia Directa del proyecto.|Col6|
+|---|---|---|---|---|---|
+||Cierre|Localización<br>en<br>o<br>próxima a poblaciones,<br>recursos<br>y<br>áreas<br>protegidas,<br>sitios<br>prioritarios<br>para<br>la<br>conservación,<br>humedales protegidos y<br>glaciares, susceptibles<br>de ser afectados, así<br>como el valor ambiental<br>del territorio en que se<br>pretende emplazar;|Intervención de poblaciones<br>o áreas o sitios protegidos<br>No se considera|<br>En caso de que el Titular considere pertinente el<br>cierre del centro de cultivo, éste se compromete<br>a cumplir con lo establecido en el Artículo 4,<br>letra c) del D.S. (MINECON) No 320 de 2001, en<br>cuanto a retirar al término de su vida útil o a la<br>cesación de actividades del centro, todo tipo de<br>soportes no degradables o de degradación lenta<br>que hubieren sido utilizados como sistema de<br>anclaje al fondo, exceptuando las estructuras de<br>concreto utilizadas para el anclaje, se realizará<br>un análisis al fin de la etapa para verificar si es<br>factible el retiro de las estructuras de concreto o<br>si este retiro generaría un daño mayor al<br>entorno. Esta tarea será ejecutada por 3<br>personas<br>con<br>apoyo<br>de<br>la<br>balsa<br>y<br>embarcaciones, estimándose un plazo de 90 días<br>para el total abandono del centro de cultivo.<br>Dado<br>que<br>el<br>proyecto<br>se<br>desarrollará<br>íntegramente en el medio marino, se estima que<br>no se verá afectada la morfología del lugar, así<br>como la vegetación u otro componente<br>ambientaldelsitio.|<br>En caso de que el Titular considere pertinente el<br>cierre del centro de cultivo, éste se compromete<br>a cumplir con lo establecido en el Artículo 4,<br>letra c) del D.S. (MINECON) No 320 de 2001, en<br>cuanto a retirar al término de su vida útil o a la<br>cesación de actividades del centro, todo tipo de<br>soportes no degradables o de degradación lenta<br>que hubieren sido utilizados como sistema de<br>anclaje al fondo, exceptuando las estructuras de<br>concreto utilizadas para el anclaje, se realizará<br>un análisis al fin de la etapa para verificar si es<br>factible el retiro de las estructuras de concreto o<br>si este retiro generaría un daño mayor al<br>entorno. Esta tarea será ejecutada por 3<br>personas<br>con<br>apoyo<br>de<br>la<br>balsa<br>y<br>embarcaciones, estimándose un plazo de 90 días<br>para el total abandono del centro de cultivo.<br>Dado<br>que<br>el<br>proyecto<br>se<br>desarrollará<br>íntegramente en el medio marino, se estima que<br>no se verá afectada la morfología del lugar, así<br>como la vegetación u otro componente<br>ambientaldelsitio.|
+|Letra e)|Construcción|Alteración significativa,<br>en<br>términos<br>de<br>magnitud o duración,<br>del valor paisajístico o<br>turístico de una zona, y<br>|Pérdida del valor paisajístico<br>del entorno|<br>Las estructuras de apoyo al centro de cultivo,<br>entendiendo como tales, el modulo de cultivo,<br>bodega y pontón habitable, pontón de ensilaje y<br>otras estructuras flotantes son diseñadas de<br>acuerdo a las características del fondo escénico<br>del lugar donde se emplazarán, minimizando el<br>impacto visual, para estos se utilizan colores<br>acordes al entorno. Ver estudio de paisaje en<br>**anexo6**|112-126|
+||Operación|Alteración significativa,<br>en<br>términos<br>de<br>magnitud o duración,<br>del valor paisajístico o<br>turístico de una zona, y<br>|Pérdida del valor paisajístico<br>del entorno|<br>Las estructuras de apoyo al centro de cultivo,<br>entendiendo como tales, el modulo de cultivo,<br>bodega y pontón habitable, pontón de ensilaje y<br>otras estructuras flotantes son diseñadas de<br>acuerdo a las características del fondo escénico<br>del lugar donde se emplazarán, minimizando el<br>impacto visual, para estos se utilizan colores<br>acordes al entorno.<br>De acuerdo a las fotografías del entorno se<br>visualizaron 1 UP, con vegetación típica del área<br>de emplazamiento.<br>Respecto<br>de<br>las<br>cuencas<br>visuales,<br>se<br>identificaron las principales rutas de navegación<br>comercial y turística. Ver estudio de paisaje<br>anexo 6.<br>Se realizó un fotomontaje y se determinó que a<br>los 2000 a 2500 m las estructuras dejan de verse<br>en detalle.<br>Se<br>proponen<br>compromisos,<br>tales<br>como|<br>Las estructuras de apoyo al centro de cultivo,<br>entendiendo como tales, el modulo de cultivo,<br>bodega y pontón habitable, pontón de ensilaje y<br>otras estructuras flotantes son diseñadas de<br>acuerdo a las características del fondo escénico<br>del lugar donde se emplazarán, minimizando el<br>impacto visual, para estos se utilizan colores<br>acordes al entorno.<br>De acuerdo a las fotografías del entorno se<br>visualizaron 1 UP, con vegetación típica del área<br>de emplazamiento.<br>Respecto<br>de<br>las<br>cuencas<br>visuales,<br>se<br>identificaron las principales rutas de navegación<br>comercial y turística. Ver estudio de paisaje<br>anexo 6.<br>Se realizó un fotomontaje y se determinó que a<br>los 2000 a 2500 m las estructuras dejan de verse<br>en detalle.<br>Se<br>proponen<br>compromisos,<br>tales<br>como|
+
+|Col1|Col2|Col3|Col4|utilización de colores acordes al fondo escénico<br>y medidas de diseño tales como alturas, o diseño<br>que simule una embarcación para que evoque<br>un artefacto naval que este de paso.|Col6|
+|---|---|---|---|---|---|
+||Cierre|Alteración significativa,<br>en<br>términos<br>de<br>magnitud o duración,<br>del valor paisajístico o<br>turísticodeunazona,y|Pérdida del valor paisajístico<br>del entorno|<br>Dado que las estructuras flotantes se retiran, el<br>entorno del paisaje vuelve a su estado original|<br>Dado que las estructuras flotantes se retiran, el<br>entorno del paisaje vuelve a su estado original|
+|Letra f)|Construcción|Alteración<br>de<br>monumentos, sitios con<br>valor<br>antropológico,<br>arqueológico, histórico<br>y,<br>en<br>general,<br>los<br>pertenecientes<br>al<br>patrimoniocultural.|Alteración<br>de<br>sitios<br>arqueológicos o patrimonio<br>protegido|<br> <br>No se realizan actividades en tierra, solo en el<br>mar y en caso de identificar naufragios, la<br>empresa de servicio tiene la obligación de<br>informar al titular y este al consejo de<br>monumentos nacionales.|127|
+||Operación|Alteración<br>de<br>monumentos, sitios con<br>valor<br>antropológico,<br>arqueológico, histórico<br>y,<br>en<br>general,<br>los<br>pertenecientes<br>al<br>patrimonio cultural.<br>|Alteración<br>de<br>sitios<br>arqueológicos o patrimonio<br>protegido|<br> <br>De acuerdo al levantamiento realizado en el<br>borde costero, en el sector donde se emplazará<br>el proyecto no existen sitios con valor<br>antropológico, arqueológico o histórico.<br>Sin perjuicio de lo anterior, ante cualquier<br>hallazgo de carácter histórico, antropológico,<br>arqueológico o paleontológico, el Titular se<br>compromete a dar aviso a las autoridades<br>competentes y al Consejo de Monumentos<br>Nacionales, cumpliendo así con el Artículo 26 de<br>la Ley No 17.288 y Artículo 20 de su Reglamento.<br>Lo<br>anterior<br>es<br>también<br>válido<br>ante<br>la<br>eventualidad de realizar un hallazgo de restos de<br>naufragio; por lo que el Titular se compromete a<br>dar<br>oportuno<br>aviso<br>a<br>la<br>autoridad<br>correspondiente, si durante la instalación del<br>proyecto se encontraran vestigios que den<br>cuenta de la existencia de dicho patrimonio;<br>cumpliendo así con el D.E. N° 311 de 08/10/1999<br>del Ministerio de Educación, que hace referencia<br>a la declaración genérica de Monumento<br>Histórico<br>Nacional<br>al<br>Patrimonio<br>Cultural<br>Subacuático de más de 50 años de antigüedad,<br>existente en el fondo de los ríos y lagos, de las<br>aguasinterioresy delmarterritorial.|<br> <br>De acuerdo al levantamiento realizado en el<br>borde costero, en el sector donde se emplazará<br>el proyecto no existen sitios con valor<br>antropológico, arqueológico o histórico.<br>Sin perjuicio de lo anterior, ante cualquier<br>hallazgo de carácter histórico, antropológico,<br>arqueológico o paleontológico, el Titular se<br>compromete a dar aviso a las autoridades<br>competentes y al Consejo de Monumentos<br>Nacionales, cumpliendo así con el Artículo 26 de<br>la Ley No 17.288 y Artículo 20 de su Reglamento.<br>Lo<br>anterior<br>es<br>también<br>válido<br>ante<br>la<br>eventualidad de realizar un hallazgo de restos de<br>naufragio; por lo que el Titular se compromete a<br>dar<br>oportuno<br>aviso<br>a<br>la<br>autoridad<br>correspondiente, si durante la instalación del<br>proyecto se encontraran vestigios que den<br>cuenta de la existencia de dicho patrimonio;<br>cumpliendo así con el D.E. N° 311 de 08/10/1999<br>del Ministerio de Educación, que hace referencia<br>a la declaración genérica de Monumento<br>Histórico<br>Nacional<br>al<br>Patrimonio<br>Cultural<br>Subacuático de más de 50 años de antigüedad,<br>existente en el fondo de los ríos y lagos, de las<br>aguasinterioresy delmarterritorial.|
+||Cierre|Alteración<br>de<br>monumentos, sitios con<br>valor<br>antropológico,<br>arqueológico, histórico<br>y,<br>en<br>general,<br>los<br>pertenecientes<br>al<br>patrimoniocultural.|Alteración<br>de<br>sitios<br>arqueológicos o patrimonio<br>protegido|<br> <br>No aplica, toda vez que la verificación de la<br>presencia<br>de<br>restos<br>arqueológicos<br>o<br>monumentos protegidos se verifica en las etapas<br>tempranas del proyecto esto es en la fase de<br>construcción.|<br> <br>No aplica, toda vez que la verificación de la<br>presencia<br>de<br>restos<br>arqueológicos<br>o<br>monumentos protegidos se verifica en las etapas<br>tempranas del proyecto esto es en la fase de<br>construcción.|
+
+# 3 ANTECEDENTES
+ PARA
+ EVALUAR
+ EL
+ CUMPLIMIENTO
+ DE
+ LAS
+ NORMAS
+ DE** **CALIDAD
+ AMBIENTAL**
+
+_**3.1**_ _**Normas
+ ambientales
+ aplicables
+ al
+ proyecto**_
+
+|Normativa|Etapa en que aplica al proyecto|Forma de cumplimiento|
+|---|---|---|
+|Ley No 19.300 sobre<br>Bases<br>Generales<br>del<br>Medio Ambiente. Ley No<br>20.417 que modifica la<br>Ley 19.300/1994 y que<br>rediseña<br>la<br>Institucionalidad<br>Ambiental<br>Ministerio<br>Secretaría General de la<br>Presidencia|Todo el proyecto|Mediante el cumplimiento de las normas ambientales vigentes y la<br>implementación de técnicas que permitan reducir y minimizar los<br>impactos ambientales o efectos negativos sobre el medio ambiente.<br>Se presenta a tramitación al SEA de la región de Aysén la presente<br>Declaración de Impacto Ambiental.<br>Criterio de cumplimiento:<br>Etapa de Construcción: entendido como un proceso global, el proyecto se<br>inicia con la solicitud de concesión de acuicultura que se ingresa al<br>Servicio Nacional de Pesca y Acuicultura, cumpliendo con los requisitos<br>que exige la Ley y el Reglamento.<br>Etapa de operación: Una vez superadas las etapas de evaluación<br>cartográfica e inspección en terreno de presencia de recursos bentónicos,<br>el proyecto se somete al Sistema de Evaluación de Impacto Ambiental,<br>mediante el ingreso de la respectiva DIA y posterior obtención de la RCA.<br>Cumplidos los requisitos formales para el otorgamiento y entrega<br>material de la concesión el titular cumplirá con las exigencias ambientales<br>y administrativas<br>Etapa de abandono: Desmantelar y asegurar la estabilidad de la<br>infraestructuras<br>utilizada<br>por<br>el<br>proyecto,<br>restaurar<br>cualquier<br>componente ambiental que haya sido afectado durante la etapa de<br>ejecución del proyecto y prevenir futuros impactos sobre aire, suelo y<br>agua.|
+|D.S. (SEGPRES) No 40 de<br>2013, “Reglamento del<br>Sistema de Evaluación<br>de Impacto Ambiental”.|Todo el proyecto|El D.S. N° 40/2012 establece las disposiciones por las cuales se regirá el<br>Sistema de Evaluación de Impacto Ambiental y la Participación de la<br>comunidad en el proceso de Evaluación de Impacto Ambiental, de<br>conformidad con los preceptos de la Ley N° 19.300 sobre Bases Generales<br>del Medio Ambiente.<br>Su forma de cumplimiento es mediante el ingreso de la correspondiente<br>Declaración de Impacto Ambiental, en la cual bajo juramento, se<br>establecen todas las medidas necesarias para el cumplimiento de las<br>normas en pro del medio ambiente. En especifico dar cumplimiento al<br>Permiso Ambiental 116 “permiso para realizar actividades de<br>acuicultura”, poniendo énfasis en no generar efectos adversos en la vida<br>acuática y prevenir el surgimiento de condiciones anaeróbicas en las<br>áreas de acuicultura.<br>Criterio de cumplimiento:<br>Etapa de construcción: Mediante la realización de los trabajos en terreno<br>para la caracterización preliminar de sitio, levantamiento de línea base y<br>elaboración de la DIA que se evaluará ambientalmente conforme a lo<br>establecido en esta norma legal para finalmente obtener la<br>correspondiente RCA.<br>Etapa de Operación: acreditación y obtención de los permisos sectoriales<br>aplicables al proyecto para la correcta operación de éste; medidas<br>necesarias<br>para<br>la<br>mantención<br>de<br>las<br>condiciones<br>aeróbicas,<br>cumplimiento de los requisitos de las certificaciones (Global Gap) que la<br>empresa posee, elaboración y levantamiento de información ambiental<br>(INFAs).<br>Etapa de abandono: Desmantelar y asegurar la estabilidad de la<br>infraestructuras<br>utilizada<br>por<br>el<br>proyecto,<br>restaurar<br>cualquier<br>componente ambiental que haya sido afectado durante la etapa de<br>ejecución del proyecto y prevenir futuros impactos sobre aire, suelo y<br>agua.|
+|D.S. N 290 / 1991,|Todoelproyecto|Se dará cumplimiento al artículo 3 referente A que la concesión o|
+
+|Reglamento de<br>Concesiones y<br>Autorizaciones de<br>Acuicultura. Aplicable a<br>toda actividad<br>de acuicultura,<br>Reglamento de<br>Concesiones y<br>Autorizaciones de<br>Acuicultura. Aplicable a<br>toda actividad<br>de acuicultura.|Col2|autorización de acuicultura tiene por objeto la realización de actividades<br>de cultivo en el área concedida, respecto de la especie o grupo de<br>especies hidrobiológicas indicadas en las resoluciones que las otorgan, y<br>permiten a sus titulares el desarrollo de sus actividades, sin más<br>limitaciones que las expresamente establecidas en la ley y sus<br>reglamentos.<br>Criterio de cumplimiento:<br>Etapa de construcción: mediante la tramitación de la respectiva solicitud<br>de relocalización ante las autoridades competentes con la entrega de la<br>documentación exigida en la Ley y por el presente Reglamento.<br>Etapa de operación: mediante la solicitud de entrega material de la<br>concesión de acuicultura y posterior levantamiento del Acta de Entrega<br>emitida por la Autoridad Marítima respectiva, la que permite dar inicio a<br>las obras de construcción del proyecto con la instalación de la<br>infraestructura de cultivo la que se ubicará dentro del área concesionada.<br>Etapa de abandono: mediante el retiro de la infraestructura y<br>aseguramiento de las condiciones ambientales del sitio ocupado.|
+|---|---|---|
+|Ley<br>N°<br>20.091<br>que<br>modifica<br>el<br>D.S.<br>No<br>430/1991 Ley General<br>de Pesca y Acuicultura,<br>Ministerio de Economía,<br>Fomento<br>y<br>Reconstrucción.<br>|Construcción y operación|Posee modificaciones en sus artículos 2, 67, 68, 69, 77, 78, 80, 84, 90,<br>113, 118, 142, que regulan las concesiones acuícolas y perfeccionan el<br>marco jurídico aplicable a la actividad de Pesca y Acuicultura.<br>Cumplimiento<br>Se dará cumplimiento a la ley, la cual apunta a promover el máximo<br>crecimiento económico de la acuicultura en un marco de sustentabilidad<br>ambiental e igualdad en el acceso a la actividad.<br>Criterios de cumplimiento:<br>Etapa Construcción: mediante el cumplimiento de la normativa previo al<br>otorgamiento y entrega material de la concesión.<br>Etapa de operación:<br>1. <br>mantención de todas las estructuras de cultivo<br>2. <br>El titular establece que no entorpecerá el desarrollo de otras<br>actividades en el sector, en la medida que éstas no<br>entorpezcan el propio desarrollo y logística del centro;<br>3. <br>Uso de tecnología orientada a ser más eficientes en la faena de<br>alimentación que permita minimizar la pérdida de alimento,<br>así también el uso de alimentos altamente digestibles para<br>minimizar las fecas, todo ello orientado a la generación de<br>condiciones aeróbicas del área, verificador INFA.<br>4. <br>Una vez obtenida la RCA y permisos sectoriales, el titular se<br>compromete a dar inicio a la operación del centro. Verificador,<br>se dará aviso a todas las entidades pertinentes del inicio de la<br>operación.<br>5. <br>Cumplimiento del artículo 77 y 78, el proyecto cuenta con un<br>proyecto técnico ingresado ante el Servicio. Toda la<br>tramitación previa a la elaboración de la DIA se ha ejecutado<br>conforme lo dictan los presentes artículos, verificación, ingreso<br>de la DIA al SEA.<br>6. <br>Articulo 113 y 118, verificador, se entregará siempre<br>información fidedigna tanto de la operación como de la<br>condición sanitaria del centro, registros entregados a<br>SERNAPESCA registros mantenidos en el centro de cultivo para<br>revisión<br>Articulo 142, se dará cumplimento a lo establecido en dicho artículo,<br>verificador: estadística entregada a SERNAPESCA, con ello queda en<br>evidencia de que el centro sólo se explota para aquello que es objeto,<br>pagodelapatente,cumplirconlosplazosdadosarticulo84|
+|D.S. N° 430 / 91, Texto<br>Refundido, Coordinado<br>y Sistematizado de la<br>Ley General de Pesca y|Operación|Artículos 74, 86, 87, 118, 158<br>La mantención de la limpieza y equilibrio ecológico de las zonas<br>concedidas es de responsabilidad del concesionario. Las medidas de<br>protección del medio ambiente serán reglamentadas por Decreto|
+
+|Acuicultura., La<br>mantención de la<br>limpieza y equilibrio<br>ecológico de la zona<br>concedida. Las medidas<br>de protección del medio<br>ambiente como la<br>implementación en el<br>centro de técnicas de<br>manejo y tecnologías<br>tendientes a reducir y<br>eliminar efectos<br>negativos sobre el<br>medio ambiente. Se<br>establecen sanciones<br>para el caso de<br>incumplimiento de las<br>obligaciones anteriores.|Col2|Supremo. Se establecen sanciones para el caso de incumplimiento de las<br>obligaciones anteriores. Por último, las áreas marítimas que forman parte<br>de áreas silvestres protegidas no pueden ser concesionadas.<br>Criterio de cumplimiento: la empresa cuenta con planes de contingencia y<br>procedimientos, cada uno de los cuales cuenta con registros asociados,<br>en específico para la mantención de la limpieza y equilibrio ecológico, la<br>empresa cuenta con procedimientos de limpieza de playas, en el centro<br>se mantendrán los registros respectivos para ser revisados cada vez que<br>la autoridad estime pertinente.|
+|---|---|---|
+|D.S. (MINECON) No 320<br>de<br>2001<br>y<br>sus<br>modificaciones,<br>Reglamento Ambiental<br>para la Acuicultura.|Todo el proyecto|Mediante el desarrollo de la CPS que acompaña la DIA y los futuros<br>monitoreos ambientales así como también los informativos ambientales.<br>Además se cumplirá con:<br>Etapa de construcción: Se instalará la infraestructura del centro de cultivo<br>evitando cualquier impacto sobre el entorno, en particular el<br>desprendimiento de materiales o residuos que puedan generar<br>escombros en el sector costero aledaño.<br>Etapa de operación: mantener limpia el área y terrenos aledaños al<br>centro de cultivo de todo residuo generado por éste.<br>Se dispondrán los desechos sólidos o líquidos en depósitos y condiciones<br>que no resulten perjudiciales al medio circundante. Se retirará todo tipo<br>de soporte no degradable o degradable como sistema de fijación al<br>fondo, al término de la vida útil del centro. Impedir que redes tengan<br>contacto con el fondo. En el centro existirá un plan de contingencia, para<br>casos de escapes, mortalidades y pérdidas de alimento. Para pérdida o<br>escape de peces, se avisará al SERNAPESCA y a la Capitanía de Puerto<br>correspondiente, y se presentará un informe. Solo se liberarán ejemplares<br>con la expresa autorización de la Subsecretaría de Pesca. No se realizarán<br>cultivos de organismos vivos modificados sin la expresa autorización de la<br>Subsecretaría de Pesca.<br>Sólo se realizará limpieza y lavado de redes con y sin anti-fouling en<br>instalaciones que permitan el tratamiento de los efluentes.<br>Etapa de abandono: retiro de toda la infraestructura del centro de cultivo,<br>manteniendo las condiciones ambientales del sitio que fue ocupado.<br>Verificador: se mantendrá en el centro de cultivo registros que acrediten<br>el cumplimiento del RAMA, se mantendrá de manera digital la CPS e<br>INFAs, así también registros de la faena de limpieza de playas, registros<br>de verificación del estado de las estructuras a fin de evitar un eventual<br>escapedepeces.|
+|Resolución (SUBPESCA)<br>No<br>3612<br>de<br>2009,<br>Establece contenidos y<br>metodologías<br>para<br>elaborar<br>la<br>caracterización<br>preliminar de sitio y la<br>información ambiental.<br>|Todo el proyecto|Etapa de Construcción: La materialización del proyecto con la instalación<br>de toda la infraestructura del mismo. Para acreditar que el centro entrará<br>en la fase de operación se entregará los informes de ingreso de peces al<br>Sernapesca (Plan de siembra); informes de operación mensuales a través<br>del SIEP e informes de cosecha.<br>Etapa de operación: corresponde la realización de la CPS que acompaña la<br>DIA y los futuros informativos ambientales (INFAs). Para esto el titular<br>informará al Sernapesca el plan de cosecha.<br>Etapa de abandono: informe a Sernapesca de término de actividades del<br>centro.<br>Verificador: se mantendrá en formato digital la CPS y las INFAs en el<br>centro.|
+
+|Resolución N°<br>3648/2011, Artículo 9<br>del RAMA, Establece<br>procedimiento para la<br>aplicación del artículo 9<br>del Rama (condiciones<br>generales y específicas<br>limpieza y lavado de<br>artes de cultivo)|Operación|Establece procedimiento para la aplicación del art. 9 del RAMA<br>(condiciones generales y específicas de limpieza y lavado de artes de<br>cultivo).<br>El Titular se compromete a realizar la limpieza y lavado de las artes de<br>cultivo de acuerdo a las condiciones generales y especificas según lo<br>indicado en el art. 9 del D.S. N° 320/2001, modificado por res. N°<br>3648/2011.<br>Verificador: se mantendrá en el centro un registro que acredite el<br>cumplimiento de lo dispuesto en el artículo 9.|
+|---|---|---|
+|D.F.L. No 725 de 1967<br>(MINSAL)<br>Código<br>Sanitario|Operación|Los residuos sólidos que se generen y los domésticos asociados, serán<br>depositados en vertederos autorizados.<br>Verificador: se mantendrá en el centro un registro que acredite el<br>cumplimiento de lo dispuesto en el párrafo precedente, así también se<br>mantendrá en el centro en formato digital y/o papel certificados de la<br>disposicióndelosresiduosenvertederoautorizado.|
+|D.S. N° 594 de 1999<br>(MINSAL)<br>Reglamento<br>sobre las condiciones<br>sanitarias y ambientales<br>básicas de los lugares de<br>trabajo.|Construcción y Operación|Establece las Normas sobre las condiciones ambientales y sanitarias<br>básicas en los lugares de trabajo y de salud ocupacional; especialmente<br>en la provisión de agua potable y servicios higiénicos en el lugar de<br>trabajo. El proyecto contempla dar fiel cumplimiento a lo establecido por<br>dicha normativa, sobre todo en lo que respecta a servicios higiénicos y<br>circuito de agua potable.<br>Etapa de construcción: El pontón habitable será habilitado con planta de<br>tratamiento de aguas, servicios higiénicos para todo el personal,<br>dispensadores de agua purificada para el agua de bebida y cuenta con<br>estanque de agua para el uso diario de baños y cocina.<br>Etapa de operación:<br>El pontón habitable contará con planta de tratamiento de aguas servidas<br>homologadas por la DIRECTEMAR y que cumpla con los requisitos<br>establecidos por autoridad competente.<br>Verificador: para ello se realizarán monitoreos de las aguas servidas<br>tratadas, el resultado de estos monitoreos se distribuirán a la Autoridad<br>Marítima y SMA, así también se mantendrá una copia en el centro ya sea<br>enformatodigitaly/opapelparasurevisión.|
+|D. Ex. (MINECON) No<br>225 de 1995 y sus<br>modificaciones,<br>Establece protección de<br>los mamíferos, aves y<br>reptiles marinos.|Todo el Proyecto|Se establece medidas de protección, que prohíben la caza y captura de<br>mamíferos marinos, el Titular se compromete a cumplir con lo dispuesto<br>en ambos Decretos supremos, para ello tomará medidas para prevenir<br>enmalles. Se Dará aviso a la autoridad marítima cada vez que pro alguna<br>eventual circunstancia se enmalle en las redes de cultivo del centro.<br>Etapa de construcción: se instalarán mallas loberas y pajareras para evitar<br>el enmalle de aves y animales mamíferos marinos.<br>Etapa de operación: se mantendrán en buenas condiciones las redes<br>loberas y pajareras. Se capacitará a los trabajadores del centro en temas<br>de conservación de aves y mamíferos marinos.<br>Etapa de abandono: Se procurará el retiro de las redes e infraestructura<br>del centro con el menor daño posible a las especies de aves y mamíferos<br>marinos.<br>Verificador: el titular mantiene el compromiso de capacitar al personal de<br>acuerdoa loindicadoporelRAMA.|
+|D. Ex. (MINECON) No<br>765 de 2004, Establece<br>protección<br>del<br>lobo<br>marino común.|Todo el Proyecto|El Titular se compromete a cumplir con lo dispuesto en ambos Decretos<br>supremos, para ello tomará medidas para prevenir enmalles y<br>capacitación de los trabajadores en preservación de dichos animales.<br>Etapa de construcción: se instalarán mallas loberas con la titulación<br>adecuada para evitar el enmalle de aves y animales mamíferos marinos.<br>Etapa de operación: se mantendrán en buenas condiciones las redes<br>loberas. Se capacitará a los trabajadores del centro en temas de<br>conservación de estos mamíferos marinos.<br>Etapa de abandono: Se procurará el retiro de las redes e infraestructura<br>delcentroconelmenordañoposiblea estosmamíferosmarinos.|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 137**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 137**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 137**|
+
+|Col1|Col2|Verificador: el titular mantiene el compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA .|
+|---|---|---|
+|D.S<br>N°<br>175/<br>1980,<br>Reglamenta actividades<br>y<br>deroga<br>decretos<br>supremos que indica.<br>MINECOM, Artículos 12,<br>13,14, 17 y 18 Indica<br>requisitos para realizar<br>actividades<br>de<br>acuicultura.<br>|Operación|Cumplimiento de los artículos 12, 13, 14, y 18.<br>Artículo 12 señala los s requisitos para realizar actividades de acuicultura<br>de salmónidos, el titular dará cumplimiento a lo establecido en el<br>presente artículo, respecto a presentación de proyecto técnico, a<br>distancias mínimas entre concesiones.<br>Artículo 13, el titular dará cumplimiento a dicho artículo obteniendo<br>semillas, ovas, alevines o reproductores provenientes de establecimientos<br>de cultivos autorizados.<br>Articulo 14, en caso de que el titular requiriese de la importación de<br>recursos hidrobiológicos, la realizara sí y sólo sí previa autorización de la<br>Subsecretaría de Pesca. Para ello se acompañará a la solicitud el<br>certificado sanitario respectivo, otorgado por la autoridad oficial del país<br>de origen de dichos recursos.<br>Artículo 18, el titular mantendrá informado al Servicio Nacional de Pesca<br>la estadística de producción del centro de cultivo.<br>Verificador: se mantendrá en el centro los registros pertinentes que<br>acreditenelcumplimientodelosartículosmencionados|
+|Reglamento<br>Sanitario<br>sobre el Manejo de<br>Residuos<br>Peligrosos<br>Decreto<br>Supremo<br>N°<br>148/2004 Ministerio de<br>Salud|Todo el Proyecto<br>|Serán almacenados en recipientes cerrados y debidamente etiquetados e<br>identificados y se tomarán todas las precauciones necesarias para<br>prevenir su inflamación o reacción, entre ellas su separación y protección<br>frente a cualquier fuente de riesgo capaz de provocar tales efectos. Estos<br>residuos serán trasladados en embarcaciones de la logística del centro y<br>derivados a centros de almacenamiento provisorio, para ser trasladados y<br>posteriormentetratadosporempresasautorizadas.|
+|Ley<br>No<br>17.288<br>de<br>Monumentos<br>Nacionales|Todo el Proyecto<br>|artículo 1o: se establece que son monumentos nacionales y quedan bajo<br>la tuición y protección del Estado, lo lugares, ruinas, construcciones u<br>objetos de carácter histórico o artístico; los enterratorios o cementerios u<br>otros restos de los aborígenes, paleontológicos o de formación natural,<br>que existan bajo o sobre la superficie del territorio nacional o en la<br>plataforma submarina de sus aguas jurisdiccionales y cuya conservación<br>interesa a la historia, al arte o a la ciencia; los santuarios de la naturaleza;<br>los monumentos, estatuas, columnas, pirámides, fuentes, placas, coronas,<br>inscripciones y, en general, los objetos que estén destinados a<br>permanecer en un sitio público, con carácter conmemorativo. Su tuición y<br>protección se ejercerá por medio del Consejo de Monumentos<br>Nacionales, en la forma que determina la presente ley. Asimismo, Crea el<br>Consejo de Monumentos Nacionales, entre otros aspectos.<br> <br>Cumplimiento<br>Ante cualquier hallazgo de carácter histórico, antropológico, arqueológico<br>o paleontológico, el Titular se compromete a dar aviso a las autoridades<br>competentes y al Consejo de Monumentos Nacionales, cumpliendo así<br>con el Artículo 26 de la Ley No 17.288 y Artículo 20 de su Reglamento. Lo<br>anterior es también válido ante la eventualidad de realizar un hallazgo de<br>restos de naufragio; por lo que el Titular se compromete a dar oportuno<br>aviso a la autoridad correspondiente, si durante la instalación del<br>proyecto se encontraran vestigios que den cuenta de la existencia de<br>dicho patrimonio; cumpliendo así con el D.E. N° 311 de 08/10/1999 del<br>Ministerio de Educación, que hace referencia a la declaración genérica de<br>Monumento Histórico Nacional al Patrimonio Cultural Subacuático de<br>más de 50 años de antigüedad, existente en el fondo de los ríos y lagos,<br>delasaguasinterioresy delmarterritorial.|
+|D.S. No 319/2001<br> <br>Reglamento de Medidas<br>de Protección, Control y<br>Erradicación<br>de|Operación<br>|Íntegro<br>El reglamento establece las medidas de protección y control para evitar la<br>introducción de enfermedades de alto riesgo que afectan a las especies<br>hidrobiológicas, sea que provengan de la actividad de cultivo con<br>cualquierfinalidado ensuestadosilvestre,aislarsupresenciaencasode|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 138**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 138**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 138**|
+
+|enfermedades de Alto<br>Riesgo Para las Especies<br>Hidrobiológicas.|Col2|que éstas ocurran, evitar su propagación y propender a su erradicación.<br>Las disposiciones del presente reglamento se aplicarán a las actividades<br>de cultivo, transporte, repoblamiento y transformación de especies<br>hidrobiológicas que se realicen en el territorio de la República.<br>Cumplimiento<br>Se dará cumplimiento al presente decreto y sus modificaciones,<br>incorporando el uso de ensilaje de mortalidad del centro.<br>Se cumplirá con las obligaciones de informar y notificar a la autoridad<br>sobre enfermedades de alto riesgo<br>Informar y aplicar plan de contingencia ante eventuales mortalidad<br>masivas.<br>Cumplimiento con las medidas de manejo sanitario<br>Cumplimento con los descansos sanitarios fijados por la autoridad|
+|---|---|---|
+|D.L No 2.222/1978, Ley<br>de<br>Navegación<br>del articulo N° 142 al N°<br>162|Operación<br>|Artículos 142 al 162<br>No se arrojara lastre, escombros o basuras y no se derramará petróleo o<br>sus derivados o residuos, aguas de relaves de minerales u otras materias<br>nocivas o peligrosas, de cualquier especie, que ocasionen daños o<br>perjuicios en las aguas sometidas a la jurisdicción nacional, y en puertos,<br>ríos y lagos.<br> <br>Cumplimiento<br>El proyecto no contempla descargar sustancias peligrosas al medio<br>marino. Los residuos de hidrocarburos serán manejados por empresa<br>autorizada.<br>Se mantendrá un registro en el centro con la cuantificación de los<br>hidrocarburosdespachados|
+|D.S.<br>No<br>1/1992<br>Reglamento<br>para<br>el<br>control<br>de<br>la<br>contaminación acuática<br>Ministerio de Defensa<br>|Todo el proyecto<br>|Íntegro.<br>Establece el régimen de prevención, vigilancia y combate de la<br>contaminación en las aguas de mar, puertos, ríos y lagos sometidos a la<br>jurisdicción nacional.<br> <br>Cumplimiento<br>Se cumplirá las disposiciones de la Armada referente al no vertimiento de<br>hidrocarburos y mezclas oleosas, aguas sucias y basura en aguas bajo la<br>jurisdicción de la Armada.<br>Toda evacuación deliberada de desechos u otras materias, efectuadas<br>desde buques, artefactos navales,<br>aeronaves u otras construcciones en el mar, de acuerdo con las normas<br>del “Convenio sobre Prevención de la Contaminación del Mar por<br>Vertimiento de Desechos y otras Materias”, de 1972. Se entiende con el<br>mismo significado el hundimiento deliberado del mismo material<br>nombradoanteriormente.|
+|Resolución<br>N°<br>1892/2009,<br>D.Ex<br>(Minecom),<br>Establece<br>veda extractiva para el<br>recurso Lobo Marino<br>Común, en el área y<br>periodo que indica.|Operación|El Titular se compromete a cumplir con lo dispuesto en el Decreto, para<br>ello tomará medidas para prevenir enmalles y la capacitación de los<br>trabajadores en preservación de dichos animales.<br>Verificador: el titular mantiene el compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA<br>Para evitar enmalles, el centro utilizará mallas cuya Titulación sea la<br>adecuada, en el centro se mantendrán las fichas técnicas de las redes a<br>utilizar.|
+|Ley<br>20.293/2008,<br>Modifica Ley 18.892,<br>Protege a los cetáceos e<br>introduce<br>modificaciones en la ley<br>18.892 de LGPA.<br>|Construcción y Operación|Declárese los espacios marítimos de soberanía y jurisdicción nacional,<br>como zona libre de caza de cetáceos sólo para los efectos previstos en<br>esta ley.<br>Se prohíbe dar muerte, cazar, capturar, acosar, tener, poseer,<br>transportar, desembarcar, elaborar o realizar cualquier proceso de<br>transformación, así como la comercialización o almacenamiento de<br>cualquier especie de cetáceo que habite o surque los espacios marítimos<br>desoberaníay jurisdicciónnacional.|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 139**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 139**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 139**|
+
+|Col1|Col2|Etapa de construcción: mientras se esté instalando la infraestructura del<br>centro, el titular entregará capacitación e instrucciones claras a las<br>empresas de servicios respecto de la protección de este tipo de<br>mamíferos.<br>Etapa de operación: El Titular dará cumplimiento a la normativa.<br>Verificador: el titular mantiene el compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA .|
+|---|---|---|
+|D.S.<br>N<br>179<br>/<br>2008, (Subpesca),<br>Establece prohibición de<br>captura<br>de<br>especies<br>de cetáceos en aguas<br>de jurisdicción nacional.|Todo el proyecto|Se dará cumplimiento a todo lo relacionado con el reglamento, tanto en<br>la etapa de construcción como de operación. En particular se dará<br>cumplimiento al Artículo 1o, en el cual se prohíbe, en forma permanente,<br>la captura con resultado de muerte y la retención de animales vivos, de<br>los ejemplares especies de cetáceos presentes en aguas bajo jurisdicción<br>nacional indicados en dicho artículo.<br>Etapa de construcción: mientras se esté instalando la infraestructura del<br>centro, el titular entregará capacitación e instrucciones claras a las<br>empresas de servicios respecto de la prohibición de captura de este tipo<br>de mamíferos.<br>Etapa de operación: El Titular dará cumplimiento a la normativa y se<br>compromete a capacitar al personal del centro de cultivo en aspectos<br>relacionados con la prohibición de captura de cetáceos marinos en aguas<br>de jurisdicción nacional.<br>Etapa de abandono: mientras se esté retirando la infraestructura del<br>centro, se informará a los operarios y empresas de servicios que existe<br>prohibición de captura de cetáceos en aguas de jurisdicción nacional.<br>Verificador: el titular mantiene el compromiso de capacitar al personal de<br>acuerdoa loindicadoporelRAMA|
+|Resolución<br>N°<br>177/2009,<br>(Subpesca),<br>Declara<br>Área<br>de<br>Florecimiento<br>Algal<br>Nocivo, en particular de<br>la especie (Alexandrium<br>catenella).|Operación|Entre otros aspectos, declara por el plazo de dos años, contados desde la<br>publicación de la presente resolución, como área de Florecimiento Algal<br>Nocivo (FAN) de Alexandrium catenella, la macrozona que se extiende<br>desde el sur de la Isla Grande de Chiloé hasta el extremo sur de la Región<br>de Magallanes.<br>El Titular se compromete a dar cumplimiento a lo indicado en la<br>normativa.|
+
+_**3.2**_
+_**Permisos
+ Ambientales
+ Sectoriales
+ (Art.
+ 12
+ bis
+ D,
+ Ley
+ 20.417)**_
+El
+ proyecto
+ presentado
+ en
+ esta
+ Declaración
+ de
+ Impacto
+ Ambiental
+ involucra
+ el
+ siguiente
+ permiso
+ambiental
+ sectorial:
+
+**Artículo
+ 116
+ del
+ D.S.
+ No
+ 40
+ de
+ 2012:** Permiso
+ para
+ realizar
+ actividades
+ de
+ acuicultura:
+El
+ permiso
+ para
+ realizar
+ actividades
+ de
+ acuicultura,
+ será
+ el
+ establecido
+ en
+ el
+ inciso
+ 3o
+ del
+ artículo
+ 87
+ del
+Decreto
+ Supremo
+ N°
+ 430
+ de
+ 1991,
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Reconstrucción,
+ que
+ fija
+ el
+texto
+ refundido,
+ coordinado
+ y
+ sistematizado
+ de
+ la
+ Ley
+ N°
+ 18.892,
+ de
+ 1989
+ y
+ sus
+ modificaciones,
+ Ley
+General
+ de
+ Pesca
+ y
+ Acuicultura.
+
+Los
+ requisitos
+ para
+ su
+ otorgamiento
+ consisten
+ en
+ no
+ generar
+ efectos
+ adversos
+ en
+ la
+ vida
+ acuática
+ y
+prevenir el surgimiento de condiciones anaeróbicas en las áreas de la acuicultura.
+
+El
+ contenido
+ técnico
+ y
+ formal
+ que
+ debe
+ presentarse
+ para
+ acreditar
+ su
+ cumplimiento
+ corresponde
+ a
+ la
+caracterización
+ preliminar
+ del
+ sitio
+ (CPS)
+ o
+ información
+ ambiental
+ (INFA),
+ según
+ corresponda,
+ de
+acuerdo
+ a
+ los
+ contenidos
+ y
+ metodologías
+ de
+ elaboración
+ establecidos
+ en
+ la
+ Resolución
+ Exenta
+ N°
+3.612,
+ de
+ 2009,
+ de
+ la
+ Subsecretaría
+ de
+ Pesca,
+ o
+ aquella
+ que
+ la
+ reemplace.
+
+En
+ los
+ capítulos
+ “Planes
+ de
+ contingencia”
+ y
+ "Compromisos
+ ambientales",
+ se
+ establecen
+ todas
+ las
+medidas
+ para
+ minimizar
+ los
+ posibles
+ y
+ eventuales
+ impactos
+ que
+ pudiese
+ ocasionar
+ el
+ proyecto
+ en
+ su
+etapa
+ de
+ operación.
+
+Se
+ realizó
+ una
+ CPS,
+ cuyos
+ resultados
+ se
+ presentan
+ a
+ continuación.
+
+De
+ acuerdo
+ a
+ los
+ resultados
+ obtenidos
+ en
+ el
+ presente
+ documento
+ se
+ puede
+ establecer
+ que
+ el
+ área
+Punta
+ Cesari,
+
+ solicitada
+ para
+ relocalizar
+ la
+ concesión
+ Queulat,
+ en
+ términos
+ generales,
+ presente
+ un
+buen
+ estado
+ ambiental
+ sin
+ evidenciarse
+ estrés
+ ambiental.
+
+El
+ área
+ presenta
+ una
+ profundidad
+ media
+ de
+ 80
+ m
+ con
+ una
+ pendiente
+ levemente
+ pronunciada
+ y
+ sin
+depresiones.
+
+Las
+ principales
+ medidas
+ de
+ tendencia
+ central
+ correspondientes
+ a
+ los
+ datos
+ de
+ corrientes
+ por
+profundidad
+ evidencian
+ que
+ la
+ columna
+ de
+ agua
+ presenta
+ valores
+ semejantes
+ de
+ velocidad
+ durante
+toda
+ la
+ columna
+ de
+ agua.
+ Se
+ evidenció
+ unos
+ valores
+ más
+ elevados
+ en
+ capas
+ medias
+ (Capas
+ 16
+ y
+ 17,
+entre
+ 30
+ y
+ 34m)
+ similares
+ a
+ lo
+ registrado
+ en
+ superficie
+ (capa
+ 2,
+ entre
+ 2
+ y
+ 4m).
+ En
+ toda
+ la
+ columna
+ de
+agua
+ la
+ velocidad
+ promedio
+ fue
+ de
+ 5,41cm/s,
+ registrándose
+ como
+ valor
+ mínimo
+ promedio
+ en
+ toda
+ la
+columna
+ de
+ agua
+ 4,58cm/s
+ (Capa
+ 6
+ entre
+ 10
+ y
+ 12m)
+ y
+ como
+ máximo
+ promedio
+ 7,97cm/s
+ en
+ la
+ capa
+ 2
+ (2
+a
+ 4m).
+
+En
+ el
+ análisis
+ de
+ frecuencia
+ de
+ velocidad
+ para
+ toda
+ la
+ columna
+ de
+ agua,
+ el
+ intervalo
+ dominante
+ fue
+ el
+situado
+ entre
+ los
+ 5,1
+ a
+ 10,0cm/s
+ con
+ un
+ 38,0%
+ de
+ los
+ casos,
+ fue
+ seguido
+ por
+ los
+ intervalos
+ de
+velocidades
+ comprendidos
+ entre
+ 3,1
+ a
+ 5,0cm/s
+ y
+ el
+ de
+ 1,5
+ a
+ 3,0cm/s
+ con
+ el
+ 28,4
+ y
+ el
+ 16,6%
+ de
+ los
+
+registros,
+ respectivamente.
+ El
+ registro
+ de
+ velocidades
+ superiores
+ a
+ 15,1cm/s
+ sólo
+ obtuvo
+ el
+ 1,4%
+ de
+ las
+mediciones,
+ por
+ lo
+ que
+ se
+ desarrolla
+ una
+ tendencia
+ de
+ velocidades
+ bajas
+ -­‐
+ medias
+ en
+ toda
+ la
+ columna.
+
+La
+ distribución
+ de
+ la
+ dirección
+ en
+ toda
+ la
+ columna
+ de
+ agua
+ no
+ presentó
+ una
+ tendencia
+ dominante
+distribuyendo
+ las
+ frecuencias
+ de
+ ocurrencia
+ en
+ todas
+ las
+ direcciones.
+ Los
+ intervalos
+ de
+ dirección
+ de
+ la
+corriente
+ que
+ estuvieron
+ más
+ representados
+ fueron
+ el
+ intervalo
+ Noroeste,
+ Oeste
+ con
+ un
+ 15,3
+ y
+ un
+15,1%
+ de
+ los
+ registros.
+ Fueron
+ seguidos
+ por
+ los
+ intervalos
+ Norte,
+ Sureste,
+ Suroeste
+ y
+ con
+ un
+ 13,2,
+ 13,2
+y
+ 12,7%
+ de
+ los
+ sucesos,
+ respectivamente.
+ El
+ intervalo
+ de
+ dirección
+ menos
+ frecuente
+ fue
+ el
+ Noreste,
+ con
+un
+ 8,7%
+ de
+ los
+ casos
+ en
+ toda
+ la
+ columna
+ de
+ agua.
+
+Respecto
+ de
+ la
+ concentración
+ de
+ oxigeno
+ del
+ agua,
+ se
+ evidencia
+ una
+ columna
+ con
+ buena
+ mezcla
+ de
+ las
+masas
+ de
+ agua
+
+ y
+ con
+ una
+ leve
+ estratificación
+ de
+ los
+ parámetros
+ medidos,
+ con
+ valores
+ aptos
+ para
+ el
+crecimiento
+ y
+ desarrollo
+ de
+ organismos.
+
+De
+ acuerdo
+ a
+ los
+ antecedentes
+ antes
+ expuestos
+ el
+ área
+ solicitada
+ de
+ Punta
+ Cesari,
+ no
+ se
+ evidencia
+impactada
+ y
+ presenta
+ un
+ buen
+ estado
+ medio
+ ambiental.
+
+Ver
+ informe
+ CPS
+ en **Anexo
+ 5** .
+
+# 4 COMPROMISOS
+ AMBIENTALES**
+
+ Uso
+ de
+ colores
+ acorde
+ con
+ el
+ fondo
+ escénico
+ en
+ el
+ pontón
+ habitable.
+
+ Monitoreo
+ por
+ período
+ productivo
+ en
+ el
+ borde
+ costero
+ del
+ área
+ de
+ influencia
+ que
+ constará
+ en
+realizar
+ un
+ registro
+ visual
+ utilizando
+ la
+ misma
+ trayectoria
+ empleada
+ para
+ la
+ caracterización
+ del
+área
+ de
+ influencia
+ del
+ proyecto,
+ la
+ metodología
+ a
+ utilizar
+ será
+ la
+ mima
+ propuesta
+ en
+ el
+ estudio
+de
+ biodiversidad.
+ La
+ campaña
+ se
+ realizará
+ en
+ cada
+ período
+ productivo
+ antes
+ de
+ iniciar
+ cosecha,
+el
+ informe
+ técnico
+ se
+ entregará
+ al
+ Servicio
+ de
+ Evaluación
+ ambiental
+ y
+ una
+ copia
+ se
+ mantendrá
+en
+ el
+ centro
+ de
+ cultivo.
+
+# 5 FICHA
+ RESUMEN
+ PARA
+ CADA
+ FASE
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD**
+
+De
+ acuerdo
+ al
+ literal
+ f)
+ del **artículo
+ 19
+ del
+ D.S.
+ No
+ 40/2012**,
+ se
+ deberá
+ presentar
+ una
+ ficha
+ en
+ la
+ cual
+ se
+resuma,
+ para
+ cada
+ fase
+ del
+ proyecto
+ o
+ actividad,
+ los
+ contenidos
+ a
+ que
+ se
+ refiere
+ las
+ letras
+ a),
+ b),
+ c)
+ y
+ d)
+del
+ presente
+ articulo,
+ a
+ fin
+ de
+ facilitar
+ la
+ fiscalización
+ a
+ que
+ alude
+ el
+ artículo
+ 64
+ de
+ la
+ Ley.
+
+Conforme
+ a
+ lo
+ señalado
+ en
+ el
+ párrafo
+ anterior,
+ se
+ presenta
+ una
+ ficha
+ resumen
+ de
+ los
+ siguientes
+capítulos:
+
+a) Descripción
+ del
+ proyecto
+b) Los
+ antecedentes
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ aquello
+ efectos,
+ características
+ o
+
+circunstancias
+ del
+ artículo
+ 11
+ dela
+ Ley.
+c) El
+ plan
+ de
+ cumplimiento
+ de
+ la
+ legislación
+ ambiental
+d) La
+ descripción
+ del
+ contenido
+ de
+ compromisos
+ ambientales
+ voluntarios.
+
+|Col1|Col2|Servicios y Asesorías Ambientales<br>Buin 367 - Puerto Montt<br>Teléfono: +56 65-­‐2752179/+56 65-­‐2714278<br>info@ecosistema.cl<br>www.ecosistema.cl|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|<br>|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|**(a.1.)IDENTIFICACIÓNDELTITULARY REPRESENTANTELEGAL**|
+|<br>|Titular|Titular|Titular|**ACUÍCOLAPUYUHUAPIS.A.**|**ACUÍCOLAPUYUHUAPIS.A.**|**ACUÍCOLAPUYUHUAPIS.A.**|**ACUÍCOLAPUYUHUAPIS.A.**|**ACUÍCOLAPUYUHUAPIS.A.**|**ACUÍCOLAPUYUHUAPIS.A.**|
+|<br>|RUT|RUT|RUT|76.040.417-9|76.040.417-9|76.040.417-9|76.040.417-9|76.040.417-9|76.040.417-9|
+|<br>|RepresentanteLegal|RepresentanteLegal|RepresentanteLegal|**IgnacioOchagavíaFuentes**|**IgnacioOchagavíaFuentes**|**IgnacioOchagavíaFuentes**|**IgnacioOchagavíaFuentes**|**IgnacioOchagavíaFuentes**|**IgnacioOchagavíaFuentes**|
+|<br>|RUT|RUT|RUT|7.011.357-0|7.011.357-0|7.011.357-0|7.011.357-0|7.011.357-0|7.011.357-0|
+|<br>|Domicilio|Domicilio|Domicilio|Av.DiegoPortales2000piso9 PuertoMontt|Av.DiegoPortales2000piso9 PuertoMontt|Av.DiegoPortales2000piso9 PuertoMontt|Av.DiegoPortales2000piso9 PuertoMontt|Av.DiegoPortales2000piso9 PuertoMontt|Av.DiegoPortales2000piso9 PuertoMontt|
+|<br>|CorreoElectrónico|CorreoElectrónico|CorreoElectrónico|pdelaparra@marinefarm.cl; info@ecosistema.cl|pdelaparra@marinefarm.cl; info@ecosistema.cl|pdelaparra@marinefarm.cl; info@ecosistema.cl|pdelaparra@marinefarm.cl; info@ecosistema.cl|pdelaparra@marinefarm.cl; info@ecosistema.cl|pdelaparra@marinefarm.cl; info@ecosistema.cl|
+|<br>|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|**(a.2.)ANTECEDENTESGENERALESDELPROYECTO**|
+|<br>|Nombre del Proyecto|Nombre del Proyecto|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|**“RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE PUNTA CESARI, COMUNA DE CISNES,**<br>**PROVINCIADEAISÉN,REGIÓNDEAYSEN.**|
+|<br>|Descripción Breve|Descripción Breve|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|El proyecto que se somete a evaluación corresponde a una solicitud de relocalización de la concesión de<br>acuicultura ubicada en estero Queulat (código de centro 110362), que se relocaliza en seno ventisquero, al<br>noreste de Punta Cesari, comuna de Cisnes, Provincia de Aisén, XI Región de Aisén, otorgada originalmente a<br>Patagonia Salmon Farming S.A. mediante Resolución N° 1802 del año 2001 de la Subsecretaría de Marina, la<br>cual fue transferida a la sociedad Acuícola Puyuhuapi S.A. según consta en el Registro de Concesiones de<br>Acuicultura anotado en Repertorio Fs. 1 N° 13 Registro de Concesiones de Acuicultura, Fs. 02 UTA N° 04 año<br>2010.<br>Aun cuando el proyecto técnico original presenta una producción de 4000 ton, el titular, de acuerdo a su nuevo<br>programa de producción, ha decidido modificar el proyecto disminuyendo la producción a 3.200 ton; por tanto<br>el presente proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16<br>balsas jaulas de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos.<br>Este centro operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalaciones en el mar, razón por la cual no existe riesgo de interferir las actividades de la población en tierra.<br>Mayordetallepágina5|
+|<br>|Objetivo|Objetivo|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|Obtener en el proceso de evaluación, la calificación ambiental favorable para la autorización sectorial que<br>permita la relocalización de la concesión de acuicultura otorgada por Resolución N° 1802 del año 2001 de la<br>Subsecretaría de Marina y consecuentemente la autorización para la biomasa máxima solicitada.<br>El proyecto pretende producir 3.200 toneladas de salmónidos, para ello se requiere el uso de 16 balsas jaulas<br>de 30 m de lado por 18m de profundidad, para desarrollar la etapa de engorda de salmónidos. Este centro<br>operará sobre una extensión de 2,73 hás que corresponden a la concesión de acuicultura, sólo con<br>instalacionesenelmar,razónporlacualnoexisteriesgodeinterferirlasactividadesdelapoblaciónentierra.|
+|<br>|Tipología<br>principal<br>y<br>secundaria|Tipología<br>principal<br>y<br>secundaria|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|Artículo 10: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al Sistema de Evaluación de Impacto Ambiental, son los siguientes:”<br>n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recursos hidrobiológicos;<br>Artículo 3: “Los proyectos o actividades susceptibles de causar impacto ambiental, en cualesquiera de sus<br>fases, que deberán someterse al sistema de evaluación de impacto ambiental, son los siguientes:”<br>n.3) “Una producción anual igual o superior a treinta y cinco toneladas (35ton) tratándose de equinodermos,<br>crustáceosy moluscosnofiltradores,pecesy otrasespecies,a travésdeunsistemadeproducciónintensivo”.|
+|<br>|MontodelaInversión|MontodelaInversión|2.500.000dólares|2.500.000dólares|2.500.000dólares|2.500.000dólares|2.500.000dólares|2.500.000dólares|2.500.000dólares|
+|<br>|VidaÚtilProyecto|VidaÚtilProyecto|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|
+|<br>|VidaÚtilPartesu Obras|VidaÚtilPartesu Obras|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|25años,evaluandolacontinuidaddelproyectoporperíodosiguales.|
+|<br>|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|**(a.3.)LOCALIZACIÓN**|
+|<br>|Región|Región|Región|Región|AyséndelGeneralCarlosIbáñezdelCampo|AyséndelGeneralCarlosIbáñezdelCampo|AyséndelGeneralCarlosIbáñezdelCampo|AyséndelGeneralCarlosIbáñezdelCampo|AyséndelGeneralCarlosIbáñezdelCampo|
+|<br>|Provincia|Provincia|Provincia|Provincia|Aisén|Aisén|Aisén|Aisén|Aisén|
+|<br>|Comuna|Comuna|Comuna|Comuna|Cisnes|Cisnes|Cisnes|Cisnes|Cisnes|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas geográfica Vértice|Latitud (S)|Longitud (W)|Longitud (W)|Lados|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|A|44o29'18.151''|72o39'24.580''|72o39'24.580''|A-B|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|B|44o29'19.092''|72o39'21.304''|72o39'21.304''|B-C|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|C|44o29'29.616''|72o39'27.200''|72o39'27.200''|C-D|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|D|44o29'28.675''|72o39'30.477''|72o39'30.477''|D-A|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Referencia|SHOA 8500 (WGS-84)|SHOA 8500 (WGS-84)|SHOA 8500 (WGS-84)|SHOA 8500 (WGS-84)|
+|<br>|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Coordenadas Geográficas y UTM (Datum WGS84)|Superficie Otorgada (Hás)|2,73|2,73|2,73|2,73|
+|<br>|SuperficieTotaldelProyecto|SuperficieTotaldelProyecto|SuperficieTotaldelProyecto|SuperficieTotaldelProyecto|2,73Hás|2,73Hás|2,73Hás|2,73Hás|2,73Hás|
+|<br>|Caminos y/o Vías de Acceso|Caminos y/o Vías de Acceso|Caminos y/o Vías de Acceso|Caminos y/o Vías de Acceso|Las rutas marítimas posibles de seguir para acceder al centro de cultivo serán desde<br>Quellón a través del Golfo Corcovado, pasando por Melinka, Canal Moraleda,|Las rutas marítimas posibles de seguir para acceder al centro de cultivo serán desde<br>Quellón a través del Golfo Corcovado, pasando por Melinka, Canal Moraleda,|Las rutas marítimas posibles de seguir para acceder al centro de cultivo serán desde<br>Quellón a través del Golfo Corcovado, pasando por Melinka, Canal Moraleda,|Las rutas marítimas posibles de seguir para acceder al centro de cultivo serán desde<br>Quellón a través del Golfo Corcovado, pasando por Melinka, Canal Moraleda,|Las rutas marítimas posibles de seguir para acceder al centro de cultivo serán desde<br>Quellón a través del Golfo Corcovado, pasando por Melinka, Canal Moraleda,|
+
+|Col1|Col2|ingresando ya sea por Canal Jacaf al canal Puyuhuapi, o desde el moraleda ingresando<br>al canal Puyuhuapi. Desde el sur las vías de acceso de Puerto Chacabuco, Aysen e<br>incluso desde Puerto Aguirre, las vías de acceso es a través del fiordo de Aysen, Canal<br>Pilcomayo, canal Ferronave al canal Puyuhuapi. Página 11|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|JustificacióndelaLocalización:Punto1.3.5.delaDIA,descripciónendetallepágina14a la31delaDIA|
+|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|**(a.4.)DESCRIPCIÓNDELASPARTES,ACCIONESY OBRASFÍSICASQUELOCOMPONEN**|
+|||||||||
+|(a.5.) ETAPA DE CONSTRUCCIÓN|Resumen|Resumen|Resumen|Resumen|Resumen|Resumen|Referencia del título de la DIA donde<br>se describe detalladamente dicha obra o<br>acción|
+|Descripción<br>de<br>la<br>fase<br>de<br>construcción|<br>No Balsas jaulas: 16<br>Dimensión: 30 m de lado y 18 m de profundidad<br>Fondeos: preliminarmente se consideran 56 de 20 mil<br>kilos; 12 de 25 mil kilos y 2 de 10 mil kilos; cadenas de 19<br>mm, grilletes de acero galvanizado 7/8, cabos de<br>polipropileno de 1 1/4 y cable de acero de 1”<br>Bodega alimentación: 01 baño y planta de tratamiento de<br>aguas servidas.<br>Sistema de alimentación automático<br>Plataforma de ensilaje de mortalidad: 01<br>Botes o embarcaciones menores con motor para el<br>traslado de insumos o personas fuera del área del centro<br>decultivo.|<br>No Balsas jaulas: 16<br>Dimensión: 30 m de lado y 18 m de profundidad<br>Fondeos: preliminarmente se consideran 56 de 20 mil<br>kilos; 12 de 25 mil kilos y 2 de 10 mil kilos; cadenas de 19<br>mm, grilletes de acero galvanizado 7/8, cabos de<br>polipropileno de 1 1/4 y cable de acero de 1”<br>Bodega alimentación: 01 baño y planta de tratamiento de<br>aguas servidas.<br>Sistema de alimentación automático<br>Plataforma de ensilaje de mortalidad: 01<br>Botes o embarcaciones menores con motor para el<br>traslado de insumos o personas fuera del área del centro<br>decultivo.|<br>No Balsas jaulas: 16<br>Dimensión: 30 m de lado y 18 m de profundidad<br>Fondeos: preliminarmente se consideran 56 de 20 mil<br>kilos; 12 de 25 mil kilos y 2 de 10 mil kilos; cadenas de 19<br>mm, grilletes de acero galvanizado 7/8, cabos de<br>polipropileno de 1 1/4 y cable de acero de 1”<br>Bodega alimentación: 01 baño y planta de tratamiento de<br>aguas servidas.<br>Sistema de alimentación automático<br>Plataforma de ensilaje de mortalidad: 01<br>Botes o embarcaciones menores con motor para el<br>traslado de insumos o personas fuera del área del centro<br>decultivo.|<br>No Balsas jaulas: 16<br>Dimensión: 30 m de lado y 18 m de profundidad<br>Fondeos: preliminarmente se consideran 56 de 20 mil<br>kilos; 12 de 25 mil kilos y 2 de 10 mil kilos; cadenas de 19<br>mm, grilletes de acero galvanizado 7/8, cabos de<br>polipropileno de 1 1/4 y cable de acero de 1”<br>Bodega alimentación: 01 baño y planta de tratamiento de<br>aguas servidas.<br>Sistema de alimentación automático<br>Plataforma de ensilaje de mortalidad: 01<br>Botes o embarcaciones menores con motor para el<br>traslado de insumos o personas fuera del área del centro<br>decultivo.|<br>No Balsas jaulas: 16<br>Dimensión: 30 m de lado y 18 m de profundidad<br>Fondeos: preliminarmente se consideran 56 de 20 mil<br>kilos; 12 de 25 mil kilos y 2 de 10 mil kilos; cadenas de 19<br>mm, grilletes de acero galvanizado 7/8, cabos de<br>polipropileno de 1 1/4 y cable de acero de 1”<br>Bodega alimentación: 01 baño y planta de tratamiento de<br>aguas servidas.<br>Sistema de alimentación automático<br>Plataforma de ensilaje de mortalidad: 01<br>Botes o embarcaciones menores con motor para el<br>traslado de insumos o personas fuera del área del centro<br>decultivo.|<br>No Balsas jaulas: 16<br>Dimensión: 30 m de lado y 18 m de profundidad<br>Fondeos: preliminarmente se consideran 56 de 20 mil<br>kilos; 12 de 25 mil kilos y 2 de 10 mil kilos; cadenas de 19<br>mm, grilletes de acero galvanizado 7/8, cabos de<br>polipropileno de 1 1/4 y cable de acero de 1”<br>Bodega alimentación: 01 baño y planta de tratamiento de<br>aguas servidas.<br>Sistema de alimentación automático<br>Plataforma de ensilaje de mortalidad: 01<br>Botes o embarcaciones menores con motor para el<br>traslado de insumos o personas fuera del área del centro<br>decultivo.|<br> <br> <br> <br> <br> <br> 1.5. Etapa de construcción, página 42 a la<br>45 de la DIA|
+|Indicación de las partes, obras y<br>acciones asociadas a esta fase.|<br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br> <br> 1.5.1. Partes, Obras y Acciones de la etapa<br>de construcción<br>Página 10 y 42<br> <br> <br>Página 42<br>Página 42<br>Página 43<br>Página 43<br>Página 44<br>Página45|
+|Descripción<br>de<br>las<br>acciones<br>y<br>requerimientos para<br>la<br>materialización de las obras físicas|<br> <br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br>1.5.1. Partes, Obras y Acciones de la etapa de construcción<br>Hito de Inicio: Desarrollo de los estudios de ingeniería<br>(memoria de calculo de fondeos) e instalación de los<br>sistemas de fondeo de las estructuras a instalar.<br>Instalación de balsas jaulas: 16<br>Redes<br>Fondeos<br>Instalación Pontón-Bodega<br>Sistema de Ensilaje<br>Sistema de alimentación|<br> <br> <br> 1.5.1. Partes, Obras y Acciones de la etapa<br>de construcción<br>Página 10 y 42<br> <br> <br>Página 42<br>Página 42<br>Página 43<br>Página 43<br>Página 44<br>Página45|
+|Fecha estimada e indicación de parte,<br>obra o acción que establezca el inicio<br>y términodelafase|<br> <br>Mayo de 2015 a septiembre de 2015|<br> <br>Mayo de 2015 a septiembre de 2015|<br> <br>Mayo de 2015 a septiembre de 2015|<br> <br>Mayo de 2015 a septiembre de 2015|<br> <br>Mayo de 2015 a septiembre de 2015|<br> <br>Mayo de 2015 a septiembre de 2015|1.5.2. Fechas estimadas para inicio etapa<br>Página 46|
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|<br> Actividad/Mes|<br> Actividad/Mes|1|2|3|4|1.5.3. cronograma de actividades<br>Página 46|
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|Comprabalsasjaulas|Comprabalsasjaulas|X|||||
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|Compramuertos|Compramuertos|X|||||
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|Trasladobalsas|Trasladobalsas||X|X|||
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|Instalaciónbalsas|Instalaciónbalsas||X|X|||
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|FondeoPontónHabitable|FondeoPontónHabitable||||X|X|
+
+|Col1|Fondeo Pontón Ensilaje|Col3|Col4|Col5|X|Col7|
+|---|---|---|---|---|---|---|
+|Mano de Obra requerida en esta<br>fase.|<br>6 Personas|<br>6 Personas|<br>6 Personas|<br>6 Personas|<br>6 Personas|1.5.4.<br>Mano<br>de<br>obra<br>etapa<br>de<br>construcción,<br>Página46|
+|Descripción de cómo se proveerán<br>los suministros básicos|<br>Sub contratación a empresas que se dedican a la<br>instalación de fondeos y estructuras de cultivo, estas<br>empresas cuentan con 100% de autonomía.<br>Los suministros básicos esta dado por las embarcaciones<br>queutilizanparaestasfaenas.|<br>Sub contratación a empresas que se dedican a la<br>instalación de fondeos y estructuras de cultivo, estas<br>empresas cuentan con 100% de autonomía.<br>Los suministros básicos esta dado por las embarcaciones<br>queutilizanparaestasfaenas.|<br>Sub contratación a empresas que se dedican a la<br>instalación de fondeos y estructuras de cultivo, estas<br>empresas cuentan con 100% de autonomía.<br>Los suministros básicos esta dado por las embarcaciones<br>queutilizanparaestasfaenas.|<br>Sub contratación a empresas que se dedican a la<br>instalación de fondeos y estructuras de cultivo, estas<br>empresas cuentan con 100% de autonomía.<br>Los suministros básicos esta dado por las embarcaciones<br>queutilizanparaestasfaenas.|<br>Sub contratación a empresas que se dedican a la<br>instalación de fondeos y estructuras de cultivo, estas<br>empresas cuentan con 100% de autonomía.<br>Los suministros básicos esta dado por las embarcaciones<br>queutilizanparaestasfaenas.|<br> <br> <br> 1.5.5. Provisión suministros básicos,<br>Página 46|
+|Ubicación y cantidad de recursos<br>naturales renovables a extraer o<br>explotar.|<br> <br>No|<br> <br>No|<br> <br>No|<br> <br>No|<br> <br>No|1.5.6. Cantidad de recursos naturales<br>renovables a extraer o explotar,<br>Página47|
+|Emisiones (abatimiento y control)|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la<br>instalación de la infraestructura del centro, sin embargo,<br>éstascorrespondena fuentesmóvilesy autónomas.|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la<br>instalación de la infraestructura del centro, sin embargo,<br>éstascorrespondena fuentesmóvilesy autónomas.|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la<br>instalación de la infraestructura del centro, sin embargo,<br>éstascorrespondena fuentesmóvilesy autónomas.|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la<br>instalación de la infraestructura del centro, sin embargo,<br>éstascorrespondena fuentesmóvilesy autónomas.|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la<br>instalación de la infraestructura del centro, sin embargo,<br>éstascorrespondena fuentesmóvilesy autónomas.|<br> <br> <br> 1.5.7. Emisiones del proyecto o actividad y<br>las formas de abatimiento y control<br>contempladas,<br>Página 47<br>|
+|Residuos, Químicos y otros (cantidad<br>y manejo)|<br>**Residuos**<br>En general NO generará residuos, productos químicos u<br>otras sustancias que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeo del pontón de alimentación y sistema de ensilaje<br>serán retirados por las mismas empresas de servicio<br>encargadas de cada una de estas faenas, asegurándose de<br>que ninguno de estos elementos residuales quede ya sea<br>flotando o en sectores costeros.<br>Los residuos líquidos: aguas servidas, las embarcaciones<br>que participan de la faena de fondeo e instalación de las<br>estructuras de cultivo cuentan con servicios higiénicos con<br>planta de tratamiento de aguas servidas homologadas y<br>aprobadas por la autoridad marítima.<br>Respecto de los residuos domiciliarios generados producto<br>de la alimentación y otros en las embarcaciones de<br>servicio, serán almacenados en contendores dentro de las<br>embarcaciones para ser dispuesto una vez que retornen a<br>puertoy enviadosa vertederoautorizado.|<br>**Residuos**<br>En general NO generará residuos, productos químicos u<br>otras sustancias que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeo del pontón de alimentación y sistema de ensilaje<br>serán retirados por las mismas empresas de servicio<br>encargadas de cada una de estas faenas, asegurándose de<br>que ninguno de estos elementos residuales quede ya sea<br>flotando o en sectores costeros.<br>Los residuos líquidos: aguas servidas, las embarcaciones<br>que participan de la faena de fondeo e instalación de las<br>estructuras de cultivo cuentan con servicios higiénicos con<br>planta de tratamiento de aguas servidas homologadas y<br>aprobadas por la autoridad marítima.<br>Respecto de los residuos domiciliarios generados producto<br>de la alimentación y otros en las embarcaciones de<br>servicio, serán almacenados en contendores dentro de las<br>embarcaciones para ser dispuesto una vez que retornen a<br>puertoy enviadosa vertederoautorizado.|<br>**Residuos**<br>En general NO generará residuos, productos químicos u<br>otras sustancias que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeo del pontón de alimentación y sistema de ensilaje<br>serán retirados por las mismas empresas de servicio<br>encargadas de cada una de estas faenas, asegurándose de<br>que ninguno de estos elementos residuales quede ya sea<br>flotando o en sectores costeros.<br>Los residuos líquidos: aguas servidas, las embarcaciones<br>que participan de la faena de fondeo e instalación de las<br>estructuras de cultivo cuentan con servicios higiénicos con<br>planta de tratamiento de aguas servidas homologadas y<br>aprobadas por la autoridad marítima.<br>Respecto de los residuos domiciliarios generados producto<br>de la alimentación y otros en las embarcaciones de<br>servicio, serán almacenados en contendores dentro de las<br>embarcaciones para ser dispuesto una vez que retornen a<br>puertoy enviadosa vertederoautorizado.|<br>**Residuos**<br>En general NO generará residuos, productos químicos u<br>otras sustancias que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeo del pontón de alimentación y sistema de ensilaje<br>serán retirados por las mismas empresas de servicio<br>encargadas de cada una de estas faenas, asegurándose de<br>que ninguno de estos elementos residuales quede ya sea<br>flotando o en sectores costeros.<br>Los residuos líquidos: aguas servidas, las embarcaciones<br>que participan de la faena de fondeo e instalación de las<br>estructuras de cultivo cuentan con servicios higiénicos con<br>planta de tratamiento de aguas servidas homologadas y<br>aprobadas por la autoridad marítima.<br>Respecto de los residuos domiciliarios generados producto<br>de la alimentación y otros en las embarcaciones de<br>servicio, serán almacenados en contendores dentro de las<br>embarcaciones para ser dispuesto una vez que retornen a<br>puertoy enviadosa vertederoautorizado.|<br>**Residuos**<br>En general NO generará residuos, productos químicos u<br>otras sustancias que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeo del pontón de alimentación y sistema de ensilaje<br>serán retirados por las mismas empresas de servicio<br>encargadas de cada una de estas faenas, asegurándose de<br>que ninguno de estos elementos residuales quede ya sea<br>flotando o en sectores costeros.<br>Los residuos líquidos: aguas servidas, las embarcaciones<br>que participan de la faena de fondeo e instalación de las<br>estructuras de cultivo cuentan con servicios higiénicos con<br>planta de tratamiento de aguas servidas homologadas y<br>aprobadas por la autoridad marítima.<br>Respecto de los residuos domiciliarios generados producto<br>de la alimentación y otros en las embarcaciones de<br>servicio, serán almacenados en contendores dentro de las<br>embarcaciones para ser dispuesto una vez que retornen a<br>puertoy enviadosa vertederoautorizado.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 1.5.8. Cantidad y manejo de residuos,<br>productos químicos y otras sustancias que<br>puedan afectar el medio ambiente,<br>Página 47<br>|
+|**(a.6.) ETAPA DE OPERACIÓN**|**Resumen**|**Resumen**|**Resumen**|**Resumen**|**Resumen**|**Referencia del título de la DIA donde**<br>**se describe detalladamente dicha obra o**<br>**acción**|
+|Descripción de la fase de operación|Ingreso smolts<br>Engorda<br>Tratamiento Patologías<br>Insumos:<br> Alimento<br> Desinfectantes<br> Redes<br> Hidrocarburos<br>Actividades Operativas:<br>Mortalidad<br>Cambio de Redes<br> Manejo de insumos<br> Cosecha<br> Trasladoy períododedescanso|Ingreso smolts<br>Engorda<br>Tratamiento Patologías<br>Insumos:<br> Alimento<br> Desinfectantes<br> Redes<br> Hidrocarburos<br>Actividades Operativas:<br>Mortalidad<br>Cambio de Redes<br> Manejo de insumos<br> Cosecha<br> Trasladoy períododedescanso|Ingreso smolts<br>Engorda<br>Tratamiento Patologías<br>Insumos:<br> Alimento<br> Desinfectantes<br> Redes<br> Hidrocarburos<br>Actividades Operativas:<br>Mortalidad<br>Cambio de Redes<br> Manejo de insumos<br> Cosecha<br> Trasladoy períododedescanso|Ingreso smolts<br>Engorda<br>Tratamiento Patologías<br>Insumos:<br> Alimento<br> Desinfectantes<br> Redes<br> Hidrocarburos<br>Actividades Operativas:<br>Mortalidad<br>Cambio de Redes<br> Manejo de insumos<br> Cosecha<br> Trasladoy períododedescanso|Ingreso smolts<br>Engorda<br>Tratamiento Patologías<br>Insumos:<br> Alimento<br> Desinfectantes<br> Redes<br> Hidrocarburos<br>Actividades Operativas:<br>Mortalidad<br>Cambio de Redes<br> Manejo de insumos<br> Cosecha<br> Trasladoy períododedescanso|1.6. Etapa de Operación,<br>Página 48 a la 62.|
+|Indicación de las partes, obras y<br>accionesasociadasa estafase.|<br> 1.6.1. Etapa de Operación, página 48|<br> 1.6.1. Etapa de Operación, página 48|<br> 1.6.1. Etapa de Operación, página 48|<br> 1.6.1. Etapa de Operación, página 48|<br> 1.6.1. Etapa de Operación, página 48|1.6.1. Etapa de Operación, página 48<br>|
+
+|Col1|Ingreso smolts: peso 100-­‐125 grs aproximadamente,<br>provenientes de pisciculturas autorizadas<br>Engorda: peso de cosecha de 4,5 kg, tiempo estimado<br>entre 12 y 18 meses.<br>Tratamiento patologías:<br>Trabajo preventivo<br>Tratamientos<br>1. Muestreo sanitario de peces<br>2. Tratamientos por inmersión<br>3. Tratamiento vía inyectable<br>4. Tratamiento vía oral<br>Insumos: Alimento, desinfectantes, redes, Hidrocarburos.<br>Alimento: pelletizado, de alta digestibilidad, factor de<br>conversión estimado 1,2, suministro 3 .714.600 kilos por<br>ciclo.<br>Desinfectantes: alcohol-­‐gel para maniluvios y sistema de<br>aspersión para pediluvios. Almacenamiento en bodega de<br>alimentación, se utilizarán desinfectantes autorizados para<br>su uso en medio marino.<br>Redes: revisión cada 6 meses, la operación de recambio se<br>realizará por personal del centro capacitado y la limpieza<br>se realizará por empresa externa calificada.<br>Hidrocarburos: se prevé una cantidad de 400 l para<br>abastecimiento de embarcaciones menores. Almacenado<br>en bodega rotulado. El uso y mantención se hará conforme<br>lo estipula la DGTM y MM A-­‐53/2002.<br>Transporte se hará conforme a los considerando<br>establecidos en la DGTM y MM Ord. No 12.600/2545.<br>Actividades operativas:<br>Mortalidad proyectada: 15 %., 264,6 ton/ciclo<br>Cambio de Redes: cambio y limpieza pro empresas<br>externas e impregnadas al agua, transporte vía marítima.<br>Reemplazado dependiendo de las condiciones<br>ambientales.<br>Manejo de Insumos<br>Cosecha: Mediante wellboats u otro método permitido por<br>la autoridad<br>Traslado de Jaulas y Período de Descanso|1.6.1.1 Ingreso de smolts, página 48<br>1.6.1.2. Engorda, página 48<br>1.6.1.3. Tratamiento de patologías<br>Página 49-­‐50<br>1.6.1.4. Insumos, página 51<br>Página 51<br>Página 52<br>Página 52<br>Página 52<br>1.6.1.5. Actividades operativas Página 53<br>Pagina 54<br>Página 54<br>Página 55<br>Página 55|
+|---|---|---|
+|Fecha estimada e indicación de parte,<br>obra o acción que establezca el inicio<br>y términodelafase|<br> <br>Septiembre 2015, Indefinida con revisión cada 25 años|1.6.2 fechas estimadas etapa operación<br>Página 56|
+|Cronograma de las principales partes,<br>obras y acciones asociadas a esta fase|<br> <br>Ver detalle en página 57, no es posible pegar la tabla del<br>cronograma.|<br>1.6.3. Cronograma de actividades<br>Página 57|
+|Mano de obra requerida en esta fase|10 promedio, 20 máximo, en turnos|1.6.4. Mano de Obra etapa de operación,<br>página 57 DIA<br>|
+|En caso que el proyecto contemple<br>actividades<br>de<br>mantención<br>y<br>conservación se deberán indicar<br>aquellos aspectos considerados para<br>las actividades generales|<br> <br> <br> <br>Dado que el proyecto considera una vida útil indefinida, el<br>Titular no contempla abandono del proyecto, para ello el<br>titular realizara periódicamente trabajos de mantención y<br>mejoras cuando sea necesario para mantener en buenas<br>condiciones el centro de cultivo.<br>La periodicidad estará dada conforme a la planificación<br>productiva del barrio, es decir será al término de cada ciclo<br>de cultivo, en la cual se realizará revisión, limpieza y<br>desinfección de las estructuras, faenas que serán|<br> <br> <br> <br> <br> <br> <br> <br>|
+
+|Col1|ejecutadas por empresas externas y autorizadas por el<br>Servicio Nacional de Pesca, en caso de generarse algún tipo<br>de residuos estos serán dispuestos en rellenos sanitarios<br>autorizados.|Col3|
+|---|---|---|
+|Descripción de cómo se proveerán<br>los suministros básicos.|<br>**Agua potable**<br>Tanto en la bodega como en la oficina y acomodaciones del<br>pontón, existirán dispensadores de agua purificada que<br>proveen empresas externas mediante bidones cada uno<br>para el consumo de todos los trabajadores y visitas del<br>centro. Los bidones son reemplazados de acuerdo a las<br>necesidades del centro.<br>**Servicios Higiénicos:**<br>Para el tratamiento de las aguas servidas se cuenta con una<br>planta de tratamiento cuyo efluente cumplirá con las<br>normas destinadas a la evacuación, tratamiento y<br>disposición final de aguas servidas a cursos naturales.<br>La bodega contara con servicio higiénico con planta de<br>tratamiento que cumple con la normativa OMI 159 (55).<br>**Energía**<br>El pontón, cuenta con un equipo electrógeno ubicado en el<br>área de almacenaje, el cual suministrará la energía<br>eléctrica a los alimentadores automáticos.<br>**Alimentación y alojamiento**<br>Teniendo en consideración la lejanía de centros poblados,<br>todos los técnicos y operarios que trabajen en el centro de<br>cultivo estarán alojados en el pontón habitable que estará<br>diseñado para soportar la cantidad de trabajadores<br>suficiente que requiera la operación del centro, para ello se<br>considera la inclusión de un cocinero para los efectos de<br>alimentación del personal.<br>**Transporte**<br>Para el transporte del personal técnico y operarios que<br>trabajen en el centro de cultivo, el titular dispone por una<br>parte de embarcaciones desde el centro de cultivo a<br>centroso localidadespobladas.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 1.6.5. Provisión suministros básicos<br>página 57-58<br>|
+|Cuantificación y forma de manejo de<br>los productos generados, así como el<br>transporte<br>considerado<br>para<br>su<br>entrega o despacho|<br> <br> <br>**Cosecha:** Cuando los peces alcancen el peso de cosecha,<br>entrarán en la etapa final de producción; en ésta se<br>detendrá la alimentación de los peces y se procederá a la<br>faena de cosecha. La cosecha se realizará mediante<br>sistemas autorizados por la Autoridad según condición<br>sanitaria del centro. El método utilizado actualmente por el<br>titular es el transporte de peces vivos mediante el empleo<br>de naves tipo wellboat, los cuales tienen la capacidad de<br>succionar los peces desde las balsas jaulas, para luego<br>expulsarlos por la parte superior de sus bodegas, este tipo<br>de naves tiene la particularidad de transportar los peces<br>con un flujo de agua constante con la modalidad de<br>compuertas abiertas o cerradas, según se requiera, lo que<br>sanitariamente es adecuado del punto de vista biológico.<br>El Titular se compromete a mantener registros de la<br>cosecha, traslado y entrega de cosecha para entregar a la<br>autoridad competente que lo requiera.<br>Volumendeproducción3.200ton|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Cosecha, Página 55|
+|Ubicación y cantidad de recursos<br>naturales renovables a extraer o<br>explotar|<br> <br>NO|1.5.6. Cantidad de recursos naturales<br>renovables a extraer o explotar,<br>página58|
+|Emisiones (abatimiento y control)|**Ruido**<br>Las fuentes de emisión de ruido durante la etapa de|<br> 1.5.7. Emisiones del proyecto o actividad y<br>las formas de abatimiento y control|
+
+|Col1|operación corresponderán a los motores fuera de borda<br>actividad diurna y en forma intermitente, los generadores<br>eléctricos y los blower utilizados para alimentación.<br>Uso de GLP como combustible, los motores fuera de borda<br>trabajarán de manera más silenciosa.<br>En el interior del Artefacto Naval se producirá un promedio<br>de emisión equivalente del orden de los 79 dBA, lo que da<br>cumplimiento al Artículo 74 del D.S. No 594/1999. Este<br>nivel de ruido se generará en horario diurno y en forma<br>constante. No obstante, las unidades generadoras de ruido<br>se encontrarán ubicadas en zonas aisladas acústicamente<br>dentro del artefacto naval, con lo que se logrará reducir la<br>emisión de ruido en dichas salas. Por lo demás, los<br>trabajadores contarán con protectores auditivos en la sala<br>donde se ubican.<br>Gases<br>Se generarán gases producto de la operación de los<br>motores fuera de borda y de los generadores de<br>electricidad se considera el uso de Gas Licuado de Petróleo<br>(GLP), combustible que genera principalmente vapor de<br>agua y reduce en un 90% las emisiones de CO.<br>2<br>Tiempo estimado de uso en los fuera de borda: 8 horas<br>diarias, en forma intermitente.<br>El centro de engorda contará con generadores, los que<br>serán una fuente fija de emisión constante. El combustible<br>a utilizar será Petróleo Diesel.<br>Se mantendrán los equipos con la finalidad de mantener la<br>eficiencia de consumo y permitir una combustión óptima<br>en los motores para producir la mínima cantidad de gases y<br>residuos, tanto en los generadores como en los motores<br>fuera de borda.|c ontempladas. Página 5 8 -­‐ 59|Col4|
+|---|---|---|---|
+|Cantidad y manejo de residuos,<br>productos<br>químicos<br>y<br>otras<br>sustancias que puedan afectar el<br>medio ambiente|<br> <br> <br>**Aguas Servidas Domésticas**<br>Las aguas servidas domésticas generadas durante la etapa<br>de operación del proyecto se tratarán en una planta de<br>tratamiento del tipo electroquímica autorizada por el<br>Servicio de Inspección de Naves dependiente de la<br>DIRECTEMAR y cumple con la Resolución OMI MEPC<br>159(55).<br>**Desinfectantes**<br>Maniluvios con alcohol gel y pediluvio por aspersión, no<br>generan residuos.<br>**Residuos Sólidos**<br>Mortalidad a ensilaje:264,6 ton/ciclo<br>Alimento no consumido 111,4 ton/ciclo<br>Fecas 502,6 ton/ciclo<br>Bolsas de alimento 1,86 ton/ciclo<br>Residuos sólidos domésticos 2,55 ton/año<br>**Residuos Peligrosos**<br>**Residuos de Aceites Lubricantes Usados (RESPELs):**<br>volumen aproximado 190 l/año producto de la utilización<br>de aceites lubricantes<br>Producto de la utilización de aceites lubricantes en los|<br> <br> <br> <br> <br> <br> <br> <br> <br> 1.5.8. Cantidad y manejo de residuos,<br>productos químicos y otras sustancias que<br>puedan afectar el medio ambiente.<br>Pagina 59-62<br> <br>|<br> <br> <br> <br> <br> <br> <br> <br> <br> 1.5.8. Cantidad y manejo de residuos,<br>productos químicos y otras sustancias que<br>puedan afectar el medio ambiente.<br>Pagina 59-62<br> <br>|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 150**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 150**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 150**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 150**|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 150**|
+
+|Col1|motores del centro, se generarán residuos que serán<br>almacenados en recipientes cerrados y debidamente<br>etiquetados e identificados.<br>Disposición final: empresas autorizadas.|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|**(a.7.) ETAPA DE CIERRE**|**Resumen**|**Resumen**|**Resumen**|**Resumen**|**Referencia del título de la DIA donde**<br>**se describe detalladamente dicha obra o**<br>**acción**|**Referencia del título de la DIA donde**<br>**se describe detalladamente dicha obra o**<br>**acción**|**Referencia del título de la DIA donde**<br>**se describe detalladamente dicha obra o**<br>**acción**|
+|Descripción de la fase de cierre, si la<br>hubiere.|<br>Dado que el proyecto considera una vida útil de 25 años<br>renovables, el Titular no contempla abandono del<br>proyecto, para ello el titular realizará periódicamente<br>trabajos de mantención y mejoras cuando sea necesario<br>para mantener el buenas condiciones el centro de cultivo.<br>En caso de que el Titular considere pertinente el cierre del<br>centro de cultivo, éste se compromete a cumplir con lo<br>establecido en el Artículo 4, letra c) del D.S. (MINECON) No<br>320 de 2001, en cuanto a retirar al término de su vida útil o<br>a la cesación de actividades del centro, todo tipo de<br>soportes no degradables o de degradación lenta que<br>hubieren sido utilizados como sistema de anclaje al fondo,<br>exceptuando las estructuras de concreto utilizadas para el<br>anclaje, se realizará un análisis al fin de la etapa para<br>verificar si es factible el retiro de las estructuras de<br>concreto o si este retiro generaría un daño mayor al<br>entorno. Esta tarea será ejecutada por 3 personas con<br>apoyo de la balsa y embarcaciones, estimándose un plazo<br>de 90 días para el total abandono del centro de cultivo.<br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componenteambientaldelsitio.|<br>Dado que el proyecto considera una vida útil de 25 años<br>renovables, el Titular no contempla abandono del<br>proyecto, para ello el titular realizará periódicamente<br>trabajos de mantención y mejoras cuando sea necesario<br>para mantener el buenas condiciones el centro de cultivo.<br>En caso de que el Titular considere pertinente el cierre del<br>centro de cultivo, éste se compromete a cumplir con lo<br>establecido en el Artículo 4, letra c) del D.S. (MINECON) No<br>320 de 2001, en cuanto a retirar al término de su vida útil o<br>a la cesación de actividades del centro, todo tipo de<br>soportes no degradables o de degradación lenta que<br>hubieren sido utilizados como sistema de anclaje al fondo,<br>exceptuando las estructuras de concreto utilizadas para el<br>anclaje, se realizará un análisis al fin de la etapa para<br>verificar si es factible el retiro de las estructuras de<br>concreto o si este retiro generaría un daño mayor al<br>entorno. Esta tarea será ejecutada por 3 personas con<br>apoyo de la balsa y embarcaciones, estimándose un plazo<br>de 90 días para el total abandono del centro de cultivo.<br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componenteambientaldelsitio.|<br>Dado que el proyecto considera una vida útil de 25 años<br>renovables, el Titular no contempla abandono del<br>proyecto, para ello el titular realizará periódicamente<br>trabajos de mantención y mejoras cuando sea necesario<br>para mantener el buenas condiciones el centro de cultivo.<br>En caso de que el Titular considere pertinente el cierre del<br>centro de cultivo, éste se compromete a cumplir con lo<br>establecido en el Artículo 4, letra c) del D.S. (MINECON) No<br>320 de 2001, en cuanto a retirar al término de su vida útil o<br>a la cesación de actividades del centro, todo tipo de<br>soportes no degradables o de degradación lenta que<br>hubieren sido utilizados como sistema de anclaje al fondo,<br>exceptuando las estructuras de concreto utilizadas para el<br>anclaje, se realizará un análisis al fin de la etapa para<br>verificar si es factible el retiro de las estructuras de<br>concreto o si este retiro generaría un daño mayor al<br>entorno. Esta tarea será ejecutada por 3 personas con<br>apoyo de la balsa y embarcaciones, estimándose un plazo<br>de 90 días para el total abandono del centro de cultivo.<br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componenteambientaldelsitio.|<br>Dado que el proyecto considera una vida útil de 25 años<br>renovables, el Titular no contempla abandono del<br>proyecto, para ello el titular realizará periódicamente<br>trabajos de mantención y mejoras cuando sea necesario<br>para mantener el buenas condiciones el centro de cultivo.<br>En caso de que el Titular considere pertinente el cierre del<br>centro de cultivo, éste se compromete a cumplir con lo<br>establecido en el Artículo 4, letra c) del D.S. (MINECON) No<br>320 de 2001, en cuanto a retirar al término de su vida útil o<br>a la cesación de actividades del centro, todo tipo de<br>soportes no degradables o de degradación lenta que<br>hubieren sido utilizados como sistema de anclaje al fondo,<br>exceptuando las estructuras de concreto utilizadas para el<br>anclaje, se realizará un análisis al fin de la etapa para<br>verificar si es factible el retiro de las estructuras de<br>concreto o si este retiro generaría un daño mayor al<br>entorno. Esta tarea será ejecutada por 3 personas con<br>apoyo de la balsa y embarcaciones, estimándose un plazo<br>de 90 días para el total abandono del centro de cultivo.<br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componenteambientaldelsitio.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 1.7.ETAPA DE ABANDONO (artículo 19 D.S.<br>No 40/12, literal a.7),<br> <br>página 63-64|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 1.7.ETAPA DE ABANDONO (artículo 19 D.S.<br>No 40/12, literal a.7),<br> <br>página 63-64|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 1.7.ETAPA DE ABANDONO (artículo 19 D.S.<br>No 40/12, literal a.7),<br> <br>página 63-64|
+|Indicación de las partes, obras y<br>accionesasociadasa estafase.|<br>Dicho en el punto anterior|<br>Dicho en el punto anterior|<br>Dicho en el punto anterior|<br>Dicho en el punto anterior|Página 63-64|Página 63-64|Página 63-64|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|<br> <br><br>Tiempo: Tres meses<br>Manodeobra:3 personas|<br> <br><br>Tiempo: Tres meses<br>Manodeobra:3 personas|<br> <br><br>Tiempo: Tres meses<br>Manodeobra:3 personas|<br> <br><br>Tiempo: Tres meses<br>Manodeobra:3 personas|Página 63|Página 63|Página 63|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|<br><br>Actividad/Mes|1|2|3|3|3|3|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|Retiroy transportedebalsasjaulas|X||||||
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|Retirodesistemasdefondeomuertos|X|X|||||
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|Retirodemuertos(*)|||X|X|X|X|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|Retiroy transportedelsistemadeensilaje|||X|X|X|X|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|Retiroy transportedelPontónHabitable|||X|X|X|X|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>desmantelar<br>o<br>asegurar<br>la<br>estabilidad<br>de<br>la<br>infraestructura<br>utilizada<br>por<br>el<br>proyecto o actividad.|(*)consultapertinenciaa laautoridad|(*)consultapertinenciaa laautoridad|(*)consultapertinenciaa laautoridad|(*)consultapertinenciaa laautoridad|(*)consultapertinenciaa laautoridad|(*)consultapertinenciaa laautoridad|(*)consultapertinenciaa laautoridad|
+|Describir<br>actividades,<br>obras<br>y<br>acciones para restaurar la geoforma<br>o morfología, vegetación y cualquier<br>otro componente ambiental que<br>haya<br>sido<br>afectado<br>durante<br>la<br>ejecucióndelproyectoo actividad.|<br> <br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> Página 63|<br> <br> <br> Página 63|<br> <br> <br> Página 63|
+|Describir<br>actividades,<br>obras<br>y<br>acciones<br>para<br>prevenir<br>futuras<br>emisiones para evitar la afectación<br>del ecosistema incluido el aire, suelo<br>y agua.|<br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> <br>Dado que el proyecto se desarrollará íntegramente en el<br>medio marino, se estima que no se verá afectada la<br>morfología del lugar, así como la vegetación u otro<br>componente ambiental del sitio.|<br> <br> <br> Página 63|<br> <br> <br> Página 63|<br> <br> <br> Página 63|
+|Describir<br>actividades,<br>obras<br>y|Serealizarántodaslasaccionespertinentesa manteneren|Serealizarántodaslasaccionespertinentesa manteneren|Serealizarántodaslasaccionespertinentesa manteneren|Serealizarántodaslasaccionespertinentesa manteneren||||
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 151**||
+
+|acciones para la mantención,<br>conservación y supervisión que sean<br>necesarias.|Col2|b uen estado las artes de cultivo, para ello se realizará<br>r evisión, limpieza y desinfección de las estructuras, faenas<br>que serán ejecutadas por empresas externas y autorizadas<br>por el Servicio Nacional de Pesca, en caso de generarse<br>algún tipo de residuos estos serán dispuestos en rellenos<br>sanitarios autorizados, la periodicidad estará dada<br>conforme a la planificación productiva del barrio, es decir<br>será al término de cada p eríodo productivo.|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|**(a.8.) PLANES DE CONTINGENCIA**|**(a.8.) PLANES DE CONTINGENCIA**|**Resumen**|**Resumen**|**Resumen**|**Referencia del título de la DIA donde**<br>**se describe detalladamente dicha obra o**<br>**acción**|**Referencia del título de la DIA donde**<br>**se describe detalladamente dicha obra o**<br>**acción**|
+|Plan de Prevención de Contingencias|Plan de Prevención de Contingencias|Se detallan todos los planes de contingencia y<br>procedimientos de la empresa.|Se detallan todos los planes de contingencia y<br>procedimientos de la empresa.|Se detallan todos los planes de contingencia y<br>procedimientos de la empresa.|<br> 1.8.PLANES<br>DE<br>MITIGACIÓN<br>Y<br>CONTINGENCIA (artículo 19 D.S. No 40/12,<br>literala.8),página65-66,anexo4|<br> 1.8.PLANES<br>DE<br>MITIGACIÓN<br>Y<br>CONTINGENCIA (artículo 19 D.S. No 40/12,<br>literala.8),página65-66,anexo4|
+|Plan de Emergencias|Plan de Emergencias|Se detallan todos los planes de contingencia y<br>procedimientos de la empresa.|Se detallan todos los planes de contingencia y<br>procedimientos de la empresa.|Se detallan todos los planes de contingencia y<br>procedimientos de la empresa.|<br> 1.8.PLANES<br>DE<br>MITIGACIÓN<br>Y<br>CONTINGENCIA (artículo 19 D.S. No 40/12,<br>literala.8),página65-66,anexo4|<br> 1.8.PLANES<br>DE<br>MITIGACIÓN<br>Y<br>CONTINGENCIA (artículo 19 D.S. No 40/12,<br>literala.8),página65-66,anexo4|
+|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|**(b) ANTECEDENTESDONDESEACREDITAQUEELPROYECTONOREQUIEREINGRESARALSEIAA TRAVÉSDEUNEIA(D.S.N°40/12)**|
+|Determinación y justificación del área de influencia del<br>proyecto o actividad|Determinación y justificación del área de influencia del<br>proyecto o actividad|Determinación y justificación del área de influencia del<br>proyecto o actividad|Determinación y justificación del área de influencia del<br>proyecto o actividad|<br>Respecto del área de influencia del proyecto, se define como área de influencia<br>cercana o próxima, al área correspondiente a la concesión de acuicultura, con sus<br>respectivas estructuras y sistemas de fondeo más la superficie comprendida producto<br>de la dispersión de la pluma de aporte de carbono del proyecto y su proyección a la<br>línea de costa cercana (área demarcada con el borde rojo), debido a la obligación de<br>mantener limpias la porción de playa (D.S. N° 320). Conforme a lo anterior y en<br>función del resultado de la modelación se estima un área de influencia de 49,18 Hás<br>proyectada hacia el E de la concesión al borde costero más cercano. Con todo, el área<br>de mayor dispersión equivalente a la menor carga orgánica de 0,2 kg C/m<br>2/año se<br>ubica a más de 90m distante de la línea de costa. (Figura 20). Ver plano**anexo 6**.<br>Página67.|<br>Respecto del área de influencia del proyecto, se define como área de influencia<br>cercana o próxima, al área correspondiente a la concesión de acuicultura, con sus<br>respectivas estructuras y sistemas de fondeo más la superficie comprendida producto<br>de la dispersión de la pluma de aporte de carbono del proyecto y su proyección a la<br>línea de costa cercana (área demarcada con el borde rojo), debido a la obligación de<br>mantener limpias la porción de playa (D.S. N° 320). Conforme a lo anterior y en<br>función del resultado de la modelación se estima un área de influencia de 49,18 Hás<br>proyectada hacia el E de la concesión al borde costero más cercano. Con todo, el área<br>de mayor dispersión equivalente a la menor carga orgánica de 0,2 kg C/m<br>2/año se<br>ubica a más de 90m distante de la línea de costa. (Figura 20). Ver plano**anexo 6**.<br>Página67.|<br>Respecto del área de influencia del proyecto, se define como área de influencia<br>cercana o próxima, al área correspondiente a la concesión de acuicultura, con sus<br>respectivas estructuras y sistemas de fondeo más la superficie comprendida producto<br>de la dispersión de la pluma de aporte de carbono del proyecto y su proyección a la<br>línea de costa cercana (área demarcada con el borde rojo), debido a la obligación de<br>mantener limpias la porción de playa (D.S. N° 320). Conforme a lo anterior y en<br>función del resultado de la modelación se estima un área de influencia de 49,18 Hás<br>proyectada hacia el E de la concesión al borde costero más cercano. Con todo, el área<br>de mayor dispersión equivalente a la menor carga orgánica de 0,2 kg C/m<br>2/año se<br>ubica a más de 90m distante de la línea de costa. (Figura 20). Ver plano**anexo 6**.<br>Página67.|
+|**Artículo5,RiesgoparalaSaluddelaPoblación**|**Artículo5,RiesgoparalaSaluddelaPoblación**|**Artículo5,RiesgoparalaSaluddelaPoblación**|**Artículo5,RiesgoparalaSaluddelaPoblación**|**Artículo5,RiesgoparalaSaluddelaPoblación**|**Artículo5,RiesgoparalaSaluddelaPoblación**|**Artículo5,RiesgoparalaSaluddelaPoblación**|
+|Etapa|Posible Impacto|Posible Impacto|Resumen: Antecedentes, medidas o acciones que justifiquen<br>la no presentación de un EIA.|Resumen: Antecedentes, medidas o acciones que justifiquen<br>la no presentación de un EIA.|Resumen: Antecedentes, medidas o acciones que justifiquen<br>la no presentación de un EIA.|<br>Referencia del título de la DIA<br>donde<br>se describe detalladamente<br>elantecedente.|
+|Etapa de Construcción|Emisiones<br>atmosféricas<br>Residuos líquidos<br>Residuos sólidos|Emisiones<br>atmosféricas<br>Residuos líquidos<br>Residuos sólidos|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la instalación<br>de la infraestructura del centro, sin embargo, éstas<br>corresponden a fuentes móviles y autónomas.<br>No se generará residuos líquidos, solo aquel proveniente de<br>baños, aguas servidas que serán tratadas mediante planta de<br>tratamiento de aguas negras, que cumpla con la normativa<br>vigente de límites máximos permitidos.<br>NO generará residuos, productos químicos u otras sustancias<br>que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeodelospontonesseránretiradosporlasmismas|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la instalación<br>de la infraestructura del centro, sin embargo, éstas<br>corresponden a fuentes móviles y autónomas.<br>No se generará residuos líquidos, solo aquel proveniente de<br>baños, aguas servidas que serán tratadas mediante planta de<br>tratamiento de aguas negras, que cumpla con la normativa<br>vigente de límites máximos permitidos.<br>NO generará residuos, productos químicos u otras sustancias<br>que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeodelospontonesseránretiradosporlasmismas|Se estima que no se generarán emisiones en la etapa de<br>construcción del proyecto. Sólo se puede considerar los<br>motores de las embarcaciones que trabajarán en la instalación<br>de la infraestructura del centro, sin embargo, éstas<br>corresponden a fuentes móviles y autónomas.<br>No se generará residuos líquidos, solo aquel proveniente de<br>baños, aguas servidas que serán tratadas mediante planta de<br>tratamiento de aguas negras, que cumpla con la normativa<br>vigente de límites máximos permitidos.<br>NO generará residuos, productos químicos u otras sustancias<br>que puedan afectar el medio ambiente.<br>Los residuos que se generen producto de la instalación y<br>fondeo de las plataformas de cultivo, sistema de anclaje y<br>fondeodelospontonesseránretiradosporlasmismas|<br> <br> <br>2. ANTECEDENTES PARA<br>EVALUAR QUE EL PROYECTO<br>O ACTIVIDAD NO REQUIERE<br>PRESENTAR UN ESTUDIO DE<br>IMPACTO AMBIENTAL<br>(Artículo 19 D.S. No 40/12,<br>literal b).<br>Página 80-86<br>Pagina 80-81<br>Página 81<br>Página 82|
+
+|Col1|Col2|Col3|empresas de servicio encargadas de cada una de estas faenas.<br>Residuos domiciliarios: serán almacenados en contendores<br>dentro de las embarcaciones para ser dispuesto una vez que<br>retornen a puerto y enviados a vertedero autorizado.|Col5|Col6|
+|---|---|---|---|---|---|
+|Etapa de Operación|Emisiones<br>Atmosfera<br>Residuos líquidos<br>Residuos sólidos|Emisiones<br>Atmosfera<br>Residuos líquidos<br>Residuos sólidos|**Ruido**<br>Motores fuera de borda,<br>Generadores<br>eléctricos<br>y<br>los<br>blower<br>utilizados<br>para<br>alimentación.<br>Uso de GLP como combustible<br>La emisión de ruido se generará durante la actividad diurna,<br>en forma intermitente.<br>Pontón: promedio de emisión equivalente del orden de los 79<br>dBA, lo que da cumplimiento al Artículo 74 del D.S. No<br>594/1999.<br>Este nivel de ruido se generará en horario diurno y en forma<br>constante.<br>Las unidades generadoras de ruido se encontrarán ubicadas<br>en zonas aisladas acústicamente, con lo que se logrará reducir<br>la emisión de ruido en dichas salas.<br>Los trabajadores contarán con protectores auditivos en la sala<br>donde se ubican.<br>**·Gases**<br>Se generarán gases producto de la operación de los motores<br>fuera de borda y de los generadores de electricidad.<br>Uso de Gas Licuado de Petróleo (GLP), combustible que<br>genera principalmente vapor de agua y reduce en un 90% las<br>emisiones de CO2<br>La emisión de los motores fuera de borda tendrán una<br>duración de 8 horas diarias, pero su utilización será en forma<br>intermitente.<br>Cabe indicar que se tendrá especial cuidado en la mantención<br>de estos equipos, con la finalidad de mantener la eficiencia de<br>consumo y permitir una combustión óptima en los motores<br>para producir la mínima cantidad de gases y residuos, tanto<br>en los generadores como en los motores fuera de borda.<br>**Aguas servidas domésticas:**<br>Las aguas servidas domésticas se tratarán en una planta de<br>tratamiento del tipo electroquímica. Cumple con la Resolución<br>OMI MEPC 159(55).<br>**Desinfectantes**<br>Maniluvios: alcohol-gel; pediluvio por aspersión, no genera<br>residuos.<br>**Mortalidad a ensilaje:** 264,6 ton/ciclo<br>**Pérdida de alimento:** 111,4 ton/ciclo<br>**Fecas:** 502,6 ton fecas/ciclo<br>**Bolsas de alimento:** 1,86 ton/ciclo<br>Residuos Sólidos Domésticos (RSD): 2,55 ton/año|**Ruido**<br>Motores fuera de borda,<br>Generadores<br>eléctricos<br>y<br>los<br>blower<br>utilizados<br>para<br>alimentación.<br>Uso de GLP como combustible<br>La emisión de ruido se generará durante la actividad diurna,<br>en forma intermitente.<br>Pontón: promedio de emisión equivalente del orden de los 79<br>dBA, lo que da cumplimiento al Artículo 74 del D.S. No<br>594/1999.<br>Este nivel de ruido se generará en horario diurno y en forma<br>constante.<br>Las unidades generadoras de ruido se encontrarán ubicadas<br>en zonas aisladas acústicamente, con lo que se logrará reducir<br>la emisión de ruido en dichas salas.<br>Los trabajadores contarán con protectores auditivos en la sala<br>donde se ubican.<br>**·Gases**<br>Se generarán gases producto de la operación de los motores<br>fuera de borda y de los generadores de electricidad.<br>Uso de Gas Licuado de Petróleo (GLP), combustible que<br>genera principalmente vapor de agua y reduce en un 90% las<br>emisiones de CO2<br>La emisión de los motores fuera de borda tendrán una<br>duración de 8 horas diarias, pero su utilización será en forma<br>intermitente.<br>Cabe indicar que se tendrá especial cuidado en la mantención<br>de estos equipos, con la finalidad de mantener la eficiencia de<br>consumo y permitir una combustión óptima en los motores<br>para producir la mínima cantidad de gases y residuos, tanto<br>en los generadores como en los motores fuera de borda.<br>**Aguas servidas domésticas:**<br>Las aguas servidas domésticas se tratarán en una planta de<br>tratamiento del tipo electroquímica. Cumple con la Resolución<br>OMI MEPC 159(55).<br>**Desinfectantes**<br>Maniluvios: alcohol-gel; pediluvio por aspersión, no genera<br>residuos.<br>**Mortalidad a ensilaje:** 264,6 ton/ciclo<br>**Pérdida de alimento:** 111,4 ton/ciclo<br>**Fecas:** 502,6 ton fecas/ciclo<br>**Bolsas de alimento:** 1,86 ton/ciclo<br>Residuos Sólidos Domésticos (RSD): 2,55 ton/año|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 2. ANTECEDENTES PARA<br>EVALUAR QUE EL PROYECTO<br>O ACTIVIDAD NO REQUIERE<br>PRESENTAR UN ESTUDIO DE<br>IMPACTO AMBIENTAL<br>(Artículo 19 D.S. No 40/12,<br>literal b). Página 80-86<br>Página 80-81<br>Página 81<br>Página 81-82<br>Página 82<br>Página 82-85|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 153**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 153**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 153**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 153**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 153**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 153**|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 153**|**P á g i n a | 153**|
+
+|Col1|Col2|Residuos de Aceites Lubricantes Usados (RESPELs): Producto<br>de la utilización de aceites lubricantes en los motores del<br>centro, se generarán residuos que serán almacenados en<br>recipientes cerrados y debidamente etiquetados e<br>identificados.<br>Volumen: 190 litros al año<br>Disposición final a empresas autorizadas|Col4|Col5|Página 85|
+|---|---|---|---|---|---|
+|Etapa de Cierre|Emisiones<br>atmosféricas<br>Residuos Líquidos<br>Residuos sólidos|**Emisiones atmosféricas**<br>Se estima que no se generarán emisiones en la etapa de<br>abandono del proyecto. Sólo se puede considerar los motores<br>de las embarcaciones que trabajarán en el desarme y/o<br>traslado de la infraestructura del centro, sin embargo, éstas<br>corresponden a fuentes móviles y autónomas.<br>·**Residuos líquidos** <br>Los residuos líquidos que pudiesen generarse en esta etapa<br>están circunscritos a las aguas servidas, las embarcaciones que<br>participan de la faena de desarme de las estructuras de cultivo<br>cuentan con servicios higiénicos con planta de tratamiento de<br>aguas servidas homologadas y aprobadas por la autoridad<br>marítima.<br>·**Residuos sólidos** <br>El proyecto en la etapa de abandono en general NO generará<br>residuos, productos químicos u otras sustancias que puedan<br>afectar el medio ambiente.<br>Los residuos que se generen producto de la desinstalación de<br>las plataformas de cultivo, sistema de anclaje serán retirados<br>por las mismas empresas de servicio encargadas de cada una<br>de estas faenas, asegurándose de que ninguno de estos<br>elementos residuales quede ya sea flotando o en sectores<br>costeros.<br>Residuos domiciliarios generados producto de la alimentación<br>y otros en las embarcaciones de servicio, serán almacenados<br>en contendores dentro de las embarcaciones para ser<br>dispuesto una vez que retornen a puerto y enviados a<br>vertederoautorizado.|**Emisiones atmosféricas**<br>Se estima que no se generarán emisiones en la etapa de<br>abandono del proyecto. Sólo se puede considerar los motores<br>de las embarcaciones que trabajarán en el desarme y/o<br>traslado de la infraestructura del centro, sin embargo, éstas<br>corresponden a fuentes móviles y autónomas.<br>·**Residuos líquidos** <br>Los residuos líquidos que pudiesen generarse en esta etapa<br>están circunscritos a las aguas servidas, las embarcaciones que<br>participan de la faena de desarme de las estructuras de cultivo<br>cuentan con servicios higiénicos con planta de tratamiento de<br>aguas servidas homologadas y aprobadas por la autoridad<br>marítima.<br>·**Residuos sólidos** <br>El proyecto en la etapa de abandono en general NO generará<br>residuos, productos químicos u otras sustancias que puedan<br>afectar el medio ambiente.<br>Los residuos que se generen producto de la desinstalación de<br>las plataformas de cultivo, sistema de anclaje serán retirados<br>por las mismas empresas de servicio encargadas de cada una<br>de estas faenas, asegurándose de que ninguno de estos<br>elementos residuales quede ya sea flotando o en sectores<br>costeros.<br>Residuos domiciliarios generados producto de la alimentación<br>y otros en las embarcaciones de servicio, serán almacenados<br>en contendores dentro de las embarcaciones para ser<br>dispuesto una vez que retornen a puerto y enviados a<br>vertederoautorizado.|**Emisiones atmosféricas**<br>Se estima que no se generarán emisiones en la etapa de<br>abandono del proyecto. Sólo se puede considerar los motores<br>de las embarcaciones que trabajarán en el desarme y/o<br>traslado de la infraestructura del centro, sin embargo, éstas<br>corresponden a fuentes móviles y autónomas.<br>·**Residuos líquidos** <br>Los residuos líquidos que pudiesen generarse en esta etapa<br>están circunscritos a las aguas servidas, las embarcaciones que<br>participan de la faena de desarme de las estructuras de cultivo<br>cuentan con servicios higiénicos con planta de tratamiento de<br>aguas servidas homologadas y aprobadas por la autoridad<br>marítima.<br>·**Residuos sólidos** <br>El proyecto en la etapa de abandono en general NO generará<br>residuos, productos químicos u otras sustancias que puedan<br>afectar el medio ambiente.<br>Los residuos que se generen producto de la desinstalación de<br>las plataformas de cultivo, sistema de anclaje serán retirados<br>por las mismas empresas de servicio encargadas de cada una<br>de estas faenas, asegurándose de que ninguno de estos<br>elementos residuales quede ya sea flotando o en sectores<br>costeros.<br>Residuos domiciliarios generados producto de la alimentación<br>y otros en las embarcaciones de servicio, serán almacenados<br>en contendores dentro de las embarcaciones para ser<br>dispuesto una vez que retornen a puerto y enviados a<br>vertederoautorizado.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Pagina 85-86|
+|**Artículo6,EfectoAdversoSignificativosobreRecursosNaturalesRenovables**|**Artículo6,EfectoAdversoSignificativosobreRecursosNaturalesRenovables**|**Artículo6,EfectoAdversoSignificativosobreRecursosNaturalesRenovables**|**Artículo6,EfectoAdversoSignificativosobreRecursosNaturalesRenovables**|**Artículo6,EfectoAdversoSignificativosobreRecursosNaturalesRenovables**|**Artículo6,EfectoAdversoSignificativosobreRecursosNaturalesRenovables**|
+|Etapa|Posible Impacto|Posible Impacto|Resumen:<br>Antecedentes,<br>medidas<br>o<br>acciones<br>que<br>justifiquen<br>la<br>no<br>presentacióndeunEIA.|<br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente.|<br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente.|
+|- Etapa de Construcción|Generación de basura<br>en el borde costero,<br>emisión y emanación de<br>gases a la atmósfera,<br>vertimiento al medio<br>marino<br>No se prevé|Generación de basura<br>en el borde costero,<br>emisión y emanación de<br>gases a la atmósfera,<br>vertimiento al medio<br>marino<br>No se prevé|<br> <br> <br> <br> <br>El titular reitera que el proyecto no<br>considera instalaciones en tierra y por<br>ende se estima que no afectará los<br>recursos naturales renovables en el suelo.<br>Respecto<br>del<br>recurso<br>aire,<br>quedó<br>establecido en el punto anterior que las<br>emisiones a la atmósfera quedarán<br>confinadas a aquellas correspondientes al<br>uso de motores de las embarcaciones que<br>trabajarán<br>en<br>la<br>instalación<br>de<br>la<br>infraestructura del centro, sin embargo,<br>éstas corresponden a fuentes móviles y<br>autónomas.<br>Respecto del recurso agua en la etapa de<br>construcción no se prevé efectos adversos<br>significativos dado que el proyecto trata|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Página 86-100<br>Capitulo 2|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Página 86-100<br>Capitulo 2|
+
+|Col1|Col2|Col3|de una relocalización, por tanto se<br>implementara con estructuras que<br>llegaran al centro pre armadas.<br>De la misma manera los residuos líquidos<br>que pudiesen generarse en esta etapa<br>están circunscritos a las aguas servidas,<br>las embarcaciones que participan de la<br>faena de fondeo e instalación de las<br>estructuras de cultivo cuentan con<br>servicios higiénicos con planta de<br>tratamiento de aguas servidas<br>homologadas y aprobadas por la<br>autoridad marítima.|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|- Etapa de Operación|Generación de basura<br>en el borde costero,<br>emisión y emanación de<br>gases a la atmósfera,<br>vertimiento al medio<br>marino<br>No se prevé|Generación de basura<br>en el borde costero,<br>emisión y emanación de<br>gases a la atmósfera,<br>vertimiento al medio<br>marino<br>No se prevé|<br> <br> <br> <br> <br>El titular reitera que el proyecto no<br>considera instalaciones en tierra y por<br>ende se estima que no afectará los<br>recursos naturales renovables en el<br>suelo.<br>Respecto del recurso aire, Las emisiones<br>de<br>los<br>motores<br>fuera<br>de<br>borda<br>corresponden a vapor de agua, con un<br>90% menos de CO2.<br>Respecto del recurso agua en la etapa<br>de operación no se prevé efectos<br>adversos significativos dado que las<br>condiciones oceanográficas del sector<br>presenta características adecuadas para<br>un desarrollo sustentable del centro<br>Melchor:<br>Área de influencia: 49,18 hás<br>Distancia de la Costa: más de 90 m<br>Índice de impacto: 2,09 (velocidad<br>promedio de corrientes)<br>Índice e impacto: 2,07 (velocidad<br>promedio capa profunda)<br>Modelación depomod:<br>Aporte<br>máximo<br>de<br>carbono<br>5,4<br>Kg/m<br>2/año, superficie de 0,1 hás de un<br>área total de depositación de 8,57 hás,<br>equivale al 1,27%.<br>Desplazamiento<br>de<br>la<br>mancha<br>de<br>biosólidos hacia el medio del canal<br>alejándose de la línea de costa, a más de<br>90 m de la costa cercana que se<br>encuentra dentro del área de influencia<br>directa. Por tanto:<br>No se prevé afectación de la fauna<br>encontrada en el borde costero ubicado<br>dentro del AI.<br>Y se prevé que soportaría el cultivo de<br>3.200 ton, toda vez que la mayor carga<br>corresponde solo al 1,27% del aporte total<br>y se ubica inmediatamente debajo del<br>módulos de cultivo.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Página 86-100<br>Capitulo 2|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Página 86-100<br>Capitulo 2|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Página 86-100<br>Capitulo 2|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 155**||
+
+|Col1|Col2|Col3|Titular realizará un seguimiento del borde<br>costero ubicado dentro del área de<br>influencia, realizando un monitoreo por<br>período productivo. Metodología a seguir<br>la misma planteada en el informe de<br>biodiversidad, anexo 6.<br>Posible generación de resistencia a<br>antibióticos y a otros efectos que puedan<br>generar los antibióticos, se pondrá<br>especial énfasis a un suministro<br>estratégico de alimento medicado, en<br>cuanto al control de la ingesta por parte<br>de los peces y a la minimización de su<br>disposición en el medio ambiente<br>acuático.<br>Tracks de navegación: rutas<br>establecidas, frecuencia de<br>embarcaciones en detalle página 79.<br>Tal como se mencionó, estos viajes serán<br>realizados por los tracks de navegación<br>establecidos por la Autoridad Marítima y<br>siguiendo todas las medidas de<br>bioseguridad establecidas por el Servicio<br>Nacional de Pesca y Acuicultura, por lo<br>que no se verán afectados otros centros<br>de cultivo así como tampoco se verán<br>afectados centros o lugares de interés<br>turístico.<br>El titular considera que con base en los<br>antecedentes expuestos, considerando la<br>envergadura del proyecto, las<br>condiciones oceanográficas, la tecnología<br>de punta incorporada, adoptando las<br>medidas antes mencionadas y operando<br>bajo un concepto preventivo, no se<br>generarán efectos adversos significativos<br>sobre la cantidad y calidad de los<br>recursos naturales renovables, incluidos<br>suelo, agua y aire.<br>Por tanto, de acuerdo a este análisis, el<br>área de interés presenta la capacidad de<br>dilución, dispersión, autodepuración,<br>asimilación y regeneración de los<br>recursos naturales renovables presentes<br>en el área de influencia del proyecto o<br>actividad.|Col5|Col6|
+|---|---|---|---|---|---|
+|- Etapa de Cierre|Generación de basura<br>en el borde costero,<br>emisión y emanación de<br>gases a la atmósfera,<br>vertimiento al medio<br>marino<br>No se prevé|Generación de basura<br>en el borde costero,<br>emisión y emanación de<br>gases a la atmósfera,<br>vertimiento al medio<br>marino<br>No se prevé|<br> <br> <br> <br> <br>El titular reitera que el proyecto no<br>considera instalaciones en tierra y por<br>ende se estima que no afectará los<br>recursos naturales renovables en el suelo.<br>Respecto del recurso aire, quedó<br>establecido en el punto anterior que las<br>emisiones a la atmósfera quedarán<br>confinadas a aquellas correspondientes al<br>usodemotoresdelasembarcacionesque|Página 86-100, capitulo 2 de la DIA|Página 86-100, capitulo 2 de la DIA|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 156**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 156**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 156**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 156**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 156**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**<br>**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI <br>**P á g i n a | 156**|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 156**|
+
+|Col1|Col2|trabajarán en la instalación de la<br>infraestructura del centro, sin embargo,<br>éstas corresponden a fuentes móviles y<br>autónomas.<br>Respecto del recurso agua en la etapa de<br>abandono no se prevé efectos adversos<br>significativos dado que las estructuras se<br>desramaran y/o trasladaran por tanto no<br>considera el uso de ningún químico u otro<br>producto que pudiese ser derramado o<br>que implique algún tipo de<br>contaminación.<br>De la misma manera los residuos líquidos<br>que pudiesen generarse en esta etapa<br>están circunscritos a las aguas servidas,<br>las embarcaciones que participan de la<br>faena y cuentan con servicios higiénicos<br>con planta de tratamiento de aguas<br>servidas homologadas y aprobadas por la<br>autoridad marítima.|Col4|
+|---|---|---|---|
+|**Artículo7,ReasentamientodeComunidadesHumanaso alteraciónsignificativadelossistemasdeviday costumbresdegruposhumanos**|**Artículo7,ReasentamientodeComunidadesHumanaso alteraciónsignificativadelossistemasdeviday costumbresdegruposhumanos**|**Artículo7,ReasentamientodeComunidadesHumanaso alteraciónsignificativadelossistemasdeviday costumbresdegruposhumanos**|**Artículo7,ReasentamientodeComunidadesHumanaso alteraciónsignificativadelossistemasdeviday costumbresdegruposhumanos**|
+|Etapa|Posible Impacto|Resumen:<br>Antecedentes,<br>medidas<br>o<br>acciones<br>que<br>justifiquen<br>la<br>no<br>presentacióndeunEIA.|<br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente.|
+|- Etapa de Construcción|Expropiación<br>de<br>terrenos, aumento o<br>disminución<br>de<br>la<br>población,<br>interrupción<br>de<br>actividades culturales,<br>religiosas, etc<br>Noaplica|Los técnicos y operarios que trabajan en<br>la etapa de construcción del proyecto<br>corresponden a personal propio de las<br>embarcaciones de servicio encargadas del<br>fondeo del centro.|Página 100-112, capitulo 2 de la DIA|
+|- Etapa de Operación|Expropiación<br>de<br>terrenos,<br>aumento<br>o<br>disminución<br>de<br>la<br>población, interrupción<br>de<br>actividades<br>culturales,<br>religiosas,<br>etc<br>No<br>aplica,<br>no<br>haya<br>instalaciones en tierra|<br> <br> <br> <br> <br> <br> <br>El proyecto se ubica en zona AAA y de<br>acuerdo al 153 preferente para el turismo,<br>los poblados más cercanos son:<br>Puerto Puyuhuapi: 18 km<br>Puerto Cisnes: 26 km<br>Puerto gaviota: 68 km<br>Área<br>de<br>explotación<br>de<br>recursos<br>bentónicos:<br>De<br>acuerdo<br>a<br>la<br>información<br>proporcionada por SERNAPESCA, éstas<br>últimas se encuentran principalmente en<br>sectores Estero Sibbald, canal Puyuhuapi y<br>Seno Magdalena, distantes del área de<br>influencia del proyecto. En tanto las<br>caletas de pescadores se identificaron tres<br>en el área más próxima al emplazamiento,<br>Puerto Cisnes, Puerto Puyuhuapi y Puerto<br>Gaviota.<br>Zonas de pesca:<br>En cuanto a las zonas de pesca, de<br>acuerdo a la información proporcionada<br>por Sernapesca, y de la cual se dispone,<br>entre<br>las<br>especies<br>declaradas<br>y<br>desembarcadas, se reconoce en el sector<br>del canal Puyuhuapi la explotación de|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Página 100-112|
+
+|Col1|Col2|Col3|Almeja, Sardina Austral, Congrio Dorado y<br>Merluza Austral; en tanto en Canal<br>Sibbald se reconoce la explotación del<br>recurso almeja, Raya Volantín, Congrio<br>Dorado y Erizo, en el sector de Grupo gala<br>la explotación de Merluza Austral. Dado<br>que el proyecto se ubica en el entorno<br>cercano a algunas zonas de pesca, pero<br>fuera del área de influencia del proyecto.<br>El titular utilizará sistemas de fondeo con<br>cadenas en el primer tercio de la línea lo<br>que permite que éstas desciendan con<br>menor ángulo (casi perpendicular) y por<br>tanto se prevé que no habrá interferencia<br>con las embarcaciones que naveguen por<br>el sector<br>De acuerdo a la información<br>proporcionada por la encuesta Casen, la<br>comuna de Cisnes presenta una condición<br>socio cultural a la región, dado que el<br>proyecto se localiza distante a unos 18km<br>del poblado más cercano, se prevé que la<br>implementación del centro no afectará la<br>dimensión geográfica, demográfica,<br>antropológica, socioeconómica y del<br>bienestar social básico, por lo que se<br>prevé que no se altera significativamente<br>los sistemas de vida y costumbres de<br>ningún tipo de grupo humano.<br>Mayor detalle capítulo 2|Col5|
+|---|---|---|---|---|
+|- Etapa de Cierre|Expropiación<br>de<br>terrenos,<br>aumento<br>o<br>disminución<br>de<br>la<br>población, interrupción<br>de<br>actividades<br>culturales,<br>religiosas,<br>etc<br>Noaplica|Expropiación<br>de<br>terrenos,<br>aumento<br>o<br>disminución<br>de<br>la<br>población, interrupción<br>de<br>actividades<br>culturales,<br>religiosas,<br>etc<br>Noaplica|<br> <br> <br> <br> <br> <br>La actividad de cierre de un centro de<br>cultivo es una actividad que tiene un<br>periodo de tiempo muy acotado a 2 ó 3<br>meses y todo el material es transferido a<br>la embarcación de servicio que lo traslada<br>a otro centro o a bodega si corresponde.|<br> <br> <br> <br> <br> Página 100-112, capitulo 2 de la DIA|
+|**Artículo8,Localizacióny valorambientaldelterritorio**|**Artículo8,Localizacióny valorambientaldelterritorio**|**Artículo8,Localizacióny valorambientaldelterritorio**|**Artículo8,Localizacióny valorambientaldelterritorio**|**Artículo8,Localizacióny valorambientaldelterritorio**|
+|Etapa|Etapa|Posible Impacto|Resumen:<br>Antecedentes,<br>medidas<br>o<br>acciones<br>que<br>justifiquen<br>la<br>no<br>presentacióndeunEIA.|<br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente.|
+|- Etapa de Construcción|- Etapa de Construcción|Intervención de<br>poblaciones<br>o<br>áreas o sitios<br>protegidos<br>No se considera|<br> <br> <br>En relación a áreas protegidas, el<br>proyecto se encuentra dentro de las AAA<br>y de acuerdo al DS 153 dentro de las áreas<br>preferentes para el desarrollo del turismo<br>Se ubica en el Canal Puyuhuapi a 6km del<br>PN Queulat, ubicado fuera del área de<br>influencia del proyecto; sin perjuicio de<br>ello el titular considera minimizar el<br>impacto visual del centro utilizando<br>colores acordes y al fondo escénico y<br>diseños que provoquen el menor corte<br>visualposible.|<br> <br> <br><br> <br> <br> <br> <br> <br> <br> <br> Pagina 110-112|
+|- Etapa de Operación|- Etapa de Operación|Intervención de<br>poblaciones<br>o<br>áreas o sitios<br>protegidos|<br> <br> <br>Los cálculos de dispersión arrojan una<br>mancha que se desplaza hacia el medio<br>del canal alejándose del borde costero del<br>áreadeinfluenciadelproyecto,porloque|<br> Pagina 110-112|
+
+|Col1|No se considera|no se prevé una posible afectación a las<br>especies encontradas en dicha área, sin<br>perjuicio de ello el Titular se compromete<br>a un muestreo por período productivo en<br>el borde costero utilizando la misma<br>metodología descrita en el estudio de<br>biodiversidad adjunto en el anexo 6.<br>Muestreo de seguimiento que permitirá<br>tener una línea de base ambiental en el<br>borde costero que se ubica dentro del<br>Área de Influencia el proyecto.|Col4|
+|---|---|---|---|
+|- Etapa de Cierre|Intervención de<br>poblaciones<br>o<br>áreas o sitios<br>protegidos<br>No se considera|<br> <br> <br>En caso de que el Titular considere<br>pertinente el cierre del centro de cultivo,<br>éste se compromete a cumplir con lo<br>establecido en el Artículo 4, letra c) del<br>D.S. (MINECON) No 320 de 2001, en<br>cuanto a retirar al término de su vida útil<br>o a la cesación de actividades del centro,<br>todo tipo de soportes no degradables o de<br>degradación lenta que hubieren sido<br>utilizados como sistema de anclaje al<br>fondo, exceptuando las estructuras de<br>concreto utilizadas para el anclaje, se<br>realizará un análisis al fin de la etapa para<br>verificar si es factible el retiro de las<br>estructuras de concreto o si este retiro<br>generaría un daño mayor al entorno. Esta<br>tarea será ejecutada por 3 personas con<br>apoyo de la balsa y embarcaciones,<br>estimándose un plazo de 90 días para el<br>total abandono del centro de cultivo.<br>Dado que el proyecto se desarrollará<br>íntegramente en el medio marino, se<br>estima que no se verá afectada la<br>morfología del lugar, así como la<br>vegetación u otro componente ambiental<br>delsitio|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Pagina 110-112|
+|**Artículo9,Valorpaisajísticoo turístico**|**Artículo9,Valorpaisajísticoo turístico**|**Artículo9,Valorpaisajísticoo turístico**|**Artículo9,Valorpaisajísticoo turístico**|
+|Etapa|Posible Impacto|Resumen:<br>Antecedentes,<br>medidas<br>o<br>acciones<br>que<br>justifiquen<br>la<br>no<br>presentacióndeunEIA.|<br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente.|
+|- Etapa de Construcción|Pérdida<br>del<br>valor paisajístico|<br> <br>Las estructuras de apoyo al centro de<br>cultivo, entendiendo como tales, el<br>modulo de cultivo, bodega y pontón<br>habitable, pontón de ensilaje y otras<br>estructuras flotantes son diseñadas de<br>acuerdo a las características del fondo<br>escénico del lugar donde se emplazarán,<br>minimizando el impacto visual, para estos<br>seutilizancoloresacordesalentorno.|<br> <br> <br> <br> <br> <br> <br> <br> Pagina 112-126|
+|- Etapa de Operación|Pérdida<br>del<br>valor paisajístico|<br> <br> <br>Las estructuras de apoyo al<br>centro de cultivo, entendiendo como<br>tales, el modulo de cultivo, bodega y<br>pontón habitable, pontón de ensilaje y<br>otras estructuras flotantes son diseñadas<br>de acuerdo a las características del fondo<br>escénico del lugar donde se emplazarán,|<br> <br> <br> <br> <br> <br> <br> Pagina 112-126|
+
+|Col1|Col2|minimizando el impacto visual, para estos<br>se utilizan colores acordes al entorno.<br>De acuerdo a las fotografías del entorno<br>se visualizaron 1 UP, con vegetación típica<br>del área de emplazamiento.<br>Respecto de las cuencas visuales, se<br>identificaron las principales rutas de<br>navegación hacia el centro de cultivo, se<br>determinó que el proyecto aparece visible<br>a unos 1,6 km en el track de navegación<br>del seno Ventisquero.<br>Se realizó un fotomontaje y se determinó<br>que a los 2000 a 2500 m las estructuras<br>dejan de verse en detalle.<br>Se proponen compromisos, tales como<br>utilización de colores acordes al fondo<br>escénico y medidas de diseño tales como<br>alturas, o diseño que simule una<br>embarcación para que evoque un<br>artefacto naval que este de paso.|Col4|
+|---|---|---|---|
+|- Etapa de Cierre|Pérdida<br>del<br>valor paisajístico|<br> <br>Dado que las estructuras flotantes se<br>retiran, el entorno del paisaje vuelve a su<br>estadooriginal|<br> <br> Pagina 112-126|
+|**Artículo10,Alteracióndelpatrimoniocultural**|**Artículo10,Alteracióndelpatrimoniocultural**|**Artículo10,Alteracióndelpatrimoniocultural**|**Artículo10,Alteracióndelpatrimoniocultural**|
+|Etapa|Posible Impacto|Resumen:<br>Antecedentes,<br>medidas<br>o<br>acciones<br>que<br>justifiquen<br>la<br>no<br>presentacióndeunEIA.|<br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente.|
+|- Etapa de Construcción|Alteración<br>de<br>sitios<br>arqueológico o<br>patrimonio<br>protegido|<br> <br>No se realizan actividades en tierra, solo<br>en el mar y en caso de identificar<br>naufragios, la empresa de servicio tiene la<br>obligación de informar al titular y este al<br>consejo de monumentos nacionales.|Pagina 126-127|
+|- Etapa de Operación|Alteración<br>de<br>sitios<br>arqueológico o<br>patrimonio<br>protegido|<br> <br>En el sector donde se emplazará el<br>proyecto no existen sitios con valor<br>antropológico, arqueológico o histórico.<br>Sin perjuicio de lo anterior, ante cualquier<br>hallazgo<br>de<br>carácter<br>histórico,<br>antropológico,<br>arqueológico<br>o<br>paleontológico, el Titular se compromete<br>a dar aviso a las autoridades competentes<br>y al Consejo de Monumentos Nacionales,<br>cumpliendo así con el Artículo 26 de la Ley<br>No 17.288 y Artículo 20 de su Reglamento.<br>Lo anterior es también válido ante la<br>eventualidad de realizar un hallazgo de<br>restos de naufragio; por lo que el Titular<br>se compromete a dar oportuno aviso a la<br>autoridad correspondiente, si durante la<br>instalación del proyecto se encontraran<br>vestigios que den cuenta de la existencia<br>de dicho patrimonio; cumpliendo así con<br>el D.E. N° 311 de 08/10/1999 del<br>Ministerio<br>de<br>Educación,<br>que<br>hace<br>referencia a la declaración genérica de<br>Monumento<br>Histórico<br>Nacional<br>al<br>Patrimonio Cultural Subacuático de más|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Pagina 126-127|
+
+|Col1|Col2|de 50 años de antigüedad, existente en el<br>fondo de los ríos y lagos, de las aguas<br>interiores y del mar territorial.|Col4|
+|---|---|---|---|
+|- Etapa de Cierre|Alteración<br>de<br>sitios<br>arqueológico o<br>patrimonio<br>protegido|<br> <br> No aplica, toda vez que la verificación de<br>la presencia de restos arqueológicos o<br>monumentos protegidos se verifica en las<br>etapas tempranas del proyecto esto es en<br>lafasedeconstrucción.|<br> <br> <br> <br> Pagina 126-127|
+|**(c)NORMATIVAAMBIENTALAPLICABLE**|**(c)NORMATIVAAMBIENTALAPLICABLE**|**(c)NORMATIVAAMBIENTALAPLICABLE**|**(c)NORMATIVAAMBIENTALAPLICABLE**|
+|Identificación<br>de<br>las<br>normas<br>ambientalesaplicables.|<br>Forma de cumplimiento, fases de construcción, operación<br>y cierre.|<br>Forma de cumplimiento, fases de construcción, operación<br>y cierre.|<br>Indicadores de cumplimiento|
+|Ley No 19.300 sobre Bases Generales<br>del Medio Ambiente. Ley No 20.417<br>que modifica la Ley 19.300/1994 y<br>que rediseña la Institucionalidad<br>Ambiental Ministerio Secretaría<br>General de la Presidencia|Mediante el cumplimiento de las normas ambientales<br>vigentes y la implementación de técnicas que permitan<br>reducir y minimizar los impactos ambientales o efectos<br>negativos sobre el medio ambiente.<br>Se presenta a tramitación al SEA de la región de Aysén la<br>presente Declaración de Impacto Ambiental.<br>Criterio de cumplimiento:<br>Etapa de Construcción: entendido como un proceso global,<br>el proyecto se inicia con la solicitud de concesión de<br>acuicultura que se ingresa al Servicio Nacional de Pesca y<br>Acuicultura, cumpliendo con los requisitos que exige la Ley<br>y el Reglamento.<br>Etapa de operación: Una vez superadas las etapas de<br>evaluación cartográfica e inspección en terreno de<br>presencia de recursos bentónicos, el proyecto se somete al<br>Sistema de Evaluación de Impacto Ambiental, mediante el<br>ingreso de la respectiva DIA y posterior obtención de la<br>RCA.<br>Cumplidos<br>los<br>requisitos<br>formales<br>para<br>el<br>otorgamiento y entrega material de la concesión el titular<br>cumplirá con las exigencias ambientales y administrativas<br>Etapa de abandono: Desmantelar y asegurar la estabilidad<br>de la infraestructuras utilizada por el proyecto, restaurar<br>cualquier componente ambiental que haya sido afectado<br>durante la etapa de ejecución del proyecto y prevenir<br>futurosimpactossobreaire,sueloy agua.|Mediante el cumplimiento de las normas ambientales<br>vigentes y la implementación de técnicas que permitan<br>reducir y minimizar los impactos ambientales o efectos<br>negativos sobre el medio ambiente.<br>Se presenta a tramitación al SEA de la región de Aysén la<br>presente Declaración de Impacto Ambiental.<br>Criterio de cumplimiento:<br>Etapa de Construcción: entendido como un proceso global,<br>el proyecto se inicia con la solicitud de concesión de<br>acuicultura que se ingresa al Servicio Nacional de Pesca y<br>Acuicultura, cumpliendo con los requisitos que exige la Ley<br>y el Reglamento.<br>Etapa de operación: Una vez superadas las etapas de<br>evaluación cartográfica e inspección en terreno de<br>presencia de recursos bentónicos, el proyecto se somete al<br>Sistema de Evaluación de Impacto Ambiental, mediante el<br>ingreso de la respectiva DIA y posterior obtención de la<br>RCA.<br>Cumplidos<br>los<br>requisitos<br>formales<br>para<br>el<br>otorgamiento y entrega material de la concesión el titular<br>cumplirá con las exigencias ambientales y administrativas<br>Etapa de abandono: Desmantelar y asegurar la estabilidad<br>de la infraestructuras utilizada por el proyecto, restaurar<br>cualquier componente ambiental que haya sido afectado<br>durante la etapa de ejecución del proyecto y prevenir<br>futurosimpactossobreaire,sueloy agua.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Obtención RCA y capacitación del personal<br>en la fase de operación respecto de ello<br>con registros en el centro|
+|D.S. (SEGPRES) No 40 de 2013,<br>“Reglamento<br>del<br>Sistema<br>de<br>Evaluación de Impacto Ambiental”.|<br> <br>El D.S. N° 40/2012 establece las disposiciones por las<br>cuales se regirá el Sistema de Evaluación de Impacto<br>Ambiental y la Participación de la comunidad en el proceso<br>de Evaluación de Impacto Ambiental, de conformidad con<br>los preceptos de la Ley N° 19.300 sobre Bases Generales<br>del Medio Ambiente.<br>Su forma de cumplimiento es mediante el ingreso de la<br>correspondiente Declaración de Impacto Ambiental, en la<br>cual bajo juramento, se establecen todas las medidas<br>necesarias para el cumplimiento de las normas en pro del<br>medio ambiente. En especifico dar cumplimiento al<br>Permiso Ambiental 116 “permiso para realizar actividades<br>de acuicultura”, poniendo énfasis en no generar efectos<br>adversos en la vida acuática y prevenir el surgimiento de<br>condiciones anaeróbicas en las áreas de acuicultura.<br>Criterio de cumplimiento:<br>Etapa de construcción: Mediante la realización de los<br>trabajos en terreno para la caracterización preliminar de<br>sitio, levantamiento de línea base y elaboración de la DIA<br>que se evaluará ambientalmente conforme a lo establecido<br>en esta norma legal para finalmente obtener la<br>correspondienteRCA.|<br> <br>El D.S. N° 40/2012 establece las disposiciones por las<br>cuales se regirá el Sistema de Evaluación de Impacto<br>Ambiental y la Participación de la comunidad en el proceso<br>de Evaluación de Impacto Ambiental, de conformidad con<br>los preceptos de la Ley N° 19.300 sobre Bases Generales<br>del Medio Ambiente.<br>Su forma de cumplimiento es mediante el ingreso de la<br>correspondiente Declaración de Impacto Ambiental, en la<br>cual bajo juramento, se establecen todas las medidas<br>necesarias para el cumplimiento de las normas en pro del<br>medio ambiente. En especifico dar cumplimiento al<br>Permiso Ambiental 116 “permiso para realizar actividades<br>de acuicultura”, poniendo énfasis en no generar efectos<br>adversos en la vida acuática y prevenir el surgimiento de<br>condiciones anaeróbicas en las áreas de acuicultura.<br>Criterio de cumplimiento:<br>Etapa de construcción: Mediante la realización de los<br>trabajos en terreno para la caracterización preliminar de<br>sitio, levantamiento de línea base y elaboración de la DIA<br>que se evaluará ambientalmente conforme a lo establecido<br>en esta norma legal para finalmente obtener la<br>correspondienteRCA.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Obtención RCA y capacitación del personal<br>en la fase de operación respecto de ello<br>con registros en el centro|
+
+|Col1|Etapa de Operación: acreditación y obtención de los<br>permisos sectoriales aplicables al proyecto para la correcta<br>operación de éste; medidas necesarias para la mantención<br>de las condiciones aeróbicas, cumplimiento de los<br>requisitos de las certificaciones (Global Gap) que la<br>empresa posee, elaboración y levantamiento de<br>información ambiental (INFAs).<br>Etapa de abandono: Desmantelar y asegurar la estabilidad<br>de la infraestructuras utilizada por el proyecto, restaurar<br>cualquier componente ambiental que haya sido afectado<br>durante la etapa de ejecución del proyecto y prevenir<br>futuros impactos sobre aire, suelo y agua.|Col3|Col4|Col5|
+|---|---|---|---|---|
+|D.S. N 290 / 1991, Reglamento de<br>Concesiones y Autorizaciones de<br>Acuicultura.<br>Aplicable<br>a<br>toda<br>actividad de acuicultura, Reglamento<br>de Concesiones y Autorizaciones de<br>Acuicultura.<br>Aplicable<br>a<br>toda<br>actividad de acuicultura.|<br> <br> <br> <br> <br> <br>Se dará cumplimiento al artículo 3 referente A que la<br>concesión o autorización de acuicultura tiene por objeto la<br>realización de actividades de cultivo en el área concedida,<br>respecto de la especie o grupo de especies hidrobiológicas<br>indicadas en las resoluciones que las otorgan, y permiten a<br>sus titulares el desarrollo de sus actividades, sin más<br>limitaciones que las expresamente establecidas en la ley y<br>sus reglamentos.<br>Criterio de cumplimiento:<br>Etapa de construcción: mediante la tramitación de la<br>respectiva solicitud de relocalización ante las autoridades<br>competentes con la entrega de la documentación exigida<br>en la Ley y por el presente Reglamento.<br>Etapa de operación: mediante la solicitud de entrega<br>material de la concesión de acuicultura y posterior<br>levantamiento del Acta de Entrega emitida por la<br>Autoridad Marítima respectiva, la que permite dar inicio a<br>las obras de construcción del proyecto con la instalación de<br>la infraestructura de cultivo la que se ubicará dentro del<br>área concesionada.<br>Etapa<br>de<br>abandono:<br>mediante<br>el<br>retiro<br>de<br>la<br>infraestructura y aseguramiento de las condiciones<br>ambientalesdelsitioocupado.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|
+|Ley N° 20.091 que modifica el D.S. No<br>430/1991 Ley General de Pesca y<br>Acuicultura, Ministerio de Economía,<br>Fomento y Reconstrucción.|<br> <br> <br>Posee modificaciones en sus artículos 2, 67, 68, 69, 77, 78,<br>80, 84, 90, 113, 118, 142, que regulan las concesiones<br>acuícolas y perfeccionan el marco jurídico aplicable a la<br>actividad de Pesca y Acuicultura.<br>Cumplimiento<br>Se dará cumplimiento a la ley, la cual apunta a promover el<br>máximo crecimiento económico de la acuicultura en un<br>marco de sustentabilidad ambiental e igualdad en el<br>acceso a la actividad.<br>Criterios de cumplimiento:<br>Etapa Construcción: mediante el cumplimiento de la<br>normativa previo al otorgamiento y entrega material de la<br>concesión.<br>Etapa de operación:<br>1. <br>mantención de todas las estructuras de cultivo<br>2. <br>El titular establece que no entorpecerá el<br>desarrollo de otras actividades en el sector, en<br>la medida que éstas no entorpezcan el propio<br>desarrollo y logística del centro;<br>3. <br>Uso de tecnología orientada a ser más<br>eficientes en la faena de alimentación que<br>permita minimizar la pérdida de alimento, así<br>también el uso de alimentos altamente<br>digestibles para minimizar las fecas, todo ello|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>estadística entregada a SERNAPESCA, con<br>ello queda en evidencia de que el centro<br>sólo se explota para aquello que es objeto,<br>pago de la patente, cumplir con los plazos<br>dados articulo 84|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>estadística entregada a SERNAPESCA, con<br>ello queda en evidencia de que el centro<br>sólo se explota para aquello que es objeto,<br>pago de la patente, cumplir con los plazos<br>dados articulo 84|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>estadística entregada a SERNAPESCA, con<br>ello queda en evidencia de que el centro<br>sólo se explota para aquello que es objeto,<br>pago de la patente, cumplir con los plazos<br>dados articulo 84|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 162**||
+
+|Col1|orientado a la generación de condiciones<br>aeróbicas del área, verificador INFA.<br>4. Una vez obtenida la RCA y permisos sectoriales,<br>el titular se compromete a dar inicio a la<br>operación del centro. Verificador, se dará aviso<br>a todas las entidades pertinentes del inicio de la<br>operación.<br>5. Cumplimiento del artículo 77 y 78, el proyecto<br>cuenta con un proyecto técnico ingresado ante<br>el Servicio. Toda la tramitación previa a la<br>elaboración de la DIA se ha ejecutado conforme<br>lo dictan los presentes artículos, verificación,<br>ingreso de la DIA al SEA.<br>6. Articulo 113 y 118, verificador, se entregará<br>siempre información fidedigna tanto de la<br>operación como de la condición sanitaria del<br>centro, registros entregados a SERNAPESCA<br>registros mantenidos en el centro de cultivo<br>para revisión<br>Articulo 142, se dará cumplimento a lo establecido en<br>dicho artículo, verificador: estadística entregada a<br>SERNAPESCA, con ello queda en evidencia de que el centro<br>sólo se explota para aquello que es objeto, pago de la<br>patente, cumplir con los plazos dados articulo 84|Col3|Col4|Col5|
+|---|---|---|---|---|
+|D.S. N° 430 / 91, Texto Refundido,<br>Coordinado y Sistematizado de la Ley<br>General de Pesca y Acuicultura., La<br>mantención<br>de<br>la<br>limpieza<br>y<br>equilibrio ecológico de la zona<br>concedida.<br>Las<br>medidas<br>de<br>protección del medio ambiente como<br>la implementación en el centro de<br>técnicas de manejo y tecnologías<br>tendientes a reducir y eliminar<br>efectos negativos sobre el medio<br>ambiente. Se establecen sanciones<br>para el caso de incumplimiento de las<br>obligaciones anteriores.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Artículos 74, 86, 87, 118, 158<br>La mantención de la limpieza y equilibrio ecológico de las<br>zonas concedidas es de responsabilidad del concesionario.<br>Las medidas de protección del medio ambiente serán<br>reglamentadas por Decreto Supremo. Se establecen<br>sanciones para el caso de incumplimiento de las<br>obligaciones anteriores. Por último, las áreas marítimas<br>que forman parte de áreas silvestres protegidas no pueden<br>ser concesionadas.<br>Criterio de cumplimiento: la empresa cuenta con planes de<br>contingencia y procedimientos, cada uno de los cuales<br>cuenta con registros asociados, en específico para la<br>mantención de la limpieza y equilibrio ecológico, la<br>empresa cuenta con procedimientos de limpieza de playas,<br>en el centro se mantendrán los registros respectivos para<br>serrevisadoscadavezquelaautoridadestimepertinente.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>mantendrán los registros respectivos para<br>ser revisados cada vez que la autoridad<br>estime pertinente.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>mantendrán los registros respectivos para<br>ser revisados cada vez que la autoridad<br>estime pertinente.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>mantendrán los registros respectivos para<br>ser revisados cada vez que la autoridad<br>estime pertinente.|
+|D.S. (MINECON) No 320 de 2001 y sus<br>modificaciones,<br>Reglamento<br>Ambiental para la Acuicultura.|<br> <br>Mediante el desarrollo de la CPS que acompaña la DIA y los<br>futuros monitoreos ambientales así como también los<br>informativos ambientales.<br>Además se cumplirá con:<br>Etapa de construcción: Se instalará la infraestructura del<br>centro de cultivo evitando cualquier impacto sobre el<br>entorno, en particular el desprendimiento de materiales o<br>residuos que puedan generar escombros en el sector<br>costero aledaño.<br>Etapa de operación: mantener limpia el área y terrenos<br>aledaños al centro de cultivo de todo residuo generado por<br>éste.<br>Se dispondrán los desechos sólidos o líquidos en depósitos<br>y condiciones que no resulten perjudiciales al medio<br>circundante. Se retirará todo tipo de soporte no<br>degradable o degradable como sistema de fijación al<br>fondo, al término de la vida útil del centro. Impedir que<br>redes tengan contacto con el fondo. En el centro existirá<br>un plan de contingencia, para casos de escapes,|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro de<br>cultivo<br>registros<br>que<br>acrediten<br>el<br>cumplimiento del RAMA, se mantendrá de<br>manera digital la CPS e INFAs, así también<br>registros de la faena de limpieza de playas,<br>registros de verificación del estado de las<br>estructuras a fin de evitar un eventual<br>escape de peces.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro de<br>cultivo<br>registros<br>que<br>acrediten<br>el<br>cumplimiento del RAMA, se mantendrá de<br>manera digital la CPS e INFAs, así también<br>registros de la faena de limpieza de playas,<br>registros de verificación del estado de las<br>estructuras a fin de evitar un eventual<br>escape de peces.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro de<br>cultivo<br>registros<br>que<br>acrediten<br>el<br>cumplimiento del RAMA, se mantendrá de<br>manera digital la CPS e INFAs, así también<br>registros de la faena de limpieza de playas,<br>registros de verificación del estado de las<br>estructuras a fin de evitar un eventual<br>escape de peces.|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 163**||
+
+|Col1|mortalidades y pérdidas de alimento. Para pérdida o<br>escape de peces, se avisará al SERNAPESCA y a la Capitanía<br>de Puerto correspondiente, y se presentará un informe.<br>Solo se liberarán ejemplares con la expresa autorización de<br>la Subsecretaría de Pesca. No se realizarán cultivos de<br>organismos vivos modificados sin la expresa autorización<br>de la Subsecretaría de Pesca.<br>Sólo se realizará limpieza y lavado de redes con y sin anti-­‐<br>fouling en instalaciones que permitan el tratamiento de los<br>efluentes.<br>Etapa de abandono: retiro de toda la infraestructura del<br>centro de cultivo, manteniendo las condiciones<br>ambientales del sitio que fue ocupado.<br>Verificador: se mantendrá en el centro de cultivo registros<br>que acrediten el cumplimiento del RAMA, se mantendrá de<br>manera digital la CPS e INFAs, así también registros de la<br>faena de limpieza de playas, registros de verificación del<br>estado de las estructuras a fin de evitar un eventual escape<br>de peces.|Col3|
+|---|---|---|
+|Resolución (SUBPESCA) No 3612 de<br>2009,<br>Establece<br>contenidos<br>y<br>metodologías<br>para<br>elaborar<br>la<br>caracterización preliminar de sitio y<br>la información ambiental.|<br> <br> <br> <br>Etapa de Construcción: La materialización del proyecto con<br>la instalación de toda la infraestructura del mismo. Para<br>acreditar que el centro entrará en la fase de operación se<br>entregará los informes de ingreso de peces al Sernapesca<br>(Plan de siembra); informes de operación mensuales a<br>través del SIEP e informes de cosecha.<br>Etapa de operación: corresponde la realización de la CPS<br>que acompaña la DIA y los futuros informativos<br>ambientales (INFAs). Para esto el titular informará al<br>Sernapesca el plan de cosecha.<br>Etapa de abandono: informe a Sernapesca de término de<br>actividades del centro.<br>Verificador: se mantendrá en formato digital la CPS y las<br>INFAsenelcentro.|<br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en formato<br>digital la CPS y las INFAs en el centro.|
+|Resolución N° 3648/2011, Artículo 9<br>del RAMA, Establece procedimiento<br>para la aplicación del artículo 9 del<br>Rama<br>(condiciones<br>generales<br>y<br>específicas limpieza y lavado de artes<br>de cultivo)|<br> <br> <br> <br> <br>Establece procedimiento para la aplicación del art. 9 del<br>RAMA (condiciones generales y específicas de limpieza y<br>lavado de artes de cultivo).<br>El Titular se compromete a realizar la limpieza y lavado de<br>las artes de cultivo de acuerdo a las condiciones generales<br>y especificas según lo indicado en el art. 9 del D.S. N°<br>320/2001, modificado por res. N° 3648/2011.<br>Verificador: se mantendrá en el centro un registro que<br>acrediteelcumplimientodelodispuestoenelartículo9.|<br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro un<br>registro que acredite el cumplimiento de lo<br>dispuesto en el artículo 9.|
+|D.F.L. No 725 de 1967 (MINSAL)<br>Código Sanitario|<br>Los residuos sólidos que se generen y los domésticos<br>asociados, serán depositados en vertederos autorizados.<br>Verificador: se mantendrá en el centro un registro que<br>acredite el cumplimiento de lo dispuesto en el párrafo<br>precedente, así también se mantendrá en el centro en<br>formato digital y/o papel certificados de la disposición de<br>losresiduosenvertederoautorizado.|<br> <br> <br> <br> <br>Verificador: se mantendrá en el centro un<br>registro que acredite el cumplimiento de lo<br>dispuesto en el párrafo precedente, así<br>también se mantendrá en el centro en<br>formato digital y/o papel certificados de la<br>disposición de los residuos en vertedero<br>autorizado.|
+|D.S. N° 594 de 1999 (MINSAL)<br>Reglamento sobre las condiciones<br>sanitarias y ambientales básicas de<br>los lugares de trabajo.|<br> <br> <br>Establece las Normas sobre las condiciones<br>ambientales y sanitarias básicas en los lugares de trabajo y<br>de salud ocupacional; especialmente en la provisión de<br>agua potable y servicios higiénicos en el lugar de trabajo. El<br>proyecto contempla dar fiel cumplimiento a lo establecido<br>por dicha normativa, sobre todo en lo que respecta a<br>servicios higiénicos y circuito de agua potable.<br>Etapadeconstrucción:Elpontónhabitableseráhabilitado|<br> <br> <br> <br> <br> <br>Verificador:<br>para<br>ello<br>se<br>realizarán<br>monitoreos de las aguas servidas tratadas,<br>el resultado de estos monitoreos se<br>distribuirán a la Autoridad Marítima y SMA,<br>así también se mantendrá una copia en el<br>centro ya sea en formato digital y/o papel<br>para su revisión.|
+
+|Col1|con planta de tratamiento de aguas, servicios higiénicos<br>para todo el personal, dispensadores de agua purificada<br>para el agua de bebida y cuenta con estanque de agua para<br>el uso diario de baños y cocina.<br>Etapa de operación:<br>El pontón habitable contará con planta de tratamiento de<br>aguas servidas homologadas por la DIRECTEMAR y que<br>cumpla con los requisitos establecidos por autoridad<br>competente.<br>Verificador: para ello se realizarán monitoreos de las aguas<br>servidas tratadas, el resultado de estos monitoreos se<br>distribuirán a la Autoridad Marítima y SMA, así también se<br>mantendrá una copia en el centro ya sea en formato digital<br>y/o papel para su revisión.|Col3|Col4|Col5|
+|---|---|---|---|---|
+|D. Ex. (MINECON) No 225 de 1995 y<br>sus<br>modificaciones,<br>Establece<br>protección de los mamíferos, aves y<br>reptiles marinos.|<br> <br> <br>Se establece medidas de protección, que prohíben la caza y<br>captura de mamíferos marinos, el Titular se compromete a<br>cumplir con lo dispuesto en ambos Decretos supremos,<br>para ello tomará medidas para prevenir enmalles. Se Dará<br>aviso a la autoridad marítima cada vez que pro alguna<br>eventual circunstancia se enmalle en las redes de cultivo<br>del centro.<br>Etapa de construcción: se instalarán mallas loberas y<br>pajareras para evitar el enmalle de aves y animales<br>mamíferos marinos.<br>Etapa de operación: se mantendrán en buenas condiciones<br>las redes loberas y pajareras. Se capacitará a los<br>trabajadores del centro en temas de conservación de aves<br>y mamíferos marinos.<br>Etapa de abandono: Se procurará el retiro de las redes e<br>infraestructura del centro con el menor daño posible a las<br>especies de aves y mamíferos marinos.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA.|
+|D. Ex. (MINECON) No 765<br>de 2004, Establece protección del<br>lobo marino común.|<br> <br>El Titular se compromete a cumplir con lo dispuesto en<br>ambos Decretos supremos, para ello tomará medidas para<br>prevenir enmalles y capacitación de los trabajadores en<br>preservación de dichos animales.<br>Etapa de construcción: se instalarán mallas loberas con la<br>titulación adecuada para evitar el enmalle de aves y<br>animales mamíferos marinos.<br>Etapa de operación: se mantendrán en buenas condiciones<br>las redes loberas. Se capacitará a los trabajadores del<br>centro en temas de conservación de estos mamíferos<br>marinos.<br>Etapa de abandono: Se procurará el retiro de las redes e<br>infraestructura del centro con el menor daño posible a<br>estos mamíferos marinos.<br>Verificador: el titular mantiene el compromiso de capacitar<br>alpersonaldeacuerdoa loindicadoporelRAMA.|<br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA .|<br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA .|<br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA .|
+|D.S N° 175/ 1980, Reglamenta<br>actividades<br>y<br>deroga<br>decretos<br>supremos que indica. MINECOM,<br>Artículos 12, 13,14, 17 y 18 Indica<br>requisitos para realizar actividades de<br>acuicultura.|<br> <br> <br> <br> <br>Cumplimiento de los artículos 12, 13, 14, y 18.<br>Artículo 12 señala los s requisitos para realizar actividades<br>de acuicultura de salmónidos, el titular dará cumplimiento<br>a lo establecido en el presente artículo, respecto a<br>presentación de proyecto técnico, a distancias mínimas<br>entre concesiones.<br>Artículo 13, el titular dará cumplimiento a dicho artículo<br>obteniendo semillas, ovas, alevines o reproductores<br>provenientes de establecimientos de cultivos autorizados.<br>Articulo 14, en caso de que el titular requiriese de la<br>importación de recursos hidrobiológicos, la realizara sí y|<br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro los<br>registros pertinentes que acrediten el<br>cumplimiento de los artículos mencionados|<br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro los<br>registros pertinentes que acrediten el<br>cumplimiento de los artículos mencionados|<br> <br> <br> <br> <br> <br> <br> <br>Verificador: se mantendrá en el centro los<br>registros pertinentes que acrediten el<br>cumplimiento de los artículos mencionados|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 165**||
+
+|Col1|sólo sí previa autorización de la Subsecretaría de Pesca.<br>Para ello se acompañará a la solicitud el certificado<br>sanitario respectivo, otorgado por la autoridad oficial del<br>país de origen de dichos recursos.<br>Artículo 18, el titular mantendrá informado al Servicio<br>Nacional de Pesca la estadística de producción del centro<br>de cultivo.<br>Verificador: se mantendrá en el centro los registros<br>pertinentes que acrediten el cumplimiento de los artículos<br>mencionados|Col3|Col4|Col5|
+|---|---|---|---|---|
+|Reglamento<br>Sanitario<br>sobre<br>el<br>Manejo<br>de<br>Residuos<br>Peligrosos<br>Decreto<br>Supremo<br>N°<br>148/2004<br>Ministerio de Salud|<br> <br> <br>Serán almacenados en recipientes cerrados y debidamente<br>etiquetados e identificados y se tomarán todas las<br>precauciones necesarias para prevenir su inflamación o<br>reacción, entre ellas su separación y protección frente a<br>cualquier fuente de riesgo capaz de provocar tales efectos.<br>Estos residuos serán trasladados en embarcaciones de la<br>logística<br>del<br>centro<br>y<br>derivados<br>a<br>centros<br>de<br>almacenamiento provisorio, para ser trasladados y<br>posteriormentetratadosporempresasautorizadas.|<br> <br> <br> <br> <br> <br> <br>Verificador: in situ en el centro de cultivo,<br>guías de despacho|<br> <br> <br> <br> <br> <br> <br>Verificador: in situ en el centro de cultivo,<br>guías de despacho|<br> <br> <br> <br> <br> <br> <br>Verificador: in situ en el centro de cultivo,<br>guías de despacho|
+|Ley No 17.288 de Monumentos<br>Nacionales|<br>artículo 1o: se establece que son monumentos nacionales y<br>quedan bajo la tuición y protección del Estado, lo lugares,<br>ruinas, construcciones u objetos de carácter histórico o<br>artístico; los enterratorios o cementerios u otros restos de<br>los aborígenes, paleontológicos o de formación natural,<br>que existan bajo o sobre la superficie del territorio nacional<br>o en la plataforma submarina de sus aguas jurisdiccionales<br>y cuya conservación interesa a la historia, al arte o a la<br>ciencia; los santuarios de la naturaleza; los monumentos,<br>estatuas, columnas, pirámides, fuentes, placas, coronas,<br>inscripciones y, en general, los objetos que estén<br>destinados a permanecer en un sitio público, con carácter<br>conmemorativo. Su tuición y protección se ejercerá por<br>medio del Consejo de Monumentos Nacionales, en la<br>forma que determina la presente ley. Asimismo, Crea el<br>Consejo de Monumentos Nacionales, entre otros aspectos.<br> <br>Cumplimiento<br>Ante<br>cualquier<br>hallazgo<br>de<br>carácter<br>histórico,<br>antropológico, arqueológico o paleontológico, el Titular se<br>compromete a dar aviso a las autoridades competentes y<br>al Consejo de Monumentos Nacionales, cumpliendo así con<br>el Artículo 26 de la Ley No 17.288 y Artículo 20 de su<br>Reglamento. Lo anterior es también válido ante la<br>eventualidad de realizar un hallazgo de restos de<br>naufragio; por lo que el Titular se compromete a dar<br>oportuno aviso a la autoridad correspondiente, si durante<br>la instalación del proyecto se encontraran vestigios que<br>den cuenta de la existencia de dicho patrimonio;<br>cumpliendo así con el D.E. N° 311 de 08/10/1999 del<br>Ministerio de Educación, que hace referencia a la<br>declaración genérica de Monumento Histórico Nacional al<br>Patrimonio Cultural Subacuático de más de 50 años de<br>antigüedad, existente en el fondo de los ríos y lagos, de las<br>aguasinterioresy delmarterritorial.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verficador: el aviso respecto en caso de<br>halazgo|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verficador: el aviso respecto en caso de<br>halazgo|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verficador: el aviso respecto en caso de<br>halazgo|
+|D.L<br>No<br>2.222/1978,<br>Ley<br>de<br>Navegación del articulo N° 142 al N°<br>162|<br> <br>Artículos 142 al 162<br>No se arrojara lastre, escombros o basuras y no se<br>derramará petróleo o sus derivados o residuos, aguas de<br>relaves de minerales u otras materias nocivas o peligrosas,<br>decualquierespecie,queocasionendañoso perjuiciosen|<br> <br> <br> <br>Verificación: Se mantendrá un registro en<br>el centro con la cuantificación de los<br>hidrocarburos despachados|<br> <br> <br> <br>Verificación: Se mantendrá un registro en<br>el centro con la cuantificación de los<br>hidrocarburos despachados|<br> <br> <br> <br>Verificación: Se mantendrá un registro en<br>el centro con la cuantificación de los<br>hidrocarburos despachados|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 166**||
+
+|Col1|las aguas sometidas a la jurisdicción nacional, y en puertos,<br>ríos y lagos.<br>Cumplimiento<br>El proyecto no contempla descargar sustancias peligrosas<br>al medio marino. Los residuos de hidrocarburos serán<br>manejados por empresa autorizada.<br>Se mantendrá un registro en el centro con la cuantificación<br>de los hidrocarburos despachados|Col3|
+|---|---|---|
+|D.S. No 1/1992 Reglamento para el<br>control de la contaminación acuática<br>Ministerio de Defensa|<br>Íntegro.<br>Establece el régimen de prevención, vigilancia y combate<br>de la contaminación en las aguas de mar, puertos, ríos y<br>lagos sometidos a la jurisdicción nacional.<br>Cumplimiento<br>Se cumplirá las disposiciones de la Armada referente al no<br>vertimiento de hidrocarburos y mezclas oleosas, aguas<br>sucias y basura en aguas bajo la jurisdicción de la Armada.<br>Toda evacuación deliberada de desechos u otras materias,<br>efectuadas desde buques, artefactos navales,<br>aeronaves u otras construcciones en el mar, de acuerdo<br>con las normas del “Convenio sobre Prevención de la<br>Contaminación del Mar por Vertimiento de Desechos y<br>otras Materias”, de 1972. Se entiende con el mismo<br>significado el hundimiento deliberado del mismo material<br>nombradoanteriormente.|<br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador: monitoreo a la planta de<br>tratamiento de aguas servias|
+|Resolución<br>N°<br>1892/2009,<br>D.Ex<br>(Minecom), Establece veda extractiva<br>para el recurso Lobo Marino Común,<br>en el área y periodo que indica.|<br> <br> <br>El Titular se compromete a cumplir con lo dispuesto en el<br>Decreto, para ello tomará medidas para prevenir enmalles<br>y la capacitación de los trabajadores en preservación de<br>dichos animales.<br>Verificador: el titular mantiene el compromiso de capacitar<br>al personal de acuerdo a lo indicado por el RAMA<br>Para evitar enmalles, el centro utilizará mallas cuya<br>Titulación sea la adecuada, en el centro se mantendrán las<br>fichastécnicasdelasredesa utilizar.|<br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA<br>Para evitar enmalles, el centro utilizará<br>mallas cuya Titulación sea la adecuada, en<br>el centro se mantendrán las fichas técnicas<br>de las redes a utilizar.|
+|Ley<br>20.293/2008,<br>Modifica<br>Ley<br>18.892, Protege a los cetáceos e<br>introduce modificaciones en la ley<br>18.892 de LGPA.|<br> <br> <br>Declárese los espacios marítimos de soberanía y<br>jurisdicción nacional, como zona libre de caza de cetáceos<br>sólo para los efectos previstos en esta ley.<br>Se prohíbe dar muerte, cazar, capturar, acosar, tener,<br>poseer, transportar, desembarcar, elaborar o realizar<br>cualquier proceso de transformación, así como la<br>comercialización o almacenamiento de cualquier especie<br>de cetáceo que habite o surque los espacios marítimos de<br>soberanía y jurisdicción nacional.<br>Etapa de construcción: mientras se esté instalando la<br>infraestructura del centro, el titular entregará capacitación<br>e instrucciones claras a las empresas de servicios respecto<br>de la protección de este tipo de mamíferos.<br>Etapa de operación: El Titular dará cumplimiento a la<br>normativa.<br>Verificador: el titular mantiene el compromiso de capacitar<br>alpersonaldeacuerdoa loindicadoporelRAMA.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA .|
+|D.S. N 179 / 2008, (Subpesca),<br>Establece prohibición de captura de<br>especies<br>de cetáceos<br>en<br>aguas<br>de jurisdicción nacional.|<br> <br> <br>Se dará cumplimiento a todo lo relacionado con el<br>reglamento, tanto en la etapa de construcción como de<br>operación. En particular se dará cumplimiento al Artículo<br>1o, en el cual se prohíbe, en forma permanente, la captura<br>con resultado de muerte y la retención de animales vivos,<br>delosejemplaresespeciesdecetáceospresentesenaguas|<br> <br> <br> <br> <br> <br>Verificador:<br>el<br>titular<br>mantiene<br>el<br>compromiso de capacitar al personal de<br>acuerdo a lo indicado por el RAMA|
+
+|Col1|bajo jurisdicción nacional indicados en dicho artículo.<br>Etapa de construcción: mientras se esté instalando la<br>infraestructura del centro, el titular entregará capacitación<br>e instrucciones claras a las empresas de servicios respecto<br>de la prohibición de captura de este tipo de mamíferos.<br>Etapa de operación: El Titular dará cumplimiento a la<br>normativa.<br>Etapa de abandono: mientras se esté retirando la<br>infraestructura del centro, se informará a los operarios y<br>empresas de servicios que existe prohibición de captura de<br>cetáceos en aguas de jurisdicción nacional.<br>Verificador: el titular mantiene el compromiso de capacitar<br>al personal de acuerdo a lo indicado por el RAMA|Col3|Col4|Col5|
+|---|---|---|---|---|
+|Resolución N° 177/2009, (Subpesca),<br>Declara Área de Florecimiento Algal<br>Nocivo, en particular de la especie<br>(Alexandrium catenella).|<br> <br> <br>Entre otros aspectos, declara por el plazo de dos años,<br>contados desde la publicación de la presente resolución,<br>como área de Florecimiento Algal Nocivo (FAN) de<br>Alexandrium catenella, la macrozona que se extiende<br>desde el sur de la Isla Grande de Chiloé hasta el extremo<br>sur de la Región de Magallanes.<br>El Titular se compromete a dar cumplimiento a lo indicado<br>enlanormativa.|<br> <br> <br> <br> <br> <br>El<br>Titular<br>se<br>compromete<br>a<br>dar<br>cumplimiento<br>a<br>lo<br>indicado<br>en<br>la<br>normativa.|<br> <br> <br> <br> <br> <br>El<br>Titular<br>se<br>compromete<br>a<br>dar<br>cumplimiento<br>a<br>lo<br>indicado<br>en<br>la<br>normativa.|<br> <br> <br> <br> <br> <br>El<br>Titular<br>se<br>compromete<br>a<br>dar<br>cumplimiento<br>a<br>lo<br>indicado<br>en<br>la<br>normativa.|
+|Reglamento<br>Sanitario<br>sobre<br>el<br>Manejo<br>de<br>Residuos<br>Peligrosos<br>Decreto<br>Supremo<br>N°<br>148/2004 Ministerio de Salud|<br> <br> <br>Serán almacenados en recipientes cerrados y debidamente<br>etiquetados e identificados y se tomarán todas las<br>precauciones necesarias para prevenir su inflamación o<br>reacción, entre ellas su separación y protección frente a<br>cualquier fuente de riesgo capaz de provocar tales efectos.<br>Estos residuos serán trasladados en embarcaciones de la<br>logística<br>del<br>centro<br>y<br>derivados<br>a<br>centros<br>de<br>almacenamiento provisorio, para ser trasladados y<br>posteriormente tratados por empresas autorizadas, como<br>por ejemplo Bravo Energy o Hidronor. Además, la empresa<br>cuenta con la Res. No 0295 de fecha 07 de Mayo de 2007<br>otorgada por el Secretario Regional Ministerial de Salud<br>que autoriza el almacenamiento transitorio de sustancias<br>peligrosas indicador de cumplimiento: Guía de despacho<br>traslado residuos peligrosos hacia empresa autorizada|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>indicador<br>de<br>cumplimiento:<br>Guía<br>de<br>despacho traslado residuos peligrosos<br>hacia empresa autorizada<br>|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>indicador<br>de<br>cumplimiento:<br>Guía<br>de<br>despacho traslado residuos peligrosos<br>hacia empresa autorizada<br>|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>indicador<br>de<br>cumplimiento:<br>Guía<br>de<br>despacho traslado residuos peligrosos<br>hacia empresa autorizada<br>|
+|Ley No 17.288 de Monumentos<br>Nacionales|<br>artículo 1o: se establece que son monumentos nacionales y<br>quedan bajo la tuición y protección del Estado, lo lugares,<br>ruinas, construcciones u objetos de carácter histórico o<br>artístico; los enterratorios o cementerios u otros restos de<br>los aborígenes, paleontológicos o de formación natural,<br>que existan bajo o sobre la superficie del territorio nacional<br>o en la plataforma submarina de sus aguas jurisdiccionales<br>y cuya conservación interesa a la historia, al arte o a la<br>ciencia; los santuarios de la naturaleza; los monumentos,<br>estatuas, columnas, pirámides, fuentes, placas, coronas,<br>inscripciones y, en general, los objetos que estén<br>destinados a permanecer en un sitio público, con carácter<br>conmemorativo. Su tuición y protección se ejercerá por<br>medio del Consejo de Monumentos Nacionales, en la<br>forma que determina la presente ley. Asimismo, Crea el<br>Consejo de Monumentos Nacionales, entre otros aspectos.<br>Cumplimiento<br>Ante<br>cualquier<br>hallazgo<br>de<br>carácter<br>histórico,<br>antropológico, arqueológico o paleontológico, el Titular se<br>compromete a dar aviso a las autoridades competentes y<br>alConsejodeMonumentosNacionales,cumpliendoasícon|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Aviso por parte del titular ante un hallazgo|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Aviso por parte del titular ante un hallazgo|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Aviso por parte del titular ante un hallazgo|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 168**||
+
+|Col1|el Artículo 26 de la Ley No 17.288 y Artículo 20 de su<br>Reglamento. Lo anterior es también válido ante la<br>eventualidad de realizar un hallazgo de restos de<br>naufragio; por lo que el Titular se compromete a dar<br>oportuno aviso a la autoridad correspondiente, si durante<br>la instalación del proyecto se encontraran vestigios que<br>den cuenta de la existencia de dicho patrimonio;<br>cumpliendo así con el D.E. N° 311 de 08/10/1999 del<br>Ministerio de Educación, que hace referencia a la<br>declaración genérica de Monumento Histórico Nacional al<br>Patrimonio Cultural Subacuático de más de 50 años de<br>antigüedad, existente en el fondo de los ríos y lagos, de las<br>aguas interiores y del mar territorial.|Col3|Col4|Col5|
+|---|---|---|---|---|
+|D.S. No 319/2001<br>Reglamento<br>de<br>Medidas<br>de<br>Protección, Control y Erradicación de<br>enfermedades de Alto Riesgo Para las<br>Especies Hidrobiológicas.|<br> <br> <br>Íntegro<br>El reglamento establece las medidas de protección y<br>control para evitar la introducción de enfermedades de<br>alto riesgo que afectan a las especies hidrobiológicas, sea<br>que provengan de la actividad de cultivo con cualquier<br>finalidad o en su estado silvestre, aislar su presencia en<br>caso de que éstas ocurran, evitar su propagación y<br>propender a su erradicación. Las disposiciones del presente<br>reglamento se aplicarán a las actividades de cultivo,<br>transporte, repoblamiento y transformación de especies<br>hidrobiológicas que se realicen en el territorio de la<br>República.<br>Cumplimiento<br>Se dará cumplimiento al presente decreto y sus<br>modificaciones, incorporando el uso de ensilaje de<br>mortalidad del centro.<br>Se cumplirá con las obligaciones de informar y notificar a la<br>autoridad sobre enfermedades de alto riesgo<br>Informar y aplicar plan de contingencia ante eventuales<br>mortalidad masivas.<br>Cumplimiento con las medidas de manejo sanitario<br>Cumplimento con los descansos sanitarios fijados por la<br>autoridad|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Mantención de registros en el centro para<br>su visación|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Mantención de registros en el centro para<br>su visación|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Mantención de registros en el centro para<br>su visación|
+|D.L<br>No<br>2.222/1978,<br>Ley<br>de<br>Navegación del articulo N° 142 al N°<br>162|<br> <br>Artículos 142 al 162<br>No se arrojara lastre, escombros o basuras y no se<br>derramará petróleo o sus derivados o residuos, aguas de<br>relaves de minerales u otras materias nocivas o peligrosas,<br>de cualquier especie, que ocasionen daños o perjuicios en<br>las aguas sometidas a la jurisdicción nacional, y en puertos,<br>ríos y lagos.<br>Cumplimiento<br>El proyecto no contempla descargar sustancias peligrosas<br>al medio marino. Los residuos de hidrocarburos serán<br>manejados por empresa autorizada.<br>Se mantendrá un registro en el centro con la cuantificación<br>deloshidrocarburosdespachados|<br> <br> <br> <br> <br> <br> <br> <br>Se mantendrá un registro en el centro con<br>la cuantificación de los hidrocarburos<br>despachados|<br> <br> <br> <br> <br> <br> <br> <br>Se mantendrá un registro en el centro con<br>la cuantificación de los hidrocarburos<br>despachados|<br> <br> <br> <br> <br> <br> <br> <br>Se mantendrá un registro en el centro con<br>la cuantificación de los hidrocarburos<br>despachados|
+|D.S. No 1/1992 Reglamento para el<br>control de la contaminación acuática<br>Ministerio de Defensa<br>|<br>Íntegro.<br>Establece el régimen de prevención, vigilancia y combate<br>de la contaminación en las aguas de mar, puertos, ríos y<br>lagos sometidos a la jurisdicción nacional.<br>Cumplimiento<br>Se cumplirá las disposiciones de la Armada referente al no<br>vertimiento de hidrocarburos y mezclas oleosas, aguas|<br> <br> <br> <br>Análisis realizado alas aguas servidas de la<br>planta de tratamiento del sistema de<br>tratamiento de aguas servidas del pontón.<br>Mantención del resultado de los análisis en<br>el centro de cultivo|<br> <br> <br> <br>Análisis realizado alas aguas servidas de la<br>planta de tratamiento del sistema de<br>tratamiento de aguas servidas del pontón.<br>Mantención del resultado de los análisis en<br>el centro de cultivo|<br> <br> <br> <br>Análisis realizado alas aguas servidas de la<br>planta de tratamiento del sistema de<br>tratamiento de aguas servidas del pontón.<br>Mantención del resultado de los análisis en<br>el centro de cultivo|
+|**TITULAR:**<br>**ACUÍCOLA PUYUHUAPI S.A.**|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**DECLARACIÓN DE IMPACTO AMBIENTAL** <br>RELOCALIZACIÓN CONCESIÓN DE ACUICULTURA AL NORESTE DE<br>PUNTA CESARI|**P á g i n a | 169**||
+
+|Col1|sucias y basura en aguas bajo la jurisdicción de la Armada.<br>Toda evacuación deliberada de desechos u otras materias,<br>efectuadas desde buques, artefactos navales,<br>aeronaves u otras construcciones en el mar, de acuerdo<br>con las normas del “Convenio sobre Prevención de la<br>Contaminación del Mar por Vertimiento de Desechos y<br>otras Materias”, de 1972. Se entiende con el mismo<br>significado el hundimiento deliberado del mismo material<br>nombrado anteriormente.|Col3|Col4|
+|---|---|---|---|
+|Listado<br>de<br>los<br>Permisos<br>y<br>Pronunciamientos<br>Ambientales<br>Sectoriales aplicables|<br> <br>Contenidos Técnicos y Formales que acreditan el<br>cumplimiento<br>de los<br>Permisos<br>y<br>Pronunciamientos<br>Ambientales Sectoriales|<br> <br>Contenidos Técnicos y Formales que acreditan el<br>cumplimiento<br>de los<br>Permisos<br>y<br>Pronunciamientos<br>Ambientales Sectoriales|<br> <br> Contenidos Técnicos y Formales que<br>acreditan el cumplimiento de los Permisos<br>y<br>Pronunciamientos<br>Ambientales<br>Sectoriales|
+|**Artículo 116 del D.S. No 40 de 2013**|**Artículo 116 del D.S. No 40 de 2013:** Permiso para realizar<br>actividades de acuicultura:<br>El permiso para realizar actividades de acuicultura, será el<br>establecido en el inciso 3o del artículo 87 del Decreto<br>Supremo N° 430 de 1991, del Ministerio de Economía,<br>Fomento y Reconstrucción, que fija el texto refundido,<br>coordinado y sistematizado de la Ley N° 18.892, de 1989 y<br>sus modificaciones, Ley General de Pesca y Acuicultura.<br>Los requisitos para su otorgamiento consisten en no<br>generar efectos adversos en la vida acuática y prevenir el<br>surgimiento de condiciones anaeróbicas en las áreas de la<br>acuicultura.<br>El contenido técnico y formal que debe presentarse para<br>acreditar su cumplimiento corresponde a la caracterización<br>preliminar del sitio (CPS) o información ambiental (INFA),<br>según corresponda, de acuerdo a los contenidos y<br>metodologías de elaboración establecidos en la Resolución<br>Exenta N° 3.612, de 2009, de la Subsecretaría de Pesca, o<br>aquella que la reemplace.<br>En los capítulos “Planes de contingencia” y "Compromisos<br>ambientales", se establecen todas las medidas para<br>minimizar los posibles y eventuales impactos que pudiese<br>ocasionar el proyecto en su etapa de operación.<br>De acuerdo a los resultados obtenidos en el presente<br>documento se puede establecer que el área concesionada,<br>en términos generales, presenta un buen estado ambiental<br>sin evidenciarse estrés ambiental significativo. El área<br>solicitada para la relocalización del centro Isla Melchor no<br>se evidencia impactada y presenta un buen estado medio<br>ambiental.|**Artículo 116 del D.S. No 40 de 2013:** Permiso para realizar<br>actividades de acuicultura:<br>El permiso para realizar actividades de acuicultura, será el<br>establecido en el inciso 3o del artículo 87 del Decreto<br>Supremo N° 430 de 1991, del Ministerio de Economía,<br>Fomento y Reconstrucción, que fija el texto refundido,<br>coordinado y sistematizado de la Ley N° 18.892, de 1989 y<br>sus modificaciones, Ley General de Pesca y Acuicultura.<br>Los requisitos para su otorgamiento consisten en no<br>generar efectos adversos en la vida acuática y prevenir el<br>surgimiento de condiciones anaeróbicas en las áreas de la<br>acuicultura.<br>El contenido técnico y formal que debe presentarse para<br>acreditar su cumplimiento corresponde a la caracterización<br>preliminar del sitio (CPS) o información ambiental (INFA),<br>según corresponda, de acuerdo a los contenidos y<br>metodologías de elaboración establecidos en la Resolución<br>Exenta N° 3.612, de 2009, de la Subsecretaría de Pesca, o<br>aquella que la reemplace.<br>En los capítulos “Planes de contingencia” y "Compromisos<br>ambientales", se establecen todas las medidas para<br>minimizar los posibles y eventuales impactos que pudiese<br>ocasionar el proyecto en su etapa de operación.<br>De acuerdo a los resultados obtenidos en el presente<br>documento se puede establecer que el área concesionada,<br>en términos generales, presenta un buen estado ambiental<br>sin evidenciarse estrés ambiental significativo. El área<br>solicitada para la relocalización del centro Isla Melchor no<br>se evidencia impactada y presenta un buen estado medio<br>ambiental.|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Anexo 4 y 5 de la DIA, procedimientos y<br>CPS, respectivamente<br>|
+|||||
+|(d) COMPROMISOSAMBIENTALESVOLUNTARIOS|(d) COMPROMISOSAMBIENTALESVOLUNTARIOS|(d) COMPROMISOSAMBIENTALESVOLUNTARIOS|(d) COMPROMISOSAMBIENTALESVOLUNTARIOS|
+|Descripción de compromisos ambientales voluntarios<br>que se hacen cargo de los impactos no significativos.|Descripción de compromisos ambientales voluntarios<br>que se hacen cargo de los impactos no significativos.|<br>Resumen: Indicación precisa del lugar y<br>momento en que se verificarán, así como<br>los indicadores de cumplimiento, si<br>corresponde.|<br> <br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente|
+|**Medidas de diseño:**<br>Respecto de este punto, y aun cuando la modelación<br>presentada en este estudio se realizó con un pontón<br>tipo utilizado en la industria, como una manera de<br>presentar una condición escénica habitual de los|**Medidas de diseño:**<br>Respecto de este punto, y aun cuando la modelación<br>presentada en este estudio se realizó con un pontón<br>tipo utilizado en la industria, como una manera de<br>presentar una condición escénica habitual de los|<br> <br> <br>Implementado<br>el<br>centro<br>con<br>las<br>estructuras de cultivo y apoyo, verificación<br>en el centro e cultivo|<br> <br> Capitulo 2 de la DIA|
+
+|centros de cultivo, el titular se compromete a<br>implementar el centro con un pontón que provoque<br>el mínimo corte visual, y trabajar en el diseño que<br>simule aún más una embarcación para que evoque un<br>artefacto naval que está de paso y no de manera<br>permanente, dada su condición de emplazamiento en<br>el agua.<br>Medidas sobre textura y color:<br>Respecto de esta medida, el titular se compromete a<br>utilizar materiales y colores que eviten contrastes y<br>faciliten la integración paisajística de las obras a<br>implementar, esto es:<br>• El titular del proyecto se hará cargo de<br>adoptar las medidas pertinentes destinadas a<br>favorecer el uso de colores poco contrastantes, es<br>decir, trabajar con tonalidades que sean acordes con<br>el fondo escénico, a fin de minimizar al máximo el<br>eventual contraste visual de las instalaciones con su<br>entorno.<br>Dado que los centros de cultivo se deben<br>implementar con un cerco lobero, que por norma son<br>barreras de malla de aproximadamente 1 metro de<br>altura sobre el nivel del mar que protegen a las<br>estructuras de cultivo, el titular se compromete a<br>utilizar mallas de colores oscuros y opacos, acordes<br>con el fondo escénico. Dada la condición marítima del<br>proyecto se advierte que no existen medidas de<br>mitigación generales para este tipo de proyectos,<br>como sí ocurre para aquellos que se ubican en tierra,<br>donde medidas como pantallas y cierres perimetrales<br>son de fácil y efectiva implementación. Por ello, las<br>medidas de mitigación aquí propuestas apuntan hacia<br>aquellos aspectos que tienen mayor incidencia en el<br>impacto visual y que pueden ser, por lo demás,<br>efectivamente implementadas. Dichas medidas son la<br>que apuntan al diseño, manejo de las formas, texturas<br>y colores.|Col2|Col3|
+|---|---|---|
+|Descripción de compromisos ambientales voluntarios<br>asociados a verificar que no se generan impactos<br>significativos.|<br> <br>Resumen: Indicación precisa del lugar y<br>momento en que se verificarán, así como<br>los indicadores de cumplimiento, si<br>corresponde.|<br> <br> <br>Referencia del título de la DIA donde<br>se<br>describe<br>detalladamente<br>el<br>antecedente|
+|Monitoreo del borde costero dentro del área de<br>influencia del proyecto, en cada período productivos|Se realizará un monitoreo en el borde<br>costero que se ubica dentro del área de<br>influencia directa del proyecto, con la<br>finalidad de tener un seguimiento y<br>generar una línea de base , la metodología<br>será la descrita en el informe de<br>biodiversidad.|<br> <br> <br> <br> <br> <br> Capítulo 2, anexo 6 de la DIA|
+
+# 6 EQUIPO
+ PARTICIPANTE
+ EN
+ LA
+ EJECUCIÓN
+ Y
+ ELABORACIÓN
+ DE
+ LA
+ D.I.A.**
+
+|Nombre|Profesión|Actividad|
+|---|---|---|
+|PaolaSchnettlerA.|BiólogoMarino|ElaboraciónDIA/Modelación|
+|Christian Salomon R.|Técnico en administración de empresas (Gerente<br>Técnico)|Revisor DIA y CPS|
+|ClaudioCárdenasB.|TécnicoAcuicultura|TerrenoCPS|
+|RodrigoTerrile|BiólogoMarino|TerrenoCPS|
+|JuanCarlosVallejos|Técnicoencalidady medioambiente|TerrenoCPS|
+|JulioGonzález|TécnicoAcuícola|TerrenoCPS|
+|Pablo Manzano|Oceanógrafo|Procesamiento datos<br>CPS/Plano batimétrico y<br>estudiodecorrientes|
+|Evelyn Rehbein|Ingeniero Forestal|Estudios de Paisaje,<br>fotomontaje, Procesamiento<br>datosCPS|
+|MaríaJesúsCalabrano|TécnicoIndustriaAlimentaria|Procesamiento|
+
+# 7 DESCRIPCIÓN
+ DE
+ RELACIÓN
+ ENTRE
+ PROYECTOS
+ Y
+ POLÍTICAS,
+ PLANES
+ Y** **PROGRAMAS
+ DE
+ DESARROLLO
+ REGIONAL
+ Y
+ COMUNAL
+ (art.
+ 9
+ ter,
+ Ley
+ 20.417)**
+
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ una
+ solicitud
+ de
+ relocalización
+ de
+ concesión
+ de
+ acuicultura
+ otorgada
+(2.73
+ hás.),
+ relativa
+ al
+ centro
+ de
+ cultivo
+ de
+ salmónidos
+ Punta
+ Cesari,
+ ubicado
+ al
+ noreste
+ de
+ Punta
+ Cesari,
+ Seno
+Ventisquero,
+ comuna
+ de
+ Cisnes,
+ Región
+ de
+ Aysén.
+
+La
+ relación
+ del
+ proyecto
+ con
+ las
+ Políticas,
+ Planes
+ y
+ Programas
+ de
+ Desarrollo
+ Regional
+ y
+ Comunal
+ contempla
+ la
+“Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Aysén
+ 2009”
+ (Ilpes
+ -
+ Cepal
+ /
+ Gobierno
+ Regional
+ de
+ Aysén),
+ “Plan
+ Regional
+de
+ Desarrollo
+ Urbano
+ XI
+ Región
+ de
+ Aysén
+ (2004)”,
+ “Memoria
+ de
+ Zonificación
+ Borde
+ Costero
+ Región
+ Aysén
+ del
+General
+ Carlos
+ Ibáñez
+ del
+ Campo”
+ (SERPLAC
+ Región
+ de
+ Aysén),
+ “Plan
+ Regulador
+ de
+ Puerto
+ Cisnes
+ (1992,
+modificaciones
+ 2001
+ y
+ 2004)”
+ y
+ “Plan
+ de
+ Desarrollo
+ Comunal
+ PLADECO
+ comuna
+ de
+ Cisnes
+ 2011-­‐2015”.
+
+**Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Aysén
+ 2009
+ (Ilpes
+ -
+ Cepal
+ /
+ Gobierno
+ Regional
+ de
+ Aysén)**
+
+La
+ Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Aysén
+ 2009
+ reconoce
+ una
+ gran
+ aptitud
+ acuícola
+ del
+ borde
+ costero
+ de
+ la
+Región,
+ en
+ donde
+ la
+ actividad
+ acuícola
+ ha
+ aumentado
+ considerablemente
+ en
+ los
+ últimos
+ años
+ y
+ dado
+ origen
+ a
+ un
+sin
+ número
+ de
+ emprendimientos
+ productivos
+ ligados
+ a
+ esta
+ industria.
+
+Dentro
+ de
+ los
+ objetivos
+ de
+ desarrollo
+ y
+ lineamientos
+ estratégicos
+ es
+ posible
+ situar
+ el
+ proyecto
+ dentro
+ del
+ objetivo
+“Disponer
+ de
+ adecuados
+ niveles
+ de
+ capital
+ humano
+ y
+ social
+ que
+ aseguren
+ un
+ proceso
+ de
+ desarrollo
+ endógeno
+ y
+participativo”,
+ lineamiento
+ “Formación
+ y
+ perfeccionamiento
+ avanzado”.
+ La
+ formulación
+ de
+ un
+ indicador
+ para
+ este
+lineamiento
+ es
+ la
+ siguiente:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa de<br>capacitación para<br>profesionales del<br>centro de cultivo<br>en programas de<br>la región|% de profesionales<br>capacitados en la<br>región según ciclo<br>productivo|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|N° de profesionales<br>capacitados por<br>ciclo productivo<br>(N)*100/Total de<br>profesionales del<br>centro de cultivo|Por cada ciclo<br>productivo se<br>capacitará al<br>menos al 25% de<br>los profesionales|Copia legalizada<br>ante notario de<br>certificado de<br>participación en<br>capacitación<br>(estará<br>disponible en el<br>centro de<br>cultivo)|
+|Iniciativa de<br>capacitación para<br>operarios en<br>programas de la<br>región|% de operarios<br>capacitados en la<br>región<br>según ciclo<br>productivo<br>|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|N° de operarios<br>capacitados por<br>ciclo productivo<br>(N)*100/Total de<br>operarios del centro<br>de cultivo|Por cada ciclo<br>productivo se<br>capacitará al<br>menos al 25% de<br>los operarios|Copia legalizada<br>ante notario de<br>certificado de<br>participación en<br>capacitación<br>(estará<br>disponible en el<br>centro de<br>cultivo)|
+
+Otro
+ de
+ los
+ objetivos
+ vinculables
+ corresponde
+ a
+ “Operar
+ con
+ elevados
+ niveles
+ de
+ eficiencia,
+ encadenamientos
+ y
+competitividad,
+ en
+ la
+ actividad
+ económica
+ regional,
+ de
+ acuerdo
+ con
+ las
+ diversas
+ vocaciones
+ productivas
+ acordes
+
+al
+ territorio”,
+ lineamiento
+ estratégico
+ “Fortalecimiento
+ del
+ sector
+ acuícola”.
+ La
+ formulación
+ de
+ indicadores
+ para
+este
+ lineamiento
+ es
+ la
+ siguiente:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling<br>(1997)10|Obtención de índice<br>de impacto igual o<br>mayor a la situación<br>de equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+
+**Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ XI
+ Región
+ de
+ Aysén
+ 2004
+ (PRDU)**
+
+La
+ acuicultura
+ es
+ reconocida
+ por
+ el
+ PRDU
+ como
+ una
+ actividad
+ productiva
+ estratégica
+ a
+ nivel
+ regional.
+ Desde
+ el
+punto
+ de
+ vista
+ de
+ los
+ lineamientos
+ definidos
+ por
+ el
+ PRDU,
+ y
+ si
+ bien
+ es
+ cierto
+ no
+ resulta
+ posible
+ vincular
+ el
+proyecto
+ de
+ manera
+ directa,
+ es
+ dable
+ relacionarlo
+ en
+ atención
+ al
+ uso
+ del
+ territorio
+ bajo
+ premisas
+ de
+sustentabilidad,
+ lineamiento
+ “sobre
+ el
+ desarrollo
+ de
+ instrumentos
+ de
+ planificación”,
+ situándose
+ dentro
+ del
+ “área
+de
+ desarrollo
+ 1:
+ Territorial
+
+ Norte
+ (cuenca
+ del
+ Palena
+ y
+ Río
+ Quinto)”.
+ Al
+ respecto,
+ se
+ proponen
+ los
+ siguientes
+indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)|Obtención de<br>índice de impacto<br>igual o mayor a la<br>situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+
+**“Memoria
+ de
+ Zonificación
+ Borde
+ Costero
+ Región
+ Aysén
+ del
+ General
+ Carlos
+ Ibáñez
+ del
+ Campo”
+ (SERPLAC
+ Región**
+**de
+ Aysén)**
+
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ la
+ relocalización
+ de
+ una
+ concesión
+ de
+ acuicultura
+ otorgada,
+ con
+ miras
+ a
+la
+ búsqueda
+ de
+ mejores
+ condiciones
+ ambientales
+ y
+ oceanográficas
+
+ para
+ el
+ cultivo
+ de
+ salmónidos.
+ Conforme
+ a
+ la
+memoria
+ de
+ zonificación
+ del
+ borde
+ costero,
+ el
+ proyecto
+ se
+ sitúa
+ en
+ una
+ “zona
+ preferencial
+ para
+ el
+ turismo”,
+sector
+ noreste
+ de
+ Punta
+ Cesari,
+ Seno
+ Ventisquero.
+ En
+ este
+ sentido,
+ se
+ proponen
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones|Índice de impacto<br>delproyecto|Encargado<br>centrode|Índice de<br>impactode|Obtención de<br>índicedeimpacto|Declaración de<br>ImpactoAmbientaly|
+
+10 Establece la relación entre el aporte de oxígeno y la demanda de oxígeno del sedimento para degradar la
+materia orgánica, lo cual depende las velocidades de corrientes en profundidad. Un índice mayor a 1 significa que
+el aporte de oxígeno supera a la demanda, por lo que se ve con dificultad un proceso de anaerobiosis en el
+sedimento, por el contrario si el índice es menor a 1 significa que la demanda supera la oferta y por ende es
+factible un proceso de anaerobiosis en el sedimento; si el índice es igual a 1, existiría un equilibrio entre oferta y
+demanda y por ende el impacto sería menor.
+
+|ambientales y<br>oceanográficas|Col2|cultivo|Findley y<br>Waitling (1997)|igual o mayor a la<br>situación de<br>equilibrio|RCA que califica<br>favorablemente la<br>relocalización|
+|---|---|---|---|---|---|
+|Integración<br>paisajística del<br>proyecto|Pontón de baja<br>altura y uso de<br>colores acorde al<br>fondo escénico|Encargado<br>centro de<br>cultivo<br>|Diseño del<br>pontón y uso de<br>colores acorde al<br>fondo escénico|Mínimo corte<br>visual del pontón y<br>uso de colores<br>poco contrastantes<br>con el fondo<br>escénico|Modelación<br>fotográfica de las<br>obras a implementar<br>(incorporada en la<br>Declaración de<br>Impacto Ambiental),<br>lo cual se podrá<br>cotejar con la<br>evidencia objetiva del<br>centro de cultivo<br>implementado|
+
+**Plan
+ Regulador
+ de
+ Puerto
+ Cisnes
+ (1992,
+ modificaciones
+ 2001
+ y
+ 2004)** **[11]**
+
+El
+ lugar
+ de
+ emplazamiento
+ del
+ centro
+ de
+ Punta
+ Cesari
+ corresponde
+ al
+ sector
+ noreste
+ de
+ Punta
+ Cesari,
+ Seno
+Ventisquero,
+ por
+ lo
+ que
+ no
+ se
+ encuentra
+ inserto
+ en
+ las
+ áreas
+ urbanas
+ propias
+ del
+ Plan
+ Regulador
+ (Cines,
+ Cisnes
+Sector
+ Sur,
+ La
+ Junta,
+ Puerto
+ Raúl
+ Marín
+ Balmaceda
+ y
+ Puyuhuapi).
+
+**Plan
+ de
+ Desarrollo
+ Comunal
+ PLADECO
+ comuna
+ de
+ Cisnes
+ 2011-­‐2015**
+
+De
+ acuerdo
+ al
+ análisis
+ FODA,
+ el
+ PLADECO
+ reconoce
+ la
+ actividad
+ acuícola
+ como
+ parte
+ de
+ la
+ diversidad
+ de
+actividades
+ productivas
+ (fortaleza)
+ en
+ la
+ Región
+ y
+ con
+ una
+ clara
+ posibilidad
+ de
+ resurgimiento
+ (oportunidad).
+Asimismo,
+ se
+ plantea
+ como
+ “amenaza”
+ desde
+ el
+ punto
+ de
+ vista
+ de
+ las
+ concesiones
+ de
+ acuicultura
+ y
+ como
+actividad
+ no
+ sustentable.
+ Al
+ respecto,
+ el
+ proyecto
+ corresponde
+ a
+ una
+ relocalización
+ de
+ concesión
+ de
+ acuicultura
+otorgada,
+ por
+ lo
+ que
+ no
+ se
+ amplía
+ la
+ superficie
+ ni
+ el
+ número
+ de
+ concesiones
+ otorgadas.
+ El
+ objetivo
+ de
+ la
+relocalización
+ es
+ la
+ búsqueda
+ de
+ mejores
+ condiciones
+ ambientales
+ y
+ oceanográficas
+ para
+ el
+ cultivo
+ de
+salmónidos.
+
+Dadas
+ las
+ líneas
+ estratégicas
+ del
+ PLADECO
+ es
+ posible
+ situar
+ el
+ proyecto
+ dentro
+ de
+ “comuna
+ que
+ protege
+ y
+aprovecha
+ sustentablemente
+ sus
+ recursos
+ marinos”
+ y
+ “comuna
+ con
+ habitantes
+ fortalecidos
+ en
+ sus
+ capacidades
+productivas
+ y
+ organizacionales”,
+ ambos
+
+ del
+ área
+ estratégica
+ “Desarrollo
+ Económico”,
+ y
+ “comuna
+ con
+ manejo
+integral
+ de
+ residuos
+ sólidos
+ domiciliarios”,
+ área
+ estratégica
+ “Medio
+ Ambiente”.
+ Al
+ respecto,
+ se
+ proponen
+ los
+siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)|Obtención de<br>índice de impacto<br>igual o mayor a la<br>situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+|Iniciativade|% deprofesionales|SENCE|N°de|Porcadaciclo|Copialegalizadaante|
+
+11 http://www.municipalidadcisnes.cl/plano_regulador.php
+
+|capacitación para<br>profesionales del<br>centro de cultivo<br>en programas de<br>la región|capacitados en la<br>región según ciclo<br>productivo|Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|profesionales<br>capacitados por<br>ciclo productivo<br>(N)*100/Total de<br>profesionales del<br>centro de cultivo|productivo se<br>capacitará al<br>menos al 25% de<br>los profesionales|notario de certificado<br>de participación en<br>capacitación (estará<br>disponible en el<br>centro de cultivo)|
+|---|---|---|---|---|---|
+|Iniciativa de<br>capacitación para<br>operarios en<br>programas de la<br>región|% de operarios<br>capacitados en la<br>región<br>según ciclo<br>productivo<br>|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|N° de operarios<br>capacitados por<br>ciclo productivo<br>(N)*100/Total de<br>operarios del<br>centro de cultivo|Por cada ciclo<br>productivo se<br>capacitará al<br>menos al 25% de<br>los operarios|Copia legalizada ante<br>notario de certificado<br>de participación en<br>capacitación (estará<br>disponible en el<br>centro de cultivo)|
+|Limpieza de playa<br>en área del<br>proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo<br>|N° total de<br>limpiezas<br>semestral de<br>playa|Limpieza de playa 2<br>veces por semestre|Registro limpieza de<br>playa y fotografías<br>asociadas|
+
+**ARTÍCULO 15. RELACIÓN CON LAS POLÍTICAS Y PLANES EVALUADOS ESTRATÉGICAMENTE**
+
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ una
+ solicitud
+ de
+ relocalización
+ de
+ concesión
+ de
+ acuicultura
+ otorgada
+(2.73
+ hás.),
+ relativa
+ al
+ centro
+ de
+ cultivo
+ de
+ salmónidos
+ Punta
+ Cesari,
+ ubicado
+ al
+ noreste
+ de
+ Punta
+ Cesari,
+ Seno
+Ventisquero,
+ comuna
+ de
+ Cisnes,
+ Región
+ de
+ Aysén.
+
+La
+ relación
+ del
+ proyecto
+ con
+ las
+ Políticas
+ y
+ Planes
+ evaluados
+ estratégicamente
+ está
+ referida
+ a
+ aquellos
+ que
+ han
+sido
+ sometidos
+ a
+ Evaluación
+ Ambiental
+ Estratégica,
+ conforme
+ al
+ Artículo
+ 7°
+ bis
+ de
+ la
+ Ley
+ N°
+ 19.300,
+ sobre
+ Bases
+Generales
+ del
+ Medio
+ Ambiente
+ (modificada
+ por
+ la
+ Ley
+ N°
+ 20.417)
+ y/o
+
+ Artículo
+ 2°
+ transitorio
+ del
+ Decreto
+ 40
+ de
+2013
+ que
+ Aprueba
+ Reglamento
+ del
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental.
+ En
+ este
+ sentido,
+ se
+ contempla
+el
+ “Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ XI
+ Región
+ de
+ Aysén
+ 2004
+ (PRDU)”,
+ “Actualización
+ Plan
+ Regional
+ de
+Ordenamiento
+ Territorial
+ (PROT)”,
+ “Microzonificación
+ Litoral”
+ y
+ “Plan
+ Regulador
+ de
+ Puerto
+ Cisnes
+ (1992,
+modificaciones
+ 2001
+ y
+ 2004)
+ y
+ actualización
+ 2012”.
+
+**Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ XI
+ Región
+ de
+ Aysén
+ 2004
+ (PRDU)**
+
+El
+ PRDU
+ reconoce
+ la
+ actividad
+ acuícola
+ como
+ estratégica
+ a
+ nivel
+ regional.
+ Desde
+ el
+ punto
+ de
+ vista
+ de
+ los
+lineamientos
+ definidos
+ por
+ el
+ PRDU,
+ y
+ si
+ bien
+ es
+ cierto
+ no
+ resulta
+ posible
+ vincular
+ el
+ proyecto
+ de
+ manera
+ directa,
+es
+ dable
+ relacionarlo
+ en
+ atención
+ al
+ uso
+ del
+ territorio
+ bajo
+ premisas
+ de
+ sustentabilidad,
+ lineamiento
+ “sobre
+ el
+desarrollo
+ de
+ instrumentos
+ de
+ planificación”,
+ situándose
+ dentro
+ del
+ “área
+ de
+ desarrollo
+ 1:
+ Territorial
+
+ Norte
+(cuenca
+ del
+ Palena
+ y
+ Río
+ Quinto)”.
+ Al
+ respecto,
+ se
+ presentan
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones|Índice de impacto<br>delproyecto|Encargado<br>centrode|Índice de<br>impactode|Obtención de<br>índicedeimpacto|Declaración de<br>ImpactoAmbientaly|
+
+**Actualización
+ Plan
+ Regional
+ de
+ Ordenamiento
+ Territorial
+ (PROT)** **[13]**
+
+El
+ PROT
+ señala
+ que
+ la
+ actividad
+ acuicultora
+ en
+ la
+ Región
+ de
+ Aysén
+ corresponde
+ principalmente
+ al
+ cultivo
+ de
+salmónidos.
+ En
+ este
+ sentido,
+ y
+ conforme
+ a
+ los
+ objetivos
+ específicos
+ del
+ PROT,
+ es
+ posible
+ relacionar
+ el
+ proyecto
+con
+ los
+ siguientes
+ objetivos:
+ “Procurar
+ que
+ las
+ diversas
+ actividades
+ sean
+ compatibles
+ con
+ el
+ reguardo
+ del
+ medio
+ambiente”
+ y
+ “Desarrollo
+ de
+ las
+ actividades
+ en
+ el
+ litoral
+ y
+ en
+ el
+ continente
+ con
+ un
+ criterio
+ de
+ integración
+ y
+compatibilización
+ de
+ éstas
+ entre
+ sí
+ y
+ de
+ los
+ usos
+ en
+ el
+ borde
+ costero
+ con
+ los
+ usos
+ terrestres
+ colindantes”.
+ Al
+respecto,
+ se
+ plantean
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)|Obtención de<br>índice de impacto<br>igual o mayor a la<br>situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+|Limpieza de playa<br>en área del<br>proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo<br>|N° total de<br>limpiezas<br>semestral de<br>playa|Limpieza de playa 2<br>veces por semestre|Registro limpieza de<br>playa y fotografías<br>asociadas|
+|Integración<br>paisajística del<br>proyecto|Pontón de baja<br>altura y uso de<br>colores acorde al<br>fondo escénico|Encargado<br>centro de<br>cultivo<br>|Altura del<br>pontón y uso de<br>colores acorde al<br>fondo escénico|Mínimo corte<br>visual del pontón y<br>uso de colores<br>poco contrastantes<br>con el fondo<br>escénico|Modelación<br>fotográfica de las<br>obras a implementar<br>(incorporada en la<br>Declaración de<br>Impacto Ambiental),<br>lo cual se podrá<br>cotejar con la<br>evidencia objetiva del<br>centro de cultivo<br>implementado|
+
+**Microzonificación
+ Litoral** **[14]**
+
+12 Establece la relación entre el aporte de oxígeno y la demanda de oxígeno del sedimento para degradar la
+materia orgánica, lo cual depende las velocidades de corrientes en profundidad. Un índice mayor a 1 significa que
+el aporte de oxígeno supera a la demanda, por lo que se ve con dificultad un proceso de anaerobiosis en el
+sedimento, por el contrario si el índice es menor a 1 significa que la demanda supera la oferta y por ende es
+factible un proceso de anaerobiosis en el sedimento; si el índice es igual a 1, existiría un equilibrio entre oferta y
+demanda y por ende el impacto sería menor.
+13 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/8
+14 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/47
+http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/48
+http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/46
+
+Actualmente
+ se
+ encuentran
+ en
+ proceso
+ de
+ Evaluación
+ Ambiental
+ Estratégica
+ por
+ Microzonificación
+ en
+ la
+ Región
+de
+ Aysén
+ las
+ áreas
+ de
+ Islas
+ Huichas,
+ Archipiélago
+ de
+ Guaitecas
+ y
+ parte
+ del
+ Archipiélago
+ de
+ los
+ Chonos,
+ Isla
+Magdalena
+ y
+ Raúl
+ Marín
+ Balmaceda.
+ Dada
+ la
+ ubicación
+ del
+ proyecto,
+ esto
+ es,
+ noreste
+ de
+ Punta
+ Cesari,
+ Seno
+Ventisquero,
+ éste
+ se
+ encuentra
+ inserto
+ dentro
+ de
+ la
+ microzonificación
+ “Isla
+ Magdalena”,
+ en
+ la
+ “zona
+ preferente
+para
+ el
+ turismo
+ de
+ naturaleza
+ y
+ de
+ intereses
+ especiales”.
+ Con
+ miras
+ a
+ la
+ compatibilidad
+ del
+ proyecto
+ respecto
+ de
+la
+ zonificación,
+ se
+ proponen
+ los
+ siguientes
+ indicadores
+ de
+ seguimiento:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)|Obtención de<br>índice de impacto<br>igual o mayor a la<br>situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+|Limpieza de playa<br>en área del<br>proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo<br>|N° total de<br>limpiezas<br>semestral de<br>playa|Limpieza de playa 2<br>veces por semestre|Registro limpieza de<br>playa y fotografías<br>asociadas|
+|Integración<br>paisajística del<br>proyecto|Pontón de baja<br>altura y uso de<br>colores acorde al<br>fondo escénico|Encargado<br>centro de<br>cultivo<br>|Altura del<br>pontón y uso de<br>colores acorde al<br>fondo escénico|Mínimo corte<br>visual del pontón y<br>uso de colores<br>poco contrastantes<br>con el fondo<br>escénico|Modelación<br>fotográfica de las<br>obras a implementar<br>(incorporada en la<br>Declaración de<br>Impacto Ambiental),<br>lo cual se podrá<br>cotejar con la<br>evidencia objetiva del<br>centro de cultivo<br>implementado|
+
+**Plan
+ Regulador
+ de
+ Puerto
+ Cisnes
+ (1992,
+ modificaciones
+ 2001
+ y
+ 2004)
+ y
+ actualización
+ 2012** **[15]**
+
+El
+ lugar
+ de
+ emplazamiento
+ del
+ centro
+ de
+ Punta
+ Cesari
+ corresponde
+ al
+ sector
+ noreste
+ de
+ Punta
+ Cesari,
+ Seno
+Ventisquero,
+ por
+ lo
+ que
+ no
+ se
+ encuentra
+ inserto
+ en
+ las
+ áreas
+ urbanas
+ propias
+ del
+ Plan
+ Regulador
+ (Cines,
+ Cisnes
+Sector
+ Sur,
+ La
+ Junta,
+ Puerto
+ Raúl
+ Marín
+ Balmaceda
+ y
+ Puyuhuapi),
+ ni
+ en
+ aquellas
+ definidas
+ según
+ su
+ actualización
+2012
+ conforme
+ al
+ proceso
+ de
+ Evaluación
+ Ambiental
+ Estratégica.
+ No
+ obstante,
+ el
+ proyecto
+ en
+ evaluación
+contempla
+ los
+ siguientes
+ indicadores
+ de
+ cumplimientos:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Mejoramiento de<br>condiciones<br>ambientalesy|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo|Índice de<br>impacto de<br>Findleyy|Obtención de<br>índice de impacto<br>igualo mayora la|Declaración de<br>Impacto Ambiental y<br>RCA quecalifica|
+
+http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/195
+15 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/21
+
+|oceanográficas|Col2|Col3|Waitling (1997)|situación de<br>equilibrio|favorablemente la<br>relocalización|
+|---|---|---|---|---|---|
+|Limpieza de playa<br>en área del<br>proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo<br>|N° total de<br>limpiezas<br>semestral de<br>playa|Limpieza de playa 2<br>veces por semestre|Registro limpieza de<br>playa y fotografías<br>asociadas|
+|Integración<br>paisajística del<br>proyecto|Pontón de baja<br>altura y uso de<br>colores acorde al<br>fondo escénico|Encargado<br>centro de<br>cultivo<br>|Altura del<br>pontón y uso de<br>colores|Mínimo corte<br>visual del pontón y<br>uso de colores<br>poco contrastantes|Modelación<br>fotográfica de las<br>obras a implementar<br>(incorporada en la<br>Declaración de<br>Impacto Ambiental),<br>lo cual se podrá<br>cotejar con la<br>evidencia objetiva del<br>centro de cultivo<br>implementado|
+
+# 8 TEXTO
+ AVISO
+ RADIAL**
+
+"Se
+ le
+ comunica
+ a
+ la
+ comunidad
+ que
+ Acuícola
+ Puyuhuapi
+ S.A.
+ ha
+ ingresado
+ a
+ evaluación
+ ambiental,
+mediante
+ una
+ Declaración
+ de
+ Impacto
+ Ambiental,
+ su
+ proyecto
+ "Relocalización
+ Concesión
+ de
+Acuicultura
+ Punta
+ Cesari,
+ Comuna
+ de
+ Cisnes,
+ Provincia
+ de
+ Aisén,
+ Región
+ de
+ Aysen"
+ ubicada
+ en
+ Seno
+Ventisquero
+ al
+ Noreste
+ de
+ Punta
+ Cesari,
+ comuna
+ de
+ Cisnes,
+ provincia
+ de
+ Aysén,
+ Décimo
+ Primera
+Región
+ de
+ Aysén;
+ corresponde
+ a
+ la
+ relocalización
+ de
+ la
+ concesión
+ de
+ acuicultura
+ la
+ que
+ pretende
+producir
+ una
+ biomasa
+ máxima
+ de
+ 3.200
+ toneladas
+ de
+ salmones.
+
+La
+ totalidad
+ de
+ los
+ antecedentes
+ de
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ se
+ encuentran
+ disponibles
+ en
+el
+ sitio
+ web:
+ www.sea.gob.cl
+ y
+ en
+ las
+ oficinas
+ del
+ Servicio
+ de
+ Evaluación
+ Ambiental
+ de
+ la
+ Región
+ de
+Aysén,
+ ubicado
+ en
+ calle
+ Ogana
+ N°
+ 759,
+ Coyhaique.
+
+La
+ fecha
+ para
+ formular
+ las
+ observaciones
+ al
+ presente
+ proyecto
+ serán
+ las
+ estipuladas
+ de
+ acuerdo
+ al
+artículo
+ 87
+ del
+ D.S.
+ No
+ 40/2012"
+
+Medio
+ de
+ Difusión:
+Radio
+ Auténtica,
+ 99.5
+ FM
+Chorrillos
+ #
+ 570,
+ Puerto
+ Cisnes
+Fono:
+ 67-­‐2346352
+
+# 9 FIRMA
+ DE
+ LA
+ DECLARACIÓN**
+
+Bajo
+ juramento,
+ declaro
+ que,
+ sobre
+ la
+ base
+ de
+ los
+ antecedentes
+ presentados,
+ el
+ proyecto
+“RELOCALIZACIÓN
+ Concesión
+ de
+ acuicultura
+ PUNTA
+ CESARI,
+ COMUNA
+ DE
+ CISNES,
+ PROVINCIA
+ DE
+AISÉN,
+ DÉCIMO
+ PRIMERA
+ REGIÓN
+ DE
+ AYSEN”,
+ cumple
+ con
+ la
+ normativa
+ ambiental
+ vigente
+ asociada
+ a
+ la
+ejecución
+ del
+ proyecto
+ o
+ actividad.
+
+Ignacio
+ Ochagavía
+ Fuentes
+
+Representante
+ Legal
+Acuícola
+ Puyuhuapi
+ S.A.
+
+**ANEXOS**
+
+**ANEXO 1. ANTECEDENTES DOCUMENTALES**
+
+**ANEXO 2. FICHAS TÉCNICAS**
+
+**ANEXO 3. SISTEMA DE ENSILAJE**
+
+**ANEXO 4. MANUALES Y PROCEDIMIENTOS**
+
+**ANEXO 5. CARACTERIZACIÓN PRELIMINAR DE SITIO**
+
+**ANEXO 6. ESTUDIO DE PAISAJE**
+
+**ANEXO 6. ÁREA DE INFLUENCIA**

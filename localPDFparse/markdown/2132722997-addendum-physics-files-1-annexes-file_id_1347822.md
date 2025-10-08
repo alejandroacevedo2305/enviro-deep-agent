@@ -1,0 +1,60 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20171115195744-03'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ANEXO K “USUARIOS CON DERECHOS DE AGUA” ADENDA N°1 DECLARACIÓN DE IMPACTO AMBIENTAL AMPLIACIÓN DATA CENTER PARAM
+-->
+
+_**ANEXO**_ _**K**_ _**“Usuarios**_ _**con**_ _**Derechos**_ _**de**_ _**Agua”**_
+_**Inversiones**_ _**y**_ _**Servicios**_ _**Dataluna**_ _**Limitada**_
+
+# ANEXO K “USUARIOS CON DERECHOS DE AGUA” ADENDA N°1 DECLARACIÓN DE IMPACTO AMBIENTAL AMPLIACIÓN DATA CENTER PARAM
+
+## INVERSIONES Y SERVICIOS DATALUNA LIMITADA NOVIEMBRE 2017
+
+**C1602-MA-ADD-001-Anexo** **K** **Rev.** **0** **** | **** **Noviembre-17**
+
+|N°|Código de<br>Expediente|N°<br>Solicitud|Región|Provincia|Comuna|Nombre Solicitante|Caudal<br>Anual<br>Prom|Unidad de<br>Caudal|UTM<br>Norte<br>Captación<br>(m)|UTM<br>Este<br>Captación<br>(m)|Huso|Datum|UTM<br>Norte<br>Captación<br>(m) WGS84|UTM<br>Este<br>Captación<br>(m) WGS84|C.B.R.|Fojas|N° CBR|Año|Código<br>Expediente<br>Antiguo|N°<br>Certificado/<br>Año|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|ND-1306-601|1|Metropolitana|Santiago|Quilicura|CECINAS LA PREFERIDA S.A.|16,0|Lt/s|6306680|341065|19|1956|6306360|340864|||0|0|(6-5-285)||
+|2|ND-1306-601|2|Metropolitana|Santiago|Quilicura|CECINAS LA PREFERIDA S.A.|45,0|Lt/s|6306810|341205|19|1956|6306489|341005|||0|0|(6-5-285)||
+|3|ND-1306-829|1|Metropolitana|Santiago|Quilicura|DERCO S.A.|1,5|Lt/s|6306850|341340|19|1956|6306529|341139|||0|0|||
+|4|ND-1306-1117|1|Metropolitana|Santiago|Quilicura|DERCO S.A.|2,0|Lt/s|6306862|341481|19|1956|6306541|341280|||0|0|4T||
+|5|VPC-1306-342|1|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|25,0|Lt/s|6307331|341617|19|1956|6307010|341416|C.B.R. Santiago|111|171|2015||2493/2015|
+|6|NR-1306-109|1|Metropolitana|Santiago|Quilicura|MANFREDO GONZALEZ GUTIERREZ|40,0|Lt/s|6306415|341730|19|1956|6306094|341529|C.B.R. Santiago|145|207|2006||772/2006|
+|7|VPC-1306-256|1|Metropolitana|Santiago|Quilicura|READY MIX S.A.|10,0||6307075|341842|19|1956|6306754|34164|||0|0|||
+|8|VPC-1306-23|1|Metropolitana|Santiago|Quilicura|READY MIX S.A.|10,0|Lt/s|6306930|341900|19|1956|6306609|341699|C.B.R. Santiago|88|125|2005||1689/2005|
+|9|ND-1306-556|1|Metropolitana|Santiago|Quilicura|CONSTRUCTORA E INMOBILIARIA EL RODEO S.A.|18,0|Lt/s|6307557|342061|19|1956|6307230|341860|||0|0|(6-5-277)||
+|10|ND-1306-198|1|Metropolitana|Santiago|Quilicura|MIGUEL NENADOVICH DEL RIO|40,0|Lt/s|6307450|342140|19|1956|6307129|341941|C.B.R. Santiago|70|89|1995||1003/2008|
+|11|VPC-1306-329|1|Metropolitana|Santiago|Conchali|PATAGONICA INMOBILIARIA S.A.|1,5|Lt/s|6306842|342258|19|1956|6306521|342057|||0|0|VT-1306-193||
+|12|ND-1306-764|1|Metropolitana|Santiago|Pudahuel|INVERSIONES DANCO S.A.|1,5|Lt/s|6306842|342258|19|1956|6306521|342057|C.B.R. Santiago|370 VTA.|465|2000|||
+|13|VPC-1306-428|2|Metropolitana|Santiago|Quilicura|INVERSIONES Y SERVICIOS DATALUNA LIMITADA|16,0|Lt/s|6307921|342384|19|1956|6307600|342183|C.B.R. Santiago|63|86|2014||2596/2014|
+|14|VPC-1306-18|1|Metropolitana|Santiago|Conchali|PATAGONICA INMOBILIARIA S.A.|1,5|Lt/s|6307051|342413|19|1956|6306731|342212|||0|0|||
+|15|VPC-1306-371|1|Metropolitana|Santiago|Conchali|UNILEVER|30,0||6306721|342484|19|1956|6306401|342283|||0|0|||
+|16|ND-1306-241|1|Metropolitana|Santiago|Quilicura|B.BOSCH S.A.|10,0|Lt/s|6307610|342540|19|1956|6307289|342339|||0|0|||
+|17|VPC-1306-428|1|Metropolitana|Santiago|Quilicura|INVERSIONES Y SERVICIOS DATALUNA LIMITADA|34,0|Lt/s|6307889|342649|19|1956|6307569|342448|C.B.R. Santiago|63|86|2014||2593/2014|
+|18|VPC-1306-639|1|Metropolitana|Santiago|Quilicura|INMOBILIARIA QUEBEC SOCIEDAD ANONIMA|4,0||6306751|341339|19|1984|6306751|341339|||0|0|||
+|19|VPC-1306-497|1|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|60,0||6307822|341555|19|1956|6307501|341354|||0|0|||
+|20|VPC-1306-434|1|Metropolitana|Santiago|Maipu|INVERSIONES DE LA PATAGONIA S.A.|0,9||6306683|342365|19|1984|6306683|342365|||0|0|||
+|21|VPC-1306-453|1|Metropolitana|Santiago|Conchali|AGUAS ANDINAS S.A|33,0|Lt/s|6306105|342465|19|1984|6306105|342465|C.B.R. Santiago|113|154|2016||2602/2016|
+|22|VPC-1306-454|1|Metropolitana|Santiago|Conchali|AGUAS ANDINAS S.A|52,0|Lt/s|6306133|342558|19|1984|6306133|342558|C.B.R. Santiago|427|578|2015||1485/2016|
+|23|VPC-1306-455|1|Metropolitana|Santiago|Conchali|AGUAS ANDINAS S.A|50,0|Lt/s|6306060|342592|19|1984|6306060|342592|C.B.R. Santiago|430|580|2015||1494/2016|
+|24|VPC-1306-451|1|Metropolitana|Santiago|Conchali|AGUAS ANDINAS S.A.|41,0|Lt/s|6306190|342849|19|1984|6306190|342849|C.B.R. Santiago|117|155|2016||2625/2016|
+|25|VPC-1306-450|1|Metropolitana|Santiago|Huechuraba|AGUAS ANDINAS S.A|53,0|Lt/s|6307411|342924|19|1984|6307411|342924|C.B.R. Santiago|434|583|2015||1497/2016|
+|26|VPC-1306-446|1|Metropolitana|Santiago|Huechuraba|AGUAS ANDINAS S.A|43,0|Lt/s|6307387|343160|19|1984|6307387|343160|C.B.R. Santiago|435|584|2015||1503/2016|
+|27|VPC-1306-452|1|Metropolitana|Santiago|Huechuraba|AGUAS ANDINAS S.A|17,0|Lt/s|6307367|343375|19|1984|6307367|343375|C.B.R. Santiago|274|326|2016||4845/2016|
+|28|ND-1306-521|1|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|70,0|Lt/s|6307421|341627|19|1956|6307100|341426|C.B.R. Santiago|401|378|1996||2104/2009|
+|29|ND-1306-521|2|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|60,0|Lt/s|6307291|341765|19|1956|6306970|341564|C.B.R. Santiago|401|378|1996|||
+|30|ND-1306-538|2|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|70,0|Lt/s|6307287|341767|19|1956|6306966|341566|C.B.R. Santiago|400|377|1997||5451/2014|
+|31|ND-1306-538|1|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|5,0|Lt/s|6307368|341817|19|1956|6307047|341616|C.B.R. Santiago|400|377|1997||2102/2009|
+|32|ND-1306-521|3|Metropolitana|Santiago|Quilicura|COMPAÑIA CERVECERIAS UNIDAS S.A.|70,0|Lt/s|6307373|341822|19|1956|6307052|341621|C.B.R. Santiago|401|378|1996|||

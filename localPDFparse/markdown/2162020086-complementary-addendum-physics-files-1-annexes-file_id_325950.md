@@ -1,0 +1,21 @@
+---
+title: A1
+author: Desconocido
+date: D:20240308110436
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|N<br>O<br>C I<br>C<br>U<br>R<br>T<br>S<br>N<br>O<br>C<br>A<br>R<br>A<br>P<br>O<br>D<br>T I<br>M I<br>E<br>GERENCIA DE INGENIERIA|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|||||||||
+|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA<br>EMITIDO PARA CONSTRUCCION|GERENCIA DE INGENIERIA|GERENCIA DE INGENIERIA|GERENCIA DE INGENIERIA||||||
+|||||||||||||
+|||||||||||||
+|||||||||||||
+|||||||||||||
+|||||||||||||

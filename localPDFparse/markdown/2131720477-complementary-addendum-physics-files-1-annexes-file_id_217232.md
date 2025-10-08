@@ -1,0 +1,97 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20170206122006Z
+language: es
+type: report
+pages: 2
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+PROYECTO INMOBILIARIO CLUB DE CAMPO VITACURA ITO Asesorías Ltda. Febrero 2017, Santiago de Chile.
+
+ETAPA 4: PREPARACI ~~Ó~~ N DE TERRENO Y EXCAVACIÓN proyectos@itoasesorias.com | www.itoasesorias.com
+
+Informe: Tabla de resultados
+Modelo: Excavación
+LAeq por octavas: resultados totales de receptores
+Grupo: (grupo principal)
+Reducción de Grupo: No
+
+Nombre Total
+Receptor Altura Total 63 125 250 500 1000 2000 4000 8000
+R1_A 1,70 60 42 51 53 55 53 51 41 31
+R10_A 1,70 60 38 50 50 56 54 53 39 33
+R11_A 1,70 46 22 32 36 42 40 37 21 -R12_A 1,70 35 20 28 28 31 27 21 8 -R13_A 1,70 45 24 33 35 41 39 39 22 3
+
+R14_A 1,70 33 22 29 25 28 23 21 17 -R2_A 1,70 36 23 30 28 31 27 23 18 -R3_A 30,00 51 27 37 40 47 46 43 27 2
+R4_A 20,00 49 25 35 38 45 44 42 25 2
+R5_A 1,70 52 28 37 41 47 47 44 28 16
+
+R6_A 4,00 59 37 46 50 55 53 50 35 27
+R7_A 1,70 54 33 42 45 50 48 45 30 21
+R8_A 1,70 45 26 34 37 41 38 33 18 -R9_A 30,00 55 30 40 45 51 50 47 31 15
+RI_E1_A 1,70 42 26 33 35 39 35 31 22 2
+
+RI_E1_B 6,00 43 27 34 35 39 36 31 22 3
+RI_E1_C 10,00 44 27 35 36 40 37 32 23 4
+RI_E1_D 20,00 46 29 37 38 42 38 34 25 8
+RI_E1_E 30,00 46 31 38 38 43 39 34 28 12
+RI_E2_A 1,70 49 27 35 36 45 44 41 27 13
+
+RI_E2_B 6,00 49 28 35 37 45 44 42 28 15
+RI_E2_C 10,00 53 29 36 38 48 49 47 32 19
+RI_E2_D 20,00 56 31 40 43 52 51 49 34 21
+RI_E2_E 30,00 56 33 42 44 52 51 49 34 21
+RI_E3_A 1,70 50 27 35 38 46 45 42 27 18
+
+RI_E3_B 6,00 53 28 36 39 48 48 47 33 25
+RI_E3_C 10,00 57 30 38 44 53 52 50 34 26
+RI_E3_D 20,00 58 33 42 45 54 53 50 34 27
+RI_E3_E 30,00 56 34 42 45 52 50 48 33 24
+RI_E4_A 1,70 51 27 36 39 47 45 43 28 19
+
+RI_E4_B 6,00 54 28 37 40 49 48 49 33 25
+RI_E4_C 10,00 58 30 40 45 54 53 50 35 27
+RI_E4_D 20,00 58 33 43 46 54 53 51 35 27
+RI_E4_E 30,00 58 34 43 46 54 53 51 35 27
+RI_E5_A 1,70 51 28 36 39 47 45 43 29 19
+
+Todos los valores mostrados en dB son pond. A
+
+Predictor V10.10 06-02-2017 12:19:49
+
+PROYECTO INMOBILIARIO CLUB DE CAMPO VITACURA ITO Asesorías Ltda. Febrero 2017, Santiago de Chile.
+
+ETAPA 4: PREPARACI ~~Ó~~ N DE TERRENO Y EXCAVACIÓN proyectos@itoasesorias.com | www.itoasesorias.com
+
+Informe: Tabla de resultados
+Modelo: Excavación
+LAeq por octavas: resultados totales de receptores
+Grupo: (grupo principal)
+Reducción de Grupo: No
+
+Nombre Total
+Receptor Altura Total 63 125 250 500 1000 2000 4000 8000
+RI_E5_B 6,00 54 29 37 41 49 49 49 35 26
+RI_E5_C 10,00 58 31 40 46 54 53 51 38 28
+RI_E5_D 20,00 58 34 43 47 54 53 51 38 28
+RI_E5_E 30,00 56 34 43 46 52 51 49 37 26
+RI_E6_A 1,70 57 34 43 47 53 52 48 34 26
+
+RI_E6_B 6,00 67 41 51 55 62 62 60 48 42
+RI_E6_C 10,00 67 41 51 55 62 62 60 48 42
+RI_E6_D 20,00 65 41 51 54 61 60 58 45 40
+RI_E6_E 30,00 64 41 50 54 60 59 57 44 39
+RI_E7_A 1,70 58 34 44 47 55 53 49 35 27
+
+RI_E7_B 6,00 67 41 51 55 63 62 60 47 42
+RI_E7_C 10,00 67 41 51 55 63 62 60 47 42
+RI_E7_D 20,00 65 41 50 55 61 60 58 45 40
+RI_E7_E 30,00 64 41 50 54 60 59 57 45 39
+
+Todos los valores mostrados en dB son pond. A
+
+Predictor V10.10 06-02-2017 12:19:49

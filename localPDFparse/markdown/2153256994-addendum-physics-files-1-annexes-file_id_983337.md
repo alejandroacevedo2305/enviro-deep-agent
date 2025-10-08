@@ -1,0 +1,38 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20211227101540-04
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**357550**
+
+| ̄|Col2|Col3|
+|---|---|---|
+||PTAS||
+||||
+||||
+||||
+
+**357550**
+
+**357600**
+
+**357600**
+
+|LEYENDA|Ubicación Nacional|Ubicación Local|Fuente de información|Col5|Col6|PROYECTO MODIFICACIÓN DE ALIMENTACIÓN<br>ELÉCTRICA A PLANTA DESALADORA NORTE<br>Y NUEVA S/E DESALANT|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||Cartografía y Levantamiento de Información:<br>Elaboración propia en base a levantamiento<br>de información en terreno|Cartografía y Levantamiento de Información:<br>Elaboración propia en base a levantamiento<br>de información en terreno|Cartografía y Levantamiento de Información:<br>Elaboración propia en base a levantamiento<br>de información en terreno|Cartografía y Levantamiento de Información:<br>Elaboración propia en base a levantamiento<br>de información en terreno|Cartografía y Levantamiento de Información:<br>Elaboración propia en base a levantamiento<br>de información en terreno|Cartografía y Levantamiento de Información:<br>Elaboración propia en base a levantamiento<br>de información en terreno|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||**Escala gráfica y nominal**<br><br><br><br>|TITULAR|TITULAR|TITULAR|TITULAR|CONSULTORA|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||**Escala gráfica y nominal**<br><br><br><br>|TEMA<br>PAS138: Para la construcción, reparación, modificación y<br>ampliación de cualquier obra pública o particular destinada<br>a la evacuación, tratamiento o disposición final de desagües,<br>aguas servidas de cualquier naturaleza|TEMA<br>PAS138: Para la construcción, reparación, modificación y<br>ampliación de cualquier obra pública o particular destinada<br>a la evacuación, tratamiento o disposición final de desagües,<br>aguas servidas de cualquier naturaleza|TEMA<br>PAS138: Para la construcción, reparación, modificación y<br>ampliación de cualquier obra pública o particular destinada<br>a la evacuación, tratamiento o disposición final de desagües,<br>aguas servidas de cualquier naturaleza|TEMA<br>PAS138: Para la construcción, reparación, modificación y<br>ampliación de cualquier obra pública o particular destinada<br>a la evacuación, tratamiento o disposición final de desagües,<br>aguas servidas de cualquier naturaleza|TEMA<br>PAS138: Para la construcción, reparación, modificación y<br>ampliación de cualquier obra pública o particular destinada<br>a la evacuación, tratamiento o disposición final de desagües,<br>aguas servidas de cualquier naturaleza|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||**1:500**<br>0<br>10<br>20<br>5<br>m|**1:500**<br>0<br>10<br>20<br>5<br>m|**1:500**<br>0<br>10<br>20<br>5<br>m|**1:500**<br>0<br>10<br>20<br>5<br>m|**1:500**<br>0<br>10<br>20<br>5<br>m|**1:500**<br>0<br>10<br>20<br>5<br>m|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||**Datos Cartográficos y Geodésicos**<br>|**Datos Cartográficos y Geodésicos**<br>|**Datos Cartográficos y Geodésicos**<br>|**Datos Cartográficos y Geodésicos**<br>|**Datos Cartográficos y Geodésicos**<br>|**Datos Cartográficos y Geodésicos**<br>|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||**Datos Cartográficos y Geodésicos**<br>|CONTENIDO<br><br><br><br><br>Planta de Tratamiento de Aguas Servidas (PTAS)|CONTENIDO<br><br><br><br><br>Planta de Tratamiento de Aguas Servidas (PTAS)|CONTENIDO<br><br><br><br><br>Planta de Tratamiento de Aguas Servidas (PTAS)|CONTENIDO<br><br><br><br><br>Planta de Tratamiento de Aguas Servidas (PTAS)|CONTENIDO<br><br><br><br><br>Planta de Tratamiento de Aguas Servidas (PTAS)|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|**APÉNDICE**<br>|**FECHA**<br>|**FECHA**<br>|**LÁMINA**<br>|**FORMATO**<br>|
+|**Proyecto Modificación de Alimentación**<br>**Eléctrica a Planta Desaladora Norte y Nueva**<br>**S/E Desalant**<br>Instalación de Faenas<br>Planta de Tratamiento<br>de Aguas Servidas (PTAS)<br>Camino de Acceso|*** ; Acue rdo**<br>** L imítr ofe**<br>** Año 19 98**<br>k<br>**CHILE**<br>**Región de**<br>**Antofagasta**||Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 600 metros<br>Sistema de Referencia Geodésico Datum WGS84|PAS138|Diciembre 2021|Diciembre 2021|1_de_1|Tabloide|

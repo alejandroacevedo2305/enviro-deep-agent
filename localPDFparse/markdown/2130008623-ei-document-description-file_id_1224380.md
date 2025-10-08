@@ -1,0 +1,5858 @@
+---
+title: Microsoft Word - 5. DESCRIPCIÓN DE LAS PARTES.docx
+author: Desconocido
+date: D:20141127015252Z00'00'
+language: es
+type: report
+pages: 15
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**3.**
+**DESCRIPCIÓN
+ DE
+ LAS
+ PARTES,
+ ACCIONES
+ Y
+ OBRAS
+ FÍSICAS
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,**
+
+**literal
+ a.4).**
+
+El
+ proyecto
+ comprende
+ las
+ etapas
+ de
+ levantamiento
+ de
+ información,
+ construcción,
+ operación
+ y
+abandono.
+ De
+ acuerdo
+ al
+ artículo **14
+ del
+ D.S.
+ N°
+ 40
+ de
+ 2013**,
+ se
+ señala
+ que
+ el
+ presente
+ proyecto
+ no
+se
+ realiza
+
+ por
+ etapas,
+ es
+ decir,
+ si
+ bien
+ el
+ proyecto
+ técnico
+ menciona
+ instalación
+ de
+ líneas
+ durante
+los
+ primeros
+ cuatro
+ años
+ de
+ operación,
+ el
+ presente
+ proyecto
+ se
+ evaluara
+ desde
+ su
+ etapa
+ inicial
+hasta
+ la
+ final,
+ es
+ decir
+ es
+ un
+ proyecto
+ único
+ sin
+ fragmentación
+ y
+ por
+ tanto
+ se
+ trata
+ de
+ un
+ proyecto
+que
+ se
+ ejecutara
+ en
+ una
+ sola
+ fase.
+
+De
+ la
+ misma
+ manera
+ es
+ preciso
+ señalar
+ que
+ dada
+ la
+ naturaleza
+ del
+ proyecto
+ y
+ su
+ ubicación,
+ no
+ ha
+sido
+ necesario
+ iniciar
+ negociaciones
+ con
+ ninguna
+ entidad
+ y/o
+ personas
+ naturales
+ del
+ sector
+involucrado
+ en
+ la
+ ejecución
+ del
+ proyecto
+ de
+ acuerdo
+ al
+ artículo **17
+ del
+ D.S.
+ N°
+ 40
+ de
+ 2013.**
+
+_**3.1**_
+_**Levantamiento
+ de
+ Información**_
+
+En
+ esta
+ etapa
+ del
+ proyecto
+ se
+ realizaron
+ los
+ estudios
+ en
+ terreno
+ para
+ la
+ caracterización
+ preliminar
+del
+ sitio,
+ cuyos
+ resultados
+ se
+ presentan
+ en **anexo
+ 3** de
+ este
+ informe.
+
+**CUADRO
+ RESUMEN
+ POR
+ ETAPA
+ DEL
+ PROYECTO**
+
+|Contenidos Mínimos<br>DIA|Col2|Página|
+|---|---|---|
+|Artículo 12|Proyecto trata de una solicitud de acuicultura para realizar cultivo de<br>mitílidos, por tanto corresponde a un proyecto nuevo|8|
+|Artículo 13|Articulo 9 Ter, ley 20417|33|
+|Artículo 14|El proyecto no se realiza por etapas|44|
+|Artículo 15|Relación con las políticas y planes evaluados estratégicamente|44|
+|Artículo 16|Inicio de ejecución del proyecto: instalación de fondeos|49|
+|Artículo 17|No se ha iniciado negociaciones con ninguna entidad y/o personas<br>naturales|48|
+|Artículo 19, literal a.1)|Descripción del proyecto o actividad|6|
+|Artículo 19, literal a.2)|Antecedentes generales del proyecto|6|
+|Artículo 19, literal a.3)|Localización del proyecto|10|
+|Artículo 19, literal a.4)|Descripción de las partes, acciones y obras físicas|48|
+|Artículo 19, literal a.5)|Etapa de construcción|49|
+|Artículo 19, literal a.6)|Etapa de operación|54|
+|Artículo 19, literal a.7)|Etapa de abandono|61|
+|Artículo 19, literal a.8)|Planes de mitigación y contingencia|63|
+
+_**3.2**_
+_**ETAPA
+ DE
+ CONSTRUCCIÓN
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.5).**_
+
+**3.2.1**
+**Partes,
+ obras
+ y
+ acciones
+ de
+ la
+ etapa
+ de
+ construcción**
+
+El
+
+ inicio
+ del
+ proyecto
+ en
+ el
+ sitio
+ se
+ considera
+ a
+ partir
+ de
+ la
+ instalación
+ de
+ los
+ muertos
+ para
+ el
+sistema
+ de
+ fondeo
+ de
+ las
+ líneas
+ madres
+ en
+ el
+ centro
+ de
+ cultivo
+ ( **Artículo
+ 16
+ del
+ D.S.
+ No
+ 40/2012**,
+hito
+ de
+ inicio).
+ Esta
+ etapa
+ contempla
+ la
+ instalación
+ de
+ 80
+ líneas
+ madres
+ dobles
+ de
+ 100
+ m
+ cada
+ una,
+de
+ cada
+ línea
+ madres
+ se
+ instalarán
+ cuelgas
+ de
+ 8
+ m
+ de
+ largo
+ dispuestas
+ cada
+ 40
+ cm
+aproximadamente,
+ por
+ tanto
+ por
+ tratarse
+ de
+ líneas
+ dobles
+ de
+ 100
+ m
+ de
+ longitud
+ se
+ prevé
+ la
+instalación
+ de
+ 500
+ cuelgas
+ por
+ línea
+ madre,
+ para
+ producir
+ 1.920
+ toneladas
+ a
+ partir
+ del
+ primer
+ año
+de
+ operación,
+ que
+ corresponde
+ a
+ la
+ máxima
+ biomasa
+ en
+ cultivo.
+
+Cabe
+ destacar
+ que
+ todas
+ las
+ artes
+ de
+ cultivo
+ así
+ como
+ también
+ las
+ instalaciones
+ de
+ apoyo,
+ se
+encontrarán
+ en
+ concordancia
+ con
+ lo
+ indicado
+ en
+ Artículos
+ 67
+ bis
+ y
+ 74
+ de
+ la
+ Ley
+ N°
+ 18.892
+ Ley
+General
+ de
+ Pesca
+ y
+ Acuicultura,
+ así
+ como
+ lo
+ señalado
+ en
+ Artículo
+ 2°
+ letra
+ v
+ del
+ DS
+ N°
+ 320/2001
+Reglamento
+ Ambiental
+ para
+ la
+ Acuicultura
+ RAMA;
+ es
+ decir,
+ dentro
+ del
+ área
+ concesionada;
+ sin
+embargo,
+ no
+ se
+ dispone
+ de
+ los
+ planos
+ aún
+ debido
+ a
+ que
+ posterior
+ a
+ la
+ RCA
+ se
+ realizan
+ los
+ estudios
+oceanográficos
+ específicos
+ para
+ determinar
+ su
+ posición
+ y
+ configuración,
+ en
+ el **anexo
+ 3** se
+ presenta
+la
+ ubicación
+ referencial
+ de
+ las
+ líneas
+ madres.
+ La
+ siguiente
+ tabla
+ resume
+ el
+ número
+ de
+ líneas
+ a
+ingresar
+ al
+ centro.
+
+_Tabla
+ 11.
+ Ingreso
+ de
+ estructuras
+ de
+ cultivo_
+
+|Estructuras de cultivo Instaladas por Año a Evaluar|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|<br>Año <br>|<br>1 <br>|<br>2 <br>|<br>3 <br>|<br>4 <br>|<br>5 <br>|<br>Total <br>|Dimensión (m) <br>|Longitud (m) <br>|
+|(Líneas madres/Año)|8|16|32|24|0|80|16.000|100 dobles|
+
+La
+ etapa
+ de
+ construcción
+ consta
+ de
+ la
+ instalación
+ de
+ 80
+ líneas
+ madres
+ dobles
+ de
+ 100
+ m
+ de
+ largo
+ (al
+ser
+ dobles
+ tienen
+ una
+ longitud
+ total
+ de
+ 200
+ m
+ que
+ van
+ por
+ ambos
+ lados
+ de
+ los
+ flotadores.
+
+**3.2.1.1**
+**Líneas
+ Madres
+ y
+ Cuelgas**
+
+La
+ tecnología
+ de
+ cultivo
+ a
+ utilizar
+ por
+ el
+ presente
+ proyecto
+ corresponde
+ a
+ líneas
+ madres
+ dobles,
+con
+ una
+ longitud
+ total
+ de
+ 200
+ m,
+ pero
+ dispuestas
+ de
+ tal
+ manera
+ que
+ la
+ línea
+ tendrá
+ una
+ longitud
+de
+ 100
+ m
+ de
+ largo,
+ ya
+ que
+ se
+ amarraran
+ a
+ ambos
+ lados
+ de
+ los
+ flotadores.
+ Serán
+ de
+ cabo
+ de
+polipropileno
+ de
+ 24
+ mm
+ y
+ se
+ dispondrán
+ de
+ manera
+ paralela
+ entre
+ líneas
+ a
+ una
+ distancia
+aproximada
+ de
+ 10
+ m.
+
+Para
+ mantener
+ la
+ flotabilidad
+ de
+ las
+ líneas,
+ se
+ utilizarán
+ boyas
+ de
+ plástico
+ de
+ 350
+ l
+ de
+ color
+ negro
+preferentemente.
+
+De
+ cada
+ línea
+ penderán
+ cuelgas
+ de
+ cultivo.
+ Las
+ cuelgas
+ de
+ cultivo
+ serán
+ de
+ 8
+ m
+ de
+ longitud
+ y
+ se
+dispondrán
+ a
+ una
+ distancia
+ aproximada
+ de
+ 40
+ cm,
+ haciendo
+ un
+ total
+ aproximado
+ por
+ línea
+ de
+ 500.
+En
+ caso
+ de
+ tratarse
+ de
+ cuelgas
+ de
+ captación
+ con
+ colectores,
+ están
+ se
+ amarran
+ a
+
+ la
+ línea
+ de
+ cultivo
+mediante
+ un
+ cabo
+ de
+ polipropileno
+ de
+ 2,5
+ a
+ 3
+ mm
+ de
+ diámetro
+ separadas
+ entre
+ sí
+ a
+ una
+ distancia
+aproximada
+ de
+ 10
+ cm
+ entre
+ cada
+ par,
+ por
+ lo
+ que
+ cada
+ línea
+ podría
+ llegar
+ a
+ tener
+ un
+ máximo
+ de
+4.000
+ colectores.
+
+**3.2.1.2**
+**Fondeos**
+
+El
+ centro
+ de
+ cultivo
+ considera
+ preliminarmente
+ el
+ uso
+ de
+ muertos
+ de
+ concreto
+ de
+aproximadamente
+ 12.000
+ k.
+ Tal
+ como
+ se
+ estableció
+ en
+ el
+ punto
+ anterior,
+ cada
+ línea
+ tendrá
+ boyas
+
+para
+ asegurar
+ su
+ flotabilidad
+ de
+ 350
+ l
+ cada
+ una,
+ estas
+ se
+ dispondrán
+ cada
+ 3
+ a
+ 4
+ m;
+ en
+ tanto
+ en
+ cada
+puntera
+ o
+ extremo
+ de
+ cada
+ línea
+ se
+ dispondrá
+ una
+ boya
+ de
+ 1000
+ l
+ cada
+ una
+ y
+ serán
+ ancladas
+ a
+muertos
+ de
+ concreto
+ mediante
+ cadenas
+ de
+ 19
+ mm,
+ grilletes
+ de
+ acero
+ galvanizado
+ de
+ 7/8,
+ cabo
+ de
+polipropileno
+ de
+ 1
+ 1⁄4
+ de
+ diámetro
+ y
+ cable
+ de
+ acero
+ de
+ una
+ pulgada.
+ La
+ decisión
+ final
+ respecto
+ a
+ este
+punto
+ será
+ tomada
+ en
+ consideración
+ a
+ lo
+ sugerido
+ por
+ la
+ empresa
+ que
+ entregue
+ el
+ servicio
+ de
+fondeo
+ de
+ estructuras
+ entregando
+ la
+ memoria
+ de
+ cálculo
+ cuando
+ la
+ autoridad
+ lo
+ solicite.
+ (Ver
+Figura
+ 14).
+
+_Figura
+ 14.
+ Esquema
+ del
+ sistema
+ de
+ fondeo._
+
+**3.2.1.3**
+**Construcción
+ unidades
+ de
+ cultivo**
+
+A
+ construcción
+ de
+ las
+ unidades
+ de
+ cultivo
+ consta
+ de
+ tres
+ etapas:
+
+ Construcción
+ del
+ fondeo:
+ consiste
+ básicamente
+ en
+ un
+ cubo
+ de
+ concreto
+ de
+aproximadamente
+ 12
+ mil
+ kilos,
+ con
+ un
+ anillo
+ de
+ fierro
+ de
+ una
+ pulgada
+ de
+ diámetro
+aproximadamente,
+ ubicado
+ en
+ la
+ cara
+ superior
+ del
+ muerto
+ cuya
+ función
+ es
+ unir
+ el
+ muestro
+al
+ grillete
+ y
+ guardacabo
+ de
+ cada
+ línea
+ madre.
+ Esta
+ faena
+ la
+ realizará
+ el
+ titular
+ contratando
+servicio
+ de
+ terceros,
+ es
+ decir,
+ adquirirá
+ los
+ muertos
+ armados.
+
+ Armado
+ de
+ las
+ Líneas:
+ Las
+ líneas
+ dobles
+ que
+ conforman
+ la
+ línea
+ madre
+ de
+ 100
+ m
+ de
+longitud,
+ serán
+ suspendidas
+ en
+ sus
+ extremos
+ por
+ boyas
+ punteras
+ de
+ 1000
+ Kg,
+ mientras
+ que
+internamente
+ la
+ línea
+ madre
+ se
+ suspenderá
+ por
+ boyas
+ de
+ un
+ volumen
+ de
+ 350
+ litros,
+ las
+ que
+son
+ fijadas
+ con
+ un
+ cabo
+ de
+ polipropileno
+ de
+ 14
+ mm
+ de
+ diámetro,
+ el
+ cual
+ es
+ amarrado
+ a
+través
+ de
+ la
+ línea
+ madre,
+ para
+ evitar
+ desplazamientos.
+
+ Instalación
+ de
+ la
+ línea.
+ Consiste
+ en
+ trasladar
+ primero
+ los
+ anclajes,
+ utilizando
+ para
+ ello
+ la
+embarcación
+ ya
+ sea
+ del
+ titular
+ o
+ de
+ la
+ empresa
+ que
+ el
+ titular
+ contrate
+ para
+ estas
+ faenas.
+
+Posteriormente,
+ se
+ procede
+ a
+ instalar
+ las
+ líneas
+ de
+ cultivo
+ armadas
+ con
+ las
+ boyas.
+ La
+ línea
+de
+ cultivo
+ se
+ une
+ a
+ los
+ cabos
+ de
+ fondeo
+ de
+ cada
+ anclaje
+ y
+ luego
+ es
+ tensada
+ con
+ la
+embarcación,
+ para
+ lograr
+ una
+ adecuada
+ disposición
+ de
+ la
+ línea
+ en
+ el
+ agua.
+
+Cabe
+ destacar
+ que
+ para
+ la
+ construcción
+ de
+ las
+ unidades
+ de
+ cultivo,
+ el
+ Titular
+ contratará
+ el
+ servicio
+a
+ terceros,
+ para
+ el
+ armado
+ de
+ las
+ líneas
+ en
+ la
+ concesión
+ de
+ acuicultura
+ no
+ se
+ ocuparán
+ terrenos
+ de
+playa
+ aledaños,
+ estas
+ se
+ realizarán
+ en
+ barcazas
+ habilitadas
+ para
+ ello,
+ que
+ cuenten
+ con
+ una
+plataforma
+ de
+ trabajo
+ y
+ brazo
+ hidráulico
+ que
+ permita
+ realizar
+ toda
+ la
+ logística
+ pertinente
+ a
+ esta
+faena.
+
+El
+ centro
+ de
+ cultivo
+ no
+ contara
+ con
+ plataformas
+ de
+ trabajo,
+ cuando
+ las
+ faenas
+
+ requieran
+ de
+ una
+plataforma,
+ éstas
+ serán
+ transportadas
+ al
+ lugar
+ mediante
+ embarcaciones
+ y
+ éstas
+ últimas
+ también
+contarán
+ con
+ una
+ plataforma
+ para
+ apoyar
+ las
+ faenas.
+ Dicho
+ de
+ otra
+ manera
+ el
+ área
+ solicitada
+ en
+concesión
+ solo
+ contará
+ con
+ las
+ estructuras
+ de
+ cultivo,
+ no
+ habrá
+ pontón
+ habitable,
+ ya
+ que
+ no
+ se
+considera
+ que
+ el
+ personal
+ que
+ labore
+ para
+ la
+ empresa
+ deba
+ permanecer
+ en
+ el
+ centro
+ de
+ cultivo
+(ver
+ etapa
+ de
+ operación).
+
+Finalizada
+ la
+ etapa
+ de
+ construcción,
+ el
+ centro
+ de
+ cultivo
+ contará
+ con
+ la
+ siguiente
+ infraestructura:
+
+ 80
+ Líneas
+ madres.
+
+ 500
+ cuelgas
+ de
+ cultivo
+ aproximadamente
+ por
+ línea
+
+ Barcazas
+ de
+ trabajo
+ y
+ apoyo
+ logístico
+ y
+
+ embarcaciones
+ menores
+ con
+ motor
+ para
+ el
+traslado
+ de
+ insumos
+ o
+ personas
+ fuera
+ del
+ área
+ del
+ centro
+ de
+ cultivo.
+
+**3.2.2**
+**Fechas
+ estimadas
+ para
+ inicio
+ etapa
+ de
+ construcción**
+
+Se
+ estima
+ que
+ el
+ inicio
+ de
+ las
+ obras
+ de
+ construcción
+ del
+ proyecto
+ será
+ durante
+ el
+ primer
+ semestre
+del
+ año
+ 2016,
+ dependiendo
+ de
+ la
+ obtención
+ de
+ la
+ Resolución
+ de
+ Calificación
+ Ambiental.
+
+Tabla
+ 12.
+ Fecha
+ inicio
+ etapa
+ construcción.
+
+|Etapa|Fecha Inicio|Fecha Término|
+|---|---|---|
+|Construcción|Marzo 2016|Mayo 2016|
+
+(*)
+ Todas
+ estas
+ fechas
+ son
+ sólo
+ referenciales,
+ pues
+ están
+ sujetas
+ a
+ la
+ fecha
+ de
+ obtención
+ de
+ la
+ RCA
+ que
+
+califique
+ favorablemente
+ el
+ proyecto.
+
+**3.2.3**
+**Cronograma
+ de
+ actividades
+ en
+ etapa
+ de
+ construcción**
+
+Tabla
+ 13.
+ Cronograma
+ de
+ actividades
+
+|Actividad/Mes|1|2|3|
+|---|---|---|---|
+|Compra cabos, grilletes, materiales en general <br>|X <br>|<br>|<br>|
+|Compra muertos|X|||
+|Armado Líneas madres <br>|<br>|X <br>|<br>|
+|Instalación sistema de cultivo||X|X|
+
+**3.2.4**
+**Mano
+ de
+ Obra
+ etapa
+ de
+ construcción**
+
+Tabla
+ 14.
+ Mano
+ de
+ obra
+
+|Etapa|Mano de obra promedio|Mano de obra máximo|
+|---|---|---|
+|Etapa de construcción|3|6|
+
+**3.2.5**
+**Provisión
+ suministros
+ básicos**
+
+La
+ etapa
+ de
+ construcción
+ será
+ sub
+ contratada
+ a
+ empresas
+ que
+ se
+ dedican
+ a
+ la
+ instalación
+ de
+fondeos
+ y
+ estructuras
+ de
+ cultivo,
+ estas
+ empresas
+ cuentan
+ con
+ 100%
+ de
+ autonomía,
+ por
+ tanto
+ todos
+los
+ suministros
+ básicos
+ tales
+ como
+ agua
+ potable,
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+aguas
+ servidas,
+ energía,
+ alimentación,
+ alojamiento
+ y
+ transporte
+ del
+ personal
+ está
+ dado
+ por
+ las
+embarcaciones
+ que
+ utilizan
+ para
+ estas
+ faenas.
+
+**3.2.6**
+**Cantidad
+ de
+ recursos
+ naturales
+ renovables
+ a
+ extraer
+ o
+ explotar**
+
+El
+ proyecto
+ NO
+ considera
+ la
+ extracción
+ ni
+ explotación
+ de
+ ningún
+ recurso
+ natural
+ renovable
+ en
+ la
+etapa
+ de
+ construcción
+ del
+ proyecto.
+
+**3.2.7**
+**Emisiones
+ del
+ proyecto
+ o
+ actividad
+ y
+ las
+ formas
+ de
+ abatimiento
+ y
+ control**
+**contempladas**
+
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ significativas
+ en
+ la
+ etapa
+ de
+ Construcción
+ del
+ proyecto
+ya
+ que
+ sólo
+ se
+ puede
+ considerar
+ las
+ emisiones
+ generadas
+ por
+ los
+ motores
+ de
+ las
+ embarcaciones
+que
+ trabajarán
+ en
+ la
+ instalación
+ de
+ la
+ infraestructura
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+a
+ fuentes
+ móviles
+ y
+ autónomas
+ que
+ se
+ utilizan
+ como
+ combustible
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ el
+cual
+ principalmente
+ genera
+ emisiones
+ de
+ vapor
+ de
+ agua
+ reduciendo
+ en
+ un
+ 90%
+ la
+ generación
+ de
+CO 2 n
+ comparación
+ al
+ uso
+ de
+ combustibles
+ fósiles.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+tendrán
+ una
+ duración
+ máxima
+ de
+ 8
+ horas
+ diarias,
+ pero
+ su
+ utilización
+ será
+ en
+ forma
+ intermitente.
+
+Por
+ otra
+ parte,
+ la
+ localización
+ del
+ proyecto
+ se
+ encuentra
+ en
+ un
+ sector
+ con
+ una
+ alta
+ ventilación,
+ por
+lo
+ cual
+ las
+ generaciones
+ de
+ emisiones
+ atmosféricas
+ se
+ verán
+ reducidas
+ al
+ mínimo.
+
+**3.2.8**
+**Cantidad
+ y
+ manejo
+ de
+ residuos,
+ productos
+ químicos
+ y
+ otras
+ sustancias
+ que
+ puedan**
+**afectar
+ el
+ medio
+ ambiente.**
+
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ construcción
+ NO
+ requerirá
+ del
+ uso
+ de
+ sustancias
+ químicas,
+ productos
+ u
+otras
+ sustancias
+ que
+ generen
+ algún
+ tipo
+ de
+ residuos
+
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+ la
+ instalación
+ y
+ fondeo
+ de
+ las
+ unidades
+ de
+ cultivo,
+sistema
+ de
+ anclaje
+ y
+ fondeo
+ serán
+ retirados
+ por
+ las
+ mismas
+ empresas
+ de
+ servicio
+ encargadas
+ de
+cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+ estos
+ elementos
+ residuales
+ quede
+ ya
+sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+De
+ la
+ misma
+ manera
+ los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+circunscritos
+ a
+ las
+ aguas
+ servidas.
+ Las
+ embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ fondeo
+ e
+instalación
+ de
+ las
+ estructuras
+ de
+ cultivo
+ cuentan
+ con
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+de
+ aguas
+ servidas
+ homologadas
+ y
+ aprobadas
+ por
+ la
+ autoridad
+ marítima.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ser
+ dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+_**3.3**_
+_**ETAPA
+ DE
+ OPERACIÓN
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.6)**_
+
+**3.3.1**
+**Etapa
+ de
+ Operación**
+
+Para
+ la
+ realización
+ de
+ todas
+ las
+ actividades
+ durante
+ la
+ etapa
+ de
+ operación
+ del
+ centro
+ de
+ cultivo
+ se
+dispondrá
+ de
+ 4
+ personas.
+ Adicionalmente
+ el
+ proyecto
+ podrá
+ disponer
+ para
+ las
+ principales
+actividades
+ de
+ esta
+ etapa
+ (encordado
+ de
+ semilla
+ y
+ cosecha)
+ de
+ la
+ prestación
+ de
+ servicios
+ por
+ parte
+de
+ empresas
+ externas
+ que
+ cuentan
+ con
+ barcazas
+ equipadas
+ especialmente
+ para
+ realizar
+ este
+ tipo
+de
+ faenas
+ en
+ centros
+ de
+ cultivo
+ de
+ mitílidos.
+
+El
+ personal
+ que
+ labora
+ en
+ este
+ centro
+ corresponde
+ idealmente
+ a
+ personas
+ de
+ los
+ centros
+ poblados
+cercanos
+ al
+ centro
+ de
+ cultivo.
+
+Esta
+ fase
+ corresponde
+ a
+ la
+ captación,
+ engorda,
+ cosecha
+ de
+ mitílidos
+ y
+ mantención
+ de
+ las
+ unidades
+de
+ cultivo
+ post
+ cosecha
+ del
+ centro
+ de
+ cultivo.
+
+La
+ operación
+ del
+ centro
+ comienza
+ instalando
+ los
+ colectores
+ de
+ red
+ de
+ una
+ longitud
+ que
+ varía
+ entre
+de
+ 4
+ a
+ 8
+ m.
+ Estos
+ se
+ instalan
+ en
+ los
+ long-­‐line
+ para
+ que
+ se
+ realice
+ la
+ captación
+ de
+ semillas
+ de
+mitílidos,
+ su
+ crecimiento
+ y
+ posterior
+ encordado
+ para
+ crecimiento,
+ engorda
+ y
+ cosecha.
+
+La
+ tecnología
+ de
+ cultivo
+ corresponde
+ a
+ Líneas
+ Madres
+ doble
+ de
+ 100
+ mt.,
+ en
+ los
+ cuales
+ se
+ instalarán
+alrededor
+ de
+ 2000
+ colectores
+ de
+ semillas
+ por
+ cada
+ línea
+ de
+ cultivo
+ y
+ hasta
+ 500
+ cuelgas
+ de
+ engorda,
+las
+ cuales
+ podrán
+ alcanzar
+ un
+ peso
+ final
+ aproximado
+ de
+ 48
+ kg.
+
+**3.3.1.1**
+**Obtención
+ de
+ Semilla**
+
+Para
+ la
+ obtención
+ de
+ semillas,
+ con
+ el
+ propósito
+ de
+ asegurar
+ una
+ buena
+ producción,
+ el
+ presente
+proyecto
+ considera
+ dos
+ opciones:
+ 1)
+ captación
+ propia
+ en
+ el
+ mismo
+ centro
+ de
+ cultivo
+ y
+ 2)
+ la
+ compra
+de
+ semillas
+ desde
+ centros
+ autorizados.
+
+Para
+ estos
+ efectos
+ debe
+ considerarse
+ lo
+ siguiente:
+
+ Captación:
+ Para
+ la
+ obtención
+ de
+ semillas,
+ se
+ utilizará
+ un
+ sistema
+ de
+ colectores,
+ situados
+ en
+la
+ misma
+ área
+ de
+ concesión,
+ proporcionando
+ así
+ un
+ sustrato
+ adecuado
+ para
+ la
+ fijación
+ de
+éstas.
+ Este
+ sistema
+ considera
+ el
+ empleo
+ de
+ colectores
+ de
+ 25
+ cm
+ de
+ ancho
+ con
+ una
+ longitud
+que
+ podría
+ ser
+ entre
+ 4
+ a
+ 8
+ m
+ de
+ largo,
+ los
+ cuales
+ consisten
+ en
+ redes
+ de
+ pesca
+ en
+ desuso.
+
+ Compra
+ de
+ semillas:
+ Se
+ considera
+ la
+ adquisición
+ de
+ semillas
+ a
+ centros
+ de
+ captación
+tradicionales
+ ubicados
+ en
+ el
+ sector
+ así
+ como
+ también
+ dentro
+ de
+ la
+ Provincia
+ de
+ Última
+Esperanza.
+
+Las
+ semillas
+ permanecerán
+ en
+ los
+ colectores
+ hasta
+ que
+ alcancen
+ una
+
+ talla
+ adecuada
+ para
+ su
+posterior
+ encordado
+ para
+ crecimiento,
+ engorda
+ y
+ cosecha.
+
+**3.3.1.2**
+**Engorda**
+
+Una
+ vez
+ alcanzado
+ el
+ tamaño
+ de
+ semilla
+ óptimo,
+ esta
+ será
+ seleccionada
+ por
+ tamaño
+ o
+ “calibre”,
+para
+ su
+ posterior
+ encordado.
+ El
+ periodo
+ de
+ siembra
+ comenzará
+ una
+ vez
+ seleccionada
+ y
+ clasificada
+la
+ semilla
+ en
+ el
+ centro
+ de
+ cultivo,
+ y
+ se
+ estima
+ que
+ podrá
+ ser
+ desde
+ marzo,
+ pudiendo
+ extenderse
+hasta
+ finales
+ de
+ noviembre.
+ En
+ esta
+ etapa
+ sé
+ pondrá
+ especial
+ cuidado
+ en
+ la
+ selección
+ y
+ la
+ adecuada
+distribución
+ de
+ la
+ semilla
+ en
+ las
+ cuerdas
+ de
+ engorda,
+ asegurando
+ que
+ estas
+ lleven
+ la
+ cantidad
+necesaria
+ para
+ obtener
+ una
+ cuerda
+ de
+ buen
+ rendimiento,
+ y
+ evitar
+ posteriores
+ manejos
+ y
+mortalidades
+ no
+ deseadas.
+
+El
+ sistema
+ de
+ producción
+ contempla
+ la
+ menor
+ cantidad
+ de
+ manejos
+ entre
+ captación,
+ siembra
+ y
+engorda,
+ pues
+ los
+ colectores
+ son
+ instalados
+ hasta
+ llegar
+ a
+ la
+ cosecha
+ sin
+ necesidad
+ de
+ posteriores
+
+raleos
+ o
+ desdobles,
+ al
+ igual
+ que
+ las
+ cuerdas
+ de
+ engorda.
+ Esto,
+ con
+ la
+ finalidad
+ de
+ optimizar
+ el
+crecimiento
+ y
+ evitar
+ desprendimientos
+ de
+ semilla
+ inherentes
+ a
+ cualquier
+ faena
+ de
+ manipulación
+ de
+colectores
+ o
+ cuelgas.
+ Sin
+ embargo,
+ en
+ caso
+ de
+ ser
+ necesario
+ realizar
+ la
+ mantención
+ o
+ limpieza
+ del
+sistema
+ de
+ cultivo,
+ esta
+ se
+ realizará
+ utilizando
+ ya
+ sea
+ una
+ plataforma
+ flotante
+ que
+ se
+ trasladará
+ al
+lugar
+ o
+ directamente
+ en
+ el
+ interior
+ de
+ la
+ barcaza
+ habilitada
+ con
+ brazo
+ hidráulico
+ y
+ plataforma
+ de
+trabajo
+ en
+ su
+ interior.
+ Esta
+ faena
+ se
+ realizará
+ con
+ el
+ máximo
+ de
+ cuidado
+ re
+ reunir
+ toda
+ la
+ semilla
+que
+ eventualmente
+ se
+ desprenda
+ para
+ ser
+ sembrada
+ nuevamente.
+
+**3.3.1.3**
+**Cosecha**
+
+Esta
+ actividad
+ será
+ realizada
+ con
+ apoyo
+ de
+ la
+ embarcación
+ ya
+ sea
+ del
+ titular
+ o
+ de
+ terceros
+ y
+ un
+ bote
+auxiliar.
+ Las
+ cuelgas
+ serán
+ colocadas
+ sobre
+ la
+ superficie
+ de
+ la
+ embarcación,
+ donde
+ se
+ procederá
+ a
+desprender
+ o
+ desgranar
+ los
+ mitílidos
+ para
+ su
+ posterior
+ traslado
+ en
+ contenedores
+ a
+ planta
+ de
+proceso.
+
+Dependiendo
+ de
+ la
+ fecha
+ de
+ siembra
+ y
+ del
+ tamaño
+ de
+ la
+ semilla
+ utilizada,
+ se
+ pueden
+ obtener
+individuos
+ de
+ talla
+ comercial
+ desde
+ aproximadamente
+ el
+ octavo
+ mes
+ desde
+ la
+ siembra
+ una
+ vez
+ que
+la
+ cuerda
+ de
+ crecimiento-­‐engorda
+ alcanza
+ un
+ peso
+ aproximado
+ de
+ 48
+ kg.
+
+**3.3.1.4**
+**Mantención
+ unidades
+ de
+ cultivo
+ post-­‐cosecha**
+
+Una
+ vez
+ terminada
+ la
+ cosecha
+ se
+ procederá
+ con
+ la
+ mantención
+ del
+ sistema
+ de
+ cultivo.
+ Esto
+considera
+ la
+ reparación,
+ limpieza
+ y
+ reflote
+ del
+ sistema
+ de
+ cultivo.
+ Esta
+ actividad
+ durará
+ alrededor
+de
+ 1
+ mes.
+ Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ esta
+ actividad
+ se
+ podrá
+ realizar
+ cada
+ vez
+ que
+ el
+ sistema
+ de
+cultivo
+ lo
+ requiera.
+ Para
+ ello,
+ se
+ hará
+ una
+ revisión
+ periódica
+ de
+ las
+ instalaciones.
+ Las
+ actividades
+ a
+realizar
+ son
+ las
+ siguientes:
+
+Reflote
+ de
+ Líneas
+ y
+ Reparación
+ de
+ Sistemas:
+ Esta
+ actividad
+ consiste
+ en
+ reparar
+ y
+ reflotar
+ aquellas
+líneas
+ madres
+ que
+ presenten
+ algún
+ desperfecto
+ o
+ hundimiento
+ total
+ o
+ parcial
+ por
+ la
+ pérdida
+ de
+unidades
+ de
+ flotación.
+ En
+ caso
+ de
+ pérdida
+ de
+ boyas,
+ estas
+ serán
+ repuestas
+ y/o
+ redistribuir
+homogéneamente
+ el
+ peso
+ de
+ las
+ cuelgas
+ de
+ cultivo.
+ Como
+ un
+ amanera
+ de
+ minimizar
+ el
+ riesgo
+ de
+un
+ eventual
+ hundimiento
+ de
+ la
+ línea
+ se
+ verificará
+ periódicamente
+ la
+ capacidad
+ de
+ carga
+ de
+ las
+estructuras
+ y
+ se
+ realizara
+ una
+ revisión
+ de
+ las
+ estructuras
+ de
+ cultivo
+ asegurándolas,
+ ya
+ que
+ producto
+de
+ temporales,
+ crecimiento
+ excesivo
+ de
+ las
+ cuelgas
+ o
+ pérdidas
+ de
+ los
+ flotadores,
+ estas
+ pueden
+sufrir
+ un
+ desplazamiento
+ que
+ genera
+ un
+ eventual
+ hundimiento
+ y/o
+ desprendimiento
+ de
+ las
+unidades
+ de
+ cultivo.
+
+Limpieza:
+ La
+ limpieza
+ del
+ borde
+ costero,
+ se
+ realizara
+ mensualmente,
+ según
+ procedimiento,
+ y/o
+cada
+ vez
+ que
+ sea
+ necesario,
+ una
+ persona
+ se
+ encargará
+ de
+ recoger
+ todas
+ aquellas
+ materias
+ o
+elementos
+ que
+ constituyan
+ basura,
+ puedan
+ causar
+ contaminación
+ o
+ impacten
+ negativamente
+ el
+entorno
+ donde
+ se
+ ubica
+ el
+ proyecto.
+ Para
+ ello,
+ en
+ la
+ embarcación
+ se
+ dispondrá
+ de
+ un
+ contenedor
+plástico
+ con
+ tapa
+ para
+ depositar
+ todo
+ el
+ material
+ recolectado
+ por
+ esta
+ actividad.
+ Los
+ desechos
+recolectados
+ serán
+ dispuestos
+ en
+ un
+ vertedero
+ autorizado.
+
+**3.3.2**
+**Fechas
+ estimadas
+ para
+ inicio
+ etapa
+ de
+ operación**
+
+Se
+ estima
+ que
+ el
+ inicio
+ de
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto
+ será
+ a
+ partir
+ del
+ segundo
+ semestre
+del
+ año
+ 2016,
+ dependiendo
+ de
+ la
+ obtención
+ de
+ la
+ resolución
+ de
+ los
+ permisos
+ sectoriales.
+
+Tabla
+ 15.
+ Fecha
+ inicio
+ de
+ actividades
+
+|Etapa|Fecha Inicio|Fecha Término|
+|---|---|---|
+|Operación|Junio 2016|revisión cada 25 años, Junio 2041|
+
+(*)
+ Todas
+ estas
+ fechas
+ son
+ sólo
+ referenciales,
+ pues
+ están
+ sujetas
+ a
+ la
+ fecha
+ de
+ obtención
+ de
+ la
+ RCA
+ que
+ califique
+
+favorablemente
+ el
+ proyecto.
+
+**3.3.3**
+**Cronograma
+ de
+ actividades
+ en
+ etapa
+ de
+ operación**
+
+Considerando
+ que
+ el
+ proceso
+ de
+ engorda,
+ que
+ forma
+ esencialmente
+ la
+ etapa
+ de
+ operación
+ del
+centro
+ de
+ cultivo
+ tiene
+ una
+ duración
+ aproximada
+ de
+ 23
+ meses,
+ la
+ mayor
+ parte
+ de
+ las
+ faenas
+ que
+comprende
+ esta
+ etapa
+ tienen
+ un
+ frecuencia
+ semanal,
+ quincenal
+ o
+ mensual
+ dependiendo
+ de
+ la
+actividad
+ de
+ que
+ trate,
+ es
+ decir,
+ las
+ revisiones,
+ mantenciones
+ y
+ limpieza
+ del
+ centro
+ y
+ borde
+ costero
+.
+
+Dicho
+ lo
+ anterior,
+ se
+ presenta
+ una
+ carta
+ Gantt
+ referencial
+ de
+ la
+ etapa
+ de
+ producción,
+ considerando
+23
+ meses
+ de
+ ciclo
+ productivo.
+
+Tabla
+ 16.
+ Carta
+ Gantt
+ etapa
+ de
+ producción
+
+|Actividades|Tiempo en meses|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Actividades|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|
+|Captación de<br>semillas|x|x|x|x|x|||||||||||||||||||
+|Engorda||||||x|x|x|x|x|x|x|x|x||||||||||
+|Cosecha||||||||||||||x|x|x|x|x|x|x|x|x||
+|Mantención<br>unidades<br>cultivo|||||||||||||||||||||||x|
+
+*La
+ carta
+ Gantt
+ presentada
+ es
+ referencial.
+
+**3.3.4**
+**Mano
+ de
+ Obra
+ etapa
+ de
+ operación**
+
+Tabla
+ 17.
+ Mano
+ de
+ obra
+ etapa
+ de
+ operación
+
+|Etapa|Mano de obra promedio|Mano de obra máximo|
+|---|---|---|
+|Etapa de operación*|3|8|
+
+*la
+ dotación
+ es
+ referencial
+ el
+ máximo
+ corresponde
+ solo
+ a
+ las
+ faenas
+ de
+ encordado
+ y
+ cosecha
+
+La
+ dotación
+ contemplada
+ para
+ esta
+ etapa
+ corresponde
+ a
+ un
+ capataz
+ el
+ que
+ estará
+ a
+ cargo
+ del
+centro
+ más
+ dos
+ personas
+ que
+ ayudaran
+ a
+ las
+ faenas
+ de
+ inspección,
+ mantención
+ y
+ limpieza,
+actividades
+ que
+ se
+ realizarán
+ periódicamente
+ en
+ la
+ medida
+ que
+ las
+ condiciones
+ climáticas
+ así
+ lo
+permitan.
+ Para
+ las
+ actividades
+ de
+ siembra
+ y
+ cosecha
+ se
+ prevé
+ una
+ dotación
+ de
+ aproximadamente
+ 8
+personas.
+
+Dado
+ que
+ en
+ el
+ centro
+ no
+ se
+ considera
+ habitabilidad
+ y
+ en
+ virtud
+ de
+ que
+ no
+ hay
+ emplazamiento
+humanos
+ en
+ lugares
+ cercanos
+ al
+ proyecto,
+ el
+ Titular
+ prevé
+ que
+ para
+ todas
+ las
+ actividades
+ del
+centro
+ se
+ contara
+ con
+ embarcaciones
+ habilitadas
+ con
+ acomodaciones
+ necesarias
+ para
+ proveer
+ de
+alimentación,
+ suministros
+ de
+ agua,
+ alojamiento
+ y
+ servicios
+ higiénicos
+ al
+ personal
+ que
+ labore
+ en
+ el
+centro.
+ Y
+ por
+ tanto
+ permitirá
+ total
+ independencia
+ del
+ personal
+ que
+ se
+ encuentre
+ trabajando
+ en
+ el
+centro
+ hasta
+ terminar
+ las
+ actividades
+ requeridas.
+ De
+ esta
+ manera
+ además
+ se
+ evitan
+ movimientos
+excesivos
+ de
+ embarcaciones.
+
+Las
+ embarcaciones
+ contaran
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+ para
+ sus
+ servicios
+
+higiénicos.
+
+**3.3.5**
+**Provisión
+ suministros
+ básicos**
+
+ **Agua
+ potable**
+
+Tal
+ como
+ se
+ planteo
+ en
+ el
+ párrafo
+ anterior,
+ las
+ embarcaciones
+ que
+ trasladen
+ al
+ personal
+ al
+ centro
+de
+ cultivo
+ contaran
+
+ con
+ todas
+ las
+ condiciones
+ de
+ habitabilidad
+ y
+ suministro
+ básicos,
+ para
+ ello
+contara
+ con
+ estanques
+ de
+ acopio
+ de
+ agua
+ tal
+ que
+ permite
+ una
+ dotación
+ de
+ 30
+ l/día
+ por
+ persona
+considerando
+ que
+ por
+ el
+ tipo
+ de
+ actividad
+ a
+ desarrollar
+ en
+ cada
+ faena
+ contar
+ con
+ 100
+ l/día
+ persona
+es
+ excesivo
+ por
+ lo
+ cual
+
+ adicionalmente
+ la
+ embarcación
+
+ estará
+ dotada
+ con
+ botellas
+ de
+ agua
+envasada
+ comercial
+
+ para
+ consumo.
+
+ **Servicios
+ Higiénicos**
+
+Las
+ embarcaciones
+ de
+ traslado
+ y
+ apoyo
+ del
+ personal
+ contaran
+ con
+ servicios
+ higiénicos
+ y
+ para
+ el
+tratamiento
+ de
+ las
+ aguas
+ servidas
+ se
+ contara
+ con
+ una
+ planta
+ de
+ tratamiento
+ homologada
+ cuyo
+efluente
+ cumplirá
+ con
+ las
+ normas
+ destinadas
+ a
+ la
+ evacuación,
+ tratamiento
+ y
+ disposición
+ final
+ de
+desagües
+ y
+ aguas
+ servidas
+ a
+ cursos
+ naturales.
+ (Resolución
+ OMI
+ 159(55)).
+
+ **Energía**
+
+La
+ embarcación,
+ contará
+ con
+ un
+ equipo
+ electrógeno,
+ el
+ cual
+ suministrará
+ la
+ energía
+ eléctrica
+ a
+ la
+embarcación.
+
+ **Alimentación
+ y
+ alojamiento**
+
+Teniendo
+ en
+ consideración
+ la
+ lejanía
+ de
+ centros
+ poblados,
+ dentro
+ del
+ personal
+ que
+ contará
+ la
+embarcación
+ de
+ traslado
+ y
+ apoyo
+ se
+ considera
+ la
+ inclusión
+ de
+ un
+ cocinero
+ para
+ los
+ efectos
+ de
+alimentación
+ del
+ personal.
+
+ **Transporte**
+
+Tal
+ como
+ se
+ ha
+ planteado
+ en
+ los
+ puntos
+ anteriores,
+ el
+ proyecto
+ no
+ considera
+ que
+ el
+ personal
+pernocte
+ o
+ viva
+ en
+ el
+ centro
+ de
+ cultivo,
+ las
+ actividades
+ propias
+ de
+ este
+ sistema
+ de
+ cultivo
+ se
+realizan
+ periódicamente
+ mediante
+ embarcaciones
+ con
+ habitabilidad
+ y
+ que
+ ofrezcan
+ todas
+ las
+acomodaciones
+ y
+ suministros
+ básicos
+ que
+ requiera
+ el
+ personal,
+ por
+ tanto
+ el
+ personal
+ que
+ labora
+ en
+el
+ centro
+ de
+ cultivo
+ estarán
+ en
+ el
+ centro
+ mientras
+ se
+ realice
+ una
+ actividad,
+ por
+ tanto
+ el
+ traslado
+ del
+personal
+ será
+ mediante
+ estas
+ embarcaciones.
+
+**3.3.6**
+**Cantidad
+ de
+ recursos
+ naturales
+ renovables
+ a
+ extraer
+ o
+ explotar**
+
+El
+ proyecto
+ durante
+ la
+ etapa
+ de
+ operación,
+ no
+ considera
+ extraer
+ o
+ explotar
+ recursos
+ naturales
+renovables
+
+**3.3.7**
+**Emisiones
+ del
+ proyecto
+ o
+ actividad
+ y
+ las
+ formas
+ de
+ abatimiento
+ y
+ control**
+**contempladas.**
+
+Las
+ principales
+ emisiones
+ a
+ la
+ atmósfera
+ que
+ se
+ generarán
+ durante
+ la
+ operación
+ del
+ proyecto
+ampliado
+ del
+ centro
+ de
+ engorda
+ corresponden
+ a:
+
+ Ruido
+
+ Gases
+ producto
+ de
+ la
+ combustión
+ en
+ motores
+ fuera
+ de
+ borda
+ y
+ en
+ los
+ generadores
+ de
+electricidad.
+
+**A.** **Ruido**
+
+Las
+ fuentes
+ de
+ emisión
+ de
+ ruido
+ durante
+ la
+ etapa
+ de
+ operación
+ corresponderán
+ a
+ los
+ motores
+ de
+las
+ embarcaciones
+ que
+ operen
+ en
+ el
+ centro
+ de
+ cultivo.
+ Estas
+ consideran
+ el
+ uso
+ de
+ GLP
+ como
+combustible,
+ los
+ que
+ trabajarán
+ de
+ manera
+ más
+ silenciosa.
+ La
+ emisión
+ de
+ ruido
+ se
+ generará
+durante
+ la
+ actividad
+ diurna,
+ en
+ forma
+ intermitente.
+
+**B.** **Gases**
+
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ significativas
+ en
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto.
+
+ Ya
+que
+ sólo
+ se
+ puede
+ considerar
+ las
+ emisiones
+ generadas
+ por
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+trabajarán
+ en
+ las
+ faenas
+ del
+ centro,
+ sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+ móviles
+ y
+autónomas
+ que
+ se
+ utilizan
+ como
+ combustible
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ el
+ cual
+principalmente
+ genera
+ emisiones
+ de
+ vapor
+ de
+ agua
+ reduciendo
+ en
+ un
+ 90%
+ la
+ generación
+ de
+ CO 2 n
+comparación
+ al
+ uso
+ de
+ combustibles
+ fósiles.
+ La
+ emisión
+ de
+ los
+ motores
+ fuera
+ de
+ borda
+ tendrán
+ una
+duración
+ máxima
+ de
+ 8
+ horas
+ diarias,
+ pero
+ su
+ utilización
+ será
+ en
+ forma
+ intermitente.
+
+Por
+ otra
+ parte,
+ la
+ localización
+ del
+ proyecto
+ se
+ encuentra
+ en
+ un
+ sector
+ con
+ una
+ alta
+ ventilación,
+ por
+lo
+ cual
+ las
+ generaciones
+ de
+ emisiones
+ atmosféricas
+ se
+ verán
+ reducidas
+ al
+ mínimo.
+
+**3.3.8**
+**Cantidad
+ y
+ manejo
+ de
+ residuos,
+ productos
+ químicos
+ y
+ otras
+ sustancias
+ que
+ puedan**
+**afectar
+ el
+ medio
+ ambiente.**
+
+**A.** **Residuos
+ líquidos**
+Si
+ se
+ generarán
+ descargas
+ de
+ efluentes
+ líquidos
+ durante
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto,
+ que
+provendrán
+ de:
+
+ **Aguas
+ servidas
+ domésticas**
+
+Para
+ el
+ tratamiento
+ de
+ las
+ aguas
+ servidas
+ la
+ embarcación
+
+ contará
+ con
+ una
+ planta
+ de
+ tratamiento
+cuyo
+ efluente
+ cumplirá
+ con
+ las
+ normas
+ destinadas
+ a
+ la
+ evacuación,
+ tratamiento
+ y
+ disposición
+ final
+de
+ desagües
+ y
+ aguas
+ servidas
+ a
+ cursos
+ naturales.
+ La
+ planta
+ referencial
+ a
+ implementar
+ en
+ el
+ centro
+cumplirá
+ con
+ la
+ Resolución
+ OMI
+ MEPC
+ 159(55).
+ De
+ esta
+ forma,
+ se
+ estará
+ cumpliendo
+ con
+ las
+prescripciones
+ establecidas
+ en
+ el
+ artículo
+ No
+ 95
+ del
+ “Reglamento
+ para
+ el
+ Control
+ de
+ la
+Contaminación
+ Acuática”,
+ en
+ cuanto
+ a
+ que
+ el
+ efluente
+ a
+ descargar
+ no
+ contendrá
+ sólidos
+ flotantes
+visibles
+ y
+ no
+ ocasionará
+ la
+ decoloración
+ de
+ las
+ aguas
+ circundantes.
+ Junto
+ con
+ esto
+ se
+ establece
+ que
+la
+ planta
+ de
+ tratamiento
+ ha
+ sido
+ autorizada
+ por
+ el
+ Servicio
+ de
+ Inspección
+ de
+ Naves
+ dependiente
+ de
+la
+ DIRECTEMAR.
+
+ **Residuos
+ industriales
+ Líquidos**
+
+El
+ proyecto
+ no
+ contempla
+ la
+ generación
+ de
+ residuos
+ industriales
+ líquidos,
+ debido
+ a
+ que
+ no
+realizaran
+ mantenciones
+ de
+ equipos,
+ lavados
+ de
+ cubiertas
+ o
+ alguna
+ otra
+ actividad
+ que
+ pueda
+generar
+ algún
+ otro
+ tipo
+ de
+ agua
+ sucia
+ o
+ contaminada
+ que
+ pueda
+ alterar
+ el
+ medio
+ ambiente.
+
+ Cabe
+mencionar
+ que
+ cualquier
+ actividad
+ de
+ mantención
+ o
+ lavado
+ de
+ equipos
+ e
+ infraestructura
+ de
+ la
+embarcación
+ se
+ realizar
+ en
+ un
+ lugar
+ debidamente
+ autorizado,
+ fuera
+ del
+ área
+ de
+ concesión
+ para
+cultivo
+ de
+ mitílidos.
+
+**B.** **Residuos
+ Sólidos**
+
+Durante
+ la
+ etapa
+ de
+ operación
+ se
+ generaran
+ los
+ siguientes
+ residuos:
+
+ **Basura
+ domiciliaria:** se
+ prevé
+ una
+ generación
+ aproximada
+ de
+ 0,5
+ kg
+ de
+ basura
+ domiciliaria
+al
+ día,
+ esta
+ se
+ almacenara
+ en
+ recipientes
+ cerrados
+ dentro
+ de
+ la
+ embarcación
+ de
+ apoyo
+ para
+ser
+ dispuestos
+ en
+ el
+ vertedero
+ autorizado.
+
+ - **Materiales:** producto
+ del
+ desgaste
+ natural
+ del
+ uso
+ de
+ ciertos
+ materiales,
+ tales
+ como,
+flotadores,
+ restos
+ de
+ redes
+ y/o
+ cabos,
+ estos
+ serán
+ almacenados
+ en
+ contendores
+apropiados
+ para
+ ser
+ dispuesto
+ en
+ vertedero
+ autorizado.
+ Sin
+ perjuicio
+ de
+ ello,
+ y
+ como
+ una
+manera
+ de
+ minimizar
+ la
+ generación
+ de
+ residuos
+ por
+ este
+ concepto
+ es
+ que
+ el
+ titular
+realizará
+ una
+ revisión
+ periódica
+ de
+ sus
+ estructuras
+ para
+ evitar
+ pérdidas
+ innecesarias
+ y
+ en
+caso
+ de
+ ser
+ factible
+ procederá
+ a
+ la
+ reparación
+ de
+ estos.
+
+ - **Fecas:** El
+ cultivo
+ de
+ moluscos
+ bivalvos,
+ si
+ bien,
+ no
+ son
+ alimentados
+ en
+ forma
+ externa,
+igualmente
+ aportan
+ contenidos
+ de
+ materia
+ orgánica
+ al
+ ambiente,
+ aunque
+ en
+ menor
+cantidad
+ que
+ un
+ cultivo
+ intensivo.
+ De
+ acuerdo
+ a
+ un
+ estudio
+ realizado
+ por
+ Navarro _et
+ al_ .
+ el
+año
+ 1993 [1],
+ estableció
+ que
+ las
+ biodeposiciones
+ de
+ diferentes
+ moluscos
+ filtradores
+ pueden
+ser
+ re-­‐utilizadas
+ por
+ ellos
+ mismos
+ o
+ utilizadas
+ por
+ organismos
+ detritívoros,
+ junto
+ con
+ esto
+establece
+ que
+ tanto
+ la
+ cantidad
+ como
+ la
+ calidad
+ de
+ la
+ oferta
+ alimentaria
+ incide
+directamente
+ en
+ la
+ cantidad
+ de
+ biodepósitos
+ a
+ generar
+ por
+ los
+ moluscos
+ filtradores;
+ este
+mismo
+ autor
+ estimó
+ que
+ la
+ composición
+ de
+ las
+ fecas
+ es
+ de
+ alrededor
+ del
+ 75%
+ de
+ fracción
+inorgánica
+ y
+ del
+ 25%
+ materia
+ orgánica.
+ La
+ tasa
+ de
+ biodeposición
+ diaria
+ es
+ de
+ alrededor
+ del
+0,02194%
+ del
+ peso
+ del
+ chorito
+ de
+ alrededor
+ de
+ 5
+ cm.,
+ y
+ corresponderá
+ aproximadamente
+al
+ 27%
+ de
+ la
+ cantidad
+ de
+ alimento
+ digerido
+ y
+ disponible
+ en
+ el
+ medio.
+
+Aplicando
+ esta
+ fórmula
+ se
+ tiene
+ lo
+ siguiente:
+
+RB=2.194x10 [-­‐4
+ ] *W,
+
+Donde,
+
+RB:
+ es
+ la
+ tasa
+ de
+ Biodepositos
+ y,
+
+W:
+ es
+ el
+ peso
+ o
+ biomasa
+ de
+ choritos
+
+Si
+ W=
+ 1.920.000
+ kg.
+ choritos
+
+RB
+ =
+ 421,2
+ kg.
+ de
+ fecas
+ al
+ día.
+
+De
+ acuerdo
+ a
+ otros
+ autores,
+ se
+ tiene
+ que
+ de
+ la
+ cantidad
+ total
+ de
+ fecas
+ producidas
+ (421,2
+ kg),
+ se
+estima
+ que
+ un
+ 17%
+ corresponde
+ a
+ cenizas
+ y
+ humedad
+ (71,2
+ kg),
+ quedando
+ entonces
+ 349,6
+ kg/día.
+Por
+ otra
+ parte
+ si
+ se
+ considera
+ lo
+ expuesto
+ por
+ Silva
+ y
+ Rojas,
+ 2003 [2],
+ donde
+ señalan
+ que
+aproximadamente
+ un
+ 26%
+ se
+ podría
+ remineralizar
+ es
+ equivalente
+ a
+ 90,9
+ kg,
+ la
+ cantidad
+ se
+ reduce
+ a
+258,7
+ kg
+ de
+ fecas
+ al
+ día.
+
+De
+ la
+ misma
+ manera,
+ Otero _et
+ al_ (2001) [3],
+ realizó
+ una
+ caracterización
+ físico
+ química
+ de
+ los
+biodepósitos
+ de
+ mejillones
+ en
+ las
+ Rias
+ Gallegas,
+ donde
+ señala
+ que
+ la
+ concentración
+ de
+ COT
+ es
+ de
+aproximadamente
+ 3,22%,
+ del
+ contenido
+ sedimentado.
+ Por
+ tanto
+ y
+ en
+ consecuencia
+ a
+ lo
+ planteado
+
+1 Navarro
+ J.M.,
+ Clasing
+ E.,
+ Urrutia
+ G.,
+ Asencio
+ G.,
+ Stead
+ R.,
+ Herrera
+ C.
+ (1993).
+ Biochemical
+ composition
+ of
+ the
+ suspended
+ particulate
+matter
+ in
+ a
+ tidal
+ flat
+ of
+ Southern
+ Chile:
+ an
+ evaluation
+ of
+ its
+ nutritive
+ value.
+ Estuar
+ Coast
+ Shelf
+ Sci37:59-73
+
+2 Silva,
+ N
+ y
+ N.Rojas.
+ 2003.
+ Contenido
+ de
+ Carbono,
+ Nitrógeno
+ Orgánico
+ y
+ Diagénesis
+ Temprana
+ en
+ Sedimentos
+ Superficiales
+ de
+ la
+ Zona
+ de
+Canales
+ Australes
+ de
+ Chile.
+ Boca
+ del
+ Guafo
+ (43°47’S)
+ a
+ Canal
+ Pulluche
+ (45°49’S).
+ Libro
+ de
+ Resúmenes,
+ Pág
+ 51-­‐59.
+ Resultados
+ del
+ Crucero
+Cimar
+ FIORDOS
+ 8
+3 Otero.
+ I,
+ Quintas.
+ I
+ y
+ F.
+ Macias.
+ 2001.
+ Caracterización
+ Físico
+ Química
+ de
+ bio-­‐depósitos
+ de
+ mejillón
+ en
+ las
+ Rías
+ Baixas
+ (Galicia-­‐
+NOPenínsula
+ Iberica).
+ Nova
+ Acta
+ Científica
+ Compostelana
+ (biología),
+ 11:197-­‐206.
+
+en
+ el
+ párrafo
+ anterior,
+ si
+ se
+ considera
+ que
+ del
+ aporte
+ total
+ de
+ fecas
+ un
+ 17%
+ es
+ ceniza
+ y
+ humedad
+ y
+26%
+ podría
+ remineralizarse,
+ tenemos
+ que
+ el
+ aporte
+ de
+ fecas
+ al
+ medio
+ sería
+ de
+ 258,7
+ kg
+ de
+ fecas
+ al
+día,
+ por
+ lo
+ que
+ se
+ tendría
+ que
+ de
+ este
+ total
+ solo
+ 8,33
+ kg
+ C/día,
+ lo
+ que
+ equivale
+ a
+ una
+ concentración
+de
+ 0,04
+ g
+ C/m2/día,
+ esto
+ considerando
+ como
+ área
+ de
+ depositación
+ la
+ superficie
+ del
+ área
+ solicitada
+en
+ concesión
+ (20
+ hás),
+ por
+ lo
+ que
+ de
+ acuerdo
+ a
+ lo
+ planteado
+ por
+ McShane,
+ 1997 [4],
+ el
+ aporte
+ total
+de
+ carbono
+ del
+ proyecto
+ no
+ estaría
+ afectando
+ significativamente
+ los
+ recursos
+ naturales
+ renovables
+y
+ permite
+ inferir
+ que
+ le
+ proyecto
+ estará
+ acorde
+ a
+ la
+ capacidad
+ de
+ carga
+ del
+ cuerpo
+ de
+ agua,
+teniendo
+ un
+ cultivo
+ sustentable
+ en
+ el
+ tiempo.
+
+La
+ sedimentación
+ de
+ las
+ fecas
+ depende
+ de
+ factores
+ de
+ suma
+ relevancia
+ como
+ son
+ la
+ profundidad,
+la
+ intensidad
+ de
+ corrientes,
+ los
+ vientos,
+ presencia
+ de
+ organismos
+ detritívoros
+ y
+ calidad
+ del
+ agua.
+ La
+profundidad
+ media
+ de
+ la
+ concesión
+ fluctuó
+ en
+ torno
+ a
+ los
+ 68
+ m.
+ (Ver **anexo
+ CPS** ).
+
+**C.** **Residuos
+ Peligrosos**
+
+ **Residuos
+ de
+ Aceites
+ Lubricantes
+ Usados
+ (Respels):** Respecto
+ de
+ la
+ generación
+ de
+ residuos
+peligrosos,
+ el
+ titular
+ no
+ prevé
+ la
+ generación
+ de
+ estos,
+ toda
+ vez
+ que
+ el
+ proyecto
+ considera
+ el
+uso
+ de
+ embarcaciones,
+ estas
+ con
+ sus
+ mantenciones
+ al
+ día
+ y
+
+ se
+ realizarán
+ en
+ lugares
+autorizados.
+
+4 McShane,
+ P.
+ 1997.
+ Environmental
+ effects
+ of
+ sea-­‐based
+ farming
+ of
+ paua
+ (Haliotis
+ spp.)
+ and
+ kina
+ (Evechinus
+ chloroticus).
+ Conservation
+Advisory
+ Science
+ Notes
+ No.
+ 143,
+ Department
+ of
+ Conservation,
+ Wellington.
+
+_**3.4**_
+_**ETAPA
+ DE
+ ABANDONO
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.7)**_
+
+Dado
+ que
+ el
+ proyecto
+ considera
+ una
+ vida
+ útil
+ de
+ 25
+ años
+ renovables,
+ el
+ Titular
+ no
+ contempla
+abandono
+ del
+ proyecto,
+ para
+ ello
+ el
+ titular
+ realizara
+ periódicamente
+ trabajos
+ de
+ mantención
+ y
+mejoras
+ cuando
+ sea
+ necesario
+ para
+ mantener
+ en
+ buenas
+ condiciones
+ el
+ centro
+ de
+ cultivo.
+
+En
+ caso
+ de
+ que
+ el
+ Titular
+ considere
+ pertinente
+ el
+ cierre
+ del
+ centro
+ de
+ cultivo,
+ éste
+ se
+ compromete
+a
+ cumplir
+ con
+ lo
+ establecido
+ en
+ el
+ Artículo
+ 4,
+ letra
+ c)
+ del
+ D.S.
+ (MINECON)
+ No
+ 320
+ de
+ 2001,
+ en
+cuanto
+ a
+ retirar
+ al
+ término
+ de
+ su
+ vida
+ útil
+ o
+ a
+ la
+ cesación
+ de
+ actividades
+ del
+ centro,
+ todo
+ tipo
+ de
+soportes
+ no
+ degradables
+ o
+ de
+ degradación
+ lenta
+ que
+ hubieren
+ sido
+ utilizados
+ como
+ sistema
+ de
+anclaje
+ al
+ fondo,
+ exceptuando
+ las
+ estructuras
+ de
+ concreto
+ utilizadas
+ para
+ el
+ anclaje,
+ se
+ realizará
+ un
+análisis
+ al
+ fin
+ de
+ la
+ etapa
+ para
+ verificar
+ si
+ es
+ factible
+ el
+ retiro
+ de
+ las
+ estructuras
+ de
+ concreto
+ o
+ si
+este
+ retiro
+ generaría
+ un
+ daño
+ mayor
+ al
+ entorno.
+ Esta
+ tarea
+ será
+ ejecutada
+ por
+ 3
+ personas
+ con
+apoyo
+ de
+ la
+ balsa
+ y
+ embarcaciones,
+ estimándose
+ un
+ plazo
+ de
+ 90
+ días
+ para
+ el
+ total
+ abandono
+ del
+centro
+ de
+ cultivo.
+
+Dado
+ que
+ el
+ proyecto
+ se
+ desarrollará
+ íntegramente
+ en
+ el
+ medio
+ marino,
+ se
+ estima
+ que
+ no
+ se
+ verá
+afectada
+ la
+ morfología
+ del
+ lugar,
+ así
+ como
+ la
+ vegetación
+ u
+ otro
+ componente
+ ambiental
+ del
+ sitio.
+
+Tabla
+ 18.
+ Cronograma
+ de
+ actividades
+ etapa
+ de
+ abandono
+
+|Actividad/Mes|1|2|3|
+|---|---|---|---|
+|Retiro y transporte de Líneas madres|X|||
+|Retiro de sistemas de fondeo|X|X||
+|Retiro de muertos(*)|||X|
+
+(*)
+ Consulta
+ pertinencia
+ a
+ la
+ autoridad
+
+**3.4.1**
+**Residuos**
+
+En
+ caso
+ de
+ que
+ el
+ titular
+ defina
+ poner
+ cese
+ al
+ centro,
+ en
+ la
+ etapa
+ de
+ abandono
+ se
+ generarán
+ las
+siguientes
+ emisiones
+ y/o
+ residuos:
+
+-
+ Emisiones
+ atmosféricas
+
+-
+ Residuos
+ líquidos
+
+-
+ Residuos
+ sólidos
+
+**I.** **Emisiones
+ atmosféricas**
+
+Se
+ estima
+ que
+ no
+ se
+ generarán
+ emisiones
+ en
+ la
+ etapa
+ de
+ abandono
+ del
+ proyecto.
+
+ Sólo
+ se
+ puede
+considerar
+ los
+ motores
+ de
+ las
+ embarcaciones
+ que
+ trabajarán
+ en
+ el
+ desarme
+ y/o
+ traslado
+ de
+ la
+infraestructura
+ del
+ centro
+ embarcaciones
+ que
+ usan
+
+ Gas
+ Licuado
+ de
+ Petróleo
+ (GLP),
+ combustible
+que
+ genera
+ principalmente
+ vapor
+ de
+ agua
+ y
+ reduce
+ en
+ un
+ 90%
+ las
+ emisiones
+ de
+ CO 2 en
+comparación
+ con
+ el
+ uso
+ de
+ combustibles
+ fósiles.
+
+ Sin
+ embargo,
+ éstas
+ corresponden
+ a
+ fuentes
+móviles
+ y
+ autónomas.
+
+**II.** **Residuos
+ líquidos**
+
+Los
+ residuos
+ líquidos
+ que
+ pudiesen
+ generarse
+ en
+ esta
+ etapa
+ están
+ circunscritos
+ a
+ las
+ aguas
+servidas,
+ las
+ embarcaciones
+ que
+ participan
+ de
+ la
+ faena
+ de
+ desarme
+ de
+ las
+ estructuras
+ de
+ cultivo
+cuentan
+ con
+ servicios
+ higiénicos
+ con
+ planta
+ de
+ tratamiento
+ de
+ aguas
+ servidas
+ homologadas
+ y
+aprobadas
+ por
+ la
+ autoridad
+ marítima.
+
+**III.** **Residuos
+ sólidos**
+
+El
+ proyecto
+ en
+ la
+ etapa
+ de
+ abandono
+ en
+ general
+ NO
+ generará
+ residuos,
+ productos
+ químicos
+ u
+ otras
+sustancias
+ que
+ puedan
+ afectar
+ el
+ medio
+ ambiente.
+ Aquellos
+ residuos
+ que
+ se
+ generen
+ producto
+ de
+la
+ desinstalación
+ de
+ las
+ plataformas
+ de
+ cultivo,
+ sistema
+ de
+ anclaje
+ serán
+ retirados
+ por
+ las
+ mismas
+empresas
+ de
+ servicio
+ encargadas
+ de
+ cada
+ una
+ de
+ estas
+ faenas,
+ asegurándose
+ de
+ que
+ ninguno
+ de
+estos
+ elementos
+ residuales
+ quede
+ ya
+ sea
+ flotando
+ o
+ en
+ sectores
+ costeros.
+
+Respecto
+ de
+ los
+ residuos
+ domiciliarios
+ generados
+ producto
+ de
+ la
+ alimentación
+ y
+ otros
+ en
+ las
+embarcaciones
+ de
+ servicio,
+ serán
+ almacenados
+ en
+ contendores
+ dentro
+ de
+ las
+ embarcaciones
+ para
+ser
+ dispuesto
+ una
+ vez
+ que
+ retornen
+ a
+ puerto
+ y
+ enviados
+ a
+ vertedero
+ autorizado.
+
+Restos
+ de
+ materiales
+ que
+ serán
+ llevados
+ a
+ reutilización,
+ vertedero
+ autorizado
+ o,
+ en
+ caso
+ de
+organismos,
+ a
+ planta
+ de
+ proceso.
+
+_**3.5**_
+_**PLANES
+ DE
+ MITIGACIÓN
+ Y
+ CONTINGENCIA
+ (artículo
+ 19
+ D.S.
+ No
+ 40/12,
+ literal
+ a.8)**_
+
+Conforme
+ a
+ lo
+ señalado
+ en
+ el
+ Artículo
+ 5°
+ del
+ D.S.
+ N°
+ 320,
+ el
+ centro
+ de
+ cultivo
+ dispondrá
+ de
+ un
+ Plan
+de
+ acción
+ antes
+ Contingencias
+ Ambientales,
+ el
+ que
+ establecerá
+ las
+ acciones
+ y
+ responsabilidades
+operativas
+ en
+ caso
+ de
+ ocurrir
+ circunstancias
+ susceptibles
+ de
+ provocar
+ efectos
+ ambientales
+negativos
+ o
+ adversos.
+ Este
+ plan
+ considerará
+ a
+ lo
+ menos:
+ temporales,
+ terremotos,
+ el
+ choque
+ de
+embarcaciones
+ con
+ las
+ artes
+ de
+ cultivo,
+ de
+ estructuras
+ de
+ cultivo
+ u
+ otros
+ materiales,
+ florecimientos
+algales
+ nocivos,
+ los
+ desprendimientos
+ de
+ ejemplares
+ en
+ cultivo.
+
+Entre
+ las
+ actividades
+ a
+ seguir,
+ el
+ plan
+ comprenderá
+ acciones
+ de
+ recaptura
+ de
+ los
+ individuos,
+recolección
+ y
+ disposición
+ segura
+ de
+ desechos
+ y
+ la
+ eliminación
+ de
+ los
+ ejemplares
+ muertos
+ en
+ la
+forma
+ prevista
+ en
+ la
+ letra
+ a)
+ del
+ artículo
+ 4°
+
+ en
+ el
+ Decreto
+ Supremo
+ N°
+ 320/2001,
+ por
+ el
+ que
+ se
+aprueba
+ el
+ reglamento
+ de
+ medidas
+ de
+ protección,
+ control
+ y
+ erradicación
+ de
+ enfermedades
+ de
+ alto
+riesgo
+ para
+ las
+ especies
+ hidrobiológicas.
+
+El
+ plan
+ de
+ acción
+ ante
+ contingencias
+ comprenderá
+ al
+ menos
+ lo
+ siguiente:
+
+a) Acciones
+ a
+ desarrollar
+ ante
+ una
+ contingencia
+ que
+ se
+ presente
+ y
+ el
+ cronograma
+ de
+ su
+
+aplicación;
+
+b) Equipos
+ y
+ elementos
+ necesarios
+ para
+ la
+ correcta
+ aplicación
+ de
+ las
+ acciones
+ enumeradas
+ en
+
+el
+ literal
+ anterior,
+ los
+ que
+ deberán
+ comprender
+ al
+ menos
+ los
+ medios
+ de
+ transporte,
+señalización
+ y
+ comunicaciones;
+ y
+
+c) Programa
+ actualizado
+ del
+ mantenimiento
+ de
+ los
+ equipos
+ señalados
+ en
+ el
+ inciso
+ anterior.
+
+Un
+ ejemplar
+ escrito
+ del
+ plan
+ de
+ acción
+ de
+ contingencias
+ se
+ mantendrá
+ en
+ el
+ centro
+ de
+ cultivo
+ y
+será
+ conocido
+ por
+ el
+ personal
+ del
+ mismo.
+ Una
+ copia
+ de
+ dicho
+ plan
+ se
+ remitirá
+ al
+ Servicio.
+
+El
+ Titular
+ se
+ hace
+ responsable
+ de
+ disponer
+ los
+ medios
+ adecuados
+ y
+ el
+ personal
+ capacitado
+ para
+ el
+cumplimento
+ del
+ plan
+ de
+ acción
+ frente
+ a
+ contingencias.
+ De
+ la
+ misma
+ forma
+ asumirá
+ los
+ costos
+ que
+involucre
+ su
+ aplicación.
+
+Todas
+ las
+ contingencias
+ que
+ ocurran
+ en
+ el
+ centro
+ se
+ informarán
+ al
+ Servicio
+ y
+ a
+ la
+ Autoridad
+Marítima
+ dentro
+ de
+ un
+ plazo
+ de
+ 24
+ horas
+ desde
+ que
+ se
+ detecte
+ el
+ hecho
+ o
+ contingencia.
+
+**3.5.1**
+**Plan
+ De
+ Contingencia.**
+
+El
+ plan
+ de
+ contingencia
+ detalla
+ las
+ acciones
+ a
+ seguir
+ en
+ los
+ casos
+ de
+ ocurrencia
+ de
+ accidentes
+ambientales
+ en
+ los
+ que
+ las
+ acciones
+ de
+ prevención
+ no
+ hayan
+ tenido
+ efecto.
+ Se
+ basa
+ en
+ las
+directrices
+ entregadas
+ por
+ la
+ normativa
+ ambiental
+ vigente
+ ya
+ sea
+ a
+ través
+ de
+ la
+ Ley
+ No
+ 19.300
+ y
+ de
+los
+ decretos
+ y
+ resoluciones
+ relacionados
+ a
+ ella.
+ Todas
+ las
+ acciones
+ comenzarán
+ con
+ el
+ aviso
+oportuno
+ al
+ encargado
+ del
+ centro
+ de
+ cultivo
+ quien
+ guiará
+ las
+ operaciones
+ de
+ contingencia
+ y
+elaborará
+ los
+ respectivos
+ informes.
+ Los
+ planes
+ de
+ contingencia
+ se
+ hacen
+ extensibles
+ al
+ área
+ de
+influencia
+ del
+ proyecto.
+
+Se
+ adjuntan
+ los
+ manuales
+ en
+ el **anexo
+ 2** .

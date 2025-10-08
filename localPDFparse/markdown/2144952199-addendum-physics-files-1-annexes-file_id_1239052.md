@@ -1,0 +1,15 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20200211121342
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|LEVANTAMIENTO ZAÑARTU<br>1.Edificio 4 pisos.<br>· Techumbre Zinc Metálico<br>· Construcción de hormigón armado<br>· Dimensiones: 16x75m<br>.<br>2.Edificio 2 pisos.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 45x10m<br>3.Edificio 1 piso.<br>7 9 · · T Ce oc nh su trm ucb cre ió nA s db ee ls at do rillo fiscal<br>· Dimensiones: 17x10m<br>4.Edificio 1 piso.<br>5 · · T Ce oc nh su trm ucb cre ió nA s db ee ls at do rillo fiscal<br>· Dimensiones: 20x20m<br>10<br>5.Edificio 1 piso. FRANCISCO<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 20x40m<br>6.Edificio 3 piso.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 32x10m<br>7.Edificio 2 piso.<br>· Techumbre Asbesto<br>4 · Construcción de hormigón armado<br>· Dimensiones: 13x20m MENESES<br>8.Bodega 1 piso.<br>3 · · T Ce oc nh su trm ucb cre ió nA s db ee ls at do rillo fiscal<br>· Dimensiones: 10x4m<br>2 6 9.Edificio Baños 1 piso.<br>· Techumbre Zinc metálico<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 6x6m<br>8 10.Edificio casino y cocina 1 piso.<br>· Techumbre Zinc metálico<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 53x10m<br>NOTA: Total de Zinc Metálico: 1766 m2.<br>Total de Planchas de Asbesto No Friable: 2440 m2.<br>1<br>Z A Ñ A R T U # 1 5 0 0<br>ZAÑARTU #1500<br>urbano COMUNA DE SAN ÑUÑOA<br>P R O Y E C T O S|Col2|Col3|Col4|
+|---|---|---|---|
+|2<br>3<br>4<br>5<br>6<br>7<br>8<br>1<br>9<br>10<br>ZAÑARTU #1500<br>FRANCISCO MENESES<br>ZAÑARTU #1500<br>COMUNA DE SAN ÑUÑOA<br>LEVANTAMIENTO ZAÑARTU<br>urbano<br>P R O Y E C T O S<br>1.Edificio 4 pisos.<br>· Techumbre Zinc Metálico<br>· Construcción de hormigón armado<br>· Dimensiones: 16x75m<br>.<br>2.Edificio 2 pisos.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 45x10m<br> 3.Edificio 1 piso.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 17x10m<br> 4.Edificio 1 piso.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 20x20m<br> 5.Edificio 1 piso.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 20x40m<br> 6.Edificio 3 piso.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 32x10m<br> 7.Edificio 2 piso.<br>· Techumbre Asbesto<br>· Construcción de hormigón armado<br>· Dimensiones: 13x20m<br> 8.Bodega 1 piso.<br>· Techumbre Asbesto<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 10x4m<br> 9.Edificio Baños 1 piso.<br>· Techumbre Zinc metálico<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 6x6m<br> 10.Edificio casino y cocina 1 piso.<br>· Techumbre Zinc metálico<br>· Construcción de ladrillo fiscal<br>· Dimensiones: 53x10m<br>NOTA:<br>Total de Zinc Metálico: 1766 m2.<br>Total de Planchas de Asbesto No Friable: 2440 m2.|P|urbano<br> R O Y E C T O S|COMUNA DE SAN ÑUÑOA|

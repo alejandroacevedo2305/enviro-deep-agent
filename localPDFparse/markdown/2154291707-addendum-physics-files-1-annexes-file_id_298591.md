@@ -1,0 +1,15 @@
+---
+title: 01
+author: Desconocido
+date: D:20220419100410
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Ventilación Román Salinas, Simulación de ingreso vehículos<br>ESCALA 1:100<br>Ventilación Román Salinas, Simulación de egreso vehículos<br>ESCALA 1:100<br>ESCALA REVISO PROYECTO:<br>SIMBOLOGÍA PLANO DE UBICACION<br>Estudio de Integración Modal Extensión Línea 6<br>1:100 I.S<br>- Metro de Santiago<br>LAMINA DIBUJO<br>CONTENIDO: REBAJE SOLERA PROYECTADO SEÑAL CON 1 POSTE PROY. VEHÍCULO<br>INGRESA<br>1-1 B.H.G Ventilación Román Salinas Planta , VEHÍCULO IVANA SICRET CIERRO INST. FAENAS SEÑAL CON 2 POSTES PROY.<br>VERSIÓN FECHA INGENIERO CIVIL - CONSULTOR VIAL Simulación de vehículos PORTÓN ACCESO CAM IONES SEÑAL EXISTENTE EGRESA<br>DEM ARCACIÓN EXISTENTE<br>1 19-04-2022 VEREDA EXISTENTE CRUCE PEATONAL PROY.<br>BALIZA LUM INOSA Y SONORA<br>UBICACIÓN C.I.P VEREDA PROYECTADA<br>Roman Lagos Palacios , Región<br>N/A EXISTENTEPAVIM ENTO EXISTENTE<br>Metropolitana<br>NOMBRE PROPIETARIO<br>FIRMA REPRESENTANTE LEGAL FIRMA AUTORIDAD<br>METRO S.A<br>CLIENTE|Col2|Col3|Col4|
+|---|---|---|---|
+|**REBAJE SOLERA PROYECTADO**<br>**CIERRO INST. FAENAS**<br>**PORTÓN ACCESO CAMIONES**<br>**DEMARCACIÓN EXISTENTE**<br>**VEREDA EXISTENTE**<br>**SEÑAL CON 1 POSTE PROY.**<br>**SEÑAL CON 2 POSTES PROY.**<br>**SEÑAL EXISTENTE**<br>**CRUCE PEATONAL PROY.**<br>**BALIZA LUMINOSA Y SONORA**<br>**VEREDA PROYECTADA**<br>**PAVIMENTO EXISTENTE**<br>**EXISTENTE**<br>**VEHÍCULO**<br>**INGRESA**<br>**VEHÍCULO**<br>**EGRESA**<br>**Ventilación Román Salinas, Simulación de ingreso vehículos**<br>**ESCALA 1:100**<br>**PROYECTO:**<br>PLANO DE UBICACION<br>FIRMA AUTORIDAD<br>**CONTENIDO:**<br>REVISO<br>DIBUJO<br>I.S<br>FECHA<br>C.I.P<br>Roman Lagos Palacios , Región<br>Metropolitana<br>~~NOMBRE PROPIETARIO~~<br>B.H.G<br>19-04-2022<br>IVANA SICRET<br>INGENIERO CIVIL - CONSULTOR VIAL<br>**Estudio de Integración Modal Extensión Línea 6**<br>**- Metro de Santiago**<br>**Ventilación Román Salinas Planta ,**<br>**Simulación de vehículos**<br>FIRMA REPRESENTANTE LEGAL<br>CLIENTE<br>ESCALA<br>1:100<br>LAMINA<br>1-1<br>VERSIÓN<br>1<br>UBICACIÓN<br>METRO S.A<br>SIMBOLOGÍA<br>N/A<br>**Ventilación Román Salinas, Simulación de egreso vehículos**<br>**ESCALA 1:100**|**EÑAL CON 1 POSTE PROY.**<br>**EÑAL CON 2 POSTES PROY.**<br>**EÑAL EXISTENTE**<br>**RUCE PEATONAL PROY.**<br>**ALIZA LUMINOSA Y SONORA**<br>**VEHÍCULO**<br>**INGRESA**<br>**VEHÍCULO**<br>**EGRESA**<br>PLANO DE UBICACION<br>OLOGÍA|REVISO<br>DIBUJO<br>I.S<br>FECHA<br>C.I.P<br>Roman Lagos Palacios , Región<br>Metropolitana<br>~~NOMBRE PROPIETARIO~~<br>B.H.G<br>19-04-2022<br>IVA<br>INGENIERO<br>FIRMA REPR<br><br>ESCALA<br>1:100<br>LAMINA<br>1-1<br>VERSIÓN<br>1<br>UBICACIÓN<br>METRO S.A<br>N/A|**PROYECTO:**<br>FIRMA AUTORIDAD<br>**CONTENIDO:**<br>NA SICRET<br>CIVIL - CONSULTOR VIAL<br>**Estudio de Integración Modal Extensión Línea 6**<br>**- Metro de Santiago**<br>**Ventilación Román Salinas Planta ,**<br>**Simulación de vehículos**<br>ESENTANTE LEGAL<br>CLIENTE|

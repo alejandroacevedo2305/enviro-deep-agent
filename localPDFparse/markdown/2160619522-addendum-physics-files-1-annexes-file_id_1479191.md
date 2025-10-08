@@ -1,0 +1,72 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20230828112235
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|15.08|
+|---|---|---|
+|||14.93|
+||||
+|9.85<br>10||42 m2<br>Sala de operaciones|
+|9.85<br>10|||
+|9.85<br>10||25 m2<br>Sala Gabinetes de<br>Control<br>12 m2<br>Oficina 2|
+
+|1 2<br>N<br>15.08<br>14.93 3.675<br>A<br>2.25<br>42 m2 12 m2 Recepción/<br>Sala de operaciones Oficina 2 Área 1 i 2m mpr 2esion NPT 0.00<br>1.19 0.82 2.17 0.82 2.23 0.82 7.05 10 9.85<br>15.08<br>ELEVACIÓN NORPONIENTE<br>25 m2 EUE.1 75<br>Sala G Ca ob ni tn re ot les de 12 m2 Ba6 ñ m o 2 H Ba 6ñ mo 2M Kitc1 h2 e m ne2 tte<br>Oficina 2<br>B 3.675<br>2.25<br>PLANTA SALA DE CONTROL DE PROCESOS<br>EUE.1 75<br>NPT 0.00<br>4.15 0.82 2.13 0.82 5.17 0.82 1.19<br>3.675<br>15.08<br>2.25 ELEVACIÓN SURORIENTE<br>EUE.1 75<br>NPT 0.00<br>4.22 1.07 4.71<br>CIERRO PERIMETRAL<br>10 220kV PRINCIPAL BARRA<br>ELEVACIÓN SURPONIENTE ÁREA ALMACENAMIENTO H2V<br>EUE.1 75 TRANSFERENCIA BARRA<br>220kV<br>CORTAFUEGOS MURO CORTAFUEGOS MURO CORTAFUEGOS MURO<br>ACCESO<br>ÁREA ISLA DE CARGA<br>PERIMETRAL<br>3.675 SALA DE CONTROL CIERRO<br>ESTACIONAMIENTO DE CAMIONES PERIMETRAL<br>AREA SUMINISTROSÁREA AEROENFRIADORES AREA ADMINISTRATIVA 0000000012345678 0111111190123456 CIERRO<br>2.25 CIERRO PERIMETRAL NPT 0.00 PLANO DE DISPOSICIÓN EUE.1 2500 N O A P T O P A R A C O N S T R U C C I Ó N<br>1.87 0.82 2.89 1.07 1.16 0.82 1.39<br>10<br>PRO>ECTO Nk PRO>ECTO P A DI'U/O PRO>ECTO<br>ELEVACIÓN NORESTE SERVICIO DE IN,ENIER}A PARA LA DIA SUSa DP' DP'<br>EUE.1 75 R'P EV  aa E C -aa A  EEE 222 III TTT III DDD OOO PPP AAA RRR AAA RRA EEP VVR IIO SS' OOA NNC IÓ INN DDDD I'PPP U''' R222 ESSS VAAA 222 APSSS RAAA TITP UR LOO >EC P2T LIO N EP NR EL O LA N DT VDEA A - N IP OTV LO A+P EA NA S, TR A AA S TD A >ISTRITO N Nk P PL LA N N>aO P TP CA IA N TIa N TE  R E+E V CC2 I A-S LASO A RA EP VR 2 PO' SO A<br> a PP L/ A N Oa  N k LA>OUT PLANTA PRODUCC TI IÓ TN U LO-V A +a   a  II TER DN EA SCRIPCION    A O E A E C N N k k P R AO OEC O L EC L EE SE  A  <br>PLANOS RE+ERENCIAS REVISIONES EDI+ICIOS DE OPERACIÓN  INDICADAS|Col2|Col3|
+|---|---|---|
+|6 m2<br>Baño H<br>25 m2<br>Sala Gabinetes de<br>Control<br>42 m2<br>Sala de operaciones<br>12 m2<br>Oficina 2<br>12 m2<br>Oficina 2<br>12 m2<br>Kitchenette<br>6 m2<br>Baño M<br>12 m2<br>Recepción/<br>Área impresion<br>A<br>B<br>1<br>2<br>N<br>9.85<br>10<br>14.93<br>15.08<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>ACCESO<br>BARRA PRINCIPAL 220kV<br>BARRA TRANSFERENCIA 220kV<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>AREA SUMINISTROS<br>ÁREA AEROENFRIADORES<br>ÁREA ALMACENAMIENTO H2V<br>ÁREA ISLA DE CARGA<br>ESTACIONAMIENTO DE CAMIONES<br>AREA ADMINISTRATIVA<br>09<br>10<br>11<br>01<br>02<br>03<br>12<br>13<br>14<br>15<br>16<br>04<br>05<br>06<br>07<br>08<br>SALA DE CONTROL<br>NPT0.00<br> 3.675<br> 2.25<br>1.19<br>0.82<br>2.17<br>0.82<br>2.23<br>0.82<br>7.05<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>1.87<br>0.82<br>2.89<br>1.07<br>1.16<br>0.82<br>1.39<br>10<br>NPT0.00<br> 2.25<br> 3.675<br>4.15<br>0.82<br>2.13<br>0.82<br>5.17<br>0.82<br>1.19<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>10<br>4.22<br>1.07<br>4.71<br>Nk PRO>ECTO P
+A<br>Nk PLANO P
+A<br>Nk PRO>ECTO CLIENTE<br>Nk PLANO CLIENTE<br>DI'U/O<br>PRO>ECTO<br>REVISO <br>APRO'O<br>+EC-A<br>ESCALA <br>REV<br>PRO>ECTO<br>TITULO <br>PLANOS RE+ERENCIAS<br>TITULO<br>PLANO Nk<br>REVISIONES<br>REV<br>+EC-A<br>DESCRIPCION<br>DI'U<br>REV<br>APR<br>PLANO DE PLANTA><br>ELEVACIONES<br>SERVICIO DE IN,ENIER}A PARA LA DIA<br>PRO>ECTO PLANTA -V PARA DISTRITO<br>2INERO DE ANTO+A,ASTA<br>2SA<br>DP'<br>DP'<br>2SA<br><br>INDICADAS P<br>
+aPAa<br>SUSa<br>EDI+ICIOS DE OPERACIÓN <br>E2ITIDO PARA REVISION INTERNA<br>E2ITIDO PARA REVISION<br>E2ITIDO PARA APRO'ACIÓN<br>LA>OUT PLANTA PRODUCCIÓN -V<br>
+aP/a<br>aa<br>aa<br>aa<br>A<br>'<br>P<br>DP'<br>DP'<br>DP'<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>EUE.1
+ 75<br>PLANTA SALA DE CONTROL DE PROCESOS<br>EUE.1
+ 2500<br>PLANO DE DISPOSICIÓN<br>EUE.1
+ 75<br>ELEVACIÓN NORPONIENTE<br>EUE.1
+ 75<br>ELEVACIÓN NORESTE<br>EUE.1
+ 75<br>ELEVACIÓN SURORIENTE<br>EUE.1
+ 75<br>ELEVACIÓN SURPONIENTE<br>**NO APTO PARA CONSTRUCCIÓN**|||
+|6 m2<br>Baño H<br>25 m2<br>Sala Gabinetes de<br>Control<br>42 m2<br>Sala de operaciones<br>12 m2<br>Oficina 2<br>12 m2<br>Oficina 2<br>12 m2<br>Kitchenette<br>6 m2<br>Baño M<br>12 m2<br>Recepción/<br>Área impresion<br>A<br>B<br>1<br>2<br>N<br>9.85<br>10<br>14.93<br>15.08<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>ACCESO<br>BARRA PRINCIPAL 220kV<br>BARRA TRANSFERENCIA 220kV<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>AREA SUMINISTROS<br>ÁREA AEROENFRIADORES<br>ÁREA ALMACENAMIENTO H2V<br>ÁREA ISLA DE CARGA<br>ESTACIONAMIENTO DE CAMIONES<br>AREA ADMINISTRATIVA<br>09<br>10<br>11<br>01<br>02<br>03<br>12<br>13<br>14<br>15<br>16<br>04<br>05<br>06<br>07<br>08<br>SALA DE CONTROL<br>NPT0.00<br> 3.675<br> 2.25<br>1.19<br>0.82<br>2.17<br>0.82<br>2.23<br>0.82<br>7.05<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>1.87<br>0.82<br>2.89<br>1.07<br>1.16<br>0.82<br>1.39<br>10<br>NPT0.00<br> 2.25<br> 3.675<br>4.15<br>0.82<br>2.13<br>0.82<br>5.17<br>0.82<br>1.19<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>10<br>4.22<br>1.07<br>4.71<br>Nk PRO>ECTO P
+A<br>Nk PLANO P
+A<br>Nk PRO>ECTO CLIENTE<br>Nk PLANO CLIENTE<br>DI'U/O<br>PRO>ECTO<br>REVISO <br>APRO'O<br>+EC-A<br>ESCALA <br>REV<br>PRO>ECTO<br>TITULO <br>PLANOS RE+ERENCIAS<br>TITULO<br>PLANO Nk<br>REVISIONES<br>REV<br>+EC-A<br>DESCRIPCION<br>DI'U<br>REV<br>APR<br>PLANO DE PLANTA><br>ELEVACIONES<br>SERVICIO DE IN,ENIER}A PARA LA DIA<br>PRO>ECTO PLANTA -V PARA DISTRITO<br>2INERO DE ANTO+A,ASTA<br>2SA<br>DP'<br>DP'<br>2SA<br><br>INDICADAS P<br>
+aPAa<br>SUSa<br>EDI+ICIOS DE OPERACIÓN <br>E2ITIDO PARA REVISION INTERNA<br>E2ITIDO PARA REVISION<br>E2ITIDO PARA APRO'ACIÓN<br>LA>OUT PLANTA PRODUCCIÓN -V<br>
+aP/a<br>aa<br>aa<br>aa<br>A<br>'<br>P<br>DP'<br>DP'<br>DP'<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>EUE.1
+ 75<br>PLANTA SALA DE CONTROL DE PROCESOS<br>EUE.1
+ 2500<br>PLANO DE DISPOSICIÓN<br>EUE.1
+ 75<br>ELEVACIÓN NORPONIENTE<br>EUE.1
+ 75<br>ELEVACIÓN NORESTE<br>EUE.1
+ 75<br>ELEVACIÓN SURORIENTE<br>EUE.1
+ 75<br>ELEVACIÓN SURPONIENTE<br>**NO APTO PARA CONSTRUCCIÓN**|Nk PRO>ECTO P
+A<br>Nk PLANO P
+A<br>DI'U/O<br>REVISO <br><br>N,ENIER}A PARA LA DIA<br>NTA -V PARA DISTRITO<br>DE ANTO+A,ASTA<br>DP'<br>2SA<br>
+aPAa<br>SUSa|PRO>ECTO<br>DP'|
+|6 m2<br>Baño H<br>25 m2<br>Sala Gabinetes de<br>Control<br>42 m2<br>Sala de operaciones<br>12 m2<br>Oficina 2<br>12 m2<br>Oficina 2<br>12 m2<br>Kitchenette<br>6 m2<br>Baño M<br>12 m2<br>Recepción/<br>Área impresion<br>A<br>B<br>1<br>2<br>N<br>9.85<br>10<br>14.93<br>15.08<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>ACCESO<br>BARRA PRINCIPAL 220kV<br>BARRA TRANSFERENCIA 220kV<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>AREA SUMINISTROS<br>ÁREA AEROENFRIADORES<br>ÁREA ALMACENAMIENTO H2V<br>ÁREA ISLA DE CARGA<br>ESTACIONAMIENTO DE CAMIONES<br>AREA ADMINISTRATIVA<br>09<br>10<br>11<br>01<br>02<br>03<br>12<br>13<br>14<br>15<br>16<br>04<br>05<br>06<br>07<br>08<br>SALA DE CONTROL<br>NPT0.00<br> 3.675<br> 2.25<br>1.19<br>0.82<br>2.17<br>0.82<br>2.23<br>0.82<br>7.05<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>1.87<br>0.82<br>2.89<br>1.07<br>1.16<br>0.82<br>1.39<br>10<br>NPT0.00<br> 2.25<br> 3.675<br>4.15<br>0.82<br>2.13<br>0.82<br>5.17<br>0.82<br>1.19<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>10<br>4.22<br>1.07<br>4.71<br>Nk PRO>ECTO P
+A<br>Nk PLANO P
+A<br>Nk PRO>ECTO CLIENTE<br>Nk PLANO CLIENTE<br>DI'U/O<br>PRO>ECTO<br>REVISO <br>APRO'O<br>+EC-A<br>ESCALA <br>REV<br>PRO>ECTO<br>TITULO <br>PLANOS RE+ERENCIAS<br>TITULO<br>PLANO Nk<br>REVISIONES<br>REV<br>+EC-A<br>DESCRIPCION<br>DI'U<br>REV<br>APR<br>PLANO DE PLANTA><br>ELEVACIONES<br>SERVICIO DE IN,ENIER}A PARA LA DIA<br>PRO>ECTO PLANTA -V PARA DISTRITO<br>2INERO DE ANTO+A,ASTA<br>2SA<br>DP'<br>DP'<br>2SA<br><br>INDICADAS P<br>
+aPAa<br>SUSa<br>EDI+ICIOS DE OPERACIÓN <br>E2ITIDO PARA REVISION INTERNA<br>E2ITIDO PARA REVISION<br>E2ITIDO PARA APRO'ACIÓN<br>LA>OUT PLANTA PRODUCCIÓN -V<br>
+aP/a<br>aa<br>aa<br>aa<br>A<br>'<br>P<br>DP'<br>DP'<br>DP'<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>EUE.1
+ 75<br>PLANTA SALA DE CONTROL DE PROCESOS<br>EUE.1
+ 2500<br>PLANO DE DISPOSICIÓN<br>EUE.1
+ 75<br>ELEVACIÓN NORPONIENTE<br>EUE.1
+ 75<br>ELEVACIÓN NORESTE<br>EUE.1
+ 75<br>ELEVACIÓN SURORIENTE<br>EUE.1
+ 75<br>ELEVACIÓN SURPONIENTE<br>**NO APTO PARA CONSTRUCCIÓN**|Nk PRO>ECTO P
+A<br>Nk PLANO P
+A<br>DI'U/O<br>REVISO <br><br>N,ENIER}A PARA LA DIA<br>NTA -V PARA DISTRITO<br>DE ANTO+A,ASTA<br>DP'<br>2SA<br>
+aPAa<br>SUSa|APRO'O<br>2SA|
+|6 m2<br>Baño H<br>25 m2<br>Sala Gabinetes de<br>Control<br>42 m2<br>Sala de operaciones<br>12 m2<br>Oficina 2<br>12 m2<br>Oficina 2<br>12 m2<br>Kitchenette<br>6 m2<br>Baño M<br>12 m2<br>Recepción/<br>Área impresion<br>A<br>B<br>1<br>2<br>N<br>9.85<br>10<br>14.93<br>15.08<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>CIERRO PERIMETRAL<br>ACCESO<br>BARRA PRINCIPAL 220kV<br>BARRA TRANSFERENCIA 220kV<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>MURO CORTAFUEGOS<br>AREA SUMINISTROS<br>ÁREA AEROENFRIADORES<br>ÁREA ALMACENAMIENTO H2V<br>ÁREA ISLA DE CARGA<br>ESTACIONAMIENTO DE CAMIONES<br>AREA ADMINISTRATIVA<br>09<br>10<br>11<br>01<br>02<br>03<br>12<br>13<br>14<br>15<br>16<br>04<br>05<br>06<br>07<br>08<br>SALA DE CONTROL<br>NPT0.00<br> 3.675<br> 2.25<br>1.19<br>0.82<br>2.17<br>0.82<br>2.23<br>0.82<br>7.05<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>1.87<br>0.82<br>2.89<br>1.07<br>1.16<br>0.82<br>1.39<br>10<br>NPT0.00<br> 2.25<br> 3.675<br>4.15<br>0.82<br>2.13<br>0.82<br>5.17<br>0.82<br>1.19<br>15.08<br>NPT0.00<br> 2.25<br> 3.675<br>10<br>4.22<br>1.07<br>4.71<br>Nk PRO>ECTO P
+A<br>Nk PLANO P
+A<br>Nk PRO>ECTO CLIENTE<br>Nk PLANO CLIENTE<br>DI'U/O<br>PRO>ECTO<br>REVISO <br>APRO'O<br>+EC-A<br>ESCALA <br>REV<br>PRO>ECTO<br>TITULO <br>PLANOS RE+ERENCIAS<br>TITULO<br>PLANO Nk<br>REVISIONES<br>REV<br>+EC-A<br>DESCRIPCION<br>DI'U<br>REV<br>APR<br>PLANO DE PLANTA><br>ELEVACIONES<br>SERVICIO DE IN,ENIER}A PARA LA DIA<br>PRO>ECTO PLANTA -V PARA DISTRITO<br>2INERO DE ANTO+A,ASTA<br>2SA<br>DP'<br>DP'<br>2SA<br><br>INDICADAS P<br>
+aPAa<br>SUSa<br>EDI+ICIOS DE OPERACIÓN <br>E2ITIDO PARA REVISION INTERNA<br>E2ITIDO PARA REVISION<br>E2ITIDO PARA APRO'ACIÓN<br>LA>OUT PLANTA PRODUCCIÓN -V<br>
+aP/a<br>aa<br>aa<br>aa<br>A<br>'<br>P<br>DP'<br>DP'<br>DP'<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>2SA<br>EUE.1
+ 75<br>PLANTA SALA DE CONTROL DE PROCESOS<br>EUE.1
+ 2500<br>PLANO DE DISPOSICIÓN<br>EUE.1
+ 75<br>ELEVACIÓN NORPONIENTE<br>EUE.1
+ 75<br>ELEVACIÓN NORESTE<br>EUE.1
+ 75<br>ELEVACIÓN SURORIENTE<br>EUE.1
+ 75<br>ELEVACIÓN SURPONIENTE<br>**NO APTO PARA CONSTRUCCIÓN**|Nk PRO>ECTO CLIENTE<br>Nk PLANO CLIENTE<br>+EC-A<br>ESCALA <br> DE PLANTA><br>EVACIONES<br><br>INDICADAS<br>DE OPERACIÓN |REV<br> P|

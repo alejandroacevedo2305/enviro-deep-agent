@@ -1,0 +1,21 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20220330165527-04
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Ubicación Local|Fuente de información|Col3|Col4|PROYECTO<br>PLANTA FOTOVOLTAICA<br>EL ALMENDRAL 9 MW|Col6|Col7|
+|---|---|---|---|---|---|---|
+||Cartografía y Levantamiento de Información:<br>GRENENERGY|Cartografía y Levantamiento de Información:<br>GRENENERGY|Cartografía y Levantamiento de Información:<br>GRENENERGY|Cartografía y Levantamiento de Información:<br>GRENENERGY|Cartografía y Levantamiento de Información:<br>GRENENERGY|Cartografía y Levantamiento de Información:<br>GRENENERGY|
+||**Escala gráfica y nominal**|TITULAR<br>|TITULAR<br>|TITULAR<br>|TITULAR<br>|CONSULTORA|
+||**0**<br>**50**<br>**100**<br>**m**<br>**1:2.492**|TEMA<br>PAS 140: Permiso para la construcción, reparación, modificación y ampliación<br>de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase<br>o para la instalación de todo lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de basuras y desperdicios de<br>cualquier clase.|TEMA<br>PAS 140: Permiso para la construcción, reparación, modificación y ampliación<br>de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase<br>o para la instalación de todo lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de basuras y desperdicios de<br>cualquier clase.|TEMA<br>PAS 140: Permiso para la construcción, reparación, modificación y ampliación<br>de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase<br>o para la instalación de todo lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de basuras y desperdicios de<br>cualquier clase.|TEMA<br>PAS 140: Permiso para la construcción, reparación, modificación y ampliación<br>de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase<br>o para la instalación de todo lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de basuras y desperdicios de<br>cualquier clase.|TEMA<br>PAS 140: Permiso para la construcción, reparación, modificación y ampliación<br>de cualquier planta de tratamiento de basuras y desperdicios de cualquier clase<br>o para la instalación de todo lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de basuras y desperdicios de<br>cualquier clase.|
+||**Datos Cartográficos y Geodésicos**|CONTENIDO<br><br><br><br><br>Ubicación Bodega RSD y<br>Área de Almacenamiento RISNP|CONTENIDO<br><br><br><br><br>Ubicación Bodega RSD y<br>Área de Almacenamiento RISNP|CONTENIDO<br><br><br><br><br>Ubicación Bodega RSD y<br>Área de Almacenamiento RISNP|CONTENIDO<br><br><br><br><br>Ubicación Bodega RSD y<br>Área de Almacenamiento RISNP|CONTENIDO<br><br><br><br><br>Ubicación Bodega RSD y<br>Área de Almacenamiento RISNP|
+||Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|
+||Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|**APÉNDICE**|**FECHA**|**FECHA**|**LÁMINA**|**FORMATO**|
+||Proyección Cartográfica UTM Huso 19 Sur<br>Equidistancia Grilla UTM cada 200 metros<br>Sistema de Referencia Geodésico Datum WGS84|A|Abril 2022|Abril 2022|1_de_1|A3|

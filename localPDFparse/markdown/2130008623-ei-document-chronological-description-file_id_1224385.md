@@ -1,0 +1,251 @@
+---
+title: Microsoft Word - 1.2. CRONOGRAMA ETAPA DE ABANDONO.docx
+author: Desconocido
+date: D:20141127013646Z00'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+Dado
+ que
+ el
+ proyecto
+ considera
+ una
+ vida
+ útil
+ de
+ 25
+ años
+ renovables,
+ el
+ Titular
+ no
+ contempla
+abandono
+ del
+ proyecto,
+ para
+ ello
+ el
+ titular
+ realizara
+ periódicamente
+ trabajos
+ de
+ mantención
+ y
+mejoras
+ cuando
+ sea
+ necesario
+ para
+ mantener
+ en
+ buenas
+ condiciones
+ el
+ centro
+ de
+ cultivo.
+
+En
+ caso
+ de
+ que
+ el
+ Titular
+ considere
+ pertinente
+ el
+ cierre
+ del
+ centro
+ de
+ cultivo,
+ éste
+ se
+ compromete
+a
+ cumplir
+ con
+ lo
+ establecido
+ en
+ el
+ Artículo
+ 4,
+ letra
+ c)
+ del
+ D.S.
+ (MINECON)
+ No
+ 320
+ de
+ 2001,
+ en
+cuanto
+ a
+ retirar
+ al
+ término
+ de
+ su
+ vida
+ útil
+ o
+ a
+ la
+ cesación
+ de
+ actividades
+ del
+ centro,
+ todo
+ tipo
+ de
+soportes
+ no
+ degradables
+ o
+ de
+ degradación
+ lenta
+ que
+ hubieren
+ sido
+ utilizados
+ como
+ sistema
+ de
+anclaje
+ al
+ fondo,
+ exceptuando
+ las
+ estructuras
+ de
+ concreto
+ utilizadas
+ para
+ el
+ anclaje,
+ se
+ realizará
+ un
+análisis
+ al
+ fin
+ de
+ la
+ etapa
+ para
+ verificar
+ si
+ es
+ factible
+ el
+ retiro
+ de
+ las
+ estructuras
+ de
+ concreto
+ o
+ si
+este
+ retiro
+ generaría
+ un
+ daño
+ mayor
+ al
+ entorno.
+ Esta
+ tarea
+ será
+ ejecutada
+ por
+ 3
+ personas
+ con
+apoyo
+ de
+ la
+ balsa
+ y
+ embarcaciones,
+ estimándose
+ un
+ plazo
+ de
+ 90
+ días
+ para
+ el
+ total
+ abandono
+ del
+centro
+ de
+ cultivo.
+
+Dado
+ que
+ el
+ proyecto
+ se
+ desarrollará
+ íntegramente
+ en
+ el
+ medio
+ marino,
+ se
+ estima
+ que
+ no
+ se
+ verá
+afectada
+ la
+ morfología
+ del
+ lugar,
+ así
+ como
+ la
+ vegetación
+ u
+ otro
+ componente
+ ambiental
+ del
+ sitio.
+
+Tabla
+ 18.
+ Cronograma
+ de
+ actividades
+ etapa
+ de
+ abandono
+
+|Actividad/Mes|1|2|3|
+|---|---|---|---|
+|Retiro y transporte de Líneas madres|X|||
+|Retiro de sistemas de fondeo|X|X||
+|Retiro de muertos(*)|||X|
+
+(*)
+ Consulta
+ pertinencia
+ a
+ la
+ autoridad

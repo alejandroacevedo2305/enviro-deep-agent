@@ -1,0 +1,14 @@
+---
+file_identifier: 2159260026-addendum-physics-files-1-annexes-file_id_413206
+status: FAILED
+error: A child process terminated abruptly, the process pool is not usable anymore
+s3_key: sea-crawler/2159260026/addendum-physics-files-1/annexes/10/Anexo-I-2-Informacion-Predios/Anexo-I-2-Informacion-Predios/Anexo-2.3-CIP/cip-192.pdf
+---
+
+# Processing Failed
+
+Traceback (most recent call last):
+  File "/home/nviro/NVIRO-airflow-parsing/SimpleWorkflow/sql_metadata_to_parsed_markdown_optimized.py", line 375, in process_single_pdf_optimized
+    raise Exception(error)
+Exception: A child process terminated abruptly, the process pool is not usable anymore
+

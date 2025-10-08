@@ -1,0 +1,30 @@
+---
+title: Presentación1
+author: Desconocido
+date: D:20230703124835
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|
+|---|---|---|---|
+||0.30<br>ø0.45<br>ø0.60|0.30<br>ø0.45<br>ø0.60||
+|||||
+|||||
+|||||
+
+|Col1|Col2|0.15<br>L|
+|---|---|---|
+||.03|0.35<br>5|
+|0|0|0|
+
+|Col1|PROYECTISTA : DENIS OJEDA C.<br>INGENIERO CIVIL<br>DIRECCIÓN : 1 NORTE N° 801 8vo PISO TALCA<br>FONO +56 9 8159 2357 dojeda@malpo.cl<br>F I R M A|Col3|
+|---|---|---|
+|JEFE DEPTO. TÉCNICO<br>REVISIÓN PREVIA<br>UNIDAD INGENIERÍA|JEFE DEPTO. TÉCNICO<br>REVISIÓN PREVIA<br>UNIDAD INGENIERÍA|JEFE DEPTO. TÉCNICO<br>REVISIÓN PREVIA<br>UNIDAD INGENIERÍA|
+|JEFE DEPTO. TÉCNICO<br>REVISIÓN PREVIA<br>UNIDAD INGENIERÍA|PLANO<br>PLANTA GENERAL, DETALLES,<br>UBICACIÓN Y SIMBOLOGÍA|LAMINA<br>1 de 1|
+|JEFE DEPTO. TÉCNICO<br>REVISIÓN PREVIA<br>UNIDAD INGENIERÍA|PLANO<br>PLANTA GENERAL, DETALLES,<br>UBICACIÓN Y SIMBOLOGÍA|FORMATO<br>ISO B1 707 x 1000|
+|JEFE DEPTO. TÉCNICO<br>REVISIÓN PREVIA<br>UNIDAD INGENIERÍA|INDICADAS<br>ESCALAS|FECHA<br>JUNIO 2023|

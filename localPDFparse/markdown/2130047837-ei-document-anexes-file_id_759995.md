@@ -1,0 +1,79 @@
+---
+title: Model
+author: Desconocido
+date: D:20141206162013
+language: unknown
+type: general
+pages: 1
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+LAMINA 90 x 50 LAMINA 90 x 110 LAMINA 90 x 100
+
+FACTOR ESCALA 1000-50
+
+ROJO = 0.10
+
+AMARILLO = 0.20
+VERDE= 0.30
+
+CIAN = 0.40
+
+AZUL = 0.40
+
+MAGENTA = 0.20
+COLOR 7 = 0.18
+
+COLOR 8 = 0.05
+
+FACTOR ESCALA 1000-50
+
+ROJO = 0.10
+
+AMARILLO = 0.20
+VERDE= 0.30
+
+CIAN = 0.70
+
+AZUL = 0.40
+
+MAGENTA = 0.40
+COLOR 7 = 0.18
+
+COLOR 8 = 0.05
+
+FACTOR ESCALA 1000-50
+
+ROJO = 0.10
+
+AMARILLO = 0.20
+VERDE= 0.30
+
+CIAN = 0.40
+
+AZUL = 0.70
+
+MAGENTA = 0.40
+COLOR 7 = 0.18
+
+COLOR 8 = 0.05
+
+COLOR 12 = 0.60-COLOR
+
+COLOR 30 = 0.35
+
+COLOR 170 = 0.35-COLOR
+
+COLOR 12 = 0.60-COLOR
+
+COLOR 30 = 0.35
+
+COLOR 170 = 0.35-COLOR
+
+COLOR 12 = 0.60-COLOR
+
+COLOR 30 = 0.35
+
+COLOR 170 = 0.35-COLOR

@@ -1,0 +1,43 @@
+---
+title: Presentación1
+author: Desconocido
+date: D:20240426142558
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+|6.17|6.17|6.17||20.00|||||||||12|.45|
+|||1.00|||||||||||||
+|5.67|5.67|5.67|5.67|5.67|5.67||||||||||
+|||1.00|||||||||||||
+|6.17|6.17|6.17|6.17|6.17|6.17||||||||||
+|6.17|6.17|6.17|6.17|6.17|6.17||||||||||
+|6.02|6.02|6.02|6.02|6.02|6.02|6.02|6.02|6.02|6.02|6.02|6.02|7.25|6.00|6.00|
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|Col26|Col27|Col28|1.20|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||6.17|6.17|6.17|6.17|||||||||||||||
+|||||||||||||||1.00|||||||||||||||
+||||||||||||5.67|5.67|5.67|5.67|||20.00|20.00|20.00||||||||||
+|||||||||||||||1.00|||||||||||||||
+||||||||||||6.17|6.17|6.17|6.17|||||||||||||||
+
+|6.17<br>1.00<br>1.53<br>5.67 20.00<br>6.38<br>1.00<br>1.54<br>6.17<br>12.45 2.70<br>6.02 6.02 6.02 6.02 6.02 7.25 6.00 6.00<br>22 23 24 25 26 27 28 29 30<br>CORTE LONGITUDINAL AA HARNERO TERCIARIO<br>ESC: 1: 100<br>3.10<br>1.20<br>6.17<br>1.00<br>23.31<br>21.39<br>23.30<br>5.67 20.00<br>21.39<br>1.00<br>6.17 6.17<br>5.03<br>33.72<br>13.38 7.00 14.64<br>35.02<br>35.02<br>D6 D1<br>ELEVACION NORTE HARNEROS TERCIARIOS<br>33<br>CORTE FF HARNEROS TERCIARIOS CHANCADO<br>ESC: 1: 100<br>ELE-970<br>ESC: 1: 100<br>SE-2750<br>29<br>30 TERCIARIO<br>1 3<br>32<br>27<br>14<br>25<br>26 28<br>35<br>34<br>SE-3150-2<br>7<br>36<br>23<br>40<br>ELE<br>SE-3<br>UBICACION EN PLATAFORMA<br>ESC: 1: 1500<br>UNIDAD DE CHANCADO TERCIARIO<br>"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"<br>Materia PLATAFORMA UNIDAD DE CHANCADO TERCIARIO Lámina<br>HARNEROS TERCIARIOS<br>Ubicación A 10KM SUROESTE DE LOCALIDAD NANTOCO, DISTRITO MINERO LAS PINTADAS<br>COMUNA DE TIERRA AMARILLA. REGION DE ATACAMA 17<br>ARQUITECTO MINERA ALTAIR S.A.<br>ALEJANDRA FUENZALIDA F. MANDATE MINERA ALTAIR S.A Escala : Indicadas RUT. 77.447.003-4<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155 Fecha ABRIL 2024 PROPIETARIO|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|28<br>29<br>30<br>26<br>25<br>27<br>22<br>24<br>23<br>CORTE LONGITUDINAL AA HARNERO TERCIARIO<br>**ESC: 1: 100**<br>6.17<br>1.00<br>5.67<br>1.00<br>6.17<br>20.00<br>12.45<br>6.02<br>6.02<br>6.02<br>6.02<br>6.02<br>7.25<br>6.00<br>6.00<br>1.54<br>6.38<br>1.53<br>2.70<br>20.00<br>6.17<br>1.00<br>5.67<br>1.00<br>6.17<br>D1<br>33.72<br>35.02<br>3.10<br>1.20<br>CORTE FF HARNEROS TERCIARIOS<br>**ESC: 1: 100**<br>D6<br>6.17<br>21.39<br>23.31<br>35.02<br>ELEVACION NORTE HARNEROS TERCIARIOS<br>**ESC: 1: 100**<br>14.64<br>7.00<br>13.38<br>5.03<br>21.39<br>23.30<br>SE-3150-2<br>SE-3<br>SE-2750<br>ELE<br>ELE-970<br>CHANCADO TERCIARIO<br>7<br>14<br>23<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33<br>34<br>35<br>36<br>40<br>Ubicación<br>Materia<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>Lámina<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155<br>A 10KM SUROESTE DE LOCALIDAD NANTOCO, DISTRITO MINERO LAS PINTADAS<br>COMUNA DE TIERRA AMARILLA. REGION DE ATACAMA<br>Fecha<br>ABRIL 2024<br>Escala : Indicadas<br>MANDATE<br>MINERA ALTAIR S.A<br>PROPIETARIO<br>MINERA ALTAIR S.A.<br>RUT. 77.447.003-4<br> HARNEROS TERCIARIOS<br>PLATAFORMA UNIDAD DE CHANCADO TERCIARIO<br>"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"<br>UBICACION EN PLATAFORMA<br>**ESC: 1: 1500**<br>UNIDAD DE CHANCADO TERCIARIO<br>17|"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"|"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"|"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"|"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"|
+|28<br>29<br>30<br>26<br>25<br>27<br>22<br>24<br>23<br>CORTE LONGITUDINAL AA HARNERO TERCIARIO<br>**ESC: 1: 100**<br>6.17<br>1.00<br>5.67<br>1.00<br>6.17<br>20.00<br>12.45<br>6.02<br>6.02<br>6.02<br>6.02<br>6.02<br>7.25<br>6.00<br>6.00<br>1.54<br>6.38<br>1.53<br>2.70<br>20.00<br>6.17<br>1.00<br>5.67<br>1.00<br>6.17<br>D1<br>33.72<br>35.02<br>3.10<br>1.20<br>CORTE FF HARNEROS TERCIARIOS<br>**ESC: 1: 100**<br>D6<br>6.17<br>21.39<br>23.31<br>35.02<br>ELEVACION NORTE HARNEROS TERCIARIOS<br>**ESC: 1: 100**<br>14.64<br>7.00<br>13.38<br>5.03<br>21.39<br>23.30<br>SE-3150-2<br>SE-3<br>SE-2750<br>ELE<br>ELE-970<br>CHANCADO TERCIARIO<br>7<br>14<br>23<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33<br>34<br>35<br>36<br>40<br>Ubicación<br>Materia<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>Lámina<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155<br>A 10KM SUROESTE DE LOCALIDAD NANTOCO, DISTRITO MINERO LAS PINTADAS<br>COMUNA DE TIERRA AMARILLA. REGION DE ATACAMA<br>Fecha<br>ABRIL 2024<br>Escala : Indicadas<br>MANDATE<br>MINERA ALTAIR S.A<br>PROPIETARIO<br>MINERA ALTAIR S.A.<br>RUT. 77.447.003-4<br> HARNEROS TERCIARIOS<br>PLATAFORMA UNIDAD DE CHANCADO TERCIARIO<br>"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"<br>UBICACION EN PLATAFORMA<br>**ESC: 1: 1500**<br>UNIDAD DE CHANCADO TERCIARIO<br>17|ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155|Ubicación<br>Materia<br>A 10KM SUROESTE DE LOCALIDAD NANTOCO, DISTRITO MINERO LAS PINTADAS<br>COMUNA DE TIERRA AMARILLA. REGION DE ATACAMA<br>Fecha<br>ABRIL 2024<br>Escala : Indicadas<br>MANDATE<br>MINERA ALTAIR S.A<br> HARNEROS TERCIARIOS<br>PLATAFORMA UNIDAD DE CHANCADO TERCIARIO|PROPIETARIO<br>MINERA ALTAIR S.A.<br>RUT. 77.447.003-4|Lámina|
+|28<br>29<br>30<br>26<br>25<br>27<br>22<br>24<br>23<br>CORTE LONGITUDINAL AA HARNERO TERCIARIO<br>**ESC: 1: 100**<br>6.17<br>1.00<br>5.67<br>1.00<br>6.17<br>20.00<br>12.45<br>6.02<br>6.02<br>6.02<br>6.02<br>6.02<br>7.25<br>6.00<br>6.00<br>1.54<br>6.38<br>1.53<br>2.70<br>20.00<br>6.17<br>1.00<br>5.67<br>1.00<br>6.17<br>D1<br>33.72<br>35.02<br>3.10<br>1.20<br>CORTE FF HARNEROS TERCIARIOS<br>**ESC: 1: 100**<br>D6<br>6.17<br>21.39<br>23.31<br>35.02<br>ELEVACION NORTE HARNEROS TERCIARIOS<br>**ESC: 1: 100**<br>14.64<br>7.00<br>13.38<br>5.03<br>21.39<br>23.30<br>SE-3150-2<br>SE-3<br>SE-2750<br>ELE<br>ELE-970<br>CHANCADO TERCIARIO<br>7<br>14<br>23<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33<br>34<br>35<br>36<br>40<br>Ubicación<br>Materia<br>ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>Lámina<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155<br>A 10KM SUROESTE DE LOCALIDAD NANTOCO, DISTRITO MINERO LAS PINTADAS<br>COMUNA DE TIERRA AMARILLA. REGION DE ATACAMA<br>Fecha<br>ABRIL 2024<br>Escala : Indicadas<br>MANDATE<br>MINERA ALTAIR S.A<br>PROPIETARIO<br>MINERA ALTAIR S.A.<br>RUT. 77.447.003-4<br> HARNEROS TERCIARIOS<br>PLATAFORMA UNIDAD DE CHANCADO TERCIARIO<br>"PROYECTO EXPLOTACIÓN Y PROCESAMIENTO DE MINERALES LA FAROLA"<br>UBICACION EN PLATAFORMA<br>**ESC: 1: 1500**<br>UNIDAD DE CHANCADO TERCIARIO<br>17|ARQUITECTO<br>ALEJANDRA FUENZALIDA F.<br>rut. 10.477082-7 mail. alefuenzalidaf@gmail.com<br>Cerro Acahay 837 .T.Viva Copiapó . fono 92226155|Ubicación<br>Materia<br>A 10KM SUROESTE DE LOCALIDAD NANTOCO, DISTRITO MINERO LAS PINTADAS<br>COMUNA DE TIERRA AMARILLA. REGION DE ATACAMA<br>Fecha<br>ABRIL 2024<br>Escala : Indicadas<br>MANDATE<br>MINERA ALTAIR S.A<br> HARNEROS TERCIARIOS<br>PLATAFORMA UNIDAD DE CHANCADO TERCIARIO|PROPIETARIO<br>MINERA ALTAIR S.A.<br>RUT. 77.447.003-4|17|

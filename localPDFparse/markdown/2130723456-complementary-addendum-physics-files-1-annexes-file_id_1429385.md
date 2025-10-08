@@ -1,0 +1,19 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20151222112818
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|91 90 31 30<br>120 61 60 1<br>89 32<br>88 33<br>75 46<br>74 47<br>225<br>173 2243<br>1 2172 121<br>120 60 1<br>1<br>5 B<br>61<br>1<br>91 90 31 30<br>2<br>391 420<br>390 361<br>331 360<br>330 301<br>271 300<br>120 61 60 1<br>270 241<br>211 240<br>89 32<br>210 181 88 33<br>151 180<br>150 121<br>12 3 75 46<br>74 47<br>13 6<br>120 60 1<br>1<br>5<br>12<br>421 429<br>428<br>441442 462<br>PLANTA DE UBICACION<br>NOTA: Cotas en Mts<br>CENTRO DE DISTRIBUCION<br>S/Esc|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|89<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>1<br>2<br>5<br>1<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>180<br>241<br>271<br>121<br>150<br>151<br>181<br>211<br>210<br>240<br>270<br>301<br>300<br>361<br>331<br>330<br>420<br>360<br>390<br>89<br>391<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>3<br>12<br>1<br>2<br>6<br>13<br>5<br>1<br>1<br>2<br>3<br>225<br>224<br>173<br>172<br>121<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>421<br>428<br>429<br>441<br>442<br>462<br>61<br>CENTRO DE DISTRIBUCION<br>PLANTA DE UBICACION<br>~~B~~<br>NOTA: Cotas en Mts<br>S/Esc|||||
+|89<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>1<br>2<br>5<br>1<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>180<br>241<br>271<br>121<br>150<br>151<br>181<br>211<br>210<br>240<br>270<br>301<br>300<br>361<br>331<br>330<br>420<br>360<br>390<br>89<br>391<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>3<br>12<br>1<br>2<br>6<br>13<br>5<br>1<br>1<br>2<br>3<br>225<br>224<br>173<br>172<br>121<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>421<br>428<br>429<br>441<br>442<br>462<br>61<br>CENTRO DE DISTRIBUCION<br>PLANTA DE UBICACION<br>~~B~~<br>NOTA: Cotas en Mts<br>S/Esc|||||
+|89<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>1<br>2<br>5<br>1<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>180<br>241<br>271<br>121<br>150<br>151<br>181<br>211<br>210<br>240<br>270<br>301<br>300<br>361<br>331<br>330<br>420<br>360<br>390<br>89<br>391<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>3<br>12<br>1<br>2<br>6<br>13<br>5<br>1<br>1<br>2<br>3<br>225<br>224<br>173<br>172<br>121<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>421<br>428<br>429<br>441<br>442<br>462<br>61<br>CENTRO DE DISTRIBUCION<br>PLANTA DE UBICACION<br>~~B~~<br>NOTA: Cotas en Mts<br>S/Esc||CENTRO DE DISTRIBUCION|CENTRO DE DISTRIBUCION|CENTRO DE DISTRIBUCION|
+|89<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>1<br>2<br>5<br>1<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>180<br>241<br>271<br>121<br>150<br>151<br>181<br>211<br>210<br>240<br>270<br>301<br>300<br>361<br>331<br>330<br>420<br>360<br>390<br>89<br>391<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>3<br>12<br>1<br>2<br>6<br>13<br>5<br>1<br>1<br>2<br>3<br>225<br>224<br>173<br>172<br>121<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>421<br>428<br>429<br>441<br>442<br>462<br>61<br>CENTRO DE DISTRIBUCION<br>PLANTA DE UBICACION<br>~~B~~<br>NOTA: Cotas en Mts<br>S/Esc||S/Esc|S/Esc|S/Esc|
+|89<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>1<br>2<br>5<br>1<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>180<br>241<br>271<br>121<br>150<br>151<br>181<br>211<br>210<br>240<br>270<br>301<br>300<br>361<br>331<br>330<br>420<br>360<br>390<br>89<br>391<br>120<br>88<br>32<br>33<br>75<br>60<br>46<br>47<br>74<br>1<br>3<br>12<br>1<br>2<br>6<br>13<br>5<br>1<br>1<br>2<br>3<br>225<br>224<br>173<br>172<br>121<br>91<br>120<br>61<br>90<br>30<br>31<br>60<br>1<br>421<br>428<br>429<br>441<br>442<br>462<br>61<br>CENTRO DE DISTRIBUCION<br>PLANTA DE UBICACION<br>~~B~~<br>NOTA: Cotas en Mts<br>S/Esc||S/Esc|||

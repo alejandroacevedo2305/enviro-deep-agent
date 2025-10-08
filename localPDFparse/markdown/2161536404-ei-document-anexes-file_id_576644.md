@@ -1,0 +1,27 @@
+---
+title: Model
+author: Desconocido
+date: D:20240221103620
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: False
+extraction_quality: high
+---
+
+SUPERFICIES BRUTA
+
+**PERFIL L 30X30X3**
+
+MALLA ELECTROSOLDADA1G 15X5 cm, e=3.8mm
+
+PILAR PREFABRICADOHORMIGON
+
+HORMIGON VIBRADO TIPO BULDOGCIERRO PREFABRICADO
+
+1 CALLE GUILLERMO HOLLSTEIN
+
+A [PASAJE INTERIOR] CONDOMINIO 2 Y 3
+
+ESQUEMA SUPERFICIES

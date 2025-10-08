@@ -1,0 +1,55 @@
+---
+title: Sin título
+author: Alejandro Francisco Ortiz Carreño
+date: D:20210421220029-4'0'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Simbología
+-->
+
+# Simbología
+
+**1.-ZONA CONTENEDORES RESIDUOS DOMICILIARIOS IF OESTE**
+
+**2.-ZONA BANOS QUIMICOS IF OESTE**
+
+**3.-COMEDORES IF OESTE**
+
+**4.-OFICINAS IF OESTE**
+
+**5.-ESTACIONAMIENTO VEHICULOS LIVIANOS IF OESTE**
+
+**6.-ESTACIONAMIENTO MAQUINARIA IF OESTE**
+
+**7.-ZONA DESCARGA DE MATERIALES IF OESTE**
+
+**8.-ZONA ALMACENAMIENTO TEMPORAL MATERIALES IF OESTE**
+
+**9.-CASETA DE CONTROL E INGRESO IF OESTE**
+
+**10.-PATIO RESIDUOS NO PELIGROSOS IF OESTE**
+
+**11.-BODEGA RESPEL IF OESTE (Permanente)**
+
+**POLIGONO INSTALACION DE FAENAS OESTE**
+
+**ESTANQUES IF OESTE (Permanente)**
+
+**FOSA SEPTICA IF OESTE (Permanente)**
+
+Escala 1:40.000
+
+UTM WGS 84 H19S
+
+PARQUE FOTOVOLTAICO VÍCTOR JARA 200 MW
+
+LAYOUT OBRAS TEMPORALES
+INSTALACIÓN DE FAENAS OESTE

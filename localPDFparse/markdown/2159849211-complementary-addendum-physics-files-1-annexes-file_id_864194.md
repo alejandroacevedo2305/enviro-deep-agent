@@ -1,0 +1,18 @@
+---
+title: Sin título
+author: Mauricio Correa
+date: D:20250501031556+00'00'
+language: unknown
+type: general
+pages: 15
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|REV.|FECHA<br>ASIGNACIÓN|EMITIDO<br>PARA|AUTOR|FECHA<br>ENTREGA|REVISADO<br>POR|FECHA DE<br>REVISIÓN|APROBADO<br>POR|FECHA ENVÍO<br>CLIENTE|
+|---|---|---|---|---|---|---|---|---|
+|A|23.09.2024|INTERNO|J. ALFONSO|25.10.2024|M. CORREA|25.10.2024|M. CORREA|---|
+|B|25.10.2024|CLEINTE|M.CORREA|25.10.2024|M. CORREA|02.11.2024|M. CORREA|05.11.2024|
+|C|11.03.2025|INTERNO|M. CORREA|20.04.2025|M. CORREA|25.04.2025|M. CORREA|---|
+|00|25.04.2025|CLIENTE|M. CORREA|28.04.2025|M. CORREA|28.04.2025|M. CORREA|28.04.2025|

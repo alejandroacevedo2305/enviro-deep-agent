@@ -1,0 +1,55 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20201119120244
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+|1 2 3 4 5 6 7|8 9 10|Col3|
+|---|---|---|
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|RECEPTORES DE RUIDO|RECEPTORES DE RUIDO|
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|Región del Libertador General Bernardo O ́Higgins|Región del Libertador General Bernardo O ́Higgins|
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|||
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|NUEVA PROVIDENCIA 1881, OFIC. 318. PROVIDENCIA - SANTIAGO<br>Fono: (+56 2) 2969 5077|NUEVA PROVIDENCIA 1881, OFIC. 318. PROVIDENCIA - SANTIAGO<br>Fono: (+56 2) 2969 5077|
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|Sistema de coordenada UTM Datum: WGS-84 Huso 19S<br>Leyenda:<br>CANALES SIN INTERVENCION<br>PUNTOS COOREDENADAS<br>CAMINO INTERNO<br>CERCO PERIMETRAL<br>PREDIO ROL 115-22<br>RECEPTORES DE RUIDO|Sistema de coordenada UTM Datum: WGS-84 Huso 19S<br>Leyenda:<br>CANALES SIN INTERVENCION<br>PUNTOS COOREDENADAS<br>CAMINO INTERNO<br>CERCO PERIMETRAL<br>PREDIO ROL 115-22<br>RECEPTORES DE RUIDO|
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|H-611<br>ca<br>RUTA 5<br>RUTA 5<br>H-606<br>H-605|8<br>46<br>21<br>9.23<br>9.00<br>9.23<br>9.00<br>22.24<br>15.48<br>15.48<br>22.24<br>7<br>14<br>10<br>10<br>10<br>llejón San luis<br>H-605<br>H-635<br>H-631<br>H-631<br>H-639<br>H-577<br>PFV EL MIRLO|
+|PARQUE FOTOVOLTAICO EL MIRLO<br>3|CROQUIS DE UBICACION<br>ESCALA 1:50.000|CROQUIS DE UBICACION<br>ESCALA 1:50.000|
+
+1 2 3 4 5 6 7 8 9 10

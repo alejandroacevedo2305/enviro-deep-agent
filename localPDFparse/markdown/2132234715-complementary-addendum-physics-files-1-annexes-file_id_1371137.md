@@ -1,0 +1,39 @@
+---
+title: 100-TUC_PLANTAS
+author: Desconocido
+date: D:20170607124839
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|APROBACION DOM|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|||OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|
+|||OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.|OBSERVACIONES<br>FECHA<br>REV.<br>DIBUJO<br>MODIFICACIONES<br>FECHA<br>REV.||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||V<br>Pablo<br>Gellona Vial<br>Servicios de<br>Arquitectura|V<br>Pablo<br>Gellona Vial<br>Servicios de<br>Arquitectura|V<br>Pablo<br>Gellona Vial<br>Servicios de<br>Arquitectura|V<br>Pablo<br>Gellona Vial<br>Servicios de<br>Arquitectura|V<br>Pablo<br>Gellona Vial<br>Servicios de<br>Arquitectura|V<br>Pablo<br>Gellona Vial<br>Servicios de<br>Arquitectura|
+|||Fono: +56 23338941<br>Josue Smith Solar 507 - Providencia - Santiago.<br>E- mail : pgellona@pgvarquitectura.cl|Fono: +56 23338941<br>Josue Smith Solar 507 - Providencia - Santiago.<br>E- mail : pgellona@pgvarquitectura.cl|Fono: +56 23338941<br>Josue Smith Solar 507 - Providencia - Santiago.<br>E- mail : pgellona@pgvarquitectura.cl|Fono: +56 23338941<br>Josue Smith Solar 507 - Providencia - Santiago.<br>E- mail : pgellona@pgvarquitectura.cl|Fono: +56 23338941<br>Josue Smith Solar 507 - Providencia - Santiago.<br>E- mail : pgellona@pgvarquitectura.cl|Fono: +56 23338941<br>Josue Smith Solar 507 - Providencia - Santiago.<br>E- mail : pgellona@pgvarquitectura.cl|
+|||PROPIETARIO:<br>REPRESENTANTE LEGAL<br>RUT:<br>52'5,*2/<215$0Ë5(=)5$1&,6&26,/9$$/&$/'(<br>76.217.677-7<br>Inversiones Actual Raices Spa|PROPIETARIO:<br>REPRESENTANTE LEGAL<br>RUT:<br>52'5,*2/<215$0Ë5(=)5$1&,6&26,/9$$/&$/'(<br>76.217.677-7<br>Inversiones Actual Raices Spa|PROPIETARIO:<br>REPRESENTANTE LEGAL<br>RUT:<br>52'5,*2/<215$0Ë5(=)5$1&,6&26,/9$$/&$/'(<br>76.217.677-7<br>Inversiones Actual Raices Spa|PROPIETARIO:<br>REPRESENTANTE LEGAL<br>RUT:<br>52'5,*2/<215$0Ë5(=)5$1&,6&26,/9$$/&$/'(<br>76.217.677-7<br>Inversiones Actual Raices Spa|PROPIETARIO:<br>REPRESENTANTE LEGAL<br>RUT:<br>52'5,*2/<215$0Ë5(=)5$1&,6&26,/9$$/&$/'(<br>76.217.677-7<br>Inversiones Actual Raices Spa|PROPIETARIO:<br>REPRESENTANTE LEGAL<br>RUT:<br>52'5,*2/<215$0Ë5(=)5$1&,6&26,/9$$/&$/'(<br>76.217.677-7<br>Inversiones Actual Raices Spa|
+|||PABLO GELLONA VIAL<br>ARQUITECTO|PABLO GELLONA VIAL<br>ARQUITECTO|PABLO GELLONA VIAL<br>ARQUITECTO|PABLO GELLONA VIAL<br>ARQUITECTO|PABLO GELLONA VIAL<br>ARQUITECTO|PABLO GELLONA VIAL<br>ARQUITECTO|
+|||PROYECTO:<br>SEMINARIO - TUCAPEL<br>EDIFICIO<br>PROYECTO|PROYECTO:<br>SEMINARIO - TUCAPEL<br>EDIFICIO<br>PROYECTO|PROYECTO:<br>SEMINARIO - TUCAPEL<br>EDIFICIO<br>PROYECTO|PROYECTO:<br>SEMINARIO - TUCAPEL<br>EDIFICIO<br>PROYECTO|PROYECTO:<br>SEMINARIO - TUCAPEL<br>EDIFICIO<br>PROYECTO|PROYECTO:<br>SEMINARIO - TUCAPEL<br>EDIFICIO<br>PROYECTO|
+|||&2081$'(f8f2$<br>52/(66,,1<br>$96(0,1$5,2178&$3(/1\1
+|&2081$'(f8f2$<br>52/(66,,1<br>$96(0,1$5,2178&$3(/1\1
+|&2081$'(f8f2$<br>52/(66,,1<br>$96(0,1$5,2178&$3(/1\1
+|&2081$'(f8f2$<br>52/(66,,1<br>$96(0,1$5,2178&$3(/1\1
+|&2081$'(f8f2$<br>52/(66,,1<br>$96(0,1$5,2178&$3(/1\1
+|&2081$'(f8f2$<br>52/(66,,1<br>$96(0,1$5,2178&$3(/1\1
+|
+|||CONTENIDO:<br>ACCESIBILIDAD<br>PLANTA 2do SUBTERRANEO|CONTENIDO:<br>ACCESIBILIDAD<br>PLANTA 2do SUBTERRANEO|CONTENIDO:<br>ACCESIBILIDAD<br>PLANTA 2do SUBTERRANEO|CONTENIDO:<br>ACCESIBILIDAD<br>PLANTA 2do SUBTERRANEO|CONTENIDO:<br>ACCESIBILIDAD<br>PLANTA 2do SUBTERRANEO|CONTENIDO:<br>ACCESIBILIDAD<br>PLANTA 2do SUBTERRANEO|
+|||ESCALA:<br>1:100|ESCALA:<br>1:100|ESCALA:<br>1:100|ESCALA:<br>1:100|ESCALA:<br>1:100|ESCALA:<br>1:100|
+|||FECHA:<br>12 / e|FECHA:<br>12 / e|FORMATO:<br>ne. / 2016|FORMATO:<br>ne. / 2016|FORMATO:<br>ne. / 2016|FORMATO:<br>ne. / 2016|
+|||PROYECTO:<br>CL|PROYECTO:<br>CL|DIBUJO:<br>1352<(&72<br>1/$0,1$<br><br>A<br><br>204<br>CBJ<br>AUDIO BAEZ|DIBUJO:<br>1352<(&72<br>1/$0,1$<br><br>A<br><br>204<br>CBJ<br>AUDIO BAEZ|DIBUJO:<br>1352<(&72<br>1/$0,1$<br><br>A<br><br>204<br>CBJ<br>AUDIO BAEZ|DIBUJO:<br>1352<(&72<br>1/$0,1$<br><br>A<br><br>204<br>CBJ<br>AUDIO BAEZ|
+|||||TUC|DE :<br>3 de 18<br>503|DE :<br>3 de 18<br>503|DE :<br>3 de 18<br>503|
+
+FORMATO ISO A0 ( 84,1 x 118,9cm )

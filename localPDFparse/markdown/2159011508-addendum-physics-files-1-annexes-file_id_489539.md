@@ -1,0 +1,61 @@
+---
+title: Sin título
+author: Joan Hernandez
+date: D:20230726095537-04'00'
+language: es
+type: general
+pages: 6
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Identificación del entrevistado|Col2|Col3|Col4|
+|---|---|---|---|
+|**Género: Femenino**|**Ocupación: Estudiante**|**Ocupación: Estudiante**|**Años residencia/trabajo en sector: 2**|
+|**Edad: 18**|**Organización/cargo:**|**Organización/cargo:**|**Organización/cargo:**|
+|**1. **<br>**Dimensión Geográfica**|**1. **<br>**Dimensión Geográfica**|**1. **<br>**Dimensión Geográfica**|**1. **<br>**Dimensión Geográfica**|
+|**1.1 Usos y ocupación del territorio:**|**1.1 Usos y ocupación del territorio:**|**1.1 Usos y ocupación del territorio:**|**1.1 Usos y ocupación del territorio:**|
+|1.1.1 ¿Cuáles es el nombre del barrio/sector? ¿Cuáles son sus<br>límites? (viales o hitos)|1.1.1 ¿Cuáles es el nombre del barrio/sector? ¿Cuáles son sus<br>límites? (viales o hitos)|- <br>Camino del Trapiche<br>- <br>Límites: Calle Los Tilos, calle el Trapiche y calle Santa Teresa.|- <br>Camino del Trapiche<br>- <br>Límites: Calle Los Tilos, calle el Trapiche y calle Santa Teresa.|
+|1.1.2 ¿Qué otros barrios/sectores se encuentran contiguo a éste?|1.1.2 ¿Qué otros barrios/sectores se encuentran contiguo a éste?|||
+|**1.2 Desplazamientos de la población:**|**1.2 Desplazamientos de la población:**|**1.2 Desplazamientos de la población:**|**1.2 Desplazamientos de la población:**|
+|1.2.1 ¿Cuáles son los recorridos más frecuentes realizados por los<br>residentes? ¿Cuál es el motivo principal de desplazamiento? ¿Cuál<br>es el nivel de demanda de locomoción colectiva?|1.2.1 ¿Cuáles son los recorridos más frecuentes realizados por los<br>residentes? ¿Cuál es el motivo principal de desplazamiento? ¿Cuál<br>es el nivel de demanda de locomoción colectiva?|- <br>La micro de la circunvalación.<br>- <br>Yo creo que lo mayor (motivo) es como el trabajo, lo que los mueve.|- <br>La micro de la circunvalación.<br>- <br>Yo creo que lo mayor (motivo) es como el trabajo, lo que los mueve.|
+|1.2.2 ¿Cuál es el medio de transporte más utilizado por la<br>población? (n° de recorrido, colectivo, etc.) ¿Qué frecuencia tiene<br>entre buses? ¿Cuánto tiempo le toma desplazarse hacia su<br>destino?|1.2.2 ¿Cuál es el medio de transporte más utilizado por la<br>población? (n° de recorrido, colectivo, etc.) ¿Qué frecuencia tiene<br>entre buses? ¿Cuánto tiempo le toma desplazarse hacia su<br>destino?|- <br> Tienen hartos autos, pero siempre se usa la locomoción, la (micro que pasa por) Circunvalación.<br>Pasa también la (micro de) Isabel Riquelme, la Cachapoal.|- <br> Tienen hartos autos, pero siempre se usa la locomoción, la (micro que pasa por) Circunvalación.<br>Pasa también la (micro de) Isabel Riquelme, la Cachapoal.|
+|1.2.3 ¿En qué calles se puede tomar locomoción? ¿Cuánto tiempo<br>demora en trasladarse hacia paraderos de locomoción colectiva?<br>¿Cuál es el estado de los paraderos?|1.2.3 ¿En qué calles se puede tomar locomoción? ¿Cuánto tiempo<br>demora en trasladarse hacia paraderos de locomoción colectiva?<br>¿Cuál es el estado de los paraderos?|||
+|1.2.4 ¿Existen problemas relacionados con el desplazamiento? Ej:<br>Congestión vehicular (lugar/horarios), estado de las calles o<br>veredas, frecuencia de transporte, etc.|1.2.4 ¿Existen problemas relacionados con el desplazamiento? Ej:<br>Congestión vehicular (lugar/horarios), estado de las calles o<br>veredas, frecuencia de transporte, etc.|- <br>En la mañana como a las 7, se sonó un taco a esa hora más o menos.|- <br>En la mañana como a las 7, se sonó un taco a esa hora más o menos.|
+|**2. **<br>**Dimensión Demográfica**|**2. **<br>**Dimensión Demográfica**|**2. **<br>**Dimensión Demográfica**|**2. **<br>**Dimensión Demográfica**|
+|2.1 ¿Hay rotación de vecinos? ¿Han llegado nuevos vecinos en los<br>últimos años? ¿Se han ido vecinos en los últimos años? ¿Cuáles<br>serán sus motivos?|2.1 ¿Hay rotación de vecinos? ¿Han llegado nuevos vecinos en los<br>últimos años? ¿Se han ido vecinos en los últimos años? ¿Cuáles<br>serán sus motivos?|I: Ya, respecto a una descripción de los vecinos, ¿cuál es la edad promedio de la población en el sector que<br>tú ves?:<br>E: Como de 30, 35 años más o menos.<br>I: Ya, ¿se observan más hombres o mujeres?<br>E: Mujeres.<br>I: ¿Cuál es el tamaño del hogar? O sea, tú aquí ves en el condominio familias numerosas?|I: Ya, respecto a una descripción de los vecinos, ¿cuál es la edad promedio de la población en el sector que<br>tú ves?:<br>E: Como de 30, 35 años más o menos.<br>I: Ya, ¿se observan más hombres o mujeres?<br>E: Mujeres.<br>I: ¿Cuál es el tamaño del hogar? O sea, tú aquí ves en el condominio familias numerosas?|
+
+|Col1|E: No, casi siempre es como de 5 personas máximo que viven en el condominio.<br>I: ¿En este último tiempo has notado rotación de vecinos? ¿O sea que lleguen nuevos vecinos o que se<br>vayan?<br>E: Que lleguen.<br>I: ¿Y cuál crees tú que es el motivo?<br>E: Es que algunos cuando entregaron el condominio no se vinieron al tiro entonces ahora como que se<br>están trasladando y así.|
+|---|---|
+|2.2 ¿Cuál será el último curso aprobado de los vecinos del sector?|I: Según lo que tú crees, ¿cuál es el nivel educacional de los vecinos del sector en general?<br>E: Básico, medio, superior. Yo creo que medio|
+|**3. **<br>**Dimensión Socioeconómica**|**3. **<br>**Dimensión Socioeconómica**|
+|3.1 ¿Cuáles son las principales actividades económicas del barrio?<br>¿Dónde se ubican?|I: ¿Cuáles son las principales actividades económicas del sector? ¿Cómo es? actividades económicas del<br>sector, como negocio o algo agrícola o como donde la gente va a trabajar, como lugares específicos donde<br>la gente...<br>E: Claro, como el negocio sería.|
+|3.2 ¿Cuál es el origen de los empleados de estas actividades<br>(vecinos o de otras comunas)? ¿hombres o mujeres?|I: ¿Y las personas que trabajan en estos negocios son ubicadas aquí en el sector o vienen de afuera?<br>E: Ubicadas aquí en el sector.|
+|3.3 ¿A qué servicios comerciales accede la población? ¿Dónde<br>realizan sus compras de mercadería y trámites? ¿Deben acudir<br>fuera de la comuna por compras o trámites?|I: ¿A qué servicios comerciales accede la población? O sea, ¿dónde realizan sus compras, mercadería,<br>trámites, esas cosas?<br> <br>E: En el centro.|
+|3.4 ¿Se realizan ferias cercanas al sector? ¿Dónde se ubican?<br>¿Qué días?|I: ¿Se realizan ferias cercanas al sector?<br> <br>E: Sí, por aquí en las tardes siempre se colocan con unos toldos a vender, creo que en ferias de<br>emprendimiento.|
+
+|Col1|I: ¿Por aquí, por el Trapiche?<br>E: Sí, por esta calle.<br>I: ¿Qué días se realizan esas ferias?<br>E: No sabría decirle, pero siempre las veo que se colocan como en la tarde, bien como a las 9 más o menos|
+|---|---|
+|3.5 ¿Se percibe cesantía? De haber, ¿hombres o mujeres?<br>¿Pobreza en el sector? De haber, ¿hombres o mujeres?|I: ¿Según tu percepción hay cesantía y pobreza en el sector?<br> <br>E: Yo creo que sí.|
+|**4. **<br>**Dimensión Antropológica**|**4. **<br>**Dimensión Antropológica**|
+|4.1 ¿Conoce la historia del sector? ¿Cuándo surge y cuáles son<br>sus hitos históricos?|I: ¿Conoces la historia del lugar? ¿Cuándo surge? ¿Cuál es su hito histórico?<br>E: No.|
+|4.2 ¿Cuáles son las actividades típicas y/o tradicionales del sector?<br>¿Se realiza alguna celebración en comunidad o actividad social<br>relevante? ¿Dónde se realizan?|I: ¿Cuáles son las actividades típicas o tradicionales del sector? ¿Como que se realiza alguna celebración<br>en comunidad? ¿O qué actividades sociales?<br>E: Podría ser como la Junta de Vecinos.|
+|4.3 ¿Se realizan celebraciones religiosas; procesiones, ritos, entre<br>otras? Si es así ¿Dónde se realizan? (detallar recorrido)|I: Ya... ¿Existen tradiciones religiosas?<br>E: No.|
+|4.4 ¿Existe equipamiento relacionado a actividades artísticas,<br>culturales, y/o patrimoniales?||
+|4.5 ¿La Municipalidad realiza alguna actividad en conjunto con los<br>vecinos de este sector? ¿En qué ocasiones? ¿En qué lugar se<br>llevan a cabo?|I: Ya, y... ¿Cuentan (la junta de vecinos) con alguna colaboración de la Municipalidad?<br>E: No sabría decir.|
+
+|4.6 ¿Cuáles son los espacios, lugares y/o sectores más relevantes<br>del sector para la población? ¿Por qué se consideran<br>significativos?|I: ¿Cuáles crees tú que son los espacios o lugares más relevantes del sector que se consideren<br>significativos, o sea, donde la gente valore el espacio, el lugar?<br>E: ¿Podría ser como aquí mismo, dentro del condominio?<br>I: Claro.<br>E: porque tienen un espacio como áreas verdes y todo, un juego.|
+|---|---|
+|4.7 ¿Cuáles son las organizaciones sociales presentes en el<br>sector? ¿Organizaciones femeninas? *Indagar: cantidad de<br>participantes, nivel de participación de los vecinos, sede o espacios<br>de reunión, frecuencia de reuniones.|I: ¿Cuáles son las organizaciones sociales que se presentan en el sector?<br>E: Organizaciones sociales... Ahí puede ser la Junta de Vecinos.<br>I: Ah, ya sí, la Junta de Vecinos.<br>E: Y no había visto como otra cosa más, que esta se realiza aquí dentro del condominio. Y no sé si es que<br>aquí harán como otra Junta de Vecinos, como por la casa, etc.<br>I: ¿Cada cuánto tiempo se reúnen más o menos las juntas de vecinos acá en el condominio?<br>E: Cada dos meses, parece.<br>I: ¿Y cuántos miembros tiene aproximadamente? Como has visto, grupos grandes o es porque la gente...<br>E: Casi toda la gente participa en las juntas de vecinos.|
+|4.8. ¿Existen organizaciones indígenas en el sector? ¿Dónde?<br>¿Cada cuánto se reúnen? ¿Qué actividades realizan?|I: ¿Existen organizaciones indígenas en el sector?<br>E: No he visto yo.|
+|**5. **<br>**Dimensión Bienestar Social Básico**|**5. **<br>**Dimensión Bienestar Social Básico**|
+|4.9 ¿Cuáles son los recintos de salud más cercanos al sector?<br>¿Cuáles son a los que acceden la población del sector? *Énfasis<br>en centros de atención según género.|I: ¿Cuáles son los recintos de salud más cercanos al sector?<br>E: El hospital regional.|
+|5.0 ¿Con qué sistema previsional cuenta la mayoría de la<br>población?|I: ¿Y con qué sistema previsional cuenta la mayoría de la población según lo que tú sabes?|
+
+|Col1|E: Yo creo que FONASA|
+|---|---|
+|5.1 ¿Cuáles son los recintos educacionales más cercanos al<br>sector? ¿A cuáles accede la población del sector?|I: ¿Cuáles son los recintos educacionales más cercanos al sector?<br>E: El colegio José Manuel Balmaceda, ese es el más cercano que conozco.<br>I: ¿Y a otros, a los cuales accede a la población, como que tú por ejemplo acá mismo conozcas gente que<br>va, varias personas mismo que...?<br>E: Yo por ejemplo voy al liceo comercial de Diego Portales, que igual me queda bastante lejos y conozco a<br>varias gente que va, la mayoría de los que están en el centro y más para allá.|
+|5.2 ¿Cómo evaluaría la seguridad del sector? ¿Quién está<br>encargada de ella?|I: ¿Cómo evaluarías la seguridad del sector?<br>E: Buena, muy buena, sí.<br>I: ¿Quiénes están encargados de ella en específico? Como grupos que se organicen, por ejemplo, para<br>guardar la seguridad.<br>E: Podría ser como los guardias de aquí del condominio.|
+|5.3 ¿Cómo evaluaría la infraestructura del sector? (pavimentación<br>de calles y veredas, luminaria y mobiliario urbano, canchas de<br>fútbol, gimnasios, sedes y centros comunitarios) ¿Quién se<br>encarga de su mantención?|I: ¿Cuál es la situación actual de las viviendas en el sector? O sea, ¿en qué condiciones se encuentra como<br>lo que tú ves?<br>E: ¿En qué condiciones?<br>I: Claro, como por fuera también, como el estado de conservación, como se encuentran, bien o mal...<br>E: Ah, sí, bien. Las casas se ven como bien arregladas.<br>I: ¿Tú qué crees que aquí la mayoría son propias o arrendadas? Propias. el material de construcción es<br>sólido, pero no sé...|
+|5.4 ¿Cuál es el área verde más cercana al sector? (Dentro o fuera<br>de este) ¿Con qué frecuencia la utiliza la población? ¿Quién está<br>a cargo de su mantenimiento? *Énfasis en existencia y preferencia<br>de áreas verdes según género.|I: ¿Cómo evaluarías la infraestructura del sector? O sea, el pavimento, de las calles, las veredas, la<br>luminaria pública, las canchas de fútbol, gimnasios, sede, lo que exista.|

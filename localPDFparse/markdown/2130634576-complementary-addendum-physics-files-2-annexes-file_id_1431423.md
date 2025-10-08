@@ -1,0 +1,58 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20160125165426
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+Dirección Regional Arica-Parinacota
+
+Lista de Directivas pertenecientes en la comuna de Camarones:
+
+(Ordenados alfabéticamente por Comuna y nombre de Asociaciones Indígenas)
+
+Registros Actualizados A: LUNES, 25 DE ENERO DE 2016
+
+Observaciones:
+
+Ob.-1=Verdadero
+
+Ob.0=Falso
+
+N/E= No Existe
+
+|Directiva:|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|Comuna|Nombre Asociaciones Indígenas|N°<br>Registro|Nombres|APaterno|AMaterno|Cargo|
+|Camarones|ASOCIACION INDIGENA TALTAPE|87|MIGUEL MANUEL|CALLE|LOZA|PRESIDENTE|
+|Camarones|ASOCIACION INDIGENA TALTAPE|87|GLORIA NINFA|CERDA|GALÁN|SECRETARIO|
+|Camarones|ASOCIACION INDIGENA TALTAPE|87|ZUNILDA PATRICIA|CALLE|LOZA|TESORERO|
+|Camarones|ASOCIACION INDIGENA TALTAPE|87|ANA MARÍA|LEYTON|FLORES|CONSEJERO 1|
+|Camarones|ESPIRITU SANTO DE CODPA|119|ELSIE GABRIELA|ZAVALA|GUZMÁN|PRESIDENTE|
+|Camarones|ESPIRITU SANTO DE CODPA|119|LUCÍA ORIELE|MALDONADO|CAQUEO|SECRETARIO|
+|Camarones|ESPIRITU SANTO DE CODPA|119|SILVIA ANGÉLICA|VALDÉS|JIMÉNEZ|TESORERO|
+|Camarones|ESPIRITU SANTO DE CODPA|119|EDILIA MYRNA|ZAVALA|GUZMÁN|CONSEJERO 1|
+|Camarones|ESPIRITU SANTO DE CODPA|119|JUANA DEL CARMEN<br>FLORENTINA|MADUEÑO|VÁSQUEZ|CONSEJERO 2|
+|Camarones|ASOCIACION INDIGENA DE TURISMO DEL<br>VALLE DE CODPA|136|JACQUELINE DE<br>LOURDES|RIVERAS|ROMERO|PRESIDENTE|
+|Camarones|ASOCIACION INDIGENA DE TURISMO DEL<br>VALLE DE CODPA|136|ESMERALDA AMÉRICA|BARREDA|MORALES|VICEPRESIDENTE|
+|Camarones|ASOCIACION INDIGENA DE TURISMO DEL<br>VALLE DE CODPA|136|MARÍA ISABEL|ROMERO|MENACHO|SECRETARIO|
+|Camarones|ASOCIACION INDIGENA DE TURISMO DEL<br>VALLE DE CODPA|136|TEODOCIA DULCINIA|HUARACHI|SUBIETA|TESORERO|
+|Camarones|ASOCIACION INDIGENA DE TURISMO DEL<br>VALLE DE CODPA|136|MODESTO|CANQUE|MAMANI|CONSEJERO 1|
+|Camarones|ASOCIACION INDIGENA DE TURISMO DEL<br>VALLE DE CODPA|136|AMÉRICA YARELA|AJATA|CHOQUE|CONSEJERO 2|
+
+Observaciones:
+
+Ob.-1=Verdadero
+
+Ob.0=Falso
+
+N/E= No Existe
+
+Número de Asociaciones Indígenas con Directivas pertenecientes en la comuna de Camarones:3
+
+Número total de Asociaciones Indígenas pertenecientes en la comuna de Camarones:7

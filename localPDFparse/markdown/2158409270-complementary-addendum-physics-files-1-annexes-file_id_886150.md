@@ -1,0 +1,16 @@
+---
+title: ArcView Print Job
+author: Jose Aravena
+date: D:20240120174639-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|
+|---|---|
+|III<br>IV<br>125<br><br>Ester<br>o Ma<br>u<br>l<br>e<br>Rol 437~~-~~20<br>Rol 437~~-~~31<br>Rol 4<br>Rol 437~~-~~14<br>Rol 438~~-~~58<br>Rol 437~~-~~32<br>Rol 438-73<br>Rol 438-72<br>Rol 438-164<br>Eug~~-2~~017B<br>Eug~~-2~~017<br>Eug~~-2~~017A<br>Despejado<br>Espino1<br>Espino2<br>Despejado<br>#<br>Casa Vecinal<br>Casa <br>#<br>Casa Vecinal<br>#<br>Casa Vecinal<br>El Lote A~~-U~~no<br>El Lote A~~-D~~os<br>III<br>II<br>N<br>E<br>O<br>S<br>754500<br>754500<br>755000<br>755000<br>5926500<br>5927000<br>5927500<br>MAPA DE U<br>Escala 1: <br>PREDIO 1|II<br>VII<br>a Carretera Yungay - Chillán<br>37~~-~~82<br>#<br>Vecinal<br>5926500<br>5927000<br>5927500<br>BICACIÓN<br>250~~.~~000|
+|PLANO PLAN DE OBRAS CIVILES<br>PREDIO: EL LOTE A~~-~~ UNO<br> EL LOTE A~~-~~ DOS<br>ROL DE AVALÚOS: 437~~-~~20;<br> 437~~-~~58<br>COMUNA : BULNES<br>PROVINCIA : DEL DIGUILLÍN<br>REGIÓN : DE ÑUBLE<br>~~DATOS PREDIALES~~<br>BASE CARTOGRÁFICA<br>CIREN 2014<br>GOOGLE 2024<br>LEVANTAMIENTO GPS <br>DATUM WGS 84 HUSO 18h<br>LEYENDA<br>Estero<br>Límite<br>SECTORES<br>Otros<br>SUPERFICIES<br>SUPERFICIE PREDIAL<br>EL LOTE A~~-~~ UNO 22,97 ha<br>EL LOTE A~~-~~ DOS 9,40 ha<br>Superficie a intervenir<br>Eug~~-~~2017A 19,85 ha<br>Eug~~-~~2017B 3,06 ha<br>Dibujó<br>Jose Manuel Aravena Mardones<br>Técnico Forestal<br>ESCALA 1: 5~~.~~000<br>FECHA : ENERO 2024<br>_______________________________________<br>~~CLAUDIO CASTRO GUTIERREZ~~<br>INGENIERO FORESTAL<br>Camino <br>Capacidad de Uso<br>~~SECTORES~~<br>Espino1 0,49 ha<br>Espino2 0,29 ha<br>Eug~~-~~2017 4,97 ha<br>Eug~~-~~2017A 19,85 ha<br>Eug~~-~~2017B 3,06 ha<br>Curvas de Nivel<br>BULNES<br>Predio<br>Ar~~-~~2015<br>Despejado<br>Espino1<br>Espino2<br>Eug~~-~~2017<br>Eug~~-~~2017A<br>Eug~~-~~2017B<br>PROPIEDAD<br>DR JUAN PABLO LOPEZ BURGOS<br>Y COMPAÑÍA LIMITADA<br>RUT 77~~.~~120~~.~~446 ~~-~~ 6<br>REPRESENTANTE LEGAL<br>JUAN PABLO LOPEZ BURGOS<br>RUT 6~~.~~845~~.~~138~~-~~8|PLANO PLAN DE OBRAS CIVILES<br>PREDIO: EL LOTE A~~-~~ UNO<br> EL LOTE A~~-~~ DOS<br>ROL DE AVALÚOS: 437~~-~~20;<br> 437~~-~~58<br>COMUNA : BULNES<br>PROVINCIA : DEL DIGUILLÍN<br>REGIÓN : DE ÑUBLE<br>~~DATOS PREDIALES~~<br>BASE CARTOGRÁFICA<br>CIREN 2014<br>GOOGLE 2024<br>LEVANTAMIENTO GPS <br>DATUM WGS 84 HUSO 18h<br>LEYENDA<br>Estero<br>Límite<br>SECTORES<br>Otros<br>SUPERFICIES<br>SUPERFICIE PREDIAL<br>EL LOTE A~~-~~ UNO 22,97 ha<br>EL LOTE A~~-~~ DOS 9,40 ha<br>Superficie a intervenir<br>Eug~~-~~2017A 19,85 ha<br>Eug~~-~~2017B 3,06 ha<br>Dibujó<br>Jose Manuel Aravena Mardones<br>Técnico Forestal<br>ESCALA 1: 5~~.~~000<br>FECHA : ENERO 2024<br>_______________________________________<br>~~CLAUDIO CASTRO GUTIERREZ~~<br>INGENIERO FORESTAL<br>Camino <br>Capacidad de Uso<br>~~SECTORES~~<br>Espino1 0,49 ha<br>Espino2 0,29 ha<br>Eug~~-~~2017 4,97 ha<br>Eug~~-~~2017A 19,85 ha<br>Eug~~-~~2017B 3,06 ha<br>Curvas de Nivel<br>BULNES<br>Predio<br>Ar~~-~~2015<br>Despejado<br>Espino1<br>Espino2<br>Eug~~-~~2017<br>Eug~~-~~2017A<br>Eug~~-~~2017B<br>PROPIEDAD<br>DR JUAN PABLO LOPEZ BURGOS<br>Y COMPAÑÍA LIMITADA<br>RUT 77~~.~~120~~.~~446 ~~-~~ 6<br>REPRESENTANTE LEGAL<br>JUAN PABLO LOPEZ BURGOS<br>RUT 6~~.~~845~~.~~138~~-~~8|

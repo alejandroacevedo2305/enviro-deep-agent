@@ -1,0 +1,29 @@
+---
+title: PROCEDIMIENTO EN CASO DE ACCIDENTE PLANTA JOSE ANTONIO MORENO
+author: JMARTINEZ
+date: D:20210421080321-04'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|SISTEMA DE GESTIÓN INTEGRAL DE SEGURIDAD Y SALUD OCUPACIONAL<br>PLAN GENERAL DE EMERGENCIAS|Código: GISSO-E-4.4.7|
+|---|---|---|
+|<br> <br>|**SISTEMA DE GESTIÓN INTEGRAL DE SEGURIDAD Y SALUD OCUPACIONAL**<br> <br>**PLAN GENERAL DE EMERGENCIAS**<br>|**Fecha: 03/11/2020**|
+|<br> <br>|**SISTEMA DE GESTIÓN INTEGRAL DE SEGURIDAD Y SALUD OCUPACIONAL**<br> <br>**PLAN GENERAL DE EMERGENCIAS**<br>|**Versión: 02**|
+|<br> <br>|**SISTEMA DE GESTIÓN INTEGRAL DE SEGURIDAD Y SALUD OCUPACIONAL**<br> <br>**PLAN GENERAL DE EMERGENCIAS**<br>|**Página: 17 de 19**|
+
+i. Flujograma de comunicaciones en caso de accidente. GISSO-I-447-01
+
+PLAZO MÁXIMO
+
+1 DIA HABIL,
+
+DESPUÉS DE
+
+EFECTUADA LA
+
+ATENCIÖN

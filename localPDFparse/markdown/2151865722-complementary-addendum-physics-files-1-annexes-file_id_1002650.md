@@ -1,0 +1,19 @@
+---
+title: 09-13
+author: Desconocido
+date: D:20211215095825
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|
+|---|---|---|
+||65<br>70||
+
+|A<br>MÓDULO BAÑO (TIPO CONTAINER) (39) --<br>BODEGA CONTAINER(40) MÓDULO DUCHAS (TIPO CONTAINER) (41)<br>A -- -- A<br>252 e-4 17,8<br>4 4 1219,2 4,4 4,4<br>244 npt + 264<br>npt + 248<br>598 npt + 252 npt + 252 39<br>15 15<br>568 npt + 232<br>npt + 211<br>65 15 15<br>50<br>n.p.t<br>BODEGA calefont +17 30 e-2 235,8 243,8 e-3 calefont 65<br>1203,2 133 67,5<br>70<br>295 295 65<br>DUCHAS<br>BAÑO MUJERES n.p.t 50 e-1 245 215 215 245 e-3<br>107<br>n.p.t +17<br>+11,8<br>200 200<br>npt ± 00<br>npt ± 00 npt ± 00 195,7 43<br>15 15<br>e-1 e-2 605,8 7 7 605,8 e-1<br>elevación e-1 A<br>--<br>BAÑO HOMBRES planta<br>568<br>n.p.t esc 1/50 15 15 elevación e-1<br>A A esc 1/50 79 96,5 75 99 75 96 77,5<br>+11,8<br>-- -- 598 esc 1/50 399,3<br>94,5<br>planta<br>e-2 295 295 -- A -- A -- A<br>esc 1/50<br>npt + 264 40 -- A<br>npt + 248<br>npt + 259<br>npt + 216 npt + 252 npt + 252 npt + 252<br>npt + 235 npt + 232 80<br>npt + 219 npt + 219<br>4,4<br>244 4,4 17,8<br>4 252 4<br>218<br>e-3<br>planta<br>npt ± 00<br>npt + 17<br>esc 1/50 npt ± 00 npt ± 00 npt ± 00 npt ± 00<br>elevación e-2<br>elevación e-1 corte A-A elevación e-2<br>esc 1/50<br>esc 1/50 esc 1/50 esc 1/50<br>A<br>--<br>npt + 264 npt + 264 npt + 264 npt + 259 npt + 259 npt + 259<br>npt + 248 npt + 248 npt + 248 npt + 252 npt + 252 npt + 252 npt + 252<br>npt + 232<br>npt + 216 32,5<br>53,5<br>npt + 162,5<br>239,1<br>233,6 264 259,1<br>162,5<br>nn pp t t ± + 0 1 01,8 npt ± 00 npt ± 00 npt ± 00 npt ± 00 npt ± 00 npt ± 00 npt ± 00 npt ± 00 npt ± 00<br>elevación e-2 elevación e-3 corte A-A<br>corte A-A elevación e-3<br>elevación e-3 elevación e-4<br>esc 1/50 esc 1/50 esc 1/50<br>esc 1/50 esc 1/50<br>esc 1/50 esc 1/50<br>252 1219.2<br>243.8<br>A<br>598 Sala electricaTransform.<br>CUADRO DE SUPERFICIES 40 A A 605.8 245<br>NIVEL ZONA SUPERFICIE<br>1o A 15,27m2 39<br>TOTAL SUPERFICIE 15,27 m2 41<br>CUADRO DE SUPERFICIES<br>CUADRO DE SUPERFICIES 42<br>GALPON<br>NIVEL ZONA SUPERFICIE<br>cuadro de superficies NIVEL ZONA SUPERFICIE<br>1o A 29,72m2<br>1o A 14,65m2 CASA<br>TOTAL SUPERFICIE 29,72 m2<br>esc 1/200 TOTAL SUPERFICIE 14,65 m2<br>CASINO<br>C<br>B<br>cuadro de superficies cuadro de superficies<br>REGULARIZACIÓN VARIOS<br>esc 1/200 esc 1/200<br>PLANTA TUCAPEL<br>1904109<br>MÓDULO OFICINA (TIPO CONTAINER) (42) Revisión No - Fecha - Firma<br>B 08112018 MECM-MECM<br>A<br>--<br>C 16042020 MECM-VHRC<br>0 06052020 MECM-VHRC<br>npt + 252 A<br>npt + 242 npt + 242 --<br>Proyecto<br>npt + 212<br>PROYECTO:<br>1219 MÓDULO BAÑO (TIPO CONTAINER)<br>BODEGA CONTAINER<br>MÓDULO DUCHAS (TIPO CONTAINER)<br>MÓDULO OFICINA (TIPO CONTAINER) Ubicación<br>AVDA. ALESSANDRI #115<br>RETIRO<br>OFICINA VII REGIÓN<br>Rol<br>300<br>n.p.t npt ± 00 npt ± 00<br>460-31<br>+17<br>Mandante<br>TUCAPEL S.A.<br>elevación e-1<br>REP LEGAL 511<br>EDUARDO ZANOTTI L.<br>esc 1/50<br>GABRIEL ROMÁN R.<br>A<br>--<br>Arquitectos<br>1 211 209<br>1219<br>MARÍA EUGENIA CABRERA M rol 3-5013<br>JAIME PALMA SUAZO rol 31860 A 300<br>npt + 252<br>25 npt + 242 npt + 242<br>923<br>1 1<br>npt + 212 25<br>B 30 211<br>PROYECCION CUBIERTA 9 4 7<br>117 100 203 100 64 81 64,5 101 185 105 98,5<br>1219 100<br>Arq<br>775 CUADRO DE SUPERFICIES Colaborador<br>252<br>923 NIVEL ZONA SUPERFICIE SOLEDAD PALMA SUAZO 212<br>1o A 36,57m2 Contenido<br>a b<br>1o B 9,74m2<br>e-1 A 112<br>npt + 17 TOTAL SUPERFICIE 46,31 m2 PLANTA --<br>npt ± 00 npt ± 00 -- A<br>ELEVACIÓNES Lámina<br>CORTE<br>09<br>CUADRO DE SUPERFICIES<br>planta planta de cubierta corte A-A cuadro de superficies PLANTA DE CUBIERTA de 13<br>esc 1/50 esc 1/50<br>esc 1/100 esc 1/200|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|||||||

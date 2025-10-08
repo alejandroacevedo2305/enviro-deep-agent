@@ -1,0 +1,26 @@
+---
+title: 18. LAT
+author: Desconocido
+date: D:20231123215125
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+328900 329000 329100
+
+|Col1|Col2|Col3|Col4|
+|---|---|---|---|
+||P1<br>ML|ACCESO||
+|||25<br>0<br>50|m|
+
+328900 329000 329100
+
+Declaración de Impacto Ambiental Proyecto
+
+"BESS HALCÓN 15"
+
+Ubicación Estructuras Línea Alta Tensión

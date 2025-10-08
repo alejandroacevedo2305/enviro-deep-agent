@@ -1,0 +1,62 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20240814104228-04'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**14/08/2024 10:42**
+
+|DIRECCIONAMIENTO|Col2|Col3|Col4|
+|---|---|---|---|
+|**DE**|SUBDEPARTAMENTO SERVICIOS DE AERODROMOS|SUBDEPARTAMENTO SERVICIOS DE AERODROMOS|SUBDEPARTAMENTO SERVICIOS DE AERODROMOS|
+|**DE**|SECCIÓN FISCALIZACIÓN DE AERÓDROMOS Y PROYECTOS AERONÁUTICOS (F.A.P.A)|SECCIÓN FISCALIZACIÓN DE AERÓDROMOS Y PROYECTOS AERONÁUTICOS (F.A.P.A)|SECCIÓN FISCALIZACIÓN DE AERÓDROMOS Y PROYECTOS AERONÁUTICOS (F.A.P.A)|
+|**TELÉFONO Y FAX**|(56 2) 22904635 - (56 2) 22904636|**FAX:**|(56 2) 22904640|
+|**CORREO ELECTRÓNICO**|aerodromos@dgac.gob.cl|aerodromos@dgac.gob.cl|aerodromos@dgac.gob.cl|
+|**PARA**|MEGACENTRO CHILE SPA|MEGACENTRO CHILE SPA|MEGACENTRO CHILE SPA|
+|**TELÉFONO**|227128510|227128510|227128510|
+|**CORREO ELECTRÓNICO**|JORGE.CASTRO@REDMC.COM|JORGE.CASTRO@REDMC.COM|JORGE.CASTRO@REDMC.COM|
+
+|ANTECEDENTES EMPRESA SOLICITANTE|Col2|Col3|Col4|
+|---|---|---|---|
+|**NOMBRE O RAZÓN SOCIAL**|MEGACENTRO CHILE SPA|MEGACENTRO CHILE SPA|MEGACENTRO CHILE SPA|
+|**DIRECCIÓN COMERCIAL**|ROSARIO NORTE 532, PISO 18|ROSARIO NORTE 532, PISO 18|ROSARIO NORTE 532, PISO 18|
+|**REGIÓN**|Metropolitana|**COMUNA**|Las Condes|
+|**TELÉFONO Y FAX**|227128510<br> <br>**FAX:** 0|227128510<br> <br>**FAX:** 0|227128510<br> <br>**FAX:** 0|
+|**CORREO ELECTRÓNICO**|JORGE.CASTRO@REDMC.COM|**R.U.T.**|76.178.665-2|
+
+|ANTECEDENTES EMPRESA GESTORA|Col2|
+|---|---|
+|**NOMBRE O RAZÓN SOCIAL**|MEGACENTRO CHILE SPA|
+|**DIRECCIÓN COMERCIAL**|ROSARIO NORTE 532, PISO 18|
+|**TELÉFONO Y FAX**|227128510<br> 0<br> **FAX:**|
+|**CORREO ELECTRÓNICO**|JORGE.CASTRO@REDMC.COM|
+
+|DATOS PERSONA SOLICITANTE|Col2|
+|---|---|
+|**NOMBRE SOLICITANTE**|Jorge Castro<br>|
+|**RUT SOLICITANTE**|16.457.319-2|
+
+|ANTECEDENTES DE LAS EDIFICACIONES CERCANAS A UN AERÓDROMO O RADIO AYUDA PARQUE EÓLICO|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|**COORDENADAS GEOGRÁFICAS**|#|**ALIAS**|**LATITUD**|**LATITUD**|**LATITUD**|**LONGITUD**|**LONGITUD**|**LONGITUD**|**ALTURA**|
+|**COORDENADAS GEOGRÁFICAS**|#|**ALIAS**|**GR**|**MIN**|**SEG**|**GR**|**MIN**|**SEG**|**SEG**|
+|**COORDENADAS GEOGRÁFICAS**|1|-|33.0|21.0|17.27|70.0|50.0|16.54|753.0|
+|**COORDENADAS GEOGRÁFICAS**|1|**ALTURA A CERTIFICAR**|**ALTURA A CERTIFICAR**|**ALTURA A CERTIFICAR**|**ALTURA A CERTIFICAR**|**ELEVACIÓN**|**ELEVACIÓN**|**ELEVACIÓN**|**ELEVACIÓN**|
+|**COORDENADAS GEOGRÁFICAS**|1|17,13 metros.|17,13 metros.|17,13 metros.|17,13 metros.|470 metros según Google Earth.|470 metros según Google Earth.|470 metros según Google Earth.|470 metros según Google Earth.|
+|**NOMBRE SITIO**|Lote A6|Lote A6|Lote A6|Lote A6|Lote A6|Lote A6|Lote A6|Lote A6|Lote A6|
+|**UBICACIÓN (Dirección)**|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|Lote A6 Peralillo S/N|
+|**REGIÓN**|Metropolitana|Metropolitana|Metropolitana|Metropolitana|Metropolitana|Metropolitana|Metropolitana|Metropolitana|Metropolitana|
+|**PROVINCIA**|Chacabuco|Chacabuco|Chacabuco|Chacabuco|Chacabuco|Chacabuco|Chacabuco|Chacabuco|Chacabuco|
+|**COMUNA**|Lampa|Lampa|Lampa|Lampa|Lampa|Lampa|Lampa|Lampa|Lampa|
+
+|USO INTERNO D.G.A.C.|Col2|
+|---|---|
+|**RESPONSABLE DEL ESTUDIO**|DENIS VELASQUEZ HERNÁNDEZ|
+|**FECHA ESTUDIO**|13/08/2024|
+|**No DOCUMENTO REFERENCIA Y FECHA**|1843 01/08/2024|

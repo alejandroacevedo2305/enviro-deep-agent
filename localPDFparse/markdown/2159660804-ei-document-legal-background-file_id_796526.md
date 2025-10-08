@@ -1,0 +1,168 @@
+---
+title: ESCRITURA PUBLICA
+author: Notaria Ivan Torrealba Acevedo
+date: D:20230320095502
+language: es
+type: general
+pages: 17
+has_toc: False
+has_tables: False
+extraction_quality: high
+keywords: [<numero_documento>123456966783</numero_documento><cod_notario>not_ivantorrealb</cod_notario><dir_descarga>http://fojas.cl/d.php?cod=not_ivantorrealb&ndoc=123456966783</dir_descarga><nombre_notaria>Notaria Ivan Torrealba Acevedo</nombre_notaria><tipo>ESCRITURA PUBLICA</tipo><repertorio>4128</repertorio><fecha>2023-03-15</fecha><capital></capital><participantes><adquirentes><nombre>AGRICOLA EL SAUCE S.A.</nombre><rut></rut><adquirentes><tradentes><tradentes></participantes>]
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - LUIS IVAN Pag: 1/17 TORREAL BA ACEVEDO
+-->
+
+## Notario Santiago Ivan Torrealba Acevedo
+
+El notario que suscribe, certifica que el presente documento electrónico es
+
+copia fiel e íntegra de ESCRITURA PUBLICA otorgado el 15 de Marzo de
+
+2023 ante el notario que autoriza, por AGRICOLA EL SAUCE S.A.
+
+reproducido en las siguientes páginas.
+
+Repertorio No: 4128 - 2023.
+
+Santiago, 20 de Marzo de 2023.
+
+Emito el presente documento con firma electrónica avanzada (ley No19.799, de
+
+2002), conforme al procedimiento establecido por Auto Acordado de 13/10/2006 de la
+
+**www.fojas.cl**
+
+Excma. Corte Suprema.
+
+Certificado No 123456966783.- Verifique validez en www.fojas.cl.
+
+CUR No: F108-123456966783.
+
+# LUIS IVAN Pag: 1/17 TORREAL BA ACEVEDO
+
+Digitally signed by LUIS
+IVAN TORREALBA
+ACEVEDO
+Date: 2023.03.20
+11:00:11 -03:00
+Reason: Notaria Ivan
+Torrealba Acevedo
+Location: Santiago Chile
+
+_Pag: 1/1_
+
+**Pag: 2/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 3/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 4/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 5/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 6/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 7/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 8/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 9/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 10/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 11/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 12/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 13/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 14/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 15/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 16/17**
+
+**Certificado** **No**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**
+
+**Pag: 17/17**
+
+**Certificado** **N**
+**123456966783**
+**Verifique validez en**
+**http://www.fojas.cl**

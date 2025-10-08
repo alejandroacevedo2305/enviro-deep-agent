@@ -1,0 +1,6441 @@
+---
+title: Microsoft Word - Anexo 7 PAS.docx
+author: AP Ecology
+date: D:20141205171007Z00'00'
+language: es
+type: report
+pages: 15
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - DECLARACIÓN
+-->
+
+# DECLARACIÓN
+ DE
+ IMPACTO
+ AMBIENTAL** **PROYECTO INMOBILIARIO** **EDIFICIOS PANORAMA** **CORDILLERA** **ANEXO
+ 7** **PERMISOS
+ AMBIENTALES
+ SECTORIALES**
+
+SANTIAGO,
+ NOVIEMBRE
+ 2014
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+**ANEXO
+ 7**
+**PERMISOS
+ AMBIENTALES
+ SECTORIALES**
+
+ÍNDICE
+
+ANEXO
+ 7
+ .......................................................................................................................................................................................
+ 3
+
+7.1 EVALUACIÓN
+ DE
+ PERMISOS
+ AMBIENTALES
+ SECTORIALES
+ APLICABLES
+ .......................................................................
+ 3
+7.1.1 Permiso
+ Ambiental
+ Sectorial
+ Artículo
+ N°
+ 140,
+ del
+ RSEIA
+ ......................................................................................
+ 7
+
+LISTADO
+ DE
+ TABLAS
+
+Tabla
+ 7-­‐1:
+ Revisión
+ PAS
+ de
+ contenidos
+ únicamente
+ ambientales
+ aplicables
+ al
+ proyecto.
+ ...........................................................
+ 3
+Tabla
+ 7-­‐2:
+ Revisión
+ PAS
+ mixtos
+ aplicables
+ al
+ proyecto.
+ ................................................................................................................
+ 5
+Tabla
+ 7-­‐3:
+ Parámetros
+ Meteorológicos
+ ........................................................................................................................................
+ 8
+Tabla
+ 7-­‐4:
+ Parámetros
+ Meteorológicos
+ ........................................................................................................................................
+ 9
+Tabla
+ 7-­‐5:
+ Generación
+ de
+ Residuos
+ ..............................................................................................................................................
+ 9
+
+LISTADO
+ DE
+ FIGURAS
+
+Figura
+ 7-­‐
+ 1:
+ Estación
+ de
+ Monitoreo
+ La
+ Florida
+ .............................................................................................................................
+ 8
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 2
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+### ANEXO
+ 7** **PERMISOS
+ AMBIENTALES
+ SECTORIALES**
+
+**7.1** **EVALUACIÓN
+ DE
+ PERMISOS
+ AMBIENTALES
+ SECTORIALES
+ APLICABLES**
+
+En
+ el
+ presente
+ capítulo
+ se
+ desarrolla
+ el
+ contenido
+ exigido
+ por
+ la
+ letra
+ d)
+ del
+ artículo
+ 12
+ bis
+ de
+ la
+ Ley
+ No19.300,
+modificado
+ por
+ la
+ Ley
+ N°20.417
+ de
+ 13
+ de
+ Noviembre
+ de
+ 2010
+ MINSEGPRES.
+ Asimismo,
+ conforme
+ al
+ artículo
+ 107
+del
+ D.S.
+ No
+ 40/2013
+ del
+ Ministerio
+ del
+ Medio
+ Ambiente,
+ sobre
+ el
+ Reglamento
+ del
+ Sistema
+ de
+ Evaluación
+ de
+Impacto
+ Ambiental
+ (SEIA),
+ en
+ su
+ Título
+ VII,
+ se
+ indica
+ que
+ “todos
+ los
+ permisos
+ de
+ carácter
+ ambiental,
+ que
+ de
+acuerdo
+ con
+ la
+ legislación
+ vigente
+ deban
+ o
+ puedan
+ emitir
+ los
+ órganos
+ de
+ la
+ Administración
+ del
+ Estado,
+ respecto
+de
+ proyectos
+ o
+ actividades
+ sometidos
+ al
+ SEIA,
+ serán
+ otorgados
+ a
+ través
+ de
+ dicho
+ sistema,
+ de
+ acuerdo
+ a
+ los
+normas
+ de
+ la
+ Ley
+ No19.300
+ del
+ MINSEGPRES,
+ sobre
+ Bases
+ Generales
+ del
+ Medio
+ Ambiente
+ (y
+ sus
+ modificaciones)
+y
+ al
+ Título
+ VII
+ del
+ mencionado
+ Reglamento.
+
+De
+ acuerdo
+ a
+ lo
+ anterior,
+ en
+ esta
+ sección
+ se
+ identifican
+ y
+ desarrollan
+ los
+ Permisos
+ Ambientales
+ Sectoriales
+ (PAS)
+que
+ requiere
+ el
+ Proyecto
+ “Edificios
+ Panorama
+ Cordillera”
+ de
+ acuerdo
+ con
+ el
+ listado
+ que
+ proporciona
+ el
+ D.S.
+ No
+40/2013.
+
+A
+ continuación
+ se
+ realizar
+ una
+ revisión
+ de
+ todos
+ los
+ permisos
+ ambientales
+ sectoriales
+ y
+ se
+ identifican
+ los
+ que
+ se
+requieren
+ para
+ el
+ proyecto:
+
+**Tabla
+ 7-­‐1:
+ Revisión
+ PAS
+ de
+ contenidos
+ únicamente
+ ambientales
+ aplicables
+ al
+ proyecto.**
+
+ART. PERMISO
+ AMBIENTAL
+ SECTORIAL REQUIERE NO
+ REQUIERE REQUISITOS
+
+111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+Para
+ el
+ vertimiento
+ en
+ las
+ aguas
+ sometidas
+ a
+ jurisdicción
+ nacional
+ desde
+ naves,
+aeronaves,
+ artefactos
+ navales,
+ construcciones
+ y
+ obras
+ portuarias,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 108
+ del
+ Decreto
+ Supremo
+ No
+ 1
+ de
+ 1992,
+ del
+Ministerio
+ de
+ Defensa
+ Nacional,
+ Reglamento
+ para
+ el
+ Control
+ de
+ la
+Contaminación
+ Acuática.
+
+Para
+ emplazar
+ instalaciones
+ terrestres
+ de
+ recepción
+ de
+ mezclas
+ oleosas,
+ en
+ los
+puertos
+ y
+ terminales
+ del
+ país,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 113
+ del
+ Decreto
+Supremo
+ N°
+ 1
+ de
+ 1992,
+ del
+ Ministerio
+ de
+ Defensa
+ Nacional,
+ Reglamento
+ para
+ el
+Control
+ de
+ la
+ Contaminación
+ Acuática.
+
+Para
+ la
+ instalación
+ de
+ plantas
+ de
+ tratamiento
+ de
+ instalaciones
+ terrestres
+ de
+recepción
+ de
+ mezclas
+ oleosas
+ cuyas
+ aguas
+ tratadas
+ sean
+ descargadas
+ en
+ las
+aguas
+ sometidas
+ a
+ la
+ jurisdicción
+ nacional,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 116
+del
+ Decreto
+ Supremo
+ N°
+ 1
+ de
+ 1992,
+ del
+ Ministerio
+ de
+ Defensa
+ Nacional,
+Reglamento
+ para
+ el
+ Control
+ de
+ la
+ Contaminación
+ Acuática.
+
+Para
+ la
+ instalación
+ de
+ un
+ terminal
+ marítimo
+ y
+ de
+ las
+ cañerías
+ conductoras
+ para
+transporte
+ de
+ sustancias
+ contaminantes
+ o
+ que
+ sean
+ susceptibles
+ de
+contaminar,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 117
+ del
+ Decreto
+ Supremo
+ N°
+ 1
+ de
+1992,
+ del
+ Ministerio
+ de
+ Defensa
+ Nacional,
+ Reglamento
+ para
+ el
+ Control
+ de
+ la
+Contaminación
+ Acuática.
+
+Para
+ introducir
+ o
+ descargar
+ materias,
+ energía
+ o
+ sustancias
+ nocivas
+ o
+ peligrosas
+de
+ cualquier
+ especie
+ a
+ las
+ aguas
+ sometidas
+ a
+ la
+ jurisdicción
+ nacional,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 140
+ del
+ Decreto
+ Supremo
+ N°
+ 1
+ de
+ 1992,
+ del
+Ministerio
+ de
+ Defensa
+ Nacional,
+ Reglamento
+ para
+ el
+ Control
+ de
+ la
+Contaminación
+ Acuática.
+
+Para
+ realizar
+ actividades
+ de
+ acuicultura,
+ será
+ el
+ establecido
+ en
+ el
+inciso
+ 3o
+ del
+ artículo
+ 87
+ del
+ Decreto
+ Supremo
+ N°
+ 430
+ de
+ 1991,
+ del
+ Ministerio
+ de
+Economía,
+ Fomento
+ y
+ Reconstrucción,
+ que
+ fija
+ el
+ texto
+ refundido,
+ coordinado
+ y
+sistematizado
+ de
+ la
+ Ley
+ N°
+ 18.892,
+ de
+ 1989
+ y
+ sus
+ modificaciones,
+ Ley
+ General
+de
+ Pesca
+ y
+ Acuicultura.
+
+Para
+ realizar
+ repoblación
+ y
+ siembra
+ de
+ especies
+ hidrobiológicas
+ con
+ fines
+ de
+pesca
+ recreativa,
+ será
+ el
+ establecido
+ en
+ el
+ inciso
+ 2°
+ del
+ artículo
+ 11
+ de
+ la
+ Ley
+ N° X
+20.256,
+ que
+ establece
+ normas
+ sobre
+ pesca
+ recreativa.
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 3
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+118
+
+119
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+Para
+ realizar
+ actividades
+ de
+ acuicultura
+ en
+ áreas
+ de
+ manejo
+ y
+ explotación
+ de
+recursos
+ bentónicos,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 7
+ del
+ Decreto
+ Supremo
+N°
+ 314,
+ de
+ 2004,
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Reconstrucción,
+Reglamento
+ de
+ Actividades
+ de
+ Acuicultura
+ en
+ Áreas
+ de
+ Manejo
+ y
+ Explotación
+de
+ Recursos
+ Bentónicos.
+
+Para
+ realizar
+ pesca
+ de
+ investigación
+ necesaria
+ para
+ el
+ seguimiento
+ de
+ las
+poblaciones
+ de
+ especies
+ hidrobiológicas,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 99
+del
+ Decreto
+ Supremo
+ N°
+ 430,
+ de
+ 1991,
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+Reconstrucción,
+ que
+ fija
+ el
+ texto
+ refundido,
+ coordinado
+ y
+ sistematizado
+ de
+ la
+Ley
+ N°
+ 18.892,
+ de
+ 1989
+ y
+ sus
+ modificaciones,
+ Ley
+ General
+ de
+ Pesca
+ y
+Acuicultura.
+
+Para
+ iniciar
+ trabajos
+ de
+ construcción,
+ excavación,
+ o
+ para
+ desarrollar
+ actividades
+como
+ pesca,
+ caza,
+ explotación
+ rural
+ o
+ cualquier
+ otra
+ actividad
+ que
+ pudiera
+alterar
+ el
+ estado
+ natural
+ de
+ un
+ Santuario
+ de
+ la
+ Naturaleza,
+ será
+ el
+ establecido
+en
+ el
+ inciso
+ 3o
+ del
+ artículo
+ 31
+ de
+ la
+ Ley
+ No
+ 17.288
+ sobre
+ monumentos
+nacionales.
+
+Para
+ ejecutar
+ labores
+ mineras
+ en
+ lugares
+ declarados
+ parques
+ nacionales,
+reservas
+ nacionales
+ o
+ monumentos
+ naturales
+ expresamente
+ para
+ efectos
+mineros
+ por
+ Decreto
+ Supremo
+ que
+ además
+ señale
+ los
+ deslindes
+correspondientes
+ y
+ que
+ lleve
+ la
+ firma
+ del
+ Ministro
+ de
+ Minería,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 17
+ No
+ 2o,
+ de
+ la
+ Ley
+ No
+ 18.248,
+ Código
+ de
+ Minería.
+
+Para
+ ejecutar
+ labores
+ mineras
+ en
+ covaderas
+ o
+ en
+ lugares
+ que
+ hayan
+sido
+ declarados
+ de
+ interés
+ histórico
+ o
+ científico
+ expresamente
+ para
+ efectos
+mineros
+ por
+ Decreto
+ Supremo
+ que
+ además
+ señale
+ los
+ deslindes
+correspondientes
+ y
+ que
+ lleve
+ la
+ firma
+ del
+ Ministro
+ de
+ Minería,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 17
+ No
+ 6o,
+ de
+ la
+ Ley
+ No
+ 18.248,
+ Código
+ de
+ Minería.
+
+Para
+ la
+ introducción
+ en
+ el
+ medio
+ natural
+ de
+ especies
+ de
+ fauna
+ silvestre,
+ sea
+ésta
+ del
+ país
+ o
+ aclimatada,
+ semen,
+ embriones,
+ huevos
+ para
+ incubar
+ y
+ larvas
+ en
+regiones
+ o
+ áreas
+ del
+ territorio
+ nacional
+ donde
+ no
+ tengan
+ presencia
+ y
+ puedan
+perturbar
+ el
+ equilibrio
+ ecológico
+ y
+ la
+ conservación
+ del
+ patrimonio
+ ambiental,
+será
+ el
+ establecido
+ en
+ el
+ inciso
+ 2o
+ del
+ artículo
+ 25,
+ del
+ artículo
+ Primero
+ de
+ la
+ Ley
+N°
+ 19.473,
+ que
+ sustituye
+ el
+ texto
+ de
+ la
+ Ley
+ N°
+ 4.601,
+ sobre
+ Caza,
+ y
+ artículo
+ 609
+del
+ Código
+ Civil.
+
+Para
+ la
+ captura
+ de
+ ejemplares
+ de
+ animales
+ de
+ especies
+ protegidas
+ para
+controlar
+ la
+ acción
+ de
+ animales
+ que
+ causen
+ graves
+ perjuicios
+ al
+ ecosistema,
+será
+ el
+ establecido
+ en
+ el
+ inciso
+ 1o
+ del
+ artículo
+ 9°,
+ del
+ artículo
+ Primero
+ de
+ la
+ Ley
+N°
+ 19.473,
+ que
+ sustituye
+ el
+ texto
+ de
+ la
+ Ley
+ N°
+ 4.601,
+ sobre
+ Caza,
+ y
+ artículo
+ 609
+del
+ Código
+ Civil.
+
+Para
+ la
+ ejecución
+ de
+ labores
+ mineras
+ en
+ sitios
+ donde
+ se
+ han
+ alumbrado
+ aguas
+subterráneas
+ en
+ terrenos
+ particulares
+ o
+ en
+ aquellos
+ lugares
+ cuya
+explotación
+ pueda
+ afectar
+ un
+ caudal
+ o
+ la
+ calidad
+ natural
+ del
+ agua,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 74
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ N°
+ 725,
+ de
+ 1967,
+ del
+Ministerio
+ de
+ Salud
+ Pública,
+ Código
+ Sanitario.
+
+Para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+ toda
+ instalación
+diseñada
+ para
+ el
+ manejo
+ de
+ lodos
+ generados
+ de
+ plantas
+ de
+tratamiento
+ de
+ aguas
+ servidas,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 9°
+ del
+ Decreto
+Supremo
+ No
+ 4,
+ de
+ 2009,
+ del
+ Ministerio
+ Secretaría
+ General
+ de
+ la
+ Presidencia,
+Reglamento
+ para
+ el
+ Manejo
+ de
+ Lodos
+ Generados
+ en
+ Plantas
+ de
+ Tratamiento
+ de
+Aguas
+ Servidas.
+
+Para
+ la
+ corta
+ o
+ explotación
+ de
+ Queule
+ -­‐Gomortega
+ keule
+ (Mol.)
+ Baillon-­‐,
+ PitaoPitavia
+ punctata
+ (Mol.)-­‐,
+ Belloto
+ del
+ Sur
+ -Beilschmiedia
+ berteroana
+ (Gay)
+Kostern-­‐,
+ Ruil
+ -Nothofagus
+ alessandrii
+ Espinoza-­‐,
+ Belloto
+ del
+ NorteBeilschmiedia
+ miersii
+ (Gay)
+ Kostern,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 2
+ del
+Decreto
+ Supremo
+ N°
+ 13,
+ de
+ 1995,
+ del
+ Ministerio
+ de
+ Agricultura,
+ que
+ declara
+monumento
+ natural
+ a
+ las
+ especies
+ forestales
+ Queule,
+ Pitao,
+ Belloto
+ del
+ Sur,
+Belloto
+ del
+ Norte
+ y
+ Ruil.
+
+X
+
+Para
+ la
+ corta
+ y
+ destrucción
+ del
+ Alerce,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ segundo
+del
+ Decreto
+ Supremo
+ N°
+ 490,
+ de
+ 1976,
+ del
+ Ministerio
+ de
+ Agricultura,
+ que X
+declara
+ monumento
+ natural
+ a
+ la
+ especie
+ forestal
+ Alerce.
+
+Para
+ la
+ corta
+ o
+ explotación
+ de
+ araucarias
+ vivas,
+ se
+ encuentra
+ establecido
+ en
+ el
+artículo
+ 2°
+ del
+ Decreto
+ Supremo
+ N°
+ 43,
+ de
+ 1990,
+ del
+ Ministerio
+ de
+ Agricultura, X
+que
+ declara
+ monumento
+ natural
+ a
+ la
+ Araucaria
+ araucana.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 4
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+X
+
+130
+
+Para
+ realizar
+ nuevas
+ explotaciones
+ o
+ mayores
+ extracciones
+ de
+ aguas
+subterráneas
+ que
+ las
+ autorizadas,
+ en
+ zonas
+ de
+ prohibición
+ que
+ corresponden
+ a
+acuíferos
+ que
+ alimentan
+ vegas
+ y/o
+ bofedales
+ en
+ las
+ Regiones
+ de
+ Arica
+ y
+Parinacota,
+ de
+ Tarapacá
+ y
+ de
+ Antofagasta,
+ será
+ el
+ establecido
+ en
+ los
+ incisos
+ 3o
+ y
+4o
+ del
+ artículo
+ 63
+ y
+ en
+ el
+ artículo
+ 64
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 1.122,
+ de
+1981,
+ del
+ Ministerio
+ de
+ Justicia,
+ Código
+ de
+ Aguas.
+
+**Tabla
+ 7-­‐2:
+ Revisión
+ PAS
+ mixtos
+ aplicables
+ al
+ proyecto.**
+
+ART. PERMISO
+ AMBIENTAL
+ SECTORIAL REQUIERE NO
+ REQUIERE REQUISITOS
+
+131
+
+132
+
+133
+
+134
+
+135
+
+136
+
+Para
+ realizar
+ trabajos
+ de
+ conservación,
+ reparación
+ o
+ restauración
+ de
+Monumentos
+ Históricos;
+ para
+ remover
+ objetos
+ que
+ formen
+ parte
+ o
+pertenezcan
+ a
+ un
+ Monumento
+ Histórico;
+ para
+ destruir,
+ transformar
+ o
+ reparar
+un
+ Monumento
+ Histórico,
+ o
+ hacer
+ construcciones
+ en
+ sus
+ alrededores;
+ o
+ para
+excavar
+ o
+ edificar
+ si
+ el
+ Monumento
+ Histórico
+ fuere
+ un
+ lugar
+ o
+ sitio
+ eriazo,
+ será
+el
+ establecido
+ en
+ los
+ artículos
+ 11
+ y
+ 12
+ de
+ la
+ Ley
+ N°
+ 17.288,
+ sobre
+ monumentos
+nacionales.
+
+Para
+ hacer
+ excavaciones
+ de
+ tipo
+ arqueológico,
+ antropológico
+ y
+ paleontológico,
+será
+ el
+ establecido
+ en
+ los
+ artículos
+ 22
+ y
+ 23
+ de
+ la
+ Ley
+ N°
+ 17.288,
+ sobre
+monumentos
+ nacionales.
+
+Para
+ hacer
+ construcciones
+ nuevas
+ en
+ una
+ zona
+ declarada
+ típica
+ o
+ pintoresca,
+ o
+para
+ ejecutar
+ obras
+ de
+ reconstrucción
+ o
+ de
+ mera
+ conservación,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 30
+ No
+ 1
+ de
+ la
+ Ley
+ No
+ 17.288,
+ sobre
+ monumentos
+nacionales.
+
+Para
+ el
+ emplazamiento
+ de
+ instalaciones
+ nucleares
+ y
+ radiactivas,
+ será
+el
+ establecido
+ en
+ los
+ artículos
+ 4o
+ y
+ 67
+ inciso
+ 3°
+ de
+ la
+ Ley
+ No
+ 18.302,
+ de
+Seguridad
+ Nuclear.
+
+Para
+ la
+ construcción
+ y
+ operación
+ de
+ depósitos
+ de
+ relaves,
+ será
+ el
+ establecido
+ en
+el
+ artículo
+ 9°
+ del
+ Decreto
+ Supremo
+ No
+ 248,
+ de
+ 2006,
+ del
+ Ministerio
+ de
+ Minería,
+Reglamento
+ para
+ la
+ aprobación
+ de
+ proyectos
+ de
+ diseño,
+ construcción,
+operación
+ y
+ cierre
+ de
+ los
+ depósitos
+ de
+ relaves.
+
+Para
+ establecer
+ un
+ botadero
+ de
+ estériles
+ o
+ acumulación
+ de
+ mineral,
+será
+ el
+ establecido
+ en
+ el
+ inciso
+ 1°
+ del
+ artículo
+ 339,
+ del
+ artículo
+ quinto
+ del
+Decreto
+ Supremo
+ No
+ 132,
+ de
+ 2002,
+ del
+ Ministerio
+ de
+ Minería,
+ que
+ fija
+ el
+ texto
+refundido,
+ sistematizado
+ y
+ coordinado
+ del
+ Reglamento
+ de
+ Seguridad
+ Minera.
+
+Para
+ la
+ ejecución
+ del
+ plan
+ de
+ cierre
+ de
+ una
+ faena
+ minera,
+ será
+ el
+ establecido
+ en
+137
+el
+ artículo
+ 6o
+ de
+ la
+ Ley
+ 20.551,
+ de
+ Cierre
+ de
+ Faenas
+ e
+ Instalaciones
+ Mineras.
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+138
+
+139
+
+140
+
+Para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+ cualquier
+ obra
+pública
+ o
+ particular
+ destinada
+ a
+ la
+ evacuación,
+ tratamiento
+ o
+ disposición
+ final
+de
+ desagües,
+ aguas
+ servidas
+ de
+ cualquier
+ naturaleza,
+ será
+ el
+ establecido
+ en
+ el
+artículo
+ 71
+ letra
+ b)
+ primera
+ parte,
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 725,
+ de
+1967,
+ del
+ Ministerio
+ de
+ Salud
+ Pública,
+ Código
+ Sanitario.
+
+Para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+ cualquier
+ obra
+pública
+ o
+ particular
+ destinada
+ a
+ la
+ evacuación,
+ tratamiento
+ o
+ disposición
+ final
+de
+ residuos
+ industriales
+ o
+ mineros,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 71
+ letra
+ b)
+segunda
+ parte,
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 725,
+ de
+ 1967,
+ del
+ Ministerio
+de
+ Salud
+ Pública,
+ Código
+ Sanitario.
+
+Para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+ cualquier
+ planta
+de
+ tratamiento
+ de
+ basuras
+ y
+ desperdicios
+ de
+ cualquier
+ clase,
+ o
+ para
+ la
+instalación
+ de
+ todo
+ lugar
+ destinado
+ a
+ la
+ acumulación,
+ selección,
+industrialización,
+ comercio
+ o
+ disposición
+ final
+ de
+ basuras
+ y
+ desperdicios
+ de
+cualquier
+ clase,
+ será
+ el
+ establecido
+ en
+ los
+ artículos
+ 79
+ y
+ 80
+ del
+ Decreto
+ con
+Fuerza
+ de
+ Ley
+ No
+ 725,
+ de
+ 1967,
+ del
+ Ministerio
+ de
+ Salud
+ Pública,
+ Código
+Sanitario,
+ y
+ siempre
+ que
+ no
+ corresponda
+ la
+ aplicación
+ de
+ otro
+ permiso
+ambiental
+ sectorial
+ por
+ la
+ misma
+ acción.
+
+X
+
+El
+ requisito
+ para
+su
+ otorgamiento
+consiste
+ en
+ que
+las
+ condiciones
+de
+ saneamiento
+y
+ seguridad
+eviten
+ un
+ riesgo
+a
+ la
+ salud
+ de
+ la
+población.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 5
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+141
+
+142
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+Para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+relleno
+ sanitario,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 5°
+ del
+ Decreto
+ Supremo
+ No
+189,
+ de
+ 2005,
+ del
+ Ministerio
+ de
+ Salud,
+ Reglamento
+ sobre
+ condiciones
+ sanitarias
+y
+ de
+ seguridad
+ básicas
+ en
+ los
+ rellenos
+ sanitarios.
+
+Para
+ los
+ sitios
+ de
+ almacenamiento
+ de
+ residuos
+ peligrosos,
+ será
+ el
+ establecido
+en
+ el
+ artículo
+ 29
+ del
+ Decreto
+ Supremo
+ No
+ 148,
+ de
+ 2003,
+ del
+ Ministerio
+ de
+ Salud,
+Reglamento
+ sanitario
+ sobre
+ manejo
+ de
+ residuos
+ peligrosos.
+
+Para
+ el
+ transporte
+ e
+ instalaciones
+ necesarias
+ para
+ la
+ operación
+ del
+ sistema
+ de
+transporte
+ de
+ residuos
+ peligrosos,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 36
+ del
+Decreto
+ Supremo
+ No
+ 148,
+ de
+ 2003,
+ del
+ Ministerio
+ de
+ Salud,
+ Reglamento
+sanitario
+ sobre
+ manejo
+ de
+ residuos
+ peligrosos.
+
+Para
+ instalaciones
+ de
+ eliminación
+ de
+ residuos
+ peligrosos,
+ será
+ el
+ establecido
+ en
+el
+ artículo
+ 44
+ del
+ Decreto
+ Supremo
+ No
+ 148,
+ de
+ 2003,
+ del
+ Ministerio
+ de
+ Salud,
+Reglamento
+ sanitario
+ sobre
+ manejo
+ de
+ residuos
+ peligrosos.
+
+Para
+ el
+ sitio
+ de
+ reciclaje
+ de
+ residuos
+ peligrosos,
+ será
+ el
+ establecido
+ en
+ el
+artículo
+ 52
+ del
+ Decreto
+ Supremo
+ No
+ 148,
+ de
+ 2003,
+ del
+ Ministerio
+ de
+ Salud,
+Reglamento
+ sanitario
+ sobre
+ manejo
+ de
+ residuos
+ peligrosos.
+
+Para
+ la
+ caza
+ o
+ captura
+ de
+ ejemplares
+ de
+ animales
+ de
+ especies
+ protegidas
+ para
+fines
+ de
+ investigación,
+ para
+ el
+ establecimiento
+ de
+ centros
+ de
+ reproducción
+ o
+criaderos
+ y
+ para
+ la
+ utilización
+ sustentable
+ del
+ recurso,
+ será
+ el
+ establecido
+ en
+ el
+inciso
+ 1o
+ del
+ artículo
+ 9o
+ de
+ la
+ Ley
+ N°
+ 4.601,
+ sobre
+ Caza,
+ modificada
+ por
+ la
+ Ley
+ N°
+19.473,
+ que
+ sustituye
+ el
+ texto
+ de
+ la
+ Ley
+ N°
+ 4.601,
+ sobre
+ Caza,
+ y
+ artículo
+ 609
+ del
+Código
+ Civil.
+
+Para
+ la
+ recolección
+ de
+ huevos
+ y
+ crías
+ con
+ fines
+ científicos
+ o
+ de
+reproducción,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 5o
+ del
+ artículo
+ Primero
+ de
+ la
+ Ley
+N°
+ 19.473,
+ que
+ sustituye
+ el
+ texto
+ de
+ la
+ Ley
+ N°
+ 4.601,
+ sobre
+ Caza,
+ y
+ artículo
+ 609
+del
+ Código
+ Civil.
+
+Para
+ corta
+ de
+ bosque
+ nativo,
+ cuya
+ corta
+ o
+ explotación
+ sea
+ necesaria
+para
+ la
+ ejecución
+ de
+ cualquier
+ proyecto
+ o
+ actividad
+ de
+ las
+ señaladas
+ en
+ el
+artículo
+ 3
+ del
+ presente
+ Reglamento,
+ con
+ excepción
+ de
+ los
+ proyectos
+ a
+ que
+ se
+refiere
+ el
+ literal
+ m.1,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 5o
+ de
+ la
+ Ley
+ No
+ 20.283
+sobre
+ recuperación
+ del
+ bosque
+ nativo
+ y
+ fomento
+ forestal.
+
+Para
+ la
+ corta
+ de
+ plantaciones
+ en
+ terrenos
+ de
+ aptitud
+ preferentemente
+forestal,
+ cuya
+ corta
+ o
+ explotación
+ sea
+ necesaria
+ para
+ la
+ ejecución
+ de
+ cualquier
+proyecto
+ o
+ actividad
+ de
+ las
+ señaladas
+ en
+ el
+ artículo
+ 3
+ del
+ presente
+ Reglamento,
+con
+ excepción
+ de
+ los
+ proyectos
+ a
+ que
+ se
+ refiere
+ el
+ literal
+ m.1,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 21
+ del
+ Decreto
+ Ley
+ No
+ 701,
+ de
+ 1974,
+ del
+ Ministerio
+ de
+Agricultura,
+ que
+ fija
+ régimen
+ legal
+ de
+ los
+ terrenos
+ forestales
+ o
+ preferentemente
+aptos
+ para
+ la
+ forestación,
+ y
+ establece
+ normas
+ de
+ fomento
+ sobre
+ la
+ materia,
+cuyo
+ texto
+ fue
+ reemplazado
+ por
+ Decreto
+ Ley
+ N°
+ 2.565,
+ de
+ 1979,
+ del
+ Ministerio
+de
+ Agricultura,
+ que
+ sustituye
+ el
+ Decreto
+ ley
+ N°
+ 701,
+ de
+ 1974,
+ que
+ somete
+terrenos
+ forestales
+ a
+ las
+ disposiciones
+ que
+ señala.
+
+Para
+ la
+ intervención
+ de
+ especies
+ vegetales
+ nativas
+ clasificadas
+ de
+ conformidad
+con
+ el
+ artículo
+ 37
+ de
+ la
+ Ley
+ No
+ 19.300,
+ que
+ formen
+ parte
+ de
+ un
+ bosque
+ nativo,
+ o
+la
+ alteración
+ de
+ su
+ hábitat,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 19
+ de
+ la
+ Ley
+ No
+20.283,
+ sobre
+ recuperación
+ del
+ bosque
+ nativo
+ y
+ fomento
+ forestal.
+
+Para
+ la
+ corta,
+ destrucción
+ o
+ descepado
+ de
+ formaciones
+ xerofíticas
+ que
+ sea
+necesaria
+ para
+ la
+ ejecución
+ de
+ cualquier
+ proyecto
+ o
+ actividad
+ de
+ las
+ señaladas
+en
+ el
+ artículo
+ 3
+ del
+ presente
+ Reglamento,
+ con
+ excepción
+ de
+ los
+ proyectos
+ a
+ que
+se
+ refiere
+ el
+ literal
+ m.1.,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 60
+ de
+ la
+ Ley
+ No
+20.283,
+ sobre
+ recuperación
+ del
+ bosque
+ nativo
+ y
+ fomento
+ forestal
+ y
+ en
+ el
+artículo
+ 3o
+ del
+ Decreto
+ Supremo
+ No
+ 93,
+ de
+ 2008,
+ del
+ Ministerio
+ de
+ Agricultura,
+Reglamento
+ general
+ de
+ dicha
+ Ley.
+
+Para
+ el
+ manejo
+ de
+ bosque
+ nativo
+ de
+ preservación
+ que
+ corresponda
+ a
+ambientes
+ únicos
+ o
+ representativos
+ de
+ la
+ diversidad
+ biológica
+ natural
+ del
+ país,
+cuyo
+ manejo
+ sólo
+ puede
+ hacerse
+ con
+ el
+ objetivo
+ del
+ resguardo
+ de
+ dicha
+diversidad,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 2o
+ número
+ 4°
+ de
+ la
+ Ley
+ N°
+ 20.283,
+sobre
+ recuperación
+ del
+ bosque
+ nativo
+ y
+ fomento
+ forestal
+ y
+ el
+ artículo
+ 4o
+ del
+Decreto
+ Supremo
+ No
+ 93,
+ de
+ 2008,
+ del
+ Ministerio
+ de
+ Agricultura,
+ Reglamento
+general
+ de
+ dicha
+ Ley.
+
+Para
+ la
+ corta
+ de
+ árboles
+ y/o
+ arbustos
+ aislados
+ ubicados
+ en
+ áreas
+ declaradas
+ de
+153
+protección,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 4o
+ de
+ la
+ Ley
+ No
+ 18.378.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 6
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+154
+
+155
+
+156
+
+157
+
+158
+
+159
+
+160
+
+Para
+ realizar
+ exploraciones
+ en
+ terrenos
+ públicos
+ o
+ privados
+ de
+ zonas
+ que
+alimenten
+ vegas
+ y/o
+ bofedales
+ en
+ las
+ Regiones
+ de
+ Arica
+ y
+ Parinacota,
+ Tarapacá
+y
+ de
+ Antofagasta,
+ será
+ el
+ establecido
+ en
+ el
+ inciso
+ 5o
+ del
+ artículo
+ 58
+ del
+ Decreto
+con
+ Fuerza
+ de
+ Ley
+ No
+ 1.122,
+ de
+ 1981,
+ del
+ Ministerio
+ de
+ Justicia,
+ Código
+ de
+Aguas.
+
+Para
+ la
+ construcción
+ de
+ ciertas
+ obras
+ hidráulicas,
+ será
+ el
+ establecido
+ en
+ el
+artículo
+ 294
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 1.122,
+ de
+ 1981,
+ del
+ Ministerio
+ de
+Justicia,
+ Código
+ de
+ Aguas.
+
+Para
+ efectuar
+ modificaciones
+ de
+ cauce,
+ será
+ el
+ establecido
+ en
+ el
+ artículo
+ 41
+ e
+inciso
+ 1o
+ del
+ artículo
+ 171
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 1.122,
+ de
+ 1981,
+ del
+Ministerio
+ de
+ Justicia,
+ Código
+ de
+ Aguas,
+ siempre
+ que
+ no
+ se
+ trate
+ de
+ obras
+ de
+regularización
+ o
+ defensa
+ de
+ cauces
+ naturales.
+
+Para
+ efectuar
+ obras
+ de
+ regularización
+ o
+ defensa
+ de
+ cauces
+ naturales,
+será
+ el
+ establecido
+ en
+ los
+ incisos
+ 1o
+ y
+ 2o
+ del
+ artículo
+ 171
+ del
+ Decreto
+ con
+Fuerza
+ de
+ Ley
+ No
+ 1.122,
+ de
+ 1981,
+ del
+ Ministerio
+ de
+ Justicia,
+ Código
+ de
+ Aguas.
+
+Para
+ ejecutar
+ obras
+ para
+ la
+ recarga
+ artificial
+ de
+ acuíferos,
+ será
+ el
+ establecido
+ en
+el
+ artículo
+ 66
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 1.122,
+ de
+ 1981,
+ del
+ Ministerio
+de
+ Justicia,
+ Código
+ de
+ Aguas.
+
+Para
+ extracción
+ de
+ ripio
+ y
+ arena
+ en
+ los
+ cauces
+ de
+ los
+ ríos
+ y
+ esteros,
+ será
+ el
+establecido
+ en
+ el
+ artículo
+ 11
+ de
+ la
+ Ley
+ No
+ 11.402,
+ sobre
+ obras
+ de
+ defensa
+ y
+regularización
+ de
+ las
+ riberas
+ y
+ cauces
+ de
+ los
+ ríos,
+ lagunas
+ y
+ esteros.
+
+Para
+ subdividir
+ y
+ urbanizar
+ terrenos
+ rurales
+ para
+ complementar
+ alguna
+actividad
+ industrial
+ con
+ viviendas,
+ dotar
+ de
+ equipamiento
+ algún
+ sector
+ rural
+ o
+habilitar
+ un
+ balneario
+ o
+ campamento
+ turístico
+ o
+ para
+ la
+ construcción
+ de
+conjuntos
+ habitacionales
+ de
+ viviendas
+ sociales
+ o
+ de
+ viviendas
+ de
+ hasta
+ un
+ valor
+de
+ 1.000
+ Unidades
+ de
+ Fomento
+ que
+ cuenten
+ con
+ los
+ requisitos
+ para
+ obtener
+ un
+subsidio
+ del
+ Estado,
+ así
+ como
+ para
+ las
+ construcciones
+ industriales,
+ de
+equipamiento,
+ turismo
+ y
+ poblaciones
+ fuera
+ de
+ los
+ límites
+ urbanos,
+corresponderá
+ a
+ la
+ autorización
+ e
+ informes
+ favorables
+ que
+ se
+ establecen
+respectivamente
+ en
+ los
+ incisos
+ 3°
+ y
+ 4°
+ del
+ artículo
+ 55
+ del
+ Decreto
+ con
+ Fuerza
+ de
+Ley
+ No
+ 458,
+ de
+ 1975,
+ del
+ Ministerio
+ de
+ la
+ Vivienda
+ y
+ Urbanismo,
+ Ley
+ General
+ de
+Urbanismo
+ y
+ Construcciones.
+
+**7.1.1** **P** **ERMISO** **A** **MBIENTAL** **S** **ECTORIAL** **A** **RTÍCULO** **N°** **140,** **DEL** **RSEIA**
+
+El
+ permiso
+ para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+ cualquier
+ planta
+ de
+ tratamiento
+ de
+basuras
+ y
+ desperdicios
+ de
+ cualquier
+ clase
+ o
+ para
+ la
+ instalación
+ de
+ todo
+ lugar
+ destinado
+ a
+ la
+ acumulación,
+selección,
+ industrialización,
+ comercio
+ o
+ disposición
+ final
+ de
+ basuras
+ y
+ desperdicios
+ de
+ cualquier
+ clase,
+ será
+ el
+establecido
+ en
+ los
+ artículos
+ 79
+ y
+ 80
+ del
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 725,
+ de
+ 1967,
+ del
+ Ministerio
+ de
+ Salud
+Pública,
+ Código
+ Sanitario,
+ y
+ siempre
+ que
+ no
+ corresponda
+ la
+ aplicación
+ de
+ otro
+ permiso
+ ambiental
+ sectorial
+ por
+ la
+misma
+ acción.
+
+El
+ requisito
+ para
+ su
+ otorgamiento
+ consiste
+ en
+ que
+ las
+ condiciones
+ de
+ saneamiento
+ y
+ seguridad
+ eviten
+ un
+ riesgo
+a
+ la
+ salud
+ de
+ la
+ población.
+
+Los
+ contenidos
+ técnicos
+ y
+ formales
+ que
+ deben
+ presentarse
+ para
+ acreditar
+ su
+ cumplimiento
+ son
+ los
+ siguientes:
+
+**a)
+ Generales**
+**a.1.
+ Descripción
+ y
+ Planos
+ del
+ sitio**
+
+Fase de Construcción
+
+El
+ proyecto
+ durante
+ esta
+ etapa
+ habilitará
+ un
+ lugar
+ transitorio
+ para
+ el
+ almacenamiento
+ de
+ Residuos
+ Sólidos
+Asimilables
+ a
+ Domiciliarios
+ (RSAD),
+ la
+ cual
+
+ contará
+ con
+ contenedores
+ cerrados
+ con
+ el
+ fin
+ de
+ aislar
+ los
+ residuos
+ de
+la
+ lluvia
+ y
+ vectores,
+ para
+
+ finalmente
+ ser
+ enviados
+ a
+ destinatarios
+ autorizados,
+ en
+ cumplimiento
+ con
+ los
+estándares
+ y
+
+ plazos
+ que
+ manda
+ la
+ normativa
+ vigente.
+ Dicha
+ instalación
+ no
+ contempla
+ la
+ disposición
+ final
+ de
+residuos
+ de
+ ningún
+ tipo.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 7
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+Fase de Operación
+
+El
+ proyecto
+ durante
+ esta
+ etapa
+
+ utilizará
+ un
+ sistema
+ de
+ recolección
+ por
+ ductos
+ hacia
+
+ las
+ 4
+ salas
+ de
+ basuras
+ para
+almacenamiento
+ de
+ Residuos
+ sólidos
+ asimilables
+ a
+ domiciliarios
+ (RSAD).
+ Estas
+ salas
+ estarán
+ ubicadas
+ en
+ el
+ 1°
+subterráneo,
+ como
+ se
+ muestra
+ en
+ el
+ Anexo
+ 3
+ “Planos”
+ además
+ estas
+ salas
+ contarán
+ con
+ 28
+ contenedores
+ de
+ 360
+L
+ de
+ capacidad
+ para
+ el
+ almacenamiento
+ de
+ estos
+
+ residuos
+ hasta
+ su
+ retiro
+ por
+ el
+ servicio
+ de
+ recolección
+municipal,
+ 3
+ veces
+ por
+ semana.
+
+**a.2.
+ Descripción
+ de
+ variables
+ meteorológicas
+ relevantes**
+
+Los
+ datos
+ meteorológicos
+ relevantes
+ fueron
+ obtenidos
+ de
+ la
+ Estación
+ de
+ Monitoreo
+ del
+ Aire
+ “La
+ Florida”,
+ la
+ cual
+se
+ encuentra
+ a
+ unos
+ 2.200
+ metros 1 del
+ proyecto.
+
+Los
+ datos
+ de
+ ubicación
+ de
+ la
+ Estación
+ La
+ Florida
+ son
+ los
+ indicados
+ en
+ la
+ siguiente
+ figura,
+ seguido
+ de
+ una
+ tabla
+que
+ lista
+ los
+ parámetros
+ medidos
+ y
+ la
+ fecha
+ de
+ los
+ registros.
+
+**Tabla
+ 7-­‐3:
+ Parámetros
+ Meteorológicos**
+
+Información
+ general
+
+Propietario Ministerio
+ del
+ Medio
+ Ambiente
+
+Operador Ministerio
+ del
+ Medio
+ Ambiente
+
+Región Metropolitana
+ de
+ Santiago
+
+Provincia Santiago
+
+Comuna La
+ Florida
+
+Coordenadas
+ UTM 352711
+ E
+ 6290662
+ N
+
+Huso
+ horario 19
+
+Recepción
+ de
+ datos en
+ línea
+
+Inicio
+ de
+ operación
+ reportada 1997-­‐03-­‐24
+
+Fuente: http://sinca.mma.gob.cl/index.php/estacion/index/id/128
+
+**Figura
+ 7-­‐
+ 1:
+ Estación
+ de
+ Monitoreo
+ La
+ Florida**
+
+Fuente:
+ http://www.vivimoslanoticia.cl/region/fotos-­‐lista-­‐estacion-­‐de-­‐monitoreo-­‐en-­‐cesfam-­‐la-­‐florida/
+
+1 Dato
+ obtenido
+ desde
+ Google
+ earth.
+2 Considerando descarte de la excavación del terreno.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 8
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+**Tabla
+ 7-­‐4:
+ Parámetros
+ Meteorológicos**
+
+Parámetro Frecuencia Fecha
+ primer
+registro
+
+Parámetro Frecuencia Fecha
+ primer Fecha
+ último
+registro registro
+
+Humedad
+ relativa
+ del
+ aire horario 15-­‐12-­‐2003 23-­‐10-­‐2014
+(Humedad
+ relativa
+ -­‐
+ %)
+
+horario 15-­‐12-­‐2003 23-­‐10-­‐2014
+
+Temperatura ambiente
+(Temperatura
+ -­‐
+ °C)
+
+Dirección del viento
+(Dir.
+ viento
+ -­‐
+ °)
+
+Velocidad del viento
+(Vel.
+ viento
+ -­‐
+ m/s)
+
+horario 15-­‐12-­‐2003 23-­‐10-­‐2014
+
+horario 15-­‐12-­‐2003 23-­‐10-­‐2014
+
+horario 15-­‐12-­‐2003 23-­‐10-­‐2014
+
+Fuente: http://sinca.mma.gob.cl/index.php/estacion/index/id/128
+
+De
+ acuerdo
+ a
+ lo
+ descrito
+ anteriormente,
+ ninguna
+ de
+ estas
+ variables
+ meteorológicas
+ son
+ relevantes
+ para
+ el
+presente
+ proyecto
+ (tanto
+ en
+ fase
+ de
+ construcción
+ como
+ de
+ operación).
+ De
+ acuerdo
+ a
+ la
+ forma
+ de
+almacenamiento
+ descrita
+ en
+ el
+ punto
+ a.1.
+
+**a.3.
+ Estimación
+ y
+ caracterización
+ cualitativa
+ y
+ cuantitativa
+ de
+ los
+ residuos
+ a
+ tratar**
+
+Los
+ residuos
+ que
+ se
+ generarán
+ durante
+ el
+ proyecto
+ son:
+
+Residuos
+ sólidos
+ de
+ la
+ construcción
+ (RESCON):
+ restos
+ de
+ hormigón,
+ escombro,
+ plásticos,
+ tierra,
+ madera,
+escombros,
+ alambres,
+ restos
+ de
+ embalaje,
+ restos
+ de
+ soldadura,
+ restos
+ de
+ metales
+ y
+ restos
+ de
+ fierro.
+Residuos
+ sólidos
+ asimilables
+ a
+ domiciliarios
+ (RSAD):
+ restos
+ de
+ comida,
+ papel,
+ servilletas,
+ tela,
+ plásticos,
+envoltorios
+ de
+ papel,
+ vidrio,
+ cartón
+ y
+ otros
+ insumos
+ inertes
+ de
+ oficinas.
+ etc.
+
+En
+ la
+ fase
+ de
+ construcción
+ se
+ generarán
+ 7.200
+ kg
+ mensuales
+ de
+ RSAD
+ (1
+ Kg/persona/día)
+ considerando
+mensualmente
+ 240
+ trabajadores
+ y
+ 53.687
+ m [3] de
+ RESCON,
+ tal
+ como
+ se
+ señala
+ en
+ el
+ capítulo
+ 1
+ de
+ la
+ presente
+ DIA.
+
+En
+ la
+ fase
+ de
+ operación
+ se
+ estima
+ una
+ generación
+ de
+ 240
+ kg
+ mensuales
+ de
+ RSAD,
+ considerando
+ 1
+ kg/diarios
+ para
+8
+ trabajadores.
+ Asimismo
+ se
+ ha
+ considerado
+ una
+ población
+ de
+ 1.644
+ personas,
+ estimándose
+ una
+ generación
+ de
+49.320
+ Kg
+ mensuales
+ de
+ RSAD,
+ considerando
+ 1
+ Kg/diarios.
+
+En
+ la
+ tabla
+ N°1
+ podemos
+ apreciar
+ la
+ cantidad
+ de
+ residuos
+ generado
+ en
+ todo
+ el
+ proyecto
+
+**Tabla
+ 7-­‐5:
+ Generación
+ de
+ Residuos**
+
+Fase
+ del
+ proyecto Tipo
+ de
+ Residuo Unidad Cantidad
+ de
+ Residuos
+
+Construcción RSAD Kg 7.200
+
+2 3
+
+RESCON m
+
+2 3
+
+RESCON m 53.687
+
+Operación RSAD Kg 49.560
+
+2
+m
+
+Fuente:
+ Elaboración
+ propia
+
+2 Considerando
+ descarte
+ de
+ la
+ excavación
+ del
+ terreno.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 9
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+**a.4.
+ Diseño
+ de
+ la
+ planta
+ de
+ tratamiento
+ que
+ incluya
+ diagrama
+ de
+ flujo
+ y
+ las
+ unidades
+ y
+ equipamiento**
+
+Fase de Construcción
+
+En
+ esta
+ fase
+ no
+ se
+ contempla
+ el
+ diseño
+ de
+ una
+ planta
+ de
+ tratamiento
+ de
+ residuos.
+ Solo
+ se
+ proyecta
+ la
+construcción
+ de
+ una
+ zona
+ de
+ acopio
+ compuesta
+ de
+ contenedores
+ para
+ los
+ residuos
+ de
+ la
+ construcción
+ y
+ RSAD
+respectivamente.
+
+Fase de Operación
+
+En
+ esta
+ fase
+ no
+ se
+ contempla
+ la
+ implementación
+ de
+ una
+ planta
+ de
+ tratamiento
+ de
+ residuos.
+ Solo
+ se
+ proyecta
+ la
+construcción
+ de
+ 4
+ salas
+ de
+ concreto
+ en
+ el
+ primer
+ subterráneo,
+ las
+ cuales
+ se
+ encontrarán
+ aisladas
+ y
+ destinadas
+para
+ el
+ almacenamiento
+ temporal
+ de
+ los
+ RSAD.
+
+**a.5.
+ Formas
+ de
+ abatimiento
+ de
+ emisiones
+ y
+ de
+ control
+ y
+ manejo
+ de
+ residuos**
+
+Fase de Construcción
+
+En
+ Anexo
+ 6
+ “Estudio
+ de
+ Emisiones
+ Atmosféricas”
+ de
+ la
+ presente
+ DIA,
+ se
+ pueden
+ observar
+ las
+ distintas
+ formas
+ de
+abatimiento
+ de
+ emisiones.
+
+Cabe
+ destacar,
+ que
+ se
+ construirá
+ un
+ cierre
+ perimetral
+ en
+ los
+ deslindes
+ de
+ la
+ obra,
+ mediante
+ paneles
+ de
+ Terciado
+Estructural
+ y
+ un
+ túnel
+ recubierta
+ de
+ malla
+ Rachel
+ para
+ la
+ seguridad
+ de
+ los
+ transeúntes,
+ con
+ esto
+ podemos
+impedir
+ la
+ dispersión
+ de
+ polvo
+ y
+ fugas
+ del
+ material
+ al
+ exterior
+ del
+ área
+ de
+ faena.
+
+En
+ el
+ punto
+ 3.7
+ del
+ Anexo
+ 6
+ “Estudio
+ de
+ Emisiones
+ Atmosféricas”,
+ se
+ pueden
+ apreciar
+ los
+ lugares
+ de
+ disposición
+final
+ de
+ los
+ residuos
+ y
+ sus
+ rutas.
+
+Residuos
+ Sólidos
+ Asimilables
+ a
+ Domésticos:
+Durante
+ la
+ fase
+ de
+ construcción
+ los
+ RSAD
+ serán
+ almacenados
+ en
+ zonas
+ delimitadas
+ y
+ contenedores
+ cerrados,
+estos
+ residuos
+ serán
+ retirados
+ 3
+ veces
+ por
+ semana
+ por
+ el
+ camión
+ recolector
+ municipal.
+
+En
+ caso
+ que
+ estos
+ residuos
+ no
+ puedan
+ ser
+ retirados
+ por
+ el
+ servicio
+ municipal,
+ una
+ empresa
+ especializada
+ y
+acreditada
+ por
+ la
+ Autoridad
+ Sanitaria
+ local
+ será
+ la
+ responsable
+ de
+ prestar
+ el
+ servicio
+ completo,
+ ya
+ sea
+ desde
+facilitar
+ el
+ o
+ los
+ contenedores
+ para
+ su
+ disposición
+ temporal
+ en
+ obra,
+ hasta
+ su
+ retiro,
+ traslado
+ periódico,
+transporte
+ y
+ depósito
+ final
+ en
+ el
+ relleno
+ sanitario
+ debidamente
+ reconocido
+ y
+ autorizado
+ por
+ la
+ Autoridad
+Sanitaria
+ local,
+ según
+ corresponda.
+
+Además,
+ se
+ promoverá
+ que
+ en
+ los
+ lugares
+ de
+ trabajo
+ se
+ mantengan
+ buenas
+ condiciones
+ de
+ orden,
+ limpieza
+ e
+higiene,
+ especialmente
+ en
+ los
+ sectores
+ donde
+ se
+ ubiquen
+ los
+ receptáculos
+ para
+ la
+ disposición
+ temporal
+ de
+ los
+residuos
+ domiciliarios,
+ adoptando
+ las
+ medidas
+ más
+ efectivas
+ para
+ controlar
+ la
+ proliferación
+ de
+ vectores
+sanitarios
+ (p.
+ ej.
+ roedores,
+ insectos,
+ aves,
+ etc.).
+
+Emisiones
+ líquidas
+Dadas
+ las
+ características
+ de
+ los
+ residuos
+ a
+ generar,
+ se
+ tendrá
+ especial
+ cuidado
+ en
+ mantener
+ en
+ óptimas
+condiciones
+ de
+ estanqueidad
+ los
+ contenedores,
+ procurando
+ además
+ que
+ las
+ bolsas
+ que
+ sirven
+ para
+ el
+almacenamiento
+ de
+ los
+ residuos
+ asimilables
+ a
+ domiciliarios
+ se
+ encuentren
+ en
+ buenas
+ condiciones
+ para
+ la
+acumulación
+ de
+ ellos.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 10
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+Los
+ Residuos
+ sólidos
+ de
+ la
+ construcción
+ (RESCON),
+ serán
+ manejados
+ de
+ forma
+ diferente
+ según
+ sus
+características:
+
+Residuos
+ sólidos
+ inertes:
+El
+ material
+ de
+ excavación
+ será
+ acopiado
+ en
+ áreas
+ específicas
+ y
+ delimitadas,
+ con
+ el
+ objeto
+ que
+ éstos
+ no
+ se
+dispersen.
+ Luego,
+ éstos
+ serán
+ dispuestos
+ en
+ un
+ sitio
+ (rellenos
+ de
+ canteras,
+ botaderos
+ de
+ material
+ de
+construcción)
+ autorizado
+ por
+ la
+ Autoridad
+ Sanitaria
+ y
+ Municipal,
+ distinto
+ de
+ los
+ rellenos
+ sanitarios
+ autorizados
+para
+ los
+ residuos
+ domiciliarios
+ (De
+ manera
+ preliminar,
+ y
+ para
+ efectos
+ de
+ la
+ presente
+ DIA,
+ se
+ propone
+ en
+ Elisa
+Correa
+ #3936,
+ Puente
+ Alto).
+
+Los
+ residuos
+ sólidos
+ tales
+ como
+ despuntes
+ de
+ metal,
+ alambres,
+ restos
+ de
+ estructuras
+ metálicas,
+ viruta
+ metálica
+ y
+envases
+ vacíos
+ de
+ insumos
+ inertes
+ serán
+ clasificados
+ según
+ origen,
+ rotulados
+ en
+ contenedores
+ y
+ acopiados
+ en
+áreas
+ específicas
+ dentro
+ de
+ la
+ faena,
+ para
+ optar
+ a
+ su
+ comercialización,
+ como
+ primera
+ opción.
+
+Se
+ mantendrá
+ un
+ registro
+ de
+ la
+ documentación
+ que
+ acredite
+ el
+ lugar
+ de
+ disposición
+ final
+ de
+ los
+ residuos
+provenientes
+ de
+ las
+ obras.
+
+Residuos
+ Industriales
+ no
+ Peligrosos:
+Estos
+ residuos
+ serán
+ dispuestos
+ en
+ contenedores
+ cerrados
+ y
+ debidamente
+ rotulados,
+ para
+ su
+ posterior
+ retiro
+ y
+disposición
+ final
+ por
+ parte
+ de
+ una
+ empresa
+ autorizada
+ conforme
+ a
+ la
+ legislación
+ vigente.
+
+La
+ totalidad
+ de
+ estos
+ RESCON
+ serán
+ retirados
+ 2
+ veces
+ por
+ semana,
+ para
+ su
+ posterior
+ disposición
+ final
+ a
+ un
+ lugar
+autorizado.
+
+Fase de Operación
+
+Durante
+ esta
+ fase
+ los
+ RSAD
+ serán
+ destinados
+ a
+ 4
+ salas
+ de
+ basura
+ donde
+ se
+ almacenarán
+ en
+ contenedores
+cerrados
+ para
+ luego
+ ser
+ transportados
+ por
+ el
+ servicio
+ municipal
+ de
+ recolección
+ y
+ dispuesto
+ en
+ un
+ lugar
+autorizado.
+ Por
+ las
+ características
+ y
+ tiempo
+ de
+ disposición,
+ no
+ se
+ considera
+ la
+ generación
+ de
+ emisiones
+ gaseosas
+ya
+ que
+ se
+ consideran
+ 3
+ retiros
+ semanales,
+ la
+ sala
+ contará
+ con
+ un
+ cierre
+ especial
+ para
+ el
+ control
+ de
+ olores,
+vectores
+ y
+ ruidos.
+
+Material
+ particulado:
+ se
+ evitará
+ la
+ emisión
+ de
+ polvos
+ o
+ cualquier
+ material
+ particulado,
+ dado
+ que
+ los
+ residuos
+estarán
+ dispuestos
+ en
+ contenedores
+ cerrados,
+ dentro
+ de
+ la
+ sala
+ de
+ basura.
+
+Olores:
+ el
+ personal
+ de
+ aseo
+ del
+ edificio
+ mantendrá
+ una
+ constante
+ limpieza
+ en
+ las
+ salas
+ de
+ basura.
+ Estos
+ residuos
+deberán
+ ser
+ depositados
+ en
+ bolsas.
+
+Ruidos:
+ Los
+ residuos
+ al
+ caer
+ por
+ el
+ ducto
+ hacia
+ la
+ sala
+ de
+ basura
+ y
+ debidamente
+ embolsados,
+ no
+ producen
+ ruidos
+molestos,
+ estos
+ se
+ producen
+ al
+ llegar
+ a
+ sala.
+ Para
+ disminuir
+ el
+ impacto
+ acústico
+ de
+ dicha
+ caída
+ se
+ contempla
+ la
+llegada
+ a
+ losas
+ de
+ hormigón
+ armado
+ liviano,
+ las
+ cuales
+ atenúan
+ el
+ golpe.
+
+Vectores:
+ Para
+ el
+ control
+ de
+ vectores
+ se
+ contempla
+ que
+ los
+ recintos
+ que
+ contienen
+ las
+ tolvas,
+ tengan
+terminaciones
+ lavables
+ y
+ selladas,
+ además
+ las
+ tolvas
+ tendrán
+ cierres
+ herméticos.
+ Con
+ lo
+ anterior,
+ contará
+ con
+ventilación
+ con
+ malla
+ mosquitera,
+ como
+ medida
+ de
+ control
+ contra
+ los
+ vectores.
+
+Emisiones
+ líquidas:
+ Dadas
+ las
+ características
+ de
+ los
+ residuos
+ a
+ generar,
+ se
+ tendrá
+ especial
+ cuidado
+ en
+ mantener
+en
+ óptimas
+ condiciones
+ de
+ estanqueidad
+ los
+ contenedores,
+ procurando
+ además
+ que
+ las
+ bolsas
+ que
+ sirven
+ para
+el
+ almacenamiento
+ de
+ los
+ residuos
+ asimilables
+ a
+ domiciliarios
+ se
+ encuentren
+ en
+ buenas
+ condiciones
+ para
+ la
+acumulación
+ de
+ ellos.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 11
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+**a.6.
+ Descripción
+ del
+ sistema
+ de
+ manejo
+ de
+ rechazos**
+
+Fase de Construcción
+
+Durante
+ esta
+ fase
+ no
+ se
+ contempla
+ existencia
+ de
+ rechazo
+ (acero,
+ aluminio,
+ cartón,
+ vidrio,
+ madera,
+ entre
+ otros),
+en
+ lo
+ posible,
+ serán
+ reutilizados
+ dentro
+ de
+ la
+ misma
+ obra.
+ De
+ lo
+ contrario,
+ serán
+ llevados
+ a
+ sitios
+ de
+ disposición
+final
+ autorizados
+ para
+ residuos
+ de
+ construcción,
+ utilizando
+ para
+ ello
+ el
+ listado
+ de
+ sitios
+ autorizados
+ disponible
+ en
+el
+ sitio
+ web:
+http://www.asrm.cl/paginasSegundoNivel/NivelTecnico.aspx?param1=394&param2=394&param3=3
+
+Fase de Operación
+
+Durante
+ esta
+ fase
+ no
+ se
+ considera
+ existencia
+ de
+ rechazos.
+
+**a.7.
+ Plan
+ de
+ verificación
+ y
+ seguimiento
+ de
+ los
+ residuos
+ a
+ ser
+ tratados
+ y
+ rechazados**
+
+Etapa de Construcción
+
+La
+ totalidad
+ de
+ los
+ residuos
+ generados
+ serán
+ retirados
+ por
+ una
+ empresa
+ autorizada
+ según
+ periodicidad
+normada.
+ El
+ titular
+ mantendrá
+ en
+ obra
+ un
+ registro
+ donde
+ se
+ acredite
+ la
+ disposición
+ final
+ de
+ todos
+ los
+ residuos
+ en
+lugares
+ autorizados
+ por
+ la
+ autoridad
+ sanitaria.
+ Al
+ finalizar
+ la
+ etapa
+ de
+ construcción,
+ el
+ titular
+ remitirá
+ los
+antecedentes
+ necesarios
+ que
+ garantizan
+ el
+ envío
+ de
+ los
+ residuos
+ de
+ la
+ obra
+ a
+ sitio
+ autorizado.
+
+Etapa de Operación
+
+En
+ esta
+ fase
+ no
+ se
+ considera
+ seguimiento
+ de
+ los
+ residuos
+ tratados
+ y
+ rechazados.
+
+**a.8.
+ Plan
+ de
+ Contingencia**
+
+Fase de Construcción
+
+De
+ acuerdo
+ a
+ las
+ características
+ de
+ los
+ residuos
+ que
+ serán
+ almacenados,
+ el
+ Plan
+ de
+ contingencia
+ para
+ el
+almacenamiento
+ temporal
+ de
+ residuos
+ estará
+ enfocado
+ en
+ la
+ contingencia
+ por
+ incendio.
+ El
+ cual
+ seguirá
+ los
+siguientes
+ pasos:
+
+Evaluar
+ la
+ gravedad
+ del
+ incendio,
+ y
+ determinar
+ la
+ necesidad
+ de
+ informar
+ de
+ forma
+ inmediata
+ a
+ uno
+ o
+ más
+organismos
+ de
+ reacción
+ (Bomberos,
+ Carabineros,
+ Ambulancia).
+
+Procurar
+ en
+ lo
+ posible
+ mantener
+ alejadas
+ del
+ lugar
+ del
+ siniestro,
+ a
+ personas
+ ajenas
+ a
+ la
+ faena
+ y/o
+ personal
+ que
+no
+ esté
+ capacitado
+ para
+ enfrentar
+ la
+ contingencia.
+
+Va
+ a
+ depender
+ del
+ tipo
+ de
+ sustancia
+ involucrada
+ en
+ el
+ incendio,
+ y
+ siempre
+ que
+ sea
+ posible
+ combatir
+ el
+ fuego
+ sin
+mayor
+ riesgo,
+ utilizar
+ los
+ medios
+ de
+ extinción
+ disponibles
+ (extintores),
+ considerando
+ siempre
+ las
+ indicaciones
+ de
+seguridad
+ contenidas
+ en
+ la
+ Hoja
+ de
+ seguridad
+ correspondiente
+ a
+ los
+ residuos
+ siniestrados.
+
+De
+ no
+ ser
+ posible
+ el
+ control
+ del
+ fuego
+ sin
+ mayores
+ riesgos,
+ proceder
+ a
+ evacuación
+ de
+ la
+ instalación
+ de
+ faena.
+Confirmar
+ al
+ Cuerpo
+ de
+ Bombero
+ más
+ cercano,
+ que
+ su
+ presencia
+ es
+ requerida
+ con
+ suma
+ urgencia.
+ Llamar
+ a
+Carabineros
+ y
+ esperar
+ llegada
+ de
+ organismos
+ de
+ reacción
+ en
+ zona
+ segura.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 12
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+De
+ encontrarse
+ personas
+ heridas,
+ dar
+ aviso
+ de
+ inmediato
+ a
+ Ambulancia.
+
+Durante
+ la
+ faena
+ se
+ contará
+ con
+ la
+ presencia
+ de
+ un
+ experto
+ en
+ prevención
+ de
+ riesgos
+ quien
+ estará
+ a
+ cargo
+ de
+realizar
+ las
+ siguientes
+ actividades:
+
+Garantizar
+ el
+ cumplimiento
+ del
+ D.S.
+ N°
+ 594
+ de
+ 1999
+ del
+ Ministerio
+ de
+ Salud,
+ sobre
+ Condiciones
+ Sanitarias
+ y
+Ambientales
+ Básicas
+ de
+ los
+ lugares
+ de
+ Trabajo,
+ tanto
+ para
+ la
+ fase
+ de
+ construcción
+ como
+ de
+ operación
+ del
+proyecto.
+
+Revisar
+ el
+ uso
+ de
+ los
+ elementos
+ de
+ protección
+ personal,
+ por
+ parte
+ de
+ todos
+ los
+ trabajadores,
+ mientras
+ se
+encuentren
+ expuestos
+ al
+ riesgo.
+
+Constatar
+ que
+ los
+ trabajadores
+ cuenten
+ con
+ la
+ licencia
+ de
+ conducir
+ que
+ exige
+ la
+ Ley
+ de
+ Tránsito
+ para
+ la
+operación
+ de
+ maquinarias
+ automotrices
+ en
+ los
+ lugares
+ de
+ trabajo.
+
+Fase de Operación
+
+Ya
+ que
+ los
+ residuos
+ a
+ almacenar
+ serán
+ sólo
+ RSAD,
+ el
+ proyecto
+ no
+ contempla
+ la
+ Plan
+ de
+ contingencia
+ ya
+ que
+ los
+residuos
+ serán
+ retirados
+ 3
+ veces
+ por
+ semana.
+
+Conducción
+ de
+ Descarga
+ de
+ Basura:
+El
+ edificio
+ cuenta
+ con
+ un
+ sistema
+ de
+ conducción
+ de
+ basura
+ la
+ cual
+ cumple
+ con
+ lo
+ indicado
+ en
+ el
+ artículo
+ 4.3.18
+ de
+la
+ O.G.U.C.
+ Los
+ buzones
+ tolva
+ y
+ conductos
+ deberán
+ ser
+ construidos
+ con
+ materiales
+ de
+ resistencia
+ a
+ la
+ acción
+ del
+fuego
+ correspondiente
+ a
+ lo
+ menos
+ a
+ la
+ clase
+ F-­‐
+ 60.
+ Además,
+ dispondrán
+ de
+ ventilación
+ adecuada
+ en
+ su
+ parte
+superior,
+ y
+ de
+ una
+ lluvia
+ de
+ agua
+ en
+ la
+ parte
+ alta,
+ que
+ pueda
+ hacerse
+ funcionar
+ en
+ los
+ casos
+ que
+ en
+ un
+atascamiento
+ de
+ basuras
+ en
+ un
+ ducto
+ se
+ llegara
+ a
+ producir
+ un
+ principio
+ de
+ incendio,
+ y
+ que
+ pueda
+ ponerse
+ en
+funcionamiento
+ desde
+ un
+ lugar
+ de
+ fácil
+ acceso
+ ubicado
+ en
+ el
+ primer
+ piso.
+
+**a.9.
+ Plan
+ de
+ Emergencia**
+
+Fase de Construcción
+
+Ante
+ una
+ eventual
+ emergencia
+ en
+ caso
+ de
+ incendio
+ o
+ de
+ accidente
+ del
+ trabajo,
+ se
+ actuará
+ de
+ la
+ siguiente
+ forma:
+
+Incendio
+ en
+ el
+ Área
+ de
+ Faenas
+
+v Usar
+ los
+ elementos
+ de
+ protección
+ personal.
+v Pedir
+ ayuda
+ de
+ servicios
+ externos
+ para
+ detener
+ el
+ fuego.
+v Registrar
+ el
+ accidente
+ e
+ informar
+ al
+ Jefe
+ del
+ Proyecto.
+
+Accidente
+ de
+ Trabajadores
+
+v Aislar
+ el
+ área
+ con
+ cinta
+ de
+ acordonamiento.
+v Dar
+ atención
+ de
+ primeros
+ auxilios
+ en
+ el
+ área
+ de
+ accidentes.
+v En
+ un
+ accidente
+ mayor,
+ trasladar
+ al
+ (los)
+ herido
+ (s)
+ hasta
+ el
+ centro
+ asistencial
+ más
+ cercano.
+v Dar
+ aviso
+ a
+ la
+ Mutual
+ de
+ Salud
+ correspondiente.
+v Registrar
+ el
+ accidente
+ y
+ avisar
+ de
+ forma
+ inmediata
+ a
+ la
+ gerencia.
+
+Durante
+ la
+ faena,
+ se
+ contará
+ con
+ la
+ presencia
+ de
+ un
+ experto
+ en
+ prevención
+ de
+ riesgos
+ quien
+ estará
+ a
+ cargo
+ de
+realizar
+ las
+ siguientes
+ actividades:
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 13
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+v Constatar
+ el
+ cumplimiento
+ del
+ D.S.
+ N°
+ 594
+ de
+ 1999
+ del
+ Ministerio
+ de
+ Salud,
+ sobre
+ condiciones
+
+Sanitarias
+ y
+ Ambientales
+ Básicas
+ de
+ los
+ lugares
+ de
+ Trabajo,
+ tanto
+ para
+ la
+ fase
+ de
+ construcción
+ como
+ de
+operación
+ del
+ proyecto.
+v Verificar
+ el
+ uso
+ de
+ los
+ elementos
+ de
+ protección
+ personal,
+ por
+ parte
+ de
+ todos
+ los
+ trabajadores,
+ mientras
+
+se
+ encuentren
+ expuestos
+ al
+ riesgo.
+v Verificar
+ que
+ los
+ trabajadores
+ cuenten
+ con
+ la
+ licencia
+ de
+ conducir
+ que
+ exige
+ la
+ Ley
+ de
+ Tránsito
+ para
+ la
+
+operación
+ de
+ maquinarias
+ automotrices
+ en
+ los
+ lugares
+ de
+ trabajo.
+
+Fase de Operación
+
+Ya
+ que
+ los
+ residuos
+ a
+ almacenar
+ serán
+ sólo
+ RSAD,
+ el
+ proyecto
+ no
+ contempla
+ el
+ Plan
+ de
+ emergencia
+ ya
+ que
+ los
+residuos
+ serán
+ retirados
+ 3
+ veces
+ por
+ semana.
+
+**b)
+ Tratándose
+ de
+ una
+ estación
+ de
+ transferencia,
+ además,
+ de
+ lo
+ señalado
+ precedentemente:**
+**b.1
+ Descripción
+ del
+ sistema
+ de
+ carga
+ y
+ descarga
+ de
+ residuos.**
+**b.2.
+ Plan
+ de
+ medición
+ y
+ monitoreo
+ de
+ emisiones
+ gaseosas.**
+**b.3.
+ Diseño
+ del
+ sistema
+ de
+ captación,
+ conducción
+ y
+ manejo
+ de
+ líquidos
+ lixiviados
+ y
+ de
+ cualquier
+ otro
+ residuo**
+**líquido
+ que
+ se
+ genere.**
+**b.4.
+ Descripción
+ y
+ diseño
+ de
+ zona
+ de
+ almacenamiento
+ transitorio
+ de
+ residuos,
+ si
+ se
+ contempla.**
+
+Este
+ numeral
+ no
+ aplica
+ porque
+ el
+ proyecto
+ “Edificios
+ Panorama
+ Cordillera”
+ no
+ consdiera
+ la
+ construcción
+ ni
+operación
+ de
+ una
+ estación
+ de
+ transferencia.
+
+**c)
+ Tratándose
+ de
+ plantas
+ de
+ manejo
+ de
+ residuos
+ orgánicos,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras
+ desde
+ a.1)**
+**hasta
+ a.9):**
+**c.1.
+ Descripción
+ del
+ sistema
+ perimetral
+ de
+ intercepción
+ y
+ evacuación
+ de
+ escorrentías
+ superficiales.**
+**c.2.
+ Descripción
+ del
+ sistema
+ de
+ recolección
+ y
+ evacuación
+ de
+ las
+ aguas
+ que
+ precipiten
+ sobre
+ la
+ planta.**
+**c.3.
+ Descripción
+ del
+ sistema
+ de
+ monitoreo
+ de
+ la
+ calidad
+ del
+ agua
+ subterránea.**
+**c.4.
+ Programa
+ de
+ control
+ de
+ parámetros
+ críticos
+ de
+ la
+ operación
+ de
+ la
+ planta.**
+
+Este
+ numeral
+ no
+ aplica
+ porque
+ el
+ proyecto
+ “Edificios
+ Panorama
+ Cordillera”
+ no
+ consdiera
+ la
+ construcción
+ ni
+operación
+ de
+ una
+ planta
+ de
+ manejo
+ de
+ residuos
+ orgánicos.
+
+**d)
+ Tratándose
+ de
+ una
+ planta
+ de
+ incineración,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras
+ desde
+ a.1)
+ hasta
+ a.9):**
+**d.1.
+ Programa
+ de
+ control
+ de
+ parámetros
+ críticos
+ de
+ la
+ operación
+ del
+ sistema.**
+**d.2.
+ Plan
+ de
+ medición
+ y
+ monitoreo
+ de
+ emisiones
+ gaseosas.**
+
+Este
+ numeral
+ no
+ aplica
+ porque
+ el
+ proyecto
+ “Edificios
+ Panorama
+ Cordillera”
+ no
+ consdiera
+ la
+ construcción
+ ni
+operación
+ de
+ una
+ planta
+ de
+ incineración.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 14
+ de
+ 15
+
+C APÍTULO 7 -­‐ P ERMISOS A MBIENTALES S ECTORIALES
+
+**e.
+ Tratándose
+ de
+ almacenamiento
+ de
+ residuos,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras
+ a.1)
+ hasta
+ a.9)**
+
+**e.1
+ Especificaciones
+ técnicas
+ de
+ las
+ características
+ constructivas
+ del
+ sitio
+ de
+ almacenamiento
+ y
+ medidas
+ de**
+**protección
+ de
+ condiciones
+ ambientales**
+
+Fase de Construcción
+
+Los
+ residuos
+ de
+ origen
+ asimilables
+ a
+ domiciliarios
+ estarán
+ ubicados
+ en
+ una
+ zona
+ destinada
+ exclusivamente
+ para
+su
+ almacenamiento
+ y
+ estarán
+ en
+ contenedores
+ cerrados
+ con
+ el
+ fin
+ de
+ proteger
+ los
+ residuos
+ de
+ la
+ lluvia
+ y
+vectores.
+
+El
+ sitio
+ de
+ almacenamiento
+ tendrá
+ acceso
+ restringido,
+ de
+ manera
+ que
+ sólo
+ podrá
+ ingresar
+ personal
+ debidamente
+autorizado
+ por
+ el
+ responsable
+ de
+ la
+ instalación.
+
+Fase de Operación
+
+Para
+ almacenar
+ los
+ residuos
+ de
+ origen
+ domiciliarios,
+ el
+ proyecto
+ contará
+ con
+ 4
+ salas
+ de
+ basuras
+ cerradas
+ de
+concreto,
+ ubicados
+ en
+ el
+ 1°
+ subterráneo
+ del
+ edificio.
+
+Para
+ mayores
+ antecedentes,
+ ver
+ Anexo
+ 7.1
+ “Proyecto
+ de
+ Basura”
+ y
+ Anexo
+ 3
+ “planos”
+
+ de
+ la
+ presente
+ DIA.
+
+**e.2
+ Capacidad
+ máxima
+ de
+ almacenamiento**
+
+Los
+ RSAD
+ se
+ almacenarán
+ en
+ contenedores
+ de
+ 360
+ L
+ de
+ capacidad,
+ reforzados
+ en
+ su
+ interior
+ con
+ bolsas
+ de
+plástico
+ resistentes,
+ estos
+ contenedores
+ almacenarán
+ un
+ volumen
+ diario
+ de
+ 2,8
+ m3/día.
+
+Los
+ residuos
+ generados
+ en
+ ambas
+ torres
+ serán
+ almacenados
+ en
+ 4
+ salas
+ con
+ 28
+ contenedores
+ plásticos,
+ estancos,
+con
+ tapa
+ y
+ 2
+ ruedas
+ para
+ facilitar
+ su
+ transporte.
+
+Los
+ planos
+ arquitectónicos
+ del
+ proyecto
+ de
+ basura
+ se
+ encuentran
+ en
+ el
+ Anexo
+ 3
+ “Planos”
+ de
+ la
+ presente
+ DIA.
+
+**e.3
+ Descripción
+ del
+ tipo
+ de
+ almacenamiento,
+ tales
+ como
+ a
+ granel
+ o
+ en
+ contenedores**
+
+Fase de Construcción
+
+Los
+ residuos
+ generados
+ durante
+ la
+ fase
+ de
+ construcción
+ serán
+ almacenados
+ en
+ sectores
+ separados
+ por
+ tipo
+ de
+residuos
+ (Escombros,
+ despuntes
+ de
+ madera,
+ despuntes
+ de
+ fierro,
+ etc.)
+ y
+ en
+ contenedores
+ metálicos.
+ El
+ suelo
+ del
+sector
+ será
+ previamente
+ compactado.
+
+Fase de Operación
+
+La
+ descripción
+ del
+ tipo
+ de
+ almacenamiento
+ de
+ basura
+ en
+ contenedores,
+ se
+ encuentran
+ señalado
+ en
+ el
+ Anexo
+ 7.1
+“Proyecto
+ de
+ Basura”
+ de
+ la
+ presente
+ DIA.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+P ROYECTO E DIFICIOS P ANORAMA C ORDILLERA Página
+ 15
+ de
+ 15

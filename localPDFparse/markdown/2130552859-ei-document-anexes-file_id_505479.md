@@ -1,0 +1,57 @@
+---
+title: Sin título
+author: Jorge Leon Prieto
+date: D:20150619120047-03'00'
+language: es
+type: general
+pages: 3
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - CAPÍTULO 5 EL COMPROMISO DE SOMETERSE A UN PROCESO DE EVALUACIÓN Y CERTIFICACIÓN DE CONFORMIDAD
+-->
+
+# CAPÍTULO 5 EL COMPROMISO DE SOMETERSE A UN PROCESO DE EVALUACIÓN Y CERTIFICACIÓN DE CONFORMIDAD
+
+**CAPÍTULO 5**
+
+**EL COMPROMISO DE SOMETERSE A UN PROCESO DE EVALUACIÓN Y**
+
+**CERTIFICACIÓN DE CONFORMIDAD**
+
+**ÍNDICE**
+
+5.1 EL COMPROMISO DE SOMETERSE A UN PROCESO DE EVALUACIÓN Y
+CERTIFICACIÓN DE CONFORMIDAD DE LA RESOLUCIÓN DE CALIFICACIÓN
+AMBIENTAL, EN EL CASO DE LOS ARTÍCULOS 18 TER Y 18 QUÁTER DE LA LEY. UNA
+ENTIDAD CERTIFICADORA DE CONFORMIDAD DEBERÁ SUSCRIBIR LA
+DECLARACIÓN, SÓLO EN LO RELATIVO A LO SEÑALADO EN LAS LETRAS A) Y F) ASÍ
+COMO RESPECTO A LOS INDICADORES DE CUMPLIMIENTO DE LAS LETRAS C) Y D)
+DEL PRESENTE ARTÍCULO ............................................................................................... 1
+
+Capítulo 5
+
+**CAPÍTULO 5**
+
+**EL COMPROMISO DE SOMETERSE A UN PROCESO DE EVALUACIÓN Y**
+
+**CERTIFICACIÓN DE CONFORMIDAD**
+
+**5.1** **EL COMPROMISO DE SOMETERSE A UN PROCESO DE EVALUACIÓN Y**
+**CERTIFICACIÓN DE CONFORMIDAD DE LA RESOLUCIÓN DE CALIFICACIÓN**
+**AMBIENTAL, EN EL CASO DE LOS ARTÍCULOS 18 TER Y 18 QUÁTER DE LA**
+**LEY.** **UNA** **ENTIDAD** **CERTIFICADORA** **DE** **CONFORMIDAD** **DEBERÁ**
+**SUSCRIBIR LA DECLARACIÓN, SÓLO EN LO RELATIVO A LO SEÑALADO EN**
+**LAS LETRAS A) Y F) ASÍ COMO RESPECTO A LOS INDICADORES DE**
+**CUMPLIMIENTO DE LAS LETRAS C) Y D) DEL PRESENTE ARTÍCULO**
+
+Conforme lo dispuesto en los artículos 18 ter y 18 quáter de la Ley N°19.300, el Titular
+indica que no se someterá a un proceso de evaluación y certificación de conformidad,
+respecto del cumplimiento de la normativa ambiental aplicable y de las condiciones sobre
+las cuales se califique favorablemente el proyecto en evaluación.
+
+Capítulo 5 - 

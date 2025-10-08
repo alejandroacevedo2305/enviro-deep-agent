@@ -1,0 +1,25 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20241029225903
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**264300** **264600** **264900** **265200**
+
+|®|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|®|®||||||||
+|||||**SIMBOLOGÍA**<br>Línea de Media Tensión<br>Camino de Acceso<br>BESS<br>Paneles Solares<br>Caminos Internos<br>Bodega de<br>Almacenamiento<br>Residuos No Peligrosos<br><br>**O**|**SIMBOLOGÍA**<br>Línea de Media Tensión<br>Camino de Acceso<br>BESS<br>Paneles Solares<br>Caminos Internos<br>Bodega de<br>Almacenamiento<br>Residuos No Peligrosos<br><br>**O**|Transformadores<br>Cerco Perimetral<br>**bras Temporales**<br>Baños y Duchas<br>Bodega de Materiales e<br>Insumos<br>Caseta Control Acceso<br>Comedor<br>|Transformadores<br>Cerco Perimetral<br>**bras Temporales**<br>Baños y Duchas<br>Bodega de Materiales e<br>Insumos<br>Caseta Control Acceso<br>Comedor<br>||
+|||||**SIMBOLOGÍA**<br>Línea de Media Tensión<br>Camino de Acceso<br>BESS<br>Paneles Solares<br>Caminos Internos<br>Bodega de<br>Almacenamiento<br>Residuos No Peligrosos<br><br>**O**|**SIMBOLOGÍA**<br>Línea de Media Tensión<br>Camino de Acceso<br>BESS<br>Paneles Solares<br>Caminos Internos<br>Bodega de<br>Almacenamiento<br>Residuos No Peligrosos<br><br>**O**|Transformadores<br>Cerco Perimetral<br>**bras Temporales**<br>Baños y Duchas<br>Bodega de Materiales e<br>Insumos<br>Caseta Control Acceso<br>Comedor<br>|Transformadores<br>Cerco Perimetral<br>**bras Temporales**<br>Baños y Duchas<br>Bodega de Materiales e<br>Insumos<br>Caseta Control Acceso<br>Comedor<br>|Transformadores<br>Cerco Perimetral<br>**bras Temporales**<br>Baños y Duchas<br>Bodega de Materiales e<br>Insumos<br>Caseta Control Acceso<br>Comedor<br>|
+||||||Bodega de Materiales e<br>Insumos<br>Bodega de Residuos<br>Peligrosos<br>Estacionamientos<br>Estanque de Agua<br>Potable<br>Oficina y Sala de<br>Control<br>PTAS<br>**S**<br>0<br><br>1:3.000|Oficina<br>Patio de Maniobras<br>Vestidores<br>Zona Acopio Materiales<br>Zona de Lavado de<br>Camiones<br>**eries Uso de Suelo**<br>LVZ-6<br>LVZ-7<br>100<br>200<br>50<br>m|||
+||||||||||
+|||||Sistema de Coorde<br>Datum WGS-84|Sistema de Coorde<br>Datum WGS-84|nadas UTM<br>Huso 19S|nadas UTM<br>Huso 19S|nadas UTM<br>Huso 19S|
+||||||||||
+
+**264300** **264600** **264900** **265200**

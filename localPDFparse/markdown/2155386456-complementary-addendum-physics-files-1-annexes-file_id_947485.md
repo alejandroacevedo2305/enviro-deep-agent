@@ -1,0 +1,23 @@
+---
+title: Planta general SP
+author: Desconocido
+date: D:20230428171013
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|uebrada CQ3<br>520.0<br>520.0<br>510.0<br>520.0 500.0<br>520.0<br>C a m in o s a H a b ilita r<br>C am in o s a H a b ilita r 510.0<br>510.0<br>.0<br>500.0<br>500.0 P is c in a d e E m e r ge n 490.0 c ia N o 1|Col2|
+|---|---|
+|_490.0_<br>_490.0_<br>_490.0_<br>_490.0_<br>_500.0_<br>_500.0_<br>_500.0_<br>xiviación Secundaria No7<br><br>AT1|Lavador de Gases|
+|_490.0_<br><br>_480.0_<br>_480.0_<br>_480.0_<br>_490.0_<br>_490.0_<br>_490.0_<br>Piscina de Emergencia No2<br>**Canal Colector Proyectado**<br>Brazo Secundario|Caminos a Habilit|
+|_470.0_<br>_470.0_<br>_470.0_<br>_480.0_<br>_480.0_<br>_480.0_<br>_470.0_<br>_470.0_<br>_470.0_<br>_470.0_<br>_470.0_<br>_480.0_<br>_480.0_<br>_480.0_<br>_480.0_<br>_480.0_<br>_480.0_<br>_490.0_<br>_490.0_<br>_490.0_<br>_490.0_<br>Piscina de Emergencia N°3<br>AT2<br>**Obras E**|**xistentes**|
+
+|R Derecha ibera<br>D Acumulada istancia<br>Situación Con proyecto D Perfiles entre istancia<br>Planta General<br>e: 1/2.500<br>Quebrada CQ3<br>83 1 9 .4 6<br>3 1 9 .4 6 .93 10 7 .3<br>3 0 17 .3 8 42 9 8 520.0<br>Quebrada CQ2 42 9 8 .9 52 8 5 .4 520.0<br>.82 8 5 .4 2 7 2 .8 510.0<br>52 7 2 2 55 68 .0 0 520.0 520.0 500.0<br>2 28 .0 0 77520 4 . 30 5 .9<br>72 4 5 .9 6 91.722 323 6 .65.<br>2 3 6 .5 200. 2 31<br>C am in o s a H a b ilita r<br>520.0 91.73226.73 C amino s a Ha b ilitar 510.0<br>510.0<br>510.0<br>4.34224.11 200.2 31<br>500.0<br>1982 .0 38 131 841 .1 85 3. 6 81 43 1 . 87 . 4 8 38 38 4.. 433 44 128.34 1185 .20. 304 108.34 510.0 500.0 P is c ina d e Em e 490.0 No rgencia 1<br>520.0<br>500.0<br>411 510.0<br>34.<br>02 8 4. 2<br>3<br>198. 2 43.881520.0<br>490.0 178.34 AT1<br>In ic io C a n a l C o le c to r P r o y e c ta d o 11 56 8. 8. 33 44 0 11 P 8 8 21 r . . 81 3 o 3 3.4 8 y 4 4 3. 8 e 4. 3 c3 4 t4 a d o 500.0<br>to 1 1 r<br>c<br>le<br>o<br>C<br>E s t C a n a l 510.0 490.0 L a v a d o r d e G a s e s<br>e<br>r 520.0<br>o<br>C 20.0<br>a 5 52<br>500.0<br>q 490.0<br>u<br>i P ila d e L ixiv ia c ió n S ecu n d a N ria o7<br>520.0<br>510.0<br>490.0<br>520.0 Canal<br>500.0<br>510.0 490.0<br>Colector<br>490.0 Proyectado<br>520.0 500.0<br>510.0<br>510.0<br>B<br>r<br>a<br>500.0 z 490.0<br>480.0 o<br>S<br>e<br>c 480.0<br>und<br>500.0 Est<br>510.0<br>ero a 480.0 C a m in o s a H a b ilita r<br>r<br>io<br>Ca P is c ina d e E m e r g e nc N ia o 2<br>490.0<br>q<br>500.0 u<br>i<br>480.0 480.0<br>490.0<br>480.0480.0<br>490.0<br>490.0<br>480.0<br>Obras Existentes<br>470.0<br>P is c in a N Emergencia de ° 3<br>490.0 480.0<br>4 70 .00. 47 0<br>480.0 0.0 .0 7047 44 70.0<br>470.0<br>0.0 4880.0 4<br>A T 2<br>470.0<br>Co Canal le c to r p r oy e cta d o<br>470.0 470.0 460.0<br>460.0<br>Proyecto 470.0 460.0<br>Red Hídrica<br>470.0<br>Obras Existente<br>460.0<br>Área inundación<br>T= 100|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|info@koam.cl<br>www.koam.cl<br>**Konsultorías Ambientales Ltda.**<br>**AUMENTO VIDA ÚTIL PLANTA CATEMU**<br>PAS 157 PERMISO PARA OBRAS DE REGULARIZACIÓN Y<br>DEFENSA DE CAUCES NATURALES.<br>MODIFICACIÓN QUEBRADAS NORTE|**Calculista**<br>**Proyectista**<br>**Jefe de Proyecto**<br>**Observaciones**<br>Gianitza Acuña<br>Gonzalo Lobos<br>José Ayala Lara<br>1. Unidades de medida en m.<br>2. Coordenadas en UTM. Datum WGS-84-19S<br>3. Curvas de nivel a 0,5 m|**Contenido**<br>Situación Con Proyecto<br>Planta General|**Fecha:**<br>28/04/2023|**Fecha:**<br>28/04/2023|
+|info@koam.cl<br>www.koam.cl<br>**Konsultorías Ambientales Ltda.**<br>**AUMENTO VIDA ÚTIL PLANTA CATEMU**<br>PAS 157 PERMISO PARA OBRAS DE REGULARIZACIÓN Y<br>DEFENSA DE CAUCES NATURALES.<br>MODIFICACIÓN QUEBRADAS NORTE|**Calculista**<br>**Proyectista**<br>**Jefe de Proyecto**<br>**Observaciones**<br>Gianitza Acuña<br>Gonzalo Lobos<br>José Ayala Lara<br>1. Unidades de medida en m.<br>2. Coordenadas en UTM. Datum WGS-84-19S<br>3. Curvas de nivel a 0,5 m|**Contenido**<br>Situación Con Proyecto<br>Planta General|~~**Código de Plano:**~~<br>_AVU-PAS157-CC-07_|~~**Código de Plano:**~~<br>_AVU-PAS157-CC-07_|
+|info@koam.cl<br>www.koam.cl<br>**Konsultorías Ambientales Ltda.**<br>**AUMENTO VIDA ÚTIL PLANTA CATEMU**<br>PAS 157 PERMISO PARA OBRAS DE REGULARIZACIÓN Y<br>DEFENSA DE CAUCES NATURALES.<br>MODIFICACIÓN QUEBRADAS NORTE|**Calculista**<br>**Proyectista**<br>**Jefe de Proyecto**<br>**Observaciones**<br>Gianitza Acuña<br>Gonzalo Lobos<br>José Ayala Lara<br>1. Unidades de medida en m.<br>2. Coordenadas en UTM. Datum WGS-84-19S<br>3. Curvas de nivel a 0,5 m|**Contenido**<br>Situación Con Proyecto<br>Planta General|**Escala de Dibujo:**<br>La Indicada|**Revisión**<br>**B**|

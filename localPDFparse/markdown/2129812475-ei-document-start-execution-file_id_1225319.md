@@ -1,0 +1,347 @@
+---
+title: Microsoft Word - Fechas estimadas para inicio etapa de operación.docx
+author: Desconocido
+date: D:20140912001833Z00'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+1.5.2.
+Fechas
+ estimadas
+ para
+ inicio
+ etapa
+ de
+ operación
+Se
+ estima
+ que
+ el
+ inicio
+ de
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto
+ será
+ a
+ partir
+ del
+ segundo
+ semestre
+del
+ año
+ 2015,
+ dependiendo
+ de
+ la
+ obtención
+ de
+ la
+ RCA
+ de
+ los
+ permisos
+ sectoriales.
+
+Tabla
+ 1.
+ Fecha
+ inicio
+ de
+ actividades
+
+|Etapa|Fecha Inicio|Fecha Término|
+|---|---|---|
+|Operación|Enero2015|revisióncada25años,enero2040|
+
+(*)
+ Todas
+ estas
+ fechas
+ son
+ sólo
+ referenciales,
+ pues
+ están
+ sujetas
+ a
+ la
+ fecha
+ de
+ obtención
+ de
+ la
+ RCA
+ que
+ califique
+favorablemente
+ el
+ proyecto.
+
+1.5.3.
+Cronograma
+ de
+ actividades
+ en
+ etapa
+ de
+ operación
+Considerando
+ que
+ el
+ proceso
+ de
+ engorda,
+ que
+ forma
+ esencialmente
+ la
+ etapa
+ de
+ operación
+ del
+centro
+ de
+ cultivo
+ tiene
+ una
+ duración
+ aproximada
+ de
+ 18
+ meses,
+ la
+ mayor
+ parte
+ de
+ las
+ faenas
+ que
+comprende
+ esta
+ etapa
+ tienen
+ un
+ frecuencia
+ semanal,
+ quincenal
+ o
+ mensual
+ dependiendo
+ de
+ la
+actividad
+ de
+ que
+ trate.
+ Sólo
+ el
+ cambio
+ de
+ redes
+ se
+ estima
+ en
+ un
+ periodo
+ semestral.
+
+El
+ titular
+ informa
+ que
+ el
+ proyecto
+ se
+ encuentra
+ dentro
+ de
+ la
+ ACS
+ (agrupación
+ de
+ concesiones
+ de
+Salmones)
+ definida
+ por
+ la
+ autoridad
+ con
+ el
+ Nombre
+ de
+ ASC
+ 22A,
+ esta
+ agrupación
+ de
+
+ concesiones
+tiene
+ fijado
+ su
+ descanso
+ sanitario
+ por
+ resolución
+ de
+ la
+ Subsecretaria
+ de
+ Pesca,
+ para
+ este
+ caso
+ en
+particular
+ el
+ próximo
+ descanso
+ es
+ desde
+ Octubre
+ -
+ Diciembre
+ 2014,
+ fecha
+ en
+ la
+ cual
+ todas
+ las
+concesiones
+ de
+ la
+ ASC
+ deben
+ estar
+ sin
+ operación.
+
+Dicho
+ lo
+ anterior,
+ se
+ presenta
+ una
+ carta
+ Gantt
+ referencial
+ de
+ la
+ etapa
+ de
+ producción,
+ considerando
+21
+ meses
+ de
+ ciclo
+ productivo.
+
+Tabla
+ 2.
+ Carta
+ Gantt
+ etapa
+ de
+ producción
+
+|Actividad|Tiempo (meses)|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Actividad|1|2|3|4|5|6|7|8|9|1<br>0|1<br>1|1<br>2|1<br>3|1<br>4|1<br>5|1<br>6|1<br>7|1<br>8|1<br>9|2<br>0|2<br>1|2<br>2|2<br>3|2<br>4|
+|Ingreso<br>smolts|x|x|x||||||||||||||||||||||
+|Engorda|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x||||||||
+|Cosecha||||||||||||||||x|x|x|||||||
+|Descanso<br>finciclo|||||||||||||||||||x|x|x||||
+|Descanso<br>obligatori<br>o ASC||||||||||||||||||||||x|x|x|
+
+*La
+ carta
+ Gantt
+ presentada
+ es
+ referencial
+ para
+ cuando
+ el
+ centro
+ inicie
+ su
+ operación
+ en
+ el
+ mes
+ 1
+ de
+ operación
+ del
+ barrio,
+para
+ este
+ caso
+ el
+ proceso
+ de
+ operación
+ se
+ iniciara
+ en
+ el
+ mes
+ tres
+ por
+ tanto
+ el
+ descanso
+ fin
+ de
+ ciclo
+ se
+ sobrepone
+ con
+ el
+descanso
+ obligatorio
+ de
+ la
+ ASC.
+
+1.5.4.
+Mano
+ de
+ Obra
+ etapa
+ de
+ operación
+
+Tabla
+ 3.
+ Mano
+ de
+ obra
+ etapa
+ de
+ operación
+
+|Etapa|Mano de obra promedio|Mano de obra máximo|
+|---|---|---|
+|Etapadeoperación*|10|20|
+
+*la
+ dotación
+ es
+ referencial
+ y
+ dividida
+ en
+ turnos

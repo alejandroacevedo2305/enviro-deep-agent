@@ -1,0 +1,1594 @@
+---
+title: Microsoft Word - CV Nathalia_Fouquet(abr2016).docx
+author: Desconocido
+date: D:20160503132328Z00'00'
+language: es
+type: report
+pages: 7
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+**NATHALIA
+ BELÉN**
+
+**FOUQUET
+ JÓ**
+
+GALLEGUILLOS
+ LORCA
+ #
+ 1682,
+ DEPTO.
+ 201
+
+ANTOFAGASTA,
+ CHILE
+
+FONO:
+ 97556064
+CORREO
+ ELECTRÓNICO:
+ NATHALIA.FOUQUET.JO@GMAIL.COM
+
+Mi
+ ciudad
+ de
+ origen
+ es
+ Santiago.
+ Realicé
+ mis
+ estudios
+ en
+ geología
+ en
+ la
+ Universidad
+ Católica
+del
+ Norte,
+ Antofagasta,
+ y
+ un
+ diplomado
+ en
+ Negocio
+ Minero
+ en
+ la
+ Universidad
+ Adolfo
+ Ibáñez,
+ Santiago.
+Actualmente
+ me
+ encuentro
+ en
+ segundo
+ año
+ de
+ doctorado
+ en
+ régimen
+ de
+ cotutela
+ en
+ la
+ Universidad
+Católica
+ del
+ Norte,
+ Chile,
+ y
+ Universidad
+ de
+ Granada,
+ España,
+ desarrollando
+ la
+ tesis
+ doctoral
+ “Registro
+fósil
+ de
+ secuencias
+ marinas
+ del
+ Cretácico
+ Inferior
+ de
+ las
+ cuencas
+ de
+ Coloso
+ y
+ Chañarcillo,
+ Norte
+ de
+Chile”.
+
+Me
+ considero
+ una
+ persona
+ sociable
+ lo
+ que
+ me
+ ha
+ ayudado
+ a
+ desempeñarme
+ exitosamente
+ en
+las
+ actividades
+ que
+ requieren
+ trabajo
+ en
+ equipo.
+ Soy
+ detallista,
+ metódica,
+ perfeccionista
+ y
+ constante,
+rasgos
+ que
+ han
+ servido
+ para
+ alcanzar
+ mis
+ metas
+ con
+ los
+ mejores
+ resultados
+ posibles.
+
+ANTECEDENTES
+ PERSONALES
+
+Edad 28
+ años
+Cédula
+ de
+ identidad 16.744.069-­‐K
+Nacionalidad Chilena
+Estado
+ civil Soltera
+Licencia
+ de
+ conducir B
+
+FORMACIÓN
+
+2002
+ -
+ 2005 Enseñanza
+ media.
+ Liceo
+ San
+ Pedro
+ Poveda,
+ Santiago.
+
+2006
+ -
+ 2011 Carrera de Geología, Universidad Católica del Norte,
+Antofagasta
+ (Licenciatura
+ en
+ Ciencias
+ Geológicas
+ y
+ título
+ de
+Geólogo).
+
+2012 Memoria
+ de
+ pregrado
+ “Ammonoideos
+ de
+ la
+ Formación
+ El
+ Way”.
+Profesor
+ guía:
+ Dr.
+ Hans-­‐G.
+ Wilke.
+
+2012 Diploma
+ “Introducción
+ al
+ Negocio
+ Minero”,
+ Universidad
+ Adolfo
+Ibáñez.
+ Finalizado.
+
+2014
+ -
+ Actualidad Doctorado
+ en
+ Ciencias,
+ Mención
+ Geología,
+ Universidad
+ Católica
+del
+ Norte,
+ Antofagasta.
+ Línea
+ de
+ investigación:
+ Paleontología.
+Profesor
+ guía:
+ Dr.
+ Hans-­‐G.
+ Wilke.
+
+2014
+ -
+ Actualidad Doctorado
+ en
+ Ciencias
+ de
+ la
+ Tierra,
+ Universidad
+ de
+ Granada,
+Granada,
+ España
+ (régimen
+ de
+ cotutela).
+ Línea
+ de
+ investigación:
+Paleontología
+ y
+ Paleoecología.
+ Profesor
+ guía:
+ Dr.
+ Miguel
+Company
+ Sempere.
+
+Noviembre
+ 2015 Pasantía
+ doctoral,
+ Estación
+ Regional
+ del
+ Noroeste,
+ Universidad
+Nacional
+ Autónoma
+ de
+ México,
+ Hermosillo,
+ México.
+ Línea
+ de
+investigación:
+ Corales
+ fósiles
+ del
+ Crétacico
+ Inferior.
+
+ACTIVIDADES
+ EXTRACURRICULARES
+
+Marzo
+ 2008
+ -
+ Diciembre
+ 2010 Ayudante
+ de
+ Laboratorio
+ de
+ Paleontología,
+ Universidad
+ Católica
+del
+ Norte.
+ Trabajo
+ con
+ alumnos
+ en
+ la
+ descripción
+ y
+ clasificación
+de
+ muestras
+ fósiles.
+ Catalogación
+ y
+ registro
+ de
+ las
+ muestras
+fósiles
+ del
+ laboratorio.
+ Profesor
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+ H.
+
+Marzo
+ 2008
+ -
+ Diciembre
+ 2009 Ayudante del Museo Geológico Humberto Fuenzalida,
+Universidad
+ Católica
+ del
+ Norte.
+ Catalogación
+ y
+ restauración
+ de
+muestras
+ (rocas,
+ minerales
+ y
+ fósiles)
+ e
+ infraestructura
+ interna
+del
+ museo.
+ Director
+ a
+ cargo:
+ Dr.
+ Guillermo
+ Chong
+ Díaz.
+
+Marzo
+ 2009
+ -
+ Diciembre
+ 2009 Ayudante
+ del
+ Museo
+ del
+ Desierto
+ de
+ Atacama,
+ Fundación
+Ruinas
+ de
+ Huanchaca.
+ Catalogación,
+ preparación,
+ montaje
+ y
+exhibición
+ de
+ muestras.
+ Director
+ a
+ cargo:
+ Christian
+ Andrónico
+Naranjo.
+
+Agosto
+ 2009
+ -
+ Diciembre
+ 2009 Ayudante
+ del
+ Programa
+ DeLTA
+ UCN,
+ Curso
+ “Geología
+Planetaria”,
+ Universidad
+ Católica
+ del
+ Norte.
+ Clases
+ y
+ actividades
+didácticas
+ a
+ estudiantes
+ seleccionados
+ de
+ segundo
+ a
+ cuarto
+ año
+medio,
+ a
+ los
+ que
+ se
+ les
+ enseña
+ fundamentos
+ básicos
+ de
+Geología.
+
+Febrero
+ 2012 Ayudante de Laboratorio de Alteración Hidrotermal,
+Universidad
+ Católica
+ del
+ Norte.
+ Trabajo
+ alumnos
+ en
+ la
+descripción
+ de
+ muestras
+ con
+ microscopio
+ como
+ complemento
+ a
+la
+ asignatura
+ de
+ Depósitos
+ Minerales
+ II.
+ Profesor
+ a
+ cargo:
+ Dr.
+Eduardo
+ Campos.
+
+PRÁCTICA
+ PROFESIONAL
+
+Enero
+ 2010
+ -
+ Febrero
+ 2010 Xstrata
+ Norte
+ Exploraciones
+ y
+ Servicios
+ Ltda.
+ de
+ la
+ empresa
+Xstrata
+ Copper
+ Chile
+ S.A.
+ Validación
+ y
+ registro
+ de
+ datos
+ en
+ el
+proceso
+ de
+ QA/QC
+ del
+ Proyecto
+ Sulfuros
+ Lomas
+ Bayas,
+ campaña
+2009.
+ Tutora
+ a
+ cargo:
+ Elizabeth
+ Padilla
+ P.
+
+ANTECEDENTES
+ LABORALES
+
+Marzo
+ 2012
+ -
+ Noviembre
+ 2012 Geóloga
+ trainee
+ -
+ Minera
+ Michilla
+ S.A.
+ Participación
+ en
+ el
+programa
+ “Jóvenes
+ Profesionales”
+ de
+ Antofagasta
+ Minerals
+ S.A.
+Estudio
+ y
+ justificación
+ del
+ modelo
+ geológico
+ del
+ yacimiento
+Lince-­‐Estefanía.
+ Geólogo
+ a
+ cargo:
+ Jorge
+ Acevedo
+ M.
+
+Noviembre
+ 2012
+ -
+ Diciembre
+ 2013 Geóloga
+ de
+ Proyecto
+ -
+ Minera
+ Michilla
+ S.A.
+ Mapeo
+ geológico
+ y
+geotécnico
+ de
+ sondajes
+ de
+ aire
+ reverso
+ y
+ diamantinos.
+ Geólogo
+a
+ cargo:
+ Humberto
+ Alfaro
+ H.
+
+~~1~~ [er] sem
+ 2014 Docente
+ -
+ Universidad
+ Pedro
+ de
+ Valdivia,
+ sede
+ Antofagasta.
+Profesora
+ del
+ ramo
+ de
+ Geología
+ régimen
+ diurno
+ y
+ vespertino
+para
+ las
+ carreras
+ de
+ Ingeniería
+ Civil
+ Minas
+ e
+ Ingeniería
+ Ejecución
+Minas.
+
+2014; ~~1~~ [er] sem
+ 2016 Docente
+ -
+ Universidad
+
+ Católica
+ del
+ Norte,
+ sede
+ Antofagasta.
+Profesora
+ hora
+ del
+ ramo
+ de
+ Paleontología
+ para
+ la
+ carrera
+ de
+Geología.
+
+2o
+ sem
+ 2014;
+ 1 [er] sem
+ 2016 Docente
+ -
+ Universidad
+
+ Católica
+ del
+ Norte,
+ sede
+ Antofagasta.
+Profesora
+ hora
+ del
+ ramo
+ de
+ Geología
+ General
+ 2
+ para
+ la
+ carrera
+de
+ Geología.
+
+~~1~~ [er] sem
+ 2016 Docente
+ -
+ Universidad
+
+ Católica
+ del
+ Norte,
+ sede
+ Antofagasta.
+Profesora
+ hora
+ del
+ Seminario
+ “Recuperación,
+ Preparación
+ y
+Determinación
+ de
+ Patrimonio
+ Paleontológico”
+ para
+ la
+ carrera
+ de
+Geología.
+
+ASESORÍAS
+
+Abril
+ 2011 Estudio
+ paleontológico
+ sector
+ Mina
+ El
+ Way
+ -
+ Cementos
+ BÍO-­‐BÍO
+S.A.
+ Ayudante
+ en
+ etapa
+ de
+ investigación
+ de
+ campo,
+determinación
+ de
+ muestras
+ y
+ elaboración
+ de
+ informe
+ en
+ el
+contexto
+ de
+ ampliación
+ del
+ área
+ de
+ explotación
+ de
+ la
+ empresa.
+Geólogo
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+ H.
+
+Abril
+ 2011 Exposición
+ en
+ museo
+ -
+ CONAF.
+ Ayudante
+ en
+ etapa
+ de
+investigación
+ de
+ campo,
+ recolección
+ de
+ muestras
+ y
+ redacción
+del
+ guión
+ para
+ nueva
+ exposición
+ del
+ Museo
+ de
+ la
+ Biodiversidad
+La
+ Portada.
+ Geólogo
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+ H.
+
+Junio
+ 2011 Estudio
+ paleontológico
+ sector
+ Mina
+ Jilguero
+ -
+ Cementos
+ BÍO-­‐
+BÍO
+ S.A.
+ Sector
+ Mina
+ Jilguero.
+ Ayudante
+ en
+ etapa
+ de
+ elaboración
+de
+ informe
+ en
+ el
+ contexto
+ de
+ ampliación
+ del
+ área
+ de
+ explotación
+de
+ la
+ empresa.
+ Geólogo
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+ H.
+
+Junio
+ 2011 Estudio
+ paleontológico
+ sector
+ Punta
+ del
+ Cobre
+ -
+ C.C.M.
+ Ojos
+ del
+Salado.
+ Ayudante
+ en
+ etapa
+ de
+ determinación
+ de
+ muestras
+ y
+elaboración
+ de
+ informe
+ en
+ el
+ contexto
+ de
+ ampliación
+ del
+ área
+de
+ explotación
+ de
+ la
+ empresa.
+ Geólogo
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+H.
+
+Agosto
+ 2011 Estudio
+ paleontológico
+ Prospecto
+ Eloisa
+ -
+ Compañía
+ Minera
+Eloisa
+ S.P.A.
+ Ayudante
+ en
+ etapa
+ de
+ determinación
+ de
+ muestras
+ y
+elaboración
+ de
+ informe
+ en
+ el
+ contexto
+ de
+ inicio
+ de
+ explotación
+de
+ la
+ empresa.
+ Geólogo
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+ H.
+
+Diciembre
+ 2012 Rescate
+ paleontológico
+ sector
+ Mina
+ Jilguero
+ -
+ Cementos
+
+ BÍO-­‐
+BÍO
+ S.A.
+ Colaboración
+ en
+ etapa
+ de
+ rescate
+ de
+ muestras
+ y
+elaboración
+ de
+ informe
+ por
+ solicitud
+ de
+ Consejo
+ De
+Monumentos
+ Nacionales.
+ Geólogo
+ a
+ cargo:
+ Hans-­‐G.
+ Wilke
+ H.
+
+Julio
+ 2013 Determinación
+ de
+ muestras
+ fósiles
+ -
+ Harvest
+ Natural
+ Resources
+INC.
+ Proyecto
+ de
+ exploración
+ en
+ los
+ sectores
+ Sierra
+ de
+ Varas,
+Caracoles
+ y
+ San
+ Lorenzo.
+
+Junio
+ 2014 Determinación
+ de
+ muestras
+ fósiles
+ -
+ Universidad
+ Católica
+ del
+Norte.
+ Fósiles
+ del
+ sector
+ Sierra
+ de
+ Varas
+ para
+ la
+ Hoja
+ Sierra
+ de
+Varas,
+ SERNAGEOMIN.
+
+Agosto
+ 2014;
+ Marzo
+ 2016 Prospección
+ paleontológica
+ sector
+ Termoeléctrica
+ CochraneProyecto
+ Termoeléctrico
+ Cochrane,
+ AES
+ Gener.
+ Co-­‐investigadora
+en
+ etapa
+ de
+ campo,
+ determinación
+ de
+ muestras
+ y
+ elaboración
+de
+ informe
+ por
+ hallazgo
+ de
+ fósil
+ de
+ cetáceo.
+ Geólogo
+ a
+ cargo:
+Hans-­‐G.
+ Wilke
+ H.
+
+Agosto
+ 2014;
+ Agosto
+ 2015 Estudio
+ paleontológico
+ sector
+ Mina
+ El
+ Way
+ -
+ Cementos
+
+ BÍO-­‐
+BÍO
+ S.A.
+ Co-­‐investigadora
+ en
+ etapa
+ de
+ campo,
+ determinación
+ de
+muestras
+ y
+ elaboración
+ de
+ informe
+ en
+ el
+ contexto
+ del
+ EIA
+solicitado
+ por
+ el
+ Consejo
+ de
+ Monumentos
+ Nacionales.
+
+Enero
+ 2015 Rescate
+ paleontológico
+ sector
+ Termoeléctrica
+ CochraneProyecto
+ Termoeléctrico
+ Cochrane,
+ AES
+ Gener.
+ Colaboración
+ en
+etapa
+ de
+ rescate
+ de
+ muestras
+ y
+ elaboración
+ de
+ informe
+ por
+solicitud
+ de
+ Consejo
+ de
+ Monumentos
+ Nacionales.
+ Geólogo
+ a
+cargo:
+ Hans-­‐
+ G.
+ Wilke
+ H.
+
+Enero
+ 2015
+ -
+ Septiembre
+ 2015 Monitoreo
+ paleontológico
+ sector
+ Termoeléctrica
+ CochraneProyecto
+ Termoeléctrico
+ Cochrane,
+ Posco
+ S.A.
+ Colaboración
+ en
+la
+ inspección
+ periodica
+ de
+ los
+ movimientos
+ de
+ tierra
+ y
+elaboración
+ de
+ informe
+ por
+ solicitud
+ de
+ Consejo
+ De
+Monumentos
+ Nacionales.
+ Geólogo
+ a
+ cargo:
+ Hans-­‐
+ G.
+ Wilke
+ H.
+
+PARTICIPACIÓN
+ EN
+ CONGRESOS
+
+Póster Fouquet,
+ N.,
+ Wilke,
+ H.-­‐G.,
+ Company,
+ M.,
+ Caiceo,
+ B.
+ y
+ Pedrero,
+M.,
+ 2014.
+ Antecedentes
+ preliminares
+ del
+ registro
+ fósil
+ de
+Formación
+ El
+ Way,
+ Región
+ de
+ Antofagasta,
+ Chile.
+ IV
+ Simposio
+ de
+Paleontología
+ en
+ Chile,
+ Valdivia.
+
+Póster Caiceo,
+ B.,
+ Pedrero,
+ M.,
+ Wilke,
+ H.-­‐G.
+ y
+ Fouquet,
+ N.,
+ 2015.
+Antecedentes
+ preliminares
+ del
+ registro
+ de
+ gastrópodos
+ de
+
+Calizas
+ La
+ Viuda,
+ Formación
+ El
+ Way,
+ Región
+ de
+ Antofagasta,
+Chile.
+ XIV
+ Congreso
+ Geológico
+ Chileno,
+ La
+ Serena.
+
+PROYECTOS
+
+**“Talleres
+ de
+ la
+ Tierra”** .
+ Consiste
+ en
+ un
+ programa
+ de
+ charlas
+ y
+ talleres
+ orientado
+ al
+ aprendizaje
+ de
+diversos
+ temas
+ de
+ la
+ geología,
+ como
+ el
+ interior
+ de
+ la
+ Tierra,
+ terremotos,
+ minerales,
+ volcanes,
+formaciones
+ geológicas,
+ etc.
+ Está
+ dirigido
+ a
+ las
+ comunidades
+ en
+ general,
+ con
+ énfasis
+ en
+ los
+ niños
+pertenecientes
+ al
+ ciclo
+ básico
+ (1°
+ -­‐
+ 8°).
+
+Octubre
+ 2012 Escuela
+ Tierra
+ de
+ Esperanza,
+ 4°
+ básico.
+ Neltume,
+ Región
+ de
+ Los
+Ríos.
+Escuela
+ Francisco
+ de
+ Asís,
+ 7°
+ y
+ 8°
+ básico.
+ Neltume,
+ Región
+ de
+ Los
+Ríos.
+Hotel
+ Nothofagus,
+ Guías
+ y
+ huéspedes.
+ Reserva
+ Huilo-­‐Huilo,
+Región
+ de
+ Los
+ Ríos.
+
+Octubre
+ 2014 Escuela
+ Tierra
+ de
+ Esperanza,
+ 4°
+ y
+ 5°
+ básico.
+ Neltume,
+ Región
+ de
+Los
+ Ríos.
+
+**“Summer
+ Camp
+ Neltume”** .
+ Consiste
+ en
+ un
+ programa
+ desarrollado
+ por
+ Fundación
+ Huilo-­‐Huilo
+ y
+ el
+Hollingworth
+ Center
+ Teachers
+ College
+ de
+ la
+ Universidad
+ de
+ Columbia,
+ orientado
+ al
+ aprendizaje
+ de
+ las
+ciencias.
+
+Enero
+ 2015 Escuela
+ Tierra
+ de
+ Esperanza,
+ 1°
+ a
+ 8°
+ básico.
+ Neltume,
+ Región
+ de
+Los
+ Ríos.
+ Tema
+ del
+ campamento:
+ Minerales
+ y
+ rocas.
+
+CURSOS
+
+Septiembre
+ 2014 “Hidrogeología
+ en
+ Zonas
+ Áridas”,
+ dictado
+ por
+ el
+ Dr.
+ Emilio
+Custodio,
+ Universidad
+ Politécnica
+ de
+ Cataluña
+ Barcelona,
+España.
+ En:
+ Universidad
+ Católica
+ del
+ Norte,
+ Antofagasta,
+ Chile.
+ 8
+hrs.
+ lectivas.
+Septiembre
+ 2014 “Analytical
+ Taphonomy”,
+ dictado
+ por
+ el
+ Dr.
+ Michal
+ Kowalewski,
+Florida
+ Museum
+ of
+ Natural
+ History,
+ University
+ of
+ Florida,
+E.E.U.U.
+ En:
+ 4th
+ International
+ Paleontological
+ Congress,
+Mendoza,
+ Argentina.
+ 6
+ hrs.
+ lectivas.
+
+Mayo
+ 2015 "Iniciación
+ al
+ análisis
+ estadístico
+ en
+ investigación
+ científica
+ con
+Rstudio".
+ En:
+ Facultad
+ de
+ Ciencias
+ de
+ la
+ Universidad
+ de
+ Granada
+entre
+ el
+ 18/05
+ y
+ 22/05.
+ 40
+ hrs.
+ lectivas.
+
+Julio
+ 2015 "XIV
+ Curso
+ de
+ paleontología
+ y
+ desarrollo:
+ Prácticas
+ en
+excavación
+ de
+ dinosaurios".
+ En:
+ Fundación
+ Universitaria
+ Antonio
+Gargallo
+ y
+ la
+ Universidad
+ de
+ Verano
+ de
+ Teruel
+ entre
+ el
+ 20/07
+ y
+ el
+24/07.
+ 40
+ hrs
+ lectivas.
+
+OTROS
+ CONOCIMIENTOS
+
+-­‐
+ PaleoTax/Measure Nivel
+ Intermedio
+-­‐
+ Ninox
+ (DB) Nivel
+ Usuario
+-­‐
+ Adobe
+ Photoshop Nivel
+ Intermedio
+-­‐
+ ArcGis
+ 9.3 Nivel
+ Intermedio
+-­‐
+ Vulcan
+ 7.5
+ y
+ 8.1.4 Nivel
+ Usuario
+-­‐
+ Leapfrog
+ Mining Nivel
+ Usuario
+-­‐
+ Microsoft
+ office
+ (Word,
+ Excel,
+ Power
+ Point,
+ Acces) Nivel
+ Avanzado
+
+-­‐
+ Ingles
+ técnico Escritura
+ y
+ lectura
+ avanzada
+Oral
+ intermedio
+
+-­‐
+ Italiano
+ B1 Escritura
+ y
+ lectura
+ intermedia
+Oral
+ básico
+
+RECOMENDACIONES
+
+-­‐
+ Dr.
+ Hans-­‐G.
+ Wilke
+ H.,
+ geólogo,
+ paleontólogo
+ y
+ profesor
+ de
+ la
+ Universidad
+ Católica
+ del
+ Norte.
+
+Contacto:
+ (55)
+ 355953
+ -
+ hwilke@ucn.cl
+
+-­‐
+ Dr.
+ Guillermo
+ Chong
+ Díaz,
+ geólogo,
+ profesor
+ de
+ la
+ Universidad
+ Católica
+ del
+ Norte.
+Contacto:
+ (55)
+ 355745
+ -
+ gchong@ucn.cl
+
+-­‐
+ Christian
+ Andrónico
+ Naranjo,
+ diseñador,
+ director
+ del
+ Museo
+ del
+ Desierto
+ de
+ Atacama.
+Contacto:
+ candronico@ruinasdehuanchaca.cl
+
+**NATHALIA
+ FOUQUET
+ JÓ**
+
+**16.744.069-­‐K**

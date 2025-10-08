@@ -1,0 +1,17 @@
+---
+title: Layout1
+author: Paolo Puggioni
+date: D:20230721184853Z
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|CONTEXTO<br>ÁREA PRIMARIA<br>PLANIMETRIA ESQUEMÁTICA<br>PATIO DE SALVATAJE<br>PLANTA<br>U680,I6 п2<br>2390,8<br>30LL.U0 п2<br>GaıPOmES<br>3.044,5 m2<br>Caseta Op.<br>2.800 m2<br>RESIDuos<br>IMAGENES CONTEXTO<br>PLANTA JOSÉ ANTONIO MORENO-TALTAL<br>CONTENIDO: GALPONES PATIO SALVATAJE Y CASETA OP. Fecha : Febrero 2021|Col2|Col3|Col4|
+|---|---|---|---|
+|CONTEXTOÁREA PRIMARIA<br>PLANIMETRIA ESQUEMÁTICA<br>PATIO DE SALVATAJE <br>PLANTA <br>U680,I6 п2 <br>2390,8<br>30LL.U0 п2 <br>GaıPOmES<br> <br>Caseta Op.<br> <br>RESIDuos<br>IMAGENES CONTEXTO<br> <br>**PLANTA JOSÉ ANTONIO MORENO-TALTAL**<br> <br> <br>CONTENIDO: GALPONES PATIO SALVATAJE Y CASETA OP.<br>Fecha : Febrero 2021<br>3.044,5 m2 <br>2.800 m2||||
+|CONTEXTOÁREA PRIMARIA<br>PLANIMETRIA ESQUEMÁTICA<br>PATIO DE SALVATAJE <br>PLANTA <br>U680,I6 п2 <br>2390,8<br>30LL.U0 п2 <br>GaıPOmES<br> <br>Caseta Op.<br> <br>RESIDuos<br>IMAGENES CONTEXTO<br> <br>**PLANTA JOSÉ ANTONIO MORENO-TALTAL**<br> <br> <br>CONTENIDO: GALPONES PATIO SALVATAJE Y CASETA OP.<br>Fecha : Febrero 2021<br>3.044,5 m2 <br>2.800 m2||||
+|CONTEXTOÁREA PRIMARIA<br>PLANIMETRIA ESQUEMÁTICA<br>PATIO DE SALVATAJE <br>PLANTA <br>U680,I6 п2 <br>2390,8<br>30LL.U0 п2 <br>GaıPOmES<br> <br>Caseta Op.<br> <br>RESIDuos<br>IMAGENES CONTEXTO<br> <br>**PLANTA JOSÉ ANTONIO MORENO-TALTAL**<br> <br> <br>CONTENIDO: GALPONES PATIO SALVATAJE Y CASETA OP.<br>Fecha : Febrero 2021<br>3.044,5 m2 <br>2.800 m2|Fecha : Febrero 2021|Fecha : Febrero 2021||

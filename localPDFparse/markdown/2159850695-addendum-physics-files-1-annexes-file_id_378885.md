@@ -1,0 +1,29 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20140130172152
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|56|Col2|Col3|480 360|Col5|Col6|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|~~H~~A~~RNERO~~|~~H~~A~~RNERO~~|~~H~~A~~RNERO~~|360|360|360||||
+|~~H~~A~~RNERO~~|~~C~~or~~rea~~ ~~Tran~~s~~po~~rt~~ado~~ra<br>3|250||~~AGLOMERADOR~~<br>|210|210|210|258|
+|~~H~~A~~RNERO~~|3LODUPHWiOLFRGH<br>200/100/8mm|3LODUPHWiOLFRGH<br>200/100/8mm|3LODUPHWiOLFRGH<br>200/100/8mm|3LODUPHWiOLFRGH<br>200/100/8mm|3LODUPHWiOLFRGH<br>200/100/8mm|3LODUPHWiOLFRGH<br>200/100/8mm|3LODUPHWiOLFRGH<br>200/100/8mm|0|
+
+|Col1|HARNERO|Col3|Col4|
+|---|---|---|---|
+||HARNERO|||
+||HARNERO|||
+||HARNERO|||
+||HARNERO|||
+
+|CONTEXTO È5($6(&81'$5,$<br>3/$1,0(75,$(648(0È7,&$<br>EDIFICIO: AGLOMERADOR<br>PLANTA Escala 1/150<br>260<br>SALA 260<br>3LODUPHWiOLFRGH<br>Estanque Purificador.<br>200/200/8mm<br>Altura de 330 cm. 3LODUPHWiOLFRGH<br>Fund. 56x46x65 75/75/3mm 3LODUPHWiOLFRGH<br>cm. de altura 3LODUPHWiOLFRGH 5DGLHUGH+RUPLJyQ Fund. 30x30x90 200/200/5mm<br>200/200/8mm 3LODUPHWiOLFRGH Altura de 50 cm. cm. de altura Fund. 50x50x90<br>Fund. 56x46x65 200/100/8mm cm. de altura<br>cm. de altura Fund. 56x36x50<br>56 cm. de altura<br>480<br>30<br>56 360 46<br>36<br>258<br>320 250 210<br>ACOPIO DE HARNERO Correa Transportadora AGLOMERADOR Correa Transportadora<br>MATERIAL<br>3LODUPHWiOLFRGH<br>200/100/8mm 30<br>Fund. 56x36x50<br>cm. de altura<br>3LODUPHWiOLFRGH<br>280 690 625 120 714 F2 u0 n0 d/2 . 0 50 0/ x5 5m 0m x90 C U A D R O R E S U M E N<br>cm. de altura<br>3LODUPHWiOLFRGH 3LODUPHWiOLFRGH<br>3LODUPHWiOLFRGH<br>200/200/8mm 200/200/8mm<br>Fund. 56x46x65 Fund. 56x46x65 3LODUPHWiOLFRGH 75/75/3mm<br>cm. de altura cm. de altura 150/120/4mm Fund. 30x30x90<br>Fund. 50x30x50 cm. de altura<br>cm. de altura<br>250<br>CONTAINER OF.<br>600<br>(/(9$&,Ï1Escala 1/150<br>HARNERO<br>ACOPIO DE<br>MATERIAL 300<br>AGLOMERADOR 570<br>393<br>300 190 210<br>65 50 90 90<br>72'$6/$6&27$6(67È1(;35(6$'$6(1&06<br>/iPLQD1<br>3/$17$-26e$1721,2025(127$/7$/<br>210-02-00<br>CONTENIDO: AGLOMERADOR Fecha : Enero 2014|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|~~C~~or~~rea~~ ~~Tran~~s~~po~~rt~~ado~~ra<br>~~H~~A~~RNERO~~<br>~~AGLOMERADOR~~<br>280<br>690<br>625<br>120<br>714<br>C~~orr~~e~~a Tr~~a~~nsp~~o~~rtad~~o~~ra~~<br>480<br>250<br>360<br>210<br>258<br>30<br>30<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/100/8mm<br>Fund. 56x36x50<br>cm. de altura<br>56<br>46<br>320<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>56<br>36<br>3LODUPHWiOLFRGH<br>200/100/8mm<br>Fund. 56x36x50<br>cm. de altura<br>3LODUPHWiOLFRGH<br>150/120/4mm<br>Fund. 50x30x50<br>cm. de altura<br>5DGLHUGH+RUPLJyQ<br>Altura de 50 cm.<br>260<br>260<br>SALA<br>CONTAINER OF.<br>250<br>600<br>ACOPIO DE<br>MATERIAL<br>3LODUPHWiOLFRGH<br>75/75/3mm<br>Fund. 30x30x90<br>cm. de altura<br>3LODUPHWiOLFRGH<br>75/75/3mm<br>Fund. 30x30x90<br>cm. de altura<br>Estanque Purificador.<br>Altura de 330 cm.<br>3LODUPHWiOLFRGH<br>200/200/5mm<br>Fund. 50x50x90<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/200/5mm<br>Fund. 50x50x90<br>cm. de altura<br>90<br>210<br>90<br>190<br>300<br>50<br>300<br>65<br>393<br>570<br>ACOPIO DE<br>MATERIAL<br>HARNERO<br>AGLOMERADOR<br>PLANTAEscala 1/150<br>**C U A D R O R E S U M E N**<br>3/$1,0(75,$(648(0È7,&$<br>/iPLQD1<br>Fecha : Enero 2014<br>CONTENIDO: AGLOMERADOR<br>210-02-00<br>72'$6/$6&27$6(67È1(;35(6$'$6(1&06<br>(/(9$&,Ï1Escala 1/150<br>CONTEXTOÈ5($6(&81'$5,$<br>EDIFICIO: AGLOMERADOR<br>**3/$17$-26e$1721,2025(127$/7$/**|**3/$17$-26e$1721,2025(127$/7$/**|/iPLQD1<br>210-02-00|||
+|~~C~~or~~rea~~ ~~Tran~~s~~po~~rt~~ado~~ra<br>~~H~~A~~RNERO~~<br>~~AGLOMERADOR~~<br>280<br>690<br>625<br>120<br>714<br>C~~orr~~e~~a Tr~~a~~nsp~~o~~rtad~~o~~ra~~<br>480<br>250<br>360<br>210<br>258<br>30<br>30<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/100/8mm<br>Fund. 56x36x50<br>cm. de altura<br>56<br>46<br>320<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/200/8mm<br>Fund. 56x46x65<br>cm. de altura<br>56<br>36<br>3LODUPHWiOLFRGH<br>200/100/8mm<br>Fund. 56x36x50<br>cm. de altura<br>3LODUPHWiOLFRGH<br>150/120/4mm<br>Fund. 50x30x50<br>cm. de altura<br>5DGLHUGH+RUPLJyQ<br>Altura de 50 cm.<br>260<br>260<br>SALA<br>CONTAINER OF.<br>250<br>600<br>ACOPIO DE<br>MATERIAL<br>3LODUPHWiOLFRGH<br>75/75/3mm<br>Fund. 30x30x90<br>cm. de altura<br>3LODUPHWiOLFRGH<br>75/75/3mm<br>Fund. 30x30x90<br>cm. de altura<br>Estanque Purificador.<br>Altura de 330 cm.<br>3LODUPHWiOLFRGH<br>200/200/5mm<br>Fund. 50x50x90<br>cm. de altura<br>3LODUPHWiOLFRGH<br>200/200/5mm<br>Fund. 50x50x90<br>cm. de altura<br>90<br>210<br>90<br>190<br>300<br>50<br>300<br>65<br>393<br>570<br>ACOPIO DE<br>MATERIAL<br>HARNERO<br>AGLOMERADOR<br>PLANTAEscala 1/150<br>**C U A D R O R E S U M E N**<br>3/$1,0(75,$(648(0È7,&$<br>/iPLQD1<br>Fecha : Enero 2014<br>CONTENIDO: AGLOMERADOR<br>210-02-00<br>72'$6/$6&27$6(67È1(;35(6$'$6(1&06<br>(/(9$&,Ï1Escala 1/150<br>CONTEXTOÈ5($6(&81'$5,$<br>EDIFICIO: AGLOMERADOR<br>**3/$17$-26e$1721,2025(127$/7$/**|CONTENIDO: AGLOMERADOR|Fecha : Enero 2014|Fecha : Enero 2014|Fecha : Enero 2014|

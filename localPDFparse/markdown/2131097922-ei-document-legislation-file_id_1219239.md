@@ -1,0 +1,6080 @@
+---
+title: Anexo.3.1.PAS140.Rev.1.(17.12.2015)
+author: Diego J. Martínez Neira
+date: D:20151217170024Z00'00'
+language: es
+type: report
+pages: 17
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Declaración
+  - Anexo
+-->
+
+# Declaración
+ de
+ Impacto
+ Ambiental** **Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+#### Comuna
+ de
+ San
+ Pedro,
+ Provincia
+ de
+ Melipilla,** **Región
+ Metropolitana
+ de
+ Santiago.**
+
+# Anexo
+ 3.1** **PAS
+ 140**
+
+#### Preparado
+ para**
+## Eclipse
+ Solar
+ Spa**
+
+### Diciembre
+ de
+ 2015**
+
+**Revisión
+ 1**
+
+www.tet.cl
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+### Tabla
+ de
+ Contenidos**
+
+1. PERMISO AMBIENTAL SECTORIAL MIXTO (PASM) ARTÍCULO 140 1
+
+1.1. G ENERALES : 1
+1.1.1. D ESCRIPCIÓN
+ Y
+ PLANOS
+ DEL
+ SITIO _._ 1
+1.1.2. D ESCRIPCIÓN
+ DE
+ VARIABLES
+ METEOROLÓGICAS
+ RELEVANTES . 3
+1.1.3. E STIMACIÓN
+ Y
+ CARACTERIZACIÓN
+ CUALITATIVA
+ Y
+ CUANTITATIVA
+ DE
+ LOS
+ RESIDUOS
+ A
+ TRATAR . 3
+1.1.4. D ISEÑO
+ DE
+ LA
+ PLANTA
+ DE
+ TRATAMIENTO
+ QUE
+ INCLUYA
+ DIAGRAMA
+ DE
+ FLUJO
+ Y
+ LAS
+ UNIDADES
+ Y
+ EQUIPAMIENTO .
+ 5
+1.1.5. F ORMAS
+ DE
+ ABATIMIENTO
+ DE
+ EMISIONES
+ Y
+ DE
+ CONTROL
+ Y
+ MANEJO
+ DE
+ RESIDUOS . 5
+1.1.6. D ESCRIPCIÓN
+ DEL
+ SISTEMA
+ DE
+ MANEJO
+ DE
+ RECHAZOS . 6
+1.1.7. P LAN
+ DE
+ VERIFICACIÓN
+ Y
+ SEGUIMIENTO
+ DE
+ LOS
+ RESIDUOS
+ A
+ SER
+ TRATADOS
+ Y
+ RECHAZADOS . 6
+1.1.8. P LAN
+ DE
+ CONTINGENCIAS . 6
+1.1.9. P LAN
+ DE
+ EMERGENCIA . 8
+1.2. T RATÁNDOSE
+ DE
+ UNA
+ ESTACIÓN
+ DE
+ TRANSFERENCIA, ADEMÁS
+ DE
+ LO
+ SEÑALADO
+ EN
+ LAS
+ LETRAS
+ DESDE
+ A .1) HASTA
+A .9): 10
+1.3. T RATÁNDOSE
+ DE
+ PLANTAS
+ DE
+ MANEJO
+ DE
+ RESIDUOS
+ ORGÁNICOS, ADEMÁS
+ DE
+ LO
+ SEÑALADO
+ EN
+ LAS
+ LETRAS
+ DESDE
+A .1) HASTA
+ A .9): 10
+1.4. T RATÁNDOSE
+ DE
+ UNA
+ PLANTA
+ DE
+ INCINERACIÓN, ADEMÁS
+ DE
+ LO
+ SEÑALADO
+ EN
+ LAS
+ LETRAS
+ DESDE
+ A .1) HASTA A .9):
+
+10
+1.5. T RATÁNDOSE
+ DE
+ ALMACENAMIENTO
+ DE
+ RESIDUOS, ADEMÁS
+ DE
+ LO
+ SEÑALADO
+ EN
+ LAS
+ LETRAS
+ DESDE
+ A .1) HASTA
+A .9): 10
+1.5.1. E SPECIFICACIONES
+ TÉCNICAS
+ DE
+ LAS
+ CARACTERÍSTICAS
+ CONSTRUCTIVAS
+ DEL
+ SITIO
+ DE
+ ALMACENAMIENTO
+ Y
+ MEDIDAS
+DE
+ PROTECCIÓN
+ DE
+ CONDICIONES
+ AMBIENTALES . 10
+1.5.2. C APACIDAD
+ MÁXIMA
+ DE
+ ALMACENAMIENTO . 12
+1.5.3. D ESCRIPCIÓN
+ DEL
+ TIPO
+ DE
+ ALMACENAMIENTO, TALES
+ COMO
+ A
+ GRANEL
+ O
+ EN
+ CONTENEDORES . 13
+
+2. INDICADOR DE CUMPLIMIENTO 15
+
+### Listado
+ de
+ Tablas**
+
+T ABLA 1. C ANTIDAD
+ DE
+ RESIDUOS
+ PRODUCIDOS 1
+T ABLA 2. E STIMACIÓN
+ DE
+ RESIDUOS
+ SÓLIDOS
+ INDUSTRIALES . F ASE C ONSTRUCCIÓN 4
+T ABLA 3. E STIMACIÓN
+ DE
+ RESIDUOS
+ SÓLIDOS
+ INDUSTRIALES -­‐ F ASE
+ CIERRE 5
+
+### Listado
+ de
+ Figuras**
+
+F IGURA 1. E MPLAZAMIENTO
+ DE
+ LOS
+ SECTORES
+ DE
+ ALMACENAMIENTO
+ TEMPORAL . 2
+
+www.tet.cl Anexo
+ 3.1
+
+ PAS
+ 140
+i
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**1.**
+**Permiso
+ ambiental
+ sectorial
+ mixto
+ (PASM)
+ Artículo
+ 140**
+_“Permiso
+ para
+ la
+ construcción,
+ reparación,
+ modificación
+ y
+ ampliación
+ de
+ cualquier
+ planta
+ de
+ tratamiento_
+_de
+ basuras
+ y
+ desperdicios
+ de
+ cualquier
+ clase
+ o
+ para
+ la
+ instalación
+ de
+ todo
+ lugar
+ destinado
+ a
+ la
+ acumulación,_
+
+_selección,
+ industrialización,
+ comercio
+ o
+ disposición
+ final
+ de
+ basuras
+ y
+ desperdicios
+ de
+ cualquier
+ clase.”_
+
+La
+ operación
+ del
+ proyecto
+ producirá
+ residuos
+ sólidos
+ domiciliarios
+ o
+ domésticos
+ y
+ residuos
+ industriales
+ No
+peligrosos,
+ los
+ cuales
+ serán
+ manejados
+ en
+ un
+ patio
+ de
+ almacenamiento
+ temporal
+ de
+ residuos
+ domésticos
+ y
+ un
+ patio
+de
+ salvataje,
+ o
+ patio
+ de
+ almacenamiento
+ de
+ residuos
+ industriales
+ no
+ peligrosos,
+ en
+ el
+ cual
+ los
+ residuos
+ serán
+clasificados
+ por
+ tipo
+ y
+ calidad.
+
+Los
+ contenidos
+ técnicos
+ y
+ formales
+ son
+ los
+ siguientes:
+
+**1.1.** **Generales**
+**1.1.1.** **Descripción
+ y
+ planos
+ del
+ sitio**
+
+El
+ proyecto
+ “Planta
+ Fotovoltaica
+ Eclipse
+ producirá
+ durante
+ sus
+ fases,
+ residuos
+ domésticos,
+ industriales
+ No
+peligrosos
+ y
+ peligrosos,
+ las
+ cantidades
+ a
+ generar
+ se
+ presentan
+ en
+ la
+ Tabla
+ 1.
+
+**Tabla
+ 1.
+ Cantidad
+ de
+ residuos
+ producidos**
+
+|Residuo|Fase de Construcción|Fase de Operación|Fase Cierre|
+|---|---|---|---|
+|Doméstico|1,5 t/mes|0,03 t/mes|1,5 t/mes|
+|Industrial no peligroso|0,97 t/mes|0,05 t/mes|0,18 t/mes|
+|Peligroso|0,06 t/mes|0,013 t/mes|0,01 t/mes|
+|Paneles fotovoltaicos dañados|0,02 t/mes|0,02 t/mes|0,02 t/mes|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales
+
+La
+ descripción
+ de
+ los
+ residuos
+ peligrosos
+ y
+ los
+ paneles
+ fotovoltaicos
+ dañados,
+ los
+ cuales
+ serán
+ tratados
+como
+ residuos
+ peligrosos,
+ se
+ presenta
+ en
+ el
+ PASM
+ 142.
+
+A
+ continuación,
+ se
+ describe
+ las
+ características
+ de
+ cada
+ lugar
+ de
+ almacenamiento
+ temporal
+ de
+ residuos.
+
+ Almacenamiento
+ temporal
+ de
+ residuos
+ domésticos:
+ Se
+ instalarán
+ contenedores
+ plásticos
+ o
+
+metálicos
+ con
+ tapa,
+ con
+ capacidad
+ de
+ 240
+ litros,
+ 5
+ m [3],
+ o
+ 10
+ m [3] (dependiendo
+ de
+ la
+ etapa
+ en
+ que
+ se
+encuentre
+ el
+ proyecto)
+ donde
+ se
+ acumularán
+ los
+ residuos
+ asimilables
+ a
+ domésticos
+ de
+ la
+ instalación
+de
+ faena.
+ El
+ cual
+ estará
+ cerrado
+ en
+ su
+ perímetro
+ con
+ malla
+ Acma
+ y
+ con
+ un
+ radier
+ de
+ hormigón
+impermeable
+ a
+ prueba
+ de
+ cualquier
+ filtración.
+ Los
+ contenedores
+ plásticos
+ de
+ uso
+ cotidiano
+ se
+dispondrán
+ durante
+ las
+ fases
+ de
+ construcción
+ y
+ cierre
+ al
+ costado
+ del
+ área
+ del
+ container
+ del
+almuerzo,
+ para
+ ser
+ vaciados
+ diariamente
+ en
+ el
+ contenedor
+ señalado
+ como
+ “Residuos
+ domésticos
+ y
+asimilables
+ a
+ domésticos”
+ en
+ el
+ sector
+ de
+ “Almacenamiento
+ de
+ materiales
+ de
+ descarte
+ o
+ Patio
+ de
+Salvataje”.
+ Sector
+ de
+ almacenamiento
+ temporal
+ de
+ residuos
+ industriales
+ no
+ peligrosos:
+ Este
+ consistirá
+ en
+ un
+
+recinto
+ cerrado
+ con
+ malla
+ Acma,
+ con
+ un
+ radier
+ de
+ hormigón
+ impermeable
+ a
+ prueba
+ de
+ cualquier
+filtración,
+ en
+ el
+ cual
+ se
+ dispondrán
+ contenedores
+ para
+ la
+ separación
+ de
+ residuos
+ según
+ sus
+características,
+ y
+ así
+ facilitar
+ el
+ reciclaje
+ y/o
+ reutilización.
+ El
+ sitio
+ de
+ almacenamiento
+ de
+ estos
+materiales
+ de
+ descarte
+ estará
+ señalizado,
+ y
+ sus
+ contenedores
+ estarán
+ rotulados
+ para
+ identificar
+ el
+tipo
+ de
+ residuos
+ a
+ disponer
+ en
+ su
+ interior.
+
+www.tet.cl Anexo
+ 3.1
+
+ PAS
+ 140
+1
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Los sitios de almacenamiento temporal se indican en la Figura 1 y el Anexo
+Anexo.1.3.Instalacion.Faena.OT.pdf
+ y
+ Anexo.3.1.PAS140.Acapite.I.IF&Patio.Salvataje.pdf
+
+**Figura
+ 1.
+ Emplazamiento
+ de
+ los
+ sectores
+ de
+ almacenamiento
+ temporal**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales
+ a
+ partir
+ de
+ Renergetica **.**
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+2
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**1.1.2.** **Descripción
+ de
+ variables
+ meteorológicas
+ relevantes**
+
+El
+ área
+ donde
+ se
+ emplazará
+ el
+ Proyecto
+ corresponde
+ a
+ un
+ clima
+ de
+ tipo
+ “Templado
+ Cálido
+ con
+ Lluvias
+Invernales
+ (Mediterráneo)”,
+ donde
+ la
+ mayor
+ cantidad
+ de
+ precipitaciones
+ se
+ relacionan
+ a
+ temperaturas
+ más
+ bajas,
+según
+ el
+ climograma
+ de
+ la
+ estación
+ meteorológica
+ de
+ San
+ Fernando
+ de
+ la
+ DGA.
+
+Este
+ clima
+ es
+ característico
+ de
+ zonas
+ de
+ bosque
+ templado
+ y
+ matorral,
+ con
+ precipitaciones
+ invernales
+concentradas
+ entre
+ abril
+ y
+ septiembre,
+ y
+ la
+ precipitación
+ del
+ mes
+ más
+ seco
+ en
+ verano
+ es
+ inferior
+ a
+ un
+ tercio
+ de
+ la
+del
+ mes
+ más
+ lluvioso
+ de
+ invierno,
+ siendo
+ la
+ temperatura
+ media
+ del
+ mes
+ más
+ cálido,
+ inferior
+ a
+ los
+ 22°C
+ y
+ al
+ menos
+con
+ cuatro
+ meses
+ con
+ temperaturas
+ medias
+ que
+ superan
+ los
+ 10°C.
+ El
+ promedio
+ anual
+ para
+ la
+ localidad
+ de
+ San
+ Pedro
+(estación
+ ubicada
+ a
+ 117
+ m.s.n.m.)
+ es
+ de
+ 532
+ mm.
+
+**1.1.3.** **Estimación
+ y
+ caracterización
+ cualitativa
+ y
+ cuantitativa
+ de
+ los
+ residuos
+ a
+ tratar.**
+
+Fase Construcción
+_Residuos
+ sólidos
+ domiciliarios
+ y
+ asimilables_
+Durante
+ la
+ fase
+ de
+ construcción
+ se
+ generarán
+ residuos
+ sólidos
+ domésticos,
+ producto
+ de
+ actividades
+ en
+ el
+comedor
+ y
+ actividades
+ propias
+ de
+ los
+ trabajadores,
+ tales
+ como
+ papeles,
+ restos
+ de
+ comida,
+ envases
+ y
+ elementos
+similares,
+ generados
+ en
+ portería,
+ oficinas,
+ comedor,
+ baños
+ y
+ duchas,
+ etc.,
+ se
+ estima
+ una
+ generación
+ máxima
+ de
+1,5
+ t/mes,
+ equivalente
+ a
+ 50
+ kg/día,
+ en
+ el
+ periodo
+ de
+ mayor
+ actividad
+ constructiva
+ para
+ 50
+ trabajadores,
+considerando
+ una
+ tasa
+ de
+ 1
+ kg/trabajador/día.
+ Estos
+ residuos
+ serán
+ almacenados
+ en
+ contenedores
+ plásticos
+estándar
+ (con
+ capacidad
+ de
+ 240
+ litros
+ cada
+ uno),
+ debidamente
+ rotulados,
+ que
+ serán
+ vaciados
+ diariamente
+ en
+ el
+contenedor
+ señalado
+ como
+ “Residuos
+ domésticos
+ y
+ asimilables
+ a
+ domésticos”
+ en
+ el
+ sector
+ de
+ “Almacenamiento
+ de
+materiales
+ de
+ descarte”.
+
+ Luego
+ serán
+ retirados
+ periódicamente
+ por
+ una
+ empresa
+ autorizada,
+ la
+ que
+ los
+ llevará
+ a
+ un
+sitio
+ de
+ disposición
+ final.
+
+_Residuos
+ industriales
+ no
+ reciclables_
+Durante
+ esta
+ fase,
+ se
+ generarán
+ residuos
+ industriales
+ sólidos
+ no
+ peligrosos,
+ cuyas
+ características
+corresponden
+ a
+ no
+ disponer
+ de
+ un
+ valor
+ agregado
+ (económico),
+ por
+ lo
+ que
+ se
+ dispondrán
+ en
+ un
+ container
+ tipo _roll-­‐_
+_off_ que
+ contará
+ con
+ una
+ capacidad
+ máxima
+ de
+ 10
+ m [3],
+ para
+ ser
+ retirados
+ por
+ una
+ empresa
+ debidamente
+ autorizada
+por
+ la
+ autoridad
+ sanitaria,
+ y
+ llevados
+ a
+ un
+ sitio
+ para
+ su
+ disposición
+ final.
+
+_Residuos
+ Industriales
+ sólidos
+ no
+ peligrosos_
+Durante
+ esta
+ fase
+ se
+ generarán
+ residuos
+ propios
+ de
+ la
+ construcción
+ producto
+ del
+ montaje
+ y
+ desmontaje
+ de
+los
+ equipos,
+ tales
+ como:
+ cartón,
+ plásticos,
+ cables,
+ etc.
+ Adicionalmente,
+ se
+ producirán
+ hormigones
+ sobrantes,
+despunte
+ y
+ moldaje
+ de
+ maderas,
+ despunte
+ de
+ cables
+ elementos
+ de
+ protección
+ personal,
+ entre
+ otros
+ residuos.
+
+El
+ sitio
+ de
+ almacenamiento
+ de
+ estos
+ materiales
+ de
+ descarte
+ estará
+ señalizado,
+ y
+ sus
+ contenedores
+ estarán
+rotulados
+ para
+ identificar
+ el
+ tipo
+ de
+ residuos
+ a
+ disponer
+ en
+ su
+ interior.
+
+Se
+ estima
+ una
+ generación
+ del
+ orden
+ de
+
+ 0,97
+ t/mes
+ de
+ este
+ tipo
+ de
+ residuos,
+ de
+ acuerdo
+ al
+ desglose
+ que
+ se
+indica
+ en
+ la
+ Tabla
+ 2.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+3
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**Tabla
+ 2.
+ Estimación
+ de
+ residuos
+ sólidos
+ industriales.
+ Fase
+ Construcción**
+
+|Residuo|Cantidad (ton/mes)|
+|---|---|
+|Hormigón|0,12|
+|Restosdecables,tornillos,clavos,alambres|0,1|
+|Restosdeembalaje,envasesdeplástico|0,7|
+|ElementosdeProtecciónPersonal|0,05|
+|**Total**|**0,97**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Fase de Operación
+_Residuos
+ sólidos
+ domiciliarios
+ y
+ asimilables_
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ este
+ tipo
+ de
+ residuos
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ en
+ un
+ sitio
+ autorizado.
+
+El
+ Proyecto
+ generará
+ residuos
+ sólidos
+ domésticos
+ y
+ asimilables
+ a
+ domésticos,
+ los
+ cuales
+ consistirán
+básicamente
+ en
+ papeles,
+ principalmente.
+ Se
+ estima
+ una
+ generación
+ de
+ 0,6
+ kg/día
+ por
+ persona,
+ considerando
+ que
+no
+ existirán
+ residuos
+ asociados
+ a
+ comidas;
+ por
+ lo
+ tanto,
+ se
+ estima
+ una
+ generación
+ de
+ 3
+ kg/día
+ de
+ residuos
+ sólidos
+domiciliarios,
+ cuando
+ existan
+ labores
+ de
+ mantenimiento,
+ en
+ la
+ cual
+ se
+ estima
+ una
+ dotación
+ máxima
+ de
+ personal
+ de
+5
+ personas
+ cada
+ 3
+ meses.
+
+_Residuos
+ Industriales
+ sólidos
+ no
+ peligrosos_
+Los
+ residuos
+ sólidos
+ industriales
+ no
+ peligrosos
+ durante
+ la
+ fase
+ de
+ operación
+ provendrán
+ de
+ actividades
+como
+ recambio
+ de
+ paneles
+ o
+ reparaciones
+ varias,
+ por
+ lo
+ que
+ serán
+ de
+ muy
+ baja
+ magnitud
+ y
+ consistirán
+principalmente
+ en
+ materiales
+ de
+ desgaste
+ como
+ cartón,
+ maderas,
+ etc.
+ Se
+ estima
+ una
+ generación
+ de
+ 0,05
+ t/mes,
+ los
+cuales
+ no
+ serán
+ almacenados
+ en
+ el
+ sitio,
+ sino
+ que
+ serán
+ manejados
+ y
+ retirados
+ por
+ la
+ empresa
+ que
+ se
+ encargue
+ de
+la
+ mantención,
+ quienes
+ los
+ derivarán
+ a
+ un
+ sitio
+ de
+ disposición
+ final
+ autorizado.
+
+Fase de Cierre
+_Residuos
+ sólidos
+ domiciliarios
+ y
+ asimilables_
+Para
+ la
+ fase
+ de
+ cierre
+ se
+ estima
+ una
+ generación
+ del
+ orden
+ de
+ 1
+ kg/hab/día
+ de
+ residuos
+ sólidos
+ domésticos,
+por
+ lo
+ que
+ la
+ cantidad
+ máxima
+ será
+ aproximadamente
+ de
+ 1,5
+ t/mes
+ de
+ residuos
+ sólidos
+ domésticos,
+ equivalente
+ a
+50
+ kg/día,
+ con
+ una
+ dotación
+ máxima
+ de
+ 50
+ trabajadores.
+ Estos
+ residuos
+ serán
+ manejados
+ y
+ retirados,
+ para
+ ser
+llevados
+ a
+ su
+ sitio
+ de
+ disposición
+ final
+ debidamente
+ autorizado,
+ de
+ manera
+ similar
+ a
+ la
+ considerada
+ en
+ la
+ fase
+ de
+construcción.
+
+_Residuos
+ industriales
+ sólidos
+ no
+ peligrosos_
+Los
+ residuos
+ sólidos
+ industriales
+ no
+ peligrosos
+ durante
+ la
+ fase
+ de
+ cierre
+ consistirán
+ principalmente
+ en
+chatarra,
+ escombros
+ y
+ materiales
+ de
+ desgaste,
+ los
+ que
+ serán
+ dispuestos
+ temporalmente
+ en
+ los
+ contenedores
+debidamente
+ señalados,
+ en
+ el
+ área
+ de
+ almacenamiento
+ de
+ materiales
+ de
+ descarte,
+ para
+ luego
+ ser
+ retirados
+periódicamente
+ a
+ su
+ sitio
+ de
+ disposición
+ final
+ por
+ una
+ empresa
+ autorizada.
+
+Durante
+ esta
+ fase
+ se
+ estima
+ una
+ generación
+ del
+ orden
+ de
+ 0,179
+ t/mes
+ de
+ residuos
+ industriales
+ no
+ peligrosos,
+ de
+acuerdo
+ al
+ desglose
+ que
+ se
+ indica
+ en
+ la
+ Tabla
+ 3.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+4
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Los
+ residuos
+ que
+ presenten
+ algún
+ valor
+ comercial,
+ como
+ la
+ chatarra,
+ podrán
+ ser
+ retirados
+ por
+ empresas
+ de
+reciclaje
+ de
+ materiales,
+ en
+ tanto
+ que
+ aquellos
+ residuos
+ que
+ no
+ presenten
+ valor
+ comercial
+ serán
+ dispuestos
+temporalmente
+ en
+ un _container_ tipo _roll-­‐off._
+
+**Tabla
+ 3.
+ Estimación
+ de
+ residuos
+ sólidos
+ industriales
+ -­‐
+ Fase
+ cierre**
+
+|Residuo|Cantidad (ton/mes)|
+|---|---|
+|Chatarra|0,04|
+|Hormigón y escombros|0,1|
+|Estructuras|0,035|
+|Revestimientos y tuberías|0,004|
+|**Total**|**0,179**|
+
+Fuente:
+ Elaboración
+ propia.
+
+**1.1.4.** **Diseño
+ de
+ la
+ planta
+ de
+ tratamiento
+ que
+ incluya
+ diagrama
+ de
+ flujo
+ y
+ las
+ unidades
+ y**
+**equipamiento.**
+
+El
+ Proyecto
+ no
+ contempla
+ el
+ tratamiento
+ de
+ los
+ residuos,
+ solo
+ su
+ acopio
+ temporal
+ para
+ futura
+ disposición
+final
+ en
+ lugares
+ autorizados.
+ Por
+ lo
+ tanto,
+ no
+ se
+ proyecta
+ una
+ planta
+ de
+ tratamiento.
+
+**1.1.5.** **Formas
+ de
+ abatimiento
+ de
+ emisiones
+ y
+ de
+ control
+ y
+ manejo
+ de
+ residuos.**
+
+El
+ titular
+ llevará
+ a
+ cabo
+ un
+ manejo
+ sanitario
+ y
+ seguro
+ de
+ las
+ distintas
+ áreas
+ de
+ acumulación
+ de
+ los
+ residuos
+dentro
+ del
+ Proyecto,
+ evitando
+ la
+ formación
+ de
+ focos
+ de
+ insalubridad
+ y
+ vectores
+ sanitarios
+ que
+ afecten
+ su
+ entorno
+ y
+permitan
+ resguardar
+ la
+ salud
+ y
+ el
+ bienestar
+ de
+ los
+ trabajadores.
+ Para
+ esto,
+ el
+ manejo
+ sanitario
+ y
+ tratamiento
+ de
+ los
+residuos
+ generados
+ al
+ interior
+ de
+ Proyecto
+ se
+ hará
+ diferenciado
+ según
+ la
+ tipología
+ del
+ residuo
+ (doméstico,
+ industrial
+y
+ peligroso).
+ Esto
+ implica
+ la
+ existencia
+ de
+ zonas
+ segregadas
+ de
+ manera
+ de
+ evitar
+ posibles
+ mezclas
+ de
+ residuos.
+ Las
+siguientes
+ actividades
+ se
+ realizarán
+ en
+ las
+ distintas
+ fases
+ del
+ proyecto:
+
+_Control
+ de
+ emisiones
+ de
+ polvo_
+Para
+ el
+ control
+ de
+ material
+ particulado
+ y
+ para
+ evitar
+ la
+ generación
+ de
+ malos
+ olores,
+ se
+ contará
+ con
+contenedores
+ y/o
+ recipientes
+ sellados
+ o
+ cubiertos
+ o
+ similares,
+ evitando
+ las
+ emisiones
+ fugitivas
+ de
+ material
+particulado
+ por
+ acción
+ del
+ viento.
+
+_Control
+ de
+ emisiones
+ líquidas_
+Para
+ el
+ control
+ de
+ las
+ emisiones
+ líquidas
+ y
+ vectores
+ sanitarios,
+ se
+ contará
+ con
+ contenedores,
+ basureros
+ y/o
+recipientes
+ debidamente
+ sellados
+ y
+ bases
+ -
+ radieres
+ impermeabilizados
+ en
+ los
+ sitios
+ de
+ almacenamiento
+ temporal
+de
+ materiales
+ de
+ descarte
+ y
+ contenedores
+ de
+ uso
+ cotidiano
+ en
+ el
+ caso
+ de
+ las
+ fases
+ de
+ construcción
+ y
+ cierre.
+
+_Control
+ de
+ ruido_
+Las
+ formas
+ de
+ almacenamiento
+ transitorio
+ de
+ residuos
+ que
+ considera
+ el
+ Proyecto
+ no
+ generarán
+ emisiones
+de
+ ruidos
+ molestos,
+ por
+ lo
+ que
+ no
+ se
+ requiere
+ medidas
+ de
+ control
+ especiales.
+
+_Control
+ de
+ vectores
+ sanitarios
+ y
+ olores_
+Dada
+ la
+ composición
+ de
+ los
+ residuos,
+ y
+ las
+ características
+ del
+ área
+ de
+ emplazamiento
+ del
+ Proyecto,
+ no
+ se
+contempla
+ una
+ generación
+ importante
+ de
+ olores
+ o
+ vectores
+ sanitarios.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+5
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+En
+ el
+ proyecto
+ se
+ mantendrán
+ en
+ buenas
+ condiciones
+ de
+ orden
+ y
+ limpieza
+ los
+ lugares
+ de
+ generación
+ y
+almacenamiento
+ temporal
+ de
+ residuos,
+ especialmente
+ en
+ los
+ sectores
+ donde
+ se
+ ubicarán
+ recipientes
+ para
+ la
+disposición
+ temporal
+ de
+ los
+ residuos
+ domésticos,
+ para
+ evitar
+ la
+ entrada
+ o
+ para
+ eliminar
+ la
+ presencia
+ de
+ vectores
+sanitarios.
+ Además,
+ se
+ efectuará
+ un
+ manejo
+ sanitario
+ seguro
+ en
+ las
+ distintas
+ áreas
+ de
+ acumulación,
+ evitando
+ la
+formación
+ de
+ focos
+ de
+ insalubridad
+ que
+ afecten
+ el
+ entorno.
+ De
+ esta
+ forma
+ se
+ resguardará
+ la
+ salud
+ y
+ el
+ bienestar
+ de
+los
+ trabajadores.
+
+Sin
+ perjuicio
+ de
+ ello,
+ los
+ residuos
+ serán
+ retirados
+ por
+ una
+ empresa
+ contratista
+ de
+ residuos
+ que
+ cuente
+ con
+autorización
+ sanitaria,
+ con
+ una
+ frecuencia
+ mínima
+ de
+ dos
+ veces
+ por
+ semana
+ durante
+ la
+ fase
+ de
+ construcción
+ y
+diariamente
+ por
+ el
+ equipo
+ de
+ mantenimiento
+ en
+ la
+ fase
+ de
+ operación
+ con
+ la
+ finalidad
+ de
+ evitar
+ la
+ descomposición
+de
+ restos
+ de
+ alimentos,
+ y
+ por
+ tanto,
+ generación
+ de
+ malos
+ olores
+ y
+ atracción
+ de
+ vectores
+ sanitarios
+ (moscas,
+ perros,
+ratones
+ u
+ otros
+ insectos).
+
+Además,
+ se
+ establecerá
+ un
+ programa
+ de
+ desratización
+ en
+ el
+ lugar
+ de
+ acopio
+ de
+ residuos
+ no
+ peligrosos
+ y
+asimilables
+ a
+ domiciliarios,
+ para
+ así
+ disminuir
+ aún
+ más
+ el
+ riesgo
+ de
+ ocurrencia.
+
+Debido
+ a
+ que
+ los
+ roedores
+ tienen
+ un
+ ciclo
+ reproductivo
+ de
+ a
+ lo
+ menos
+ 1
+ mes
+ y
+ medio,
+ se
+ recomiendan
+visitas
+ a
+ lo
+ menos
+ una
+ vez
+ al
+ mes
+ por
+ una
+ empresa
+ debidamente
+ autorizada
+ por
+ la
+ Seremi
+ de
+ Salud,
+ para
+ reponer
+los
+ cebos
+ consumidos
+ y/o
+ deteriorados
+ para
+ mantener
+ una
+ barrera
+ sanitaria.
+
+ Dependiendo
+ del
+ grado
+ de
+contaminación,
+ puede
+ ser,
+ quincenal,
+ mensual,
+ bimestral,
+ trimestral,
+ si
+ no
+ existe
+ actividad
+ de
+ roedores
+ es
+recomendable
+ realizar
+ controles
+ cada
+ tres
+ meses.
+
+**1.1.6.** **Descripción
+ del
+ sistema
+ de
+ manejo
+ de
+ rechazos.**
+
+No
+ se
+ contempla
+ ningún
+ tipo
+ de
+ tratamiento
+ de
+ residuos
+ en
+ cualquiera
+ de
+ las
+ fases
+ del
+ proyecto,
+ solo
+ el
+almacenamiento
+ temporal
+ de
+ estos,
+ en
+ los
+ sitios
+ debidamente
+ construidos
+ de
+ acuerdo
+ a
+ la
+ normativa
+ vigente,
+ y
+que
+ cuente
+ con
+ una
+ disposición
+ final
+ en
+ un
+ sitio
+ debidamente
+ autorizado.
+
+**1.1.7.** **Plan
+ de
+ verificación
+ y
+ seguimiento
+ de
+ los
+ residuos
+ a
+ ser
+ tratados
+ y
+ rechazados.**
+
+El
+ Proyecto
+ no
+ contempla
+ el
+ tratamiento
+ de
+ los
+ residuos,
+ sólo
+ su
+ acopio
+ temporal
+ para
+ futura
+ disposición
+final,
+ por
+ lo
+ anterior
+ no
+ se
+ requiere
+ un
+ Plan
+ de
+ verificación
+ y
+ seguimiento
+ de
+ los
+ residuos
+ a
+ ser
+ tratados
+ y
+rechazados.
+
+**1.1.8.** **Plan
+ de
+ contingencias.**
+
+En
+ base
+ al
+ tipo
+ de
+ actividad
+ a
+ ejecutar
+ y
+ las
+ tecnologías
+ a
+ emplear
+ se
+ definen
+ los
+ principales
+ riesgos
+asociados
+ al
+ Proyecto,
+ los
+ que
+ a
+ su
+ vez
+ son
+ susceptibles
+ de
+ afectar
+ el
+ ambiente
+ y
+ provocar
+ accidentes
+ o
+emergencias.
+ A
+ continuación,
+ se
+ describe
+ el
+ plan
+ de
+ contingencia
+ diseñado
+ para
+ el
+ Proyecto.
+
+Objetivo
+El
+ objetivo
+ del
+ Plan
+ de
+ Contingencias,
+ es
+ disponer
+ de
+ una
+ herramienta
+ administrativa,
+ organizacional
+ y
+operativa
+ que
+ permita
+ responder
+ ante
+ eventualidades
+ de
+ orden
+ natural
+ u
+ operativo,
+ mediante
+ la
+ aplicación
+ de
+guías
+ de
+ organización
+ y
+ respuesta
+ para
+ optimizar
+ la
+ eficacia
+ y
+ eficiencia
+ de
+ las
+ acciones
+ de
+ control
+ de
+ la
+ emergencia,
+con
+ el
+ fin
+ de
+ proteger
+ el
+ entorno,
+ la
+ infraestructura,
+ los
+ equipos
+ y
+ el
+ recurso
+ humano
+ involucrado.
+
+Alcance
+El
+ presente
+ Plan
+ es
+ aplicable
+ a
+ todo
+ el
+ personal
+ que
+ trabaje
+ en
+ la
+ Fase
+ de
+ construcción
+ y
+ cierre
+ del
+ Proyecto
+“Parque
+ Fotovoltaico
+ Eclipse”,
+ ya
+ sea
+ personal
+ contratado
+ por
+ la
+ empresa
+ titular,
+ subcontratos
+ y
+ externos.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+6
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Definiciones
+ Accidente:
+ Todo
+ incidente
+ cuya
+ consecuencia
+ es
+ una
+ pérdida
+ directa
+ y
+ mensurable;
+ Brigada
+ de
+ emergencia:
+ es
+ el
+ grupo
+ de
+ trabajadores
+ organizados,
+ entrenados
+ y
+ equipados
+ para
+
+identificar
+ las
+ condiciones
+ de
+ riesgo
+ que
+ puedan
+ generar
+ emergencias
+ y
+ actuar
+ adecuadamente
+controlando
+ o
+ minimizando
+ sus
+ consecuencias;
+ Emergencia:
+ Evento
+ imprevisto
+ que
+ genere
+ o
+ pueda
+ generar
+ daños
+ a
+ las
+ personas,
+ instalaciones,
+
+equipos,
+ medio
+ ambiente
+ y
+ /
+ o
+ comunidad;
+ Evacuación:
+ abandono
+ de
+ una
+ sala
+ de
+ control,
+ edificio,
+ oficina,
+ local,
+ recinto,
+ etc.,
+ ante
+ una
+
+emergencia;
+ Incidente:
+ Todo
+ evento
+ indeseado
+ no
+ programado
+ que
+ puede
+ generar
+ consecuencias
+ negativas
+ en
+ el
+
+sistema
+ (daños,
+ lesiones,
+ pérdidas,
+ etc.);
+ Medidas
+ de
+ control
+ de
+ accidentes:
+ Conjunto
+ de
+ medidas
+ que
+ tienen
+ por
+ finalidad
+ intervenir
+
+eficazmente
+ en
+ los
+ sucesos
+ que
+ alteren
+ el
+ desarrollo
+ normal
+ de
+ un
+ Proyecto
+ o
+ actividad,
+ en
+ tanto
+puedan
+ causar
+ daño
+ a
+ la
+ vida,
+ a
+ la
+ salud
+ o
+ al
+ medio
+ ambiente;
+ PEE:
+ Punto
+ Encuentro
+ Emergencia;
+ Plan
+ de
+ Contingencias
+ y
+ Emergencias:
+ Plan
+ que
+ contiene
+ las
+ medidas
+ a
+ adoptar
+ para
+ controlar
+ y
+
+minimizar
+ los
+ impactos
+ en
+ la
+ eventualidad
+ que
+ el
+ Plan
+ de
+ Prevención
+ de
+ Riesgos
+ Ambientales
+ se
+ vea
+superado,
+ derivados
+ de
+ la
+ eventual
+ ocurrencia
+ de
+ situaciones
+ naturales
+ u
+ operacionales;
+ Plan
+ de
+ Prevención
+ de
+ Riesgos:
+ Plan
+ que
+ define
+ las
+ medidas
+ cuya
+ finalidad
+ es
+ disminuir
+ o
+ evitar
+ que
+
+aparezcan
+ efectos
+ desfavorables
+ o
+ indeseables
+ en
+ la
+ salud
+ humana
+ o
+ en
+ el
+ medio
+ ambiente,
+ que
+pudieran
+ provocar
+ una
+ pérdida,
+ disminución,
+ detrimento
+ o
+ menoscabo
+ significativo
+ a
+ uno
+ o
+ más
+elementos
+ del
+ mismo,
+ a
+ consecuencia
+ de
+ la
+ ejecución
+ del
+ proyecto
+ o
+ actividad;
+ Riesgo
+ de
+ ocurrencia
+ de
+ fenómenos
+ naturales:
+ corresponde
+ a
+ los
+ riesgos
+ asociados
+ a
+ fenómenos
+
+ajenos
+ a
+ la
+ operación
+ normal
+ del
+ Proyecto,
+ tales
+ como
+ sismos,
+ terremotos,
+ inundación,
+ etc.;
+ y
+ Siniestro:
+ Todo
+ evento
+ que
+ genera
+ pérdidas
+ importantes
+ para
+ la
+ Empresa
+ o
+ a
+ las
+ personas.
+ Se
+ asocia
+
+principalmente
+ a
+ incendios,
+ sismos,
+ avalanchas,
+ tormentas
+ eléctricas,
+ vientos,
+ lluvias
+ intensas,
+nevazones,
+ etc.
+
+Responsabilidades
+Los
+ principales
+ actores
+ responsables
+ dentro
+ del
+ Plan
+ de
+ Contingencias
+ son
+ el
+ gerente
+ general,
+ el
+ jefe
+ de
+terreno
+ (Coordinador
+ de
+ Emergencia),
+ la
+ brigada
+ de
+ emergencias
+ y
+ finalmente
+ todos
+ los
+ trabajadores
+ contratados
+directamente
+ por
+ la
+ empresa
+ titular
+ o
+ por
+ empresas
+ contratistas
+ o
+ externas.
+
+ Gerente
+ General:
+ Es
+ el
+ responsable
+ de
+ entregar
+ los
+ medios
+ para
+ la
+ Prevención
+ y
+ el
+ Control
+ de
+ las
+
+Emergencias;
+ Jefe
+ de
+ turno/terreno:
+ Es
+ el
+ responsable
+ del
+ control
+ de
+ las
+ situaciones
+ que
+ puedan
+ generar
+ una
+
+emergencia,
+ debe
+ realizar
+ inspecciones
+ a
+ las
+ áreas,
+ materiales
+ y
+ equipos
+ que
+ pueden
+ ser
+ la
+ fuente
+ de
+una
+ emergencia
+ y
+ tomar
+ las
+ medidas
+ preventivas
+ que
+ correspondan.
+ El
+ Jefe
+ de
+ terreno
+ asumirá
+igualmente
+ la
+ responsabilidad
+ de
+ la
+ Oficina
+ de
+ Inspección
+ Técnica
+ de
+ Obras
+ (ITO)
+ y
+ del
+ Coordinador
+ de
+Emergencia;
+ Brigada
+ de
+ Emergencias:
+ Grupo
+ conformado
+ por
+ mínimo
+ 3
+ y
+ máximo
+ 6
+ trabajadores
+ que,
+ junto
+ con
+
+tener
+ voluntad
+ y
+ espíritu
+ de
+ colaboración,
+ deben
+ tener
+ conocimientos
+ de
+ primeros
+ auxilios,
+evacuación,
+ rescate,
+ control
+ de
+ derrames
+ e
+ incendios,
+ etc.,
+ y
+ participar
+ activamente
+ en
+ el
+ control
+ del
+plan
+ de
+ prevención
+ y
+ de
+ contingencia.
+ Estas
+ personas
+ deberán
+ tener
+ buenas
+ condiciones
+ físicas
+ y
+psicológicas
+ para
+ participar
+ en
+ las
+ operaciones,
+ emergencias
+ y
+ simulacros;
+ y
+ Trabajadores:
+ Deberá
+ participar
+ activamente
+ en
+ el
+ reporte
+ de
+ situaciones
+ que
+ pudieran
+ generar
+ una
+
+emergencia,
+ así
+ como
+ también
+ acatar
+ las
+ instrucciones
+ dadas
+ por
+ su
+ Supervisor
+ cada
+ vez
+ que
+ ocurra
+una
+ emergencia.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+7
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Plan de contingencias
+El
+ manejo
+ de
+ los
+ residuos
+ sólidos
+ conlleva
+ algunos
+ riesgos,
+ entre
+ los
+ cuales
+ se
+ identifican
+ el
+ riesgo
+ de
+afectación
+ ambiental
+ y
+ sanitaria
+ por
+ almacenamiento
+ excesivo
+ de
+ Residuos
+ Sólidos.
+ A
+ continuación,
+ se
+ presentan
+las
+ medidas
+ de
+ contingencias,
+ para
+ cada
+ riesgo.
+ en
+ la
+ fase
+ construcción
+ y
+ cierre.
+
+Riesgo de afectación ambiental y sanitaria por almacenamiento excesivo de Residuos Sólidos
+
+Fase de Construcción
+ Se
+ trabajará
+ de
+ acuerdo
+ a
+ un
+ plan
+ de
+ gestión
+ de
+ residuos;
+ Se
+ fomentará
+ la
+ reutilización
+ de
+ los
+ residuos
+ sólidos
+ industriales;
+ y
+ Se
+ contará
+ con
+ un
+ control
+ de
+ zoonosis,
+ el
+ cual
+ asegurará
+ en
+ el
+ sector
+ la
+ ausencia
+ de
+ vectores
+
+sanitarios.
+
+Fase de Operación
+Para
+ esta
+ fase
+ no
+ se
+ contempla
+ este
+ tipo
+ de
+ riesgo,
+ ya
+ que
+ la
+ generación
+ de
+ residuos
+ será
+ mínima,
+ respecto
+a
+ la
+ generación
+ en
+ la
+ fase
+ de
+ construcción
+ y
+ como
+ se
+ mencionó
+ anteriormente,
+ será
+ manejada
+ por
+ el
+ personal
+externo
+ que
+ realizará
+ las
+ mantenciones
+ a
+ través
+ de
+ un
+ sistema
+ de
+ baños
+ químicos,
+ disponiendo
+ adecuadamente
+estos
+ residuos
+ por
+ el
+ proveedor
+ autorizado
+ por
+ la
+ autoridad
+ sanitaria.
+
+Fase de Cierre
+ Se
+ trabajará
+ de
+ acuerdo
+ a
+ un
+ plan
+ de
+ gestión
+ de
+ residuos;
+ y
+ Se
+ contará
+ con
+ un
+ control
+ de
+ zoonosis,
+ el
+ cual
+ asegurará
+ en
+ el
+ sector
+ la
+ ausencia
+ de
+ vectores
+
+sanitarios.
+
+Adicionalmente,
+ la
+ implementación
+ del
+ Proyecto
+ considera
+ medidas
+ de
+ contingencia
+ y
+ emergencia
+ para
+ la
+operación
+ de
+ las
+ distintas
+ actividades
+ asociadas
+ a
+ su
+ funcionamiento,
+ las
+ que
+ se
+ describen
+ en
+ el
+ Anexo
+ 1.11
+ “Plan
+de
+ prevención
+ de
+ riesgos
+ y
+ contingencias.
+
+**1.1.9.** **Plan
+ de
+ emergencia.**
+
+En
+ situaciones
+ de
+ emergencia,
+ lo
+ más
+ importante
+ es
+ la
+ oportuna
+ comunicación
+ de
+ acuerdo
+ al
+ organigrama
+establecido
+ y
+ la
+ evacuación
+ de
+ los
+ trabajadores
+ expuestos
+ y/o
+ que
+ puedan
+ interferir
+ en
+ el
+ desempeño
+ del
+ Jefe
+ de
+Turno
+ y
+ Brigada
+ de
+ Emergencia.
+
+Objetivo
+El
+ objetivo
+ del
+ Plan
+ de
+ Emergencia,
+ es
+ disponer
+ de
+ una
+ herramienta
+ administrativa,
+ organizacional
+ y
+operativa
+ que
+ permita
+ responder
+ ante
+ situaciones
+ de
+ emergencia,
+ de
+ orden
+ natural
+ u
+ operativo,
+ mediante
+ la
+aplicación
+ de
+ guías
+ de
+ organización
+ y
+ respuesta
+ para
+ optimizar
+ la
+ eficacia
+ y
+ eficiencia
+ de
+ las
+ acciones
+ de
+ control,
+ con
+el
+ fin
+ de
+ proteger
+ el
+ entorno,
+ la
+ infraestructura,
+ los
+ equipos
+ y
+ el
+ recurso
+ humano
+ involucrado.
+
+Alcance
+El
+ presente
+ Plan
+ es
+ aplicable
+ a
+ todo
+ el
+ personal
+ que
+ trabaje
+ en
+ la
+ Fase
+ de
+ construcción
+ y
+ cierre
+ del
+ Proyecto
+“Parque
+ Fotovoltaico
+ Eclipse”,
+ ya
+ sea
+ personal
+ contratado
+ por
+ la
+ empresa
+ titular,
+ subcontratos
+ y
+ externos.
+
+Definiciones
+
+ Accidente:
+ Todo
+ incidente
+ cuya
+ consecuencia
+ es
+ una
+ pérdida
+ directa
+ y
+ mensurable;
+ Brigada
+ de
+ emergencia:
+ es
+ el
+ grupo
+ de
+ trabajadores
+ organizados,
+ entrenados
+ y
+ equipados
+ para
+
+identificar
+ las
+ condiciones
+ de
+ riesgo
+ que
+ puedan
+ generar
+ emergencias
+ y
+ actuar
+ adecuadamente
+controlando
+ o
+ minimizando
+ sus
+ consecuencias;
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+8
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+ Emergencia:
+ Evento
+ imprevisto
+ que
+ genere
+ o
+ pueda
+ generar
+ daños
+ a
+ las
+ personas,
+ instalaciones,
+
+equipos,
+ medio
+ ambiente
+ y
+ /
+ o
+ comunidad;
+ Evacuación:
+ abandono
+ de
+ una
+ sala
+ de
+ control,
+ edificio,
+ oficina,
+ local,
+ recinto,
+ etc.,
+ ante
+ una
+
+emergencia;
+ Incidente:
+ Todo
+ evento
+ indeseado
+ no
+ programado
+ que
+ puede
+ generar
+ consecuencias
+ negativas
+ en
+ el
+
+sistema
+ (daños,
+ lesiones,
+ pérdidas,
+ etc.);
+ Medidas
+ de
+ control
+ de
+ accidentes:
+ Conjunto
+ de
+ medidas
+ que
+ tienen
+ por
+ finalidad
+ intervenir
+
+eficazmente
+ en
+ los
+ sucesos
+ que
+ alteren
+ el
+ desarrollo
+ normal
+ de
+ un
+ Proyecto
+ o
+ actividad,
+ en
+ tanto
+puedan
+ causar
+ daño
+ a
+ la
+ vida,
+ a
+ la
+ salud
+ o
+ al
+ medio
+ ambiente;
+ PEE:
+ Punto
+ Encuentro
+ Emergencia;
+ Plan
+ de
+ Contingencias
+ y
+ Emergencias:
+ Plan
+ que
+ contiene
+ las
+ medidas
+ a
+ adoptar
+ para
+ controlar
+ y
+
+minimizar
+ los
+ impactos
+ en
+ la
+ eventualidad
+ que
+ el
+ Plan
+ de
+ Prevención
+ de
+ Riesgos
+ Ambientales
+ se
+ vea
+superado,
+ derivados
+ de
+ la
+ eventual
+ ocurrencia
+ de
+ situaciones
+ naturales
+ u
+ operacionales;
+ Plan
+ de
+ Prevención
+ de
+ Riesgos:
+ Plan
+ que
+ define
+ las
+ medidas
+ cuya
+ finalidad
+ es
+ disminuir
+ o
+ evitar
+ que
+
+aparezcan
+ efectos
+ desfavorables
+ o
+ indeseables
+ en
+ la
+ salud
+ humana
+ o
+ en
+ el
+ medio
+ ambiente,
+ que
+pudieran
+ provocar
+ una
+ pérdida,
+ disminución,
+ detrimento
+ o
+ menoscabo
+ significativo
+ a
+ uno
+ o
+ más
+elementos
+ del
+ mismo,
+ a
+ consecuencia
+ de
+ la
+ ejecución
+ del
+ proyecto
+ o
+ actividad;
+ Riesgo
+ de
+ ocurrencia
+ de
+ fenómenos
+ naturales:
+ corresponde
+ a
+ los
+ riesgos
+ asociados
+ a
+ fenómenos
+
+ajenos
+ a
+ la
+ operación
+ normal
+ del
+ Proyecto,
+ tales
+ como
+ sismos,
+ terremotos,
+ inundación,
+ etc.;
+ y
+ Siniestro:
+ Todo
+ evento
+ que
+ genera
+ pérdidas
+ importantes
+ para
+ la
+ Empresa
+ o
+ a
+ las
+ personas.
+ Se
+ asocia
+
+principalmente
+ a
+ incendios,
+ sismos,
+ avalanchas,
+ tormentas
+ eléctricas,
+ vientos,
+ lluvias
+ intensas,
+nevazones,
+ etc.
+
+Responsabilidades
+Los
+ principales
+ actores
+ responsables
+ dentro
+ del
+ Plan
+ de
+ Emergencia
+ son
+ el
+ gerente
+ general,
+ el
+ jefe
+ de
+terreno
+ (Coordinador
+ de
+ Emergencia),
+ la
+ brigada
+ de
+ emergencias
+ y
+ finalmente
+ todos
+ los
+ trabajadores
+ contratados
+directamente
+ por
+ la
+ empresa
+ titular
+ o
+ por
+ empresas
+ contratistas
+ o
+ externas.
+
+ Gerente
+ General:
+ Es
+ el
+ responsable
+ de
+ entregar
+ los
+ medios
+ para
+ la
+ Prevención
+ y
+ el
+ Control
+ de
+ las
+
+Emergencias;
+ Jefe
+ de
+ turno/terreno:
+ de
+ acuerdo
+ al
+ nivel
+ y
+ tipo
+ de
+ emergencia,
+ debe
+ paralizar
+ las
+ faenas,
+ evacuar
+ a
+
+los
+ trabajadores
+ y/o
+ equipos
+ y
+ normalizar
+ las
+ operaciones
+ a
+ la
+ brevedad
+ posible;
+ Brigada
+ de
+ Emergencias:
+ Grupo
+ conformado
+ por
+ mínimo
+ 3
+ y
+ máximo
+ 6
+ trabajadores
+ que,
+ junto
+ con
+
+tener
+ voluntad
+ y
+ espíritu
+ de
+ colaboración,
+ deben
+ tener
+ conocimientos
+ de
+ primeros
+ auxilios,
+evacuación,
+ rescate,
+ control
+ de
+ derrames
+ e
+ incendios,
+ etc.,
+ y
+ participar
+ activamente
+ en
+ el
+ control
+ del
+plan
+ de
+ prevención
+ y
+ de
+ contingencia.
+ Estas
+ personas
+ deberán
+ tener
+ buenas
+ condiciones
+ físicas
+ y
+psicológicas
+ para
+ participar
+ en
+ las
+ operaciones,
+ emergencias
+ y
+ simulacros;
+ y
+ Trabajadores:
+ Deberá
+ participar
+ activamente
+ en
+ el
+ reporte
+ de
+ situaciones
+ que
+ pudieran
+ generar
+ una
+
+emergencia,
+ así
+ como
+ también
+ acatar
+ las
+ instrucciones
+ dadas
+ por
+ su
+ Supervisor
+ cada
+ vez
+ que
+ ocurra
+una
+ emergencia.
+
+Todo
+ el
+ personal
+ debe
+ conocer
+ las
+ zonas
+ de
+ seguridad
+ definidas
+ por
+ el
+ Proyecto,
+ denominadas
+ Puntos
+ de
+Encuentro
+ de
+ Emergencia
+ (PEE).
+ Es
+ responsabilidad
+ del
+ Coordinador
+ de
+ Emergencias
+ dar
+ a
+ conocer
+ esta
+información
+ y
+ mantener
+ dichos
+ puntos
+ en
+ condiciones
+ de
+ seguridad
+ adecuadas.
+
+Plan de emergencia
+De
+ acuerdo
+ a
+ los
+ riesgos
+ identificados
+ previamente,
+ a
+ continuación,
+ se
+ presentan
+ las
+ medidas
+ de
+emergencia
+ específicas
+ para
+ cada
+ riesgo.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+9
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Riesgo de afectación ambiental y sanitaria por almacenamiento excesivo de Residuos Sólidos
+
+Fase de Construcción
+
+En
+ caso
+ de
+ existir
+ acumulación
+ excesiva
+ de
+ RS
+ producto
+ de
+ la
+ falla
+ en
+ el
+ retiro
+ de
+ los
+ residuos
+ hacia
+disposición
+ final,
+ se
+ contemplará
+ lo
+ siguiente:
+
+ Conocer
+ perfectamente
+ los
+ procedimientos
+ de
+ emergencias
+ establecidos;
+ Mantener
+ inventario
+ actualizado
+ de
+ empresas
+ que
+ presten
+ estos
+ servicios;
+ y
+ Contratar
+ los
+ servicios
+ de
+ retiro
+ de
+ alguna
+ otra
+ empresa
+ autorizada.
+
+Fase de Operación
+Como
+ se
+ mencionó
+ anteriormente
+ para
+ la
+ fase
+ de
+ operación
+ no
+ se
+ contempla
+ este
+ riesgo,
+ por
+ ende,
+ no
+ se
+requieren
+ medidas
+ de
+ emergencias
+ relacionadas.
+
+Fase de Cierre
+
+Para
+ esta
+ Fase
+ aplicarán
+ los
+ mismos
+ riesgos
+ que
+ en
+ la
+ Fase
+ de
+ Construcción.
+
+Adicionalmente,
+ la
+ implementación
+ del
+ Proyecto
+ considera
+ medidas
+ de
+ contingencia
+ y
+ emergencia
+ para
+ la
+operación
+ de
+ las
+ distintas
+ actividades
+ asociadas
+ a
+ su
+ funcionamiento,
+ las
+ que
+ se
+ describen
+ en
+ el
+ Anexo
+ 1.11
+ “Plan
+de
+ prevención
+ de
+ riesgos,
+ contingencias
+ y
+ emergencias.
+
+**1.2.** **Tratándose
+ de
+ una
+ estación
+ de
+ transferencia,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras
+ desde
+ a.1)**
+**hasta
+ a.9):**
+No
+ aplica,
+ debido
+ a
+ que
+ no
+ existirán
+ estaciones
+ de
+ transferencia.
+
+**1.3.** **Tratándose
+ de
+ plantas
+ de
+ manejo
+ de
+ residuos
+ orgánicos,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras**
+**desde
+ a.1)
+ hasta
+ a.9):**
+No
+ aplica,
+ debido
+ a
+ que
+ no
+ existirán
+ plantas
+ de
+ compostaje.
+
+**1.4.** **Tratándose
+ de
+ una
+ planta
+ de
+ incineración,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras
+ desde
+ a.1)**
+**hasta
+ a.9):**
+No
+ aplica,
+ debido
+ a
+ que
+ no
+ existirán
+ plantas
+ de
+ incineración.
+
+**1.5.** **Tratándose
+ de
+ almacenamiento
+ de
+ residuos,
+ además
+ de
+ lo
+ señalado
+ en
+ las
+ letras
+ desde
+ a.1)**
+**hasta
+ a.9):**
+
+**1.5.1.** **Especificaciones
+ técnicas
+ de
+ las
+ características
+ constructivas
+ del
+ sitio
+ de
+ almacenamiento
+ y**
+**medidas
+ de
+ protección
+ de
+ condiciones
+ ambientales**
+
+Residuos Domiciliarios
+
+Fase de Construcción
+En
+ la
+ instalación
+ de
+ faenas,
+ se
+ contará
+ con
+ un
+ patio
+ de
+ almacenamiento
+ temporal
+ de
+ residuos
+ domiciliarios
+y
+ residuos
+ asimilables
+ de
+ 16,3
+ m [2] aproximadamente [,
+ ] (de
+ un
+ total
+ de
+ 97,8
+ m [2] ),
+ destinados
+ a
+ almacenar
+ los
+ residuos
+de
+ este
+ tipo
+ que
+ se
+ produzcan
+ en
+ el
+ proyecto.
+ Este
+ patio
+ se
+ ubicará
+ de
+ forma
+ adyacente
+ al
+ sector
+ de
+almacenamiento
+ de
+ residuos
+ industriales
+ no
+ peligrosos,
+ y
+ contará
+ con
+ un
+ radier
+ de
+ 31
+ m [2],
+ de
+ carácter
+impermeable,
+ sobre
+ el
+ cual
+ se
+ instalará
+ el
+ contenedor
+ de
+ mayor
+ tamaño
+ donde
+ se
+ acumularán
+ los
+ residuos,
+ que
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+10
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+luego
+ serán
+ retirados
+ dos
+ a
+ tres
+ veces
+ por
+ semana
+ por
+ una
+ empresa
+ autorizada
+ y
+ transportados
+ hacia
+ un
+ sitio
+ de
+disposición
+ final
+ autorizado.
+
+En
+ la
+ fase
+ de
+ construcción
+ los
+ residuos
+ sólidos
+ domésticos
+ y
+ asimilables,
+ serán
+ almacenados
+ en
+ bolsas
+plásticas
+ de
+ alta
+ resistencia
+ al
+ interior
+ de
+ contenedores
+ cubiertos
+ especialmente
+ demarcados
+ (240
+ litros
+ de
+capacidad),
+ los
+ cuales
+ diariamente
+ serán
+ retirados
+ para
+ su
+ almacenamiento
+ temporal
+ en
+ el
+ contendor
+ de
+ mayor
+tamaño
+ (5
+ m [3] o
+ 10
+ m [3] ).
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+11
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Fase de Operación
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ residuos
+ de
+ este
+ tipo
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ en
+ un
+ sitio
+ autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ Región
+ Metropolitana.
+
+Fase de Cierre
+Al
+ igual
+ que
+ en
+ la
+ fase
+ de
+ construcción
+ se
+ contempla
+ la
+ utilización
+ de
+ un
+ sector
+ patio
+ de
+ almacenamiento
+temporal
+ de
+ residuos
+ domiciliarios,
+ de
+ características
+ similares
+ al
+ utilizado
+ en
+ la
+ fase
+ de
+ construcción,
+ destinado
+específicamente
+ a
+ la
+ acumulación
+ de
+ este
+ tipo
+ de
+ residuos.
+ (Radier
+ de
+ hormigón
+ de
+ carácter
+ impermeable,
+perímetro
+ cercado
+ con
+ malla
+ Acma).
+
+Residuos Industriales no peligrosos
+
+Fase de Construcción
+Se
+ contará
+ con
+ sector
+ de
+ almacenamiento
+ de
+ residuos
+ industriales
+ no
+ peligrosos
+ de
+ aproximadamente
+81,5
+ m [2],
+ el
+ cual
+ estará
+ nivelado,
+
+ en
+ un
+ radier
+ de
+ hormigón
+ impermeable
+ con
+ cierre
+ perimetral
+ de
+ malla
+ Acma
+ de
+165
+ m2,
+
+ donde
+ existirán
+ áreas
+ debidamente
+ señalizadas,
+ indicando
+ que
+ producto
+ está
+ permitido
+ almacenar
+ según
+la
+ clasificación
+ que
+ éste
+ tenga,
+ los
+ residuos
+ que
+ presenten
+ algún
+ valor
+ comercial,
+ como
+ la
+ chatarra,
+ podrán
+ ser
+retirados
+ por
+ empresas
+ de
+ reciclaje
+ de
+ materiales,
+ en
+ tanto
+ que
+ aquellos
+ residuos
+ que
+ no
+ presenten
+ valor
+ comercial
+se
+ habilitará
+ un
+ área
+ específica,
+ (adyacente
+ a
+ los
+ contenedores
+ de
+ residuos
+ domésticos
+ y
+ asimilables,
+ de
+ modo
+ que
+tendrá
+ el
+ mismo
+ radier
+ de
+ hormigón
+ impermeable
+ y
+ el
+ cierre
+ perimetral
+ con
+ malla
+ Acma
+ en
+ común)
+ con
+ un
+_container_ tipo _roll-­‐off_ abierto
+ de
+ 10
+ m3
+ (de
+ metal
+ a
+ prueba
+ de
+ filtraciones)
+ hasta
+ su
+ retiro,
+ con
+ una
+ frecuencia
+mensual,
+ por
+ una
+ empresa
+ autorizada
+ que
+ lo
+ transportará
+ hacia
+ un
+ sitio
+ autorizado
+ para
+ su
+ disposición
+ final.
+
+Fase de Operación
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ residuos
+ de
+ este
+ tipo
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ en
+ un
+ sitio
+ autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ Región
+ Metropolitana.
+
+Fase de Cierre
+Estos
+ residuos
+ serán
+ dispuestos
+ temporalmente
+ en
+ contenedores
+ (5
+ m [3] o
+ 10
+ m [3] )
+ ubicados
+ en
+ la
+ instalación
+de
+ faena
+ correspondiente.
+ Su
+ retiro
+ se
+ realizará
+ de
+ forma
+ periódica,
+ mensual,
+ dependiendo
+ de
+ su
+ generación,
+ y
+serán
+ trasladados
+ y
+ dispuestos
+ en
+ sitios
+ autorizados
+ por
+ el
+ Servicio
+ de
+ Salud
+ Metropolitano.
+
+Los
+ residuos
+ que
+ presenten
+ algún
+ valor
+ comercial,
+ como
+ la
+ chatarra,
+ podrán
+ ser
+ retirados
+ por
+ empresas
+ de
+reciclaje
+ de
+ materiales,
+ en
+ tanto
+ que
+ aquellos
+ residuos
+ que
+ no
+ presenten
+ valor
+ comercial
+ serán
+ dispuestos
+temporalmente
+ en
+ un _container_ tipo _roll-­‐off_ abierto
+ de
+ 10
+ m3
+ de
+ metal
+ a
+ prueba
+ de
+ filtraciones,
+ (adyacente
+ a
+ los
+contenedores
+ de
+ residuos
+ industriales
+ y
+
+ residuos
+ domésticos
+ y
+ asimilables,
+ de
+ modo
+ que
+ tendrá
+ el
+ mismo
+ radier
+ de
+hormigón
+ impermeable
+ y
+ el
+ cierre
+ perimetral
+ con
+ malla
+ Acma
+ en
+ común),
+ hasta
+ su
+ retiro,
+ se
+ realizará
+ en
+ forma
+mensual
+ o
+ quincenal
+ (de
+ acuerdo
+ a
+ las
+ necesidades
+ de
+ las
+ distintas
+ actividades
+ de
+ esta
+ fase),
+ por
+ una
+ empresa
+autorizada
+ que
+ lo
+ transportará
+ hacia
+ un
+ sitio
+ autorizado
+ por
+ el
+ Servicio
+ de
+ Salud
+ Metropolitano
+ para
+ su
+ disposición
+final.
+
+**1.5.2.** **Capacidad
+ máxima
+ de
+ almacenamiento.**
+
+Residuos domésticos
+
+Fase de Construcción
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+12
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Contenedor
+ de
+ hasta
+ 10
+ m [3
+ ] (de
+ metal
+ a
+ prueba
+ de
+ filtraciones)
+ ubicado
+ en
+ patio
+ de
+ almacenamiento
+temporal
+ de
+ residuos
+ domiciliarios.
+
+Fase de Operación
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ residuos
+ de
+ este
+ tipo
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ diariamente
+ en
+ un
+ sitio
+ autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ Región
+ Metropolitana.
+
+Fase de Cierre
+Para
+ la
+ Fase
+ de
+ Cierre
+ se
+ contempla
+ utilizar
+ contenedores
+ de
+ características
+ similares
+ a
+ los
+ utilizados
+ en
+ la
+Fase
+ de
+ Construcción.
+
+Residuos Industriales no peligrosos
+
+Fase de Construcción
+Los
+ residuos
+ industriales
+ en
+ la
+ fase
+ de
+ Construcción
+ se
+ acopiarán
+ en
+ el
+ sector
+ de
+ almacenamiento
+ de
+residuos
+ no
+ peligrosos,
+ el
+ cual
+ cuenta
+ con
+ una
+ capacidad
+ de
+ almacenamiento
+ de
+ 177
+ m [2] y
+ altura
+ de
+ 2
+ metros
+Aquellos
+ residuos
+ que
+ no
+ presenten
+ valor
+ comercial
+ se
+ dispondrán
+ en
+ un _container_ tipo _roll-­‐off_ abierto
+ de
+ 10
+ m3,
+ de
+metal
+ a
+ prueba
+ de
+ filtraciones.
+
+Fase de Operación
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ residuos
+ de
+ este
+ tipo
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ en
+ un
+ sitio
+ autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ Región
+ Metropolitana.
+
+Fase de Cierre
+Para
+ la
+ fase
+ de
+ cierre,
+ la
+ capacidad
+ máxima
+ de
+ almacenamiento
+ de
+ los
+ residuos
+ Industriales
+ será
+ de
+contenedores
+ de
+ tipo _roll-­‐off_ abierto
+ de
+ 10
+ m [3] de
+ capacidad
+ (de
+ metal,
+ que
+ no
+ permita
+ filtraciones),
+ con
+ capacidad
+de
+ tener
+ hasta
+ 5
+ contenedores
+ y/o
+ containers
+ de
+ 10
+ m [3] en
+ la
+ zona
+ de
+ residuos
+ no
+ peligrosos.
+
+**1.5.3.** **Descripción
+ del
+ tipo
+ de
+ almacenamiento,
+ tales
+ como
+ a
+ granel
+ o
+ en
+ contenedores.**
+
+Residuos domésticos
+
+Fase de Construcción
+Los
+ residuos
+ sólidos
+ domésticos
+ serán
+ almacenados
+ en
+ bolsas
+ plásticas
+ de
+ alta
+ resistencia
+ al
+ interior
+ de
+contenedores
+ de
+ 240
+ litros
+ de
+ Material
+ HDPE,
+ con
+ ruedas
+ de
+ goma
+ y
+ tapa
+ con
+ asa
+ de
+ borde,
+ debidamente
+rotulados,
+ especialmente
+ demarcados
+ y
+ habilitados
+ en
+ la
+ faena
+ de
+ construcción.
+ Diariamente
+ serán
+ retirados
+ para
+su
+ almacenamiento
+ temporal
+ en
+ un
+ contenedor
+ que
+ se
+ ubicará
+ en
+ el
+ sector
+ de
+ almacenamiento
+ de
+ materiales
+ de
+descarte,
+ el
+ que
+ se
+ encuentra
+ sobre
+ radier
+ de
+ hormigón
+ impermeable
+ y
+ con
+ malla
+ Acma
+ en
+ su
+ perímetro.
+ Este
+contenedor
+ de
+ mayor
+ capacidad,
+ será
+ un
+ recipiente
+ metálico
+ con
+ una
+ capacidad
+ igual
+ o
+ superior
+ a
+ 5
+ m [3] .
+
+La
+ pared
+ de
+ la
+ cuba
+ interior
+ tendrá
+ un
+ espesor
+ adecuado
+ para
+ prevenir
+ cualquier
+ filtración
+ de
+ aguas
+superficiales
+ en
+ el
+ interior
+ del
+ contenedor.
+ Contará
+ con
+ unas
+ alzas
+ laterales,
+ para
+ facilitar
+ el
+ retiro.
+
+Fase de Operación
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+13
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ residuos
+ de
+ este
+ tipo
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ en
+ un
+ sitio
+ autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ Región
+ Metropolitana.
+
+Fase de Cierre
+Estos
+ residuos
+ serán
+ almacenados
+ en
+ bolsas
+ plásticas
+ de
+ alta
+ resistencia
+ al
+ interior
+ de
+ contenedores
+ de
+características
+ similares
+ a
+ los
+ utilizados
+ en
+ la
+ fase
+ de
+ Construcción
+ (en
+ contenedores
+ de
+ 240
+ litros
+ de
+ capacidad,
+ con
+ruedas
+ de
+ goma
+ con
+ freno
+ y
+ tapa
+ con
+ asa
+ de
+ borde,
+ debidamente
+ rotulados),
+ los
+ que
+ diariamente
+ serán
+ retirados
+para
+ su
+ almacenamiento
+ temporal
+ en
+ un
+ contenedor
+ de
+ mayor
+ capacidad
+ (entre
+ 5
+ m [3] y
+ 10
+ m [3] ),
+ de
+ metal,
+ que
+impida
+ la
+ filtración
+ para
+ posterior
+ retiro
+ dos
+ a
+ tres
+ veces
+ por
+ semana
+ por
+ una
+ empresa
+ autorizada
+ y
+ transportados
+hacia
+ un
+ relleno
+ autorizado
+ para
+ su
+ disposición
+ final.
+
+Residuos industriales no peligrosos
+
+Fase de Construcción
+Los
+ residuos
+ industriales
+ no
+ peligrosos
+ serán
+ dispuestos
+ temporalmente
+ en
+ contenedores
+ (con
+ ruedas
+ de
+goma,
+ con
+ freno
+ y
+ tapa
+ con
+ asa
+ de
+ borde,
+ de
+ 240
+ litros,
+ debidamente
+ rotulados)
+ ubicados
+ en
+ un
+ costado
+ del
+container
+ del
+ almuerzo
+ en
+ la
+ instalación
+ de
+ faena.
+ Periódicamente
+ (una
+ a
+ tres
+ veces
+ por
+ semana,
+ dependiendo
+ de
+ la
+acumulación)
+ serán
+ retirados
+ y
+ trasladados
+ al
+ área
+ señalada
+ como
+ área
+ de
+ almacenamiento
+ de
+ materiales
+ de
+descarte
+ o
+ patio
+ de
+ salvataje
+ (zona
+ de
+ almacenamiento
+ de
+ residuos
+ domésticos
+ y
+ asimilables
+ a
+ éstos,
+ en
+ container
+de
+ 10
+ m [3] _Roll-­‐Off_ abierto
+ para
+ desechos
+ no
+ reciclables
+ y/o
+ reutilizables
+ y
+ residuos
+ industriales
+ no
+ peligrosos),
+ donde
+serán
+ almacenados
+ en
+ forma
+ ordenada
+ a
+ granel.
+ Se
+ priorizará
+ la
+ reutilización
+ y
+ venta
+ de
+ estos
+ materiales.
+ En
+ caso
+que
+ ello
+ no
+ sea
+ posible
+ se
+ almacenarán
+ en
+ el _container_ tipo _roll-­‐off_ abierto
+ de
+ 10
+ m3
+ de
+ metal
+ y
+ que
+ no
+ permita
+filtración,
+ hasta
+ su
+ retiro
+ por
+ una
+ empresa
+ autorizada
+ que
+ lo
+ transportará
+ hacia
+ un
+ sitio
+ autorizado
+ para
+ su
+disposición
+ final.
+
+Fase de Operación
+Cabe
+ señalar
+ que,
+ en
+ esta
+ etapa,
+ no
+ se
+ almacenarán
+ residuos
+ de
+ este
+ tipo
+ en
+ la
+ faena,
+ debido
+ a
+ que
+ en
+ los
+mantenimientos
+ preventivos
+ y/o
+ correctivos,
+ los
+ trabajadores
+ serán
+ los
+ encargados
+ de
+ manejar
+ sus
+ residuos
+ y
+disponerlos
+ en
+ un
+ sitio
+ autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ Región
+ Metropolitana.
+
+Fase de Cierre
+Para
+ la
+ Fase
+ de
+ Cierre,
+ este
+ tipo
+ de
+ residuo
+ será
+ almacenado
+ en
+ contenedores
+ de
+ similares
+ características
+ a
+los
+ utilizados
+ en
+ la
+ fase
+ de
+ Construcción.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+14
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**2.**
+**Indicador
+ de
+ cumplimiento**
+Como
+ indicador
+ de
+ cumplimiento,
+ se
+ considera
+ la
+ obtención
+ del
+ presente
+ permiso,
+ y
+ el
+ procedimiento
+ de
+registro
+ y
+ seguimiento
+ implementado
+ para
+ todas
+ las
+ fases
+ del
+ proyecto,
+ el
+ cual
+ verificará
+ que
+ todos
+ los
+ camiones
+que
+ se
+ despachen
+ lleguen
+ a
+ destino
+ autorizado,
+ manteniendo
+ un
+ registro
+ actualizado
+ de
+ las
+ guías
+ de
+ despacho
+asociadas
+ a
+ cada
+ retiro
+ de
+ residuos.
+
+www.tet.cl Anexo
+ 3.1.
+
+ PAS
+ 140
+15

@@ -1,0 +1,48 @@
+---
+title: Sin título
+author: Carla Peña
+date: D:20180117125711-03'00'
+language: es
+type: general
+pages: 4
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|TIERRA CONTAMINADA O CON RESTOS DE ACEITE O HC|Col2|
+|---|---|
+|<br> <br> <br>|<br> <br> <br>|
+|**2. DATOS DE RIESGO**<br>|**Tipo de Residuos/Código UN** <br>: 3077<br>**Peligrosidad por Reglamento** <br>: III.4|
+|**3. NOMBRE DEL RESIDUO**<br>|Tierra contaminada o con restos de aceite o HC|
+|**4. DESCRIPCIÓN GENERAL**<br>|**Estado Físico**: Sólido<br>**Color** <br>: No especifico<br>**Olor** <br>: Hidrocarburo<br>**Generador**: titular de proyecto.<br>**No CAS**:|
+|**5. NATURALEZA DEL RIESGO**|**Riesgos y efectos:** Producto inflamable, material combustible.<br>**Efectos de una sobreexposición aguda (solo una vez):**Produce irritación en la<br>piel y los ojos cuando el contacto es prolongado. <br>**Inhalación**: puede ser nocivo al ingerirse. Los vapores podrían irritar las vías<br>respiratorias. Puede contener impurezas dañinas. <br>**Contacto con la piel:** puede provocar irritación<br>**Contacto con los ojos:** El contacto directo puede causar molestias debido al<br>material particulado y también puede provocar irritación química.<br>**Efectos de una sobre-exposición crónica (largo plazo)**<br>Algún tipo de irritación la manifestación de otras enfermedades depende de las<br>condiciones de la exposición y de los constituyentes de la mezcla.<br>**Riesgo para el medio ambiente:**Puede contaminar el medio ambiente. Los<br>hidrocarburos que contiene no son biodegradables tiene potencial de<br>bioacumulacion|
+|**6. ELEMENTOS DE PROTECCIÓN**<br>|**Protección respiratoria:**No necesita proteccion si el producto esta en un<br>ambiente ventilado <br>**Proteccion de las manos:**Guantes de PVC, goma o neopreno.. <br>**Protección a la Vista:** Anteojos de Seguridad o de proteccion quimica tipo<br>antiparras. <br>**Otros:**Overol de Mangas Largas cubriendo las extremidades, zaptos de<br>seguridad.|
+|**7. MEDIDAS DE PRIMEROS**<br>**AUXILIOS**|En caso de contacto accidental con el producto, proceder de acuerdo con:|
+
+|Col1|Inhalación: Trasladar a un lugar libre de contaminantes, si respira con dificultad,<br>proveer oxígeno, si persiste molestias consultar a un especialista.<br>Contacto con la Piel: Quitar la ropa contaminada. Bajo ducha, lavar la zona<br>expuesta con agua abundante y jabón por lo menos 10 minutos. Si persisten<br>molestias consulte con un especialista.<br>Contacto con los ojos: Lavar con agua por lo menos 15 minutos, abriendo y<br>cerrando los parpados, consulte con un especialista para la evaluación final.<br>Nota para el medico: tratar sintomáticamente|
+|---|---|
+|**8. MEDIDAS EN CASO DE**<br>**INCENDIO**<br>|**Agentes extinción**: Polvo químico seco, CO2, Espuma. En caso de fuego<br>pequeño, lo puede sofocar con arena, dolomita o tierra.<br>El agua puede ser ineficaz porque el hidrocarburo podría flotar en ella. No use<br>chorro de agua directo.<br>**Procedimiento especial para combatir el fuego**: Mantener frio los envases por<br>medio de neblina de agua<br>**Equipamiento para combatir**: traje de bombero y un SCBA.|
+|**9. MEDIDAS EN CASO DE**<br>**DERRAMES**<br>|**Perímetro de seguridad:** Aísle la zona afectada, represar usando diques, zanjas<br>o mangas para confinamiento. Recoger con pala anti chispa y depositar en<br>tambores metálicos o de polietileno de alta densidad, cerrar y etiquetar.<br>**Equipo de protección personal para atacar la emergencia:** Traje de nivel de<br>protección C<br>**Precauciones a tomar para evitar daños al medio ambiente:** Evite la entrada a<br>cursos de agua. No elimine residuos en cursos de agua o en tierra.<br>**Métodos de limpieza:**Lavar los suelos con agua abundante y jabón.|
+|**10. MANEJO Y**<br>**ALMACENAMIENTO**<br>|**Recomendaciones tecnica:** mantener almacenados en tambores<br> tapados. Las precauciones de manejo que se deben tener son los mismas<br>que se ocupan con las sustancias que han sido absorbidas en los derrames<br>por ello debe referirse a las fichas de estas sustancias.<br>**Precauciones a tomar:** Mantener en recipientes bien cerrados. Evite el<br>contacto con los ojos. Manipule en ambientes ventilados.<br>**Recomendaciones sobre manipulacion segura, especifica:**Usar la ropa<br>de proteccion personal. Evite el contacto fisico del material y provocar<br>derrames. No inhale los vapores<br>**Condiciones de almacenamiento:** Almacenar en ambiente seco, fresco<br>Y bien ventlado. Mantener a temperatura ambiente. Segresar de residuos<br>y/o sustancias incompatibles.<br>**Embalajes recomendables y no adecuados por el proveedor:** utilizar<br>envases polietileno refprzados o metalicos. Evite envases de vidrio,<br>bolsas plasticas|
+|**11. CONTROL DE EXPOSICIÓN**|**Medidas para reducir la posibilidad de exposicion:**Buenas practicas de higiene<br>personal, disponer duchas y lavados para emergencias. <br>**Prteccion para control:**Ninguno <br>**Limites permisibles ponderados (LPP) absoluto (LPA) y temporal (LPT):**N.D|
+
+|Col1|Proteccion respiratoria: Considere un respirador con filtro para vapores<br>organicos. Aprobados y certificado<br>Guantes de proteccion: de neopreno, nitrilo o similar.<br>Protteccion de la vista: gafas con proteccion lateral.<br>Otros equipos de proteccion: zapatos y overol adecuados a las operaciones.<br>Ventilacion: Natural|
+|---|---|
+|**12. PROPIEDADES FISICAS Y**<br>**QUIMICAS**|**Estado Físico :**Sólido <br>**Color:**Oscuro. Dependiendo de la cantidad de hidrocarburo absorbido,<br>**Olor:** Suave o fuerte, caracteristico a aceite mineral Hidrocarburos <br>**PH concentracion y temperatura: N.A**<br>**Punto de inflamacion: >93°C**<br>**Pelrigo de fuego o exposicion.**El riesgo de explosicion de los envases se presenta<br>en consiciones de fuego extremo**. **<br>**Presion de vapor:**>1 (aire=1**) **<br>**Solubilidad en agua y optros soventes:**Deespreciables en agua, solo el aceite<br>puede ser soluble en el solvente organico derivados del petroleo.<br>|
+|**13. REACTIVIDAD Y**<br>**ESTABILIDAD**|**Estabilidad: Estable**<br>**Condiciones que se deben evitar:**Contacto con materiales incompatibles, calor<br>extremo.<br>**Incopatibilidad (material que se deben avitar):**Oxidentas fuertes en general<br>(alcalis, acidos fuertes, peroxidos, oxigeno liquido, etc) <br>**Productos peligrosos de la combustion: Oxido de carbono, oxidos de azufre,**<br>**aldehidos y otros gases no definidos, humos metalicos.**<br>|
+|**14. INFORMACIÓN**<br>**TOXICOLOGICA**|Toxicidad a corto plazo: N.D<br>Toxicidad a largo plazo: N.D<br>Efectos locales o sistematicos: Principalmente irritacion en piel y ojos.<br>Sensibilizacion alergica: N.D<br>|
+|**15. CONSIDERACIONES SOBRE**<br>**DISPOSICIÓN DE DESECHOS**|**Inestabilidad:**Estable.<br>**Persistencia / degrabilidad:**N.D<br>**Bio-acumulacio:**N.D<br>**Efectos sobre el medio ambiente:**puede contamibar el ambiente acuatico y<br>afectar a los organismos que lo habitan, debido a la alteracion de transferencias<br>de oxigeno en el ecosistema y/o de los propios organismos vivos.<br>|
+|**16. CONSIDERACIONES SOBRE**<br>**LA DISPOSICION FINAL.**|**Metodos recomendados y aprobados por la normativa chilena para disponer**<br>**de la sustancia, residuos, desechos:** Proceder de acuerdo a politicas de la<br>empresa.<br>**Metodos recomendados y aprobados por la normativa chilena para la**<br>**eliminacion de envases/embalajes contaminados:** Disponer los envases según<br>politicas internas de la empresa. NOTA: los recipientes vacios pueden contener<br>residuos, gases y/o nieblas por lao que deben ser adecuadamente dispuestos.|
+|**17. INFORMACION PARA EL**<br>**TRANSPORTE.**|N.D<br>|
+|**18. NORMAS VIGENTES**|Clasificación, etiquetado y rotulado debe presentarse como residuo peligroso<br>por la presencia de Hidrocarburos.<br>|
+|**19. OTRA INFORMACION.**|**Sin datos**|
+
+|20. ETQIEUTADO|Col2|Nombre del residuo: Tierra contaminada o con restos de aceite o HC|Col4|Col5|
+|---|---|---|---|---|
+|**20. ETQIEUTADO**||**Código de identificación del residuo: III.4**<br>|**Código de identificación del residuo: III.4**<br>|**Código de identificación del residuo: III.4**<br>|
+|**20. ETQIEUTADO**||**Proceso que dio origen: Operación de carga y descarga de combustible**<br>|**Proceso que dio origen: Operación de carga y descarga de combustible**<br>|**Proceso que dio origen: Operación de carga y descarga de combustible**<br>|
+|**20. ETQIEUTADO**||**Datos del titular del residuo**<br>Nombre: Central Termopacifico GENPAC SPA<br>Dirección : Ruta C-397 Km 0,8 Sector Ojancos Viejos<br>Telefono: 052- 2524047 052-2524046<br>|**Datos del titular del residuo**<br>Nombre: Central Termopacifico GENPAC SPA<br>Dirección : Ruta C-397 Km 0,8 Sector Ojancos Viejos<br>Telefono: 052- 2524047 052-2524046<br>|**Datos del titular del residuo**<br>Nombre: Central Termopacifico GENPAC SPA<br>Dirección : Ruta C-397 Km 0,8 Sector Ojancos Viejos<br>Telefono: 052- 2524047 052-2524046<br>|
+|**20. ETQIEUTADO**||**Fecha de ubicación del sitio de Almacenamiento Transitorio Bodega RESPEL**<br>|**Fecha de ubicación del sitio de Almacenamiento Transitorio Bodega RESPEL**<br>|**Fecha de ubicación del sitio de Almacenamiento Transitorio Bodega RESPEL**<br>|
+|**20. ETQIEUTADO**||**Identificación y características de peligrosidad por la NCH 2190/93**<br>|**Identificación y características de peligrosidad por la NCH 2190/93**<br>|**Identificación y características de peligrosidad por la NCH 2190/93**<br>|
+|**20. ETQIEUTADO**||<br>**`Inflamabilidad`**<br>**`To`**|<br>**`xicidad: sustancia Peligrosa`**<br>**`N.U: 3077`**<br>|<br>**`xicidad: sustancia Peligrosa`**<br>**`N.U: 3077`**<br>|

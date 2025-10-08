@@ -1,0 +1,50 @@
+---
+title: Sin título
+author: Marco Peirano
+date: D:20230829083822-04'00'
+language: es
+type: report
+pages: 3
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|IDENTIFICACIÓN DE LA SOLICITUD|Col2|
+|---|---|
+|N° de Proceso de Conexión: 3769|N° de Solicitud(1): 2210301|
+|**IDENTIFICACIÓN PROYECTO**|**IDENTIFICACIÓN PROYECTO**|
+|Nombre del PMGD: MAUTZ<br>Fecha Formulario 3: 16/11/2022<br>Fecha Formulario 7: 13/12/2022<br>Fecha entrega ICC: 29/08/2023<br>Periodo vigencia ICC (meses): □9 □12**X** 18|Fecha de expiración ICC: 18 meses desde Formulario 15<br>Fecha entrega hito 1(2): 6 meses desde Formulario 15<br>Fecha de Actualización de ICC:<br> x Solicitud modificaciones según Formulario 15<br> □ ICC modificado por controversia<br> □ Descarte o vencimiento ICC|
+|**IDENTIFICACIÓN DE LA EMPRESA DISTRIBUIDORA**|**IDENTIFICACIÓN DE LA EMPRESA DISTRIBUIDORA**|
+|Nombre: LUZ OSORNO<br>Dirección: Eleuterio Ramirez N°705<br>Comuna: Osorno<br>Región: De Los Lagos|Teléfono: <br>Contacto email: conexion.centrales@saesa.cl<br>Código Postal: 5290000|
+|**Ingeniero Responsable**|**Ingeniero Responsable**|
+|Nombre: Miguel Angel Katny Aguilar<br>Cargo: Enc. unidad Estudios de Generación Distribuida|Teléfono: +569 65535659<br>E-mail: miguel.katny@saesa.cl|
+|**DATOS RELACIONADOS CON EL PMGD**|**DATOS RELACIONADOS CON EL PMGD**|
+|Nombre del Alimentador: MAUTZ<br>Nombre de la Subestación: La Unión<br>Energético Primario(3): Fotovoltaico<br>Tecnología de generación(4): Inversores<br>Cogeneración eficiente □Si**X** No|Dirección: Ruta T800 S/N ROL; 524-447<br>Comuna: La Unión<br>Región: Los Rios|
+|**DESCRIPCIÓN PUNTO DE CONEXIÓN**|**DESCRIPCIÓN PUNTO DE CONEXIÓN**|
+|Rótulo de estructura de distribución: C502453<br>Tipo de estructura:**X** Poste □ Cámara □ Otro<br>NODO ID Punto Conexión: 56625400<br>ID Alimentador: 420|Geo referenciado (coordenada en formato UTM,<br>WGS84)<br>X: 660053<br>Y: 5534885<br>Zona: 18 H|
+|Principales vértices del polígono(coordenada en WGS84, indicando Huso zona sur, formato UTM)<br>X1: 659.660 Y1: 5.534.705 Zona: 18 G<br>X2: 659.861 Y2: 5.534.581 Zona: 18 G<br>X3: 659.356 Y3: 5.534.113 Zona: 18 G<br>X4: 659.088 Y4: 5.534.301 Zona: 18 G<br>|Principales vértices del polígono(coordenada en WGS84, indicando Huso zona sur, formato UTM)<br>X1: 659.660 Y1: 5.534.705 Zona: 18 G<br>X2: 659.861 Y2: 5.534.581 Zona: 18 G<br>X3: 659.356 Y3: 5.534.113 Zona: 18 G<br>X4: 659.088 Y4: 5.534.301 Zona: 18 G<br>|
+|**INFORME DE CRITERIOS DE CONEXIÓN**|**INFORME DE CRITERIOS DE CONEXIÓN**|
+|□ PMGD de Impacto No Significativo (INS)<br>□ PMGD de Impacto Significativo, menor a 3MW<br>**X** PMGD mayor a 3MW|□ PMGD de Impacto No Significativo (INS)<br>□ PMGD de Impacto Significativo, menor a 3MW<br>**X** PMGD mayor a 3MW|
+
+|Se detecta congestión en Transmisión a partir de estudios: □ Si X No<br>• Congestión a nivel de transformador de subestación primaria □ Si X No<br>• Congestión a nivel de líneas de transmisión □ Si X No|Col2|
+|---|---|
+|**ICC PARA PMGD CLASIFICADOS COMO IMPACTO NO SIGNIFICATIVO**|**ICC PARA PMGD CLASIFICADOS COMO IMPACTO NO SIGNIFICATIVO**|
+|Capacidad Instalada: .........................................MVA<br>Potencia Activa a inyectar: ...............................MW<br>Predicción de energía anual: ............................MWh<br>Vida Útil de PMGD: ........................................Años<br>|Actualización ICC: Sí□ No □<br>➢ Fecha:<br>➢ Motivo:|
+|**Los siguientes antecedentes se envían junto al presente Formulario**<br>□<br>Informe de Criterios de Conexión.<br>□<br>Contrato de Conexión o modificación de este.<br>□<br>Contrato para la realización de Adecuaciones y Ajustes.<br>□ <br>Factor de referenciación de inyecciones del alimentador vigente a la fecha de emisión del ICC, según el<br>formato establecido por el Coordinador|**Los siguientes antecedentes se envían junto al presente Formulario**<br>□<br>Informe de Criterios de Conexión.<br>□<br>Contrato de Conexión o modificación de este.<br>□<br>Contrato para la realización de Adecuaciones y Ajustes.<br>□ <br>Factor de referenciación de inyecciones del alimentador vigente a la fecha de emisión del ICC, según el<br>formato establecido por el Coordinador|
+|**ICC PARA PMGD CLASIFICADOS COMO IMPACTO SIGNIFICATIVO**|**ICC PARA PMGD CLASIFICADOS COMO IMPACTO SIGNIFICATIVO**|
+|Capacidad Instalada: 9 MVA<br>Potencia activa aprobada en ICC: 9 MW<br>Predicción de energía anual: 22.560 MWh<br>Vida Útil de PMGD: 30 Años|Actualización ICC: Sí □<br>No □<br>➢ Fecha:<br>➢ Motivo:|
+|**Anexos para PMGD que producen un impacto significativo en la red:**<br>**X** <br>Informe de Criterios de Conexión.<br>**X** <br>Informe de Costos de Conexión, que debe incluir y detallar:<br>• <br>Valor presente de costo de inversión, operación y mantenimiento sin PMGD.<br>• <br>Valor presente de costo de inversión, operación y mantenimiento con PMGD.<br>**X** <br>Factor de Referenciación de Inyecciones a la fecha de emisión de ICC.<br>**X** <br>Contrato de Conexión o modificación de este.<br>**X** <br>Versiones finales de estudios de conexión.<br>**X** <br>Contrato para la realización de Obras Adicionales, Adecuaciones y Ajustes.<br>**X** <br>Cronograma de ejecución de Obras Adicionales, Adecuaciones y Ajustes.<br>X<br>Detalle de metodología utilizada para estimar la demanda de energía y antecedentes que sustentan el<br>cálculo, incluyendo el consumo histórico.<br>**X** <br>Listado de PMGD en operación o con ICC vigente considerados en el cálculo.<br>**X** <br>Antecedentes de respaldo, incluyendo modelo utilizado en simulaciones, que permitan reproducir en<br>forma íntegra los resultados obtenidos.<br>**X** <br>Detalle y desglose de las obras adicionales cubicadas por la empresa distribuidora, conforme CUDN y VNR.|**Anexos para PMGD que producen un impacto significativo en la red:**<br>**X** <br>Informe de Criterios de Conexión.<br>**X** <br>Informe de Costos de Conexión, que debe incluir y detallar:<br>• <br>Valor presente de costo de inversión, operación y mantenimiento sin PMGD.<br>• <br>Valor presente de costo de inversión, operación y mantenimiento con PMGD.<br>**X** <br>Factor de Referenciación de Inyecciones a la fecha de emisión de ICC.<br>**X** <br>Contrato de Conexión o modificación de este.<br>**X** <br>Versiones finales de estudios de conexión.<br>**X** <br>Contrato para la realización de Obras Adicionales, Adecuaciones y Ajustes.<br>**X** <br>Cronograma de ejecución de Obras Adicionales, Adecuaciones y Ajustes.<br>X<br>Detalle de metodología utilizada para estimar la demanda de energía y antecedentes que sustentan el<br>cálculo, incluyendo el consumo histórico.<br>**X** <br>Listado de PMGD en operación o con ICC vigente considerados en el cálculo.<br>**X** <br>Antecedentes de respaldo, incluyendo modelo utilizado en simulaciones, que permitan reproducir en<br>forma íntegra los resultados obtenidos.<br>**X** <br>Detalle y desglose de las obras adicionales cubicadas por la empresa distribuidora, conforme CUDN y VNR.|
+|** VALORIZACIÓN COSTOS DE CONEXIÓN**|** VALORIZACIÓN COSTOS DE CONEXIÓN**|
+|**Valorización Obras Adicionales (UF) 16.715 UF + IVA** <br>**Valorización de Adecuaciones** **(UF) 1,206 UF + 262 UF + IVA**<br>**Valorización de Ajustes (UF) 100** <br>**Valorización Costos de Conexión (suma total Costos y Ahorros) (UF) 18.283**|**Valorización Obras Adicionales (UF) 16.715 UF + IVA** <br>**Valorización de Adecuaciones** **(UF) 1,206 UF + 262 UF + IVA**<br>**Valorización de Ajustes (UF) 100** <br>**Valorización Costos de Conexión (suma total Costos y Ahorros) (UF) 18.283**|
+|**Cuadro resumen Informe de Costos de Conexión **<br>Valor presente de costo de inversión, operación y mantenimiento sin PMGD (UF): 813.-<br>Valor presente de costo de inversión, operación y mantenimiento con PMGD (UF): 17.528.-<br>Demanda actual Alimentador: 3.1 MW<br>Demanda proyectada del Alimentador: 3.7 MW<br>Años de proyección de la demanda: 10|**Cuadro resumen Informe de Costos de Conexión **<br>Valor presente de costo de inversión, operación y mantenimiento sin PMGD (UF): 813.-<br>Valor presente de costo de inversión, operación y mantenimiento con PMGD (UF): 17.528.-<br>Demanda actual Alimentador: 3.1 MW<br>Demanda proyectada del Alimentador: 3.7 MW<br>Años de proyección de la demanda: 10|
+
+|DATOS DE ENVIO|Col2|
+|---|---|
+|**Solicitante**|**Empresa Distribuidora**|
+|||
+|**FIRMA**|**FIRMA Y/O TIMBRE**|
+|Nombre Solicitante:|Nombre emisor: Miguel Angel Katny Aguilar|
+|Rut Solicitante:|Fecha de emisión: 29/09/2023|
+|Fecha de recepción:|Lugar: Osorno|
+|(1) Este campo debe ser llenado por la empresa distribuidora al ingresar formulario en plataforma.<br>(2) Hito 1 corresponde a las exigencias establecidas en el artículo 44° ,56° y 65° del D.S. N°88, en relación con la<br>tramitación de los permisos y autorizaciones necesarias para la ejecución del proyecto.<br>(3) Corresponde a si el sistema es solar, hidráulico, eólico, biomasa, fósil u otro.<br>(4) Corresponde a si el sistema está basado en sistemas fotovoltaicos, basados en inversores no fotovoltaico, máquinas<br>sincrónicas y asincrónicas, otros.<br> <br>Para más información acceda ahttps://www.sec.cl/energias-renovables-y-electromovilidad/|(1) Este campo debe ser llenado por la empresa distribuidora al ingresar formulario en plataforma.<br>(2) Hito 1 corresponde a las exigencias establecidas en el artículo 44° ,56° y 65° del D.S. N°88, en relación con la<br>tramitación de los permisos y autorizaciones necesarias para la ejecución del proyecto.<br>(3) Corresponde a si el sistema es solar, hidráulico, eólico, biomasa, fósil u otro.<br>(4) Corresponde a si el sistema está basado en sistemas fotovoltaicos, basados en inversores no fotovoltaico, máquinas<br>sincrónicas y asincrónicas, otros.<br> <br>Para más información acceda ahttps://www.sec.cl/energias-renovables-y-electromovilidad/|

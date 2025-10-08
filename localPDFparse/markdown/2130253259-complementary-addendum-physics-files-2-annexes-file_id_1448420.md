@@ -1,0 +1,5135 @@
+---
+title: Microsoft Word - Adenda N°2_La Estrella_V1_RevFinal12082015.docx
+author: Manuel Antonio Pizarro Morales
+date: D:20150817225018Z00'00'
+language: es
+type: report
+pages: 29
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+Documento
+ preparado
+ por:
+
+**TEBAL,
+ Estudios
+ e
+ ingeniería
+ ambiental**
+
+AVENIDA
+ PORTUGAL
+ 20,
+ OFICINA
+ 77,
+ SANTIAGO
+ DE
+ CHILE
+
+Teléfono +56
+ 2
+ 3702958
+
+Fax +56
+ 2
+ 3695657
+
+Email info@tebal.cl
+
+Website www.tebal.cl
+
+## REGISTRO
+ DE
+ CONTROL
+ DE
+ DOCUMENTO**
+
+|TÍTULO D EL D OCUMENTO|Col2|PARQUE E ÓLICO L A E STRELLA|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|**ID de documento**|**ID de documento**|ADENDA No 2 La Estrella|**Número de proyecto**|**Número de proyecto**|||
+|**Versión**|**Fecha**|**Detalle/Estado**|**Autor**|**Revisión**<br>**TEBAL**|**Revisión**<br>**CLIENTE**|**Aprobado**<br>**por**|
+|A|30/07/2015|VERSIÓN 1|MPM|MCF|||
+|B|17/08/2015|Final|MPM|MCF|||
+
+1
+
+## CONTENIDO
+
+1. Descripción
+ de
+ proyecto.............................................................................................................. 3
+
+2. Normativa
+ de
+ carácter
+ ambiental
+ aplicable .............................................................................. 14
+
+3. Permisos
+ Ambientales
+ Sectoriales ............................................................................................ 15
+
+4. Antecedentes
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ aquellos
+ efectos,
+ características
+ o
+circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley ............................................................................................ 19
+
+5. Ficha
+ Resumen
+ para
+ cada
+ fase
+ del
+ proyecto
+ o
+ actividad........................................................... 27
+
+6. Otras
+ consideraciones
+ relacionadas
+ con
+ el
+ proceso
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ del
+
+Proyecto ........................................................................................................................................... 28
+
+2
+
+### 1. DESCRIPCIÓN
+ DE
+ PROYECTO**
+
+**1.
+ En
+ respuesta
+ N°
+ 1
+ de
+ la
+ Adenda
+ N°
+ 1,
+ el
+ Proponente
+ declara
+ que
+ se
+ corrigió
+ la
+ posición
+ del**
+**Aerogenerador
+ N°
+ 3.
+ Al
+ respecto,
+ se
+ solicita
+ indicar
+ las
+ nuevas
+ coordenadas
+ de
+ emplazamiento**
+**de
+ esta
+ obra
+ en
+ proyección
+ UTM
+ huso
+ 19s,
+ datum
+ WGS-­‐84.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ en
+ la Tabla 1-1 siguiente
+ se
+ presentan
+ las
+ coordenadas
+definitivas
+ del
+ Aerogenerador
+ No
+ 3 :
+
+**Tabla
+ 1-­‐1** **Coordenadas
+ ubicación
+ Aerogenerador
+ No
+ 3**
+
+Aerogenerador
+ No
+ 3 6218019 258290
+
+Fuente:
+ Elaboración
+ propia
+
+**2.
+ En
+ respuesta
+ N°
+ 7,
+ letra
+ c)
+ de
+ la
+ Adenda
+ N°
+ 1,
+ el
+ Proponente
+ señala:** _**“Para
+ preservar
+ el
+ estado**_
+_**de
+ la
+ carpeta
+ se
+ mantendrá
+ una
+ humectación
+ adecuada
+ de
+ los
+ caminos
+ durante
+ la
+ fase
+ de**_
+_**construcción”.**_ **A
+ partir
+ de
+ lo
+ declarado,
+ se
+ solicita
+ precisar
+ el
+ momento
+ en
+ que
+ será**
+**implementada
+ esta
+ acción
+ ambiental,
+ cronograma
+ de
+ ejecución
+ de
+ esta
+ acción,
+ frecuencia
+ diaria**
+**de
+ riego
+ que
+ se
+ considera
+ para
+ la
+ reducción
+ de
+ emisiones,
+ tiempo
+ de
+ riego
+ en
+ cada
+ evento,**
+**volúmenes
+ de
+ agua
+ a
+ utilizar
+ (m3/día),
+ y
+ método
+ de
+ verificación
+ que
+ permitan
+ objetivamente**
+**corroborar
+ que
+ se
+ cumplió
+ con
+ lo
+ anterior.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado.
+ Tal
+ como
+ se
+ expuso
+ en
+ la **respuesta
+ No
+ 33
+ de
+ la
+ Adenda
+ No
+ 1,**
+la humectación
+ de
+ los
+ caminos
+ interiores
+ del
+ predio
+ tiene
+ por
+ objetivo
+ la
+ estabilización
+ de
+ la
+carpeta
+ de
+ rodado.
+ En
+ relación
+ a
+ esta
+ acción,
+ a
+ continuación
+ se
+ identifica
+ la
+ forma
+ en
+ que
+ esta
+ será
+implementada:
+
+ **Momento
+ y
+ lugar**
+La
+ humectación
+ se
+ realizará
+ desde
+ el
+ empalme
+ a
+ la
+ ruta
+ I-­‐120,
+ hacia
+ el
+ interior
+ del
+ predio
+ y
+ en
+todos
+ sus
+ caminos
+ interiores,
+ desde **Septiembre
+ de
+ 2016
+ a
+ Febrero
+ 2017**,
+ en
+ caso
+ de
+ confirmarse
+el
+ cronograma
+ original
+ de
+ construcción
+ y
+ durante
+ días
+ sin
+ precipitaciones.
+
+ **Frecuencia**
+La
+ frecuencia
+ de
+ riego
+ durante
+ ese
+ período
+ de
+ la
+ fase
+ de
+ construcción
+ será
+ de **2
+ veces/día.**
+
+3
+
+ **Tiempo
+ y
+ volumen
+ de
+ agua
+ a
+ utilizar**
+A
+ continuación,
+ en
+ la
+ Tabla
+ 1-­‐2
+ y
+ siguiente
+ se
+ presenta
+ una
+ estimación
+ del
+ consumo
+ de
+ agua,
+tiempo
+ y
+ cobertura
+ de
+ la
+ actividad
+ de
+ humectación
+ de
+ caminos
+ internos.
+
+**Tabla
+ 1-­‐2** **Estimación
+ cobertura
+ humectación
+ caminos
+ internos
+ fase
+ construcción**
+
+|Capacidad<br>aljibe (m3)|Caudal<br>máximo<br>riego<br>(m3/Hr)|Caminos<br>internos<br>(Km)|Velocidad<br>promedio<br>(Km/hr)|Tiempo<br>Humectación<br>C/carga (Hr)|Cobertura<br>c/carga (Km)|Distancia<br>riego 2<br>veces/día<br>(Km)|Número<br>de viajes<br>aljibe|Consumo<br>agua<br>aproximado<br>(m3 /día)|
+|---|---|---|---|---|---|---|---|---|
+|30|70|10,65|20|0,429|8,57|21,3|2,5|**74,55**|
+
+Fuente:
+ Elaboración
+ propia
+
+ **Medio
+ de
+ verificación**
+El
+ medio
+ de
+ verificación
+ consistirá
+ en
+ una
+ ficha
+ de
+ registro,
+ de
+ acuerdo
+ a
+ la
+ siguiente Tabla 1-3,
+ la
+cual
+ será
+ llenada
+ por
+ cada
+ camión
+ aljibe
+ que
+ ejecute
+ la
+ labor,
+ hasta
+ que
+ vacíe
+ por
+ completo
+ su
+carga
+ de
+ agua.
+ Además,
+ se
+ indicará
+ si
+ se
+ trata
+ de
+ la
+ primera
+ o
+ segunda
+ aplicación
+ del
+ tramo
+identificado
+ con
+ sus
+ respectivas
+ coordenadas
+ UTM.
+ Esta
+ ficha
+ se
+ encontrará
+ disponible
+ para
+labores
+ de
+ fiscalización,
+ en
+ el
+ expediente
+ de
+ la
+ actividad,
+ en
+ la
+ oficina
+ de
+ la
+ instalación
+ de
+ faena.
+
+**Tabla
+ 1-­‐3** **Ficha
+ de
+ registro
+ actividad
+ humectación
+ de
+ caminos
+ interiores**
+**PARQUE
+ EÓLICO
+ LA
+ ESTRELLA** **Humectación
+ de
+ caminos
+ interiores**
+**Encargado** **Actividad:** _**Humectación
+ de
+ caminos
+ interiores**_
+**medioambiente:**
+
+**Fecha:** **Empresa:**
+Patente de Nombre
+ Chofer: Capacidad
+Vehículo: m [3] :
+
+Ubicación Coordenada
+ Norte Coordenada
+ Este
+(UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84) (UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84)
+
+Inicio
+ Humectación
+Término
+Humectación
+
+Hora
+ de
+ inicio: Hora
+ de
+ término:
+Frecuencia
+ (marcar Primera
+con
+ x) Humectación del
+
+Primera
+Humectación del
+
+Segunda
+Humectación del
+
+4
+
+**PARQUE
+ EÓLICO
+ LA
+ ESTRELLA** **Humectación
+ de
+ caminos
+ interiores**
+tramo tramo
+
+Fuente:
+ Elaboración
+ propia
+
+Cualquier
+ modificación
+ será
+ oportunamente
+ informada
+ a
+ la
+ autoridad
+ ambiental.
+
+**3.
+ En
+ complemento
+ a
+ lo
+ indicado
+ en
+ respuesta
+ N°
+ 18,
+ letra
+ b)
+ de
+ la
+ Adenda
+ N°
+ 1,
+ se
+ solicita
+ al**
+**Proponente
+ presentar
+ un
+ plan
+ de
+ comunicación
+ a
+ la
+ comunidad,
+ que
+ dé
+ cuenta
+ de
+ las
+ acciones
+ a**
+**implementar
+ por
+ el
+ proyecto;
+ de
+ manera
+ que
+ esta
+ se
+ encuentre
+ informada
+ ante
+ eventuales**
+**desvíos,
+ interrupciones
+ o
+ cortes
+ de
+ calles,
+ producto
+ de
+ las
+ labores
+ durante
+ la
+ etapa
+ de**
+**construcción.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado.
+ El
+ titular
+ se
+ compromete
+ a
+ difundir,
+ organizar
+ y
+ realizar
+ dos
+ (2)
+reuniones
+ informativas,
+ de
+ manera
+ posterior
+ a
+ la
+ obtención
+ de
+ la
+ RCA,
+ en
+ dos
+ hitos
+ principales:
+
+1. Previo
+ al
+ inicio
+ de
+ la
+ fase
+ de
+ construcción;
+ y,
+2. Previo
+ al
+ inicio
+ de
+ la
+ fase
+ de
+ operación
+ del
+ Proyecto.
+
+Preliminarmente,
+ estas
+ reuniones
+ se
+ llevarán
+ a
+ cabo
+ en
+ el
+ sector
+ de
+ Pulín
+ en
+ la
+ comuna
+ de
+Litueche,
+ por
+ ser
+ la
+ comunidad
+ más
+ próxima
+ al
+ Proyecto [1],
+ o
+ en
+ otro
+ lugar
+ que
+ determine
+ la
+autoridad
+ comunal,
+ para
+ lo
+ cual
+ se
+ harán
+ las
+ coordinaciones
+ respectivas
+ con
+ el
+ Municipio.
+ En
+principio
+ las
+ reuniones
+ se
+ llevarán
+ a
+ cabo
+ en
+ la
+ sede
+ de
+ la
+ junta
+ de
+ vecinos
+ de
+ Pulín
+ y
+ serán
+debidamente
+ informadas
+ a
+ la
+ Superintendencia
+ de
+ Medio
+ Ambiente.
+
+En
+ dicha
+ reunión,
+ se
+ expondrá
+ el
+ cronograma
+ de
+ la
+ fase
+ de
+ construcción,
+ incluyendo
+ sus
+actividades
+ principales,
+ cortes
+ y
+ desvíos
+ de
+ tránsito
+ programados
+ para
+ carga
+ sobredimensionada,
+aspectos
+ de
+ contratación
+ de
+ mano
+ de
+ obra
+ y
+ servicios
+ locales,
+ entre
+ otros.
+ Durante
+ dicha
+ actividad,
+se
+ completará
+ una
+ lista
+ de
+ asistencia
+ y
+ un
+ registro
+ fotográfico
+ como
+ medio
+ de
+ verificación,
+ los
+cuales
+ serán
+ remitidos
+ a
+ las
+ autoridades
+ competentes.
+
+Además,
+ el
+ titular
+ se
+ compromete
+ a
+ mantener
+ un
+ panel
+ informativo
+ en
+ la
+ sede
+ de
+ la
+ junta
+ de
+vecinos
+ de
+ Pulín,
+ con
+ el
+ cronograma
+ y
+ principales
+ actividades
+ de
+ la
+ fase
+ de
+ construcción
+ del
+Proyecto
+ y
+ se
+ difundirá
+ en
+ una
+ radio
+ local
+ de
+ alcance
+ comunal,
+ un
+ aviso
+ durante
+ 3
+ días
+ de
+anticipación
+ informando
+ sobre
+ eventuales
+ cortes
+ y
+ desvíos
+ de
+ ruta.
+
+1 Se
+ aclara
+ que
+ no
+ habrá
+ tránsito
+ de
+ vehículos
+ relacionados
+ al
+ Proyecto
+ por
+ este
+ sector
+ en
+ ninguna
+ de
+ sus
+fases.
+
+5
+
+**4.
+ Se
+ solicita
+ al
+ Proponente
+ actualizar
+ la
+ Tabla
+ 1-­‐13
+ “Coordenadas
+ Subestación
+ Eléctrica”**
+**presentada
+ en
+ respuesta
+ N°
+ 24
+ de
+ la
+ Adenda
+ N°
+ 1,
+ debido
+ a
+ que
+ se
+ manifiestan
+ errores
+ en
+ las**
+**coordenadas
+ señaladas
+ (Vértice
+ A).**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ en
+ la
+ tabla
+ siguiente
+ se
+ presentan
+ las
+ coordenadas
+ corregidas
+de
+ la
+ subestación
+ eléctrica
+ del
+ Proyecto:
+
+**Tabla
+ 1-­‐4** **Coordenadas
+ ubicación
+ Subestación
+ eléctrica**
+
+A 257.394 6.218.436
+
+B 257.494 6.218.430
+
+C 257.488 6.218.330
+
+D 257.389 6.218.336
+
+Fuente:
+ Elaboración
+ propia
+
+**5.
+ En
+ relación
+ a
+ lo
+ indicado
+ en
+ respuesta
+ N°
+ 42
+ y
+ Anexo
+ G,
+ ambos
+ de
+ la
+ Adenda
+ N°
+ 1,
+ y**
+**considerando
+ la
+ vida
+ útil
+ proyectada
+ para
+ el
+ “Parque
+ Eólico
+ La
+ Estrella”
+ (20
+ años
+ según
+ lo**
+**señalado
+ en
+ el
+ punto
+ 1.3.8
+ de
+ la
+ DIA
+ “Vida
+ útil
+ del
+ proyecto”);
+ se
+ solicita
+ al
+ Proponente
+ ampliar**
+**la
+ frecuencia
+ (cantidad
+ de
+ años)
+ de
+ los
+ monitoreos
+ propuestos
+ a
+ ejecutar
+ durante
+ la
+ etapa
+ de**
+**operación
+ del
+ proyecto,
+ a
+ modo
+ de
+ ampliar
+ la
+ muestra
+ para
+ descartar
+ la
+ ocurrencia
+ potencial
+ de**
+**impactos
+ producto
+ de
+ eventuales
+ colisiones
+ de
+ aves
+ principalmente
+ con
+ la
+ línea
+ de
+ transmisión**
+**eléctrica.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ el
+ titular
+ se
+ compromete
+ a
+ efectuar
+ el
+ monitoreo
+ descrito
+ en
+ el
+Anexo
+ G
+ de
+ la
+ Adenda
+ 1
+ del
+ Proyecto,
+ el
+ que
+ será
+ trimestral
+ para
+ la
+ avifauna,
+ durante
+ los
+ primeros
+**4
+ años
+ de
+ operación** del
+ Proyecto,
+ a
+ modo
+ de
+ otorgar
+ validez
+ estadística
+ a
+ la
+ medida
+ propuesta,
+ lo
+que
+ cubriría
+ alrededor
+ de
+ un
+ 20%
+ de
+ la
+ vida
+ útil
+ del
+ proyecto.
+
+6
+
+**6.
+ En
+ el
+ punto
+ 3.3
+ del
+ Anexo
+ G
+ de
+ la
+ Adenda
+ N°
+ 1
+ “Análisis
+ de
+ Afectación,
+ Plan
+ de
+ Monitoreo
+ y**
+**Contingencias
+ de
+ Aves
+ Parque
+ Eólico
+ La
+ Estrella”,
+ se
+ señala
+ lo
+ siguiente:**
+**a.** _**“3)
+ Instalación
+ de
+ objetos
+ que
+ realcen
+ la
+ visibilidad,
+ como
+ bolas
+ marcadas,
+ elementos
+ de**_
+_**disuasión
+ de
+ aves
+ o
+ desviadores”**_ **.**
+**b.** _**“6)
+ Con
+ relación
+ al
+ cableado
+ de
+ la
+ línea
+ aérea,
+ se
+ utilizarán
+ dispositivos
+ de
+ exclusión
+ de
+ aves,**_
+_**por
+ ejemplo
+ espirales
+ o
+ balizas
+ para
+ señalar
+ las
+ líneas.
+ Estos
+ elementos
+ se
+ construyen
+ de**_
+_**material
+ plástico
+ y
+ en
+ colores
+ vivos”.**_
+**A
+ partir
+ de
+ lo
+ declarado
+ por
+ el
+ Proponente,
+ se
+ solicita
+ precisar
+ los
+ puntos
+ en
+ los
+ cuales
+ se**
+**instalaran
+ los
+ elementos
+ disuasivos
+ mencionados
+ (espirales,
+ balizas,
+ bolas,
+ entre
+ otros).**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado.
+ El
+ titular
+ complementa
+ la
+ información,
+ y
+ establece
+ que
+ el
+elemento
+ disuasivo
+ para
+ aves
+ que
+ utilizará
+ el
+ PE
+ La
+ Estrella,
+ consistirá
+ en
+ el
+ producto **"Firefly** "
+ o
+similar,
+ de
+ la
+ compañía
+ P&R
+ Technologies [2] (Figura
+ 1-­‐1),
+ el
+ cual
+ consiste
+ en
+ un
+ dispositivo
+ de
+movimiento,
+ luz
+ y
+ refracción,
+ el
+ cual
+ ha
+ tenido
+ buenos
+ resultados
+ en
+ aplicaciones
+ de
+infraestructura
+ en
+ Estados
+ Unidos,
+ tal
+ como
+ se
+ puede
+ apreciar
+ en
+ las
+ Figura
+ 1-­‐2
+ y
+ Figura
+ 1-­‐3
+siguientes.
+ Este
+ dispositivo
+ emite
+ una
+ luz
+ UV
+ especial
+ que
+ sólo
+ los
+ pájaros
+ pueden
+ ver
+ en
+condiciones
+ de
+ poca
+ luz
+ o
+ niebla,
+ a
+ través
+ de
+ la
+ combinación
+ de
+ 3
+ colores
+ fluorescentes
+ diseñados
+específicamente
+ para
+ la
+ visión
+ aviar,
+ además
+ de
+ brillar
+ en
+ la
+ oscuridad.
+
+2 https://pr-­‐tech.com/shop/firefly-­‐ff-­‐bird-­‐diverters
+
+7
+
+**Figura
+ 1-­‐1** **Referencia
+ dispositivo
+ "Firefly"
+ disuasivo
+ de
+ aves**
+
+Fuente:
+ P&R
+ Technologies
+
+8
+
+**Figura
+ 1-­‐2** **Dispositivo
+ Firefly
+ en
+ funcionamiento
+ en
+ infraestructura
+ eléctrica**
+
+Fuente:
+ P&R
+ Technologies
+
+9
+
+**Figura
+ 1-­‐3** **Dispositivo
+ Firefly
+ en
+ funcionamiento
+ en
+ infraestructura
+ eléctrica
+ 2**
+
+Fuente:
+ P&R
+ Technologies
+
+De
+ acuerdo
+ a
+ la
+ recomendación
+ del
+ fabricante **,
+ estos
+ elementos
+ se
+ instalarán
+ en
+ toda
+ la
+ extensión**
+**de
+ la
+ línea
+ de
+ transmisión
+ del
+ parque,
+ cada
+ 10
+ metros
+ como
+ se
+ observa
+ en
+ la** Figura
+ 1-­‐4 **,**
+**alternando
+ en
+ cada
+ uno
+ de
+ los
+ tres
+ conductores.** Lo
+ anterior,
+ sin
+ perjuicio
+ de
+ la
+ instalación
+ de
+otros
+ dispositivos
+ de
+ marcación
+ de
+ líneas,
+ tales
+ como
+ balizas
+ diurnas
+ exigidas
+ por
+ la
+ DGAC
+ para
+seguridad
+ del
+ tránsito
+ aéreo.
+
+10
+
+**Figura
+ 1-­‐4** **Recomendación
+ de
+ instalación
+ dispositivo
+ disuasivo
+ de
+ aves**
+
+Fuente:
+ P&R
+ Technologies
+
+En
+ Chile
+ en
+ tanto,
+ este
+ dispositivo
+ ha
+ sido
+ utilizado
+ en
+ la
+ línea
+ de
+ transmisión
+ del
+ Parque
+ Eólico
+"Ucuquer
+ 2",
+ por
+ Transnet
+ S.A.
+ para
+ la
+ sección
+ de
+ la
+ línea
+ sobre
+ el
+ cruce
+ del
+ río
+ Rapel
+ por
+aproximadamente
+ 500
+ m
+ (Figura
+ 1-­‐5)
+
+11
+
+**Figura
+ 1-­‐5** **Dispositivo
+ "Firefly"
+ instalado
+ en
+ linea
+ sobre
+ el
+ río
+ Rapel**
+
+Fuente:
+ Elaboración
+ propia
+
+**7.
+ En
+ el
+ punto
+ 4.2.2
+ del
+ Anexo
+ G
+ de
+ la
+ Adenda
+ N°
+ 1
+ “Análisis
+ de
+ Afectación,
+ Plan
+ de
+ Monitoreo
+ y**
+**Contingencias
+ de
+ Aves
+ Parque
+ Eólico
+ La
+ Estrella”,
+ se
+ señala
+ lo
+ siguiente:** _**“Una
+ vez
+ adjudicado
+ el**_
+_**servicio
+ de
+ mantención
+ del
+ parque
+ eólico,
+ para
+ capacitar
+ al
+ personal
+ encargado,
+ se
+ contratará
+ a**_
+_**una
+ entidad
+ externa
+ para
+ realizar
+ un
+ curso
+ instructivo,
+ el
+ cual
+ incluirá
+ información
+ acerca
+ de
+ las**_
+_**especias
+ de
+ avifauna
+ e
+ identificación,
+ su
+ valor
+ para
+ el
+ medioambiente
+ y
+ planes
+ de
+ contingencia**_
+_**en
+ caso
+ de
+ accidentes...”.**_ **Al
+ respecto,
+ se
+ informa
+ al
+ Proponente
+ que
+ el
+ registro
+ de
+ dicha**
+**actividad
+ de
+ capacitación
+ deberá
+ ser
+ remitido
+ para
+ efectos
+ de
+ seguimiento
+ del
+ proyecto
+ a
+ la**
+**Superintendencia
+ del
+ Medio
+ Ambiente,
+ considerando
+ acta
+ de
+ dicha
+ reunión
+ y
+ los
+ medios
+ de**
+**verificación
+ que
+ den
+ cuenta
+ de
+ su
+ ejecución,
+ tales
+ como
+ listado
+ de
+ asistentes,
+ fotografías
+ de
+ la**
+**jornada
+ de
+ instrucción,
+ entre
+ otros.**
+
+12
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado.
+ El
+ registro
+ de
+ la
+ actividad
+ de
+ capacitación
+ en
+ Fauna
+ silvestre
+para
+ el
+ personal
+ de
+ operación,
+ será
+ remitido
+ en
+ la
+ forma
+ correspondiente
+ a
+ la
+ Superintendencia
+del
+ Medio
+ Ambiente,
+ incluyendo
+ el
+ acta
+ de
+ la
+ reunión,
+ listado
+ de
+ asistentes,
+ y
+ fotografías
+ del
+
+evento.
+
+**8.
+ En
+ el
+ punto
+ 4.2.4
+ del
+ Anexo
+ G
+ de
+ la
+ Adenda
+ N°
+ 1
+ “Análisis
+ de
+ Afectación,
+ Plan
+ de
+ Monitoreo
+ y**
+**Contingencias
+ de
+ Aves
+ Parque
+ Eólico
+ La
+ Estrella”,
+ se
+ señala
+ lo
+ siguiente:** _**“Posterior
+ a
+ cada**_
+_**campaña
+ de
+ monitoreo,
+ así
+ como
+ también
+ luego
+ del
+ registro
+ de
+ un
+ incidente
+ durante
+ las**_
+_**Jornadas
+ de
+ Mantención
+ del
+ Parque
+ y
+ en
+ un
+ plazo
+ no
+ mayor
+ a
+ 20
+ días,
+ se
+ entregarán
+ informes
+ de**_
+_**actividad
+ al
+ SAG,
+ Servicio
+ de
+ Evaluación
+ Ambiental
+ (SEA)
+ y
+ Superintendencia
+ del
+ Medio**_
+_**Ambiente
+ (SMA).
+ Posteriormente
+ Se
+ evaluará
+ la
+ eficiencia
+ De
+ las
+ Medidas
+ de
+ mitigación**_
+_**propuestas,
+ en
+ base
+ a
+ la
+ comparación
+ de
+ los
+ resultados
+ de
+ los
+ informes,
+ Con
+ información
+ de**_
+_**estadísticas
+ nacionales
+ e
+ internacionales”.**_ **Al
+ respecto,
+ se
+ indica
+ al
+ Proponente
+ que
+ a
+ partir
+ de**
+**los
+ reportes
+ proporcionados
+ a
+ la
+ Dirección
+ Regional
+ del
+ Servicio
+ Agrícola
+ y
+ Ganadero,
+ será
+ este**
+**Servicio
+ quién
+ deberá
+ pronunciarse
+ respecto
+ a
+ la
+ eficiencia
+ de
+ las
+ acciones
+ implementadas
+ para**
+**la
+ no
+ afectación
+ de
+ aves
+ producto
+ del
+ emplazamiento
+ de
+ obras
+ permanentes
+ del
+ proyecto;
+ lo**
+**anterior
+ a
+ partir
+ del
+ análisis
+ y
+ resultados
+ que
+ arrojen
+ los
+ monitoreos
+ efectuados.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ el
+ titular
+ se
+ someterá
+ al
+ criterio
+ de
+ evaluación
+ del
+ Servicio
+Agrícola
+ y
+ Ganadero
+ con
+ respecto
+ a
+ los
+ resultados
+ de
+ los
+ monitoreos
+ de
+ avifauna
+ propuestos
+ para
+el
+ Proyecto
+ y
+ la
+ eventual
+ necesidad
+ de
+ implementar
+ acciones
+
+ adicionales.
+
+13
+
+### 2. NORMATIVA
+ DE
+ CARÁCTER
+ AMBIENTAL
+ APLICABLE**
+
+**9.
+ Se
+ solicita
+ al
+ Proponente
+ incluir
+ los
+ siguientes
+ cuerpos
+ normativos
+ que
+ resultan
+ aplicables
+ al**
+**proyecto,
+ refiriéndose
+ a
+ ellos
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+ artículo
+ 19
+ del
+ D.S.
+ 40/2012,** _**“la**_
+_**descripción
+ de
+ la
+ forma
+ y
+ fases
+ en
+ las
+ que
+ se
+ dará
+ cumplimiento
+ a
+ las
+ obligaciones
+ contenidas
+ en**_
+_**la
+ normativa
+ ambiental,
+ incluyendo
+ indicadores
+ de
+ cumplimiento”**_ **:**
+
+**a.
+ Resolución
+ No
+ 138/2010
+ del
+ Gobierno
+ Regional
+ del
+ Libertador
+ General
+ Bernardo
+ O’Higgins,**
+**Plan
+ Regulador
+ Intercomunal
+ Borde
+ Costero.**
+
+|Nombre Texto<br>Normativo|Resolución No 138/2010 del Gobierno Regional del Libertador General<br>Bernardo O’Higgins, Plan Regulador Intercomunal Borde Costero.|
+|---|---|
+|**Fase de Aplicación**|Aplicable a las fases de construcción, operación y cierre.|
+|**Fiscalización**|Dirección de obras I. Municipalidad de Litueche|
+|**Artículo y/o Materia**|Artículo 1: Plan Regulador Intercomunal Borde Costero.<br>Este instrumento de Planificación Territorial, en adelante denominado PRI,<br>regula el desarrollo físico de las áreas urbanas y rurales de las comunas de<br>Navidad, Litueche, Pichilemu y Paredones, para el total de sus límites<br>administrativos que por sus relaciones se integran en una unidad urbana.|
+|**Relación con el**<br>**Proyecto**|Una parte de las obras del Proyecto "Parque Eólico La Estrella", la subestación de<br>derivación y una parte de la línea de transmisión de media tensión, se ubica<br>dentro de los límites administrativos de la comuna de Litueche y específicamente<br>dentro del uso de suelo Área Rural (AR) del Plan Regulador Intercomunal Borde<br>Costero.|
+|**Forma de cumplimiento**|Al respecto, de acuerdo a lo señalado en el artículo 2.1.29. de la Ordenanza<br>General de Urbanismo y Construcciones (OGUC), aprobada por el decreto N° 47,<br>de 1992, del Ministerio de Vivienda y Urbanismo, el tipo de uso infraestructura<br>energética se entenderá siempre admitida y se sujetarán a las disposiciones que<br>establezcan los organismos competentes. Para el caso del área rural de los<br>planes reguladores intercomunales o metropolitanos, dichas instalaciones o<br>edificaciones estarán siempre admitidas y se sujetarán a las disposiciones que se<br>indican.<br>El Proyecto se somete al Sistema de Evaluación de Impacto Ambiental bajo la<br>forma de una Declaración de Impacto Ambiental.|
+|**Indicador de**<br>**cumplimiento**|El cumplimiento de las normas, condiciones y medidas que disponga la<br>Resolución de Calificación Ambiental del proyecto|
+
+Fuente:
+ Elaboración
+ propia
+
+14
+
+### 3. PERMISOS
+ AMBIENTALES
+ SECTORIALES**
+
+**PERMISO
+ AMBIENTAL
+ SECTORIAL
+ 149**
+**10.
+ En
+ el
+ estudio
+ técnico
+ del
+ plan
+ de
+ manejo
+ corta
+ y
+ reforestación
+ de
+ plantaciones
+ para
+ ejecutar**
+**obras
+ civiles
+ -­‐
+ DL
+ 701,
+ adjunto
+ en
+ el
+ Anexo
+ E
+ de
+ la
+ Adenda
+ No1,
+ particularmente
+ en
+ el
+ punto
+ 6.3**
+**“Protección
+ contra
+ incendios
+ forestales”,
+ se
+ indica
+ como
+ medida
+ alternativa,
+ que
+ se
+ capacitará**
+**sobre
+ el
+ tema
+ al
+ personal
+ que
+ labora
+ en
+ el
+ predio.**
+**Por
+ lo
+ anterior,
+ y
+ a
+ partir
+ de
+ lo
+ expresado
+ por
+ la
+ Dirección
+ Regional
+ de
+ CONAF
+ en
+ su
+ Oficio
+ No
+ 17**
+**de
+ fecha
+ 16
+ de
+ junio
+ del
+ 2015,
+ se
+ solicita
+ como
+ acción
+ complementaria,
+ colocar
+ letreros
+ alusivos**
+**a
+ la
+ prevención
+ de
+ incendios
+ forestales
+ en
+ cada
+ entrada
+ al
+ predio,
+ así
+ como
+ colocar
+ letreros**
+**sobre
+ cómo
+ deben
+ actuar
+ los
+ trabajadores
+ en
+ caso
+ de
+ producirse
+ un
+ siniestro
+ dentro
+ del
+ predio.**
+**Estos
+ carteles
+ deben
+ colocarse
+ en
+ lugares
+ visibles
+ al
+ interior
+ del
+ predio.**
+
+**RESPUESTA:** El
+ titular
+ acoge
+ la
+ observación.
+ Se
+ instalará
+ como
+ acción
+ complementaria
+ letreros
+alusivos
+ a
+ la
+ prevención
+ de
+ incendios
+ forestales
+ en
+ cada
+ entrada
+ al
+ predio,
+ así
+ como
+ también
+letreros
+ sobre
+ cómo
+ deben
+ actuar
+ los
+ trabajadores
+ en
+ caso
+ de
+ producirse
+ un
+ siniestro
+ dentro
+ del
+predio,
+ los
+ que
+ se
+ pondrán
+ en
+ lugares
+ visibles.
+ El
+ titular
+ se
+ guiará
+ preferentemente
+ por
+ el
+ Manual
+de
+ Medidas
+ Prediales
+ de
+ Protección
+ de
+ Incendios
+ Forestales
+ de
+ Conaf.
+
+**11.
+ Se
+ solicita
+ al
+ Proponente
+ indicar
+ el
+ o
+ los
+ sectores
+ donde
+ se
+ realizará
+ la
+ reforestación,
+ los
+ que**
+**deberán
+ cumplir
+ con
+ las
+ especificaciones
+ técnicas
+ del
+ D.L
+ 701/74
+ y
+ su
+ Reglamento,
+ además
+ se**
+**deberá
+ incluir
+ la
+ respectiva
+ cartografía
+ (proyección
+ UTM,
+ huso
+ 19s,
+ datum
+ WGS-­‐
+ 84)
+ e
+ indicar
+ las**
+**medidas
+ de
+ protección
+ para
+ los
+ sectores
+ de
+ la
+ reforestación.**
+
+**RESPUESTA:** El
+ sector
+ de
+ la
+ reforestación
+ cumple
+ con
+ las
+ especificaciones
+ técnicas
+ del
+ DL
+ 701/74
+ y
+su
+ reglamento.
+
+ En
+ el **Anexo
+ F
+ -­‐“Cartografía
+ Reforestación
+ PAS
+ 149** _**”-­‐**_ se
+ muestra
+ la
+ ubicación
+ del
+sector
+ elegido
+ para
+ tales
+ fines,
+ el
+ que
+ tiene
+ una
+ superficie
+ de
+ 12,1
+ ha
+ aproximadamente,
+ de
+ las
+cuales
+ 9,7
+ ha
+ serán
+ utilizadas
+ para
+ la
+ reforestación.
+
+Las **medidas
+ de
+ protección** para
+ el
+ sector
+ de
+ reforestación
+ serán:
+
+-­‐
+ Cercar
+ el
+ sector
+ de
+ reforestación
+ y
+ procurar
+ su
+ mantención
+ en
+ el
+ tiempo,
+ con
+ el
+ fin
+ de
+ proteger
+ la
+plantación
+ de
+ la
+ acción
+ animal.
+
+-­‐
+ Realizar
+ controles
+ de
+ malezas
+ permanentes
+ hasta
+ que
+ la
+ planta
+ se
+ haya
+ establecido
+ lo
+ suficiente
+como
+ para
+ superar
+ la
+ competencia
+ por
+ nutrientes
+ y
+ agua.
+
+-­‐
+ Se
+ realizarán
+ acciones
+ preventivas
+ de
+ incendios
+ tales
+ como:
+ construcción
+ y
+ mantención
+ de
+cortafuegos
+ y
+ la
+ disposición
+ de
+ letreros
+ que
+ indiquen
+ la
+ prohibición
+ del
+ uso
+ del
+ fuego.
+
+15
+
+**PERMISO
+ AMBIENTAL
+ SECTORIAL
+ 160**
+**12.
+ En
+ complemento
+ a
+ la
+ información
+ proporcionada
+ en
+ el
+ Anexo
+ F
+ de
+ la
+ Adenda
+ No
+ 1,
+ y
+ en**
+**virtud
+ de
+ lo
+ expresado
+ por
+ la
+ SEREMI
+ de
+ Agricultura
+ de
+ esta
+ región
+ a
+ través
+ de
+ su
+ Oficio
+ No
+ 207**
+**de
+ fecha
+ 16
+ de
+ junio
+ de
+ 2015;
+ se
+ solicita
+ al
+ Proponente
+ presentar
+ tabla
+ resumen
+ con
+ el
+ detalle
+ de**
+**las
+ superficies
+ (m2)
+ de
+ cada
+ una
+ de
+ las
+ obras
+ que
+ comprenderá
+ el
+ proyecto
+ (temporales
+ y**
+**permanentes).**
+**En
+ relación
+ con
+ lo
+ anterior,
+ y
+ para
+ el
+ caso
+ particular
+ del
+ proyecto
+ se
+ deberá
+ tener
+ en**
+**consideración
+ lo
+ siguiente:
+ “** _**Las
+ centrales
+ de
+ generación
+ de
+ energía
+ forman
+ parte
+ del
+ tipo
+ de
+ uso**_
+_**de
+ suelo
+ de
+ infraestructura
+ y
+ en
+ tal
+ sentido
+ se
+ encuentran
+ reguladas
+ por
+ las
+ disposiciones**_
+_**contenidas
+ en
+ el
+ artículo
+ 2.1.29,
+ de
+ la
+ Ley
+ General
+ de
+ Urbanismo
+ y
+ Construcción
+ LGUC.
+ Cuando
+ se**_
+_**trate
+ de
+ las
+ autorizaciones
+ que
+ establece
+ el
+ artículo
+ 55
+ de
+ la
+ LGUC
+ para
+ proyectos
+ de
+ generación**_
+_**de
+ energía
+ eléctrica
+ en
+ base
+ a
+ viento,
+ los
+ que
+ por
+ su
+ características
+ contemplan
+ la
+ construcción**_
+_**de
+ aerogeneradores
+ equipados
+ con
+ sus
+ correspondientes
+ turbinas,
+ separados
+ unos
+ de
+ otros,
+ los**_
+_**que
+ pudieren
+ ocupar
+ extensas
+ superficies
+ de
+ terreno,
+ dependiendo
+ de
+ su
+ número,
+ corresponderá**_
+_**que
+ las
+ autorizaciones
+ que
+ se
+ otorguen,
+ abarquen
+ al
+ conjunto
+ de
+ todas
+ las
+ instalaciones
+ y**_
+_**edificaciones,
+ incluidos
+ cada
+ uno
+ de
+ los
+ aerogeneradores,
+ así
+ como
+ la
+ totalidad
+ de
+ las**_
+_**edificaciones
+ que
+ pudieren
+ complementar
+ la
+ actividad,
+ tales
+ como
+ oficinas,
+ viviendas
+ del**_
+_**cuidador,
+ garitas
+ u
+ otras
+ de
+ similar
+ naturaleza.
+ Además,
+ no
+ corresponde
+ que
+ las
+ autorizaciones**_
+_**se
+ otorguen
+ para
+ cada
+ uno
+ de
+ los
+ aerogeneradores
+ por
+ separado,
+ aun
+ cuando
+ estén
+ distanciados**_
+_**varios
+ metros
+ unos
+ de
+ otros,
+ así
+ como
+ tampoco
+ otorgar
+ autorización
+ a
+ la
+ totalidad
+ de
+ un
+ predio**_
+_**en
+ los
+ casos
+ que
+ las
+ instalaciones
+ y
+ edificaciones
+ ocupen
+ sólo
+ una
+ parte
+ de
+ éste”.**_
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ el
+ titular
+ presenta
+ como **Anexo
+ B** -­‐ **Actualización
+ Planos
+ PAS**
+**160-­‐** de
+ la
+ presente
+ Adenda,
+ la
+ actualización
+ de
+ los
+ planos
+ de
+ las
+ obras
+ temporales
+ como
+permanentes
+ que
+ aplican
+ al
+ referido
+ PAS,
+ incluyendo
+ coordenadas
+ de
+ ubicación.
+ Adicionalmente,
+en
+ las
+ tablas
+ a
+ continuación
+ se
+ presentan
+ los
+ cuadros
+ de
+ superficies
+ solicitados
+ por
+ la
+ autoridad.
+
+**Tabla
+ 3-­‐1** **Cuadro
+ de
+ superficies
+ instalaciones
+ temporales
+ fase
+ de
+ construción**
+
+|Instalación|Superficie (m2)|Ubicación|COORDENADAS UTM (DATUM WGS 84<br>H19)|Col5|
+|---|---|---|---|---|
+|**Oficina**|15m2|O1|E=257.372|N=6.218.267|
+|||O2|E=257.377|N=6.218.269|
+|||O3|E=257.378|N=6.218.267|
+|||O4|E=257.372|N=6.218.265|
+
+16
+
+|Instalación|Superficie (m2)|Ubicación|COORDENADAS UTM (DATUM WGS 84<br>H19)|Col5|
+|---|---|---|---|---|
+|**Comedor**|32m2|D1|E=257.362|N=6.218.268|
+|||D2|E=257.368|N=6.218.269|
+|||D3|E=257.369|N=6.218.264|
+|||D4|E=257.363|N=6.218.263|
+|Baños químicos|59m2|E1|E=257.343|N=6.218.260|
+|||E2|E=257.361|N=6.218.265|
+|||E3|E=257.361|N=6.218.262|
+|||E4|E=257.344|N=6.218.257|
+
+Fuente:
+ Elaboración
+ propia
+
+**Tabla
+ 3-­‐2** **Cuadro
+ de
+ superficies
+ Aerogeneradores**
+
+|Instalación|Superficie (m2)|Ubicación|COORDENADAS UTM (DATUM<br>WGS 84 H19)|Col5|
+|---|---|---|---|---|
+|**Aerogenerador**|380.13m2|AG1|E=257.391|N=6.218.145|
+||380.13m2|AG2|E=257.786|N=6.217.968|
+||380.13m2|AG3|E=258.290|N=6.218.019|
+||380.13m2|AG4|E=258.937|N=6.217.996|
+||380.13m2|AG5|E=259.416|N=6.218.054|
+||380.13m2|AG6|E=259.741|N=6.217.840|
+||380.13m2|AG7|E=260.085|N=6.217.817|
+||380.13m2|AG8|E=260.417|N=6.217.785|
+||380.13m2|AG9|E=260.748|N=6.217.761|
+||380.13m2|AG10|E=261.077|N=6.217.716|
+||380.13m2|AG11|E=261.407|N=6.217.734|
+||380.13m2|AG12|E=261.735|N=6.217.650|
+||380.13m2|AG13|E=257.508|N=6.216.957|
+
+17
+
+|Instalación|Superficie (m2)|Ubicación|COORDENADAS UTM (DATUM<br>WGS 84 H19)|Col5|
+|---|---|---|---|---|
+||380.13m2|AG14|E=257.930|N=6.216.855|
+||380.13m2|AG15|E=258.261|N=6.216.927|
+||380.13m2|AG16|E=258.597|N=6.216.880|
+||380.13m2|AG17|E=258.942|N=6.216.818|
+||380.13m2|AG18|E=259.277|N=6.216.611|
+||380.13m2|AG19|E=259.605|N=6.216.552|
+||380.13m2|AG20|E=260.236|N=6.216.751|
+|**TOTAL**|**7602.6m2**||||
+
+Fuente:
+ Elaboración
+ propia
+
+**Tabla
+ 3-­‐3** **Cuadro
+ de
+ superficies
+ obras
+ permanentes
+ fase
+ operación**
+
+|Instalación|Superficie (m2)|Ubicación|COORDENADAS UTM (DATUM WGS 84<br>H19)|Col5|
+|---|---|---|---|---|
+|**Bodegas**|105m2|B1|E=257.371|N=6.218.433|
+|||B2|E=257.388|N=6.218.432|
+|||B3|E=257.388|N=6.218.426|
+|||B4|E=257.371|N=6.218.427|
+|**Sala Control**|30m2|C1|E=257.485|N=6.218.426|
+|||C2|E=257.490|N=6.218.426|
+|||C3|E=257.489|N=6.218.420|
+|||C4<br>|E=257.484<br>|N=6.218.420|
+
+Fuente:
+ Elaboración
+ propia
+
+18
+
+### 4. ANTECEDENTES
+ QUE
+ JUSTIFIQUEN
+ LA
+ INEXISTENCIA
+ DE
+ AQUELLOS** **EFECTOS,
+ CARACTERÍSTICAS
+ O
+ CIRCUNSTANCIAS
+ DEL
+ ARTÍCULO
+ 11
+ DE** **LA
+ LEY**
+
+**13.
+ En
+ el
+ punto
+ 2.6
+ del
+ Anexo
+ H
+ de
+ la
+ Adenda
+ N°
+ 1
+ “Plan
+ de
+ perturbación
+ controlada
+ para
+ reptiles**
+**Parque
+ Eólico
+ La
+ Estrella”,
+ en
+ relación
+ a
+ las
+ capacitaciones
+ al
+ personal
+ de
+ trabajo
+ se
+ indica:** _**“Esta**_
+_**actividad
+ se
+ realizará
+ un
+ mes
+ antes
+ de
+ iniciar
+ las
+ obras
+ de
+ construcción
+ del
+ proyecto,
+ al
+ momento**_
+_**de
+ iniciar
+ y
+ a
+ los
+ 6
+ meses
+ luego
+ de
+ iniciado
+ el
+ proyecto.
+ Estará
+ a
+ cargo
+ del
+ encargado
+ de
+ medio**_
+_**ambiente
+ de
+ la
+ empresa
+ y
+ deberá
+ ser
+ documentada
+ para
+ ser
+ entregada
+ a
+ la
+ autoridad**_
+_**ambiental”.**_ **Al
+ respecto,
+ se
+ informa
+ al
+ Proponente
+ que
+ dicho
+ informe
+ que
+ dé
+ cuenta
+ de
+ la**
+**realización
+ de
+ las
+ capacitaciones
+ comprometidas,
+ deberá
+ ser
+ entregado
+ a
+ la
+ Superintendencia**
+**del
+ Medio
+ ambiente
+ y
+ a
+ la
+ Dirección
+ Regional
+ del
+ SAG,
+ en
+ un
+ plazo
+ no
+ superior
+ a
+ 30
+ días
+ a
+ partir**
+**de
+ su
+ realización.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ el
+ titular
+ entregará
+ los
+ medios
+ de
+ verificación
+ de
+ las
+capacitaciones
+ realizadas
+ al
+ personal
+ en
+ la
+ forma
+ correspondiente
+ a
+ la
+ Superintendencia
+ del
+ Medio
+ambiente
+ y
+ a
+ la
+ Dirección
+ Regional
+ del
+ SAG,
+ en
+ un
+ plazo
+ no
+ superior
+ a
+ 30
+ días
+ a
+ partir
+ de
+ su
+realización.
+
+**14.
+ A
+ partir
+ de
+ lo
+ indicado
+ en
+ respuesta
+ No
+ 55
+ y
+ Anexo
+ J
+ “Plan
+ de
+ Rescate
+ y
+ Relocalización
+ de**
+_**Calydorea
+ xyphioides**_ **”,
+ ambos
+ de
+ la
+ Adenda
+ No
+ 1,
+ se
+ solicita
+ al
+ Proponente
+ precisar
+ las**
+**siguientes
+ materias:**
+
+**a.
+ Considerando
+ que
+ se
+ propone
+ realizar
+ un
+ plan
+ de
+ manejo
+ para
+ todas
+ las
+ superficies
+ a**
+**intervenir
+ por
+ las
+ obras
+ del
+ proyecto,
+ se
+ deberá
+ presentar
+ imagen
+ gráfica
+ y
+ cuadro
+ de
+ superficie**
+**que
+ dé
+ cuenta
+ del
+ área** _**buffer**_ **en
+ la
+ cual
+ se
+ ejecutarán
+ las
+ acciones
+ de
+ escarpe
+ de
+ capa
+ vegetal.**
+
+**RESPUESTA:** En
+ la
+ siguiente
+ Figura
+ 4-­‐1,
+ se
+ presenta
+ la
+ superficie
+ del
+ Proyecto
+ en
+ las
+ que
+ se
+realizará
+ el
+ escarpe
+ de
+ la
+ capa
+ vegetal.
+ Esta
+ superficie
+ corresponde
+ a
+ la
+ totalidad
+ de
+ obras
+ del
+Proyecto
+ las
+ cuales
+ cuentan
+ con
+ un
+ buffer
+ de
+ 10
+ m.
+
+19
+
+**Figura
+ 4-­‐1** **Superficies
+ afectas
+ a
+ escarpe
+ de
+ capa
+ vegetal**
+
+Fuente:
+ Elaboración
+ propia
+
+Previo
+ a
+ la
+ construcción
+ del
+ Proyecto,
+ se
+ realizará
+ una
+ visita
+ de
+ terreno
+ en
+ la
+ época
+ de
+ floración
+ de
+la
+ especie
+
+ con
+ el
+ objetivo
+ de
+ contabilizar
+ los
+ individuos
+ y
+ marcar
+ los
+ sitios
+ específicos
+ de
+ su
+localización.
+ Posteriormente,
+
+ éstas
+ serán
+ desenterradas
+ mediante
+ pala,
+ cuidando
+ de
+ no
+ provocar
+daños
+ significativos
+ en
+ las
+ estructuras
+ de
+ reserva.
+
+20
+
+**b.
+ Definir
+ en
+ un
+ plano
+ georreferenciado
+ el
+ área
+ y
+ superficies
+ que
+ se
+ destinarán
+ para
+ la**
+**relocalización/siembra
+ de
+ los
+ cormos
+ de** _**Calydorea
+ xyphioides**_ **hallados,
+ junto
+ con
+ precisar
+ las**
+**coordenadas
+ de
+ su
+ emplazamiento.**
+
+**RESPUESTA:** En
+ el **Anexo
+ E
+ “Cartografía
+ relocalización** _**Calydorea**_ **”** se
+ encuentra
+ la
+ ubicación
+ del
+área
+ de
+ relocalización
+ de
+ la
+ especie _Calydorea
+ xyphioides_ .
+ En
+ cuanto
+ a
+ las
+ coordenadas
+ de
+referencia,
+ el
+ punto
+ central
+ del
+ área
+ de
+ relocalización,
+ en
+ coordenadas
+ UTM
+ WGS84
+ Huso
+ 19S,
+son: **Este
+ 258.777,
+ Norte
+ 6.216.560.**
+
+**c.
+ Explicar
+ el
+ procedimiento
+ de
+ manejo
+ para
+ recuperar
+ organismos
+ o
+ ejemplares
+ hallados,
+ previo**
+**a
+ la
+ intervención
+ de
+ cada
+ sector
+ predeterminado
+ (conservación
+ de
+ germoplasma,
+ tiempo**
+**permanecerán
+ en
+ acopio
+ temporal,
+ entre
+ otros
+ aspectos).**
+
+**RESPUESTA:** El
+ procedimiento
+ de
+ manejo
+ para
+ recuperar
+ organismos
+ o
+ ejemplares
+ hallados,
+ previo
+a
+ la
+ intervención
+ de
+ cada
+ sector
+ determinado,
+ se
+ explica
+ en
+ el **Anexo
+ D
+ “Protocolo
+ de
+ propagación**
+**vegetativa
+ y
+ sexual
+ de** _**Calydorea
+ xyphioides**_ **”** de
+ la
+ presente
+ Adenda.
+
+**d.
+ En
+ el
+ punto
+ 4.2
+ del
+ Anexo
+ J
+ de
+ la
+ Adenda
+ No
+ 1,
+ se
+ señala
+ que
+ el
+ número
+ de
+ individuos
+ a**
+**rescatar
+ será
+ de
+ 116,
+ esto
+ a
+ partir
+ del
+ levantamiento
+ de
+ información
+ realizado
+ en
+ el
+ año
+ 2013.**
+**Considerando
+ que
+ el
+ Proponente
+ ejecutará
+ el
+ plan
+ de
+ rescate
+ abarcando
+ todas
+ las
+ superficies
+ a**
+**intervenir
+ por
+ las
+ obras
+ del
+ proyecto,
+ situación
+ que
+ acrecienta
+ la
+ probabilidad
+ de
+ aumentar
+ el**
+**número
+ de
+ especies
+ rescatadas;
+ se
+ solicita
+ precisar
+ umbrales
+ cuantificables
+ que
+ permitan
+ definir**
+**indicadores
+ de
+ éxito
+ para
+ las
+ acciones
+ de
+ relocalización
+ de
+ especies,
+ es
+ decir,
+ indicar
+ el
+ número**
+**de
+ especies
+ recolonizadas
+ y
+ germinadas
+ que
+ se
+ considerarán
+ para
+ determinar
+ que
+ las
+ acciones**
+**propuestas
+ han
+ tenido
+ el
+ éxito
+ esperado
+ y
+ que
+ no
+ se
+ hace
+ necesario
+ la
+ implementación
+ de**
+**“acciones
+ adicionales”.**
+
+**RESPUESTA:** En
+ el
+ punto
+ 4.2
+ del
+ Anexo
+ J
+ dela
+ Adenda
+ N°1,
+ se
+ señala
+ que
+ a
+ partir
+ del
+ levantamiento
+de
+ información
+ realizado
+ en
+ el
+ año
+ 2013,
+ el
+ número
+ de
+ individuos
+ a
+ rescatar
+ es
+ de
+ 116,
+ número
+que
+ será
+ actualizado
+ previo
+ a
+ la
+ construcción
+ del
+ Proyecto,
+ en
+ donde
+ se
+ realizará
+ una
+ visita
+ de
+terreno
+ en
+ la
+ época
+ de
+ floración
+ de
+ la
+ especie,
+ con
+ el
+ objetivo
+ de contabilizar los individuos
+ y
+marcar
+ los
+ sitios
+ específicos
+ de
+ su
+ localización.
+ Como
+ indicador
+ de
+ éxito
+ se
+ propone
+ un 75% de
+éxito reproductivo
+ para
+ la
+ especie _Calydorea
+ xyphioides_,
+ en
+ base
+ a
+ los
+ individuos
+ contabilizados
+ en
+la
+ etapa
+ anterior.
+
+El
+ porcentaje
+ de
+ éxito
+ de
+ especies
+ herbáceas
+ se
+ estima
+ que
+ será
+ garantizado
+ en
+ consideración
+ a
+ las
+acciones
+ de
+ relocalización
+ que
+ se
+ adoptarán
+ en
+ terreno,
+ dentro
+ de
+ las
+ cuales
+ se
+ contempla
+ la
+ubicación
+ de
+ los
+ individuos
+ en
+ sectores
+ con
+ condiciones
+ similares
+ a
+ las
+ que
+ estaban.
+ En
+ el
+ caso
+ que
+
+21
+
+no
+ se
+ alcance
+ el
+ porcentaje
+ de
+ éxito
+ del
+ rescate,
+ como
+ acciones
+ adicionales
+ se
+ contempla
+ la
+obtención
+ de
+ semillas
+ e
+ individuos
+ de
+ un
+ proveedor
+ certificado.
+
+**e.
+ Se
+ solicita
+ al
+ proponente
+ presentar
+ Carta
+ Gantt
+ con
+ todas
+ las
+ acciones
+ que
+ considera
+ el
+ Plan**
+**de
+ Rescate
+ y
+ Relocalización
+ de
+ la
+ especie** _**Calydorea
+ xyphioides,**_ **precisando
+ época
+ o
+ momento
+ en**
+**el
+ cual
+ se
+ realizará
+ la
+ “resiembra”
+ para
+ asegurar
+ las
+ condiciones
+ óptimas
+ para
+ su
+ germinación,**
+**considerando
+ las
+ características
+ de
+ esta
+ especie.**
+
+**RESPUESTA:** El
+ titular
+ acoge
+ la
+ observación.
+ A
+ continuación
+ en
+ la
+ Figura
+ 4-­‐2
+ se
+ presenta
+ la
+ carta
+Gantt
+ con
+ las
+ acciones
+ que
+ considera
+ el
+ Plan
+ de
+ Rescate
+ y
+ Relocalización
+ de
+ la
+ especie _Calydorea_
+_xyphioides._
+
+**Tabla
+ 4-­‐1** **Carta
+ Gantt
+ Plan
+ Rescate
+ y
+ Relocalización** _**Calydorea
+ xyphioides.**_
+
+|Actividades|OCT.|Col3|Col4|Col5|NOV.|Col7|Col8|Col9|DIC.|Col11|Col12|Col13|EN.|Col15|Col16|Col17|FEB.|Col19|Col20|Col21|MAR.|Col23|Col24|Col25|ABR.|Col27|Col28|Col29|MAY.|Col31|Col32|Col33|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Visita a**<br>**terreno(Floración) **|||||||||||||||||||||||||||||||||
+|**Marcaje de los sitios**<br>**donde se localiza la**<br>**especie**|||||||||||||||||||||||||||||||||
+|**Extracción y**<br>**manipulación de los**<br>**Bulbos**|||||||||||||||||||||||||||||||||
+|**Recolecicón de**<br>**semillas**|||||||||||||||||||||||||||||||||
+|**Almacenamiento de**<br>**lassemillas **|||||||||||||||||||||||||||||||||
+|**Almacenamieto de**<br>**los Bulbos**|||||||||||||||||||||||||||||||||
+|**Tratamiento de las**<br>**semillas**|||||||||||||||||||||||||||||||||
+|**Transplante (Sujeto**<br>**a la primera lluvia)**|||||||||||||||||||||||||||||||||
+|**Siembra de las**<br>**semillas**|||||||||||||||||||||||||||||||||
+
+Fuente:
+ Elaboración
+ propia
+
+El
+ detalle
+ de
+ cada
+ actividad
+ se
+ presenta
+ en
+ el **Anexo
+ D
+ “Protocolo
+ de
+ propagación
+ vegetativa
+ y**
+**sexual
+ de** _**Calydorea
+ xyphioides**_ **”** de
+ la
+ presente
+ Adenda.
+
+22
+
+**f.
+ El
+ Proponente
+ declara
+ que
+ se
+ realizará
+ un
+ monitoreo
+ al
+ año
+ siguiente
+ del
+ depósito
+ del
+ escarpe**
+**de
+ manera
+ de
+ verificar
+ el
+ crecimiento
+ de
+ la
+ especie
+ y
+ el
+ rescate
+ efectivo
+ de
+ esta.
+ A
+ partir
+ de
+ lo**
+**anterior,
+ y
+ considerando
+ la
+ condición
+ efímera
+ de
+ la** _**Calydorea
+ xyphioides**_ **,
+ se
+ solicita
+ ampliar
+ el**
+**número
+ y
+ años
+ de
+ monitoreos
+ a
+ modo
+ de
+ que
+ estos
+ sean
+ representativos
+ para
+ la
+ evaluación
+ de**
+**las
+ acciones
+ comprometidas.**
+
+**RESPUESTA:** El
+ titular
+ acoge
+ la
+ observación.
+ Durante
+ el
+ primer
+ año
+ se
+ realizarán
+ monitoreos
+ y
+entregas
+ de
+ informes
+ con
+ periodicidad
+ cuatrimestral,
+ y
+ al
+ final
+ del
+ primer
+ año
+ se
+ entregará
+ un
+informe
+ consolidado
+ anual.
+
+Durante
+ el
+ segundo
+ año
+ se
+ realizará
+ un
+ monitoreo
+ y
+ entrega
+ de
+ informe
+ consolidado
+ anual
+ y
+durante
+ el
+ tercer
+ año
+ se
+ realizará
+ un
+ monitoreo
+ y
+ entrega
+ de
+ informe
+ consolidado
+ anual.
+ Se
+comenzará
+ a
+ contar
+ como
+ mes
+ cero
+ desde
+ que
+ se
+ realiza
+ la
+ relocalización
+ (mayo).
+
+Los
+ informes
+ técnicos
+ con
+ los
+ resultados
+ de
+ cada
+ campaña
+ de
+ monitoreo
+ contendrán
+ al
+ menos
+ la
+siguiente
+ información:
+
+ Localización
+ georreferenciada
+ de
+ cada
+ individuo
+ relocalizado.
+
+ Ubicación
+ de
+ cada
+ punto
+ donde
+ se
+ recolectaron
+ los
+ bulbos.
+
+ Tiempo
+ transcurrido
+ desde
+ la
+ implementación
+ de
+ la
+ medida
+ a
+ la
+ fecha
+ del
+ informe.
+
+ Aspectos
+ a
+ evaluar:
+ prendimiento,
+ estado
+ sanitario,
+ y
+ vigor
+ de
+ los
+ individuos.
+
+ Cantidad
+ de
+ bulbos
+ y
+ semillas
+ recolectadas.
+
+ Medios
+ de
+ verificación
+ (fotografías)
+ de
+ cada
+ sector
+ previo
+ y
+ post
+ intervención,
+ ya
+ sea
+ de
+ la
+plantación
+ y
+ colecta
+ del
+ bulbo.
+
+ Placas
+ que
+ identifiquen
+ y
+ permitan
+ distinguir
+ los
+ individuos
+ revegetados
+ de
+ los
+ que
+ crecen
+naturalmente
+ en
+ el
+ área.
+
+ Responsable
+ del
+ seguimiento
+ y
+ de
+ la
+ fiscalización.
+
+ Medidas
+ preventivas
+ y/o
+ correctivas
+ en
+ caso
+ de
+ ser
+ necesarias.
+
+ Observaciones
+
+Todos
+ los
+ monitoreos
+ comprometidos
+ se
+ entregarán
+ en
+ la
+ oportunidad
+ correspondiente
+ a
+ la
+Superintendencia
+ de
+ Medio
+ Ambiente.
+
+**g.
+ En
+ el
+ punto
+ 8
+ del
+ Anexo
+ J
+ de
+ la
+ Adenda
+ No
+ 1,
+ el
+ Proponente
+ declara
+ que
+ en
+ caso
+ de
+ que
+ el
+ Plan**
+**de
+ rescate
+ y
+ relocalización
+ no
+ alcance
+ el
+ éxito
+ esperado,
+ se
+ implementaran
+ acciones
+ adicionales**
+**tales
+ como
+ habilitación
+ de
+ un
+ área
+ de
+ resguardo
+ adicional,
+ adquisición
+ de
+ semillas,
+ cultivo
+ en**
+**invernadero
+ y/o
+ en
+ jardines
+ del
+ predio.
+ Al
+ respecto,
+ se
+ deberán
+ precisar
+ las
+ iniciativas
+ antes**
+**descritas,
+ pormenorizando
+ las
+ acciones
+ para
+ su
+ implementación,
+ plazos
+ de
+ ejecución,
+ carta**
+**Gantt
+ con
+ actividades
+ a
+ realizar,
+ identificación
+ de
+ sectores
+ destinados
+ para
+ la
+ materialización
+ de**
+**estas
+ acciones,
+ temporalidad
+ y
+ duración
+ de
+ las
+ iniciativas
+ adicionales.
+ En
+ complemento
+ a
+ lo**
+
+23
+
+**anterior,
+ se
+ informa
+ al
+ Proponente
+ que
+ a
+ partir
+ de
+ los
+ reportes
+ entregados
+ a
+ la
+ autoridad**
+**ambiental
+ (Superintendencia
+ del
+ Medio
+ Ambiente),
+ será
+ esta
+ quien
+ definirá
+ y
+ visará
+ la**
+**implementación
+ de
+ las
+ acciones
+ adicionales.**
+
+**RESPUESTA:** El
+ titular
+ acoge
+ la
+ observación
+ y
+ tiene
+ presente
+ lo
+ señalado.
+ A
+ continuación
+ se
+precisarán
+ las
+ medidas
+ adicionales.
+
+1) Obtención
+ de
+ semillas
+ e
+ individuos
+ de
+ un
+ proveedor
+ certificado,
+ privilegiando
+ alguien
+
+dentro
+ de
+ la
+ VI
+ Región.
+ Estas
+ semillas
+ serán
+ adquiridas
+ al
+ finalizar
+ el
+ primer
+ año
+ y
+ se
+ les
+realizarán
+ los
+ mismos
+ tratamientos
+ que
+ a
+ las
+ semillas
+ recolectadas
+ en
+ el
+ sitio
+ del
+ Proyecto.
+Serán
+ plantadas
+ en
+ los
+ sitios
+ en
+ donde
+ no
+ prosperaron
+ los
+ bulbos
+ o
+ semillas
+ para
+ realizar
+su
+ reemplazo,
+ los
+ que
+ serán
+ debidamente
+ marcados
+ especificando
+ que
+ corresponden
+ a
+individuos
+ del
+ segundo
+ año
+ y
+ de
+ semillas
+ adquiridas
+ por
+ un
+ proveedor.
+2) Obtención
+ de
+ individuos
+ de
+ vivero
+ de
+ un
+ proveedor
+ certificado,
+ privilegiando
+ ubicación
+
+dentro
+ de
+ la
+ VI
+ Región.
+ Estos
+ individuos
+ serán
+ adquiridos
+ al
+ finalizar
+ el
+ primer
+ año
+ y
+ se
+ les
+realizarán
+ las
+ mismas
+ actividades
+ contempladas
+ para
+ los
+ bulbos
+ recolectados
+ en
+ el
+ sitio
+ del
+Proyecto.
+ Serán
+ ubicadas
+ en
+ los
+ sitios
+ en
+ donde
+ no
+ prosperaron
+ los
+ bulbos
+ o
+ semillas
+ para
+realizar
+ su
+ reemplazo,
+ los
+ que
+ serán
+ debidamente
+ marcados
+ especificando
+ que
+corresponde
+ a
+ individuos
+ del
+ segundo
+ año
+ y
+ de
+ individuos
+ adquiridos
+ por
+ un
+ proveedor.
+
+**15.
+ En
+ el
+ Anexo
+ D
+ de
+ la
+ Adenda
+ No
+ 1,
+ se
+ realiza
+ un
+ completo
+ análisis
+ del
+ impacto
+ que
+ los
+ Parques**
+**Eólicos
+ han
+ tenido
+ en
+ el
+ turismo
+ de
+ diversos
+ países
+ a
+ nivel
+ mundial
+ y
+ también
+ en
+ el
+ caso
+ de
+ Chile,**
+**siendo
+ el
+ más
+ emblemático
+ el
+ consignado
+ en
+ el
+ punto
+ 3.2.1
+ de
+ dicho
+ anexo,
+ correspondiente
+ al**
+**proyecto
+ Canela
+ de
+ la
+ Región
+ de
+ Coquimbo.
+ Ahora
+ bien,
+ en
+ la
+ mayoría
+ de
+ los
+ casos
+ expuestos,
+ la**
+**integración
+ de
+ los
+ proyectos
+ eólicos
+ con
+ la
+ actividad
+ turística
+ fue
+ mediante
+ acciones
+ concretas,**
+**como
+ por
+ ejemplo,
+ la
+ implementación
+ de
+ equipamiento
+ turístico
+ tales
+ como
+ miradores
+ y
+ paneles**
+**interpretativos
+ sobre
+ las
+ características
+ específicas
+ del
+ proyecto.
+ A
+ partir
+ de
+ lo
+ anterior,
+ y
+ en**
+**virtud
+ de
+ lo
+ indicado
+ por
+ la
+ Dirección
+ Regional
+ de
+ SERNATUR
+ mediante
+ el
+ Oficio
+ No
+ 114
+ de
+ fecha**
+**16
+ de
+ junio
+ de
+ 2015,
+ y
+ por
+ la
+ I
+ Municipalidad
+ de
+ la
+ Estrella
+ a
+ través
+ del
+ Oficio
+ No
+ 82/221
+ de
+ fecha**
+**17
+ de
+ junio
+ de
+ 2015,
+ se
+ solicita
+ al
+ Proponente
+ precisar
+ que
+ acciones
+ u
+ obras
+ concretas**
+**implementaran
+ en
+ el
+ proyecto
+ para
+ que
+ este
+ se
+ integre
+ positivamente
+ al
+ turismo,
+ considerando**
+**la
+ existencia
+ de
+ la
+ ZOIT
+ Lago
+ Rapel.**
+
+**RESPUESTA:** Si
+ bien
+ el
+ objetivo
+ principal
+ del
+ Proyecto
+ es
+ la
+ generación
+ de
+ energía
+ renovable
+ no
+convencional,
+ el
+ titular
+ se
+ hace
+ cargo
+ de
+ la
+ legítima
+ observación
+ anterior
+ y
+ propone
+ como
+ acción
+concreta
+ como
+ aporte
+ del
+ parque
+ en
+ relación
+ a
+ la
+ actividad
+ turística
+ del
+ territorio,
+ la
+ habilitación
+de
+ equipamiento
+ turístico,
+ consistente
+ en
+ un
+ mirador
+ de
+ 400
+ m [2],
+ un
+ estacionamiento,
+ un
+ sendero
+
+24
+
+peatonal
+ y
+ paneles
+ interpretativos
+ sobre
+ el
+ Proyecto
+ instalados
+ en
+ el
+ sector
+ del
+ mirador,
+ tal
+ como
+se
+ puede
+ apreciar
+ en
+ las
+ figuras
+ siguientes.
+
+La
+ ubicación
+ seleccionada
+ otorga
+ una
+ panorámica
+ hacia
+ el
+ sector
+ de
+ Pulín
+ y
+ en
+ dirección
+ hacia
+ la
+ZOIT
+ Lago
+ Rapel,
+ además
+ de
+ obtener
+ una
+ vista
+ hacia
+ los
+ aerogeneradores
+ del
+ parque,
+ por
+ lo
+ que
+representa
+ un
+ lugar
+ atractivo
+ para
+ eventuales
+ visitantes.
+ El
+ titular
+ se
+ compromete
+ a
+ mantener
+estas
+ instalaciones
+ durante
+ toda
+ la
+ vida
+ útil
+ del
+ Proyecto.
+ El
+ acceso
+ al
+ mirador
+ será
+ libre
+ y
+ gratuito.
+
+**Figura
+ 4-­‐2** **Ubicación
+ mirador
+ turístico,
+ estacionamiento
+ y
+ sendero
+ PE
+ La
+ Estrella**
+
+Fuente:
+ Elaboración
+ propia
+
+25
+
+**Figura
+ 4-­‐3** **Ubicación
+ mirador
+ turístico
+ en
+ relación
+ a
+ los
+ aerogeneradores
+ del
+ PE
+ la
+ Estrella**
+
+Fuente:
+ Elaboración
+ propia
+
+26
+
+### 5. FICHA
+ RESUMEN
+ PARA
+ CADA
+ FASE
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD**
+
+**16.
+ En
+ consideración
+ a
+ lo
+ consignado
+ en
+ el
+ artículo
+ 19
+ del
+ D.S
+ No
+ 40/2012
+ del
+ Ministerio
+ del**
+**Medio
+ Ambiente,
+ Reglamento
+ SEIA,
+ que
+ indica:** _**“Cada
+ vez
+ que,
+ como
+ consecuencia
+ de
+ la**_
+_**presentación
+ de
+ la
+ Adenda,
+ se
+ aclare,
+ rectifique
+ o
+ amplíe
+ el
+ contenido
+ de
+ la
+ Declaración
+ de**_
+_**Impacto
+ Ambiental,
+ se
+ deberá
+ anexar
+ a
+ dicha
+ Adenda
+ la
+ actualización
+ de
+ las
+ fichas
+ que**_
+_**corresponda”.**_ **Se
+ solicita
+ al
+ Proponente
+ en
+ base
+ a
+ las
+ materias
+ de
+ consulta
+ del
+ presente
+ ICSARA,**
+**presentar
+ la
+ actualización
+ de
+ las
+ fichas
+ incorporadas
+ como
+ antecedentes
+ anexos
+ a
+ la
+ Adenda
+ No**
+**1,
+ a
+ objeto
+ de
+ facilitar
+ lo
+ anterior
+ se
+ solicita
+ presentar
+ la
+ información
+ bajo
+ el
+ siguiente
+ formato:**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ en **Anexo
+ A** **-­‐Fichas
+ Resumen-­‐** de
+ la
+ presente
+ Adenda
+ No
+ 2
+ se
+presentan
+ las
+ fichas
+ resumen
+ del
+ Proyecto
+ actualizadas
+ de
+ acuerdo
+ al
+ formato
+ solicitado.
+
+27
+
+### 6. OTRAS
+ CONSIDERACIONES
+ RELACIONADAS
+ CON
+ EL
+ PROCESO
+ DE** **EVALUACIÓN
+ DE
+ IMPACTO
+ AMBIENTAL
+ DEL
+ PROYECTO**
+
+**17.
+ Se
+ solicita
+ al
+ Proponente
+ presentar
+ los
+ Planos
+ Layout
+ Civiles
+ y
+ Planos
+ Layout
+ Eléctricos**
+**versión
+ 0
+ una
+ vez
+ recepcionada
+ las
+ obras
+ de
+ la
+ etapa
+ de
+ construcción,
+ a
+ la
+ Superintendencia
+ de**
+**Medio
+ Ambiente
+ en
+ formato
+ digital
+ AutoCAD,
+ y
+ formato
+ papel
+ tamaño
+ A1,
+ para
+ efectos
+ de**
+**corroborar
+ que
+ el
+ proyecto
+ fue
+ ejecutado
+ conforme
+ a
+ las
+ condiciones
+ técnicas
+ comprometidas
+ y**
+**declaradas
+ en
+ la
+ presente
+ evaluación
+ ambiental.**
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ el
+ titular
+ entregará
+ la
+ información
+ a
+ la
+ Superintendencia
+ de
+Medio
+ Ambiente,
+ en
+ el
+ formato
+ solicitado,
+ una
+ vez
+ recepcionadas
+ las
+ obras
+ de
+ la
+ fase
+ de
+construcción
+ del
+ Proyecto
+ para
+ efectos
+ de
+ fiscalización.
+
+28

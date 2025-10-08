@@ -1,0 +1,27 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20150726205723
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|B<br>A A<br>B<br>2.#06#(70&#%+10'52.#6#(14/#<br>2.#06#&'#4/#&74#5 572'4+14'+0('4+14<br>(70&#%+102.#6#(14/#5'%%+¬0$Ä$<br>C C<br>(70&#%+102.#6#(14/#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0$Ä$<br>5'%%+102'&'56#.<br>NOTAS GENERALES:<br>1.- DIMENSIONES EN CM.<br>2.- MATERIALES:<br>+250,*Ï1+&21 &21)<br>ACERO A63-42H<br>+250,*Ï1'((03/$17,//$'2+<br>ACERO SAE1020 (PERNOS DE ANCLAJE)<br>3.- (/5(//(1262%5(/$)81'$&,Ï1'(%(5È6(5&203$&7$'2<br>+$67$$/&$1=$581$'(16,'$'0Ë1,0$'(7P<br>4.- /$6/21*,78'(6'(),(5526'(%(5È16(5<br>RATIFICADAS EN OBRA.<br>5.- LAS COTAS PREVALECEN SOBRE EL DIBUJO.<br>6.- (/6(//2'()81'$&,Ï1'(%(5È7(1(5<br>81$5(6,67(1&,$0Ë1,0$'(.*&0 &'62'401<br>$352%$'2325810(&È1,&2'(68(/26</$,72<br>7.- RECUBRIMIENTO: - ZAPATA: 5 CM %146'%Ä%<br>- PEDESTAL: 5CM<br>N O R T E<br>#Ä<br>2CKNEQCKNNQ2CKNEQCKNNQ<br>6CTWIWKTK6CTWIWKTK<br>6CTWIWKTG6CTWIWKTG|Col2|Col3|
+|---|---|---|
+||||
+
+|B<br>A A<br>B<br>2.#06#(70&#%+10'52.#6#(14/#<br>2.#06#&'#4/#&74#5 572'4+14'+0('4+14<br>(70&#%+102.#6#(14/#5'%%+¬0$Ä$<br>C C<br>(70&#%+102.#6#(14/#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0$Ä$<br>5'%%+102'&'56#.<br>NOTAS GENERALES:<br>1.- DIMENSIONES EN CM.<br>2.- MATERIALES:<br>+250,*Ï1+&21 &21)<br>ACERO A63-42H<br>+250,*Ï1'((03/$17,//$'2+<br>ACERO SAE1020 (PERNOS DE ANCLAJE)<br>3.- (/5(//(1262%5(/$)81'$&,Ï1'(%(5È6(5&203$&7$'2<br>+$67$$/&$1=$581$'(16,'$'0Ë1,0$'(7P<br>4.- /$6/21*,78'(6'(),(5526'(%(5È16(5<br>RATIFICADAS EN OBRA.<br>5.- LAS COTAS PREVALECEN SOBRE EL DIBUJO.<br>6.- (/6(//2'()81'$&,Ï1'(%(5È7(1(5<br>81$5(6,67(1&,$0Ë1,0$'(.*&0 &'62'401<br>$352%$'2325810(&È1,&2'(68(/26</$,72<br>7.- RECUBRIMIENTO: - ZAPATA: 5 CM %146'%Ä%<br>- PEDESTAL: 5CM<br>N O R T E<br>#Ä<br>2CKNEQCKNNQ2CKNEQCKNNQ<br>6CTWIWKTK6CTWIWKTK<br>6CTWIWKTG6CTWIWKTG|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|(70&#%+102.#6#(14/#5'%%+¬0#Ä#<br>&'62'401<br>2.#06#(70&#%+10'52.#6#(14/#<br>%146'%Ä%<br>5'%%+102'&'56#.<br>(70&#%+102.#6#(14/#5'%%+¬0$Ä$<br>&'6#..'&''0(+'44#&74#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0$Ä$<br>2.#06#&'#4/#&74#5
+572'4+14'+0('4+14<br>A<br>A<br>B<br>B<br>NOTAS GENERALES:<br>4.- /$6/21*,78'(6'(),(5526'(%(5È16(5<br>RATIFICADAS EN OBRA.<br>5.- LAS COTAS PREVALECEN SOBRE EL DIBUJO.<br>DIMENSIONES EN CM.<br>3.- (/5(//(1262%5(/$)81'$&,Ï1'(%(5È6(5&203$&7$'2<br>+$67$$/&$1=$581$'(16,'$'0Ë1,0$'(7P<br>2.- MATERIALES:<br>+250,*Ï1+&21
+&21)<br>ACERO A63-42H<br>+250,*Ï1'((03/$17,//$'2+<br>ACERO SAE1020 (PERNOS DE ANCLAJE)<br>1.-<br>6.- (/6(//2'()81'$&,Ï1'(%(5È7(1(5<br>81$5(6,67(1&,$0Ë1,0$'(.*&0<br>$352%$'2325810(&È1,&2'(68(/26</$,72<br>7.- RECUBRIMIENTO: - ZAPATA: 5 CM<br> - PEDESTAL: 5CM<br>C<br>C<br>#Ä<br>6CTWIWKTK6CTWIWKTK<br>6CTWIWKTG6CTWIWKTG<br>2CKNEQCKNNQ2CKNEQCKNNQ<br>NORTE||||||#Ä<br>6CTWIWKTK6CTWIWKTK<br>6CTWIWKTG6CTWIWKTG<br>2CKNEQCKNNQ2CKNEQCKNNQ||
+|(70&#%+102.#6#(14/#5'%%+¬0#Ä#<br>&'62'401<br>2.#06#(70&#%+10'52.#6#(14/#<br>%146'%Ä%<br>5'%%+102'&'56#.<br>(70&#%+102.#6#(14/#5'%%+¬0$Ä$<br>&'6#..'&''0(+'44#&74#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0$Ä$<br>2.#06#&'#4/#&74#5
+572'4+14'+0('4+14<br>A<br>A<br>B<br>B<br>NOTAS GENERALES:<br>4.- /$6/21*,78'(6'(),(5526'(%(5È16(5<br>RATIFICADAS EN OBRA.<br>5.- LAS COTAS PREVALECEN SOBRE EL DIBUJO.<br>DIMENSIONES EN CM.<br>3.- (/5(//(1262%5(/$)81'$&,Ï1'(%(5È6(5&203$&7$'2<br>+$67$$/&$1=$581$'(16,'$'0Ë1,0$'(7P<br>2.- MATERIALES:<br>+250,*Ï1+&21
+&21)<br>ACERO A63-42H<br>+250,*Ï1'((03/$17,//$'2+<br>ACERO SAE1020 (PERNOS DE ANCLAJE)<br>1.-<br>6.- (/6(//2'()81'$&,Ï1'(%(5È7(1(5<br>81$5(6,67(1&,$0Ë1,0$'(.*&0<br>$352%$'2325810(&È1,&2'(68(/26</$,72<br>7.- RECUBRIMIENTO: - ZAPATA: 5 CM<br> - PEDESTAL: 5CM<br>C<br>C<br>#Ä<br>6CTWIWKTK6CTWIWKTK<br>6CTWIWKTG6CTWIWKTG<br>2CKNEQCKNNQ2CKNEQCKNNQ<br>NORTE||||||||
+|(70&#%+102.#6#(14/#5'%%+¬0#Ä#<br>&'62'401<br>2.#06#(70&#%+10'52.#6#(14/#<br>%146'%Ä%<br>5'%%+102'&'56#.<br>(70&#%+102.#6#(14/#5'%%+¬0$Ä$<br>&'6#..'&''0(+'44#&74#5'%%+¬0#Ä#<br>&'6#..'&''0(+'44#&74#5'%%+¬0$Ä$<br>2.#06#&'#4/#&74#5
+572'4+14'+0('4+14<br>A<br>A<br>B<br>B<br>NOTAS GENERALES:<br>4.- /$6/21*,78'(6'(),(5526'(%(5È16(5<br>RATIFICADAS EN OBRA.<br>5.- LAS COTAS PREVALECEN SOBRE EL DIBUJO.<br>DIMENSIONES EN CM.<br>3.- (/5(//(1262%5(/$)81'$&,Ï1'(%(5È6(5&203$&7$'2<br>+$67$$/&$1=$581$'(16,'$'0Ë1,0$'(7P<br>2.- MATERIALES:<br>+250,*Ï1+&21
+&21)<br>ACERO A63-42H<br>+250,*Ï1'((03/$17,//$'2+<br>ACERO SAE1020 (PERNOS DE ANCLAJE)<br>1.-<br>6.- (/6(//2'()81'$&,Ï1'(%(5È7(1(5<br>81$5(6,67(1&,$0Ë1,0$'(.*&0<br>$352%$'2325810(&È1,&2'(68(/26</$,72<br>7.- RECUBRIMIENTO: - ZAPATA: 5 CM<br> - PEDESTAL: 5CM<br>C<br>C<br>#Ä<br>6CTWIWKTK6CTWIWKTK<br>6CTWIWKTG6CTWIWKTG<br>2CKNEQCKNNQ2CKNEQCKNNQ<br>NORTE||||||||

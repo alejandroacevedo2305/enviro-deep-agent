@@ -1,0 +1,221 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20220921121828-03'00'
+language: es
+type: report
+pages: 4
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - CERTIFICADO DE INFORMACIONES PREVIAS
+-->
+
+(C.I.P.-1.4.4)
+FORMULARIO 5.2.
+
+# CERTIFICADO DE INFORMACIONES PREVIAS
+
+**DIRECCIÓN DE OBRAS MUNICIPALES**
+
+**MUNICIPALIDAD DE RANCAGUA**
+
+**REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS**
+
+**Urbano** **Rural** **Extensión Urbana**
+
+|1.- IDENTIFICACIÓN DE LA PROPIEDAD (CERTIFICADO|Col2|Col3|Col4|O DE NÚMERO)|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**A LA PROPIEDAD UBICADA EN**|**A LA PROPIEDAD UBICADA EN**|**A LA PROPIEDAD UBICADA EN**|**A LA PROPIEDAD UBICADA EN**|**EL SOL**|**EL SOL**|**EL SOL**|**EL SOL**|**EL SOL**|**EL SOL**|**EL SOL**|**EL SOL**|
+|**LOTEO**|||||||**MANZANA**|||**LOTE**||
+|**ROL S.I.I. No**|**1408-38**|**ESTADO ROL**|**VIGENTE**|**VIGENTE**|**ROL MATRIZ**|**----------**|**LE HA SIDO ASIGNADO EL No**|**LE HA SIDO ASIGNADO EL No**|**02575 PC-4**|**02575 PC-4**|**02575 PC-4**|
+|**OBS. PREDIO**||||||||||||
+
+**2.- INSTRUMENTOS DE PLANIFICACIÓN APLICABLES**
+
+|PLAN REGULADOR INTERCOMUNAL O METROPOLITANO|Col2|Col3|Col4|----------|Col6|Col7|FECHA|----------|
+|---|---|---|---|---|---|---|---|---|
+|**PLAN REGULADOR COMUNAL**|**PLAN REGULADOR COMUNAL**|**PLAN REGULADOR COMUNAL**|**PLAN REGULADOR COMUNAL**|**RESOL. MINVU N° 20**|**RESOL. MINVU N° 20**|**RESOL. MINVU N° 20**|**FECHA**|**20/08/1990**|
+|**PLAN SECCIONAL**|**PLAN SECCIONAL**|**PLAN SECCIONAL**|**PLAN SECCIONAL**|**----------**|**----------**|**----------**|**FECHA**|**----------**|
+|**PLANO SECCIONAL**|**PLANO SECCIONAL**|**PLANO SECCIONAL**|**PLANO SECCIONAL**|**----------**|**----------**|**----------**|**FECHA**|**----------**|
+|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|**ÁREA DONDE SE UBICA EL TERRENO**|
+|**U**|**RBANO**<br>**URBANO**|**R**|**URAL**<br>**RURAL**|**URAL**<br>**RURAL**|**E**|**XTENSIÓN URBANA**<br>**EXTENSIÓNRBANA**|**XTENSIÓN URBANA**<br>**EXTENSIÓNRBANA**|**XTENSIÓN URBANA**<br>**EXTENSIÓNRBANA**|
+
+**3.- DECLARATORIA POSTERGACIÓN DE PERMISO (Art. 117 LGUC)**
+
+|PLAZO DE VIGENCIA|Col2|Col3|Col4|
+|---|---|---|---|
+|**DECRETO O RESOLUCIÓN No**||||
+|**FECHA**||||
+|**4.-** Deberá acompañar informe sobre calidad de subsuelo (ART. 5.1.15 O.G.U.C.)|**4.-** Deberá acompañar informe sobre calidad de subsuelo (ART. 5.1.15 O.G.U.C.)|**SI**<br>SI|**NO**<br>NO|
+
+**5.- NORMAS URBANÍSTICAS** (En caso necesario se adjunta hoja anexa)
+**5.1.- USOS DE SUELO PRC**
+
+|USO SOLICITADO: COMPRA - VENTA|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|**ZONA O SUBZONA EN QUE SE EMPLAZA EL TERRENO**|**ZONA O SUBZONA EN QUE SE EMPLAZA EL TERRENO**|**EX2**|**EX2**|**EX2**|**EX2**|
+|**USOS DE SUELO PERMITIDOS**<br>VIVIENDA; Equipamiento de escala regional e interurbana, comunal y vecinal de: SALUD, EDUCACION, CULTO, CULTURA, ORGANIZACION COMUNITARIA, AREAS VERDES,<br>DEPORTES, ESPARCIMIENTO y TURISMO, COMERCIO MINORISTA, SERVICIOS PUBLICOS, SERVICIOS PROFESIONALES Y SERVICIOS ARTESANALES, con excepción de lo<br>indicado como prohibido; Equipamiento de escala comunal y vecinal de: SEGURIDAD, con excepción de lo indicado como prohibido; TRANSPORTE de escala regional y comunal, salvo lo<br>indicado como prohibido; ALMACENAMIENTO INOFENSIVO; TALLERES INDUSTRIALES INOFENSIVOS.<br>**USOS DE SUELO PROHIBIDOS**<br>Equipamiento de escala regional e interurbana de: SEGURIDAD y además TERMINALES DE DISTRIBUCION; Equipamiento de escala comunal de: CARCELES, QUINTAS DE RECREO,<br>CABARETS, HOSPEDERIAS y MOTELES; TRANSPORTE de escala regional e interurbana de: TERMINALES FERROVIARIOS, RODOVIARIOS, AGROPECUARIOS, PESQUEROS;<br>INDUSTRIAS; ALMACENAMIENTO MOLESTO; TALLERES INDUSTRIALES MOLESTOS.|**USOS DE SUELO PERMITIDOS**<br>VIVIENDA; Equipamiento de escala regional e interurbana, comunal y vecinal de: SALUD, EDUCACION, CULTO, CULTURA, ORGANIZACION COMUNITARIA, AREAS VERDES,<br>DEPORTES, ESPARCIMIENTO y TURISMO, COMERCIO MINORISTA, SERVICIOS PUBLICOS, SERVICIOS PROFESIONALES Y SERVICIOS ARTESANALES, con excepción de lo<br>indicado como prohibido; Equipamiento de escala comunal y vecinal de: SEGURIDAD, con excepción de lo indicado como prohibido; TRANSPORTE de escala regional y comunal, salvo lo<br>indicado como prohibido; ALMACENAMIENTO INOFENSIVO; TALLERES INDUSTRIALES INOFENSIVOS.<br>**USOS DE SUELO PROHIBIDOS**<br>Equipamiento de escala regional e interurbana de: SEGURIDAD y además TERMINALES DE DISTRIBUCION; Equipamiento de escala comunal de: CARCELES, QUINTAS DE RECREO,<br>CABARETS, HOSPEDERIAS y MOTELES; TRANSPORTE de escala regional e interurbana de: TERMINALES FERROVIARIOS, RODOVIARIOS, AGROPECUARIOS, PESQUEROS;<br>INDUSTRIAS; ALMACENAMIENTO MOLESTO; TALLERES INDUSTRIALES MOLESTOS.|**USOS DE SUELO PERMITIDOS**<br>VIVIENDA; Equipamiento de escala regional e interurbana, comunal y vecinal de: SALUD, EDUCACION, CULTO, CULTURA, ORGANIZACION COMUNITARIA, AREAS VERDES,<br>DEPORTES, ESPARCIMIENTO y TURISMO, COMERCIO MINORISTA, SERVICIOS PUBLICOS, SERVICIOS PROFESIONALES Y SERVICIOS ARTESANALES, con excepción de lo<br>indicado como prohibido; Equipamiento de escala comunal y vecinal de: SEGURIDAD, con excepción de lo indicado como prohibido; TRANSPORTE de escala regional y comunal, salvo lo<br>indicado como prohibido; ALMACENAMIENTO INOFENSIVO; TALLERES INDUSTRIALES INOFENSIVOS.<br>**USOS DE SUELO PROHIBIDOS**<br>Equipamiento de escala regional e interurbana de: SEGURIDAD y además TERMINALES DE DISTRIBUCION; Equipamiento de escala comunal de: CARCELES, QUINTAS DE RECREO,<br>CABARETS, HOSPEDERIAS y MOTELES; TRANSPORTE de escala regional e interurbana de: TERMINALES FERROVIARIOS, RODOVIARIOS, AGROPECUARIOS, PESQUEROS;<br>INDUSTRIAS; ALMACENAMIENTO MOLESTO; TALLERES INDUSTRIALES MOLESTOS.|**USOS DE SUELO PERMITIDOS**<br>VIVIENDA; Equipamiento de escala regional e interurbana, comunal y vecinal de: SALUD, EDUCACION, CULTO, CULTURA, ORGANIZACION COMUNITARIA, AREAS VERDES,<br>DEPORTES, ESPARCIMIENTO y TURISMO, COMERCIO MINORISTA, SERVICIOS PUBLICOS, SERVICIOS PROFESIONALES Y SERVICIOS ARTESANALES, con excepción de lo<br>indicado como prohibido; Equipamiento de escala comunal y vecinal de: SEGURIDAD, con excepción de lo indicado como prohibido; TRANSPORTE de escala regional y comunal, salvo lo<br>indicado como prohibido; ALMACENAMIENTO INOFENSIVO; TALLERES INDUSTRIALES INOFENSIVOS.<br>**USOS DE SUELO PROHIBIDOS**<br>Equipamiento de escala regional e interurbana de: SEGURIDAD y además TERMINALES DE DISTRIBUCION; Equipamiento de escala comunal de: CARCELES, QUINTAS DE RECREO,<br>CABARETS, HOSPEDERIAS y MOTELES; TRANSPORTE de escala regional e interurbana de: TERMINALES FERROVIARIOS, RODOVIARIOS, AGROPECUARIOS, PESQUEROS;<br>INDUSTRIAS; ALMACENAMIENTO MOLESTO; TALLERES INDUSTRIALES MOLESTOS.|**USOS DE SUELO PERMITIDOS**<br>VIVIENDA; Equipamiento de escala regional e interurbana, comunal y vecinal de: SALUD, EDUCACION, CULTO, CULTURA, ORGANIZACION COMUNITARIA, AREAS VERDES,<br>DEPORTES, ESPARCIMIENTO y TURISMO, COMERCIO MINORISTA, SERVICIOS PUBLICOS, SERVICIOS PROFESIONALES Y SERVICIOS ARTESANALES, con excepción de lo<br>indicado como prohibido; Equipamiento de escala comunal y vecinal de: SEGURIDAD, con excepción de lo indicado como prohibido; TRANSPORTE de escala regional y comunal, salvo lo<br>indicado como prohibido; ALMACENAMIENTO INOFENSIVO; TALLERES INDUSTRIALES INOFENSIVOS.<br>**USOS DE SUELO PROHIBIDOS**<br>Equipamiento de escala regional e interurbana de: SEGURIDAD y además TERMINALES DE DISTRIBUCION; Equipamiento de escala comunal de: CARCELES, QUINTAS DE RECREO,<br>CABARETS, HOSPEDERIAS y MOTELES; TRANSPORTE de escala regional e interurbana de: TERMINALES FERROVIARIOS, RODOVIARIOS, AGROPECUARIOS, PESQUEROS;<br>INDUSTRIAS; ALMACENAMIENTO MOLESTO; TALLERES INDUSTRIALES MOLESTOS.|**USOS DE SUELO PERMITIDOS**<br>VIVIENDA; Equipamiento de escala regional e interurbana, comunal y vecinal de: SALUD, EDUCACION, CULTO, CULTURA, ORGANIZACION COMUNITARIA, AREAS VERDES,<br>DEPORTES, ESPARCIMIENTO y TURISMO, COMERCIO MINORISTA, SERVICIOS PUBLICOS, SERVICIOS PROFESIONALES Y SERVICIOS ARTESANALES, con excepción de lo<br>indicado como prohibido; Equipamiento de escala comunal y vecinal de: SEGURIDAD, con excepción de lo indicado como prohibido; TRANSPORTE de escala regional y comunal, salvo lo<br>indicado como prohibido; ALMACENAMIENTO INOFENSIVO; TALLERES INDUSTRIALES INOFENSIVOS.<br>**USOS DE SUELO PROHIBIDOS**<br>Equipamiento de escala regional e interurbana de: SEGURIDAD y además TERMINALES DE DISTRIBUCION; Equipamiento de escala comunal de: CARCELES, QUINTAS DE RECREO,<br>CABARETS, HOSPEDERIAS y MOTELES; TRANSPORTE de escala regional e interurbana de: TERMINALES FERROVIARIOS, RODOVIARIOS, AGROPECUARIOS, PESQUEROS;<br>INDUSTRIAS; ALMACENAMIENTO MOLESTO; TALLERES INDUSTRIALES MOLESTOS.|
+|**SUPERFICIE PREDIAL MÍNIMA**|**DENSIDAD MÁXIMA**|**ALTURA MÁXIMA EDIF.**|**ALTURA MÁXIMA EDIF.**|**SISTEMA DE AGRUPAMIENTO**|**SISTEMA DE AGRUPAMIENTO**|
+|VIVIENDA: 250 m2<br>EQUIPAMIENTO VECINAL: 250 m2<br>OTROS USOS: 500 m2|250 Hab/hás|SEGÚN RASANTES|SEGÚN RASANTES|VIVIENDA: AISLADO, PAREADO<br>OTROS USOS: PAREADO|VIVIENDA: AISLADO, PAREADO<br>OTROS USOS: PAREADO|
+|**COEF. DE CONSTRUCTIBILIDAD**|**COEF. DE OCUPACIÓN DE SUELO**|**OCUPACIÓN PISOS SUPERIORES**|**OCUPACIÓN PISOS SUPERIORES**|**RASANTE**|**NIVEL DE**<br>**APLICACIÓN**|
+|VIVIENDA: 0,7 (15)<br>EQUIPAMIENTO VECINAL: 0,6 (15)<br>OTROS USOS: 0,6|40%|||SEGÚN O.G.U.C.|SEGÚN O.G.U.C.|
+|**ADOSAMIENTOS**|**DISTANCIAMIENTOS**|**CIERROS**|**CIERROS**|**OCHAVOS**|**OCHAVOS**|
+||SEGÚN O.G.U.C.|**ALTURA**|**% TRANS.**|||
+||SEGÚN O.G.U.C.|SEGÚN ART. 14o<br>P.R.C.|SEGÚN ART. 14o<br>P.R.C.|SEGÚN ART. 14o<br>P.R.C.|SEGÚN ART. 14o<br>P.R.C.|
+
+FORMULARIO 5.2. (C.I.P.-1.4.4)
+
+|CESIONES Proporción frente y fondo superficies a ceder para áreas verdes (Art. 2.2.5 No 2 O.G.U.C.)|Col2|Col3|Col4|NO|
+|---|---|---|---|---|
+|**ESTACIONAMIENTOS REQUERIDOS SEGÚN USOS PERMITIDOS**|**ESTACIONAMIENTOS REQUERIDOS SEGÚN USOS PERMITIDOS**|**ESTACIONAMIENTOS REQUERIDOS SEGÚN USOS PERMITIDOS**|**ESTACIONAMIENTOS REQUERIDOS SEGÚN USOS PERMITIDOS**|**ESTACIONAMIENTOS REQUERIDOS SEGÚN USOS PERMITIDOS**|
+||||||
+|**ÁREA DE RIESGO**|**ÁREA DE PROTECCIÓN**|**ZONA DE INMUEBLE DE**<br>**CONSERVACIÓN HISTÓRICA**|**ZONA TÍPICA O MONUMENTO**<br>**NACIONAL**|**ZONA TÍPICA O MONUMENTO**<br>**NACIONAL**|
+|**SI**<br>**NO**<br>SI<br>NO|**SI**<br>**NO**<br>SI<br>NO|**SI**<br>**NO**<br>SI<br>NO|**SI**<br>**NO**<br>SI<br>NO|**SI**<br>**NO**<br>SI<br>NO|
+||||||
+
+**5.2.- LINEAS OFICIALES**
+
+|POR CALLE|Col2|Col3|TIPO VÍA|Col5|Col6|
+|---|---|---|---|---|---|
+|AVENIDA EL SOL|AVENIDA EL SOL|AVENIDA EL SOL|VIA COLECTORA|VIA COLECTORA|VIA COLECTORA|
+|LÍNEA<br>OFICIAL|DISTANCIA ENTRE L.O.|35,000 m|35,000 m|ANTEJARDÍN|3,000 m|
+|LÍNEA<br>OFICIAL|DISTANCIA L.O. A EJE CALZADA|||CALZADA||
+
+|POR CALLE|Col2|Col3|TIPO VÍA|Col5|Col6|
+|---|---|---|---|---|---|
+|AVENIDA BOMBERO DOMINGO VILLALOBOS|AVENIDA BOMBERO DOMINGO VILLALOBOS|AVENIDA BOMBERO DOMINGO VILLALOBOS|COLECTORA|COLECTORA|COLECTORA|
+|LÍNEA<br>OFICIAL|DISTANCIA ENTRE L.O.|40,000 m|40,000 m|ANTEJARDÍN|3,000 m|
+|LÍNEA<br>OFICIAL|DISTANCIA L.O. A EJE CALZADA|PROYECCION DE VIA|PROYECCION DE VIA|CALZADA||
+
+|POR CALLE|Col2|Col3|TIPO VÍA|Col5|Col6|
+|---|---|---|---|---|---|
+|||||||
+|LÍNEA<br>OFICIAL|DISTANCIA ENTRE L.O.|||ANTEJARDÍN||
+|LÍNEA<br>OFICIAL|DISTANCIA L.O. A EJE CALZADA|||CALZADA||
+
+|POR CALLE|Col2|Col3|TIPO VÍA|Col5|Col6|
+|---|---|---|---|---|---|
+|||||||
+|LÍNEA<br>OFICIAL|DISTANCIA ENTRE L.O.|||ANTEJARDÍN||
+|LÍNEA<br>OFICIAL|DISTANCIA L.O. A EJE CALZADA|||CALZADA||
+
+|POR CALLE|Col2|Col3|TIPO VÍA|Col5|Col6|
+|---|---|---|---|---|---|
+|||||||
+|LÍNEA<br>OFICIAL|DISTANCIA ENTRE L.O.|||ANTEJARDÍN||
+|LÍNEA<br>OFICIAL|DISTANCIA L.O. A EJE CALZADA|||CALZADA||
+
+**5.3.- AFECTACION A UTILIDAD PUBLICA**
+
+|LA PROPIEDAD SE ENCUENTRA AFECTA A DECLARATORIA DE UTILIDAD PÚBLICA (ART. 59)|Col2|Col3|Col4|Col5|SI SI|NONO|
+|---|---|---|---|---|---|---|
+|**PARQUE**||**VIALIDAD**||**ENSANCHE**|**ENSANCHE**||
+|**PARQUE**||**VIALIDAD**||**APERTURA**|**APERTURA**||
+|**DE LAS SIGUENTES VIAS**|**DE LAS SIGUENTES VIAS**|**DE LAS SIGUENTES VIAS**|**DE LAS SIGUENTES VIAS**|**DE LAS SIGUENTES VIAS**|**DE LAS SIGUENTES VIAS**|**DE LAS SIGUENTES VIAS**|
+|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|**AVENIDA EL SOL EN UN ANCHO DE 35 MTS.**<br>**AVENIDA BOMBERO DOMINGO VILLALOBOS EN UN ANCHO DE 40 MTS.**|
+|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|**GRAFICACIÓN DEL ÁREA AFECTA A UTILIDAD PÚBLICA CON INDICACIÓN DE SUPERFICIES Y DIMENSIONES** (Parque / Vialidad)|
+||||||||
+
+FORMULARIO 5.2. (C.I.P.-1.4.4)
+
+**OBRAS DE URBANIZACIÓN DE LAS ÁREAS A DECLARATORIA (ART. 134° LGUC)**
+
+|PLANOS Y PROYECTOS|Col2|
+|---|---|
+|**P**|Pavimentación|
+|**A**|Agua Potable|
+|**A**|Alcantarillado de Aguas Servidas|
+|**E**|Evacuación de Aguas Lluvias|
+|**E**|Electricidad y/o Alumbrado Público|
+|**G**|Gas|
+|**T**|Telecomunicaciones|
+|**P**|Plantaciones y obras de ornato|
+|**O**|Obras de defensa del terreno|
+|**O**|Otros:|
+
+**6.- CARACTERÍSTICAS DE URBANIZACIÓN**
+
+**ESTADO DE LA URBANIZACIÓN:** **EJECUTADA** SI NO **RECIBIDA** SI NO **GARANTIZADA**
+
+SI NO **RECIBIDA** SI NO **GARANTIZADA** SI NO
+
+**S** SI **N** NO **RECIBIDA** **S** SI **N** NO **GARANTIZADA** **S** SI **N**
+
+**7.- DOCUMENTOS ADJUNTOS**
+
+P PLANO DE CATASTRO **P** PERFIL DE CALLES **A**
+
+ANEXO NORMAS URBANISTICAS DEL
+
+**P** PERFIL DE CALLES
+
+PLANO DE CATASTRO **P** PERFIL DE CALLES **A** I.P.T.
+
+INFORMACIÓN REFERENCIAL PRC
+EXTRACTO PLANO LOTEO/SUBDIVISIÓN/FUSIÓN
+
+**OBS:**
+
+**OBS**
+**PREDIO:**
+
+**NOTA:** AMBIENTAL: COMUNA CON DECLARATORIA DE ZONA SATURADA DECRETO No 7 DE FECHA 03 DE FEBRERO DE 2009 (D.O. 27/03/2009) SE REQUIERE PERTINENCIA DE
+
+DECLARACIÓN DE IMPACTO AMBIENTAL Y SISTEMA DE EVALUACIÓN DE IMPACTOS EN LA MOVILIDAD (SEIM-IMIV), SEGÚN CORRESPONDA.
+
+PREDIO AFECTO A UTILIDAD PÚBLICA: DEBE CONSIDERAR LAS LÍNEAS OFICIALES DE CIERRE; LÍNEAS DE EDIFICACIÓN Y FRANJAS DE ANTEJARDÍN, ESTABLECIDAS
+
+EN EL PLANO REGULADOR COMUNAL: ANCHO TOTAL DEL PERFIL DE AVENIDA BOMBERO VILLALOBOS, ENTRE LÍNEAS OFICIALES : 40 METROS.- Avda. Bombero
+
+Villalobos forma parte del Plano de Clasificación de la Vialidad Estructurante del P.R.C. definida como Vía Colectora / ANCHO TOTAL DEL PERFIL DE AVENIDA EL SOL, ENTRE
+
+LÍNEAS OFICIALES : 35 METROS. / Avda. El Sol forma parte del Plano de Clasificación de la Vialidad Estructurante del P.R.C. definida como Vía Colectora (requiere ingreso al
+
+SEIM, para pertinencia de IMIV, según corresponda, de acuerdo a proyecto a tramitar). PREDIO CON URBANIZACIÓN INSUFICIENTE: DEBE CONSIDERAR TODAS LAS
+
+OBRAS DE URBANIZACIÓN FALTANTES.
+
+VIALIDAD ESTRUCTURANTE: Para definición de trazado de vialidad estructurante, ubicación de las Líneas Oficiales de Cierre y perfiles por parte del Asesor Urbanista, deberá
+
+adjuntar levantamiento topográfico digital y REMITIRLA A CORREO ELECTRÓNICO andres.caceres@rancagua.cl
+
+GENERAL: Debe contar con proyectos aprobados por Servicios y Unidades Municipales: PERMISOS DE EDIFICAC.; URBANIZACIÓN Y RECEPCIONES DE OBRAS.
+
+ - Cumplir con Condiciones de Edificación y Normas Urbanísticas indicadas para la Zona EX2 del PRC Rgua.
+
+ - Cumplir con las Normas establecidas en la Tabla del Art. 2.6.3, OGUC, respecto a Rasantes y Distanciamientos (Título 2, Capítulo 6, OGUC.).
+
+ - Para el diseño de las obras exteriores, deberá dar cumplimiento a lo establecido en la Ordenanza Local y Manual e Instructivo sobre Diseño y Construcción del Espacio Público,
+
+Áreas Verdes y Parques en la Comuna de Rancagua.
+
+ - ESTACIONAMIENTOS: Deberá considerar los estándares mínimos, señalados en la TABLA del Artículo 35 de la Ordenanza del Plano Regulador Comunal.
+
+ - Cumplir con las Normas sobre Accesibilidad Universal y Discapacidad que corresponda, establecidas en el Capítulo 1 del Título 2 y 4 de la OGUC..
+
+ - SUBSUELO: Art. 1.4.4 OGUC., TODO NUEVO PROYECTO deberá acompañar Informe de Calidad de Subsuelo de acuerdo a Art. 5.1.15, OGUC.
+
+ - Canales de regadío y/o acequias, debe atenerse a Código de Aguas y deberá contar con proyecto aprobado por el Servicio correspondiente, y/o por la respectiva Asociación de
+
+Canalistas.
+
+DEBE ATENERSE A USOS DE SUELO PERMITIDOS PARA LA ZONA POR LA ORDENANZA DEL PLANO REGULADOR COMUNAL. INFORME DE CARÁCTER GENERAL, SE
+
+PODRÁN ESTABLECER OTRAS EXIGENCIAS Y CONDICIONES DE ACUERDO AL USO ESPECÍFICO DEL PROYECTO.
+
+|8.- PAGO DE DERECHOS|Col2|Col3|Col4|$ 8.939|
+|---|---|---|---|---|
+|TOTAL DERECHOS MUNICIPALES (ART. 130 No 9 L.G.U.C)|No|**-----------------**|FECHA|**9/9/2022**|
+|GIRO DE INGRESO MUNICIPAL|No|**26685702**|FECHA|**09-09-2022**|
+
+PSZ / acs
+
+**PATRICIO SEQUEIDA ZUÑIGA**
+**JEFE DEPTO. URBANIZACIÓN**
+
+FORMULARIO 5.2. (C.I.P.-1.4.4)

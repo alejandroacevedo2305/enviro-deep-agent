@@ -1,0 +1,32 @@
+---
+title: Sin título
+author: natalia ortiz
+date: D:20150311111429-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**CRONOGRAMA PLANTA TRATAMIENTO DE AGUAS SERVIDA ILOCA**
+
+|Col1|Col2|Mes 1|Col4|Col5|Col6|Mes 2|Col8|Col9|Col10|Mes 3|Col12|Col13|Col14|Mes 4|Col16|Col17|Col18|Mes 5|Col20|Col21|Col22|Mes 6|Col24|Col25|Col26|Mes 7|Col28|Col29|Col30|Mes 8|Col32|Col33|Col34|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Nombre de Tarea**|**Duración**|**Sem. 1**|**Sem. 2**|**Sem.3**|**Sem. 4**|**Sem. 5**|**Sem. 6**|**Sem. 7**|**Sem. 8**|**Sem. 9**|**Sem.**<br>**10**|**Sem.**<br>**11**|**Sem.**<br>**12**|**Sem.**<br>**13**|**Sem.**<br>**14**|**Sem.**<br>**15**|**Sem.**<br>**16**|**Sem.**<br>**17**|**Sem.**<br>**18**|**Sem.**<br>**19**|**Sem.**<br>**20**|**Sem.**<br>**21**|**Sem.**<br>**22**|**Sem.**<br>**23**|**Sem. 24**|**Sem.**<br>**25**|**Sem.**<br>**26**|**Sem.**<br>**27**|**Sem.**<br>**28**|**Sem.**<br>**29**|**Sem.**<br>**30**|**Sem.**<br>**31**|**Sem.**<br>**32**|
+|**FASE DE CONSTRUCCIÓN**||5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|5 días<br>20 días<br>20 días<br>15 días<br>25 días<br>20 días<br>20 días<br>10 días<br>35 días|||||||||
+|Instalación de faenas|25|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|25 días|
+|Preparación del Terreno|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|
+|Movimiento de Tierras|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|
+|Retiro y Transporte de excedentes|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|
+|**OBRAS CIVILES**||||||||||||||||||||||||||||||||||
+|Estructuras|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|35|
+|Interconexiones Hidraúlicas|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|
+|Montaje y Pruebas de Equipos|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|20|
+|Conexión con unidades|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|15|
+|Abandono de faenas|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5|
+|**FASE DE OPERACIÓN**||||||||||||||||||||||||||||||||||
+|Puesta en Marcha y Marcha Blanca|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40|40 días|40 días|40 días|40 días|40 días|40 días|40 días|40 días|
+|Operación Definitiva||||||||||||||||||||||||||||||||||
+|||**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**FASE DE CONSTRUCCION 120 DÍAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|**PUESTA EN MARCHA Y MARCHA BLANCA 40 DIAS**|

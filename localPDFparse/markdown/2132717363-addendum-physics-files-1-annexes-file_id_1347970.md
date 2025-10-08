@@ -1,0 +1,9368 @@
+---
+title: Microsoft Word - EIV-0355 EIV PFV Lo Miranda A6.doc
+author: Desconocido
+date: D:20171229160416Z00'00'
+language: es
+type: report
+pages: 52
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ESTUDIO
+  - Planta
+-->
+
+# ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+Nueva
+ Tajamar
+ 481
+ Torre
+ Sur
+Oficina
+ 1001,
+ Las
+ Condes
+Santiago
+ -­‐
+ Chile
+contacto@ingeniar.cl
+
+### PROYECTO
+
+# Planta
+ Fotovoltaico
+ Lo
+ Miranda**
+
+Ruta
+ H-­‐30
+Comuna
+ de
+ Doñihue
+Región
+
+ del
+ Libertador
+ General
+ Bernardo
+ O ́Higgins
+
+ -­‐
+ Chile
+
+Diciembre
+ de
+ 2017
+
+Santiago
+ de
+ Chile
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**INDICE
+ DE
+ CONTENIDOS**
+
+**CAPÍTULO
+ 1** **INTRODUCCIÓN
+ ........................................................................................
+ 4**
+
+1.1 Presentación
+ .........................................................................................................................
+ 4
+
+1.2 Objetivo
+ .................................................................................................................................
+ 4
+
+**CAPÍTULO
+ 2** **METODOLOGÍA
+ ........................................................................................
+ 5**
+
+**CAPÍTULO
+ 3** **ANTECEDENTES
+ DEL
+ PROYECTO
+ ................................................................
+ 6**
+
+3.1 Descripción
+ y
+ ubicación
+ del
+ Proyecto
+ ....................................................................................
+ 6
+
+3.2 Flujo
+ Generado
+ por
+ el
+ Proyecto
+ ............................................................................................
+ 7
+
+**CAPÍTULO
+ 4** **DEFINICIONES
+ INICIALES
+ ...........................................................................
+ 8**
+
+4.1 Área
+ de
+ Influencia
+ .................................................................................................................
+ 8
+
+4.2 Periodización
+ .........................................................................................................................
+ 9
+
+4.3 Cortes
+ Temporales
+ ..............................................................................................................
+ 11
+
+4.4 Tasa
+ de
+ crecimiento
+ vehicular
+ .............................................................................................
+ 12
+
+**CAPÍTULO
+ 5** **ANÁLISIS
+ ESCENARIO
+ ACTUAL
+ ................................................................
+ 13**
+
+5.1 Oferta
+ Vial
+ Escenario
+ Actual
+ ................................................................................................
+ 13
+
+5.2 Descripción
+ Tramos
+ de
+ Vía
+ ..................................................................................................
+ 13
+
+5.2.1 Tramo
+ No1:
+ Calle
+ José
+ Miguel
+ Carrera,
+ entre
+ Bernardo
+ O`Higgins
+ y
+ Caupolicán
+ .............
+ 14
+
+5.2.2 Tramo
+ No2:
+ Calle
+ Caupolicán,
+ entre
+ José
+ Miguel
+ Carrera
+ y
+ Galvarino
+ .............................
+ 15
+
+5.3 Descripción
+ de
+ Intersecciones
+ .............................................................................................
+ 16
+
+5.3.1 Intersección
+ No
+ 1:
+ Ruta
+ H-­‐30
+ (km
+ 14)
+ con
+ José
+ Miguel
+ Carrera.
+ ......................................
+ 17
+
+5.4 Intersección
+ No
+ 2:
+ Bernardo
+ O ́Higgins
+ con
+ José
+ Miguel
+ Carrera
+ ........................................
+ 20
+
+5.5 Intersección
+ No
+ 3:
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ ......................................................
+ 21
+
+5.6 Intersección
+ No
+ 4:
+ Caupolicán
+ con
+ Acceso
+ al
+ Proyecto
+ .......................................................
+ 23
+
+5.7 Demanda
+ Vial
+ Actual
+ ...........................................................................................................
+ 25
+
+5.7.1 Plan
+ Nacional
+ de
+ Censos
+ ..................................................................................................
+ 25
+
+5.7.1.1 Estación
+ No98,
+ ruta
+ H-­‐30
+ con
+ ruta
+ H-­‐270
+ ..............................................................
+ 26
+
+5.7.2 Mediciones
+ de
+ Flujo
+ Vehicular
+ .........................................................................................
+ 27
+
+**CAPÍTULO
+ 6** **ANÁLISIS
+ DEL
+ ESCENARIO
+ BASE
+ Y
+ CON
+ PROYECTO
+ ..................................
+ 31**
+
+6.1 Oferta
+ Vial
+ Escenario
+ Base
+ ..................................................................................................
+ 31
+
+6.2 Estimación
+ de
+ la
+ demanda
+ del
+ Proyecto
+ .............................................................................
+ 31
+
+**CAPÍTULO
+ 7** **MODELACIÓN
+ .........................................................................................
+ 33**
+
+7.1 Aspectos
+ Generales
+ .............................................................................................................
+ 33
+
+1
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+7.1.1 Modelación
+ intersecciones
+ ..............................................................................................
+ 33
+
+7.1.2 Indicadores
+ de
+ Modelación
+ ..............................................................................................
+ 34
+
+7.1.3 Parámetros
+ Generales
+ de
+ Modelación
+ .............................................................................
+ 35
+
+7.2 Intersecciones
+ de
+ Modeladas
+ ..............................................................................................
+ 35
+
+7.3 Modelación
+ Situación
+ Actual,
+ Base
+ y
+ Con
+ Proyecto
+ ............................................................
+ 38
+
+7.4 Conclusión
+ Simulación
+ ........................................................................................................
+ 41
+
+**CAPÍTULO
+ 8** **DIAGNÓSTICO
+ ESCENARIO
+ ACTUAL,
+ BASE
+ Y
+ CON
+ PROYECTO
+ ..................
+ 43**
+
+**CAPÍTULO
+ 9** **ASPECTOS
+ DE
+ DISEÑO
+ Y
+ MEJORAS
+ VIALES
+ ..............................................
+ 44**
+
+9.1 Generalidades
+ .....................................................................................................................
+ 44
+
+9.2 Mejoras
+ en
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ y
+ Bernardo
+ O`Higgins
+ .................
+ 44
+
+9.3 Reforzamiento
+ de
+ señalización
+ en
+ cruce
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ ..............
+ 45
+
+9.4 Renovación
+ de
+ Pasos
+ Peatonales
+ ........................................................................................
+ 46
+
+9.5 Resumen
+ de
+ las
+ Medidas
+ Viales
+ Voluntarias
+ .......................................................................
+ 46
+
+9.6 Otras
+ Consideraciones
+ ........................................................................................................
+ 47
+
+**CAPÍTULO
+ 10** **SÍNTESIS
+ ...............................................................................................
+ 49**
+
+**CAPÍTULO
+ 11** **BIBLIOGRAFÍA
+ ......................................................................................
+ 50**
+
+**CAPÍTULO
+ 12** **APÉNDICES
+ ...........................................................................................
+ 51**
+
+**INDICE
+ DE
+ FIGURAS**
+
+Figura
+ 3-­‐1:
+ Ubicación
+ del
+ Proyecto
+ .....................................................................................................................
+ 6
+Figura
+ 4-­‐1:
+ Área
+ de
+ Influencia
+ .............................................................................................................................
+ 8
+Figura
+ 4-­‐2:
+ Ubicación
+ de
+ punto
+ de
+ medición
+ para
+ definir
+ hora
+ más
+ cargada
+ .....................................................
+ 9
+Figura
+ 4-­‐3:
+ Diagrama
+ de
+ los
+ movimientos
+ vehiculares
+ utilizados
+ para
+ periodizar
+ ...........................................
+ 10
+Figura
+ 4-­‐4:
+ Histograma
+ de
+ Flujos
+ Intersección
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (Veq
+ /
+ h)
+ ..........................
+ 11
+Figura
+ 5-­‐1:
+ Tramos
+ de
+ vía
+ caracterizados
+ por
+ Ruta
+ de
+ acceso
+ ..........................................................................
+ 13
+Figura
+ 5-­‐2:
+ Ubicación
+ de
+ intersecciones
+ caracterizadas
+ ...................................................................................
+ 16
+Figura
+ 5-­‐3:
+ Cruce
+ de
+ José
+ Miguel
+ Carrera
+ con
+ ruta
+ H-­‐30,
+ sin
+ consolidar
+ ..........................................................
+ 17
+Figura
+ 5-­‐4:
+ Señal
+ de
+ regulación
+ Pare
+ en
+ buen
+ estado
+ de
+ conservación
+ ...........................................................
+ 17
+Figura
+ 5-­‐5:
+ Demarcaciones
+ de
+ ciclovía
+ en
+ mal
+ estado
+ de
+ conservación
+ ...........................................................
+ 18
+Figura
+ 5-­‐6:
+ Parada
+ ubicada
+ en
+ costada
+ norte
+ de
+ ruta
+ H-­‐30,
+ con
+ refugio
+ y
+ señal
+ en
+ buen
+ estado
+ ....................
+ 18
+Figura
+ 5-­‐7:
+ Parada
+ de
+ transporte
+ público
+ en
+ el
+ costado
+ sur
+ de
+ ruta
+ H-­‐30
+ con
+ señal
+ y
+ refugio
+ .........................
+ 18
+Figura
+ 5-­‐8:
+ Señal
+ de
+ velocidad
+ máxima
+ en
+ buen
+ estado
+ de
+ conservación
+ .......................................................
+ 18
+Figura
+ 5-­‐9:
+ Señales
+ y
+ demarcaciones
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ .......................................................
+ 18
+Figura
+ 5-­‐10:
+ Análisis
+ radios
+ de
+ giro,
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (ingreso)
+ ..........................................
+ 19
+Figura
+ 5-­‐11:
+ Análisis
+ radios
+ de
+ giro,
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (egreso)
+ ...........................................
+ 19
+
+Figura
+ 5-­‐12:
+ Demarcaciones
+ de
+ eje
+ central
+ desgastadas
+ en
+ calle
+ Bernardo
+ O ́Higgins
+ y
+ demarcaciones
+ de
+puestos
+ de
+ feria
+ libre
+ ........................................................................................................................................
+ 20
+
+Figura
+ 5-­‐13:
+ Acceso
+ norte
+ de
+ José
+ Miguel
+ Carrera
+ sin
+ demarcaciones.
+ Rebajes
+ de
+ solera
+ en
+ buen
+ estado
+ de
+conservación
+ .....................................................................................................................................................
+ 20
+Figura
+ 5-­‐14:
+ Acceso
+ oriente
+ del
+ cruce
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins
+ ..................................
+ 21
+
+2
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+Figura
+ 5-­‐15:
+ Cruce
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins
+ sin
+ señal
+ de
+ prioridad
+ .............................
+ 21
+Figura
+ 5-­‐16:
+ Señales
+ y
+ demarcaciones
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins
+ ......................................
+ 21
+Figura
+ 5-­‐17:
+ Acceso
+ sur
+ del
+ empalme,
+ paso
+ cebra
+ desgastado
+ y
+ sin
+ señal
+ de
+ prioridad
+ ..................................
+ 22
+Figura
+ 5-­‐18:
+ Líneas
+ de
+ eje
+ central
+ segmentado
+ desgastado
+ .............................................................................
+ 22
+Figura
+ 5-­‐19:
+ Señales
+ y
+ demarcaciones
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ ....................................................
+ 22
+Figura
+ 5-­‐20:
+ Análisis
+ radios
+ de
+ giro,
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ (ingreso)
+ .........................................
+ 23
+Figura
+ 5-­‐21:
+ Análisis
+ radios
+ de
+ giro,
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ (egreso)
+ ..........................................
+ 23
+Figura
+ 5-­‐22:
+ Emplazamiento
+ de
+ Acceso
+ al
+ Proyecto
+ .........................................................................................
+ 24
+Figura
+ 5-­‐23:
+ Acceso
+ al
+ predio
+ del
+ Proyecto
+ sin
+ consolidar
+ ...............................................................................
+ 24
+Figura
+ 5-­‐24:
+ Señales
+ y
+ Demarcaciones
+ próximos
+ al
+ acceso
+ del
+ Proyecto
+ .........................................................
+ 24
+Figura
+ 5-­‐25:
+ Localización
+ puntos
+ de
+ control
+ del
+ Plan
+ Nacional
+ de
+ Censos
+ .......................................................
+ 25
+Figura
+ 5-­‐26
+ :
+ Distribución
+ por
+ tipo
+ de
+ vehículo,
+ Estación
+ N°98,
+ ruta
+ H-­‐30
+ .......................................................
+ 26
+Figura
+ 5-­‐27:
+ Ubicación
+ Puntos
+ de
+ Control
+ ........................................................................................................
+ 27
+Figura
+ 5-­‐28:
+ Distribución
+ de
+ flujo
+ vehicular
+ (Veh/h.),
+ Punto
+ de
+ Medición
+ No1
+ ................................................
+ 28
+Figura
+ 5-­‐29:
+ Distribución
+ de
+ flujo
+ vehicular
+ (Veh/h.),
+ Punto
+ de
+ Medición
+ No2
+ ................................................
+ 30
+Figura
+ 7-­‐1:
+ Emplazamiento
+ puntos
+ de
+ modelación
+ ..........................................................................................
+ 33
+Figura
+ 7-­‐2:
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ ................................................................................................
+ 36
+Figura
+ 7-­‐3:
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins
+ .................................................................................
+ 36
+Figura
+ 7-­‐4:
+ Flujos
+ Vehiculares
+ Modelados
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ ................................................
+ 37
+Figura
+ 7-­‐5:
+ Flujos
+ Vehiculares
+ Modelados
+ Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+ Carrera
+ ................................
+ 38
+Figura
+ 9-­‐1:
+ Mejoras
+ propuestas
+ en
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ y
+ con
+ Bernardo
+ O`Higgins
+ ...
+ 45
+Figura
+ 9-­‐2:
+ Instalación
+ de
+ señal
+ de
+ prioridad
+ en
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ .....................................
+ 46
+Figura
+ 9-­‐3:
+ Paso
+ Cebra
+ a
+ Renovar
+ .....................................................................................................................
+ 46
+
+**INDICE
+ DE
+ TABLAS**
+
+Tabla
+ 3-­‐1:
+ Flujo
+ generado
+ por
+ el
+ Proyecto,
+ fase
+ de
+ construcción
+ .......................................................................
+ 7
+Tabla
+ 4-­‐1:
+ Factores
+ de
+ equivalencia.
+ ..................................................................................................................
+ 9
+Tabla
+ 4-­‐2:
+ Periodización
+ de
+ la
+ Intersección
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (Veq/Hora)
+ ...........................
+ 11
+Tabla
+ 4-­‐3:
+ Tasa
+ de
+ Crecimiento
+ por
+ Tipo
+ de
+ Vehículo
+ ......................................................................................
+ 12
+Tabla
+ 5-­‐1:
+ Tramos
+ caracterizados
+ .....................................................................................................................
+ 14
+Tabla
+ 5-­‐2:
+ Características
+ Tramo
+ 1,
+ Calle
+ José
+ Miguel
+ Carrera
+ .........................................................................
+ 14
+Tabla
+ 5-­‐3:
+ Características
+ Tramo
+ 2,
+ Caupolicán
+ ................................................................................................
+ 15
+Tabla
+ 5-­‐4:
+ Intersecciones
+ caracterizadas
+ ..........................................................................................................
+ 16
+Tabla
+ 5-­‐5:
+ TMD
+ por
+ temporadas,
+ Estación
+ N°
+ 98,
+ ruta
+ H-­‐30
+ ............................................................................
+ 26
+Tabla
+ 5-­‐6:
+ Flujo
+ por
+ movimiento
+ y
+ por
+ hora,
+ Punto
+ de
+ Medición
+ No1
+ .............................................................
+ 28
+Tabla
+ 5-­‐7:
+ Flujo
+ por
+ movimiento
+ y
+ por
+ hora,
+ Punto
+ de
+ Medición
+ No2
+ .............................................................
+ 29
+Tabla
+ 6-­‐1:
+ Flujos
+ Mensuales
+ y
+ diarios
+ del
+ Proyecto,
+ fase
+ de
+ construcción
+ .......................................................
+ 31
+Tabla
+ 6-­‐2:
+ Flujo
+ del
+ Proyecto
+ estimado
+ para
+ la
+ modelación
+ .............................................................................
+ 32
+Tabla
+ 6-­‐3:
+ Distribución
+ del
+ flujo
+ del
+ Proyecto
+ ...................................................................................................
+ 32
+Tabla
+ 7-­‐1:
+ Indicadores
+ globales
+ por
+ escenario
+ .................................................................................................
+ 39
+Tabla
+ 7-­‐2:
+ Resultados
+ por
+ Movimiento
+ Ruta
+ H-­‐30
+ /
+ José
+ Miguel
+ Carrera
+ ........................................................
+ 39
+Tabla
+ 7-­‐3:
+ Resultados
+ por
+ Movimiento
+ Bernardo
+ O’Higgins
+ /
+ José
+ Miguel
+ Carrera
+ .........................................
+ 40
+Tabla
+ 7-­‐4:
+ Análisis
+ Capacidad
+ de
+ Reserva
+ empalme
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ ................................
+ 40
+Tabla
+ 7-­‐5:
+ Análisis
+ Capacidad
+ de
+ Reserva
+ cruce
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins
+ ........................
+ 41
+Tabla
+ 9-­‐1:
+ Resumen
+ de
+ Medidas
+ Viales
+ Voluntarias
+ .........................................................................................
+ 47
+
+3
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 1
+
+ INTRODUCCIÓN**
+
+1.1
+Presentación
+
+El
+ presente
+ informe
+ corresponde
+ al
+ Estudio
+ de
+ Impacto
+ Vial
+ por
+ la
+ construcción
+ y
+ operación
+ de
+ la
+“Planta
+ Fotovoltaica
+ Lo
+ Miranda”
+ (en
+ adelante
+ el
+ Proyecto)
+ que
+ corresponde
+ a
+ una
+ planta
+fotovoltaica
+ de
+ 6
+ MW
+ de
+ potencia
+ nominal
+ y
+ 7,2
+ de
+ potencia
+ peak,
+ que
+ proveerá
+ de
+ energía
+eléctrica
+ al
+ Sistema
+ Interconectado
+ Central
+ (SIC).
+
+1.2
+Objetivo
+
+Los
+ proyectos
+ que
+ tienen
+ características
+ de
+ generadores
+ y/o
+ atractores
+ de
+ viajes,
+ como
+ el
+presente,
+ podrían
+ generar
+ ciertas
+ externalidades
+ sobre
+ la
+ vialidad
+ adyacente;
+ por
+ lo
+ tanto,
+ es
+conveniente
+ efectuar
+ los
+ análisis
+ técnicos
+ de
+ rigor.
+
+El
+ objetivo
+ de
+ este
+ trabajo
+ es
+ descartar
+ la
+ presencia
+ de
+ potenciales
+ impactos
+ significativos
+ en
+ los
+tiempos
+ de
+ desplazamiento
+ debido
+ a
+ la
+ construcción
+ y
+ puesta
+ en
+ marcha
+ del
+ Proyecto
+ Planta
+Fotovoltaica
+ Lo
+ Miranda
+ en
+ las
+ vías
+ públicas
+ de
+ su
+ entorno.
+
+Asimismo,
+ se
+ han
+ considerado
+ los
+ siguientes
+ objetivos
+ específicos:
+
+1. Realizar
+ un
+ diagnóstico
+ de
+ la
+ situación
+ actual.
+
+2. Modelar
+ el
+ sistema
+ de
+ transporte
+ del
+ área
+ de
+ influencia
+ vial.
+
+3. Determinar
+ los
+ impactos
+ viales
+ que
+ generaría
+ el
+ proyecto.
+
+4. Definir
+ las
+ medidas
+ de
+ mejoramiento
+ vial
+ que
+ permitirían
+ abordar
+ este
+ impacto,
+ si
+
+corresponde.
+
+4
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 2
+
+
+ METODOLOGÍA**
+
+Se
+ consideraron
+ los
+ siguientes
+ pasos
+ metodológicos:
+
+ Definiciones
+ Iniciales.
+
+`o` Área
+ de
+ Influencia
+`o` Corte
+ Temporal
+`o` Periodización
+
+ Caracterización
+ de
+ la
+ Situación
+ Actual.
+
+`o` Oferta
+ vial
+ actual.
+`o` Demanda
+ vial
+ actual.
+
+ Estimación
+ de
+ la
+ Demanda
+ de
+ Transporte.
+
+ Definición
+ de
+ la
+ Oferta
+ Vial.
+
+ Modelación.
+
+ Proposición
+ de
+ Medidas
+ de
+ Mejoramiento.
+
+Las
+ definiciones
+ iniciales
+ son
+ aquellos
+ datos
+ que
+ permitieron
+ conocer
+ las
+ condiciones
+ físicas
+ y
+operativas
+ del
+ entorno
+ del
+ proyecto
+ y
+ el
+ horizonte
+ (año)
+ del
+ análisis,
+ éstas
+ son:
+ el
+ área
+ de
+influencia,
+ la
+ periodización
+ y
+ los
+ cortes
+ temporales.
+
+El
+ criterio
+ para
+ definir
+ el
+ Área
+ de
+ Influencia
+ se
+ basó
+ en
+ la
+ identificación
+ de
+ la
+ o
+ las
+ rutas
+ más
+ usadas
+por
+ un
+ proyecto
+ en
+ su
+ fase
+ constructiva
+ y
+ operativa.
+ En
+ contexto
+ interurbano
+ (como
+ el
+ presente
+caso)
+ es
+ común
+ que
+ el
+ análisis
+ se
+ ajuste
+ al
+ camino
+ que
+ conecta
+ al
+ proyecto
+ en
+ las
+ cercanías
+ de
+ su
+empalme
+ de
+ acceso.
+
+La
+ periodización
+ consistió
+ en
+ la
+ identificación
+ de
+ los
+ períodos
+ del
+ día
+ que
+ concentraron
+ la
+ mayor
+cantidad
+ de
+ flujo
+ vehicular
+ en
+ el
+ entorno
+ del
+ proyecto,
+ a
+ partir
+ de
+ mediciones.
+
+El
+ corte
+ temporal
+ se
+ estableció
+ en
+ el
+ año
+ 2018
+ de
+ la
+ fase
+ de
+ construcción,
+ ya
+ que
+ corresponde
+ al
+periodo
+ de
+ mayor
+ aporte
+ vehicular
+ del
+ Proyecto
+ a
+ la
+ vialidad
+ pública.
+
+La
+ caracterización
+ se
+ orientó
+ a
+ identificar
+ aquellos
+ sectores
+ críticos
+ del
+ punto
+ de
+ vista
+ de
+ la
+seguridad
+ vial,
+ también
+ a
+ sistematizar
+ el
+ estado
+ de
+ la
+ infraestructura,
+ señalización
+ de
+ apoyo
+ y
+ flujo.
+
+La
+ estimación
+ de
+ demanda
+ presenta
+ todos
+ los
+ antecedentes
+ que
+ permiten
+ demostrar
+ la
+ cantidad
+de
+ flujo
+ que
+ el
+ proyecto
+ generará/atraerá
+ a
+ nivel
+ diario
+ y
+ en
+ hora
+ punta.
+
+La
+ modelación
+ permitió
+ cuantificar
+ el
+ nivel
+ de
+ impacto
+ del
+ proyecto
+ en
+ relación
+ con
+ la
+ situación
+base
+ en
+ el
+ año
+ de
+ análisis,
+ asimismo
+ evaluó
+ posibles
+ mejoras
+ de
+ infraestructura
+ y/o
+ de
+ gestión
+ de
+tránsito.
+
+ Una
+
+ vez
+ realizada
+ la
+ modelación
+ de
+ flujo
+ se
+ elaboró
+ un
+ Diagnóstico
+ con
+ el
+ propósito
+ de
+identificar
+ aquellas
+ intersecciones
+ o
+ tramos
+ impactados
+ por
+ el
+ Proyecto.
+ La
+ definición
+ de
+ impacto
+se
+ realizó
+ sobre
+ la
+ base
+ de
+ la
+ metodología
+ expuesta
+ en
+ la
+ Resolución
+ Exenta
+ 2379
+ y
+ 3004
+ (MINVU,
+2003
+ y
+ 2004).
+
+5
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 3
+
+ ANTECEDENTES
+ DEL
+ PROYECTO**
+
+3.1
+Descripción
+ y
+ ubicación
+ del
+ Proyecto
+
+La
+ Planta
+ Fotovoltaica
+ Lo
+ Miranda
+ se
+ ubicará
+ en
+ la
+ Región
+ del
+ Libertador
+ General
+ Bernardo
+O ́Higgins,
+ Provincia
+ del
+ Cachapoal,
+ en
+ la
+ comuna
+ de
+ Doñihue.
+ En
+ la
+ figura
+ siguiente
+ se
+ muestra
+ la
+ubicación
+ general
+ del
+ proyecto.
+
+**Figura
+ 3-­‐1:
+ Ubicación
+ del
+ Proyecto**
+
+_Nota:_ _Imagen
+ obtenida
+ de
+ Google
+ Maps._
+
+El
+ acceso
+ al
+ área
+ del
+ Proyecto
+ se
+ realiza
+ a
+ través
+ de
+ la
+ ruta
+ H-­‐30,
+ a
+ la
+ altura
+ del
+ km
+ 14.
+ En
+específico,
+ si
+ se
+ viaja
+ desde
+ el
+ norte
+ o
+ sur,
+ se
+ debe
+ tomar
+ la
+ salida
+ Doñihue
+ hacia
+ el
+ oriente
+ por
+ 14
+km
+ desde
+ la
+ antigua
+ ruta
+ 5
+ Sur
+ o
+ bien
+ 10
+ km
+ desde
+ el
+ nuevo
+ enlace
+ Norte
+ Sur
+ Rancagua.
+
+6
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+3.2
+Flujo
+ Generado
+ por
+ el
+ Proyecto
+
+La
+ fase
+ de
+ construcción
+ corresponde
+ al
+ período
+ sobre
+ el
+ cual
+ se
+ generará
+ el
+ mayor
+ aporte
+ de
+ flujo
+a
+ la
+ vialidad
+ pública,
+ este
+ período
+ tendrá
+ una
+ duración
+ de
+ 6
+ meses
+ y
+ el
+ horario
+ será
+ de
+ lunes
+ a
+sábado
+ de
+ 7:00
+ a
+ 21:00
+ horas.
+
+Durante
+ la
+ fase
+ de
+ construcción
+ se
+ requerirá
+ transportar
+ al
+ personal
+ contratado,
+ los
+ materiales
+ de
+construcción,
+ las
+ estructuras,
+ equipos,
+ insumos
+ y
+ residuos
+ de
+ distinto
+ tipo.
+ Como
+ medios
+ de
+transporte
+ se
+ utilizarán
+ buses
+ y
+ camiones,
+ de
+ proveedores
+ privados
+ de
+ transporte.
+
+En
+ la
+ siguiente
+ tabla
+ se
+ indican
+ los
+ flujos
+ estimados
+ para
+ la
+ fase
+ de
+ construcción.
+
+**Tabla
+ 3-­‐1:
+ Flujo
+ generado
+ por
+ el
+ Proyecto,
+ fase
+ de
+ construcción**
+
+|Actividad|Cantidad (m3)|Medio de<br>Transporte|Capacidad|Viajes Totales (ida)|
+|---|---|---|---|---|
+|Escarpe|26250|C.Batea|20|1544|
+|Excavaciones|9267|C.Batea|20|457|
+|Áridos|5500|C.Batea|20|203|
+|Residuos|86|C.Batea|20|4|
+|Hormigón|480|C.Mixer|6|80|
+|Acero|3,2|C.Pequeño|6|1|
+|Agua Potable y<br>servicios|1296|C. Plano|20|91|
+|Buses de<br>Acercamiento|-|Bus Urbano|-|180|
+
+_Nota:
+ Información
+ obtenida
+ de
+ Anexo
+ 2.2
+ de
+ la
+ DIA._
+
+7
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 4
+
+ DEFINICIONES
+ INICIALES**
+
+4.1
+Área
+ de
+ Influencia
+
+El
+ área
+ de
+ influencia
+ se
+ definió
+ a
+ partir
+ de
+ las
+ rutas
+ de
+ acceso
+ al
+ Proyecto
+ informadas
+ por
+ el
+ Titular
+y
+ reportadas
+ en
+ la
+ sección
+ 3.1
+ del
+ presente
+ informe.
+ Para
+ este
+ Proyecto
+ el
+ área
+ se
+ definió
+considerando
+ las
+ vías
+ que
+ conectan
+ a
+ éste
+ con
+ la
+ vialidad
+ pública
+ de
+ mayor
+ jerarquía,
+ junto
+ a
+ su
+empalme
+ de
+ acceso
+ a
+ ésta.
+
+Así,
+ el
+ área
+ de
+ influencia
+ definida
+ para
+ el
+ presente
+ estudio
+ vial,
+ se
+ esquematiza
+ en
+ la
+ figura
+siguiente.
+
+**Figura
+ 4-­‐1:
+ Área
+ de
+ Influencia**
+
+_Nota:
+ Imagen
+ obtenida
+ desde
+ Google
+ Maps._
+
+8
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+4.2
+Periodización
+
+Para
+ identificar
+ el
+ período
+ más
+ cargado
+ en
+ cuanto
+ a
+ flujo
+ vehicular
+ se
+ realizó
+ una
+ medición
+continua
+ en
+ la
+ intersección
+ de
+ la
+ Ruta
+ H-­‐30
+ con
+ la
+ calle
+ José
+ Miguel
+ Carrera,
+ el
+ día
+ 28
+ noviembre
+ de
+2017
+ entre
+ las
+ 7:00
+ y
+ 20:00
+ horas.
+
+A
+ continuación
+ se
+ presenta
+ una
+ figura
+ con
+ la
+ ubicación
+ del
+ punto
+ de
+ medición
+ utilizado
+ para
+periodizar.
+
+**Figura
+ 4-­‐2:
+ Ubicación
+ de
+ punto
+ de
+ medición
+ para
+ definir
+ hora
+ más
+ cargada**
+
+_Nota:
+ Imagen
+ obtenida
+ desde
+ Google
+ Maps._
+
+Se
+ consideró
+ la
+ transformación
+ del
+ flujo
+ vehicular
+ medido
+ a
+ “Vehículos
+ Equivalentes”
+ utilizando
+ los
+factores
+ de
+ equivalencia
+ recomendados
+ por
+ SECTRA
+ (1988):
+
+**Tabla
+ 4-­‐1:
+ Factores
+ de
+ equivalencia.**
+
+9
+
+|Tipo de Vehículos|Factor de Equivalencia|
+|---|---|
+|Vehículos Livianos y Taxis|1,00|
+|TaxiColectivo|1,35|
+|Taxibuses|1,65|
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+|Tipo de Vehículos|Factor de Equivalencia|
+|---|---|
+|Buses|2,00|
+|Busesarticulados|3|
+|Camiones2 ejes|2,00|
+|Camionesdemásde2 ejes|2,50|
+
+_Nota:
+ Coeymans
+ y
+ Neely
+ (1984);
+ Gibson
+ Saavedra
+ y
+ Spoerer
+ (1982)
+ en
+ SECTRA
+ (1988)._
+
+En
+ la
+ siguiente
+ figura
+ se
+ expone
+ el
+ diagrama
+ de
+ los
+ movimientos
+ utilizados
+ para
+ la
+ definición
+ de
+ la
+hora
+ punta:
+
+**Figura
+ 4-­‐3:
+ Diagrama
+ de
+ los
+ movimientos
+ vehiculares
+ utilizados
+ para
+ periodizar**
+
+El
+ histograma
+ a
+ continuación
+ muestra
+ la
+ distribución
+ del
+ flujo
+ en
+ vehículos
+ equivalentes,
+agregando
+ todos
+ los
+ movimientos
+ de
+ la
+ intersección:
+
+10
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 4-­‐4:
+ Histograma
+ de
+ Flujos
+ Intersección
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (Veq
+ /
+ h)**
+
+Conforme
+ a
+ la
+ figura
+ anterior,
+ el
+ periodo
+ más
+ relevante
+ corresponde
+ al
+ período
+ Punta
+ Mañana
+entre
+ 7:00
+ y
+ 9:00
+ horas.
+
+Los
+ flujos
+ vehiculares
+ por
+ hora
+ registrados
+ en
+ torno
+ a
+ las
+ horas
+ punta
+ en
+ la
+ intersección
+ de
+ Ruta
+ H-­‐
+30
+ con
+ José
+ Miguel
+ Carrera
+ se
+ detallan
+ en
+ la
+ tabla
+ siguiente:
+
+**Tabla
+ 4-­‐2:
+ Periodización
+ de
+ la
+ Intersección
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (Veq/Hora)**
+
+|Hora|Flujo vehicular (Veq)|
+|---|---|
+|7:00-8:00|1046|
+|7:15-8:15|1246|
+|7:30-8:30|1275|
+|7:45-8:45|1224|
+|8:00-9:00|1096|
+|8:15-9:15|1012|
+
+Conforme
+ a
+ la
+ tabla
+ anterior
+ se
+ concluye
+ que
+ la
+ hora
+ con
+ mayor
+ flujo
+ vehicular
+ corresponde
+ a
+ la
+Punta
+ Mañana
+ entre
+ 7:30
+ y
+ 8:30
+ horas.
+
+4.3
+Cortes
+ Temporales
+
+La
+ fase
+ de
+ construcción,
+ período
+ sobre
+ el
+ cual
+ se
+ estima
+ el
+ mayor
+ flujo
+ del
+ Proyecto
+ sobre
+ la
+vialidad
+ pública,
+ tendrá
+ una
+ duración
+ de
+ 6
+ meses
+ iniciándose
+ en
+ mayo
+ de
+ 2018
+ y
+ finalizando
+ en
+noviembre
+ de
+ 2018.
+ Por
+ tanto,
+ se
+ establece
+ como
+ corte
+ temporal
+ el
+ año
+ 2018.
+
+11
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+4.4
+Tasa
+ de
+ crecimiento
+ vehicular
+
+Para
+ efectos
+ de
+ proyección
+ del
+ flujo
+ vehicular
+ se
+ utilizaron
+ las
+ tasas
+ de
+ crecimiento
+ recomendadas
+
+1
+
+por
+ SECTRA
+ (1998),
+ las
+ que
+ se
+ presentan
+ en
+ la
+ siguiente
+ tabla:
+
+**Tabla
+ 4-­‐3:
+ Tasa
+ de
+ Crecimiento
+ por
+ Tipo
+ de
+ Vehículo**
+
+|Tipo de Vehículo|Tasa Crecimiento Anual (%)|
+|---|---|
+|VehículosLivianos|6.5|
+|TransportePúblico(busesy taxiscolectivos)|2.5|
+|Camionesde2 ejes|2|
+|Camionesde+ 2 ejes|5.5|
+
+_Nota:_ Valores
+ obtenidos
+ de
+ SECTRA
+ (1998).
+
+1 SECTRA
+ (1998)
+ Metodología
+ Normalizada
+ para
+ EI/ST
+
+12
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 5
+
+
+ ANÁLISIS
+ ESCENARIO
+ ACTUAL**
+
+5.1
+Oferta
+ Vial
+ Escenario
+ Actual
+
+En
+ este
+ apartado
+ se
+ expone
+ una
+ descripción
+ de
+ las
+ vías
+ presentes
+ en
+ el
+ área
+ de
+ influencia
+ del
+Proyecto.
+ Éstas
+ corresponden
+ a
+ las
+ principales
+ rutas
+ de
+ acceso
+ a
+ éste,
+ incluyendo
+ las
+intersecciones
+ de
+ mayor
+ relevancia.
+
+Para
+ analizar
+ de
+ manera
+ adecuada
+ las
+ características
+ de
+ las
+ rutas
+ a
+ utilizar
+ por
+ el
+ Proyecto,
+ se
+revisó
+ en
+ detalle
+ los
+ elementos
+ físicos
+ y
+ operativos
+ de
+ ella.
+ Desde
+ el
+ punto
+ de
+ vista
+ operativo
+ se
+presenta
+ los
+ siguientes
+ antecedentes:
+ regulación
+ de
+ intersecciones,
+ velocidad
+ máxima
+ permitida,
+sentidos
+ de
+ circulación,
+ señalización
+ y
+ demarcación,
+ entre
+ otros.
+ Desde
+ el
+ punto
+ de
+ vista
+ físico
+ se
+presenta:
+ número
+ y
+ uso
+ de
+ pistas,
+ ancho
+ de
+ calzada
+ (mediana
+ y
+ berma),
+ tipo
+ y
+ estado
+ de
+pavimento,
+ velocidad
+ máxima
+ permitida,
+ entre
+ otros.
+
+5.2
+Descripción
+ Tramos
+ de
+ Vía
+
+**Figura
+ 5-­‐1:
+ Tramos
+ de
+ vía
+ caracterizados
+ por
+ Ruta
+ de
+ acceso**
+
+_Nota:_ _Imagen
+ obtenida
+ de_ _Google
+ Maps._
+
+13
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+En
+ la
+ siguiente
+ tabla
+ se
+ detallan
+ los
+ tramos
+ de
+ vías
+ analizados:
+
+**Tabla
+ 5-­‐1:
+ Tramos
+ caracterizados**
+
+|Tramo|Ruta|Inicio|Término|
+|---|---|---|---|
+|TramoN°1|JoséMiguelCarrera|BernardoO’Higgins|Caupolicán|
+|TramoN°2|Caupolicán|JoséMiguelCarrera|Galvarino|
+
+5.2.1
+Tramo
+ No1:
+ Calle
+ José
+ Miguel
+ Carrera,
+ entre
+ Bernardo
+ O`Higgins
+ y
+ Caupolicán
+
+**Tabla
+ 5-­‐2:
+ Características
+ Tramo
+ 1,
+ Calle
+ José
+ Miguel
+ Carrera**
+
+|Parámetro|Descripción|
+|---|---|
+|<br> <br>|Corresponde a una vía de calzada simple, con sentido<br>bidireccional, con dos pistas, una por sentido de<br>circulación.<br> <br>El ancho de la calzada es 7 m y posee veredas en ambos<br>costados de 1,4 m. Los cruces poseen rebajes de solera<br>en buen estado.<br> <br>La materialidad de la carpeta es asfalto y se presenta en<br>buen estado de conservación.<br> <br>La única señal vertical presente en el tramo corresponde<br>a la señal de identificación vial de nombre y numeración<br>de calle, que se ubica en el costado sur oriente de la<br>intersección de 18 de septiembre con José Miguel<br>Carrera. La señal antes mencionada se encuentra en<br>buen estado.<br> <br>En cuanto a las demarcaciones, se identificaron líneas de<br>eje central segmentadas y paso cebra. Todas en mal<br>estadodeconservación.|
+|Longituddeltramo|237m aproximados.|
+|Tipodecalzada|Simple.|
+|Anchodecalzada|7 metros.|
+|Nodepistasdecirculación|2 (unaporsentido).|
+|Anchodepistas|3,5metros.|
+|Anchodeveredas|1,4metros.|
+|Rebajesdesoleraencruces|Si,todosenbuenestado.|
+|Anchodelaberma|SinBerma.|
+|Tipoy estadodelpavimento|Asfaltoenbuenestadodeconservación.|
+|Velocidadmáximapermitida|Noinformado.|
+|Congestiónvehicular|Noseaprecia.|
+|Señalización|No se aprecia. Solo señal de nombre y numeración de<br>calle.|
+|Estadodeconservacióndedemarcaciones|Malestadodeconservación|
+|Conflictos viales|La intersección de José Miguel Carrera con Bernardo<br>O ́Higginsnoposeeregulacióndeprioridad.|
+|Dispositivosdeseguridadvial|Noseaprecian.|
+|Observaciones|EnlaintersecciónconBernardoO`Higginssedesarrolla|
+
+14
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.2.2
+Tramo
+ No2:
+ Calle
+ Caupolicán,
+ entre
+ José
+ Miguel
+ Carrera
+ y
+ Galvarino
+
+**Tabla
+ 5-­‐3:
+ Características
+ Tramo
+ 2,
+ Caupolicán**
+
+|Parámetro|Descripción|
+|---|---|
+|<br>|La calle Caupolicán, es una vía bidireccional, de calzada<br>simple, con una pista por sentido de circulación. Posee<br>un ancho de calzada de 6 metros.<br> <br>La calle posee veredas en ambos costados de 1 metro de<br>ancho, en buen estado de conservación. Los cruces<br>poseen rebajes de solera, salvo en el acceso poniente del<br>cruce de Caupolicán con Galvarino.<br> <br>La materialidad de la carpeta es asfalto y está en buen<br>estado de conservación.<br> <br>En cuanto a la señalización, no se observaron señales<br>verticales. Se identificaron demarcaciones de líneas de<br>eje central segmentado y pasos cebra desgastados.<br>|
+|Longituddeltramo|63metrosaproximadamente.|
+|Tipodecalzada|Simple|
+|Anchodecalzada|6 metros|
+|Nodepistasdecirculación|2 (unaporsentido)|
+|Anchodepistas|3 metros|
+|Anchodeveredas|1 metro.|
+|Rebajes de solera en cruces|Si, en todos los cruces, salvo en el acceso poniente de la<br>interseccióndeCaupolicánconGalvarino.|
+|Anchodelaberma|Sinberma.|
+|Tipoy estadodelpavimento|Asfaltoenbuenestadodeconservación.|
+|Velocidadmáximapermitida|Noseinforma.|
+|Congestiónvehicular|Noseaprecia.|
+|Señalizacióncaminera|Noseaprecia..|
+|Estadodeconservacióndedemarcaciones|Malestado.|
+|Conflictosviales|Noseaprecian.|
+|Dispositivosdeseguridadvial|Noseaprecian.|
+|Observaciones|Se identificó un Paso Cebra en tramo de vía, sin rebajes<br>desoleray sinconexióna veredas.|
+
+15
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.3
+Descripción
+ de
+ Intersecciones
+
+**Figura
+ 5-­‐2:
+ Ubicación
+ de
+ intersecciones
+ caracterizadas**
+
+_Nota:_ Imagen
+ obtenida
+ de _Google
+ Maps._
+
+En
+ la
+ siguiente
+ tabla
+ se
+ detallan
+ las
+ intersecciones
+ caracterizadas:
+
+**Tabla
+ 5-­‐4:
+ Intersecciones
+ caracterizadas**
+
+|Intersección|Vía 1|Vía 2|
+|---|---|---|
+|No1|RutaH-30|JoséMiguelCarrera|
+|No2|BernardoO`Higgins|JoséMiguelCarrera|
+|No3|JoséMiguelCarrera|Caupolicán|
+|No4|Caupolicán|AccesoalProyecto|
+
+16
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.3.1
+Intersección
+ No
+ 1:
+ Ruta
+ H-­‐30
+ (km
+ 14)
+ con
+ José
+ Miguel
+ Carrera.
+
+El
+ cruce
+ de
+ la
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera,
+ corresponde
+ a
+ un
+ empalme
+ en
+ T
+ simple,
+ regulado
+por
+ señal
+ Pare
+ (RPI-­‐2).
+
+La
+ ruta
+ H-­‐30
+ es
+ de
+ calzada
+ simple,
+ con
+ sentido
+ bidireccional.
+ Posee
+ dos
+ pistas
+ de
+ circulación,
+ una
+por
+ sentido.
+ Cada
+ pista
+ tiene
+ un
+ ancho
+ de
+ 3,5
+ m.
+ La
+ ruta
+ H-­‐30
+ posee
+ berma
+ en
+ ambos
+ costados,
+ de
+1
+ m
+ en
+ el
+ costado
+ sur
+ y
+ de
+ 2,5
+ m
+ en
+ el
+ costado
+ norte.
+ Además,
+ posee
+ una
+ ciclovía
+ en
+ el
+ costado
+norte
+ de
+ 2,5
+ m.
+
+La
+ materialidad
+ de
+ la
+ carpeta
+ de
+ la
+ ruta
+ H-­‐30
+ es
+ asfalto
+ y
+ se
+ verificó
+ en
+ buen
+ estado
+ de
+conservación.
+
+La
+ calle
+ José
+ Miguel
+ Carrera
+ en
+ el
+ empalme
+ con
+ la
+ ruta
+ H-­‐30
+ no
+ está
+ consolidada
+ y
+ tiene
+ un
+ ancho
+de
+ 6,30
+ m.
+
+En
+ cuanto
+ a
+ las
+ señales
+ verticales
+ en
+ el
+ cruce
+ estas
+ se
+ encuentran
+ en
+ buen
+ estado
+ de
+ conservación.
+Las
+ demarcaciones
+ se
+ observaron
+ desgastadas
+ en
+ la
+ ruta
+ H-­‐30,
+ específicamente
+ las
+ demarcaciones
+de
+ la
+ ciclobanda.
+ Cabe
+ precisar
+ que
+ en
+ el
+ punto
+ de
+ empalme
+ la
+ calle
+ José
+ Miguel
+ Carrea
+ no
+ posee
+demarcaciones,
+ porque
+ su
+ carpeta
+ no
+ está
+ consolidada.
+
+La
+ velocidad
+ máxima
+ se
+ encuentra
+ señalizada
+ en
+ el
+ cruce
+ y
+ es
+ 60
+ km/h.
+
+Se
+ identificaron
+ dos
+ paradas
+ de
+ transporte
+ público
+ (con
+ bahía)
+ en
+ la
+ ruta
+ H-­‐30,
+ una
+ en
+ el
+ costado
+norte
+ y
+ otra
+ en
+ el
+ costado
+ sur.
+ En
+ cuanto
+ a
+ la
+ infraestructura
+ de
+ las
+ paradas,
+ éstas
+ poseen
+ refugio
+ y
+señal
+ en
+ buen
+ estado
+ de
+ conservación.
+
+En
+ cuanto
+ a
+ la
+ infraestructura
+ peatonal,
+ no
+ se
+ identificó
+ cruce
+ de
+ peatones
+ regulado
+ o
+ demarcado,
+ni
+ veredas
+ que
+ conecten
+ las
+ paradas.
+ No
+ obstante,
+ existen
+ señales
+ verticales
+ (en
+ buen
+ estado)
+ que
+advierten
+ la
+ presencia
+ de
+ peatones
+ en
+ la
+ vía.
+
+La
+ visibilidad
+ se
+ presenta
+ despejada
+ sin
+ obstáculos
+ que
+ impidan
+ al
+ conductor
+ observar
+ libremente
+hacia
+ ambos
+ costados.
+
+|Figura 5-­‐3: Cruce de José Miguel Carrera con ruta<br>H-­‐30, sin consolidar|Figura 5-­‐4: Señal de regulación Pare en buen<br>estado de conservación|
+|---|---|
+|||
+
+17
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+|Figura 5-­‐5: Demarcaciones de ciclovía en mal<br>estado de conservación|Figura 5-­‐6: Parada ubicada en costada norte de<br>ruta H-­‐30, con refugio y señal en buen estado|
+|---|---|
+|||
+|**Figura 5-7: Parada de transporte público en el**<br>**costadosurderutaH-30conseñaly refugio**|** Figura 5-8: Señal de velocidad máxima en buen**<br>**estadodeconservación**|
+|||
+
+La
+ figura
+ que
+ se
+ presenta
+ a
+ continuación
+ esquematiza
+ la
+ ubicación
+ y
+ estado
+ de
+ señales
+ y
+demarcaciones
+ presentes
+ en
+ la
+ intersección
+ revisada.
+ Cabe
+ señalar
+ que
+ en
+ color
+ magenta
+ se
+destacan
+ aquellos
+ elementos
+ que
+ se
+ encuentran
+ en
+ mal
+ estado.
+
+**Figura
+ 5-­‐9:
+ Señales
+ y
+ demarcaciones
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera**
+
+18
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+Finalmente,
+ la
+ figura
+ siguiente
+ esquematiza
+ los
+ radios
+ de
+ giro
+ en
+ el
+ empalme
+ considerando
+ un
+camión
+ de
+ 10
+ metros
+ de
+ largo,
+ a
+ partir
+ de
+ la
+ utilización
+ de
+ la
+ herramienta
+ Autoturn.
+
+**Figura
+ 5-­‐10:
+ Análisis
+ radios
+ de
+ giro,
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (ingreso)**
+
+**Figura
+ 5-­‐11:
+ Análisis
+ radios
+ de
+ giro,
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ (egreso)**
+
+Conforme
+ a
+ lo
+ mostrado
+ en
+ la
+ figura
+ anterior,
+ el
+ empalme
+ no
+ presenta
+ restricciones
+ geométricas
+para
+ la
+ operación
+ de
+ vehículos
+ pesados,
+ considerando
+ los
+ parámetros
+ analizados.
+
+19
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.4
+Intersección
+ No
+ 2:
+ Bernardo
+ O ́Higgins
+ con
+ José
+ Miguel
+ Carrera
+
+El
+ cruce
+ corresponde
+ a
+ una
+ intersección
+ en
+ T
+ simple,
+ sin
+ regulación
+ de
+ prioridad.
+
+La
+ calle
+ Bernardo
+ O ́Higgins
+ corresponde
+ a
+ una
+ vía
+ de
+ calzada
+ simple,
+ con
+ dos
+ pistas
+ de
+ 3
+ m
+ cada
+una.
+ Posee
+ vereda
+ solo
+ en
+ el
+ costado
+ norte
+ de
+ 1,4
+ m
+ de
+ ancho.
+
+ En
+ el
+ costado
+ sur
+ se
+ desarrolla
+ una
+mediana
+ de
+ 7,5
+ m.
+
+La
+ materialidad
+ de
+ la
+ carpeta
+ es
+ asfalto
+ y
+ está
+ en
+ buen
+ estado
+ de
+ conservación.
+
+En
+ cuanto
+ a
+ las
+ demarcaciones,
+ en
+ calle
+ Bernardo
+ O`Higgins,
+ posee
+ líneas
+ de
+ eje
+ central
+segmentadas
+ en
+ mal
+ estado
+ de
+ conservación
+ y
+ se
+ observan
+ demarcaciones
+ que
+ enumeran
+ puestos
+de
+ una
+ feria
+ libre.
+
+En
+ relación
+ con
+ las
+ señales
+ verticales
+ no
+ se
+ observaron
+ en
+ el
+ empalme,
+ por
+ lo
+ que
+ la
+ intersección
+no
+ está
+ regulada
+ con
+ prioridad
+ de
+ paso.
+
+La
+ calle
+ José
+ Miguel
+ Carrera,
+ en
+ el
+ cruce,
+ posee
+ una
+ calzada
+ simple
+ y
+ es
+ de
+ sentido
+ bidireccional.
+ El
+ancho
+ de
+ la
+ calzada
+ es
+ 7
+ m
+ y
+ posee
+ veredas
+ en
+ ambos
+ costados
+ de
+ 1,4
+ m.
+ Los
+ cruces
+ poseen
+rebajes
+ de
+ solera
+ en
+ buen
+ estado.
+ La
+ materialidad
+ de
+ la
+ carpeta
+ es
+ asfalto
+ y
+ se
+ presenta
+ en
+ buen
+estado
+ de
+ conservación.
+ En
+ el
+ cruce
+ esta
+ vía
+ no
+ presenta
+ demarcaciones
+ ni
+ señales
+ verticales.
+
+La
+ visibilidad
+ se
+ presenta
+ despejada,
+ sin
+ obstáculos
+ que
+ impidan
+ al
+ conductor
+ observar
+ libremente
+hacia
+ ambos
+ accesos
+ de
+ la
+ intersección.
+
+|Figura 5-­‐12: Demarcaciones de eje central<br>desgastadas en calle Bernardo O ́Higgins y<br>demarcaciones de puestos de feria libre|Figura 5-­‐13: Acceso norte de José Miguel Carrera<br>sin demarcaciones. Rebajes de solera en buen<br>estado de conservación|
+|---|---|
+|||
+
+20
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+|Figura 5-­‐14: Acceso oriente del cruce de José<br>Miguel Carrera con Bernardo O ́Higgins|Figura 5-­‐15: Cruce de José Miguel Carrera con<br>Bernardo O ́Higgins sin señal de prioridad|
+|---|---|
+|||
+
+La
+ figura
+ que
+ se
+ presenta
+ a
+ continuación
+ esquematiza
+ la
+ ubicación
+ y
+ estado
+ de
+ señales
+ y
+demarcaciones
+ presentes
+ en
+ la
+ intersección
+ revisada.
+ Cabe
+ señalar
+ que
+ en
+ color
+ magenta
+ se
+destacan
+ aquellos
+ elementos
+ que
+ se
+ encuentran
+ en
+ mal
+ estado.
+
+**Figura
+ 5-­‐16:
+ Señales
+ y
+ demarcaciones
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins**
+
+5.5
+Intersección
+ No
+ 3:
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+
+El
+ cruce
+ corresponde
+ a
+ una
+ intersección
+ en
+ T
+ simple,
+ sin
+ regulación
+ de
+ prioridad.
+
+La
+ calle
+ Caupolicán,
+ es
+ una
+ vía
+ bidireccional,
+ de
+ calzada
+ simple,
+ con
+ una
+ pista
+ por
+ sentido
+ de
+circulación.
+ Posee
+ un
+ ancho
+ de
+ calzada
+ de
+ 6
+ metros.
+ La
+ materialidad
+ de
+ la
+ carpeta
+ es
+ asfalto
+ y
+ está
+en
+ buen
+ estado
+ de
+ conservación.
+
+La
+ calle
+ José
+ Miguel
+ Carrera,
+ en
+ el
+ cruce,
+ posee
+ una
+ calzada
+ simple
+ y
+ es
+ de
+ sentido
+ bidireccional.
+ El
+ancho
+ de
+ la
+ calzada
+ es
+ 7
+ metros.
+ La
+ materialidad
+ de
+ la
+ carpeta
+ es
+ asfalto
+ y
+ se
+ presenta
+ en
+ buen
+estado
+ de
+ conservación.
+
+21
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+En
+ relación
+ con
+ las
+ facilidades
+ peatonales,
+ se
+ observan
+ veredas
+ en
+ ambas
+ vías
+ de
+ 1,4
+ metros
+ en
+José
+ Miguel
+ Carrera
+ y
+ de
+ 1
+ metro
+ en
+ la
+ vía
+ Caupolicán,
+ ambas
+ en
+ buen
+ estado
+ de
+ conservación.
+Existe
+ un
+ paso
+ cebra
+ en
+ el
+ acceso
+ sur
+ del
+ empalme,
+ que
+ se
+ encuentra
+ desgastado
+ y
+ posee
+ rebajes
+de
+ solera
+ en
+ buen
+ estado.
+
+En
+ relación
+ con
+ las
+ señales
+ verticales
+ no
+ se
+ observaron
+ en
+ el
+ empalme.
+ Por
+ otro
+ lado
+ las
+demarcaciones
+ en
+ el
+ cruce
+ se
+ observan
+ desgastadas
+ (línea
+ de
+ eje
+ central
+ segmentado
+ y
+ paso
+ cebra
+se
+ encuentran
+ desgastados).
+
+La
+ visibilidad
+ se
+ presenta
+ despejada,
+ sin
+ obstáculos
+ que
+ impidan
+ al
+ conductor
+ observar
+ libremente
+hacia
+ ambos
+ accesos
+ de
+ la
+ intersección.
+
+|Figura 5-­‐17: Acceso sur del empalme, paso cebra<br>desgastado y sin señal de prioridad|Figura 5-­‐18: Líneas de eje central segmentado<br>desgastado|
+|---|---|
+|||
+
+La
+ figura
+ que
+ se
+ presenta
+ a
+ continuación
+ esquematiza
+ la
+ ubicación
+ y
+ estado
+ de
+ señales
+ y
+demarcaciones
+ presentes
+ en
+ la
+ intersección
+ revisada.
+ Cabe
+ señalar
+ que
+ en
+ color
+ magenta
+ se
+destacan
+ aquellos
+ elementos
+ que
+ se
+ encuentran
+ en
+ mal
+ estado.
+
+**Figura
+ 5-­‐19:
+ Señales
+ y
+ demarcaciones
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán**
+
+Finalmente,
+ la
+ figura
+ siguiente
+ esquematiza
+ los
+ radios
+ de
+ giro
+ en
+ el
+ empalme
+ considerando
+ un
+camión
+ de
+ 10
+ metros
+ de
+ largo,
+ a
+ partir
+ de
+ la
+ utilización
+ de
+ la
+ herramienta
+ Autoturn.
+
+22
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 5-­‐20:
+ Análisis
+ radios
+ de
+ giro,
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ (ingreso)**
+
+**Figura
+ 5-­‐21:
+ Análisis
+ radios
+ de
+ giro,
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+ (egreso)**
+
+Conforme
+ a
+ lo
+ mostrado
+ en
+ la
+ figura
+ anterior,
+ el
+ empalme
+ no
+ presenta
+ restricciones
+ geométricas
+para
+ la
+ operación
+ de
+ vehículos
+ pesados,
+ considerando
+ los
+ parámetros
+ analizados.
+
+5.6
+Intersección
+ No
+ 4:
+ Caupolicán
+ con
+ Acceso
+ al
+ Proyecto
+
+El
+ acceso
+ al
+ Proyecto
+ se
+ ubicará
+ por
+ calle
+ Caupolicán.
+ Esta
+ vía es bidireccional,
+ de
+ calzada
+ simple,
+con
+ una
+ pista
+ por
+ sentido
+ de
+ circulación.
+ Posee
+ un
+ ancho
+ de
+ calzada
+ de
+ 6
+ metros.
+ La
+ calle
+ posee
+
+23
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+veredas
+ en
+ ambos
+ costados
+ de
+ 1
+ metro
+ de
+ ancho,
+ en
+ buen
+ estado
+ de
+ conservación.
+ La
+materialidad
+ de
+ la
+ carpeta
+ es
+ asfalto
+ y
+ está
+ en
+ buen
+ estado
+ de
+ conservación.
+
+En
+ cuanto
+ a
+ señalización,
+ no
+ se
+ observaron
+ señales
+ verticales.
+ Se
+ identificaron
+ demarcaciones
+ de
+líneas
+ de
+ eje
+ central
+ segmentado
+ desgastados.
+
+El
+ acceso
+ al
+ predio
+ en
+ donde
+ se
+ ubicará
+ en
+ Proyecto
+ se
+ encuentra,
+ en
+ la
+ situación
+ actual,
+ sin
+consolidar
+ y
+ tiene
+ un
+ ancho
+ de
+ 8
+ metros.
+
+|Figura 5-­‐22: Emplazamiento de Acceso al<br>Proyecto|Figura 5-­‐23: Acceso al predio del Proyecto sin<br>consolidar|
+|---|---|
+|||
+
+La
+ figura
+ que
+ se
+ presenta
+ a
+ continuación,
+ esquematiza
+ la
+ ubicación
+ y
+ estado
+ de
+ señales
+ y
+demarcaciones
+ presentes
+ en
+ el
+ entorno
+ próximo
+ al
+ emplazamiento
+ del
+ acceso
+ al
+ Proyecto.
+ Cabe
+señalar
+ que
+ en
+ color
+ magenta
+ se
+ destacan
+ aquellos
+ elementos
+ que
+ se
+ encuentran
+ en
+ mal
+ estado.
+
+**Figura
+ 5-­‐24:
+ Señales
+ y
+ Demarcaciones
+ próximos
+ al
+ acceso
+ del
+ Proyecto**
+
+24
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.7
+Demanda
+ Vial
+ Actual
+
+5.7.1
+Plan
+ Nacional
+ de
+ Censos
+
+El
+ Departamento
+ de
+ Estadísticas
+ y
+ Censos
+ de
+ Tránsito
+ del
+ Ministerio
+ de
+ Obras
+ Públicas
+ ha
+ censado
+sistemáticamente
+ la
+ red
+ de
+ caminos
+ chilenos,
+ con
+ el
+ objeto
+ de
+ conocer
+ el
+ comportamiento
+ del
+tránsito
+ y
+ determinar
+ las
+ principales
+ características
+ de
+ la
+ utilización
+ de
+ los
+ caminos
+ nacionales.
+
+De
+ este
+ modo,
+ se
+ han
+ definido
+ a
+ lo
+ largo
+ del
+ territorio
+ nacional
+ diversos
+ puntos
+ de
+ medición,
+ en
+donde
+ se
+ expone
+ información
+ como
+ la
+ cantidad,
+ el
+ tipo
+ y
+ la
+ temporada
+ en
+ que
+ se
+ desarrollan
+ los
+diferentes
+ flujos
+ para
+ toda
+ la
+ red
+ vial
+ chilena.
+
+Es
+ así
+ que
+ para
+ la
+ ubicación
+ del
+ proyecto
+ en
+ cuestión,
+ se
+ ha
+ trabajado
+ con
+ el
+ siguiente
+ punto
+ de
+control
+ definido
+ por
+ el
+ Plan
+ Nacional
+ de
+ Censo:
+
+ Estación
+ No
+ 98
+ Rol
+ H-­‐30
+ con
+ Rol
+ H-­‐270
+
+La
+ ubicación
+ del
+ punto
+ de
+ control
+ se
+ presenta
+ en
+ la
+ siguiente
+ figura:
+
+**Figura
+ 5-­‐25:
+ Localización
+ puntos
+ de
+ control
+ del
+ Plan
+ Nacional
+ de
+ Censos**
+
+25
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.7.1.1 Estación
+ No98,
+ ruta
+ H-­‐30
+ con
+ ruta
+ H-­‐270
+
+La
+ estación
+ se
+ ubica
+ en
+ el
+ cruce
+ de
+ la
+ ruta
+ H-­‐30
+ con
+ la
+ ruta
+ H-­‐270,
+ aproximadamente
+ a
+ 3
+ km
+ al
+oriente
+ del
+ Proyecto.
+ Los
+ datos
+ relevantes
+ de
+ este
+ punto
+ de
+ control
+ corresponden
+ a
+ los
+movimientos
+ directos
+ por
+ la
+ ruta
+ H-­‐30,
+ por
+ lo
+ que
+ sólo
+ se
+ presentarán
+ los
+ flujos
+ asociados
+ a
+ dicha
+ruta.
+ Se
+ consideraron
+ datos
+ de
+ tránsito
+ por
+ tipo
+ de
+ vehículo
+ y
+ por
+ temporada
+ para
+ el
+ año
+ 2015
+ y
+los
+ resultados
+ se
+ pueden
+ observar
+ a
+ continuación.
+
+**Tabla
+ 5-­‐5:
+ TMD
+ por
+ temporadas,
+ Estación
+ N°
+ 98,
+ ruta
+ H-­‐30**
+
+|Temporada|Ruta H-­‐30|
+|---|---|
+|Invierno|13.277|
+|Primavera|14.554|
+|Verano|11.937|
+|**Promedio**|**13.256**|
+
+_Nota:
+ Plan
+ Nacional
+ de
+ Censos
+ (2015)._
+
+El
+ tránsito
+ medio
+ diario
+ en
+ la
+ ruta
+ H-­‐30
+ es
+ homogéneo
+ a
+ lo
+ largo
+ del
+ año,
+ con
+ mayor
+ participación
+vehicular
+ en
+ primavera.
+ La
+ ruta
+ H-­‐30
+ muestra
+ un
+ TMDA
+ de
+ 13.256
+ en
+ el
+ año
+ 2015.
+
+**Figura
+ 5-­‐26
+ :
+ Distribución
+ por
+ tipo
+ de
+ vehículo,
+ Estación
+ N°98,
+ ruta
+ H-­‐30**
+
+_Nota:_ _Plan
+ Nacional
+ de
+ Censos,
+ (2015)._
+
+En
+ relación
+ a
+ la
+ distribución
+ del
+ TMD
+ para
+ la
+ ruta
+ H-­‐30
+ por
+ tipo
+ de
+ vehículo,
+ los
+ resultados
+muestran
+ que
+ predomina
+ el
+ tránsito
+ de
+ vehículos
+ liviano
+ (83%),
+ seguido
+ de
+ camiones
+ (14%).
+
+26
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5.7.2
+Mediciones
+ de
+ Flujo
+ Vehicular
+
+Se
+ realizaron
+ dos
+ aforos
+ vehiculares
+ en
+ terreno
+ durante
+ el
+ segundo
+ semestre
+ de
+ 2017
+ en
+ las
+intersecciones
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Ruta
+ H-­‐30
+ y
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+O`Higgins.
+
+La
+ figura
+ que
+ se
+ presenta
+ a
+ continuación
+ detalla
+ la
+ ubicación
+ de
+ los
+ puntos
+ de
+ control
+ medidos:
+
+**Figura
+ 5-­‐27:
+ Ubicación
+ Puntos
+ de
+ Control**
+
+_Nota:_ Imagen
+ obtenida
+ de _Google
+ Maps._
+
+A
+ continuación
+ se
+ presenta
+ un
+ resumen
+ de
+ los
+ conteos
+ vehiculares
+ y
+ en
+ el
+ Apéndice
+ No
+ 2
+ se
+expone
+ el
+ detalle
+ de
+ ellos.
+
+ Punto
+ de
+ Medición
+ No
+ 1:
+ empalme
+ de
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+
+Se
+ midió
+ flujo
+ en
+ el
+ empalme
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ el
+ día
+ 28
+ de
+ noviembre
+ de
+2017,
+ entre
+ las
+ 7:00
+ y
+ las
+ 20:00
+ horas.
+ En
+ la
+ siguiente
+ tabla
+ se
+ presentan
+ los
+ movimientos
+registrados,
+ así
+ como
+ los
+ resultados
+ desagregados
+ por
+ movimiento
+ y
+ por
+ hora.
+
+27
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Tabla
+ 5-­‐6:
+ Flujo
+ por
+ movimiento
+ y
+ por
+ hora,
+ Punto
+ de
+ Medición
+ No1**
+
+|Movimientos registrados en la intersección|Flujo por movimiento y por hora|Col3|Col4|Col5|Col6|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Total**<br>937<br>965<br>877<br>766<br>685<br>736<br>772<br>762<br>782<br>906<br> 1.003 <br>976<br>867<br> **11.034 **|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|**10**|**12**|**20**|**21**|**41**|**42**|**42**|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|0|11|8|398|518|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|13|7|342|599|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|5|7|9|450|404|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|8|6|329|419|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|3|6|352|321|1|1|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|3|5|9|392|324|3|3|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|1|7|6|383|373|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|4|9|6|350|392|1|1|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|3|5|5|335|433|1|1|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|3|10|11|428|452|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|5|8|16|441|529|4|4|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|4|11|494|459|6|6|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|7|11|5|472|368|4|4|
+|José Miguel Carrera<br>**N**<br>10<br>12<br>42<br>20<br>41<br>21<br>Ruta H-30<br>|**Hora**<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|** 39**|** 101**|** 105**|**5.166 **|**5.591 **|** 32**|** 32**|
+
+De
+ acuerdo
+ a
+ tabla
+ anterior,
+ los
+ movimientos
+ directos
+ por
+ la
+ ruta
+ H-­‐30
+ (mov.
+ 21
+ y
+ 41)
+ son
+ los
+ que
+presentan
+ el
+ mayor
+ flujo
+ en
+ la
+ intersección.
+
+La
+ distribución
+ del
+ flujo
+ vehicular
+ registrado
+ se
+ presenta
+ gráficamente
+ en
+ la
+ siguiente
+ figura:
+
+**Figura
+ 5-­‐28:
+ Distribución
+ de
+ flujo
+ vehicular
+ (Veh/h.),
+ Punto
+ de
+ Medición
+ No1**
+
+1200"
+
+1000"
+
+800"
+
+600"
+
+400"
+
+200"
+
+0"
+
+**Hora%**
+
+Respecto
+ al
+ comportamiento
+ del
+ flujo,
+ se
+ reconoce
+ una
+ distribución
+ homogénea
+ en
+ la
+ Figura
+ 5-­‐28
+a
+ lo
+ largo
+ del
+ día.
+ Presentando
+ mayor
+ flujo
+ alrededor
+ de
+ las
+
+ 8:00
+ horas
+ y
+ también
+ a
+ las
+ 17:00
+horas.
+
+28
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+En
+ relación
+ con
+ el
+ tipo
+ de
+ vehículo
+ contabilizado
+ en
+ la
+ medición,
+ los
+ vehículos
+ livianos
+ son
+ los
+ que
+presentan
+ una
+ mayor
+ participación
+ (78%).
+
+ Punto
+ de
+ Medición
+ No
+ 2:
+ empalme
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O`Higgins
+
+Se
+ midió
+ flujo
+ en
+ el
+ empalme
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins
+ el
+ día
+ 28
+ de
+noviembre
+ de
+ 2017,
+ entre
+ las
+ 7:00
+ y
+ las
+ 20:00
+ horas.
+ En
+ la
+ siguiente
+ tabla
+ se
+ presentan
+ los
+movimientos
+ registrados,
+ así
+ como
+ los
+ resultados
+ desagregados
+ por
+ movimiento
+ y
+ por
+ hora.
+
+**Tabla
+ 5-­‐7:
+ Flujo
+ por
+ movimiento
+ y
+ por
+ hora,
+ Punto
+ de
+ Medición
+ No2**
+
+|Movimientos registrados en la intersección|Flujo por movimiento y por hora|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|**Movimientos**|Total<br>40<br>31<br>35<br>28<br>20<br>34<br>27<br>35<br>22<br>39<br>45<br>47<br>46<br>**449**|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|**10**|**11**|**12**|** 20**|** 21**|** 22**|** 30**|**31**|**32**|** 40**|** 41**|** 42**|** 42**|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|5|11|1|0|1|2|1|9|2|1|5|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|11|1|0|1|0|0|9|0|3|0|4|4|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|1|12|0|0|2|0|1|8|2|1|4|4|4|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|4|8|0|1|1|1|0|8|0|1|1|3|3|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|1|6|0|0|1|0|0|7|0|1|1|3|3|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|8|0|1|1|2|2|11|1|2|0|4|4|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|1|9|0|1|0|0|1|5|2|1|2|5|5|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|0|9|0|0|1|0|1|8|0|4|6|6|6|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|3|6|0|1|2|1|0|6|0|0|0|3|3|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|3|11|0|1|3|0|1|12|0|4|2|2|2|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|1|9|0|2|1|0|2|18|2|2|2|6|6|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|3|11|0|0|1|1|5|14|2|1|3|6|6|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|2|4|1|3|2|2|1|7|1|4|7|12|12|
+|José Miguel Carrera<br>**N**<br>10<br>11<br>12<br>42<br>20<br>41<br>21<br>40<br>22<br>O ́Higgins<br>32<br>31<br>30<br>|Hora<br>7:00<br>8:00<br>9:00<br>10:00<br>11:00<br>12:00<br>13:00<br>14:00<br>15:00<br>16:00<br>17:00<br>18:00<br>19:00<br>**Total**|** 28**|** 115**|**3 **|**10**|** 17**|**9 **|**15**|** 122**|** 12**|** 25**|** 33**|** 60**|** 60**|
+
+De
+ acuerdo
+ a
+ tabla
+ anterior,
+ los
+ movimientos
+ 11
+ y
+ 31
+ son
+ los
+ que
+ presentan
+ el
+ mayor
+ flujo
+ de
+ la
+intersección.
+
+La
+ distribución
+ del
+ flujo
+ vehicular
+ registrado
+ se
+ presenta
+ gráficamente
+ en
+ la
+ siguiente
+ figura:
+
+29
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 5-­‐29:
+ Distribución
+ de
+ flujo
+ vehicular
+ (Veh/h.),
+ Punto
+ de
+ Medición
+ No2**
+
+50"
+
+45"
+
+40"
+
+35"
+
+30"
+
+25"
+
+20"
+
+15"
+
+10"
+
+5"
+
+0"
+
+**Hora%**
+
+Respecto
+ al
+ comportamiento
+ del
+ flujo,
+ se
+ reconoce
+ un
+ flujo
+ bajo
+ en
+ la
+ intersección,
+ presentando
+mayor
+ flujo
+ alrededor
+ de
+ las
+ 7:00
+ y
+ 18:00
+ horas.
+
+En
+ relación
+ con
+ el
+ tipo
+ de
+ vehículo
+ contabilizado
+ en
+ la
+ medición,
+ los
+ vehículos
+ livianos
+ son
+ los
+ que
+presentan
+ una
+ mayor
+ participación
+ (70%).
+
+30
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 6
+
+ ANÁLISIS
+ DEL
+ ESCENARIO
+ BASE
+ Y
+ CON
+ PROYECTO**
+
+6.1
+Oferta
+ Vial
+ Escenario
+ Base
+
+Se
+ realizó
+ la
+ consulta
+ a
+ la
+ Dirección
+ de
+ Vialidad
+ y
+ confirmó
+ que
+ no
+ hay
+ proyectos
+ que
+ modifiquen
+ o
+mejoren
+ la
+ actual
+ infraestructura
+ antes
+ del
+ corte
+ temporal
+ del
+ proyecto.
+
+6.2
+Estimación
+ de
+ la
+ demanda
+ del
+ Proyecto
+
+La
+ estimación
+ de
+ viajes
+ del
+ Proyecto
+ se
+ realizó
+ a
+ partir
+ de
+ información
+ entregada
+ por
+ el
+ Titular
+ y
+presentada
+ en
+ la
+ sección
+ 3.2.
+
+A
+ partir
+ de
+ lo
+ expuesto
+ en
+ la
+ Tabla
+ 3-­‐1
+ se
+ agruparon
+ los
+ flujos
+ en
+ las
+ siguientes
+ categorías:
+camiones
+ y
+ buses,
+ además,
+ se
+ estimaron
+ los
+ flujos
+ mes
+ y
+ día
+ considerando
+ los
+ siguientes
+antecedentes
+ entregados
+ por
+ el
+ Titular.
+
+ La
+ fase
+ de
+ construcción
+ tendrá
+ una
+ duración
+ de
+ 6
+ meses
+
+ La
+ jornada
+ laboral
+ será
+ de
+ lunes
+ a
+ sábado.
+
+**Tabla
+ 6-­‐1:
+ Flujos
+ Mensuales
+ y
+ diarios
+ del
+ Proyecto,
+ fase
+ de
+ construcción**
+
+|Tipo|Viajes totales|Viajes/Mes<br>(ida)|Viajes/día<br>(ida)|
+|---|---|---|---|
+|Camiones|2.380|397|14|
+|Buses|180|30|1|
+|Totales|2.560|427|15|
+
+Con
+ el
+ objetivo
+ de
+ establecer
+ un
+ escenario
+ conservador,
+ el
+ que
+ posteriormente
+ será
+ utilizado
+ en
+ la
+modelación
+ de
+ flujo,
+ se
+ estimó
+ para
+ la
+ fase
+ de
+ construcción
+ una
+ hora
+ punta
+ teórica.
+ Para
+ esto
+ se
+consideraron
+ los
+ siguientes
+ supuestos:
+
+ El
+ 20%
+ de
+ los
+ viajes
+ de
+ camiones
+ se
+ concentra
+ en
+ 1
+ hora.
+
+ El
+ 50%
+ de
+ los
+ viajes
+ en
+ bus
+ se
+ concentra
+ en
+ 1
+ hora.
+
+Cabe
+ señalar,
+ que
+ en
+ general,
+ los
+ períodos
+ puntas
+ tienden
+ a
+ concentrar
+ alrededor
+ del
+ 15%
+ del
+ flujo
+diario
+ registrado,
+ así,
+ asignar
+ una
+ mayor
+ concentración
+ hipotética
+ garantiza
+ la
+ evaluación
+ de
+ los
+impactos
+ atribuibles
+ al
+ Proyecto
+ en
+ un
+ escenario
+ sumamente
+ exigente.
+
+A
+ continuación,
+ se
+ entregan
+ las
+ estimaciones
+ realizadas,
+ considerando
+ los
+ supuestos
+anteriormente
+ descritos.
+
+31
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Tabla
+ 6-­‐2:
+ Flujo
+ del
+ Proyecto
+ estimado
+ para
+ la
+ modelación**
+
+|Tipo|Veh/día|Veh/h|
+|---|---|---|
+|Camiones|28|6|
+|Buses|2|2|
+|Total|30|8|
+
+Todos
+ los
+ viajes
+ inducidos
+ por
+ el
+ proyecto
+ transitarán
+ por
+ los
+ cruces
+ de
+ José
+ Miguel
+ Carrera
+ con
+Bernardo
+ O`Higgins
+ y
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera.
+ En
+ este
+ último
+ punto,
+ el
+ Titular
+ ha
+informado
+ que
+ todos
+ los
+ viajes
+ serán
+ desde
+ y
+ hacia
+ el
+ oriente.
+ Por
+ tanto,
+ se
+ asumirá
+ para
+ efectos
+de
+ modelación
+ que
+ el
+ 100%
+ de
+ los
+ flujos
+ se
+ dirige
+ y
+ proviene
+ desde
+ el
+ Oriente.
+
+**Tabla
+ 6-­‐3:
+ Distribución
+ del
+ flujo
+ del
+ Proyecto**
+
+32
+
+|Desde/Hacia|Poniente|Oriente|
+|---|---|---|
+|Ingresan|0|4|
+|Egresan|0|4|
+|Total|0|8|
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 7
+
+ MODELACIÓN**
+
+7.1
+Aspectos
+ Generales
+
+7.1.1
+Modelación
+ intersecciones
+
+Se
+ modelaron
+ las
+ intersecciones
+ de
+ mayor
+ relevancia
+ en
+ el
+ contexto
+ del
+ Proyecto,
+correspondientes
+ a:
+
+ Ruta
+ H-­‐30
+ /
+ José
+ Miguel
+ Carrera
+
+ Bernardo
+ O’Higgins
+ /
+ José
+ Miguel
+ Carrera
+
+La
+ modelación
+ de
+ estos
+ puntos
+ fue
+ realizada
+ sobre
+ la
+ base
+ de
+ las
+ mediciones
+ de
+ flujo
+ efectuadas
+en
+ terreno,
+ además
+ de
+ los
+ antecedentes
+ aportados
+ por
+ el
+ Titular.
+
+En
+ términos
+ gráficos,
+ los
+ puntos
+ de
+ modelación
+ pueden
+ ser
+ apreciados
+ en
+ la
+ Figura
+ 7-­‐1.
+
+**Figura
+ 7-­‐1:
+ Emplazamiento
+ puntos
+ de
+ modelación**
+
+_Nota:_ Imagen
+ obtenida
+ de _Google
+ Maps._
+
+33
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+La
+ modelación
+ se
+ llevó
+ a
+ cabo
+ a
+ través
+ de
+ SIDRA
+ INTERSECTION
+ 6.0,
+ considerando
+ que
+ las
+intersecciones
+ señaladas
+ son
+ de
+ carácter
+ aislado
+ y
+ además
+ corresponden
+ a
+ cruces
+ regulados
+ por
+señal
+ de
+ prioridad.
+
+Se
+ modeló
+ durante
+ la
+ Temporada
+ Laboral
+ Normal,
+ en
+ 3
+ escenarios,
+ a
+ saber:
+
+ **Escenario
+ Actual
+ (EA
+ 2017):** Esta
+ situación
+ considera
+ modelar
+ el
+ flujo
+ actual,
+ (mediciones
+
+vehiculares
+ efectuadas
+ en
+ terreno
+ en
+ noviembre
+ del
+ 2017).
+
+ **Escenario
+ Base
+ (EB
+ 2018):** Esta
+ situación
+ considera
+ modelar
+ el
+ flujo
+ actual
+ proyectado
+ al
+
+corte
+ temporal
+ definido
+ en
+ el
+ numeral
+ 4.3.
+
+ **Escenario
+ con
+ Proyecto
+ (ECP
+ 2018):** Esta
+ situación
+ es
+ similar
+ al
+ Escenario
+ Base
+ 2018,
+ pero
+
+contempla
+ modelar
+ el
+ sistema
+ incluyendo
+ el
+ flujo
+ generado
+ y
+ atraído
+ por
+ la
+ construcción
+del
+ Proyecto.
+ Los
+ viajes
+ se
+ asignaron
+ conforme
+ a
+ la
+ distribución
+ de
+ rutas
+ expuesta
+ en
+ la
+estimación
+ de
+ la
+ demanda
+ en
+ el
+ acápite
+ 6.2.
+
+Finalmente,
+ se
+ modeló
+ el
+ período
+ con
+ mayor
+ concentración
+ vehicular
+ en
+ el
+ área
+ de
+ influencia,
+identificado
+ anteriormente
+ en
+ el
+ numeral
+ 4.2.
+
+7.1.2
+Indicadores
+ de
+ Modelación
+
+Los
+ indicadores
+ de
+ tránsito
+ obtenidos
+ de
+ las
+ modelaciones
+ fueron:
+
+ Grado
+ de
+ Saturación,
+ X
+ (%):
+ Equivale
+ al
+ flujo
+ vehicular
+ (veh/h)
+ que
+ pasa
+ por
+ una
+ pista,
+
+dividido
+ por
+ su
+ capacidad
+ (veh/h).
+ Cabe
+ mencionar
+ que
+ una
+ pista
+ que
+ presenta
+ un
+ grado
+de
+ saturación
+ superior
+ al
+ 90%
+ se
+ califica
+ como
+ saturada.
+
+ Longitud
+ de
+ Cola
+ Promedio,
+ LC
+ (veh):
+ Equivale
+ al
+ promedio
+ de
+ las
+ colas
+ formadas
+ en
+ una
+
+pista.
+
+ Demora
+ Promedio,
+ DP
+ (seg):
+ Equivale
+ al
+ tiempo
+ promedio
+ que
+ demoran
+ los
+ vehículos
+ en
+
+pasar
+ por
+ una
+ intersección.
+
+ Capacidad
+ de
+ Reserva,
+ QR
+ (veh/h):
+ Es
+ igual
+ al
+ 90%
+ de
+ la
+ capacidad
+ de
+ una
+ pista
+ menos
+ el
+
+flujo
+ que
+ circula
+ por
+ ésta.
+ Por
+ otra
+ parte,
+ la
+ capacidad
+ de
+ reserva
+ puede
+ ser
+ nula
+ (0
+ veh/h)
+según
+ se
+ indica
+ en
+ las
+ expresiones
+ siguientes:
+
+Qr i =
+ 0,9
+ Q
+ -
+ qo i qo i <
+ 0,9*Q
+Qr i =
+ 0 qo i >=
+ 0,9*Q
+Donde:
+
+Qri:
+ capacidad
+ de
+ reserva
+ del
+ acceso
+ i
+ (veh/h
+ o
+ veq/h)
+Q:
+ capacidad
+ del
+ acceso
+ i
+ (veh/h
+ o
+ veq/h)
+qoi:
+ flujo
+ del
+ acceso
+ i
+ (veh/h
+ o
+ veq/h)
+
+34
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+7.1.3
+Parámetros
+ Generales
+ de
+ Modelación
+
+Para
+ efectos
+ de
+ modelación,
+ los
+ principales
+ parámetros
+ considerados
+ fueron
+ los
+ siguientes:
+
+ Brecha
+ Crítica
+ (Critical
+ Gap)
+ e
+ Intervalo2
+ (Follow
+ Headway):
+ Los
+ valores
+ de
+ estos
+
+parámetros
+ se
+ calculan
+ internamente
+ en
+ el
+ modelo
+ SIDRA,
+ como
+ una
+ función
+ de
+ la
+geometría
+ y
+ el
+ flujo
+ de
+ la
+ intersección.
+
+ Anchos
+ de
+ Pista:
+ 3,0
+ a
+ 5,0
+ metros.
+
+ Para
+ el
+ flujo
+ vehicular
+ se
+ consideraron
+ dos
+ tipos
+ de
+ vehículos:
+ vehículos
+ livianos
+ y
+ vehículos
+
+pesados
+ (camiones
+ y
+ buses).
+
+Se
+ incluyeron
+ como
+ unidades
+ de
+ flujo
+ al
+ veh/h,
+ puesto
+ que
+ corresponde
+ a
+ las
+ unidades
+ con
+ las
+ que
+trabajan
+ los
+ modelos.
+ Sin
+ embargo,
+ es
+ importante
+ aclarar
+ que
+ los
+ factores
+ de
+ equivalencia
+ los
+incluye
+ internamente
+ el
+ modelo,
+ corrigiendo
+ la
+ capacidad
+ del
+ movimiento
+ respectivo.
+ En
+ ese
+contexto,
+ el
+ factor
+ de
+ corrección
+ de
+ la
+ capacidad,
+ válido
+ para
+ una
+ proporción
+ de
+ vehículos
+ pesados
+superior
+ a
+ 5%,
+ lo
+ estima
+ de
+ acuerdo
+ a
+ la
+ siguiente
+ expresión:
+
+**Ecuación
+ 1**
+
+⎧ 1
+
+factor = 1 f − 1
+
+⎧
+⎪⎨
+
+1 + ~~(~~ f VP − 1 ~~)~~ ⋅ ~~(~~ p VP − 1 ~~)~~ para p VP - 0,05
+
+= 1 + f − 1 ⋅ − 1 para p VP
+
+VP − 1 ~~)~~ ⋅ ~~(~~ p VP − 1 ~~)~~ VP
+
+1 + ~~(~~ f VP − 1 ~~)~~ ⋅ ~~(~~ p VP − 1 ~~)~~
+
+⎪⎩ 1
+
+1 para p VP ≤ 0,05
+
+VP
+
+≤
+
+Dónde:
+
+fVP
+ =
+ factor
+ de
+ equivalencia
+ de
+ vehículos
+ pesados;
+ en
+ este
+ caso
+ es
+ igual
+ a
+ 2
+ veq/veh.
+pVP
+ =
+ proporción
+ de
+ vehículos
+ pesados.
+
+7.2
+Intersecciones
+ de
+ Modeladas
+
+Tal
+ como
+ se
+ ha
+ señalado,
+ se
+ modelaron
+ las
+ 2
+ intersecciones
+ de
+ mayor
+ relevancia
+ en
+ el
+ contexto
+ del
+Proyecto.
+ En
+ la
+ actualidad
+ una
+ de
+ ellas
+ opera
+ con
+ señal
+ de
+ prioridad
+ y
+ la
+ otra
+ no
+ cuenta
+ con
+ dicha
+señal.
+ Por
+ tal
+ motivo,
+ para
+ el
+ empalme
+ sin
+ prioridad
+ de
+ paso
+ se
+ modeló
+ considerando
+ igualmente
+una
+ operación
+ con
+ señal
+ de
+ prioridad.
+ Los
+ esquemas
+ arrojados
+ por
+ el
+ programa
+ SIDRA
+ se
+presentan
+ a
+ continuación:
+
+2 Equivale
+ al
+ inverso
+ del
+ flujo
+ de
+ saturación
+ y/o
+ capacidad
+ de
+ la
+ corriente
+ principal.
+
+35
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 7-­‐2:
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera**
+
+**Figura
+ 7-­‐3:
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins**
+
+En
+ base
+ a
+ los
+ supuestos
+ anteriores,
+ los
+ viajes
+ (veh/hora)
+ para
+ los
+ Escenarios
+ Actual
+ 2017
+ (EA),
+ Base
+año
+ 2018
+ (EB),
+ y
+ con
+ Proyecto
+ año
+ 2018
+ (ECP),
+ desagregados
+ por
+ movimiento,
+ escenario
+ y/o
+intersección,
+ se
+ presentan
+ en
+ las
+ siguientes
+ figuras.
+ Debajo
+ de
+ cada
+ valor
+ de
+ flujo,
+ se
+ incluye
+ el
+porcentaje
+ de
+ vehículos
+ pesados.
+ Cabe
+ mencionar
+ que
+ los
+ viajes
+ del
+ Escenario
+ Actual
+ se
+obtuvieron
+ a
+ partir
+ de
+ las
+ mediciones
+ de
+ flujos
+ realizadas
+ en
+ temporada
+ normal
+ laboral.
+
+36
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 7-­‐4:
+ Flujos
+ Vehiculares
+ Modelados
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera**
+
+|Escenario Actual (2017)|Escenario Base (2018)|
+|---|---|
+|||
+
+**Escenario
+ con
+ Proyecto
+ (2018)**
+
+37
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 7-­‐5:
+ Flujos
+ Vehiculares
+ Modelados
+ Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+ Carrera**
+
+|Escenario Actual (2017)|Escenario Base (2018)|
+|---|---|
+|||
+
+**Escenario
+ con
+ Proyecto
+ (2018)**
+
+7.3
+Modelación
+ Situación
+ Actual,
+ Base
+ y
+ Con
+ Proyecto
+
+Realizada
+ la
+ modelación,
+ se
+ obtuvieron
+ como
+ resultados
+ relevantes
+ los
+ valores
+ de
+ los
+ índices
+calculados
+ para
+ el
+ índice
+ de
+ rendimiento
+ (IR),
+ la
+ demora
+ máxima
+ promedio
+ (DP),
+ la
+ longitud
+ de
+ cola
+
+38
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+máxima
+ promedio
+ (LC),
+ el
+ grado
+ de
+ saturación
+ (X)
+ y
+ la
+ capacidad
+ de
+ Reserva
+ (QR).
+ La
+ siguiente
+tabla
+ presenta
+ los
+ resultados
+ obtenidos.
+
+**Tabla
+ 7-­‐1:
+ Indicadores
+ globales
+ por
+ escenario**
+
+|Parámetro|EA (2017)|EB (2018)|ECP (2018)|
+|---|---|---|---|
+|IR(UM/h)|13,1|14,1|21,8|
+|DP(seg)|2,4|2,7|2,9|
+|LC(veh)|4,2|4,8|5,1|
+|X (%)|39%|41%|41%|
+|Q (veh/h)|2904|2904|2924|
+
+**Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+ Carrera**
+
+|Parámetro|EA (2017)|EB (2018)|ECP (2018)|
+|---|---|---|---|
+|IR(UM/h)|0,4|0,4|0,5|
+|DP(seg)|2,4|2,8|2,7|
+|LC(veh)|0,0|0,0|0,1|
+|X (%)|1%|1,3%|1,8%|
+|Q (veh/h)|3453|3238|2850|
+
+De
+ acuerdo
+ al
+ cálculo
+ de
+ los
+ índices
+ globales
+ para
+ las
+ intersecciones
+ analizadas,
+ los
+ resultados
+muestran
+ una
+ situación
+ favorable
+ con
+ grados
+ de
+ saturación
+ inferiores
+ al
+ 41%.
+ En
+ el
+ caso
+ del
+empalme
+ de
+ la
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ se
+ tiene
+ que
+ el
+ grado
+ de
+ saturación
+ observado
+en
+ el
+ Escenario
+ con
+ Proyecto
+ se
+ mantiene
+ estable
+ respecto
+ del
+ observado
+ en
+ el
+ Escenario
+ Base.
+Para
+ el
+ cruce
+ compuesto
+ por
+ Bernardo
+ O ́Higgins
+ con
+ José
+ Miguel
+ Carrera,
+ los
+ resultados
+ muestran
+grados
+ de
+ saturación
+ bajos
+ en
+ todos
+ los
+ escenarios,
+ llegando
+ a
+ 1,8%
+ en
+ el
+ Escenario
+ con
+ Proyecto,
+valor
+ que
+ representa
+ un
+ incremento
+ de
+ 0,5%
+ en
+ el
+ grado
+ saturación
+ respecto
+ del
+ Escenario
+ Base.
+
+A
+ continuación,
+ se
+ presenta
+ en
+ la
+ siguiente
+ tabla
+ la
+ información
+ desagregada
+ por
+ acceso
+ y
+ pistas,
+particularmente
+ la
+ demora
+ promedio,
+ longitud
+ de
+ cola
+ promedio,
+ grado
+ de
+ saturación
+ y
+ la
+capacidad
+ de
+ reserva.
+ La
+ nomenclatura
+ de
+ movimientos
+ reportada
+ por
+ el
+ modelo
+ SIDRA
+ proviene
+del
+ inglés,
+ donde
+ T= _Thru_ (movimiento
+ directo),
+ R= _Right_ (a
+ la
+ derecha)
+ y
+ L= _Left_ (a
+ la
+ izquierda),
+ para
+cada
+ acceso
+ se
+ indica
+ el
+ o
+ los
+ movimientos
+ permitidos.
+
+**Tabla
+ 7-­‐2:
+ Resultados
+ por
+ Movimiento
+ Ruta
+ H-­‐30
+ /
+ José
+ Miguel
+ Carrera**
+
+|Calle|Mov|Accesos|Escenario Actual 2017|Col5|Col6|Col7|Col8|Escenario Base 2018|Col10|Col11|Col12|Col13|Escenario con Proyecto 2018|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Calle**|**Mov**|**Accesos**|**qo**|**Q **|**X **|**DP**|**LC**|**qo**|**Qr**|**X **|**DP**|**LC**|**qo**|**QR**|**X **|**DP**|**LC**|
+|**Calle**|**Mov**|**Accesos**|**veh**|** veh/h**|**% **|**seg**|**veh**|** veh**|** veh/h**|**% **|**seg**|**veh **|** veh**|** veh/h**|**% **|**seg**|**veh **|
+|||Oriente||||||||||||||||
+|Ruta H-30|R|Pista1|455|1723|26%|0.2|0|482|1724|28%|0.1|0|486|1714|28%|0.2|0|
+|Ruta H-30||Approach|455|1723|26%|0.2|0|482|1724|28%|0.1|0|486|1714|28%|0.2|0|
+|||Norte||||||||||||||||
+|José<br>Miguel<br>Carrera|L|Pista1|15|208|7%|26.7|0.2|16|180|9%|26.1|0.3|20|138|15%|33|0.4|
+|José<br>Miguel<br>Carrera||Approach|15|208|7%|26.7|0.2|16|180|9%|26.1|0.3|20|138|15%|33|0.4|
+|||Poniente||||||||||||||||
+|Ruta H-30|L|Pista1|653|1689|39%|3.3|4.2|692|1689|41%|3.9|5|692|1689|41%|4|5.1|
+|Ruta H-30||Approach|653|1689|39%|3.3|4.2|692|1689|41%|3.9|5|692|1689|41%|4|5.1|
+
+Para
+ el
+ empalme
+ compuesto
+ por
+ la
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera,
+ los
+ resultados
+ indican
+ que
+el
+ arco
+ que
+ muestra
+ mayor
+ saturación
+ corresponde
+ al
+ acceso
+ poniente
+ por
+ Ruta
+ H-­‐30
+
+ en
+ el
+
+39
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+Escenario
+ con
+ Proyecto,
+ registrando
+ un
+ grado
+ de
+ saturación
+ máximo
+ de
+ 41%
+ (cabe
+ señalar
+ que
+ el
+parámetro
+ muestra
+ los
+ mismos
+ valores
+ para
+ el
+ Escenario
+ Base).
+ La
+ demora
+ promedio
+ presenta
+ su
+mayor
+ aumento
+ en
+ el
+ arco
+ norte,
+ correspondiente
+ a
+ José
+ Miguel
+ Carrera,
+ pasando
+ de
+ 26.1
+ seg.
+ en
+el
+ Escenario
+ Base
+ a
+ 33
+ seg.
+ en
+ el
+ Escenario
+ con
+ Proyecto.
+ Finalmente,
+ los
+ largos
+ de
+ cola
+ se
+observan
+ estables
+ en
+ todos
+ los
+ accesos
+ y
+ escenarios
+ modelados,
+ identificándose
+ el
+ mayor
+incremento
+ en
+ el
+ arco
+ poniente
+ del
+ empalme,
+ acceso
+ en
+ el
+ que
+ se
+ acumula
+ 1
+ vehículo
+ más
+ en
+ cola
+respecto
+ de
+ lo
+ observado
+ en
+ Escenario
+ Base.
+
+**Tabla
+ 7-­‐3:
+ Resultados
+ por
+ Movimiento
+ Bernardo
+ O’Higgins
+ /
+ José
+ Miguel
+ Carrera**
+
+|Calle|Mov|Accesos|Escenario Actual 2017|Col5|Col6|Col7|Col8|Escenario Base 2018|Col10|Col11|Col12|Col13|Escenario con Proyecto 2018|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Calle**|**Mov**|**Accesos**|**qo**|**Q **|**X **|**DP**|**LC**|**qo**|**Qr**|**X **|**DP**|**LC**|**qo**|**QR**|**X **|**DP**|**LC**|
+|**Calle**|**Mov**|**Accesos**|**veh**|** veh/h**|**% **|**seg**|** veh **|** veh**|** veh/h**|**% **|**seg**|** veh **|** veh**|** veh/h**|**% **|**seg**|**veh **|
+|||Sur||||||||||||||||
+|José Miguel<br>Carrera|T|Pista1|11|1206|1%|1.3|0|12|1204|1%|1.3|0|16|1097|2%|1.3|0.1|
+|José Miguel<br>Carrera||Approach|11|1206|1%|1.3|0|12|1204|1%|1.3|0|16|1097|2%|1.3|0.1|
+|||Oriente||||||||||||||||
+|Bernardo<br>O'Higgins|R|Pista1|4|1765|0%|2.3|0|4|1765|0%|2.3|0|4|1765|0%|2.3|0|
+|Bernardo<br>O'Higgins||Approach|4|1765|0%|2.3|0|4|1765|0%|2.3|0|4|1765|0%|2.3|0|
+|||Norte||||||||||||||||
+|José Miguel<br>Carrera|T|Pista1|13|1181|1%|3.6|0|16|1233|1%|3.8|0|20|1140|2%|3.7|0.1|
+|José Miguel<br>Carrera||Approach|13|1181|1%|3.6|0|16|1233|1%|3.8|0|20|1140|2%|3.7|0.1|
+|||Poniente||||||||||||||||
+|Bernardo<br>O’Higgins|L|Pista1|10|1716|1%|3.3|0|10|1718|1%|3.3|0|10|1718|1%|3.3|0|
+|Bernardo<br>O’Higgins||Approach|10|1716|1%|3.3|0|10|1718|1%|3.3|0|10|1718|1%|3.3|0|
+
+Para
+ el
+ cruce
+ de
+ las
+ calles
+ Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+ Carrera,
+ los
+ resultados
+ indican
+ un
+bajo
+ nivel
+ de
+ saturación,
+ cercano
+ al
+ 1%
+ en
+ todos
+ los
+ escenarios.
+ La
+ demora
+ promedio
+ más
+restrictiva
+ en
+ el
+ Escenario
+ con
+ Proyecto
+ se
+ observa
+ en
+ la
+ calle
+ José
+ Miguel
+ Carrera,
+ alcanzando
+ los
+3.7
+ segundos,
+ sin
+ embargo
+ el
+ parámetro
+ presenta
+ condiciones
+ similares
+ en
+ el
+ Escenario
+ Base.
+Respecto
+ del
+ largo
+ de
+ cola
+ observado,
+ se
+ tiene
+ que
+ alcanza
+ un
+ máximo
+ de
+ 0.1
+ vehículo.
+
+Para
+ complementar
+ el
+ análisis,
+ la
+ tabla
+ siguiente
+ presenta
+ el
+ cálculo
+ de
+ la
+ capacidad
+ de
+ reserva
+para
+ el
+ año
+ 2018,
+ donde
+ se
+ expone
+ la
+ capacidad
+ de
+ reserva
+ del
+ Escenario
+ Base
+ (QR
+ EB),
+ el
+diferencial
+ de
+ flujo
+ entre
+ el
+ Escenario
+ con
+ Proyecto
+ y
+ Base
+ (qECP
+ -­‐
+ qEB),
+ el
+ cuociente
+ entre
+ el
+diferencial
+ de
+ flujo
+ y
+ la
+ capacidad
+ de
+ reserva
+ ((qECP
+ -
+ qEB)
+ /
+ QR)
+ y
+ los
+ grados
+ de
+ saturación
+asociados
+ a
+ los
+ escenarios
+ Base
+ y
+ con
+ Proyecto.
+
+**Tabla
+ 7-­‐4:
+ Análisis
+ Capacidad
+ de
+ Reserva
+ empalme
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera**
+
+|Calle|Mov|Accesos|Escenario Base<br>2018|Col5|Col6|Escenario con<br>Proyecto 2018|Col8|Col9|Capacidad de Reserva|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Calle**|**Mov**|**Accesos**|**qo**|**Qr**|**X**|**qo**|**QR**|**X**|**Qr**|**Dif qp-qo**|**Incremento**|**Incremento**|**Requiere**<br>**Mitigación**|
+|**Calle**|**Mov**|**Accesos**|**veh**|** veh/h**|**% **|**veh**|** veh/h**|**% **|**veh/h**|**veh**|**Flujo**|**X (%)**|**Sio No **|
+|||Oriente||||||||||||
+|Ruta H-30|R|Pista1|482|1724|28%|486|1714|28%|1069.6|4|0%|0%|No|
+|Ruta H-30||Approach|482|1724|28%|486|1714|28%|1069.6|4|0%|0%|-|
+|||Norte||||||||||||
+|José<br>Miguel<br>Carrera|L|Pista1|16|180|9%|20|138|15%|146|4|3%|6%|No|
+|José<br>Miguel<br>Carrera||Approach|16|180|9%|20|138|15%|146|4|3%|6%|-|
+
+40
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+|Calle|Mov|Accesos|Escenario Base<br>2018|Col5|Col6|Escenario con<br>Proyecto 2018|Col8|Col9|Capacidad de Reserva|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Calle**|**Mov**|**Accesos**|**qo**|**Qr**|**X**|**qo**|**QR**|**X**|**Qr**|**Dif qp-qo**|**Incremento**|**Incremento**|**Requiere**<br>**Mitigación**|
+|**Calle**|**Mov**|**Accesos**|**veh**|** veh/h**|**% **|**veh**|** veh/h**|**% **|**veh/h**|**veh**|**Flujo**|**X (%)**|**Sio No **|
+|||Poniente||||||||||||
+|Ruta H-30|L|Pista1|692|1689|41%|692|1689|41%|828.1|0|0%|0%|No|
+|Ruta H-30||Approach|692|1689|41%|692|1689|41%|828.1|0|0%|0%|-|
+
+**Tabla
+ 7-­‐5:
+ Análisis
+ Capacidad
+ de
+ Reserva
+ cruce
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins**
+
+|Calle|Mov|Accesos|Escenario Base<br>2018|Col5|Col6|Escenario con<br>Proyecto 2018|Col8|Col9|Capacidad de Reserva|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Calle**|**Mov**|**Accesos**|**qo**|**Qr**|**X**|**qo**|**QR**|**X**|**Qr**|**Dif qp-qo**|**Incremento**|**Incremento**|**Requiere**<br>**Mitigación**|
+|**Calle**|**Mov**|**Accesos**|**veh**|** veh/h**|**% **|**veh**|** veh/h**|**% **|**veh/h**|**veh**|**Flujo**|**X (%)**|**Sio No **|
+|||Sur||||||||||||
+|José Miguel<br>Carrera|T|Pista1|12|1204|1%|16|1097|2%|1071.6|4|0%|1%|No|
+|José Miguel<br>Carrera||Approach|12|1204|1%|16|1097|2%|1071.6|4|0%|1%|-|
+|||Este||||||||||||
+|Bernardo<br>O'Higgins|R|Pista1|4|1765|0%|4|1765|0%|1584.5|0|0%|0%|No|
+|Bernardo<br>O'Higgins||Approach|4|1765|0%|4|1765|0%|1584.5|0|0%|0%|-|
+|||Norte||||||||||||
+|José Miguel<br>Carrera|T|Pista1|16|1233|1%|20|1140|2%|1093.7|4|0%|1%|No|
+|José Miguel<br>Carrera||Approach|16|1233|1%|20|1140|2%|1093.7|4|0%|1%|-|
+|||Oeste||||||||||||
+|Bernardo<br>O’Higgins|L|Pista1|16|1233|1%|20|1140|2%|1093.7|4|0%|1%|No|
+|Bernardo<br>O’Higgins||Approach|16|1233|1%|20|1140|2%|1093.7|4|0%|1%|-|
+
+Las
+ tablas
+ anteriores detallan
+ la
+ situación
+ de
+ la
+ capacidad
+ de
+ reserva
+ entre
+ el
+ Escenario
+ Base,
+ con
+los
+ flujos
+ proyectados
+ y
+ el
+ Escenario
+ con
+ Proyecto.
+
+Conforme
+ a
+ la
+ metodología,
+ para
+ la
+ realización
+ de
+ este
+ tipo
+ de
+ estudios,
+ si
+ el
+ aumento
+ de
+ flujo
+vehicular
+ para
+ todos
+ los
+ movimientos
+ de
+ la
+ intersección
+ entre
+ el
+ Escenario
+ Base
+ y
+ con
+ Proyecto
+representa
+ más
+ del
+ 20%
+ de
+ la
+ capacidad
+ de
+ reserva
+ base,
+ o
+ la
+ capacidad
+ de
+ reserva
+ es
+ nula
+ y
+ hay
+un
+ aumento
+ en
+ el
+ grado
+ de
+ saturación
+ entre
+ el
+ Escenario
+ Base
+ y
+ con
+ Proyecto,
+ es
+ posible
+ hablar
+ de
+que
+ el
+ proyecto
+ genera
+ impacto.
+ En
+ el
+ caso
+ acá
+ revisado,
+ ninguna
+ de
+ las
+ condiciones
+ se
+ cumple,
+constatándose
+ que
+ el
+ incremento
+ entre
+ el
+ flujo
+ observado
+ en
+ el
+ Escenario
+ Base,
+ respecto
+ del
+Escenario
+ con
+ Proyecto
+ alcanza
+ el
+ equivalente
+ al
+ 3%
+ de
+ la
+ capacidad
+ de
+ reserva,
+ muy
+ lejos
+ del
+ nivel
+indicativo
+ de
+ impactos.
+
+7.4
+Conclusión
+ Simulación
+
+De
+ acuerdo
+ con
+ el
+ análisis
+ realizado
+ sobre
+ la
+ base
+ de
+ la
+ modelación
+ SIDRA,
+ se
+ concluye
+ que
+ las
+intersecciones
+ de
+ Ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ y
+ Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+Carrera,
+ muestran
+ una
+ situación
+ favorable,
+ donde
+ el
+ arco
+ con
+ mayor
+ grado
+ de
+ saturación
+ alcanza
+el
+ 41%
+ en
+ el
+ Escenario
+ Base
+ y
+ con
+ Proyecto.
+
+En
+ el
+ empalme
+ de
+ Ruta
+ H-­‐30
+ con
+ Bernardo
+ O’Higgins,
+ el
+ grado
+ de
+ saturación
+ máxima
+ es
+ de
+ 41%
+valor
+ alcanzado
+ en
+ el
+ acceso
+ poniente
+ del
+ empalme,
+ cabe
+ señalar
+ que
+ el
+ parámetro
+ se
+ mantiene
+en
+ la
+ condición
+ basal
+ observada.
+
+En
+ la
+ intersección
+ de
+ las
+ calles
+ Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+ Carrera,
+ el
+ grado
+ máximo
+ de
+saturación
+ es
+ de
+ un
+ 1%
+ registrado
+ en
+ el
+ arco
+ correspondiente
+ a
+ José
+ Miguel
+ Carrera,
+ lo
+ que
+
+41
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+permite
+ un
+ flujo
+ vehicular
+ expedito.
+ La
+ demora
+ promedio
+ más
+ restrictiva
+ se
+ observa
+ en
+ el
+ arco
+correspondiente
+ a
+ la
+ calle
+ José
+ Miguel
+ Carrera,
+ alcanzando
+ los
+ 3,7
+ segundos.
+
+ En
+ los
+ escenarios
+Actual
+ y
+ Base
+ de
+ esta
+ intersección
+ no
+ se
+ presentan
+ colas,
+ el
+ Escenario
+ con
+ Proyecto
+ presenta
+ una
+cola
+ de
+ 0,1
+ vehículos.
+
+Finalmente,
+ del
+ análisis
+ de
+ capacidad
+ de
+ reserva
+ de
+ las
+ dos
+ intersecciones,
+ se
+ concluye
+ que
+ el
+Proyecto
+ no
+ genera
+ impactos
+ asociados
+ al
+ consumo
+ de
+ recursos
+ en
+ el
+ área
+ de
+ influencia
+ vial
+analizada.
+
+42
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 8
+
+ DIAGNÓSTICO
+ ESCENARIO
+ ACTUAL,
+ BASE
+ Y
+ CON
+ PROYECTO**
+
+De
+ acuerdo
+ al
+ levantamiento
+ físico
+ y
+ operativo
+ de
+ las
+ vías
+ que
+ conforman
+ el
+ área
+ de
+ influencia,
+ se
+puede
+ señalar
+ que
+ el
+ estado
+ de
+ conservación
+ de
+ la
+ carpeta
+ de
+ rodado
+ es
+ bueno,
+ mientras
+ que
+ la
+señalización
+ se
+ observó
+ en
+ mal
+ estado
+ de
+ conservación,
+ principalmente
+ porque
+ se
+ identificaron
+demarcaciones
+ desgastadas
+ y
+ porque
+ existen
+ dos
+ intersecciones
+ sin
+ señalización
+ de
+ prioridad.
+
+En
+ relación
+ con
+ las
+ intersecciones
+ revisadas
+ en
+ la
+ sección
+ 5.3,
+ se
+ identificaron
+ principalmente
+deficiencias
+ en
+ demarcaciones
+ y
+ ausencia
+ de
+ señalización.
+ En
+ cuanto
+ a
+ la
+ visibilidad,
+ todas
+ poseen
+visión
+ despejada
+ sin
+ obstáculos
+ que
+ impidan
+ al
+ conductor
+ observar
+ libremente
+ hacia
+ ambos
+accesos
+ de
+ la
+ intersección.
+
+Específicamente
+ el
+ empalme
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera,
+ no
+ se
+ encuentra
+ consolidado
+ y
+no
+ está
+ previamente
+ señalizado,
+ por
+ lo
+ que
+ requiere
+ mejoras.
+
+En
+ relación
+ con
+ los
+ flujos
+ vehiculares
+ registrados
+ en
+ terreno,
+ es
+ posible
+ señalar
+ que
+ éstos
+ son
+ bajos
+en
+ las
+ rutas
+ más
+ cercanas
+ al
+ Proyecto
+ (338
+ veh/día,
+ ver
+ sección
+ 5.7.2).
+ Mientras
+ que
+ en
+ la
+ ruta
+ H-­‐
+30,
+ que
+ corresponde
+ a
+ la
+ principal
+ vía
+ de
+ acceso
+ al
+ Proyecto,
+ presenta
+ un
+ flujo
+ de
+ 10.757
+ veh/día.
+Por
+ otro
+ lado,
+ según
+ el
+ TMDA
+ del
+ Plan
+ Nacional
+ de
+ Censo
+ de
+ la
+ Dirección
+ de
+ Vialidad
+ del
+ Ministerio
+de
+ Obras
+ Públicas,
+ para
+ la
+ estación
+ No
+ 98,
+ en
+ la
+ ruta
+ H-­‐30
+ se
+ registraron
+ para
+ el
+ año
+ 2015
+ un
+ total
+de
+ 13.256
+ veh/día.
+
+El
+ Proyecto
+ PFV
+ Lo
+ Miranda
+ generará
+ y
+ atraerá
+ para
+ la
+ fase
+ de
+ construcción
+ un
+ total
+ de
+ 30
+vehículos
+ al
+ día,
+ por
+ tanto
+ el
+ aumento
+ porcentual
+ sobre
+ la
+ ruta
+ H-­‐30
+ será
+ de
+ solo
+ 0,23%.
+
+De
+ acuerdo
+ con
+ el
+ análisis
+ realizado
+ sobre
+ la
+ base
+ de
+ la
+ modelación
+ SIDRA,
+ se
+ concluye
+ que
+ en
+ el
+empalme
+ de
+ la
+ Ruta
+ H-­‐30
+ con
+ Bernardo
+ O’Higgins,
+ el
+ grado
+ de
+ saturación
+ máxima
+ es
+ de
+ 41%
+ valor
+alcanzado
+ en
+ el
+ acceso
+ poniente
+ del
+ empalme,
+ cabe
+ señalar
+ que
+ el
+ parámetro
+ se
+ mantiene
+ en
+ la
+condición
+ basal
+ observada.
+
+En
+ la
+ intersección
+ de
+ las
+ calles
+ Bernardo
+ O’Higgins
+ con
+ José
+ Miguel
+ Carrera,
+ el
+ grado
+ máximo
+ de
+saturación
+ es
+ de
+ un
+ 1%
+ registrado
+ en
+ el
+ arco
+ correspondiente
+ a
+ José
+ Miguel
+ Carrera,
+ lo
+ que
+permite
+ un
+ flujo
+ vehicular
+ expedito.
+ La
+ demora
+ promedio
+ más
+ restrictiva
+ se
+ observa
+ en
+ el
+ arco
+correspondiente
+ a
+ la
+ calle
+ José
+ Miguel
+ Carrera,
+ alcanzando
+ los
+ 3,7
+ segundos.
+
+ En
+ los
+ escenarios
+Actual
+ y
+ Base
+ de
+ esta
+ intersección
+ no
+ se
+ presentan
+ colas,
+ el
+ Escenario
+ con
+ Proyecto
+ presenta
+ una
+cola
+ de
+ 0,1
+ vehículos.
+
+Finalmente,
+ del
+ análisis
+ de
+ capacidad
+ de
+ reserva
+ de
+ las
+ dos
+ intersecciones,
+ se
+ concluye
+ que
+ el
+Proyecto
+ no
+ genera
+ impactos
+ asociados
+ al
+ consumo
+ de
+ recursos
+ en
+ el
+ área
+ de
+ influencia
+ vial
+analizada.
+
+43
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 9
+
+ ASPECTOS
+ DE
+ DISEÑO
+ Y
+ MEJORAS
+ VIALES**
+
+9.1
+Generalidades
+
+Conforme
+ al
+ diagnósticos
+ de
+ la
+ situación
+ actual,
+ base,
+ se
+ identificaron
+ en
+ las
+ vías
+ de
+ acceso
+ al
+Proyecto,
+ algunos
+ sectores
+ con
+ deficiencias
+ y
+ que
+ el
+ Proyecto
+ puede
+ aportar
+ mejoras
+ viales
+voluntarias.
+ Se
+ consideran
+ mejoras
+ en
+ el
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carera
+ y
+ con
+ Bernardo
+O`Higgins;
+ reforzar
+ señalización
+ y
+ demarcaciones
+ en
+ el
+ cruce
+ de
+ José
+ Miguel
+ Carrea
+ con
+ Caupolicán
+y
+ renovar
+ pasos
+ peatonales
+ en
+ las
+ vías
+ José
+ Miguel
+ Carrera
+ y
+ Caupolicán.
+
+9.2 Mejoras
+ en
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ y
+ Bernardo
+ O`Higgins
+
+En
+ la
+ situación
+ actual
+ se
+ observó
+ que
+ el
+ cruce
+ de
+ la
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ no
+ se
+encuentra
+ consolidado
+ y
+ no
+ está
+ previamente
+ señalizado,
+ por
+ lo
+ que
+ requiere
+ mejoras.
+ Además
+ de
+ello,
+ el
+ cruce
+ contiguo,
+ correspondiente
+ a
+ José
+ Miguel
+ Carrera
+ con
+ Bernardo
+ O ́Higgins,
+ no
+ está
+regulado
+ por
+ señal
+ de
+ prioridad.
+ Por
+ tal
+ motivo
+ se
+ proponen
+ las
+ siguientes
+ medidas
+ que
+ mejorarán
+la
+ situación
+ basal
+ del
+ empalme
+ e
+ intersección:
+
+1. Normalización
+ de
+ ancho
+ de
+ cruce
+ a
+ 7
+ metros.
+2. Pavimentación
+ de
+ cruce
+ de
+ José
+ Miguel
+ Carrera
+ con
+ ruta
+ H-­‐30.
+3. Construcción
+ de
+ pista
+ de
+ deceleración
+ en
+ acceso
+ oriente
+ del
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+
+Miguel
+ Carrera.
+4. Angostamiento
+ de
+ ciclobanda
+ de
+ 2,5
+ a
+ 2
+ metros
+ para
+ dar
+ cabida
+ a
+ pista
+ auxiliar
+ de
+ viraje.
+5. Incorporación
+ de
+ solera
+ amarilla
+ en
+ costado
+ norte
+ de
+ ruta
+ H-­‐30.
+6. Incorporación
+ de
+ senda
+ de
+ ciclista
+ delimitada
+ con
+ línea
+ segmentada
+ y
+ reforzada
+ con
+ tachas
+
+blancas
+ en
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera.
+7. Incorporación
+ de
+ leyenda
+ SOLO
+ y
+ flecha
+ de
+ viraje
+ a
+ la
+ derecha
+ en
+ pista
+ de
+ deceleración.
+8. Incorporación
+ de
+ Ceda
+ el
+ Paso
+ en
+ acceso
+ oriente
+ de
+ la
+ ciclovía
+ (cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+
+Miguel
+ Carrera).
+9. Renovación
+ de
+ línea
+ de
+ eje
+ central
+ segmentada
+ en
+ ciclovía
+ entre
+ Galvarino
+ y
+ 21
+ de
+ mayo.
+10. Incorporación
+ de
+ señal
+ informativa
+ en
+ acceso
+ oriente
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+
+Carrera.
+11. Incorporación
+ de
+ señales
+ de
+ prioridad
+ Pare
+ y
+ demarcación
+ en
+ acceso
+ oriente
+ y
+ poniente
+ de
+
+Bernardo
+ O ́Higgins
+ con
+ José
+ Miguel
+ Carrera.
+12. Incorporación
+ de
+ 2
+ señales
+ de
+ empalme
+ en
+ acceso
+ oriente
+ y
+ poniente
+ de
+ ruta
+ H-­‐30.
+
+Cabe
+ precisar
+ que
+ la
+ gestión,
+ permisos
+ y
+ aprobación
+ de
+ las
+ mejoras
+ propuestas
+ en
+ el
+ cruce
+ de
+ la
+ruta
+ H-­‐30
+ se
+ realizarán
+ de
+ manera
+ sectorial
+ con
+ la
+ Dirección
+ de
+ Vialidad
+ correspondiente,
+ de
+acuerdo
+ con
+ lo
+ establecido
+ en
+ el
+ D.F.L.
+ MOP
+ 850
+ de
+ 1997.
+
+En
+ la
+ siguiente
+ figura
+ se
+ grafican
+ las
+ mejoras
+ propuestas.
+
+44
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 9-­‐1:
+ Mejoras
+ propuestas
+ en
+ cruce
+ de
+ ruta
+ H-­‐30
+ con
+ José
+ Miguel
+ Carrera
+ y
+ con
+ Bernardo
+ O`Higgins**
+
+_Nota:
+ los
+ números
+ de
+ la
+ imagen
+ corresponde
+ al
+ id
+ de
+ las
+ mejoras
+ propuestas
+ y
+ se
+ pueden
+ revisar
+ en
+ detalle_
+
+_en
+ el
+ Apéndice
+ N°
+ 2._
+
+9.3
+Reforzamiento
+ de
+ señalización
+ en
+ cruce
+ de
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán
+
+Se
+ propone
+ la
+ instalación
+ de
+ señal
+ de
+ prioridad
+ Pare
+ (RP-­‐2)
+ en
+ el
+ acceso
+ sur
+ de
+ José
+ Miguel
+ Carrera
+con
+ Caupolicán.
+
+45
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Figura
+ 9-­‐2:
+ Instalación
+ de
+ señal
+ de
+ prioridad
+ en
+ José
+ Miguel
+ Carrera
+ con
+ Caupolicán**
+
+_Nota:
+ los
+ números
+ de
+ la
+ imagen
+ correspondne
+ al
+ id
+ de
+ las
+ mejoras
+ propuestas
+ y
+ se
+ pueden
+ revisar
+ en
+ detalle_
+
+_en
+ el
+ Apéndice
+ N°
+ 2._
+
+9.4
+Renovación
+ de
+ Pasos
+ Peatonales
+
+En
+ las
+ vías
+ de
+ acceso
+ al
+ Proyecto
+ se
+ identificaron
+ varios
+ Paso
+ Cebra
+ en
+ mal
+ estado
+ de
+ conservación,
+los
+ que
+ se
+ propone
+ renovar.
+
+**Figura
+ 9-­‐3:
+ Paso
+ Cebra
+ a
+ Renovar**
+
+_Nota:
+ los
+ números
+ de
+ la
+ imagen
+ corresponde
+ al
+ id
+ de
+ las
+ mejoras
+ propuestas
+ y
+ se
+ pueden
+ revisar
+ en
+ detalle_
+
+_en
+ el
+ Apéndice
+ N°
+ 2._
+
+9.5
+Resumen
+ de
+ las
+ Medidas
+ Viales
+ Voluntarias
+
+A
+ continuación
+ se
+ detallan
+ las
+ medidas
+ viales
+ voluntarias
+ comprometidas
+ por
+ este
+ Proyecto,
+ el
+detalle
+ de
+ ellas
+ se
+ puede
+ revisar
+ en
+ el
+ Apéndice
+ No
+ 2.
+
+46
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+**Tabla
+ 9-­‐1:
+ Resumen
+ de
+ Medidas
+ Viales
+ Voluntarias**
+
+|ID|Medidas Viales Voluntarias|
+|---|---|
+|1|NormalizacióndeanchodecrucedeJoséMiguelCarreraconrutaH-30a 7 metros|
+|2|PavimentacióndecrucedeJoséMiguelCarreaconrutaH-30|
+|3|Construcción de pista de deceleración en acceso oriente del cruce de ruta H-30 con José<br>MiguelCarrera|
+|4|Angostamientodeciclobandade2,5a 2 metrosparadarcabidaa pistaauxiliardeviraje|
+|5|IncorporacióndesoleraamarillaencostadonortederutaH-30|
+|6|Incorporación de senda de ciclista delimitada con línea segmentada y reforzada con tachas<br>blancasencrucederutaH-30conJoséMiguelCarrera|
+|7|IncorporacióndeleyendaSOLOy flechadevirajea laderechaenpistadedeceleración|
+|8|Incorporación de Ceda el Paso en acceso oriente de la ciclovía (cruce de ruta H-30 con José<br>MiguelCarrera)|
+|9|RenovacióndelíneadeejecentralsegmentadaenciclovíaentreGalvarinoy 21demayo|
+|10|IncorporacióndeseñalinformativaenaccesoorientederutaH-30conJoséMiguelCarrera|
+|11|Demarcar línea de eje central segmentado en José Miguel Carrera, entre Bernardo O`Higgins<br>y Caupolicán|
+|12|Renovar4 PasoCebraencalleJoséMiguelCarrera,entreBernardoO ́Higginsy Caupolicán|
+|13|Renovar línea de eje central segmentado en Caupolicán, entre acceso al Proyecto y José<br>MiguelCarrera|
+|14|Incorporación de señales de prioridad Pare y demarcación en acceso oriente y poniente de<br>BernardoO ́HigginsconJoséMiguelCarrera|
+|15|Incorporación de señal de prioridad Pare y demarcación en acceso sur de José Miguel Carrera<br>conCaupolicán|
+|16|Incorporaciónde2 señalesdeempalmeenaccesoorientey ponientederutaH-30|
+
+9.6
+Otras
+ Consideraciones
+
+El
+ Titular
+ del
+ Proyecto
+ se
+ compromete
+ de
+ manera
+ voluntaria
+ con
+ las
+ siguientes
+ consideraciones:
+
+1. Toda
+ demarcación,
+ deberá
+ ser
+ con
+ pintura
+ termoplástico
+ con
+ post
+ sembrado
+ de
+
+microesferas,
+ la
+ cual
+ deberá
+ dar
+ cumplimiento
+ a
+ lo
+ establecido
+ en
+ el
+ Capítulo
+ No
+ 3
+ del
+Manual
+ de
+ Demarcación
+ de
+ Tránsito
+ del
+ Ministerio
+ de
+ Transportes
+ y
+ Telecomunicaciones
+(MINTRATEL).
+2. Las
+ señales
+ (según
+ esquema)
+ deberán
+ dar
+ cumplimiento
+ a
+ la
+ norma
+ vigente
+ establecida
+ en
+
+el
+ manual
+ de
+ señalización
+ de
+ Tránsito
+ del
+ Ministerio
+ de
+ Transporte
+ y
+ Telecomunicaciones
+(MINTRATEL).
+
+ Todas
+ las
+ señales
+ deben
+ ser
+ confeccionadas
+ con
+ Tela
+ de
+ Alta
+ Intensidad
+ y
+protegidas
+ con
+ Antigrafitis,
+ además
+ deberán
+ ser
+ de
+ acero
+ galvanizado
+ de
+ 2mm.
+ de
+espesor.
+
+ El
+ poste
+ de
+ sustentación
+ deberá
+ ser
+ modelo
+ OMEGA
+ Norma
+ Municipio
+Correspondiente,
+ pintado
+ con
+ esmalte
+ color
+ negro.
+3. Se
+ debe
+ realizar
+ lavado
+ de
+ ruedas
+ a
+ los
+ camiones
+ que
+ salen
+ del
+ proyecto
+ a
+ la
+ vía
+ pública,
+
+durante
+ la
+ etapa
+ de
+ construcción.
+4. Que
+ los
+ camiones
+ que
+ intervendrán
+ en
+ esta
+ etapa
+ deberán
+ utilizar
+ los
+ estacionamientos
+
+establecidos
+ dentro
+ del
+ predio,
+ a
+ su
+ vez,
+ la
+ carga
+ y
+ descarga
+ de
+ los
+ materiales
+ y/o
+desechos
+ de
+ construcción
+ se
+ deberán
+ realizar
+ en
+ un
+ lugar
+ de
+ acopio
+ fuera
+ de
+ la
+ vía
+ pública.
+
+47
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+5. Disponer
+ de
+ accesos
+ a
+ las
+ faenas
+ que
+ cuenten
+ con
+ pavimentos
+ estables.
+6. Mientras
+ duren
+ las
+ obras,
+ se
+ deberá
+ mantener
+ la
+ carpeta
+ de
+ rodado,
+ de
+ todas
+ las
+ vías
+
+utilizadas
+ por
+ los
+ camiones.
+7. Que
+ la
+ disposición
+ de
+ la
+ carga
+ en
+ los
+ camiones
+ utilizados
+ para
+ el
+ transporte,
+ deberá
+
+cumplir
+ lo
+ estipulado
+ en
+ el
+ Art.
+ 2
+ del
+ Decreto
+ No
+ 75
+ de
+ 1987
+ del
+ Ministerio
+ de
+ Trasportes
+ y
+Telecomunicaciones,
+ es
+ decir,
+ la
+ carga
+ deberá
+ estar
+ cubierta
+ con
+ una
+ lona
+ o
+ plásticos
+ de
+dimensiones
+ adecuadas,
+ de
+ manera
+ que
+ evite
+ la
+ emisión
+ de
+ material
+ particulado
+ al
+ aire.
+8. Para
+ el
+ traslado
+ de
+ materiales,
+ se
+ deberá
+ operar
+ con
+ camiones
+ cuya
+ capacidad
+ respete
+ los
+
+límites
+ de
+ peso
+ por
+ ejes
+ establecidos
+ en
+ el
+ Decreto
+ No
+ 158/1980
+ del
+ MOP.
+9. Las
+ obras
+ que
+ se
+ realicen
+ en
+ la
+ vía
+ pública,
+ deben
+ considerar
+ lo
+ dispuesto
+ en
+ Capítulo
+ No
+ 5
+
+“Señalización
+ Transitoria
+ y
+ Medidas
+ de
+ Seguridad
+ para
+ Trabajos
+ en
+ la
+ Vía”
+ del
+ Manual
+ de
+Señalización
+ de
+ Tránsito
+ y
+ sus
+ Anexos,
+ de
+ acuerdo
+ al
+ Decreto
+ Supremo
+ No
+ 90/2002
+ del
+Ministerio
+ de
+ Transportes
+ y
+ Telecomunicaciones,
+ publicado
+ el
+ 20
+ de
+ enero
+ de
+ 2003
+ en
+ el
+Diario
+ Oficial.
+
+48
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 10
+
+ SÍNTESIS**
+
+Nada
+ hace
+ prever
+ que
+ el
+ nivel
+ de
+ accidentalidad
+ del
+ sector
+ aumente
+ producto
+ de
+ la
+ operación
+ del
+proyecto.
+ Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ se
+ considera
+ pertinente
+ mejorar
+ la
+ seguridad
+ del
+ entorno
+con
+ el
+ objeto
+ de
+ minimizar
+ la
+ ocurrencia
+ de
+ conflictos.
+
+El
+ proyecto
+ generará
+ una
+ baja
+ cantidad
+ de
+ vehículos
+ hacia
+ la
+ vialidad
+ pública,
+ el
+ cual
+ corresponde
+ a
+un
+ máximo
+ de
+ 8
+ veh/hora
+ en
+ el
+ periodo
+ de
+ mayor
+ concentración
+ vehicular.
+
+En
+ función
+ de
+ los
+ resultados
+ obtenidos
+ de
+ la
+ simulación
+ SIDRA
+ se
+ concluye
+ que
+ el
+ proyecto
+ no
+genera
+ impacto
+ significativo
+ en
+ las
+ intersecciones
+ de
+ acceso
+ al
+ Proyecto.
+
+Conforme
+ a
+ los
+ análisis
+ realizados,
+ se
+ proponen
+ medidas
+ voluntarias
+ de
+ mejoramiento
+ vial
+orientadas
+ a
+ aumentar
+ los
+ niveles
+ de
+ seguridad,
+ incorporando
+ y
+ renovando
+ demarcaciones
+ en
+ las
+vías
+ e
+ intersecciones
+ que
+ forman
+ parte
+ del
+ área
+ de
+ influencia
+ del
+ Proyecto.
+
+En
+ resumen,
+ de
+ acuerdo
+ a
+ los
+ análisis
+ que
+ se
+ realizaron
+ así
+ como
+ también
+ las
+ recomendaciones
+efectuadas,
+ permiten
+ concluir
+ que
+ las
+ externalidades
+ negativas
+ del
+ Proyecto
+ “Planta
+ Fotovoltaica
+Lo
+ Miranda”,
+ serán
+ mínimas
+ si
+ se
+ consideran
+ e
+ implementan
+ las
+ sugerencias
+ aquí
+ detalladas.
+
+49
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 11
+
+ BIBLIOGRAFÍA**
+
+CONASET
+ (2012).
+ Manual
+ de
+ Señalización
+ de
+ Tránsito.
+
+MINVU
+ (2003).
+ Manual
+ de
+ Procedimiento
+ y
+ Metodología
+ de
+ los
+ Estudios
+ de
+ Impacto
+ sobre
+ el
+Sistema
+ de
+ Transporte
+ Urbano.
+
+MINVU
+ (2009).
+ "Recomendaciones
+ para
+ el
+ Diseño
+ de
+ Elementos
+ de
+ Infraestructura
+ Vial
+ Urbana".
+
+MOP
+ (2016)
+ Manual
+ de
+ Carreteras.
+
+SECTRA
+ (1998).
+ Metodología
+ Normalizada
+ para
+ Estudios
+ de
+ Impacto
+ en
+ el
+ Sistema
+ de
+ Transporte
+Urbano.
+
+Dirección
+ de
+ Vialidad
+ MOP
+ (2016).
+ Minuta
+ de
+ Proyectos
+ Viales.
+
+BIBLIOGRAFÍA
+ DIGITAL
+
+Dirección
+ de
+ Vialidad,
+ MOP.
+ Ubicación
+ en
+ Mapas
+ Regionales,
+ Plan
+ Nacional
+ de
+ Censos,
+ [en
+ línea].
+Santiago,
+ Chile.
+ [Fecha
+ de
+ consulta:
+ 11
+ de
+ diciembre
+ de
+ 2017].
+ Disponible
+ desde:
+http://www.mapas.mop.cl/PNC/
+
+Dirección
+ de
+ Vialidad,
+ MOP.
+ Volúmenes
+ de
+ Tránsito,
+ Plan
+ Nacional
+ de
+ Censos,
+ año
+ 2015,
+ [en
+ línea].
+Santiago,
+ Chile.
+ [Fecha
+ de
+ consulta:
+ 11
+ de
+ diciembre
+ de
+ 2017].
+ Disponible
+ desde:
+http://servicios.vialidad.cl/censo/
+
+50
+
+**ESTUDIO
+ DE
+ IMPACTO
+ VIAL**
+
+#### CAPÍTULO
+ 12
+
+ APÉNDICES**
+
+Los
+ apéndices
+ de
+ este
+ informe
+ son
+ los
+ siguientes:
+
+Apéndice
+ No1:
+ Plano.
+Apéndice
+ No2:
+ Mediciones
+ de
+ Flujo.
+Apéndice
+ No3:
+ Salidas
+ Sidra.
+
+51

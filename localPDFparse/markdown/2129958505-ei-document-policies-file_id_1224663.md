@@ -1,0 +1,2744 @@
+---
+title: 2. 9 TER
+author: Paola Schnettler
+date: D:20141110235435Z00'00'
+language: es
+type: invoice
+pages: 11
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**2.**
+**DESCRIPCIÓN
+ DE
+ RELACIÓN
+ ENTRE
+ PROYECTOS
+ Y
+ POLÍTICAS,
+ PLANES
+ Y
+ PROGRAMAS**
+
+**DE
+ DESARROLLO
+ REGIONAL
+ Y
+ COMUNAL
+ (art.
+ 9
+ ter,
+ Ley
+ 20.417)**
+
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ una
+ solicitud
+ de
+ concesión
+ de
+ acuicultura
+
+ de
+ 4
+ hás.,
+relativa
+ al
+ centro
+ de
+ cultivo
+ de
+ mitílidos
+ Brazo
+ de
+ Hojeda,
+ ubicado
+ en
+ Brazo
+ de
+ Hojeda,
+ península
+Vicuña
+ Mackenna
+ sector
+ 3,
+ comuna
+ de
+ Natales,
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena.
+
+La
+ relación
+ del
+ proyecto
+ con
+ las
+ Políticas,
+ Planes
+ y
+ Programas
+ de
+ Desarrollo
+ Regional
+ y
+ Comunal
+contempla
+ la
+ “Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena
+ 2012-­‐2020”,
+“Zonificación
+ del
+ Borde
+ Costero
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena”, “Política
+ Regional
+ de
+Turismo
+ 2010”,
+ “Política
+ Regional
+ de
+ Ciencia,
+ Tecnología
+ e
+ Innovación
+ de
+ la
+ Región
+ de
+ Magallanes
+y
+ la
+ Antártica
+ Chilena
+ 2010-­‐2020”,
+ “Modificación
+ Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ Región
+ de
+Magallanes
+ y
+ la
+ Antártica
+ Chilena
+ 2007”,
+ “Plan
+ Regulador
+ Intercomunal
+ Natales
+ -
+ Torres
+ del
+ Payne
+(2008)“,
+ “Plan
+ Regulador
+ Comunal
+ Puerto
+ Natales”
+ y
+ “Plan
+ de
+ Desarrollo
+ Comunal
+ PLADECO
+ 2011
+-
+ 2015”.
+
+_**2.1**_
+_**Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena
+ 2012-­‐2020**_
+_**(ERD)**_
+
+A
+ continuación
+ se
+ analizan
+ los
+ lineamientos
+ de
+ la
+ política,
+ planes
+ y
+ programas
+ de
+ desarrollo
+regional
+ y
+ comunal
+ con
+ el
+ objeto
+ de
+ establecer
+ cómo
+ se
+ relaciona
+ el
+ proyecto
+ con
+ los
+ instrumentos
+señalados.
+
+De
+ acuerdo
+ al
+ artículo
+ 9
+ ter
+ de
+ la
+ ley
+ 20.417
+ “los
+ proponentes
+ de
+ los
+ proyectos
+ o
+ actividades,
+ en
+sus
+ Estudios
+ o
+ Declaraciones
+ de
+ Impacto
+ Ambiental,
+ deberán
+ describir
+ la
+ forma
+ en
+ que
+ tales
+proyectos
+ o
+ actividades
+ se
+ relacionan
+ con
+ las
+ políticas,
+ planes
+ y
+ programas
+ de
+ desarrollo
+ regional,
+así
+ como
+ los
+ planes
+ de
+ desarrollo
+ comunal”.
+
+El
+ titular
+ del
+ proyecto,
+ reconoce
+ que
+ la
+ existencia
+ de
+ indicadores
+ de
+ seguimiento,
+ constituyen
+ una
+manera
+ de
+ mostrar
+ el
+ aporte
+ del
+ proyecto
+ a
+ la
+ ERD.
+
+La
+ estrategia
+ de
+ Desarrollo
+ Regional
+ para
+ el
+ periodo
+ 2012
+ -
+ 2020,
+ formulada
+ por
+ la
+ secretaria
+ de
+planificación
+ y
+ coordinación
+ de
+ la
+ XII
+ Región,
+ definió
+ como
+ imagen
+ -­‐
+ objetivo
+ lo
+ siguiente:
+
+“Al
+ 2020,
+ la
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena,
+ habrá
+ logrado
+ un
+ crecimiento
+ y
+ desarrollo
+económico
+ sostenido
+ y
+ sustentable,
+ contará
+ con
+ un
+ sistema
+ de
+ leyes
+ e
+ incentivos
+ especiales
+ que
+articulará
+ una
+ visión
+ integrada
+ de
+ desarrollo,
+ lo
+ que
+ habrá
+ permitido
+ superar
+ la
+ pobreza,
+respetando
+ la
+ diversidad
+ sociocultural,
+ con
+ empoderamiento
+ ciudadano
+ y
+ una
+ valoración
+ del
+patrimonio
+ natural
+ y
+ cultural,
+ que
+ otorgará
+ un
+ sello
+ multicultural
+ de
+ la
+ Patagonia
+ chilena.
+ Ello,
+redundará
+ en
+ una
+ alta
+ integración
+ territorial,
+ con
+ una
+ conexión
+ expedita
+ con
+ el
+ territorio
+ nacional,
+permitiendo
+ que
+ la
+ Región
+ sea
+ una
+ puerta
+ de
+ entrada
+ nacional
+ e
+ internacional
+ a
+ la
+ Antártica,
+insertando
+ así
+ a
+ Magallanes
+ al
+ ámbito
+ científico
+ y
+ tecnológico
+ mundial”
+
+La
+ acuicultura
+ corresponde
+ a
+ uno
+ de
+ los
+ sectores
+ productivos
+ regionales
+ que,
+ en
+ conjunto
+ con
+ el
+minero/energético,
+ turismo,
+ pesca,
+ servicios
+ marítimos
+ y
+ portuarios
+ y
+ ganadero/forestal/hortícola,
+tiene
+ impacto
+ en
+ la
+ generación
+ del
+ Producto
+ Interno
+ Bruto
+ Regional
+ (PIB).
+ Queda
+ inserta,
+entonces,
+ en
+ uno
+ de
+ los
+ 6
+ ámbitos
+ de
+ la
+ ERD,
+ esto
+ es,
+ “Competitividad
+ y
+ Desarrollo
+ Productivo”.
+
+**1.** **Competitividad
+ y
+ Desarrollo
+ Productivo**
+
+Dentro
+ de
+ los
+ lineamientos
+ estratégicos
+ del
+ ámbito
+ “Competitividad
+ y
+ Desarrollo
+ Productivo”
+ es
+posible
+ vincular
+ el
+ proyecto
+ con
+ el **lineamiento** **3** **“incentivar
+ el
+ desarrollo
+ sustentable
+ y**
+**competitivo
+ de
+ la
+ actividad
+ pesquera
+ (artesanal
+ e
+ industrial)
+ y
+ acuícola
+ de
+ la
+ región,
+ mediante
+ la**
+**priorización
+ de
+ iniciativas
+ que
+ fortalezcan
+ la
+ innovación
+ y
+ el
+ emprendimiento
+ del
+ sector
+ púbico
+ y**
+**privado”**,
+ objetivos
+ “promover
+ el
+ desarrollo
+ de
+ capital
+ humano
+ del
+ sector
+ pesquero
+ (artesanal
+ e
+industrial)
+ y
+ acuícola”,
+ “promover
+ el
+ aumento
+ de
+ la
+ productividad
+ pesquera
+ y
+ acuícola,
+ a
+ través
+ del
+desarrollo
+ de
+ sistemas
+ de
+ información”
+ y
+ “posicionar
+ al
+ sector
+ pesquero
+ (artesanal
+ e
+ industrial)
+ y
+acuícola
+ en
+ la
+ economía
+ regional
+ por
+ medio
+ del
+ desarrollo
+ competitivo
+ de
+ un
+ tejido
+ de
+ Pymes”.
+
+La
+ estrategia
+ de
+ Desarrollo
+ Regional
+ para
+ el
+ periodo
+ 2012
+ -
+ 2020,
+ Pesca
+ y
+ Acuicultura,
+ definió
+como
+ imagen
+ -­‐
+ objetivo
+ lo
+ siguiente:
+
+"Se
+ fortalece
+ la
+ pesca
+ artesanal,
+ diversificando
+ los
+ productos
+ y
+ la
+ oferta,
+ con
+ un
+ alto
+ crecimiento
+de
+ la
+ pesca
+ industrial.
+ La
+ acuicultura,
+ en
+ especial
+ la
+ del
+ salmón,
+ se
+ ha
+ consolidado
+ como
+ la
+ segunda
+más
+ relevante
+ a
+ nivel
+ del
+ país
+ y
+ la
+ primera
+ en
+ cuanto
+ a
+ estándares
+ de
+ producción
+ sostenible.
+ El
+mejoramiento
+ de
+ la
+ infraestructura
+ permite
+ desarrollar
+ redes
+ más
+ competitivas
+ en
+ articulación
+ con
+servicios
+ portuarios
+ y
+ vías
+ de
+ acceso.
+ El
+ marco
+ legal
+ se
+ comienza
+ a
+ adecuar
+ para
+ poder
+ abordar
+ los
+principales
+ problemas
+ del
+ sector.
+ El
+ recurso
+ humano
+ avanza
+ hacia
+ la
+ formación
+ especializada,
+ y
+ se
+generan
+ vínculos
+ con
+ centros
+ de
+ formación.
+ Se
+ cuenta
+ con
+ procesos
+ continuos
+ de
+ investigación
+ y
+desarrollo
+ que
+ fortalecen
+ las
+ condiciones
+ de
+ competitividad
+ de
+ los
+ grandes,
+ pequeños
+ y
+ medianos
+empresarios
+ del
+ sector"
+
+La
+ formulación
+ de
+ indicadores
+ para
+ este
+ lineamiento
+ y
+ objetivos
+ señalados
+ es
+ la
+ siguiente:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa<br>de<br>capacitación<br>para<br>profesionales<br>del<br>centro de cultivo en<br>programas<br>de<br>la<br>región|% de profesionales<br>capacitados en la<br>región según año<br>calendario|SENCE<br>Seremi de<br>Educación<br>CORFO,<br>ACHS,<br>Mutual de<br>Seguridad u<br>otro|N°<br>de<br>profesionales<br>capacitados año<br>(N)*100/Total de<br>profesionales del<br>centro de cultivo|Por año calendario se<br>capacitará al menos al<br>25%<br>de<br>los<br>profesionales|Copia<br>legalizada<br>ante<br>notario<br>de<br>certificado<br>de<br>participación<br>en<br>capacitación (estará<br>disponible<br>en<br>las<br>oficinas<br>administrativas de la<br>empresa)|
+|Iniciativa<br>de<br>capacitación<br>para<br>operarios<br>en<br>programas<br>de<br>la<br>región|%<br>de<br>operarios<br>capacitados en la<br>región<br>según<br>año<br>calendario<br>|SENCE<br>Seremi<br>de<br>Educación<br>CORFO,<br>ACHS,<br>Mutual<br>de<br>Seguridad u<br>otro|N° de operarios<br>capacitados año<br>(N)*100/Total de<br>operarios<br>del<br>centro de cultivo|Por año calendario se<br>capacitará al menos al<br>25% de los operarios|Copia<br>legalizada<br>ante<br>notario<br>de<br>certificado<br>de<br>participación<br>en<br>capacitación (estará<br>disponible<br>en<br>las<br>oficinas<br>administrativas de la<br>empresa)|
+|Implementación de<br>plataforma<br>de<br>información<br>actualizada para el<br>control<br>y<br>planificación de la<br>producción|Implementación de<br>plataforma<br>de<br>control<br>y<br>planificación de la<br>producción|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|1=existencia<br>de<br>la plataforma<br>0=inexistencia de<br>la plataforma|Al inicio de operación el<br>centro<br>de<br>cultivo<br>contará<br>con<br>una<br>plataforma de control y<br>planificación<br>de<br>la<br>producción|Plataforma<br>operativa<br>en<br>computador<br>principal<br>de<br>las<br>oficinas<br>de<br>la<br>empresa|
+|Procesamiento<br>de<br>cosecha en planta|Formalización<br>de<br>contrato<br>por|Encargado<br>centro<br>de|1=existencia<br>de|Tras<br>cada<br>ciclo<br>productivo la cosecha|Guías de despacho<br>y/o<br>facturas<br>en|
+
+**2.** **Desarrollo
+ Social**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos:
+
+L8.
+ Fortalecer
+ los
+ servicios
+ de
+ salud,
+ mejorando
+ la
+ calidad
+ de
+ estos,
+ ampliando
+ su
+cobertura
+ y
+ promocionando
+ el
+ auto
+ cuidado.
+
+L9.
+ Consolidar
+ el
+ servicio
+ judicial
+ de
+ la
+ región,
+ ampliando
+ su
+ cobertura,
+ mejorando
+ la
+entrega
+ de
+ servicios
+ y
+ disminuyendo
+ los
+ índices
+ de
+ delincuencia
+ en
+ la
+ región.
+
+L10.
+ Disponer
+ de
+ un
+ servicio
+ de
+ educación
+ de
+ calidad
+ y
+ que
+ contribuya
+ al
+ desarrollo
+ de
+ la
+región
+ y
+ sus
+ habitantes
+
+L11.
+ Contribuir
+ al
+ desarrollo
+ social
+ de
+ la
+ región,
+ garantizando
+ el
+ bienestar
+ y
+ desarrollo
+ de
+todos
+ sus
+ habitantes.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**3.** **Pueblos
+ Indígenas**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L12.
+ Contribuir
+ al
+ desarrollo
+ y
+ disminución
+ de
+ la
+ vulnerabilidad
+ social
+ en
+ la
+ población
+indígena
+ regional.
+
+L13.
+ Fortalecimiento
+ prioritario
+ a
+ la
+ población
+ indígena
+ que
+ habita
+ en
+ la
+ región.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**4.** **Cultura
+ y
+ Patrimonio**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L14.
+ Fortalecimiento
+ del
+ patrimonio
+ cultural
+ y
+ natural.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**5.** **Infraestructura
+ y
+ conectividad**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L15.
+ Fortalecer
+ la
+ conectividad,
+ infraestructura
+ e
+ integración
+ regional
+ patagónica.
+
+L16.
+ Transformar
+ la
+ región
+ de
+ Magallanes
+ y
+ Antartica
+ Chilena
+ en
+ un
+ territorio
+ conectado
+globalmente.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**6.** **Antártica**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L17.
+ Fortalecer
+ los
+ factores
+ de
+ competitividad
+ del
+ territorio
+ antártico
+
+L18.
+ Gestión
+ de
+ la
+ política
+ Antártica
+ en
+ la
+ región
+ de
+ Magallanes
+ y
+ la
+ Antártica
+ Chilena.
+
+L19.
+ Fortalecer
+ la
+ identidad
+ Antártica
+ a
+ nivel
+ regional
+ y
+ nacional.
+
+L20.
+ Mejorar
+ la
+ conectividad
+ y
+ la
+ logística
+ asociadas
+ al
+ territorio
+ Antártico.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**7.** **Ciencia,
+ tecnología
+ e
+ innovación**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L21.
+ Fortalecimiento
+ del
+ capital
+ humano
+ como
+ eje
+ fundamental
+ del
+ desarrollo
+ de
+ la
+ CTI
+ en
+la
+ región
+
+L22.
+ Generación
+ de
+ la
+ interrelación
+ de
+ la
+ ciencia,
+ tecnología
+ y
+ la
+ innovación
+
+L23.
+ Maximizar
+ el
+ potencial
+ científico
+ y
+ económico
+ de
+ las
+ áreas
+ CTI
+ desde
+ la
+sustentabilidad
+ y
+ la
+ conservación
+ de
+ la
+ biodiversidad.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**8.** **Leyes
+ e
+ incentivos
+ especiales**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L24.
+ Visión
+ estratégica
+ de
+ largo
+ plazo
+ de
+ las
+ leyes
+ e
+ incentivos
+ especiales;
+ hacia
+ la
+construcción
+ de
+ una
+ política
+ de
+ estado.
+
+L25.
+ Producción
+ ambiental
+ sustentable
+ de
+ las
+ actividades
+ productivas
+ impulsadas
+ por
+ las
+leyes
+ especiales.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**9.** **Genero**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L26.
+ Potenciar
+ el
+ desarrollo
+ y
+ acceso
+ a
+ oportunidades
+ de
+ la
+ mujer
+ en
+ la
+ región
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**10.** **Descentralización**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L27.
+ Generar
+ y
+ potenciar
+ instrumentos
+ y
+ políticas
+ descentralizadoras,
+ propiciando
+ las
+mejores
+ condiciones
+ para
+ el
+ desarrollo
+ local
+ y
+ regional
+ de
+ Magallanes
+ y
+ la
+ Antártica
+ Chilena
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**11.** **Territorial**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L28.
+ Identificar
+ y
+ reconocer
+ las
+ particularidades
+ territoriales
+ de
+ la
+ región,
+ generando
+respuestas
+ y
+ soluciones
+ especificas
+ para
+ las
+ necesidades,
+ demandas
+ y
+ oportunidades
+ de
+ cada
+territorio
+ regional.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+**12.** **Medio
+ Ambiente
+ y
+ Sustentabilidad**
+
+Este
+ ámbito
+ comprende
+ los
+ siguientes
+ lineamientos
+
+L29.
+ Incorporación
+ trasversal
+ de
+ las
+ medidas
+
+ apropiadas
+ de
+ conservación
+ y
+ protección
+ del
+medio
+ ambiente.
+
+El
+ titular
+ del
+ proyecto
+ especifica
+ que
+ este
+ no
+ se
+ relaciona
+ con
+ los
+ lineamientos
+ indicados.
+
+_**2.2**_
+_**Zonificación
+ del
+ Borde
+ Costero
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena**_
+
+La
+ Zonificación
+ del
+ Borde
+ Costero
+ de
+ la
+ Región
+ de
+ Magallanes
+ y
+ Antártica
+ Chilena
+ se
+ encuentra
+actualmente
+ en
+ el
+ proceso
+ de
+ Evaluación
+ Ambiental
+ Estratégica [1],
+ y,
+ en
+ ese
+ contexto,
+ posee
+recomendaciones
+ hechas
+ por
+ el
+ Ministerio
+ del
+ Medio
+ Ambiente.
+ No
+ obstante,
+ y
+ en
+ virtud
+ de
+ la
+zonificación
+ y
+ los
+ usos
+ preferentes
+ definidos [2],
+ se
+ propone
+ el
+ siguiente
+ indicador
+ para
+ el
+ proyecto
+en
+ evaluación:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Ubicación del centro de cultivo<br>en<br>un<br>zona<br>concordante/compatible con la<br>vocación productiva propuesta<br>por la zonificación de la región|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos<br>extensivos|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos<br>extensivos|Obtención<br>de<br>Resolución<br>de<br>Calificación<br>Ambiental<br>(RCA)<br>que<br>califica<br>favorablemente<br>el<br>proyecto|Se mantendrá en las<br>oficinas<br>administrativas de la<br>región plano que lo<br>sitúe dentro de la<br>zonificación del borde<br>costero de la región|
+
+_**2.3**_
+_**Política
+ Regional
+ de
+ Turismo
+ 2010**_
+
+La
+ Política
+ Regional
+ de
+ Turismo
+ reconoce
+ la
+ actividad
+ turística
+ como
+ una
+ opción
+ cierta
+ de
+desarrollo
+ regional.
+ En
+ ese
+ contexto,
+ y
+ conforme
+ a
+ sus
+ lineamientos
+ estratégicos,
+ resulta
+ complejo
+establecer
+ una
+ vinculación
+ con
+ la
+ actividad
+ acuícola,
+ en
+ específico
+ la
+ mitilicultura.
+ No
+ obstante,
+ un
+elemento
+ común
+ de
+ ambas
+ actividades
+ económicas,
+ la
+ turística
+ y
+ mitilicultura,
+ es
+ la
+ existencia
+ de
+ventajas
+ comparativas
+ presentes
+ en
+ la
+ región,
+ y
+ que
+ favorecen
+ el
+ desarrollo
+ de
+ estas
+ actividades.
+En
+ ese
+ orden
+ de
+ ideas,
+ y
+ ya
+ que
+ el
+ proyecto
+ se
+ encuentra
+ inserto
+ en
+ un
+ área
+ de
+ interés
+ turístico,
+ el
+titular
+ tiene
+ contemplado
+ invertir
+ en
+ tecnologías
+ que
+ sean
+ amigables
+ con
+ el
+ medioambiente
+ con
+ el
+propósito
+ de
+ conservar
+ el
+ medio.
+ Por
+ otra
+ parte
+ en
+ la
+ DIA
+ presentada
+ para
+ evaluación,
+ se
+compromete
+ a
+ cumplir
+ con
+ toda
+ la
+ normativa
+ ambiental
+
+ aplicable,
+ por
+ lo
+ que
+ el
+ proceso
+productivo
+ estará
+ acotado
+ a
+ no
+ intervenir
+ el
+ entorno
+ del
+ área
+ donde
+ se
+ localiza
+ el
+ proyecto,
+ dando
+sustentabilidad
+ ambiental
+ e
+ indirectamente
+ ayudando
+ a
+ la
+ conservación
+ de
+ la
+ biodiversidad
+ del
+lugar.
+ Esto
+ va
+ de
+ la
+ mano
+ con
+ realizar
+ buenas
+ prácticas
+ ambientales
+ y
+ laborales,
+ capacitando
+ a
+ sus
+trabajadores
+ con
+ énfasis
+ en
+ el
+ desarrollo
+ adecuado
+ de
+ todos
+ sus
+ procedimientos
+ y
+ planes
+ de
+contingencia.
+ Se
+ proponen
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de verificación|
+|---|---|---|---|---|---|
+|Ubicación<br>del<br>centro<br>de<br>cultivo<br>en<br>un<br>zona<br>concordante/compatible con<br>la<br>vocación<br>productiva<br>propuesta por la zonificación|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos|Obtención<br>de<br>Resolución<br>de<br>Calificación<br>Ambiental<br>(RCA)<br>que<br>califica<br>favorablemente el|Se mantendrá en las<br>oficinas administrativas<br>de la región plano que<br>lo sitúe dentro de la<br>zonificación del borde|
+
+1 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/178
+2 http://www.goremagallanes.cl/sitioweb/borde_costero_ULT_ESP.php
+
+|de la región|extensivos|Col3|extensivos|proyecto|costero de la región|
+|---|---|---|---|---|---|
+|Limpieza de playa en área del<br>proyecto|Número<br>semestral de<br>veces que se<br>realiza<br>limpieza<br>de<br>playa|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|N° total de<br>limpiezas<br>semestral de<br>playa|Limpieza de playa 2<br>veces por semestre|Registro<br>limpieza<br>de<br>playa<br>y<br>fotografías<br>asociadas|
+|Integración<br>paisajística<br>del<br>proyecto|Estructuras de<br>cultivo<br>con<br>uso de colores<br>acorde<br>al<br>fondo<br>escénico|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Uso<br>de<br>colores<br>acorde<br>al<br>fondo<br>escénico|Uso<br>de<br>colores<br>poco contrastantes<br>con<br>el<br>fondo<br>escénico|Modelación fotográfica<br>de<br>las<br>obras<br>a<br>implementar<br>(incorporada<br>en<br>la<br>Declaración de Impacto<br>Ambiental), lo cual se<br>podrá cotejar con la<br>evidencia objetiva del<br>centro<br>de<br>cultivo<br>implementado|
+
+De
+ acuerdo
+ a
+ lo
+ descrito
+ en
+ la
+ presente
+ Política
+ Regional,
+ es
+ posible
+ inferir
+ que
+ las
+ labores
+ del
+Proyecto,
+ no
+ tendrán
+ relación
+ con
+ las
+ líneas
+ estratégicas
+ consideradas
+ en
+ el
+ desarrollo
+ turístico
+ de
+la
+ Región,
+ puesto
+ que
+ la
+ ejecución
+ del
+ presente
+ Proyecto,
+ no
+ intervendrá
+ en
+ ninguna
+ de
+ sus
+ fases
+con
+ la
+ planificación
+ y
+ objetivos
+ estipulados
+ en
+ este
+ instrumento,
+ así
+ como
+ tampoco
+ impedirá
+ el
+incremento
+ de
+ este
+ rubro
+ en
+ el
+ sector
+ público
+ y
+ privado.
+
+|Línea Estratégica|Líneas de Intervención|Relación con<br>el proyecto|
+|---|---|---|
+|**Mecanismo**<br>**de**<br>**captura**<br>**de**<br>**información**|Mejorar la información estadística|No aplica|
+|**Demanda Turística**|Desarrollar investigación y estudios de la demanda|No aplica|
+|**Demanda Turística**|Aumentar la demanda mediante la intensificación de la promoción<br>y acciones de comercialización , fortaleciendo la promoción de<br>oferta se servicios y productos de toda la región|No aplica|
+|**Oferta turística**|Desarrollar investigación e información para el mejoramiento de la<br>oferta|No aplica|
+|**Oferta turística**|Mejorar la calidad de la oferta|No aplica|
+|**Oferta turística**|Fortalecer la oferta turística de toda la región|No aplica|
+|**Oferta turística**|Potenciar eventos emblemáticos|No aplica|
+|**Oferta turística**|Desarrollo de herramientas de conocimientos de la tendencia de<br>mercado - Desarrollo de un portal de Magallanes - Investigar<br>cuales son los principales motores de búsqueda internet|No aplica|
+|**Oferta turística**|Desarrollo de Productos Actividades Outdoors|No aplica|
+|**Oferta turística**|Generación de herramientas financieras para el desarrollo de<br>emprendimientos turísticos de la región.|No aplica|
+|**Oferta turística**|Desarrollo de infraestructura y conectividad|No aplica|
+|**Ordenamiento territorial**|Desarrollo de espacio fiscal para uso turístico|No aplica|
+|**Ordenamiento territorial**|Aplicar herramientas de planificación|No aplica|
+|**Ordenamiento territorial**|Desarrollo de instrumento de planificación Antártica|No aplica|
+
+|Organización e Institucionalidad<br>Publico y Privada del sector<br>Turismo|Mejorar la relación público privado|No aplica|
+|---|---|---|
+|**Organización e Institucionalidad**<br>**Publico y Privada del sector**<br>**Turismo**|Promover la asociatividad|No aplica|
+|**Organización e Institucionalidad**<br>**Publico y Privada del sector**<br>**Turismo**|Integración y Fortalecimiento de organizaciones como los Cluster<br>de Turismo y las Corporaciones de desarrollo Turístico|No aplica|
+|**Capital humano y educación**|Mejorar la interrelación entre sectores productivos y educacional|No aplica|
+|**Capital humano y educación**|Fomento e innovación|No aplica|
+|**Capital humano y educación**|Rescate y histórico y cultural|No aplica|
+|**Áreas Silvestres Protegidas y**<br>**Áreas Fiscales**|Incremento de servicios turísticos en Áreas Silvestres Protegidas y<br>Áreas Fiscales|No aplica|
+|**Áreas Silvestres Protegidas y**<br>**Áreas Fiscales**|Disponibilidad y factibilidades de uso del territorio para realización<br>de proyectos turísticos por parte del sector privado|No aplica|
+
+_**2.4**_
+_**Política
+ Regional
+ de
+ Ciencia,
+ Tecnología
+ e
+ Innovación
+ de
+ la
+ Región
+ de
+ Magallanes
+ y**_
+_**la
+ Antártica
+ Chilena
+ 2010-­‐2020
+ (CTi)**_
+
+La
+ Política
+ Regional
+ de
+ CTi
+ buscar
+ situar
+ a
+ la
+ región
+ en
+ el
+ contexto
+ de
+ un
+ nuevo
+ panorama
+ nacional
+y
+ mundial,
+ dado
+ por
+ el
+ proceso
+ de
+ globalización
+ económica
+ y
+ la
+ consiguiente
+ necesidad
+ de
+aprovechar
+ las
+ ventajas
+ competitivas.
+ La
+ visión
+ de
+ la
+ Política
+ CTi
+ es
+ “posicionar
+ en
+ el
+ futuro
+ a
+ la
+región
+ como
+ un
+ territorio
+ social
+ y
+ económicamente
+ atractivo,
+ cuyo
+ desarrollo
+ se
+ basa
+ en
+ su
+entorno
+ natural
+ y
+ su
+ biodiversidad,
+ que
+ se
+ conserva
+ y
+ mantiene
+ como
+ su
+ patrimonio
+ fundamental,
+y
+ que
+ constituye
+ la
+ fuente
+ principal
+ de
+ su
+ capacidad
+ científica,
+ tecnológica
+ e
+ innovadora”.
+
+Si
+ bien
+ es
+ cierto
+ resulta
+ complejo
+ poder
+ establecer
+ una
+ relación
+ directa
+ entre
+ el
+ proyecto
+ en
+evaluación
+ y
+ la
+ Política
+ Regional
+ de
+ CTi,
+ toda
+ vez
+ que
+ buscar
+ potenciar
+ las
+ áreas,
+ iniciativas
+ y/o
+proyectos
+ de
+ ciencia,
+ tecnología
+ e
+ innovación,
+ es
+ dable
+ relacionar
+ el
+ proyecto
+ de
+ modo
+ indirecto
+con
+ los
+ lineamientos
+ estratégicos
+ “el
+ capital
+ humano
+ avanzado
+ como
+ eje
+ fundamental
+ de
+ la
+Política
+ CTi”,
+ y
+ “la
+ maximización
+ del
+ potencial
+ científico
+ y
+ económico
+ de
+ las
+ área
+ CTi
+ desde
+ la
+sustentabilidad
+ y
+ la
+ conservación
+ de
+ la
+ biodiversidad”.
+ Aportando
+ principalmente
+ en
+ la
+ agenda
+regional
+ de
+ desarrollo
+ productivo
+ siendo
+ un
+ apoyo
+ al
+ desarrollo
+ del
+ capital
+ humano
+ regional
+ y
+ a
+ la
+generación
+ de
+ masa
+ crítica
+ productiva
+ y
+ al
+ desarrollo
+ productivo
+ regional
+ ambientalmente
+sustentable.
+
+
+ Al
+ respecto,
+ se
+ proponen
+ los
+ siguientes
+ indicadores
+ de
+ cumplimiento:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa<br>de<br>capacitación<br>para profesionales del centro<br>de cultivo en programas de<br>la región|%<br>de<br>profesionales<br>capacitados en<br>la región según<br>año calendario|SENCE<br>Seremi<br>de<br>Educación<br>CORFO,<br>ACHS<br>Mutual<br>de<br>Seguridad u<br>otro|N°<br>de<br>profesionales<br>capacitados año<br>(N)*100/Total de<br>profesionales del<br>centro de cultivo|Por año calendario<br>se<br>capacitará<br>al<br>menos al 25% de<br>los profesionales|Copia<br>legalizada<br>ante<br>notario<br>de<br>certificado<br>de<br>participación<br>en<br>capacitación (estará<br>disponible<br>en<br>as<br>oficinas<br>administrativas<br>de<br>la empresa)|
+|Iniciativa<br>de<br>capacitación<br>para operarios en programas<br>de la región|% de operarios<br>capacitados en<br>la región<br>según<br>año|SENCE<br>Seremi<br>de<br>Educación|N° de operarios<br>capacitados año<br>(N)*100/Total de<br>operarios<br>del|Por año calendario<br>se<br>capacitará<br>al<br>menos al 25% de<br>los operarios|Copia<br>legalizada<br>ante<br>notario<br>de<br>certificado<br>de<br>participación<br>en|
+
+|Col1|calendario|CORFO,<br>ACHS<br>Mutual de<br>Seguridad u<br>otro|centro de cultivo|Col5|capacitación (estará<br>disponible en las<br>oficinas<br>administrativas de<br>la empresa)|
+|---|---|---|---|---|---|
+|Ubicación<br>del<br>centro<br>de<br>cultivo<br>en<br>un<br>zona<br>concordante/compatible con<br>la<br>vocación<br>productiva<br>propuesta por la zonificación<br>de la región|Ubicación<br>del<br>centro<br>de<br>cultivo en área<br>apropiada para<br>cultivos<br>extensivos|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Ubicación<br>del<br>centro de cultivo<br>en<br>área<br>apropiada<br>para<br>cultivos<br>extensivos|Obtención<br>de<br>Resolución<br>de<br>Calificación<br>Ambiental<br>(RCA)<br>que<br>califica<br>favorablemente el<br>proyecto|Se mantendrá en las<br>oficinas<br>administrativas<br>de<br>la región plano que<br>lo sitúe dentro de la<br>zonificación<br>del<br>borde costero de la<br>región|
+
+_**2.5**_
+_**Política
+ Regional
+ Para
+ el
+ Desarrollo
+ de
+ Localidades
+ Aisladas
+ Región
+ de
+ Magallanes
+ y**_
+_**Antártica
+ Chilena
+ 2012
+ -­‐
+ 2030**_
+
+La
+ naturaleza
+ de
+ la
+ Política
+ Regional
+ Para
+ el
+ Desarrollo
+ de
+ Localidades
+ Aisladas
+ dice
+ relación
+ con
+ el
+rol
+ del
+ Estado
+ en
+ la
+ integración
+ armónica
+ de
+ todos
+ los
+ sectores
+ de
+ la
+ Nación.
+ El
+ responsable
+ de
+ la
+implementación
+ de
+ esta
+ Política
+ es
+ el
+ Gobierno
+ Regional
+ en
+ conjunto
+ con
+ las
+ comunas
+ y
+coordinación
+ con
+ los
+ servicios
+ públicos
+ de
+ la
+ región.
+ Si
+ bien
+ es
+ cierto
+ resulta
+ complejo
+ poder
+establecer
+ una
+ relación
+ con
+ el
+ proyecto
+ en
+ evaluación,
+ toda
+ vez
+ que
+ la
+ Política
+ da
+ cuenta
+ de
+ la
+función
+ del
+ Estado
+ a
+ través
+ de
+ intervención
+ pública,
+ es
+ dable
+ vincular
+ indirectamente
+ el
+ proyecto
+con
+ el
+ “Lineamiento
+ N°3:
+ Articulación
+ de
+ la
+ política
+ con
+ otros
+ instrumentos
+ de
+ planificación”.
+ En
+este
+ sentido,
+ y
+ atención
+ a
+ la
+ compatibilidad
+ del
+ proyecto
+ con
+ los
+ instrumentos
+ de
+ planificación
+existentes,
+ se
+ proponen
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Ubicación del centro de<br>cultivo en un zona<br>concordante/compatible<br>con la vocación productiva<br>propuesta por la<br>zonificación de la región|Ubicación del<br>centro de<br>cultivo en área<br>apropiada para<br>cultivos<br>extensivos|Encargado<br>centro de<br>cultivo y/o<br>jefe de<br>producción|Ubicación del<br>centro de cultivo en<br>área apropiada para<br>cultivos extensivos|Obtención de<br>Resolución de<br>Calificación<br>Ambiental (RCA)<br>que califica<br>favorablemente el<br>proyecto|Se mantendrá en el<br>centro de cultivo<br>plano que lo sitúe<br>dentro de la<br>zonificación del<br>borde costero de la<br>región|
+|Iniciativa de capacitación<br>para profesionales del<br>centro de cultivo en<br>programas de la región|% de<br>profesionales<br>capacitados en<br>la región según<br>año calendario|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|N° de profesionales<br>capacitados año<br>(N)*100/Total de<br>profesionales del<br>centro de cultivo|Por año calendario<br>se capacitará al<br>menos al 25% de<br>los profesionales|Copia legalizada<br>ante notario de<br>certificado de<br>participación en<br>capacitación<br>(estará disponible<br>en las oficinas<br>administrativas)|
+|Iniciativa de capacitación<br>para operarios en<br>programas de la región|% de operarios<br>capacitados en<br>la región<br>según año<br>calendario|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS|N° de operarios<br>capacitados año<br>(N)*100/Total de<br>operarios del centro<br>de cultivo|Por año calendario<br>se capacitará al<br>menos al 25% de<br>los operarios|Copia legalizada<br>ante notario de<br>certificado de<br>participación en<br>capacitación<br>(estará disponible<br>en las oficinas|
+
+|Col1|Col2|Mutual de<br>Seguridad<br>u otro|Col4|Col5|administrativas)|
+|---|---|---|---|---|---|
+|Contratación de fuerza<br>laboral local (comuna de<br>Natales)|% de<br>trabajadores<br>locales|Encargado<br>centro de<br>cultivo y/o<br>jefe de<br>producción|N° de trabajadores<br>locales*100/Total<br>de trabajadores del<br>centro de cultivo|Al menos al 50%<br>de los<br>trabajadores del<br>centro de cultivo<br>será de la comuna<br>de Natales|Fotocopia simple<br>del contrato de<br>trabajo y<br>certificado de<br>residencia (estarán<br>disponibles en las<br>oficinas<br>administrativas)|
+|Limpieza de playa en área<br>del proyecto|Número<br>semestral de<br>veces que se<br>realiza limpieza<br>de playa|Encargado<br>centro de<br>cultivo|N° total de<br>limpiezas semestral<br>de playa|Limpieza de playa<br>2 veces por<br>semestre|Registro limpieza<br>de playa y<br>fotografías<br>asociadas|
+
+_**2.6**_
+_**Modificación
+ Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ Región
+ de
+ Magallanes
+ y
+ la**_
+_**Antártica
+ Chilena
+ 2007
+ (PRDU)**_
+
+La
+ macro
+ estructuración
+ del
+ territorio
+ definida
+ por
+ el
+ PRDU
+ permite
+ situar
+ al
+ proyecto
+ dentro
+ del
+“Sub-­‐sistema
+ Continental
+ Nor-­‐Oriental
+ (Provincia
+ de
+ Última
+ Esperanza)”,
+ en
+ donde
+ la
+ cabecera
+ del
+sistema
+ urbano
+ territorial
+ corresponde
+ a
+ la
+ ciudad
+ de
+ Puerto
+ Natales.
+ Asimismo,
+ y
+ si
+ bien
+ es
+ cierto
+se
+ emplaza
+ en
+ un
+ área
+ de
+ desarrollo
+ preferentemente
+ turística,
+ el
+ proyecto
+ guarda
+ relación
+ con
+ el
+ejercicio
+ de
+ la
+ actividad
+ acuícola
+ en
+ un
+ área
+ definida
+ como
+ apta
+ para
+ el
+ ejercicio
+ de
+ la
+ acuicultura.
+En
+ ese
+ sentido,
+ se
+ propone
+ el
+ siguiente
+ indicador
+ para
+ el
+ proyecto:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Ubicación del centro de cultivo<br>en<br>un<br>zona<br>concordante/compatible con la<br>vocación productiva propuesta<br>por la zonificación de la región|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos<br>extensivos|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos<br>extensivos|Obtención<br>de<br>Resolución<br>de<br>Calificación<br>Ambiental<br>(RCA)<br>que<br>califica<br>favorablemente<br>el<br>proyecto|Se mantendrá en las<br>oficinas<br>administrativas de la<br>región plano que lo<br>sitúe dentro de la<br>zonificación del borde<br>costero de la región|
+
+_**2.7**_
+_**Plan
+ Regulador
+ Intercomunal
+ Natales
+ -
+ Torres
+ del
+ Payne
+ 2008
+ (PRI)**_
+
+El
+ área
+ de
+ planificación
+ del
+ PRI
+ involucra
+ el
+ sector
+ continental
+ de
+ la
+ comuna
+ de
+ Natales
+ (que
+incorpora
+ el
+ principal
+ centro
+ poblado,
+ Puerto
+ Natales)
+ y
+ la
+ comuna
+ de
+ Torres
+ del
+ Payne,
+ dejando
+fuera
+ del
+ análisis
+ intercomunal
+ el
+ área
+ insular
+ de
+ la
+ comuna.
+ No
+ obstante,
+ dentro
+ de
+ la
+ propuesta
+de
+ macroáreas
+ establecidas
+ por
+ el
+ PRI
+ el
+ proyecto
+ se
+ encuentra
+ inserto
+ en
+ la
+ “macroárea
+restringida
+ y/o
+ excluida
+ al
+ desarrollo
+ urbano”.
+ Al
+ respecto,
+ y
+ en
+ atención
+ a
+ la
+ ubicación
+ del
+proyecto,
+ se
+ ha
+ propuesto
+ el
+ siguiente
+ indicador:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Ubicación del centro de cultivo<br>en<br>un<br>zona<br>concordante/compatible con la<br>vocación productiva propuesta<br>por la zonificación de la región|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada|Obtención<br>de<br>Resolución<br>de<br>Calificación<br>Ambiental<br>(RCA)<br>que<br>califica|Se mantendrá en las<br>ofiicnas<br>administrativas de la<br>región plano que lo<br>sitúe dentro de la|
+
+_**2.8**_
+_**Plan
+ Regulador
+ Comunal
+ Puerto
+ Natales
+ (PRC)**_
+
+El
+ PRC
+ y
+ su
+ actualización [3] tienen
+ como
+ ámbito
+ de
+ acción
+ las
+ localidades
+ urbanas
+ de
+ Puerto
+ Natales
+(incorpora
+ Puerto
+ Bories),
+ Villa
+ Renovales,
+ Villa
+ Dorotea,
+ Puerto
+ Prat
+ y
+ Puerto
+ Edén,
+ por
+ lo
+ que
+ el
+proyecto,
+ dada
+ su
+ ubicación,
+ queda
+ fuera
+ del
+ ámbito
+ de
+ acción
+ de
+ este
+ instrumento
+ de
+planificación
+ urbana.
+ Sin
+ embargo,
+ se
+ propone
+ el
+ siguiente
+ indicador
+ de
+ cumplimiento
+ para
+ el
+proyecto:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Ubicación del centro de cultivo<br>en<br>un<br>zona<br>concordante/compatible con la<br>vocación productiva propuesta<br>por la zonificación de la región|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos<br>extensivos|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|Ubicación del<br>centro<br>de<br>cultivo<br>en<br>área<br>apropiada<br>para cultivos<br>extensivos|Obtención<br>de<br>Resolución<br>de<br>Calificación<br>Ambiental<br>(RCA)<br>que<br>califica<br>favorablemente<br>el<br>proyecto|Se mantendrá en las<br>oficinas<br>administrativas de la<br>región plano que lo<br>sitúe dentro de la<br>zonificación del borde<br>costero de la región|
+
+_**2.9**_
+_**Plan
+ de
+ Desarrollo
+ Comunal
+ PLADECO
+ 2011
+ -
+ 2015**_
+
+El
+ desarrollo
+ de
+ la
+ acuicultura,
+ y
+ en
+ específico
+ de
+ la
+ actividad
+ mitilicultura,
+ cobra
+ relevancia
+regional
+ en
+ los
+ últimos
+ años
+ a
+ partir
+ de
+ la
+ zonificación
+ del
+ borde
+ costero,
+ en
+ donde
+ actores
+públicos
+ y
+ privados
+ han
+ consensuado
+ una
+ propuesta
+ de
+ uso
+ del
+ territorio
+ en
+ virtud
+ de
+ su
+ vocación
+productiva,
+ de
+ conservación
+ y/o
+ protección.
+ Si
+ bien
+ es
+ cierto
+ el
+ PLADECO
+ no
+ reseña
+ la
+ actividad
+mitilicultura
+ como
+ una
+ actividad
+ relevante
+ y
+ que
+ esté
+ presente
+ en
+ la
+ comuna,
+ es
+ dable
+ señalar
+ su
+potencial
+ de
+ crecimiento
+ y
+ aporte
+ en
+ la
+ diversificación
+ de
+ actividades
+ económicas
+ de
+ base
+ comunal
+y
+ bajo
+ impacto
+ ambiental,
+ esto
+ último
+ por
+ cuanto
+ se
+ trata
+ de
+ cultivos
+ de
+ carácter
+ extensivo
+ (no
+requieren
+ de
+ suministro
+ de
+ alimento).
+ De
+ este
+ modo
+ es
+ posible
+ establecer
+ una
+ vinculación
+ del
+proyecto
+ con
+ los
+ ámbitos
+ “social,
+ productivo
+ y
+ de
+ medio
+ ambiente
+ y
+ sustentabilidad”,
+ lo
+ cual
+queda
+ sustentado
+ en
+ los
+ siguientes
+ indicadores
+ de
+ cumplimiento:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de verificación|
+|---|---|---|---|---|---|
+|Iniciativa<br>de<br>capacitación para<br>profesionales del<br>centro de cultivo<br>en programas de<br>la región|%<br>de<br>profesionales<br>capacitados<br>en<br>la región según<br>año calendario|SENCE<br>Seremi<br>de<br>Educación<br>CORFO, ACHS<br>Mutual<br>de<br>Seguridad<br>u<br>otro|N° de profesionales<br>capacitados<br>año<br>(N)*100/Total<br>de<br>profesionales<br>del<br>centro de cultivo|Por<br>año<br>calendario<br>se<br>capacitará<br>al<br>menos al 25% de<br>los profesionales|Copia<br>legalizada<br>ante<br>notario de certificado de<br>participación<br>en<br>capacitación<br>(estará<br>disponible en las oficinas<br>administrativas)|
+|Iniciativa<br>de<br>capacitación para<br>operarios<br>en<br>programas de la<br>región|% de operarios<br>capacitados<br>en<br>la región<br>según<br>año<br>calendario|SENCE<br>Seremi<br>de<br>Educación<br>CORFO, ACHS<br>Mutual<br>de|N°<br>de<br>operarios<br>capacitados<br>año<br>(N)*100/Total<br>de<br>operarios del centro<br>de cultivo|Por<br>año<br>calendario<br>se<br>capacitará<br>al<br>menos al 25% de<br>los operarios|Copia<br>legalizada<br>ante<br>notario de certificado de<br>participación<br>en<br>capacitación<br>(estará<br>disponible en las oficinas<br>administrativas<br>de<br>la|
+
+3 http://www.muninatales.cl/transparencia.html
+http://seia.sea.gob.cl/expediente/expediente.php?id_expediente=3279914&modo=ficha
+
+|Col1|Col2|Seguridad u<br>otro|Col4|Col5|empresa)|
+|---|---|---|---|---|---|
+|Contratación<br>de<br>fuerza<br>laboral<br>local (comuna de<br>Natales)|%<br>de<br>trabajadores<br>locales|Encargado<br>centro<br>de<br>cultivo<br>y/o<br>jefe<br>de<br>producción|N° de trabajadores<br>locales*100/Total de<br>trabajadores<br>del<br>centro de cultivo|Al menos al 50%<br>de<br>los<br>trabajadores<br>del<br>centro de cultivo<br>será de la comuna<br>de Natales|Fotocopia<br>simple<br>del<br>contrato de trabajo y<br>certificado de residencia<br>((estará disponible en las<br>oficinas administrativas<br>de la empresa ubicadas<br>en Natales)|
+|Limpieza de playa<br>en<br>área<br>del<br>proyecto|Número<br>semestral<br>de<br>veces<br>que<br>se<br>realiza limpieza<br>de playa|Encargado<br>centro<br>de<br>cultivo|N° total de limpiezas<br>semestral de playa|Limpieza de playa<br>2<br>veces<br>por<br>semestre|Registro<br>limpieza<br>de<br>playa<br>y<br>fotografías<br>asociadas|
+
+_**2.10**_
+_**ARTICULO
+ 14.
+ DESARROLLO
+ DE
+ PROYECTOS
+ O
+ ACTIVIDADES
+ POR
+ ETAPA**_
+
+El
+ titular
+ no
+ ha
+ fraccionado
+ el
+ proyecto
+ o
+ actividades
+ con
+ el
+ objeto
+ de
+ variar
+ el
+ instrumento
+ de
+evaluación
+ o
+ de
+ eludir
+ el
+ ingreso
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental.
+
+La
+ Declaración
+ de
+ Impacto
+ Ambiental
+ indica
+ expresamente
+ que
+ el
+ proyecto
+ o
+ actividades
+ se
+desarrollarán
+ por
+ etapas:
+ Construcción,
+ Operación
+ y
+ Cierre,
+ todas
+ descritas
+ íntegramente
+ en
+ el
+presente
+ documento,
+ indicando
+ para
+ cada
+ una
+ de
+ ellas
+ las
+ obras
+ o
+ acciones
+ asociadas
+ y
+ su
+duración
+ estimada.

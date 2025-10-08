@@ -1,0 +1,334 @@
+---
+title: 19
+author: nmunoz
+date: D:20110505112508-04'00'
+language: es
+type: general
+pages: 5
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+  - DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+  - DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+  - DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+  - DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+-->
+
+**CIA. MANUFACTURERA**
+# DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+
+## HOJA DE DATOS DE SEGURIDAD
+
+NCh 2245 Of. 2003
+
+Fecha de Revisión: Abril 2011
+
+**SECCION 1: IDENTIFICACION DEL PRODUCTO Y DEL PROVEEDOR**
+
+|SECCION 2: IDENTIFICACION DE LOS PELIGROS|Col2|
+|---|---|
+|NO APLICA<br>PRODUCTO NO PELIGROSO SEGUN NCh 382||
+|**NCh 382**|**NCh 1411/IV (NFPA 704)**|
+|Marca en etiqueta NCh 2190<br>NO APLICA. NO CLASIFICADO COMO PELIGROSO.<br>a) Riesgos para la salud de las personas:<br>PUEDE CAUSAR IRRITACION EN LA PIEL Y EN LOS OJOS. ES NOCIVO SI SE<br>INGIERE.<br> Efectos de una sobre-exposición aguda<br> (por una vez)<br> Inhalación<br>NO REPRESENTA RIESGO.<br> Contacto con la piel<br>PUEDE PRODUCIR IRRITACION.<br> Contacto con los ojos<br>PUEDE PRODUCIR IRRITACION SEVERA.<br> Ingestión<br>PUEDE CAUSAR IRRITACION GASTROINTESTINAL.<br> Efectos de una sobre-exposición crónica<br> (largo plazo)<br>NO HAY INFORMACION DISPONIBLE.<br>**NOTA:**CONTIENE ETILENGLICOL MONOBUTIL ETER, EL CUAL PUEDE AFECTAR<br>LOS RIÑONES, EL HIGADO, EL SISTEMA LINFATICO Y LA SANGRE.<br> Condición médica que se verá agravada<br> con la exposición al producto<br>AFECCIONES PRE-EXISTENTES DE LA PIEL Y LOS OJOS.<br>b) Riesgos para el medio ambiente<br>NO APLICA.<br>c) Riesgos de naturaleza física o química<br>NO APLICA.<br>d) Riesgos específicos de la mezcla<br>NO APLICA.|Marca en etiqueta NCh 2190<br>NO APLICA. NO CLASIFICADO COMO PELIGROSO.<br>a) Riesgos para la salud de las personas:<br>PUEDE CAUSAR IRRITACION EN LA PIEL Y EN LOS OJOS. ES NOCIVO SI SE<br>INGIERE.<br> Efectos de una sobre-exposición aguda<br> (por una vez)<br> Inhalación<br>NO REPRESENTA RIESGO.<br> Contacto con la piel<br>PUEDE PRODUCIR IRRITACION.<br> Contacto con los ojos<br>PUEDE PRODUCIR IRRITACION SEVERA.<br> Ingestión<br>PUEDE CAUSAR IRRITACION GASTROINTESTINAL.<br> Efectos de una sobre-exposición crónica<br> (largo plazo)<br>NO HAY INFORMACION DISPONIBLE.<br>**NOTA:**CONTIENE ETILENGLICOL MONOBUTIL ETER, EL CUAL PUEDE AFECTAR<br>LOS RIÑONES, EL HIGADO, EL SISTEMA LINFATICO Y LA SANGRE.<br> Condición médica que se verá agravada<br> con la exposición al producto<br>AFECCIONES PRE-EXISTENTES DE LA PIEL Y LOS OJOS.<br>b) Riesgos para el medio ambiente<br>NO APLICA.<br>c) Riesgos de naturaleza física o química<br>NO APLICA.<br>d) Riesgos específicos de la mezcla<br>NO APLICA.|
+
+**SECCION 3: INFORMACION SOBRE LA MEZCLA**
+
+Componentes principales: SOLUCION ACUOSA DE HIDROXIDO DE POTASIO, ETANOLAMINA Y BUTIL GLICOL.
+
+Componentes que contribuyen al riesgo:
+
+FECHA DE EMISION: ABRIL 2011 HOJA 1 DE 5
+
+**CIA. MANUFACTURERA**
+# DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+
+## HOJA DE DATOS DE SEGURIDAD
+
+NCh 2245 Of. 2003
+
+Nombre químico HIDROXIDO DE POTASIO ETILENGLICOL MONOBUTIL ETER
+
+Concentración 1,35 - 1,65 % 2,25 - 2,75 %
+
+No CAS 1310-58-3 111-76-2
+
+Código IUPAC NO DISPONIBLE NO DISPONIBLE
+
+Nombre químico ETANOLAMINA
+
+Concentración 1,8 - 2,2 %
+
+No CAS 141-43-5
+
+Código IUPAC NO DISPONIBLE
+
+No NU de la mezcla NO APLICA. PRODUCTO NO PELIGROSO PARA O DURANTE EL TRANSPORTE.
+
+**SECCION 4: MEDIDAS DE PRIMEROS AUXILIOS**
+
+Inhalación NO APLICA.
+
+Contacto con la piel LAVAR CON AGUA ABUNDANTE. SI SE PRODUCEN MOLESTIAS, CONSEGUIR
+ATENCION MEDICA.
+Contacto con los ojos INMEDIATAMENTE LAVAR CON AGUA ABUNDANTE, SI USA LENTES DE
+CONTACTO, REMOVER CON CUIDADO Y SEGUIR LAVANDOSE AL MENOS 15
+MINUTOS, MANTENIENDO LOS PARPADOS BIEN ABIERTOS. OBTENER ATENCION
+MEDICA SI PERSISTEN MOLESTIAS CON UN OFTALMOLOGO.
+Ingestión DAR A BEBER AGUA ABUNDANTE. NO PROVOCAR VOMITOS. SI SE PRODUCEN
+MOLESTIAS, CONSEGUIR ATENCION MEDICA.
+
+Notas para el médico tratante TRATAR DE ACUERDO A LOS SINTOMAS.
+
+**SECCION 5: MEDIDAS PARA LUCHA CONTRA EL FUEGO**
+
+Riesgos específicos NO APLICA.
+
+Productos peligrosos de la combustión NO APLICA.
+
+Agentes de extinción UTILICE AQUELLOS APROPIADOS PARA EL FUEGO CIRCUNDANTE.
+Procedimientos especiales para combatir el NO SE REQUIEREN.
+fuego
+
+Equipo de protección personal para el NO SE REQUIERE.
+combate del fuego
+
+**SECCION 6: MEDIDAS PARA CONTROLAR DERRAMES O FUGAS**
+
+Medidas de emergencia a tomar si hay ABSORBER CON MATERIAL INERTE, RECOGER CON PALAS Y DEPOSITAR EN
+derrame del material RECIPIENTES PLASTICOS, PARA SU POSTERIOR DISPOSICION. EN CASO DE
+DERRAMES PEQUEÑOS, DILUIR CON AGUA ABUNDANTE.
+Equipo de protección personal para atacar la GAFAS CON PROTECCION LATERAL, GUANTES DE GOMA.
+emergencia
+
+Precauciones personales EVITE EL CONTACTO CON LOS OJOS Y LA PIEL.
+
+Precauciones a tomar para evitar daños al NO APLICA.
+medio ambiente
+
+Métodos de limpieza DESCONTAMINE EL AREA AFECTADA POR MEDIO DE LAVADO CON AGUA
+ABUNDANTE.
+
+Métodos de eliminación de desechos VER SECCION 13.
+
+**SECCION 7: MANIPULACION Y ALMACENAMIENTO**
+
+a) Manipulación
+
+Medidas de orden técnico (Recomendación) NO SE REQUIEREN.
+
+Precauciones a tomar EVITE EL CONTACTO CON LOS OJOS Y LA PIEL.
+
+Recomendaciones sobre manipulación NO SE REQUIEREN.
+segura, específicas
+
+b) Almacenamiento
+
+Medidas de orden técnico PROTEGER LOS ENVASES DEL DAÑO FISICO.
+
+Condiciones de almacenamiento AREA FRESCA Y SECA, BAJO TECHO. PROTEGER DEL CALOR.
+
+Embalajes recomendados y no adecuados MANTENER EN SU ENVASE ORIGINAL, BIEN CERRADO.
+
+FECHA DE EMISION: ABRIL 2011 HOJA 2 DE 5
+
+**CIA. MANUFACTURERA**
+# DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+
+## HOJA DE DATOS DE SEGURIDAD
+
+NCh 2245 Of. 2003
+
+por el proveedor
+
+**SECCION 8: CONTROL DE EXPOSICION / PROTECCION ESPECIAL**
+
+Medidas para reducir la posibilidad de BUENAS PRACTICAS DE HIGIENE PERSONAL E INDUSTRIAL.
+exposición.
+
+Parámetros para control NO APLICA.
+
+Límites permisibles ponderado (LPP), absoluto ETILEN GLICOL MONOBUTIL ETER (PIEL):
+(LPA ) y temporal (LPT) LPP = 20 ppm (97 mg/m3)
+
+Umbral odorífero NO APLICA.
+
+Estándares biológicos NO APLICA.
+
+Protección respiratoria NO SE REQUIERE.
+
+Guantes de protección GUANTES DE GOMA.
+
+Protección para ojos / cara GAFAS OCN PROTECCION LATERAL.
+
+Protección personal para cuerpo / piel ROPA DE TRABAJO NORMAL.
+
+Medidas de Higiene, Ventilación GENERAL
+
+Precauciones especiales NO SE REQUIEREN.
+
+**SECCION 9: PROPIEDADES FISICAS Y QUIMICAS**
+
+Estado físico LIQUIDO
+
+Forma en que se presenta FLUIDO CLARO, NO VISCOSO.
+
+Peso molecular NO APLICA A LAS MEZCLAS.
+
+Olor A SOLVENTE GLICOLICO.
+
+Color INCOLORO
+
+pH concentración y temperatura 12,3 - 14 (puro, 20 oC)
+
+Temperaturas específicas y/o intervalos de NO HAY INFORMACION DISPONIBLE.
+temperatura
+
+Punto de inflamación NO APLICA.
+
+Límites de inflamabilidad NO APLICA.
+
+To de autoignición NO APLICA.
+
+Peligros de fuego o explosión NO APLICA.
+
+Presión de vapor a 20 oC NO APLICA.
+
+Densidad de vapor NO APLICA.
+
+Densidad a 20 oC 1 g/cc
+
+Solubilidad en agua y otros solventes TOTALMENTE SOLUBLE EN AGUA.
+
+Coef. de partición n-octanol/agua NO APLICA.
+
+**SECCION 10: ESTABILIDAD Y REACTIVIDAD**
+
+Estabilidad ESTABLE BAJO CONDICIONES NORMALES DE USO Y DE ALMACENAMIENTO.
+
+Reacciones de riesgo NO APLICA.
+
+Condiciones que se deben evitar CONTACTO CON SUSTANCIAS INCOMPATIBLES.
+
+Incompatibilidad (materiales que se deben ACIDOS FUERTES.
+evitar)
+
+Productos peligrosos de la descomposición NO SE DESCOMPONE A TEMPERATURA AMBIENTE.
+
+Productos peligrosos de la combustión NO APLICA.
+
+Polimerización peligrosa NO OCURRE.
+
+FECHA DE EMISION: ABRIL 2011 HOJA 3 DE 5
+
+**CIA. MANUFACTURERA**
+# DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+
+## HOJA DE DATOS DE SEGURIDAD
+
+NCh 2245 Of. 2003
+
+**SECCION 11: INFORMACION TOXICOLOGICA**
+
+Toxicidad a corto plazo **ETILENGLICOL MONOBUTIL ETER:**
+
+ - ORAL (LD50, RATA) = 470 mg/Kg
+
+ - DERMICA (LD50, CONEJO) = 220 mg/Kg
+
+ - INHALACION (LC50, RATA) = 450 ppm en 4 hr.
+Toxicidad a largo plazo CONTIENE ETILENGLICOL MONOBUTIL ETER, EL CUAL PUEDE AFECTAR LOS
+RIÑONES, EL HIGADO, EL SISTEMA LINFATICO Y LA SANGRE.
+
+Efectos locales o sistémicos IRRITACION
+
+Sensibilización alérgica NO APLICA.
+
+Experimentos científicos NO HAY INFORMACION DISPONIBLE.
+
+Otros datos NO SE REQUIEREN.
+
+**SECCION 12: INFORMACION ECOLOGICA**
+
+Inestabilidad NO APLICA.
+
+Persistencia / degradabilidad ES MAYORMENTE BIODEGRADABLE.
+
+Bio-acumulación NO SE PRODUCE.
+
+Efectos sobre el medio ambiente PUEDE SER NOCIVO PARA EL MEDIO AMBIENTE ACUATICO, DEBIDO A SU pH
+ALTAMENTE ALCALINO.
+
+Experimentos científicos **ECOTOXICIDAD DEL ETILENGLICOL MONOBUTIL ETER:**
+
+ - TRUCHA ARCOIRIS (LC50, 96 hr): > 1.000 mg/L
+
+ - PULGA DE MAR (LC50, 24 hr): 1.720 mg/L
+
+Otros datos NO VERTER A CURSOS DE AGUA O SUELOS.
+
+Referencias www.toxnet.nlm.nih.gov (Nacional Library of Medicine, U.S.A.)
+
+**SECCION 13: CONSIDERACIONES SOBRE DISPOSICION FINAL**
+
+Métodos recomendados y aprobados por la
+normativa chilena para disponer de la
+sustancia, residuos, desechos
+
+Métodos recomendados y aprobados por la
+normativa chilena para eliminación de envases
+/ embalajes contaminados
+
+ELIMINAR EN VERTEDEROS AUTORIZADOS.
+
+LOS ENVASES SE LAVAN CON AGUA ABUNDANTE Y PUEDEN REUTILIZARSE.
+
+**SECCION 14: INFORMACION SOBRE TRANSPORTE**
+
+Terrestre por carretera o ferrocarril PRODUCTO NO REGULADO POR EL REGLAMENTO DE TRANSPORTE DE CARGA
+PELIGROSA POR CALLES Y CAMINOS (DECRETO SUPREMO No 298 / 1994).
+Vía marítima PRODUCTO NO REGULADO POR LA ORGANIZACION MARITIMA INTERNACIONAL
+(IMO).
+Vía aérea PRODUCTO NO REGULADO POR ASOCIACION DE TRANSPORTE AEREO
+INTERNACIONAL (IATA).
+
+Distintivos aplicables NCh 2190 NO APLICABLE PARA ESTE TIPO DE PRODUCTO.
+
+No NU NO ESTA CLASIFICADO COMO SUSTANCIA PELIGROSA.
+
+**SECCION 15: NORMAS VIGENTES**
+
+Normas internacionales aplicables Norma ISO 11014:2009 “Safety data sheet for chemical products - Content and order of
+sections”.
+
+Normas nacionales aplicables DECRETO SUPREMO No 594 (2001): Reglamento sobre condiciones sanitarias y
+ambientales básicas en los lugares de trabajo.
+NORMA CHILENA 1411/4 Of.2001: Prevención de riesgos - Parte 4: Señales de
+seguridad para la Identificación de riesgos de materiales.
+NORMA CHILENA 2245 Of.2003: Sustancias químicas - Hojas de Datos de SeguridadRequisitos.
+
+FECHA DE EMISION: ABRIL 2011 HOJA 4 DE 5
+
+**CIA. MANUFACTURERA**
+# DE ACONCAGUA S.A. REMOVEDOR DE CERAS FACIL
+
+## HOJA DE DATOS DE SEGURIDAD
+
+NCh 2245 Of. 2003
+
+Marca en etiqueta
+
+IRRITANTE
+
+**SECCION 16: OTRAS INFORMACIONES**
+
+|Uso específico REMOVEDOR DE CERAS PLASTICAS.<br>Frases de riesgo ( R ) 36/38 IRRITA LOS OJOS Y LA PIEL.<br>Frases de seguridad ( S ) 24 EVITE EL CONTACTO CON LA PIEL.<br>25 EVITE EL CONTACTO CON LOS OJOS.<br>62 EN CASO DE INGESTION NO PROVOCAR EL VOMITO: ACUDASE<br>INMEDIATAMENTE AL MEDICO Y MUESTRELE LA ETIQUETA O EL ENVASE.|Col2|
+|---|---|
+|RECOPILACION<br>CIA. MANUFACTURERA DE ACONCAGUA S.A.|REVISION<br>01|
+|NOTA: LOS DATOS CONSIGNADOS EN ESTA HOJA INFORMATIVA FUERON OBTENIDOS DE FUENTES CONFIABLES. LAS<br>OPINIONES EXPRESADAS EN ESTE FORMULARIO SON LAS DE PROFESIONALES CAPACITADOS. LA INFORMACION<br>QUE SE ENTREGA EN EL ES LA CONOCIDA ACTUALMENTE SOBRE LA MATERIA.<br>CONSIDERANDO QUE EL USO DE ESTA INFORMACION Y DE LOS PRODUCTOS ESTA FUERA DEL CONTROL DEL<br>PROVEEDOR, LA EMPRESA NO ASUME RESPONSABILIDAD ALGUNA POR ESTE CONCEPTO. DETERMINAR LAS<br>CONDICIONES DE USO SEGURO DEL PRODUCTO ES OBLIGACION DEL USUARIO.|NOTA: LOS DATOS CONSIGNADOS EN ESTA HOJA INFORMATIVA FUERON OBTENIDOS DE FUENTES CONFIABLES. LAS<br>OPINIONES EXPRESADAS EN ESTE FORMULARIO SON LAS DE PROFESIONALES CAPACITADOS. LA INFORMACION<br>QUE SE ENTREGA EN EL ES LA CONOCIDA ACTUALMENTE SOBRE LA MATERIA.<br>CONSIDERANDO QUE EL USO DE ESTA INFORMACION Y DE LOS PRODUCTOS ESTA FUERA DEL CONTROL DEL<br>PROVEEDOR, LA EMPRESA NO ASUME RESPONSABILIDAD ALGUNA POR ESTE CONCEPTO. DETERMINAR LAS<br>CONDICIONES DE USO SEGURO DEL PRODUCTO ES OBLIGACION DEL USUARIO.|
+
+FECHA DE EMISION: ABRIL 2011 HOJA 5 DE 5

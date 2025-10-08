@@ -1,0 +1,92 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20150717062249Z
+language: en
+type: general
+pages: 4
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|SIMBOLOGIA DE PLANO<br>3ODQWD*HQHUDOGH6HJXULGDGSUR\HFWR0RQREORFN$xR9LWDO$JXDV<br>352'8&PO7,Z9O2 1<br>Escala 1 / 250<br>42<br>ERAL IN TO M AN IE U GM AA ALMACEN ESTANQUES<br>42<br>P<br>BODEGA MATERIAL TECNICO<br>P<br>50 4 3<br>64<br>60 TALLER MANTENCION<br>53<br>SALA DE BOMBAS PROYECTADO<br>SALIDA EMERGENCIA<br>punto ref.J.M.V<br>29 ESTANQUES DE ALMACENAMIETO AGUA<br>57 FILTRO MULTIBARRERA<br>FEIMLTBROOTE ALRLEANCAIO N<br>GENERAL BODEGA<br>FLILATVRAOD AORREAN A BODEGA ABLANDADOR 30 40 41 28 42 SAL 52 PROYECTO TAMEGAL AGOSTO 2012 112 SP.TAMERACK PROYECTO TAMEGAL AGOSTO 2012 896 DISP.MATERIAL ENVASADO<br>SALIDA EMERGENCIA ESTCAANPQ U50E0 P0 ELTTRSOLEO<br>FILTRO ABSOLUTO H.O.D 51 EPTAIQCUKEETRASD VOITRZA ETIQUETADO ELVOVEDOLRAAN DTEEC PHA LLET 63 2 431 tecNnuoelovgou miao Anctaej5reoM s23 8In.0o5x.i2d0a1b4le COMPXRSE-7S5OR COMP NR IRAEI VSR AOE N R AE 5S 5 KW GRUPP OL GA ETA NF EO RR AM DOA RC HIMA EC NU EM AU LADOR SUBE-L5 EEA SCC TTAO5 RC0 EL I- CC ISU6 OAO T0 M NAH M 7U NP 5P LQ/ 0AR3 KU7 DE V- EOS4 A 5O RK RW 500KVA8AICROEBM SAPAOCRNLKEI2T SU5AO AP AR C.R II RO O EELS ULTUMABUNRLQIACUDAEOD9 RO AICROEM SPAORNLEI1T RS5A EOR SRI IO VIC DO ON RD AE MN OS NA ID AO CR OE S PURIF PI UC RAT GDEA AROG MR VU O AA P OR PURIFCICOA2 2DOR 1 ESBG SEOL TPMI AACB NROA QALS DUOEREQUIPO OM 5O 5SIS IN 8 9VERSA LABORATORIO 7 11 ETIQUREOTATIDNOAR A M-26M-3014 SD OO PSL 2OUI 9F RCIC TAA EDD 7OR SOMP2O-2 4R9TEM-25 M-2339M-10 M-xx E MNC -1AA 1JUOSNTARDAOL RA M-3 M M- -x xx xM-2 M-12 M-13 M-6 M-xxM-18 L MAFG -V 1IRAL 8M TADRBO- OA1 R4 A MM-1-176 M-20 DEFSOPRAMLEATTIOZA 3D3O0R CALDEES RT AA S N CQ AU P E 40 G 0A 0 S LLI TS CUADO CUBIERTA DE HORMIGON CASINO SALA SODA CAUSTICA M.TTABLERO TRANSFERENCIA AIRE SANITARIO AGUA REFRIGERADA NIRVANA OIL FREE C.I.P H.O.D MAN LINEA 2IF 9(5'(7$//($$O 3,62LD VAPG OE R NOEZROANDOOR AGUA PERMEADAINOXIDABLEESTANQUE EDNE VCOALJVAES DORA M-NN INLSEPNET VC I ET DO ER O JET LAVADORA AUSTRAL M-5 ENVOLVEDORA LINEA 1 INSPLEECNTTE O R<br>CELDA<br>62 55 INTERCAMBIADOR3 10 PLACA GLICOL/NH<br>%$f2683(59,625(6<br>56 PROYECCION URINARIOS<br>LOCKERS<br>LINEA 4 HORMIGON LINEA 4<br>6<br>32 33 9 10 37 36 LINEA 3 17 22 M2 161 %$f26 LINEA 3<br>16 15<br>38 SALIDA EMERGENCIA<br>CAMARA<br>12 35<br>13<br>19<br>SALIDA EMERGENCIA SALIDA EMERGENCIA<br>Co2 20<br>27 P CAMARA<br>26 ESTACIONAMIENTO PROYECCION ESTANQUES INOXIDABLE 40M3 REUTILIZACION DE AGUA<br>7.00 ADMINISTRACION DE<br>H<br>PORTERIA CALDERA<br>10.00<br>Nueva Instalacion PROYECCION 2015<br>punto conexion<br>18 EXPEDICION<br>P P 34 SALIDA EMERGENCIA PISCINA EMERGENCIA<br>PARA EQUIPOS AUXILIARES 840M2<br>SALIDA EMERGENCIA<br>SALIDA EMERGENCIA<br>SALIDA EMERGENCIA<br>Co2<br>P<br>Co2  C o3 2LVR LOMBRIFILTRO<br>PLANTA<br>31 P N puu ne tv oa c I on ns eta xl ia oc nion P SALIDA EMERGENCIA ELECTRICA<br>CCFCCFCCF<br>ESTACIONAMIENTOS<br>N A V E E X IS T E N T E N A V E P R O Y E C T A D A TGBT<br>SUB-ESTACION<br>Co2<br>P<br>Nueva Instalacion<br>punto conexion<br>Co2<br>SALIDA EMERGENCIA<br>P<br>PALLET<br><br>A L M A C E N A M IE N T O P R O D U C T O T E R M IN A D O<br>Casa piedra y bodega parcela Camioneta Planta y camion Planta Gruas Horquilla<br>61 65 23 24 25 44 45 46 47 48 49 54|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+||||||VASA|
+|||||VITAL AGUAS S.A.<br>C<br>R|RO - 035~~ A~~|
+|||||||
+
+1
+
+_**INVENTARIO EXTINTORES VITAL AGUAS S.A.**_
+
+|NUMERO INTERNO|TIPO|CAPACIDAD|UBICACIÓN|No GABINETE<br>PORTA<br>EXTINTORES|
+|---|---|---|---|---|
+|1|PQS-ABC|10 Kg|Casino|1-2|
+|2|PQS-ABC|10 Kg|Casino||
+|3|PQS-ABC|10 Kg|Taller Mantencion||
+|4|CO2|5 Kg|Taller Mantencion||
+|5|CO2|5 Kg|Sub. Estacion|5|
+|6|CO2|2 Kg|Of. Adm. Exterior|6|
+|7|CO2|2 Kg|Sala Embotellacion||
+|8|PQS-ABC|10 Kg|Sala Compresores Aire||
+|9|PQS-ABC|10 Kg|Sala Compresores Aire||
+|10|PQS-ABC|10 Kg|Prod. Of. Supervisores||
+|11|PQS-ABC|10 Kg|Linea 2 Produccion||
+|12|PQS-ABC|10 Kg|Bod. Sust. Peligrosas|12-13|
+|13|PQS-ABC|10 Kg|Bod. Sust. Peligrosas|Bod. Sust. Peligrosas|
+|14|PQS-ABC|10 Kg|Linea 1 Produccion||
+|15|PQS-ABC|10 Kg|Pasillo poniente Nave Prod|15-16|
+|16|PQS-ABC|10 Kg|Pasillo poniente Nave Prod|Pasillo poniente Nave Prod|
+|17|PQS-ABC|10 Kg|Estanque gas patio|17|
+|18|PQS-ABC|2 Kg|Oficina Expedicion|18|
+|19|PQS-ABC|10 Kg|Porteria|19-20|
+|20|PQS-ABC|10 Kg|Porteria|Porteria|
+|21|CO2|2 Kg|Sala Osmosis||
+|22|PQS-ABC|10 Kg|Bod.Sust. Peligrosas patio|22|
+|23|PQS-ABC|10 Kg|Casa de Piedra||
+|24|PQS-ABC|1 Kg|Camioneta Toyota||
+|25|PQS-ABC|4 Kg|Camion Planta||
+|26|PQS-ABC|10 Kg|Bod. Residuos Peligrosos|26-27|
+|27|PQS-ABC|10 Kg|Bod. Residuos Peligrosos|Bod. Residuos Peligrosos|
+|28|PQS-ABC|10 Kg|Bodega de Envase||
+|29|PQS-ABC|10 Kg|Bodega General||
+|30|PQS-ABC|10 Kg|Bodega General||
+|31|PQS-ABC|10 Kg|Planta Riles|31|
+|32|CO2|2 Kg|L3 Etiquetadora||
+|33|CO2|2 Kg|L3,4 Tablero General||
+|34|CO2|2 Kg|OF. Expedicion Romana|34|
+|35|CO2|5 Kg|Planta CO2|35|
+|36|CO2|2 Kg|Of. Adm. Interior||
+|37|CO2|2 Kg|Of. Adm. Interior||
+|38|CO2|2 Kg|Of. Adm. Interior||
+|39|CO2|2 Kg|Tablero Lavadora (embotellacion L1)||
+|40|PQS-ABC|10 Kg|Bodega de Envase||
+|41|PQS-ABC|10 Kg|Bodega de Envase||
+|42|PQS-ABC|10 Kg|Bodega de Envase||
+
+2
+
+|43|PQS-ABC|10 Kg|Bodega de Base|43|
+|---|---|---|---|---|
+|44|PQS-ABC|1 Kg|Grua N°13||
+|45|PQS-ABC|1 Kg|Grua N°12||
+|46|PQS-ABC|1 Kg|Grua N°11||
+|47|PQS-ABC|1 Kg|Grua N°10||
+|48|PQS-ABC|1 Kg|Grua N°09||
+|49|PQS-ABC|1 Kg|Grua N°08||
+|50|PQS-ABC|4 Kg|Trabajos con calor mantencion||
+|51|PQS-ABC|10 Kg|Laboratorio||
+|52|CO2|5 Kg|Laboratorio 2° Piso||
+|53|PQS-ABC|10 Kg|Generador de Electricidad Auxiliar||
+|54|PQS-ABC|1 Kg|Grua Horquilla (Repuesto)||
+|55|PQS-ABC|4 Kg|Interio Casino||
+|56|PQS-ABC|4 Kg|Interio Casino||
+|57|CO2|2 Kg|2° Piso bodega||
+|58|CO2|5 Kg|Zona compresores de frio||
+|59|CO2|5 Kg|Zona compresores de frio||
+|60|CO2|2 Kg|Trabajos con calor mantencion||
+|61|PQS-ABC|10 Kg|Bodega casa de piedra||
+|62|PQS-ABC|10 Kg|Interior Sala Caldera||
+|63|PQS-ABC|10 Kg|Exterior Sala Caldera||
+|64|PQS-ABC|11 Kg|Generador perkins||

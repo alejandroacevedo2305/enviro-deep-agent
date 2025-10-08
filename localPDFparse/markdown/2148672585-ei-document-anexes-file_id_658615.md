@@ -1,0 +1,25 @@
+---
+title: PLANTA GEOMETRICA
+author: Desconocido
+date: D:20201006092642
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|2<br>3<br>2<br>3<br>2 3<br>PROYECTO EXTRACCION MECANIZADA DE ARIDOS|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|2<br>3<br>2<br>3<br>2<br>3<br> PROYECTO EXTRACCION MECANIZADA DE ARIDOS|2<br>3<br>2<br>3<br>2<br>3<br> PROYECTO EXTRACCION MECANIZADA DE ARIDOS|2<br>3|2<br>3|2<br>3|
+|2<br>3<br>2<br>3<br>2<br>3<br> PROYECTO EXTRACCION MECANIZADA DE ARIDOS|PROYECTO EXTRACCION MECANIZADA DE ARIDOS|PROYECTO EXTRACCION MECANIZADA DE ARIDOS|PROYECTO EXTRACCION MECANIZADA DE ARIDOS|PROYECTO EXTRACCION MECANIZADA DE ARIDOS|
+|2<br>3<br>2<br>3<br>2<br>3<br> PROYECTO EXTRACCION MECANIZADA DE ARIDOS|||||
+|2<br>3<br>2<br>3<br>2<br>3<br> PROYECTO EXTRACCION MECANIZADA DE ARIDOS|||||
+|2<br>3<br>2<br>3<br>2<br>3<br> PROYECTO EXTRACCION MECANIZADA DE ARIDOS|||||
+
+|Col1|Col2|
+|---|---|
+|2<br>3|2<br>3|
+|||
+|||

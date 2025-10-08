@@ -1,0 +1,299 @@
+---
+title: HDS: Acido difenilamin-4 sulfónico, sal sódica
+author: N.G.C.
+date: D:20170331165954-03'00'
+language: es
+type: general
+pages: 4
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - EDTA (SAL DISODICA DIHIDRATADA)
+  - EDTA (SAL DISODICA DIHIDRATADA)
+  - EDTA (SAL DISODICA DIHIDRATADA)
+  - EDTA (SAL DISODICA DIHIDRATADA)
+-->
+
+# EDTA (SAL DISODICA DIHIDRATADA)
+
+## HOJA DE DATOS DE SEGURIDAD
+
+NCh 2245 Of. 2003
+
+Fecha de revisión: Diciembre del 2010
+
+**SECCION 1: IDENTIFICACION DEL PRODUCTO Y DEL PROVEEDOR**
+
+Nombre del producto EDTA (SAL DISODICA DIHIDRATADA)
+
+Código
+
+Proveedor / fabricante / comercializador
+
+Dirección
+
+Teléfono de emergencia en Chile
+
+Fax
+
+e-mail
+
+**SECCION 2: INFORMACION SOBRE LA SUSTANCIA O MEZCLA**
+
+Nombre químico (IUPAC) DIFENILAMINA-4-SULFONATO DE SODIO
+Fórmula química C12H10NNaO3S
+Sinónimos ACIDO DIFENILAMIN-4 SULFONICO, SAL SODICA; SAL MONOSÓDICA DEL ACIDO 4(FENILAMINO)-BENCENOSULFONICO.
+No CAS 6152-67-6
+
+No NU N.A.
+
+|SECCION 3: IDENTIFICACION DE LOS RIESGOS|Col2|
+|---|---|
+|NO APLICABLE||
+|**NCh 382**<br>|**NCh 1411/IV (NFPA 704)**|
+|Marca en etiqueta NCh 2190<br> <br>N.A.<br>a) Riesgos para la salud de las personas:<br>CAUSA IRRITACIÓN LEVE EN LA PIEL, EN LOS OJOS Y EN LAS VIAS<br>RESPIRATORIAS.<br> Efectos de una sobre-exposición aguda<br> (por una vez)<br> <br> Inhalación<br>PUEDE CAUSAR IRRITACIÓN LEVE.<br> Contacto con la piel<br>EL CONTACTO PUEDE CAUSAR IRRITACIÓN LEVE.<br> Contacto con los ojos<br>PUEDE CAUSAR IRRITACIÓN MECANICA.<br> Ingestión<br>PUEDE CAUSAR MALESTAR GASTROINTESTINAL.<br> Efectos de una sobre-exposición crónica<br> (largo plazo)<br>NO SE CONOCE NINGUNA.<br> Condición médica que se verá agravada<br> con la exposición al producto<br>NO SE CONOCE NINGUNA.<br>b) Riesgos para el medio ambiente<br>NO HAY INFORMACIÓN.<br>c) Riesgos especiales del producto<br>RIESGO DE EXPLOSION DE POLVO.|Marca en etiqueta NCh 2190<br> <br>N.A.<br>a) Riesgos para la salud de las personas:<br>CAUSA IRRITACIÓN LEVE EN LA PIEL, EN LOS OJOS Y EN LAS VIAS<br>RESPIRATORIAS.<br> Efectos de una sobre-exposición aguda<br> (por una vez)<br> <br> Inhalación<br>PUEDE CAUSAR IRRITACIÓN LEVE.<br> Contacto con la piel<br>EL CONTACTO PUEDE CAUSAR IRRITACIÓN LEVE.<br> Contacto con los ojos<br>PUEDE CAUSAR IRRITACIÓN MECANICA.<br> Ingestión<br>PUEDE CAUSAR MALESTAR GASTROINTESTINAL.<br> Efectos de una sobre-exposición crónica<br> (largo plazo)<br>NO SE CONOCE NINGUNA.<br> Condición médica que se verá agravada<br> con la exposición al producto<br>NO SE CONOCE NINGUNA.<br>b) Riesgos para el medio ambiente<br>NO HAY INFORMACIÓN.<br>c) Riesgos especiales del producto<br>RIESGO DE EXPLOSION DE POLVO.|
+
+**SECCION 4: MEDIDAS DE PRIMEROS AUXILIOS**
+
+En caso de contacto accidental con el
+producto, proceder de acuerdo con:
+
+Inhalación TRASLADAR AL AFECTADO A UN LUGAR LIBRE DE CONTAMINANTES. SI
+
+PERSISTEN MOLESTIAS CONSULTAR A UN ESPECIALSITA.
+
+HOJA 1
+
+# EDTA (SAL DISODICA DIHIDRATADA)
+
+Contacto con la piel QUITAR ROPA Y/O CALZADO CONTAMINADO. LAVAR LA ZONA CONTAMINADA
+CON ABUNDANTE AGUA Y JABON POR 10 MINUTOS COMO MINIMO. SI PERSISTEN
+MOLESTIAS CONSULTE A UN ESPECIALISTA.
+Contacto con los ojos LAVAR CON AGUA EN ABUNDANCIA POR 15 MIN., INCLUSO BAJO LOS PARPADOS.
+SI PERSISTEN MOLESTIAS CONSULTE A UN ESPECIALISTA.
+Ingestión NO INDUCIR EL VOMITO, SI ESTA CONSCIENTE DE A BEBER AGUA ABUNDANTE.
+
+SI VOMITA ESPONTÁNEAMENTE, COLOCAR DE LADO Y EVACUAR POR SONDA.
+TRASLADAR A UN CENTRO MEDICO.
+Notas para el médico tratante TRATAR SINTOMÁTICAMENTE.
+
+**SECCION 5: MEDIDAS PARA LUCHA CONTRA EL FUEGO**
+
+Agentes de extinción USE AQUELLOS APROPIADOS PARA EL FUEGO CIRCUNDANTE.
+
+Procedimientos especiales para combatir el
+USE AGUA PARA ENFRIAR LOS ENVASES.
+fuego
+
+Equipo de protección personal para el
+TRAJE DE BOMBERO Y UN SCBA.
+combate del fuego
+
+**SECCION 6: MEDIDAS PARA CONTROLAR DERRAMES O FUGAS**
+
+Medidas de emergencia a tomar si hay
+
+derrame del material
+
+Medidas de emergencia a tomar si hay ELIMINAR FUENTES DE IGNICION. AISLE LA ZONA AFECTADA. REPRESAR,
+derrame del material RECUPERAR LA MAYOR CANTIDAD DEL PRODUCTO DERRAMADO.
+
+Equipo de protección personal para atacar la TRAJE DE NIVEL DE PROTECCION D.
+emergencia
+
+Precauciones a tomar para evitar daños al EVITE LA ENTRADA A CURSOS DE AGUA. NO ELIMINE RESIDUOS DEL PRODUCTO
+medio ambiente EN CURSOS DE AGUA O EN TIERRA .
+
+Métodos de limpieza EL PRODUCTO RECUPERADO SE ENVASA EN RECIPIENTES PLASTICOS. SE
+CIERRAN BIEN Y SE ETIQUETAN.
+
+EL PRODUCTO RESIDUAL SE DEPOSITA EN ENVASES APROPIADOS.
+
+LAVAR CON ABUNDANTE AGUA Y JABON.
+
+Métodos de eliminación de desechos LOS RESIDUOS SE LLEVAN A UNA PLANTA DE TRATAMIENTO AUTORIZADA.
+
+TRAJE DE NIVEL DE PROTECCION D.
+
+Precauciones a tomar para evitar daños al
+
+medio ambiente
+
+**SECCION 7: MANIPULACION Y ALMACENAMIENTO**
+
+Recomendaciones técnicas EVITE LA ACUMULACIÓN DE POLVO.
+
+Precauciones a tomar MANTENER EN RECIPIENTES CERRADOS. PROTEGER EL PRODUCTO DE LA
+
+HUMEDAD.
+
+Recomendaciones sobre manipulación segura, USAR LA ROPA DE PROTECCION PERSONAL. EVITE EL CONTACTO FISICO.
+específicas MANIPULE EN AMBIENTES VENTILADOS. NO RESPIRE EL POLVO.
+
+Condiciones de almacenamiento ALMACENAR EN AMBIENTE SECO Y BIEN VENTILADO. SEGREGAR DE
+SUSTANCIAS INCOMPATIBLES. ELIMINAR FUENTES DE IGNICION.
+
+Embalajes recomendados y no adecuados por
+UTILIZAR ENVASES PLASTICOS.
+el proveedor
+
+**SECCION 8: CONTROL DE EXPOSICION / PROTECCION ESPECIAL**
+
+Medidas para reducir la posibilidad de
+exposición.
+
+Medidas para reducir la posibilidad de VENTILACION. EVITAR CONTACTO FISICO. USAR LA PROTECCION PERSONAL.
+exposición. DISPONER DE UN LAVAOJOS.
+
+Parámetros para control NINGUNO
+Límites permisibles ponderado (LPP), absoluto LPP = NO ESTABLECIDO
+(LPA ) y temporal (LPT)
+
+LPP = NO ESTABLECIDO
+
+Protección respiratoria USE MASCARILLA CON FILTRO PARA POLVOS MOLESTOS.
+
+Guantes de protección GUANTES DE LATEX O SIMILAR.
+
+Protección de la vista GAFAS CON PROTECCIÓN LATERAL.
+
+Otros equipos de protección BOTAS Y OVEROL ADECUADOS A LAS OPERACIONES.
+
+Ventilación USAR VENTILACION GENERAL.
+
+**SECCION 9: PROPIEDADES FISICAS Y QUIMICAS**
+
+Estado físico SOLIDO
+
+Apariencia y olor INCOLORO A BLANCO, SIN OLOR.
+
+pH concentración y temperatura N.D.
+Temperaturas específicas y/o intervalos de FUSION = 200 oC
+temperatura
+
+Punto de inflamación N.A.
+
+HOJA 2
+
+# EDTA (SAL DISODICA DIHIDRATADA)
+
+Límites de inflamabilidad SIN INFORMACION
+
+To de autoignición N.A.
+
+Peligros de fuego o explosión EL POLVO EN TAMAÑO DE PARTICULA MUY REDUCIDO PUEDE FORMAR
+MEZCLAS EXPLOSIVAS CON EL AIRE CUANDO SE ENCUENTRA EN CANTIDAD
+
+SUFICIENTE.
+Presión de vapor a 20 oC N.A.
+Densidad de vapor N.A.
+
+Densidad a 20 oC SIN INFORMACION
+
+Solubilidad en agua y otros solventes MUYSOLUBLE EN AGUA.
+
+**SECCION 10: ESTABILIDAD Y REACTIVIDAD**
+
+Estabilidad ESTABLE.
+
+Condiciones que se deben evitar CONTACTO CON MATERIALES INCOMPATIBLES. ACUMULACIÓN DE POLVO.
+Incompatibilidad (materiales que se deben CLORO, PERÓXIDOS, HIPOCLORITOS, PERCLORATOS, AGENTES OXIDANTES EN
+evitar) GENERAL.
+
+Productos peligrosos de la descomposición OXIDOS DE CARBONO, OXIDOS DE AZUFRE Y OXIDOS DE NITRÓGENO.
+
+Productos peligrosos de la combustión N.A.
+Polimerización peligrosa NO OCURRE.
+
+**SECCION 11: INFORMACION TOXICOLOGICA**
+
+Toxicidad a corto plazo N.D.
+
+Toxicidad a largo plazo N.D.
+
+Efectos locales o sistémicos IRRITACION LEVE.
+
+Sensibilización alérgica NO OCURRE.
+
+**SECCION 12: INFORMACION ECOLOGICA**
+
+Inestabilidad ESTABLE
+
+Persistencia / degradabilidad N.D.
+Bio-acumulación NO SE ESPERA QUE OCURRA.
+
+Efectos sobre el medio ambiente N.D.
+
+**SECCION 13: CONSIDERACIONES SOBRE DISPOSICION FINAL**
+
+Métodos recomendados y aprobados por la
+normativa chilena para disponer de la
+sustancia, residuos, desechos
+
+Métodos recomendados y aprobados por la
+normativa chilena para eliminación de envases
+/ embalajes contaminados
+
+LOS RESIDUOS PUEDEN SER TRASLADADOS A UNA PLANTA DE TRATAMIENTO
+
+AUTORIZADA.
+
+LOS ENVASES SE LAVAN CON SUFICIENTE AGUA Y JABON. DISPONER LOS
+ENVASES SEGÚN POLITICAS INTERNAS DE LA EMPRESA.
+NOTA: LOS RECIPIENTES VACIOS PUEDEN CONTENER RESIDUOS, GASES Y/O
+NIEBLAS POR LO QUE DEBEN SER ADECUADAMENTE DISPUESTOS
+
+**SECCION 14: INFORMACION SOBRE TRANSPORTE**
+
+Terrestre por carretera o ferrocarril NO REGULADO
+
+Vía marítima NO REGULADO
+
+Vía aérea NO REGULADO
+
+Distintivos aplicables NCh 2190 N.A.
+
+No NU. N.A.
+
+**SECCION 15: NORMAS VIGENTES**
+
+Normas internacionales aplicables TSCA.
+
+Normas nacionales aplicables D.S. 594, 609, NCh 1411/4.
+
+Marca en etiqueta N.A.
+
+**SECCION 16: OTRAS INFORMACIONES**
+
+Uso específico REACTIVO QUIMICO
+
+Frases de riesgo ( R ) **22** NOCIVO POR INGESTION.
+
+**36/37/38** IRRITA LOS OJOS, LAS VIAS RESPIRATORIAS Y LA PIEL.
+
+Frases de seguridad ( S ) **26** EN CASO DE CONTACTO CON LOS OJOS, LAVENSE INMEDIATA Y
+ABUNDANTEMENTE CON AGUA Y ACUDASE A UN MEDICO.
+**45** EN CASO DE ACCIDENTE O MALESTAR ACUDASE AL MEDICO (SI ES POSIBLE
+MUÉSTRELE LA ETIQUETA).
+
+HOJA 3
+
+|SALUD|1|
+|---|---|
+|**INFLAMABILIDAD**|**1 **|
+|**PELIGRO FISICO**|**Xi**|
+|**E.P.P.**|**B **|
+
+# EDTA (SAL DISODICA DIHIDRATADA)
+
+|SALUD 1<br>INFLAMABILIDAD 1<br>HMIS<br>PELIGRO FISICO Xi<br>E.P.P. B|Col2|
+|---|---|
+|Definiciones<br>D.S. = DECRETO SUPREMO<br>N.A. = NO APLICABLE<br>NCh = NORMA CHILENA<br>N.D. = NO DISPONIBLE|Definiciones<br>D.S. = DECRETO SUPREMO<br>N.A. = NO APLICABLE<br>NCh = NORMA CHILENA<br>N.D. = NO DISPONIBLE|
+|RECOPILACION<br> <br>NGC|REVISION<br> <br>02|
+|NOTA: LOS DATOS CONSIGNADOS EN ESTA HOJA INFORMATIVA FUERON OBTENIDOS DE FUENTES CONFIABLES. LAS<br>OPINIONES EXPRESADAS EN ESTE FORMULARIO SON LAS DE PROFESIONALES CAPACITADOS. LA INFORMACION<br>QUE SE ENTREGA EN EL ES LA CONOCIDA ACTUALMENTE SOBRE LA MATERIA.<br>CONSIDERANDO QUE EL USO DE ESTA INFORMACION Y DE LOS PRODUCTOS ESTA FUERA DEL CONTROL DEL<br>PROVEEDOR, LA EMPRESA NO ASUME RESPONSABILIDAD ALGUNA POR ESTE CONCEPTO. DETERMINAR LAS<br>CONDICIONES DE USO SEGURO DEL PRODUCTO ES OBLIGACION DEL USUARIO.|NOTA: LOS DATOS CONSIGNADOS EN ESTA HOJA INFORMATIVA FUERON OBTENIDOS DE FUENTES CONFIABLES. LAS<br>OPINIONES EXPRESADAS EN ESTE FORMULARIO SON LAS DE PROFESIONALES CAPACITADOS. LA INFORMACION<br>QUE SE ENTREGA EN EL ES LA CONOCIDA ACTUALMENTE SOBRE LA MATERIA.<br>CONSIDERANDO QUE EL USO DE ESTA INFORMACION Y DE LOS PRODUCTOS ESTA FUERA DEL CONTROL DEL<br>PROVEEDOR, LA EMPRESA NO ASUME RESPONSABILIDAD ALGUNA POR ESTE CONCEPTO. DETERMINAR LAS<br>CONDICIONES DE USO SEGURO DEL PRODUCTO ES OBLIGACION DEL USUARIO.|
+
+HOJA 4

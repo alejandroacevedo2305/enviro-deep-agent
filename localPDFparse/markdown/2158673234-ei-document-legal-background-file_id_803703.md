@@ -1,0 +1,55 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20230120112813-03'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - DE CHILE REPÚBLICAA
+  - 8307 152M2307 150CHLA031080130<0
+-->
+
+# DE CHILE REPÚBLICAA
+
+SERVICIO DE REGISTRO [CIVIL ] [E ] [IDENTIFICACIÓN ]
+
+CÉDULA DE IDENTIDAD
+
+APELLIDos
+
+HARDING
+
+DIAZ
+
+NOMBRES
+GUILLERMO NICOLÁS
+
+SEXO PAIS DE NACIONALIDAD
+
+M CHILE
+
+FECHA DE NACIMIENTO
+
+15 JUL 1983
+
+FECHA DE EMISIÓN FIRMA DEL TITULAR
+
+13 MAYO 2013
+
+FECHA DE VENCIMIENTO
+##### RUN 15.371.423-1 [15 ] [JUL 2023 ]
+
+N° de Serie: A031080130 Insc Nac: N° 4024,1983,PROVIDENCIA
+
+Profesión: NO INFORMADA
+
+## IDCHL 1537142315S48<<<<<<<<<<<<
+# 8307 152M2307 150CHLA031080130<0
+##### HARDING<DIAZ<<GUILLERMO<NICOLA

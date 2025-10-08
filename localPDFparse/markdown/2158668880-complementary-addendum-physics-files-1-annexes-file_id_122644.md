@@ -1,0 +1,17 @@
+---
+title: Model
+author: Desconocido
+date: D:20250110121838
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|0 0 0 0<br>A RELLENO A A<br>-30<br>-35<br>-48 A<br>-50<br>-55 -56<br>-61<br>B<br>-70 -69<br>-73 B<br>B<br>B<br>-90<br>-97 -97<br>-101<br>-104<br>-106<br>C -108 C<br>-112<br>C<br>C -120<br>-130 -130<br>-140<br>0 10 20 30 40 50 cm<br>POZO 121<br>0 10 20 30 40 50 cm 0 10 20 30 40 50 cm<br>POZO 120 POZO 122<br>PERFIL NORTE<br>0 10 20 30 40 50 cm<br>POZO 119 ESC.1:10<br>PERFIL OESTE PERFIL OESTE<br>ESC.1:10 ESC.1:10<br>PERFIL NORTE<br>ESC.1:10<br>0 0<br>A A<br>-23<br>-25<br>-30 -29<br>B<br>B<br>-66<br>-68<br>-70 -70<br>C C<br>-90 -90<br>0 10 20 30 40 50 cm 0 10 20 30 40 50 cm<br>POZO 123 POZO 124<br>PERFIL ESTE PERFIL ESTE<br>ESC.1:10 ESC.1:10|Col2|Col3|
+|---|---|---|
+|0<br>POZO 119<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>-97<br>C<br>-70<br>B<br>-48<br>-90<br>0<br>POZO 122<br>PERFIL OESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>-104<br>C<br>-61<br>B<br>-56<br>-106<br>0<br>POZO 120<br>PERFIL OESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>RELLENO<br>-130<br>-30<br>-35<br>A<br>-108<br>C<br>-69<br>B<br>-73<br>-112<br>0<br>POZO 121<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-120<br>-97<br>C<br>-50<br>B<br>-55<br>-101<br>0<br>POZO 123<br>PERFIL ESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-90<br>-66<br>-70<br>C<br>-30<br>-29<br>B<br>0<br>POZO 124<br>PERFIL ESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-90<br>-68<br>-70<br>C<br>-23<br>-25<br>B|||
+|0<br>POZO 119<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>-97<br>C<br>-70<br>B<br>-48<br>-90<br>0<br>POZO 122<br>PERFIL OESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>-104<br>C<br>-61<br>B<br>-56<br>-106<br>0<br>POZO 120<br>PERFIL OESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>RELLENO<br>-130<br>-30<br>-35<br>A<br>-108<br>C<br>-69<br>B<br>-73<br>-112<br>0<br>POZO 121<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-120<br>-97<br>C<br>-50<br>B<br>-55<br>-101<br>0<br>POZO 123<br>PERFIL ESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-90<br>-66<br>-70<br>C<br>-30<br>-29<br>B<br>0<br>POZO 124<br>PERFIL ESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-90<br>-68<br>-70<br>C<br>-23<br>-25<br>B|||
+|0<br>POZO 119<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>-97<br>C<br>-70<br>B<br>-48<br>-90<br>0<br>POZO 122<br>PERFIL OESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>-104<br>C<br>-61<br>B<br>-56<br>-106<br>0<br>POZO 120<br>PERFIL OESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>RELLENO<br>-130<br>-30<br>-35<br>A<br>-108<br>C<br>-69<br>B<br>-73<br>-112<br>0<br>POZO 121<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-120<br>-97<br>C<br>-50<br>B<br>-55<br>-101<br>0<br>POZO 123<br>PERFIL ESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-90<br>-66<br>-70<br>C<br>-30<br>-29<br>B<br>0<br>POZO 124<br>PERFIL ESTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-90<br>-68<br>-70<br>C<br>-23<br>-25<br>B|||

@@ -1,0 +1,347 @@
+---
+title: DIA Ampliacion Jesus 3_Final.pdf
+author: Stefanny
+date: D:20141204122129+03'00'
+language: unknown
+type: general
+pages: 4
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+_',$30RGLILFDFLyQ&HQWURGH(QJRUGDGH6DOPRQHV(QWUH,VOD-HV~VH,VOD_
+_&KXFDLWR&yGLJRGH&HQWUR1
+-HV~V
+ ́_
+
+**** **&$3Ë78/29
+'(6&5,3&,Ï1'(/$5(/$&,Ï1(175((/**
+**352<(&72</$632/Ë7,&$63/$1(6<352*5$0$6**
+
+**** _**5HODFLyQ FRQ ODV 3ROtWLFDV 3ODQHV \ 3URJUDPDV GH 'HVDUUROOR**_
+_**5HJLRQDO**_
+
+(O&RQVHMRGH0LQLVWURVGHOD&21$0$DSUREyHO
+GHHQHURGH
+
+HOGRFXPHQWR
+38QD 3ROtWLFD $PELHQWDO SDUD HO 'HVDUUROOR 6XVWHQWDEOH ́ D WUDYpV GH OD FXDO HO
+*RELHUQR &KLOHQR H[SOLFLWD VX YLVLyQ VREUH HO WHPD H LQVHUFLyQ HQ ORV SURSyVLWRV
+JOREDOHVTXHJXtDQVXDFFLyQ
+
+/D3ROtWLFD$PELHQWDOGHOD5HJLyQGH$\VpQVHQXWUHGHGRVJUDQGHVRULHQWDFLRQHV
+/DSULPHUDDTXHOORVGHVDItRVTXHGHVGHHOSXQWRGHYLVWDDPELHQWDOVHGHULYDQGH
+OD(VWUDWHJLD5HJLRQDOGH'HVDUUROOR\ODVHJXQGDODH[SUHVLyQORFDOGHOD3ROtWLFD
+$PELHQWDO1DFLRQDO
+
+(O REMHWLYR GH OD 3ROtWLFD $PELHQWDO 5HJLRQDO HV UHVSHWDU DO VHU KXPDQR \ OD
+QDWXUDOH]D SURSRUFLRQDQGR TXH HO GHVDUUROOR HFRQyPLFR \ GH ORV DVHQWDPLHQWRV
+KXPDQRVHLQIUDHVWUXFWXUDDVRFLDGDVHUHDOLFHEDMRFRQGLFLRQHVGHVXVWHQWDELOLGDG
+(VWHREMHWLYRVHGHVDJUHJDHQORVVLJXLHQWHVREMHWLYRVHVSHFtILFRV
+
+
+ 3URWHJHUHO3DWULPRQLR$PELHQWDO5HJLRQDO
+
+
+
+)DFLOLWDU OD LQFRUSRUDFLyQ GH SULQFLSLRV GH SURGXFFLyQ OLPSLD \ GH XVR
+VXVWHQWDEOH GH ORV UHFXUVRV QDWXUDOHV HQ ORV SURFHVRV SURGXFWLYRV GH OD
+UHJLyQ
+
+ )RPHQWDUHOGHVDUUROORGHXQDFXOWXUDDPELHQWDOUHJLRQDO
+
+ 3URPRYHU HO GHVDUUROOR GH DVHQWDPLHQWRV KXPDQRV H LQIUDHVWUXFWXUD
+DVRFLDGDEDMRFRQGLFLRQHVGHDUPRQtDFRQHOPHGLRDPELHQWH
+
+ )RUWDOHFHUODLQVWLWXFLRQDOLGDGDPELHQWDODQLYHOUHJLRQDO\ORFDO
+
+**5HODFLyQ FRQ HO SUR\HFWR**  (O SUR\HFWR HV FRKHUHQWH FRQ OD OtQHD GH DFFLyQ
+33URWHJHUHO3DWULPRQLR$PELHQWDO5HJLRQDO ́GHELGRDTXHVHVRPHWHDO6LVWHPDGH
+(YDOXDFLyQ$PELHQWDOSDUDODHYDOXDFLyQGHSRVLEOHVLPSDFWRVTXHSXGLHVHJHQHUDU
+DOPHGLRDPELHQWH
+
+_****_ _**3ODQ 5HJLRQDO GH 2UGHQDPLHQWR 7HUULWRULDO ± 5HJLyQ GH $\VpQ**_
+_**
+**_
+
+(O3ODQ5HJLRQDOGH2UGHQDPLHQWR7HUULWRULDO
+3527
+HVXQLQVWUXPHQWRPDUFRSDUD
+OD SODQLILFDFLyQ UHJLRQDO TXH EXVFD DUPRQL]DU ODV SODQLILFDFLRQHV H[LVWHQWHV \ ORV
+LQWHUHVHVSRUHOXVRGHOWHUULWRULRGHOD5HJLyQGH$\VpQQRVyORHQVXGLPHQVLyQ
+JHRJUiILFDVLQRWDPELpQHQVXGLPHQVLyQGHVXVWHQWDELOLGDG6HJ~QORVHxDODGRHQ
+HO 3527 HO SULQFLSDO HIHFWR GH HVWH LQVWUXPHQWR HV LQFLGLU HIHFWLYDPHQWH HQ ODV
+GHFLVLRQHVGHSROtWLFDVS~EOLFDV\RULHQWHODVDFWLYLGDGHVSULYDGDV
+
+$GHPiVHO3527WLHQHFRPRILQDYDQ]DUHQORVQLYHOHVGHSODQLILFDFLyQHVWUDWpJLFD
+FRQ HO REMHWLYR GH PHMRUDU OD GHFLVLyQ HQ HO iPELWR GH OD LQYHUVLyQ \ OD JHVWLyQ
+UHJLRQDO$VLPLVPRSUHWHQGHFRQWULEXLUDDOFDQ]DUORVREMHWLYRVHQPDUFDGRVHQOD
+(VWUDWHJLDGH'HVDUUROOR5HJLRQDOGHVGH HOSXQWRGH YLVWDWHUULWRULDOLQWHJUDQGRD
+HVWHSURFHVRODVRSLQLRQHV\ORVLQWHUHVHVGHORVGLYHUVRVDFWRUHVS~EOLFRVSULYDGRV
+\GHODVRFLHGDGFLYLO
+
+&RQUHVSHFWRDORVREMHWLYRVSODQWHDGRVHQHO3527ODPRGLILFDFLyQGHSUR\HFWRVH
+UHODFLRQDFRQORVVLJXLHQWHVREMHWLYRV
+
+
+
+
+_',$30RGLILFDFLyQ&HQWURGH(QJRUGDGH6DOPRQHV(QWUH,VOD-HV~VH,VOD_
+_&KXFDLWR&yGLJRGH&HQWUR1
+-HV~V
+ ́_
+
+**7DEOD** **5HODFLyQGHOSUR\HFWRFRQORVREMHWLYRVGHO3ODQ5HJLRQDOGH**
+**2UGHQDPLHQWR7HUULWRULDO**
+
+|5G4|L%|   B|
+|---|---|---|
+|:<br>,"
+"|499_
+
+ 6 
+_<br>_ 
+_;0""0<br>0""C0=;<br>_
+7
+ 4  A
+
+
+_J9"9"<br>9?;9_
+4_<br>_
+
+
+_<br>_
+ 
+_<br>|,00=.;0"<br>9F,=0;0,."><br>0999><br>09"#J9."'
+
+<br>.9"0.?"&;<br>"9"90"9|
+|0"#_
+
+
+
+
+_&|*0"0=99.09<br>099._
+_<br>_
+
+
+ 6 
+
+
+
+*
+
+_<br>>9F9<br>_
+7
+ 4  A
+
+
+
+
+B_<br>_
+
+ 6 
+_0.<br>0"9""9_7_<br>_ 
+4 _|0"C<br>9,=90=<br>9F0,.">0"9<br>0"900<br>."00=,<br>,>"|
+
+
+
+
+
+
+
+****
+
+
+
+
+
+
+
+****
+
+
+
+
+
+
+
+****
+
+_****_ _**3ROtWLFD5HJLRQDOGH7XULVPR**_
+
+
+
+
+
+
+
+****
+
+
+
+
+
+
+
+****
+
+(OSURSyVLWRGHOD3ROtWLFD5HJLRQDOGH7XULVPRHV3SRVLFLRQDUDOD5HJLyQGH$\VpQ
+FRPRXQGHVWLQRWXUtVWLFRUHPRWRGHFODVHPXQGLDOGLIHUHQFLDGRSRUVXQDWXUDOH]D
+SUtVWLQD H LGHQWLGDG SLRQHUD FRQ FRQFLHQFLD WXUtVWLFD TXH DYDQ]D GH PDQHUD
+VXVWHQWDEOHDWUDYpVGHHPSUHVDVFRPSHWLWLYDV\XQVHFWRUS~EOLFRFRQXQDYLVLyQ
+LQWHJUDOGHOGHVDUUROOR ́
+
+(Q WDQWR VH KD SODQWHDGR FRPR REMHWLYR 3SURPRYHU HO GHVDUUROOR WXUtVWLFR GH OD
+5HJLyQGH$\VpQDWUDYpVGHODSXHVWDHQYDORUWXUtVWLFRGHVXVUHFXUVRVQDWXUDOHV
+\ FXOWXUDOHV HO DXPHQWR GH OD GHPDQGD DSXQWDQGR D ORV JUXSRV REMHWLYRV GH
+WXULVPR GH LQWHUHVHV HVSHFLDOHV \ HO PHMRUDPLHQWR GH OD FRPSHWLWLYLGDG GH ODV
+HPSUHVDVGHOVHFWRU ́
+
+3DUD DOFDQ]DU HO REMHWLYR \ PHWDV GH OD 3ROtWLFD 5HJLRQDO GH 7XULVPR HQ GLFKR
+GRFXPHQWRVHKDQSODQWHDGRWUHVJUDQGHVOLQHDPLHQWRVHVWUDWpJLFRVORVFXDOHVVH
+LQGLFDQDFRQWLQXDFLyQ
+
+
+  3RQHUHQYDORUWXUtVWLFRORVUHFXUVRVQDWXUDOHV\FXOWXUDOHVGHOD5HJLyQGH
+$\VpQFRQVLGHUDQGRODVSDUWLFXODULGDGHVGHORVWHUULWRULRVTXHODFRPSRQHQ
+  $XPHQWDUODGHPDQGDWXUtVWLFDDSXQWDQGRDORVJUXSRVREMHWLYRVGHWXULVPR
+GHLQWHUHVHVHVSHFLDOHV
+  0HMRUDUODFRPSHWLWLYLGDGGHODVHPSUHVDVGHOVHFWRUWXULVPR
+
+&RQUHVSHFWRDORDQWHULRUODPRGLILFDFLyQGHSUR\HFWRVHUHODFLRQDFRQHOSULPHU
+OLQHDPLHQWR HVWUDWpJLFR HQ OR TXH VH UHILHUH D TXH HQ HO FHQWUR VH FRQWHPSODQ
+EXHQDVSUiFWLFDVDPELHQWDOHVFRQORFXDOVHLQWHQWDUiTXHODDFWLYLGDGVHDORPiV
+FRPSDWLEOHFRQORVUHFXUVRVQDWXUDOHVFRQHOILQGHPDQWHQHUHOYDORUWXUtVWLFRGHOD
+5HJLyQGH$\VpQ
+
+3RU OR GHPiV FDEH UHFRUGDU TXH HO FHQWUR QR VH ORFDOL]D HQ XQD ]RQD GH YDORU
+SDLVDMtVWLFR \R WXUtVWLFR OLPLWDGR FRPR WDPSRFR HQ XQ iUHD GHFODUDGD ]RQD R
+FHQWURGHLQWHUpVWXUtVWLFRQDFLRQDOVHJ~QORGLVSXHVWRHQHO'/1
+
+
+
+_',$30RGLILFDFLyQ&HQWURGH(QJRUGDGH6DOPRQHV(QWUH,VOD-HV~VH,VOD_
+_&KXFDLWR&yGLJRGH&HQWUR1
+-HV~V
+ ́_
+
+_****_ _**0HPRULDGH=RQLILFDFLyQGHO%RUGH&RVWHUR5HJLyQGH$\VpQ**_
+
+(QSULPHUOXJDUFDEHLQGLFDUTXHHQWUHORVREMHWLYRVHVSHFtILFRVGHODDFWXDO3ROtWLFD
+1DFLRQDOGH8VRGHO%RUGH&RVWHURVHHQFXHQWUD
+
+
+
+3RVLELOLWDUODUHDOL]DFLyQGHLQYHUVLRQHVHOGHVDUUROORGHSUR\HFWRVS~EOLFRV\
+SULYDGRVEDMRUHJODVSUHGHWHUPLQDGDVTXHSHUPLWDQVXFRQFUHFLyQ
+\
+
+
+3URSRQHU ORV XVRV SUHIHUHQWHV GHO ERUGH FRVWHUR ORV TXH VH GHWHUPLQDUiQ
+WHQLHQGR HQ FRQVLGHUDFLyQ IDFWRUHV JHRJUiILFRV QDWXUDOHV UHFXUVRV
+H[LVWHQWHV SODQHV GH GHVDUUROOR FHQWURV SREODGRV SUy[LPRV R DOHGDxRV \
+GHILQLFLRQHV GH XVRV \D HVWDEOHFLGRV SRU RUJDQLVPRV FRPSHWHQWHV (VWD
+SURSRVLFLyQ GHEHUi HODERUDUVH D SDUWLU GH XVRV UHOHYDQWHV FRPR SRU
+HMHPSOR
+DFWLYLGDGHVLQGXVWULDOHVHFRQyPLFDV\GHGHVDUUROORWDOHVFRPRHO
+WXULVPRODSHVFDODDFXLFXOWXUDODLQGXVWULDSHVTXHUDRODPLQHUtD
+
+&RQ UHVSHFWR D OR DQWHULRU VH SXHGH VHxDODU TXH OD PRGLILFDFLyQ GH SUR\HFWR VH
+HQPDUFDFRPRXQXVRUHOHYDQWHGHOERUGHFRVWHUR
+
+(Q VHJXQGR OXJDU OD 0HPRULD GH =RQLILFDFLyQ GHO %RUGH &RVWHUR GH OD 5HJLyQ GH
+$\VpQYLJHQWHLQGLFDTXHHOFHQWUR3(QWUH,VOD-HV~VH,VODV&KXFDLWR ́VHHPSOD]D
+HQXQD3=RQD3UHIHUHQFLDOSDUDOD([WUDFFLyQGH5HFXUVRV%HQWyQLFRV ́VLQHPEDUJR
+QRVHSUHVHQWDQiUHDVGHPDQHMRGHH[WUDFFLyQGHUHFXUVRVEHQWyQLFRVSRUSDUWHGH
+SHVFDGRUHV DUWHVDQDOHV VHJ~Q LQIRUPDFLyQ GH OD 6XEVHFUHWDUtD GH 3HVFD 3RU OR
+GHPiV FDEH LQGLFDU TXH HO FHQWUR VH HQFXHQWUD OHMRV GH IRQGHDGHURV GH SHVFD
+DUWHVDQDO 3RU OR WDQWR VH SXHGH VHxDODU TXH OD PRGLILFDFLyQ GH SUR\HFWR HV
+FRPSDWLEOHFRQODDFWXDO=RQLILFDFLyQGH%RUGH&RVWHURGHOD5HJLyQGH$\VpQ
+
+**** _**5HODFLyQ FRQ ODV 3ROtWLFDV 3ODQHV \ 3URJUDPDV GH 'HVDUUROOR**_
+_**&RPXQDO**_
+
+_****_ _**3ODQGH'HVDUUROOR&RPXQDO
+3/$'(&2
+±&RPXQDGH&LVQHV**_
+
+&RQHOSURSyVLWRGHORJUDUXQDSODQLILFDFLyQHVWUDWpJLFDGHOGHVDUUROORFRPXQDOGH
+&LVQHVPHGLDQWHHOQXHYR3/$'(&2VHHVWDEOHFHODVLJXLHQWHLPDJHQREMHWLYRGH
+OD FRPXQD
+ 3&LVQHV FRPXQD FRQHFWDGD \ GRWDGD GH GLYHUVRV VHUYLFLRV S~EOLFRV \
+SULYDGRVRULHQWDGDDOGHVDUUROORGHVFHQWUDOL]DGR\VXVWHQWDEOHHQODViUHDVVRFLDO
+FXOWXUDO \ HFRQyPLFD GH WRGDV VXV ORFDOLGDGHV SRWHQFLDQGR ODV DFWLYLGDGHV
+SURGXFWLYDVFRQpQIDVLVHQHOWXULVPRUHFXUVRVPDULQRV\JDQDGHUtD ́
+
+3DUD ORJUDU HVWD LPDJHQ REMHWLYR HO 3/$'(&2 HVWDEOHFH XQ 3ODQ GH $FFLyQ FRQ
+OtQHDVHVWUDWpJLFDVREMHWLYRVHVWUDWpJLFRV\REMHWLYRVGHJHVWLyQHQGLYHUVDViUHDV
+GHGHVDUUROOR
+
+
+ 'HVDUUROORWHUULWRULDO
+
+
+
+'HVDUUROORHFRQyPLFR
+
+ 'HVDUUROORVRFLDO
+
+ 0HGLR$PELHQWH
+
+
+
+*HVWLyQPXQLFLSDO
+
+$OUHVSHFWRODPRGLILFDFLyQGHSUR\HFWRVHUHODFLRQDFRQODVVLJXLHQWHViUHDVOtQHDV
+HVWUDWpJLFDV\REMHWLYRVGHO3/$'(&2GH&LVQHV
+
+
+
+
+_',$30RGLILFDFLyQ&HQWURGH(QJRUGDGH6DOPRQHV(QWUH,VOD-HV~VH,VOD_
+_&KXFDLWR&yGLJRGH&HQWUR1
+-HV~V
+ ́_
+
+**7DEOD** **2EMHWLYRVGHO3/$'(&2\VXUHODFLyQFRQHOSUR\HFWR**
+
+****
+
+****
+
+****
+
+****
+
+****
+
+|P <br>!  |H<br>! C |5G4<br>! C |   B|
+|---|---|---|---|
+|49<br>0=,0|?
+9""JC0<br>'-,@<br>."C;<br>.01<br>99"">,"<br>99099<br>,9|>H"<br>
+9""JC0<br>'-
+9";<br>9<br>,09,9<br>.<br><br>."00= ;<br><br>9<br>99""><br><br>99<br>099<br>,9| > ,00=  .;0"  9<br>0 0"," 0 9 >H"9 <br>C9"=."9 9"?9""JC0<br>
+4
+9.0@0"<br> C  9,=9  0=<br>9F 0,."> 0 "9 0"9 <br>9"090.90"900<br>."00=,,>"<br>,F9<br>;<br>0,<br>9<br>1<br>9O<br>","F,.<,"<br>0"9.9"F9,H<br> G"00=  099 >"=09 .<br>."<br><br>.909<br>"99<br><br>9  .90 "9  <br>"" 9 . 9O @ ,00=<br> .;0" 9 0,."> 0  0"<br>Z00=   9"   5C=<br>;9J|
+|<br>,>"|?
+9""JC0<br>
+-,@<br>,"<br>9<br>99"">|>H"<br>9""JC0<br>
+-<br> 0. ;<br>,"<br><br>9<br>99""><br><br><br>0,|,00=.;0"9F00<br> 090= ; 0=  .",<br>,>"0,99;5C=<br><br>;9J<br>."<br><br>9<br>99"">..9".
+4
+<br>,F9  0" 0"F 0 ,0=<br>"".,>"0,<br>0,"C"|
+|<br>,>"|?
+9""JC0<br>'-,0<br>,H"C<br>99<br>9=9<br>,09|>H"<br>9""JC0<br>'-<br> ,.,"<br>C9"=<br>99""><br>9<br>99<br>,09<br><br>0,|,910.9"4 9<br>999=9,J9"09C9<br>0" 9F ,09  0"9<br>0<br>".<br>1,J"0<br>9.0?0,"<br>9"9 . "9 9 0 >99 <br>.F9"0<br><br>9<br>"<br>;<br>0,"<br>"09
+C  <   9,<br>9,.; 090090,F"09<br> .," 9 >99 0 99  9<br>"<br>9F<br>"99<br><br><br>,>00=C?9"0;9C<br>9.90="<|
+
+****
+
+_****_ _**,QVWUXPHQWRVGH3ODQLILFDFLyQ7HUULWRULDO9LJHQWHV**_
+
+&RQ UHVSHFWR D OD UHODFLyQ GHO FHQWUR FRQ ORV SODQHV UHJXODGRUHV H[LVWHQWHV HQ OD
+FRPXQDGH&LVQHVHVGHFLUHO3ODQ5HJXODGRUGH3XHUWR&LVQHV\HO3ODQ5HJXODGRU
+,QWHUXUEDQR3X\XKXDSL±/D-XQWDFDEHLQGLFDUTXHODPRGLILFDFLyQGHSUR\HFWRQR
+VH UHODFLRQD FRQ ORV XVRV GHO VXHOR UHJXODGRV SRU HVWRV LQVWUXPHQWRV \D TXH HO
+FHQWURVHHPSOD]DIXHUDGHOOtPLWHXUEDQRGHGLFKDVORFDOLGDGHV
+
+

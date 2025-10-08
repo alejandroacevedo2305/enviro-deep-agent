@@ -1,0 +1,19 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20240321163138
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|FRANCISCO VENEGAS MARQUEZ<br>16.950.825-9<br>INGENIERO CIVIL<br>JUANA DE ARCO 2012, Of. 13<br>PROVIDENCIA, SANTIAGO<br>(569) 96741166<br>fvm@bestingenieria.cl|
+|---|---|
+|10.060.413-2<br>FABIAN FERNANDEZ FUENTE<br>GEOMENSOR|10.060.413-2<br>FABIAN FERNANDEZ FUENTE<br>GEOMENSOR|
+
+|Col1|Col2|795-701<br>13|
+|---|---|---|
+|LOGISTICA E INMOBILIARIA LIPANGUE S.A.<br>RESERVA CORA N° 1 LOTE D, PERALILLO<br>76.181.967- 4<br>(569) 95577471<br>sergio.beckdorf@imolog.cl<br>LAMPA<br>SERGIO BECKDORF<br>7.041.353-1|LOGISTICA E INMOBILIARIA LIPANGUE S.A.<br>RESERVA CORA N° 1 LOTE D, PERALILLO<br>76.181.967- 4<br>(569) 95577471<br>sergio.beckdorf@imolog.cl<br>LAMPA<br>SERGIO BECKDORF<br>7.041.353-1|LOGISTICA E INMOBILIARIA LIPANGUE S.A.<br>RESERVA CORA N° 1 LOTE D, PERALILLO<br>76.181.967- 4<br>(569) 95577471<br>sergio.beckdorf@imolog.cl<br>LAMPA<br>SERGIO BECKDORF<br>7.041.353-1|

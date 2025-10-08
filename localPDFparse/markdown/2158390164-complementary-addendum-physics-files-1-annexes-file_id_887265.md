@@ -1,0 +1,28 @@
+---
+title: 03
+author: Desconocido
+date: D:20240408095920
+language: es
+type: general
+pages: 3
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|N<br>PLANTA O E<br>C AM AN C H AC A<br>S<br>RUTA W-771<br>C-2 C-4 C-3 N<br>H=1.15m H=2.0m H=0.85m<br>C-1<br>H=1.48m<br>O E<br>PR-4<br>S<br>2x2x14.7mC AJO N<br>.<br>ESTERO RAUCO PR-3<br>H.D.P.E. D=0.30m<br>COTA = 19,4 m<br>i=0.023%<br>C-5<br>H=1.05m<br>D-3<br>CI N°1 Proy.<br>PR-1<br>O RECEPCIÓN DE M.P.GALPON DE<br>S N<br>PR-2<br>PATIO DE MANIOBRAS CI N°3 Proy. E Sum N°2 Proy. Sum N°3 Proy.<br>D-2 MATERIAS PRIMAS CI N°2 Proy. O.A. CAJÓN SIMPLE EXISTENTE Sum N°1 Proy.<br>2x2x14.7 m.<br>D-1<br>ESTERO<br>RAUCO<br>PR-2<br>PR-1|Col2|Col3|
+|---|---|---|
+|O<br>S<br>E<br>N<br>PR-1<br>PR-2<br>ESTERO<br> RAUCO<br>O<br>S<br>E<br>N<br>PR-1<br>PR-4<br>PR-2<br>PR-3<br>D-2<br>D-3<br>O.A. CAJÓN<br>SIMPLE EXISTENTE<br>2x2x14.7 m.<br>H.D.P.E. D=0.30m<br>COTA = 19,4 m<br>i=0.023%<br>C-1<br>H=1.48m<br>C-2<br>H=1.15m<br> C-3<br>H=0.85m<br> C-4<br>H=2.0m<br> C-5<br>H=1.05m<br> CI N°1 Proy.<br>GALPON DE<br>RECEPCIÓN DE M.P.<br>PATIO DE MANIOBRAS<br>MATERIAS PRIMAS<br>D-1<br> CI N°2 Proy.<br> CI N°3 Proy.<br>Sum N°1 Proy.<br>Sum N°2 Proy.<br>Sum N°3 Proy.<br>PLANTA<br>CAMANCHACA<br>O<br>S<br>E<br>N<br>RUTA W-771<br>CAJON<br>2x2x14.7m.<br>ESTERO RAUCO|||
+|O<br>S<br>E<br>N<br>PR-1<br>PR-2<br>ESTERO<br> RAUCO<br>O<br>S<br>E<br>N<br>PR-1<br>PR-4<br>PR-2<br>PR-3<br>D-2<br>D-3<br>O.A. CAJÓN<br>SIMPLE EXISTENTE<br>2x2x14.7 m.<br>H.D.P.E. D=0.30m<br>COTA = 19,4 m<br>i=0.023%<br>C-1<br>H=1.48m<br>C-2<br>H=1.15m<br> C-3<br>H=0.85m<br> C-4<br>H=2.0m<br> C-5<br>H=1.05m<br> CI N°1 Proy.<br>GALPON DE<br>RECEPCIÓN DE M.P.<br>PATIO DE MANIOBRAS<br>MATERIAS PRIMAS<br>D-1<br> CI N°2 Proy.<br> CI N°3 Proy.<br>Sum N°1 Proy.<br>Sum N°2 Proy.<br>Sum N°3 Proy.<br>PLANTA<br>CAMANCHACA<br>O<br>S<br>E<br>N<br>RUTA W-771<br>CAJON<br>2x2x14.7m.<br>ESTERO RAUCO|||
+
+|P.K.= 55.764 P.K.= 112.652<br>P.K.= 0.00 Perfil N. 5 Perfil N. 9<br>Perfil N. 1 Zt= 18.018 Zt= 18.686<br>Zt= 17.965<br>P.K.= 11.965 P.K.= 65.729 P.K.= 130.830<br>Perfil N. 2 Perfil N. 6 Perfil N. 10<br>Zt= 17.332 Zt= 17.958 Zt= 18.835<br>P.K.= 22.421 P.K.= 80.068 P.K.= 147.699<br>Perfil N. 3 Perfil N. 7 Perfil N. 11<br>Zt= 17.318 Zt= 18.211 Zt= 18.990<br>P.K.= 36.877 P.K.= 95.766 P.K.= 158.452<br>Perfil N. 4 Perfil N. 8 Perfil N. 12<br>Zt= 17.225 Zt= 18.403 Zt= 18.845|Col2|Col3|
+|---|---|---|
+|P.K.= 0.00<br>Perfil N. 1<br>Zt= 17.965<br>P.K.= 55.764<br>Perfil N. 5<br>Zt= 18.018<br>P.K.= 112.652<br>Perfil N. 9<br>Zt= 18.686<br>P.K.= 11.965<br>Perfil N. 2<br>Zt= 17.332<br>P.K.= 65.729<br>Perfil N. 6<br>Zt= 17.958<br>P.K.= 130.830<br>Perfil N. 10<br>Zt= 18.835<br>P.K.= 22.421<br>Perfil N. 3<br>Zt= 17.318<br>P.K.= 80.068<br>Perfil N. 7<br>Zt= 18.211<br>P.K.= 147.699<br>Perfil N. 11<br>Zt= 18.990<br>P.K.= 36.877<br>Perfil N. 4<br>Zt= 17.225<br>P.K.= 95.766<br>Perfil N. 8<br>Zt= 18.403<br>P.K.= 158.452<br>Perfil N. 12<br>Zt= 18.845|||
+|P.K.= 0.00<br>Perfil N. 1<br>Zt= 17.965<br>P.K.= 55.764<br>Perfil N. 5<br>Zt= 18.018<br>P.K.= 112.652<br>Perfil N. 9<br>Zt= 18.686<br>P.K.= 11.965<br>Perfil N. 2<br>Zt= 17.332<br>P.K.= 65.729<br>Perfil N. 6<br>Zt= 17.958<br>P.K.= 130.830<br>Perfil N. 10<br>Zt= 18.835<br>P.K.= 22.421<br>Perfil N. 3<br>Zt= 17.318<br>P.K.= 80.068<br>Perfil N. 7<br>Zt= 18.211<br>P.K.= 147.699<br>Perfil N. 11<br>Zt= 18.990<br>P.K.= 36.877<br>Perfil N. 4<br>Zt= 17.225<br>P.K.= 95.766<br>Perfil N. 8<br>Zt= 18.403<br>P.K.= 158.452<br>Perfil N. 12<br>Zt= 18.845|||
+|P.K.= 0.00<br>Perfil N. 1<br>Zt= 17.965<br>P.K.= 55.764<br>Perfil N. 5<br>Zt= 18.018<br>P.K.= 112.652<br>Perfil N. 9<br>Zt= 18.686<br>P.K.= 11.965<br>Perfil N. 2<br>Zt= 17.332<br>P.K.= 65.729<br>Perfil N. 6<br>Zt= 17.958<br>P.K.= 130.830<br>Perfil N. 10<br>Zt= 18.835<br>P.K.= 22.421<br>Perfil N. 3<br>Zt= 17.318<br>P.K.= 80.068<br>Perfil N. 7<br>Zt= 18.211<br>P.K.= 147.699<br>Perfil N. 11<br>Zt= 18.990<br>P.K.= 36.877<br>Perfil N. 4<br>Zt= 17.225<br>P.K.= 95.766<br>Perfil N. 8<br>Zt= 18.403<br>P.K.= 158.452<br>Perfil N. 12<br>Zt= 18.845|||
+
+|P.K.= 174.941 P.K.= 261.900<br>Perfil N. 13 Perfil N. 17<br>Zt= 19.391 Zt= 20.720<br>P.K.= 194.705 P.K.= 275.254<br>Perfil N. 14 Perfil N. 18<br>Zt= 19.176 Zt= 20.770<br>P.K.= 223.569 P.K.= 297.174<br>Perfil N. 15 Perfil N. 19<br>Zt= 19.786 Zt= 21.103<br>P.K.= 242.646 P.K.= 317.679<br>Perfil N. 16 Perfil N. 20<br>Zt= 20.238 Zt= 21.412|Col2|Col3|Col4|
+|---|---|---|---|
+|P.K.= 174.941<br>Perfil N. 13<br>Zt= 19.391<br>P.K.= 261.900<br>Perfil N. 17<br>Zt= 20.720<br>P.K.= 194.705<br>Perfil N. 14<br>Zt= 19.176<br>P.K.= 275.254<br>Perfil N. 18<br>Zt= 20.770<br>P.K.= 223.569<br>Perfil N. 15<br>Zt= 19.786<br>P.K.= 297.174<br>Perfil N. 19<br>Zt= 21.103<br>P.K.= 242.646<br>Perfil N. 16<br>Zt= 20.238<br>P.K.= 317.679<br>Perfil N. 20<br>Zt= 21.412||||
+|P.K.= 174.941<br>Perfil N. 13<br>Zt= 19.391<br>P.K.= 261.900<br>Perfil N. 17<br>Zt= 20.720<br>P.K.= 194.705<br>Perfil N. 14<br>Zt= 19.176<br>P.K.= 275.254<br>Perfil N. 18<br>Zt= 20.770<br>P.K.= 223.569<br>Perfil N. 15<br>Zt= 19.786<br>P.K.= 297.174<br>Perfil N. 19<br>Zt= 21.103<br>P.K.= 242.646<br>Perfil N. 16<br>Zt= 20.238<br>P.K.= 317.679<br>Perfil N. 20<br>Zt= 21.412||||
+|P.K.= 174.941<br>Perfil N. 13<br>Zt= 19.391<br>P.K.= 261.900<br>Perfil N. 17<br>Zt= 20.720<br>P.K.= 194.705<br>Perfil N. 14<br>Zt= 19.176<br>P.K.= 275.254<br>Perfil N. 18<br>Zt= 20.770<br>P.K.= 223.569<br>Perfil N. 15<br>Zt= 19.786<br>P.K.= 297.174<br>Perfil N. 19<br>Zt= 21.103<br>P.K.= 242.646<br>Perfil N. 16<br>Zt= 20.238<br>P.K.= 317.679<br>Perfil N. 20<br>Zt= 21.412||||

@@ -1,0 +1,24210 @@
+---
+title: Microsoft Word - Adenda N°1_La Estrella_VF.docx
+author: Manuel Antonio Pizarro Morales
+date: D:20150601204636Z00'00'
+language: es
+type: report
+pages: 93
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ADENDA
+-->
+
+# ADENDA
+ N°1** **PARQUE
+ EÓLICO
+ LA
+ ESTRELLA**
+
+Documento
+ preparado
+ por:
+
+**TEBAL,
+ Estudios
+ e
+ ingeniería
+ ambiental**
+
+AVENIDA
+ PORTUGAL
+ 20,
+ OFICINA
+ 77,
+ SANTIAGO
+ DE
+ CHILE
+
+Teléfono +56
+ 2
+ 3702958
+
+Fax +56
+ 2
+ 3695657
+
+Email info@tebal.cl
+
+Website www.tebal.cl
+
+## REGISTRO
+ DE
+ CONTROL
+ DE
+ DOCUMENTO**
+
+|TÍTULO D EL D OCUMENTO|Col2|PARQUE E ÓLICO L A E STRELLA|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|**ID de documento**|**ID de documento**|ADENDA La Estrella|**Número de proyecto**|**Número de proyecto**|||
+|**Versión**|**Fecha**|**Detalle/Estado**|**Autor**|**Revisión**<br>**TEBAL**|**Revisión**<br>**CLIENTE**|**Aprobado**<br>**por**|
+|A|30/04/2015|VERSIÓN 0|MPM|MCF|||
+|B|27/05/2015|VERSIÓN 2|MPM|MCF|||
+
+1
+
+## CONTENIDO
+
+1. Descripción
+ de
+ proyecto.............................................................................................................. 3
+
+2. Normativa
+ de
+ carácter
+ ambiental
+ aplicable .............................................................................. 56
+
+3. Permisos
+ Ambientales
+ Sectoriales ............................................................................................ 66
+
+4. Antecedentes
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ aquellos
+ efectos,
+ características
+ o
+circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley ............................................................................................ 70
+
+5. Ficha
+ Resumen
+ para
+ cada
+ fase
+ del
+ proyecto
+ o
+ actividad........................................................... 89
+
+6. Otras
+ consideraciones
+ relacionadas
+ con
+ el
+ proceso
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ del
+
+Proyecto ........................................................................................................................................... 90
+
+7. Relación
+ con
+ los
+ planes
+ de
+ desarrollo
+ comunal ........................................................................ 91
+
+2
+
+### 1. DESCRIPCIÓN
+ DE
+ PROYECTO**
+
+**Relación del proyecto con RCA No** **10/2014
+ “Plantel de Cerdos Quebrada Honda** ”
+_**1.
+ A
+ partir
+ de
+ la
+ revisión
+ de
+ los
+ antecedentes
+ y
+ cartografía
+ presentados
+ por
+ el
+ Proponente
+ en**_
+_**el
+ Capítulo
+ 2
+ “Descripción
+ de
+ proyecto”
+ de
+ la
+ Declaración
+ Impacto
+ Ambiental
+ (en
+ adelante
+ DIA),**_
+_**así
+ como
+ la
+ indicación
+ de
+ los
+ caminos
+ para
+ tránsito
+ de
+ vehículos
+ y
+ huella
+ de
+ acceso
+ (sujetas
+ a**_
+_**mejoramiento)
+ para
+ instalación
+ de
+ obras
+ permanentes,
+ equipamiento
+ de
+ apoyo,
+ entre
+ otros;
+ se**_
+_**solicita
+ indicar
+ la
+ relación
+ del
+ proyecto
+ actual
+ con
+ el
+ área
+ declarada
+ y
+ aprobada
+ mediante
+ la
+ RCA**_
+_**N°10/2014
+ del
+ proyecto
+ “Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”,
+ por
+ cuanto
+ es
+ posible
+ inferir
+ una**_
+_**clara
+ superposición
+ (obras
+ y
+ acciones),
+ de
+ superficie
+ y
+ de
+ línea
+ de
+ base,
+ entre
+ ambos
+ proyectos.**_
+
+**RESPUESTA:** El
+ Titular
+ aclara
+ a
+ continuación
+ la
+ relación
+ entre
+ el
+ Proyecto
+ "Plantel
+ de
+ Cerdos
+Quebrada
+ Honda"
+
+ y
+ el
+ presente
+ Proyecto,
+ "Parque
+ Eólico
+ La
+ Estrella",
+ asumiendo
+ la
+ ejecución
+ de
+ambos
+ en
+ el
+ predio
+ involucrado:
+
+1. **Mismo
+ Titular:** Ambos
+ proyectos
+ pertenecen
+ a
+ un
+ único
+ titular
+ " _Agrícola
+ Santa
+ Lucía_
+
+_Limitada",_ RUT:
+ 79.930.150-­‐4,
+ cuyas
+ partes,
+ obras
+ y
+ acciones
+ se
+ desarrollarán
+mayoritariamente
+ dentro
+ del
+ fundo
+ "Quebrada
+ Honda"
+ de
+ su
+ propiedad.
+2. **Superposicion
+ de
+ obras:** De
+ acuerdo
+ al
+ Plano
+ No
+ 01
+ del
+ Anexo
+ B,
+
+ se
+ puede
+ apreciar
+ que
+ no
+
+existe
+ superposición
+ de
+ obras
+ entre
+ ambos
+ proyectos
+ a
+ excepción
+ de
+ algunos
+ caminos
+internos
+ que
+ serán
+ similares
+ para
+ ambos
+ emprendimientos,
+ situación
+ ambientalmente
+favorable,
+ ya
+ que
+ disminuye
+ la
+ intervención
+ sobre
+ el
+ suelo
+ del
+ predio.
+ Para
+ estos
+ efectos,
+se
+ corrigó
+ la
+ posición
+ original
+ del
+ aerogenerador
+ No
+ 3
+ cuya
+ ubicación
+ definitiva
+ se
+ presenta
+en
+ el
+ plano
+ No
+ 01
+ del
+ Anexo
+ B,
+ lo
+ cual
+ lo
+ aleja
+ alrededor
+ de
+ 60
+ metros
+ del
+ plantel.
+**3.** **Ejecución
+ desfasada
+ de
+ fase
+ de
+ construcción:** El
+ titular
+ se
+ compromete
+ a **no
+ ejecutar
+ la**
+
+**fase
+ de
+ construcción
+ de
+ ambos
+ proyectos
+ de
+ manera
+ conjunta**,
+ este
+ es
+ un
+ compromiso
+que
+ va
+ en
+ línea
+ con
+ el
+ argumento
+ de
+ que
+ la
+ ejecución
+ conjunta
+ no
+ genera
+ nuevos
+ impactos
+ambientales
+ a
+ los
+ ya
+ declarados
+ como
+ no
+ significativos,
+ tanto
+ en
+ la
+ RCA
+ No10/2014
+ como
+en
+ el
+ presente
+ proyecto
+ en
+ evaluación.
+ Este
+ criterio
+ se
+ aplica
+ especialmente
+ al
+ uso
+ de
+ vías
+públicas
+ para
+ el
+ transporte
+ de
+ materiales
+ durante
+ la
+ fase
+ de
+ construcción.
+ Para
+ regularizar
+lo
+ anterior,
+ el
+ titular
+ presenta
+ durante
+ mayo
+ de
+ 2015
+ la
+ correspondiente
+ consulta
+ de
+pertinencia,
+ donde
+ indica
+ de
+ manera
+ exacta
+ las
+ modificaciones
+ propuestas
+ al
+ proyecto
+ del
+plantel
+ de
+ cerdos
+ ya
+ aprobado.
+4. **Caminos
+ de
+ acceso
+ diferenciados:** Ambos
+ Proyectos
+ tendrán
+ accesos
+ únicos
+ y
+
+diferenciados
+ entre
+ sí,
+ para
+ el
+ caso
+ del
+ Proyecto
+ "Plantel
+ de
+ cerdos"
+ el
+ acceso
+ corresponde
+
+3
+
+a
+ un
+ camino
+ privado
+ de
+ acceso
+ proyectado
+ que
+ empalma
+ con
+ la
+ Ruta
+ I-­‐138
+ (CRUCE
+ I-­‐120
+ -­‐
+CRUCE
+ I-­‐150-­‐H)
+ al
+ extremo
+ oriente
+ del
+ predio
+ Quebrada
+ Honda.
+ Para
+ el
+ caso
+ del
+ Parque
+Eólico,
+ en
+ cambio,
+ el
+ camino
+ de
+ acceso
+ corresponderá
+ a
+ un
+ camino
+ de
+ servidumbre
+existente,
+ que
+ empalma
+ con
+ la
+ Ruta
+ I-­‐120
+ (CRUCE
+ I-­‐62-­‐G
+ -­‐
+ CRUCE
+ I-­‐150-­‐H
+ (LA
+ ESTRELLA))
+ al
+extremo
+ poniente
+ del
+ predio.
+ Lo
+ anterior,
+ considerando
+ la
+ ejecución
+ desfasada
+ de
+ las
+respectivas
+ fases
+ de
+ construcción
+ de
+ ambos
+ proyectos,
+ y
+ tomando
+ en
+ consideración
+ que
+ el
+flujo
+ vehicular
+ en
+ operación
+ del
+ parque
+ eólico
+ es
+ prácticamente
+ despreciable,
+ permite
+concluir
+ que
+ no
+ habrán
+ impactos
+ sinergicos
+ por
+ el
+ uso
+ intensivo
+ de
+ rutas
+ publicas.
+5. **Compatibilidad
+ de
+ ambos
+ Proyectos:** El
+ Proyecto
+ "Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda"
+
+calificado
+ ambientalmente
+ favorable
+ mediante
+ la
+ RCA
+ N°10/2014,
+ en
+ términos
+ de
+ uso
+ de
+suelo
+ es
+ compatible
+ con
+ el
+ parque
+ eólico
+ en
+ evaluación,
+ en
+ circunstancias
+ que
+ la
+instalación
+ de
+ los
+ aerogeneradores,
+ su
+ línea
+ de
+ transmisión
+ y
+ obras
+ complementarias
+ no
+impiden
+ un
+ uso
+ productivo
+ del
+ suelo
+ bajo
+ los
+ aerogeneradores.
+ En
+ este
+ sentido,
+ y
+ como
+ se
+pude
+ apreciar
+ en
+ el
+ Plano
+ No
+ 01
+ del
+ Anexo
+ B,
+ no
+ existe
+ superposición
+ de
+ obras
+ entre
+ambos
+ Proyectos,
+ a
+ excepcion
+ de
+ los
+ caminos
+ internos
+ donde
+ en
+ algunos
+ casos
+ son
+similares,
+ tal
+ como
+ se
+ muestra
+ a
+ su
+ vez
+ en
+ el
+ Plano
+ No
+ 02
+ también
+ del
+ Anexo
+ B.
+**6.** **No
+ existen
+ emisiones,
+ descargas,
+ o
+ residuos
+ de
+ carácter
+ sinérgico:** Dada
+ la
+ naturaleza
+ del
+
+parque
+ eólico,
+ y
+ de
+ acuerdo
+ a
+ las
+ emisiones,
+ descargas
+ y
+ residuos
+ declarados
+ en
+ los
+acápites
+ correspondientes
+ a
+ las
+ fases
+ de
+ construcción,
+ operación
+ y
+ cierre,
+ en
+ conjunto
+ con
+aquellos
+ declarados
+ a
+ su
+ vez
+ para
+ el
+ Plantel
+ de
+ Cerdos
+ en
+ la
+ la
+ RCA
+ N°10/2014,
+ no
+ es
+posible
+ identificar
+ impactos
+ de
+ carácter
+ sinérgico
+ por
+ este
+ concepto
+ debido
+ a
+ la
+ operación
+conjunta
+ de
+ ambos
+ proyectos.
+ Todos
+ los
+ residuos
+ seran
+ gestionados
+ y
+ dispuestos
+ de
+acuerdo
+ a
+ la
+ legislación
+ vigente,
+ y
+ su
+ volúmenes
+ máximos
+ serán
+ generados
+ en
+ las
+ fases
+ de
+construcción
+ respectivas,
+ las
+ cuales
+ se
+ han
+ comprometido
+ a
+ ejecutarse
+ en
+ épocas
+desfasadas.
+ Por
+ último,
+ se
+ aclara
+ que
+ los
+ planes
+ de
+ control
+ ambiental
+ del
+ plantel
+ de
+ cerdos
+no
+ sufren
+ modificaciones
+ por
+ la
+ presencia
+ del
+ parque
+ eólico.
+
+_**2.
+ El
+ Proponente
+ deberá
+ indicar
+ los
+ Considerandos
+ de
+ la
+ RCA
+ N°10/2014,
+ así
+ como
+ también
+ el**_
+_**señalamiento
+ explícito
+ de
+ las
+ secciones,
+ páginas
+ o
+ planos
+ de
+ la
+ DIA,
+ y
+ sus
+ Adendas,
+ y/o
+ del**_
+_**Informe
+ Consolidado,
+ a
+ que
+ se
+ refiere
+ el
+ o
+ los
+ cambios
+ que
+ se
+ pretenden
+ introducir.**_
+
+**RESPUESTA:** El
+ titular
+ aclara
+ que
+ ha
+ sometido
+ a
+ evaluación
+ del
+ Servicio
+ de
+ Evaluación
+ Ambiental
+región
+ del
+ libertador
+ general
+ Bernardo
+ O’Higgins,
+ la
+ consulta
+ de
+ pertinencia
+ “ _Optimización
+ de
+ los_
+_Sectores
+ de
+ Riego
+ del
+ Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”_ con
+ respecto
+ a
+ las
+ modificaciones
+ a
+ la
+RCA
+ No
+ 10/2014
+ de
+ la
+ DIA
+ del
+ mismo
+ plantel
+ de
+ cerdos.
+
+Al
+ respecto
+ se
+ indica
+ que
+ el
+ detalle
+ de
+ las
+ modificacioens
+ propuestas
+ se
+ encuentran
+ en
+ el
+ referido
+documento
+ y
+ a
+ continuación
+ se
+ citan
+ sus
+ aspectos
+ principales:
+
+4
+
+ **Resumen
+ de
+ la
+ modificación
+ propuesta**
+
+La
+ modificación
+ consiste
+ en
+ el
+ cambio
+ de
+ las
+ áreas
+ de
+ riego
+ propuestas
+ para
+ el
+ Plantel
+ de
+ Cerdos
+Quebrada
+ Honda,
+ aprobadas
+ mediante
+ RCA
+ N°10/2014,
+ las
+ que
+ corresponden
+ a
+ 22
+ sectores
+ de
+ 15
+ha
+ aproximadamente,
+ que
+ se
+ presentan
+ en
+ la
+ Lámina
+ 2.
+
+En
+ particular,
+ la
+ modificación
+ considera
+ descontar
+ de
+ las
+ áreas
+ de
+ riego,
+ aquella
+ superficie
+ a
+ utilizar
+por
+ el
+ Proyecto
+ Eólico
+ “La
+ Estrella”.
+ La
+ Tabla
+ 1-­‐1
+ muestra
+ las
+ superficies
+ originales
+ de
+ cada
+ uno
+ de
+los
+ 22
+ sectores,
+ y
+ la
+ superficie
+ que
+ tendrán
+ una
+ vez
+ descontadas
+ las
+ áreas
+ del
+ Proyecto
+ Eólico
+ “La
+Estrella”.
+
+**Tabla
+ 1-­‐1** **Comparación
+ de
+ Superficies
+ Sectores
+ de
+ Riego
+ Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda**
+**Aprobada
+ y
+ Superficie
+ de
+ Sectores
+ de
+ Riego
+ una
+ vez
+ descontada
+ el
+ área
+ a
+ utilizar
+ por
+ el
+ Proyecto
+ Eólico
+ “La**
+
+**Estrella”**
+
+|Sector|Superficie aprobada (ha)|Superficie descontado Proyecto<br>eólico “La estrella”<br>(ha)|
+|---|---|---|
+|1|15,26|15,26|
+|2|15,89|15,89|
+|3|15,16|14,35|
+|4|15,91|15,10|
+|5|15,02|14,23|
+|6|15,57|15,57|
+|7|14,99|14,99|
+|8|15,45|15,09|
+|9|15,28|15,28|
+|10|15,09|14,58|
+|11|14,93|14,42|
+|12|15,26|15,26|
+|13|15,56|15,17|
+|14|15,41|15,41|
+|15|15,65|15,65|
+|16|15,14|14,63|
+
+5
+
+|Sector|Superficie aprobada (ha)|Superficie descontado Proyecto<br>eólico “La estrella”<br>(ha)|
+|---|---|---|
+|17|15,93|15,90|
+|18|15,06|14,89|
+|19|15,73|15,73|
+|20|15,26|15,26|
+|21|14,93|14,93|
+|22|15,01|14,63|
+|**TOTAL**|**337,48**|**332,22**|
+
+Fuente:
+ Consulta
+ de
+ pertinencia
+ “ _Optimización
+ de
+ los
+ Sectores
+ de
+ Riego
+ del
+ Plantel
+ de
+ Cerdos_
+_Quebrada
+ Honda”_ .
+
+Tal
+ como
+ se
+ observa
+ en
+ la
+ tabla
+ anterior,
+ el
+ descontar
+ la
+ superficie
+ a
+ utilizar
+ por
+ el
+ Proyecto
+ Eólico
+“La
+ Estrella”
+ de
+ las
+ áreas
+ de
+ riego,
+ significa
+ una
+ disminución
+ de
+ estas
+ en
+ 5,26
+ ha.
+ Dado
+ lo
+ anterior,
+la
+ modificación
+ considera
+ la
+ adición
+ de
+ un
+ nuevo
+ sector
+ de
+ riego,
+ de
+ 7,34
+ ha,
+ por
+ lo
+ que
+ la
+superficie
+ de
+ riego
+ total
+ propuesta
+ por
+ la
+ modificación
+ corresponde
+ a
+ 339,56
+ ha.
+ Las
+ áreas
+ de
+ riego
+propuestas
+ en
+ la
+ modificación
+ se
+ presentan
+ en
+ la
+ lámina
+ 4.
+ La
+ Tabla
+ 1-­‐2
+ expone
+ la
+ comparación
+entre
+ las
+ superficies
+ de
+ los
+ sectores
+ aprobados
+ mediante
+ RCA
+ N°10/2014
+ y
+ los
+ Sectores
+ de
+ Riego
+propuestos
+ en
+ esta
+ modificación
+ sometida
+ a
+ consulta.
+
+**Tabla
+ 1-­‐2** **Comparación
+ Superficies
+ Sectores
+ de
+ Riego
+ Aprobados
+ mediante
+ RCA
+ N°10/2014
+ con
+ la**
+**Superficies
+ Sectores
+ de
+ Riego
+ propuestas
+ en
+ la
+ presente
+ Modificación.**
+
+|Sector|Superficie aprobada (ha)|Superficie descontado Proyecto<br>eólico “La estrella”<br>(ha)|
+|---|---|---|
+|1|15,26|15,26|
+|2|15,89|15,89|
+|3|15,16|14,35|
+|4|15,91|15,10|
+|5|15,02|14,23|
+|6|15,57|15,57|
+|7|14,99|14,99|
+
+6
+
+|Sector|Superficie aprobada (ha)|Superficie descontado Proyecto<br>eólico “La estrella”<br>(ha)|
+|---|---|---|
+|8|15,45|15,09|
+|9|15,28|15,28|
+|10|15,09|14,58|
+|11|14,93|14,42|
+|12|15,26|15,26|
+|13|15,56|15,17|
+|14|15,41|15,41|
+|15|15,65|15,65|
+|16|15,14|14,63|
+|17|15,93|15,90|
+|18|15,06|14,89|
+|19|15,73|15,73|
+|20|15,26|15,26|
+|21|14,93|14,93|
+|22|15,01|14,63|
+|23|--|7,34|
+|**TOTAL**|**337,48**|**339,56**|
+
+Fuente:
+ Consulta
+ de
+ pertinencia
+ “ _Optimización
+ de
+ los
+ Sectores
+ de
+ Riego
+ del
+ Plantel
+ de
+ Cerdos_
+_Quebrada
+ Honda”_ .
+
+Cabe
+ mencionar
+ que
+ el
+ sector
+ 23
+ a
+ incluir,
+ se
+ encuentra
+ dentro
+ del
+ área
+ prospectada
+ en
+ la
+ línea
+ de
+base
+ realiza
+ para
+ el
+ proyecto
+ “Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”.
+ Tal
+ como
+ se
+ presenta
+ en
+ la
+Lámina
+ 5,
+ este
+ sector
+ se
+ encuentra
+ en
+ una
+ zona
+ donde
+ actualmente
+ existe
+ un
+ cultivo
+ agrícola
+abandonado,
+ en
+ el
+ que
+ no
+ se
+ evidencia
+ presencia
+ de
+ fauna
+ o
+ flora
+ en
+ categoría
+ de
+ conservación,
+ ni
+existen
+ hallazgos
+ arqueológicos.
+ Se
+ aclara
+ que
+ el
+ sector
+ tiene
+ una
+ pendiente
+ menor
+ al
+ 8%
+ y
+ que
+ las
+quebradas
+ se
+ encuentran
+ a
+ una
+ distancia
+ mayor
+ a
+ 150
+ metros,
+ por
+ lo
+ que
+ no
+ existe
+ peligro
+ de
+escurrimiento
+ hacia
+ ellas.
+ Adicionalmente,
+ para
+ cumplir
+ con
+ lo
+ establecido
+ en
+ la
+ DIA
+ respecto
+ a
+ las
+plantaciones
+ a
+ ser
+ regadas,
+ se
+ plantarán
+ eucaliptos
+ en
+ este
+ sector
+ con
+ una
+ densidad
+ de
+ 1.100
+árboles/Ha,
+ tal
+ como
+ se
+ establece
+ en
+ la
+ página
+ 14
+ de
+ la
+ RCA
+ N°10/2014.
+
+7
+
+Por
+ último,
+ se
+ aclara
+ que
+ la
+ modificación
+ NO
+ contempla
+ cambiar
+ el
+ flujo
+ de
+ aplicación
+ ni
+ las
+técnicas
+ de
+ riego,
+ como
+ tampoco
+ las
+ medidas
+ de
+ protección
+ ambiental
+ establecidas
+ en
+ la
+ DIA,
+documento
+ en
+ el
+ que
+ se
+ define
+ el
+ flujo
+ de
+ aplicación
+ en
+ 675
+ m [3] /día,
+ el
+ cual
+ es
+ aplicado
+ por
+ medio
+de
+ un
+ sistema
+ por
+ surcos
+ (sistema
+ de
+ riego
+ del
+ tipo
+ californiano),
+ transportando
+ el
+ efluente
+ de
+purines
+ tratados
+ por
+ tuberías
+ de
+ PVC
+ hasta
+ los
+ mismos
+ sectores
+ de
+ riego
+ sobre
+ plantaciones
+ de
+ecualiptus
+ con
+ una
+ densidad
+ de
+ 1.100
+ árboles/ha.
+ Los
+ sectores
+ fueron
+ definidos
+ de
+ tal
+ forma
+ de
+decretar
+ un
+ área
+ de
+ protección
+ de
+ las
+ quebradas
+ presentes
+ en
+ el
+ predio
+ y
+ cuidando
+ que
+ las
+ áreas
+correspondieran
+ a
+ sectores
+ con
+ pendiente
+ menor
+ al
+ 8%.
+
+ **Identificación
+ de
+ los
+ considerando
+ de
+ la
+ RCA
+ No
+ 10/2014
+ sujetos
+ a
+ modificación**
+
+Las
+ modificaciones
+ a
+ lo
+ establecido
+ en
+ la
+ Resolución
+ Exenta
+ No10/2014
+ que
+ califica
+ambientalmente
+ favorable
+ el
+ proyecto
+ "Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”,
+ y
+ a
+ la
+ Declaración
+ de
+Impacto
+ Ambiental
+ del
+ proyecto,
+ se
+ presentan
+ en
+ la
+ siguiente
+ tabla:
+
+**Tabla
+ 1-­‐3** **Tabla
+ de
+ Identificación
+ de
+ Cambios
+ a
+ incorporar
+ a
+ la** **RCA
+ No
+ 10/2014** **por
+ la**
+
+**modificación
+ sometida
+ en
+ consulta**
+
+La presente
+modificación
+ considera
+el cambio en la
+superficie
+ en
+ 10
+ de
+ los
+sectores
+ de
+ riego
+ y
+ la
+inclusión
+ de
+ un
+ nuevo
+sector, por tantos
+serán
+ 23
+ sectores
+ de
+riego, con una
+superficie total de
+339,56 ha, las
+superficies
+ por
+ sector
+se
+ detallan
+ en
+ la
+ Tabla
+1-­‐2.
+
+La presente
+modificación
+ considera
+el cambio en la
+superficie
+ en
+ 10
+ de
+ los
+sectores
+ de
+ riego
+ y
+ la
+inclusión
+ de
+ un
+ nuevo
+sector,
+ por
+ tantos
+ serán
+23
+ sectores
+ de
+ riego,
+con
+ una
+ superficie
+ total
+de 339,56 ha, las
+superficies
+ por
+ sector
+ se
+
+3.7.4.2 RCA
+
+3.7.4.2 RCA
+
+El
+ flujo
+ de
+ aplicación
+ es
+ de
+ 675
+ m [3] /día
+ incorporado
+ a
+ riego,
+ por
+medio
+ de
+ un
+ sistema
+ por
+ surcos
+ (sistema
+ de
+ riego
+ del
+ tipo
+californiano),
+ transportando
+ el
+ efluente
+ de
+ purines
+ tratados
+ por
+tuberías
+ de
+ PVC
+ hasta
+ los
+ mismos
+ sectores
+ de
+ riego
+ (22
+ sectores
+de
+ 15
+ hectáreas),
+ para
+ distribuirlo
+ en
+ 330
+ Ha
+ de
+ plantaciones
+ de
+eucaliptus,
+ con
+ una
+ densidad
+ de
+ 1.100
+ árboles/Ha
+ (Anexo
+ A
+ de
+ la
+Adenda
+ 3).
+
+Con
+ los
+ datos
+ señalados,
+ se
+ alimentó
+ un
+ modelo
+ matemático
+para
+ determinar
+ el
+ balance
+ hídrico
+ diario
+ de
+ una
+ unidad
+ de
+ riego,
+de
+ acuerdo
+ a
+ las
+ condiciones
+ de
+ aplicación
+ diseñadas;
+ es
+ decir,
+considerando
+ 22
+ sectores
+ de
+ 15
+ Ha
+ (330
+ Ha
+ totales),
+ lo
+ que
+implica
+ períodos
+ de
+ descanso
+ de
+ 21
+ días
+ para
+ cada
+ sector.
+
+8
+
+detallan
+ en
+ la
+ Tabla
+ 1-­‐2.
+
+Cabe
+ mencionar
+ que
+ no
+se modifican las
+variables
+ ingresadas
+ en
+el
+ balance
+ hídrico,
+ ya
+que
+ la
+ superficie
+ total
+ no
+cambia
+significativamente, por
+tanto
+ se
+ mantendrán
+ los
+21
+ días
+ de
+ descanso
+para
+ cada
+ sector.
+
+Los sectores NO
+tendrán
+ solamente
+ 15
+ha, sino que esta
+variará,
+ de
+ acuerdo
+ a
+como
+ muestra
+ la
+ Tabla
+6.
+
+ Sin
+ perjuicio
+ de
+ ello
+se
+ mantiene
+ la
+ entrega
+del informe
+comprometido.
+
+Las unidades de
+manejo
+ se
+ fraccionarán
+en
+ sectores
+ de
+ riego
+ de
+entre
+ 14
+
+ y
+ 15,9
+ ha,
+ a
+excepción
+ del
+ sector
+ 23
+que
+ tendrá
+ 7,34
+ ha
+(detalle
+ en
+ Tabla
+ 6)
+
+La presente
+modificación
+ considera
+la inclusión de un
+nuevo
+ sector
+ de
+ riego,
+por
+ tantos
+ serán
+ 23
+sectores
+ de
+ riego,
+ sus
+superficies se
+especifican
+ en
+ la
+ Tabla
+1-­‐2.
+
+3.7.4.2 RCA
+
+3.7.5 RCA
+
+4.1.2 RCA
+
+d) Entregar a este Servicia Agrícola y Ganadero de esta región,
+
+con copia a la SMA, al inicio de cada temporada de riego, la
+identificación de cada área (polígonos en formato kml,
+coordenadas UTM, Datum WGS84) y una planilla de base
+de datos (formato Excel) con información detallada de los
+análisis de suelos y riles (si corresponde), fechas de
+aplicación de riego por sector (15 ha.) y cantidad de purín
+aplicada por sector.
+
+El
+ efluente
+ que
+ sale
+ de
+ los
+ biodigestores
+ es
+ aplicado
+ en
+plantaciones
+ de
+ eucaliptos,
+ en
+ un
+ área
+ de
+ 330
+ Ha
+ que
+ se
+fraccionará
+ en
+ unidades
+ de
+ manejo
+ de
+ 15
+ ha/día
+ de
+ superficie,
+con
+ una
+ rotación
+ diaria
+ para
+ su
+ aplicación.
+ Las
+ aguas
+ utilizadas
+para
+ riego
+ cumplirán
+ con
+ los
+ parámetros
+ establecidos
+ bajo
+ la
+norma
+ chilena
+ NCh
+ 1333/78.
+
+- _**Decreto
+ N°
+ 867/78.
+ Norma
+ Chilena
+ 1.333
+ del
+ Ministerio
+ de**_
+_**Obras
+ Públicas.
+ Requisitos
+ de
+ calidad
+ de
+ agua
+ para
+ diferentes**_
+
+_**usos.**_
+
+Materia
+ Regulada
+
+Establece
+ los
+ requisitos
+ físicos,
+ químicos,
+ radiactivos
+ y
+bacteriológicos
+ que
+ debe
+ cumplir
+ el
+ agua
+ utilizada
+ para
+ riego
+ y
+otros
+ usos.
+
+Cumplimiento
+
+Durante
+ la
+ operación
+ se
+ utiliza
+ el
+ efluente
+ del
+ sistema
+biodigestor
+ para
+ riego
+ de
+ superficies
+ de
+ plantaciones
+ de
+eucaliptus.
+ Además,
+ el
+ flujo
+ resultante
+ de
+ las
+ cámaras
+ de
+
+9
+
+tratamiento
+ de
+ aguas
+ servidas
+ es
+ utilizado
+ para
+ el
+ riego
+ de
+jardines
+ y
+ superficies.
+
+Los
+ RILes
+ generados
+ durante
+ el
+ proceso
+ de
+ crianza
+ se
+ producen
+de
+ forma
+ diaria,
+ provenientes
+ del
+ lavado
+ de
+ los
+ pabellones.
+ Se
+genera
+ un
+ volumen
+ de
+ 675
+ m [3] /día.
+ Los
+ purines
+ se
+ transportarán
+gravitacionalmente
+ a
+ través
+ de
+ una
+ red
+ de
+ tuberías
+ subterráneas
+hacia
+ el
+ sistema
+ biodigestor.
+ El
+ efluente
+ que
+ sale
+ de
+ los
+biodigestores
+ es
+ aplicado
+ en
+ plantaciones
+ de
+ eucaliptos,
+ en
+ un
+área
+ de
+ 333,53
+ ha
+ que
+ se
+ fraccionará
+ en
+ unidades
+ de
+ manejo
+ de
+15
+ ha/día
+ de
+ superficie,
+ con
+ una
+ rotación
+ diaria
+ para
+ su
+aplicación.
+
+La presente
+modificación
+ considera
+la
+ inclusión
+ de
+ un
+ nuevo
+sector
+ de
+ riego,
+ por
+tantos
+ serán
+ 23
+ sectores
+de
+ riego,
+ sus
+ superficies
+se
+ especifican
+ en
+ la
+Tabla
+ 1-­‐2.
+
+Se
+ modifica
+ la
+ cantidad
+de
+ sectores
+ los
+ que
+tendrán
+ las
+ dimensiones
+que
+ se
+ presentan
+ en
+ la
+Tabla
+ 6.
+
+5.
+ a) RCA
+
+5.
+ b) RCA
+
+_**Purines
+ y
+ aguas
+ de
+ lavado:**_ Los
+ RILes
+ generados
+ durante
+ el
+proceso
+ de
+ crianza
+ se
+ producen
+ de
+ forma
+ diaria,
+ provenientes
+del
+ lavado
+ de
+ los
+ pabellones
+ compuesto
+ por
+ excretas
+ y
+ orines
+ de
+los
+ animales.
+ Se
+ genera
+ un
+ volumen
+ de
+ 675
+ m [3] /día.
+ Los
+ purines
+se
+ transportarán
+ gravitacionalmente
+ a
+ través
+ de
+ una
+ red
+ de
+tuberías
+ subterráneas
+ hacia
+ el
+ sistema
+ biodigestor,
+ el
+ cual
+ fue
+diseñado
+ para
+ recibir
+ un
+ caudal
+ de
+ 850
+ m [3] /día,
+ considerando
+ un
+25
+ %
+ como
+ margen
+ de
+ seguridad.
+ El
+ efluente
+ que
+ sale
+ de
+ los
+biodigestores
+ es
+ aplicado
+ en
+ plantaciones
+ de
+ eucaliptos,
+ en
+ un
+área
+ de
+ 330
+ Ha
+ que
+ se
+ fraccionará
+ en
+ unidades
+ de
+ manejo
+ de
+ 15
+Ha/día
+ de
+ superficie,
+ con
+ una
+ rotación
+ diaria
+ para
+ su
+ aplicación.
+Las
+ aguas
+ utilizadas
+ para
+ riego
+ cumplirán
+ con
+ los
+ parámetros
+establecidos
+ bajo
+ la
+ norma
+ chilena
+ NCh
+ 1333/78.
+
+En
+ la
+ aplicación
+ y
+ al
+ inicio
+ de
+ la
+ temporada
+ de
+ riego
+ se
+ efectúan
+monitoreos
+ anuales
+ de
+ suelo
+ debido
+ a
+ que
+ el
+ manejo
+ de
+efluentes
+ líquidos
+ se
+ realiza
+ mediante
+ aplicación
+ homogénea
+ en
+unidades
+ de
+ manejo
+ de
+ 15
+ Ha
+ cada
+ una.
+ A
+ continuación
+ se
+indica
+ el
+ programa
+ de
+ monitoreo
+ de
+ suelos.
+
+10
+
+Lámina
+ de
+ las
+ Áreas
+ de
+ riego. Se
+ reemplaza
+ por
+ la
+Anexo
+ 1 Adenda
+ N°1
+lámina
+ 4
+ adjunta.
+
+Fuente:
+ Consulta
+ de
+ pertinencia
+ “ _Optimización
+ de
+ los
+ Sectores
+ de
+ Riego
+ del
+ Plantel
+ de
+ Cerdos_
+_Quebrada
+ Honda”_ .
+
+Mayores
+ antecedentes
+ en
+ el
+ documento **Consulta
+ de
+ pertinencia
+ “Optimización
+ de
+ los
+ Sectores**
+**de
+ Riego
+ del
+ Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”** presentado
+ por
+ el
+ titular
+ en
+ junio
+ de
+ 2015
+ al
+Servicio
+ de
+ Evaluación
+ Ambiental
+ región
+ del
+ libertador
+ general
+ Bernardo
+ OHiggins.
+
+_**3.
+ En
+ complemento
+ a
+ la
+ información
+ solicitada,
+ deberá
+ presentar
+ plano
+ cartográfico
+ con
+ imagen**_
+_**digital del terreno
+ en
+ coordenadas
+ UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84,
+ identificando
+ la
+ superposición**_
+_**de
+ las
+ obras
+ del
+ Proyecto“Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”
+ (georreferenciadas
+ en
+ plano**_
+_**presentado
+ en
+ el
+ Anexo
+ No
+ 1
+ de
+ la
+ Adenda
+ No
+ 2)
+ y
+ las
+ instalaciones
+ del
+ proyecto
+ “Parque
+ Eólico**_
+_**La
+ Estrella”
+ (presentadas
+ en
+ el
+ Anexo
+ No
+ 1
+ de
+ la
+ DIA).**_
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ en
+ el
+ Plano
+ No
+ 01
+ del **Anexo
+ B
+ -­‐Planos-­‐** se
+ presentan
+ en
+conjunto
+ las
+ obras
+ e
+ instalaciones
+ del
+ Proyecto
+ “Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”
+ y
+ las
+ del
+proyecto
+ “Parque
+ Eólico
+ La
+ Estrella”.
+ En
+ el
+ citado
+ plano,
+ se
+ puede
+ apreciar
+ claramente
+ que
+ no
+existe
+ superposición
+ de
+ obras
+ entre
+ ambos
+ proyectos
+ y
+ comparten
+ adecuadamente
+ un
+ espacio
+físico
+ común,
+ dentro
+ del
+ predio
+ "Quebrada
+ honda"
+ perteneciente
+ al
+ titular.
+ Las
+ eventuales
+modificaciones
+ propuestas
+ a
+ la
+ RCA
+ No
+ 10/2014,
+ serán
+ regularizadas
+ a
+ través
+ de
+ la
+correspondiente
+ consulta
+ de
+ pertinencia,
+ a
+ presentar
+ durante
+ la
+ primera
+ semana
+ de
+ junio
+ 2015,
+por
+ el
+ titular
+ al
+ SEA
+ región
+ de
+ Ohiggins.
+
+11
+
+**Localización del proyecto**
+_**4.
+ A
+ partir
+ de
+ la
+ información
+ presentada
+ por
+ el
+ Proponente
+ en
+ respuesta
+ al
+ presente
+ ICSARA,
+ se**_
+_**solicita
+ sistematizar
+ en
+ una
+ cartografía
+ de
+ síntesis**_ _**con**_ _**imagen**_ _**digital**_ _**del**_ _**terreno
+ en**_
+_**coordenadas
+ UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84,
+ la
+ georreferenciación
+ de
+ los
+ siguientes
+ elementos:**_
+_**a.
+ Obras
+ temporales
+ del
+ proyecto
+ (Instalación
+ de
+ faenas,
+ sectores
+ de
+ acopio
+ transitorio
+ de**_
+_**materiales
+ y
+ residuos,
+ plazas
+ de
+ lanzamiento,
+ instalaciones
+ sanitarias,
+ entre
+ otras).**_
+_**b.
+ Obras
+ permanentes
+ del
+ proyecto
+ del
+ proyecto
+ (aerogeneradores,
+ subestaciones
+ eléctricas**_
+_**(elevación
+ y
+ conexión),
+ caminos
+ de
+ acceso
+ e
+ interiores
+ (permanentes),
+ posteado
+ aéreo,
+ sala
+ de**_
+_**control,
+ línea
+ de
+ conexión
+ entre
+ aerogeneradores,
+ línea
+ de
+ media
+ tensión
+ para
+ aerogeneradores,**_
+_**entre
+ otras).**_
+_**c.
+ Polígono
+ en
+ donde
+ se
+ identifiquen
+ las
+ distintas
+ formaciones
+ vegetales;
+ superpuestas
+ al
+ trazado**_
+_**definitivo
+ de
+ las
+ obras
+ temporales
+ y
+ definitivas
+ asociadas
+ a
+ la
+ presentación
+ de
+ este
+ proyecto.**_
+_**d.
+ Polígonos
+ en
+ donde
+ se
+ identifiquen
+ hábitats
+ de
+ fauna
+ de
+ relevancia
+ ambiental
+ (especies
+ en**_
+_**estado
+ de
+ conservación),
+ ubicados
+ en
+ el
+ área
+ de
+ intervención
+ del
+ proyecto.
+ Para
+ ello,
+ deberá**_
+_**considerarse,
+ si
+ corresponde,
+ los
+ siguientes
+ hábitats:
+ bosque
+ esclerófilo,
+ matorral
+ esclerófilo
+ y**_
+_**fondos
+ de
+ quebradas,
+ entre
+ otros.**_
+_**e.
+ Polígonos
+ en
+ donde
+ se
+ identifiquen
+ las
+ áreas
+ de
+ mayor
+ riesgo
+ de
+ colisiones
+ de
+ aves
+ con
+ las**_
+_**líneas
+ o
+ torres,
+ considerando
+ los
+ desplazamientos
+ que
+ efectúan
+ las
+ diferentes
+ especies
+ que**_
+_**residen
+ o
+ transitan
+ por
+ el
+ sector;
+ superpuesta
+ al
+ trazado
+ definitivo
+ de
+ las
+ obras
+ temporales
+ y**_
+_**definitivas
+ asociadas
+ a
+ la
+ presentación
+ de
+ este
+ proyecto.**_
+_**f.
+ Distancia
+ a
+ las
+ viviendas
+ más
+ cercanas.**_
+_**g.
+ Distancia
+ a
+ los
+ sectores
+ poblados
+ más
+ cercanos.**_
+_**h.
+ Distancia
+ a
+ los
+ cursos
+ de
+ aguas
+ superficiales
+ más
+ cercanos,
+ señalando
+ si
+ existen
+ cauces**_
+_**naturales,
+ quebradas
+ y/o
+ cauces
+ artificiales
+ que
+ podrían
+ verse
+ afectados
+ por
+ el
+ proyecto**_ _._
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ en
+ el **Anexo
+ B
+ -­‐
+ Planos-­‐** de
+ la
+ presente
+ Adenda,
+ se
+ presenta
+la
+ información
+ solicitada
+ en
+ las
+ escalas
+ adecuadas.
+
+**Etapa Construcción**
+_**5.
+ A
+ partir
+ de
+ la
+ información
+ proporcionada
+ en
+ la
+ Tabla
+ 1-­‐5
+ de
+ la
+ DIA
+ “Coordenadas
+ referenciales**_
+_**proyecto”,
+ y
+ de
+ lo
+ solicitado
+ en
+ consultas
+ 3
+ y
+ 4
+ del
+ presente
+ ICSARA,
+ se
+ requiere
+ al
+ Proponente**_
+_**presentar
+ los
+ archivos
+ digitales
+ de
+ cada
+ una
+ de
+ las
+ obras
+ que
+ comprende
+ el
+ proyecto
+ y
+ de
+ los**_
+_**elementos
+ georreferenciados,
+ en
+ extensión
+ .shp
+ y/o
+ .kmz
+ para
+ su
+ visualización
+ y
+ revisión
+ por**_
+_**parte
+ de
+ los
+ OAECCA.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ en
+ el **Anexo
+ A** de
+ la
+ presente
+ Adenda
+ No1
+,
+ se
+ presenta
+ el
+layout
+ del
+ Proyecto
+ en
+ formato
+ KML,
+ con
+ todas
+ sus
+ obras
+ permanentes
+ y
+ temporales.
+
+12
+
+_**6.
+ En
+ el
+ punto
+ 1.4.4
+ de
+ la
+ DIA
+ “Caminos
+ de
+ acceso”,
+ el
+ Proponente
+ señala
+ que
+ la
+ “principal”
+ vía**_
+_**de
+ acceso
+ al
+ proyecto
+ será
+ un
+ camino
+ privado
+ existente.
+ Al
+ respecto,
+ se
+ solicita
+ referirse
+ a
+ las**_
+_**acciones
+ a
+ realizar
+ para
+ las
+ mejoras
+ al
+ camino
+ de
+ acceso
+ (ensanche
+ de
+ la
+ franja),
+ además
+ de**_
+_**describir
+ las
+ actividades
+ a
+ ejecutar
+ para
+ su
+ habilitación.
+ Junto
+ a
+ lo
+ anterior,
+ se
+ solicita
+ aclarar
+ si**_
+_**existirán
+ otros
+ accesos
+ al
+ proyecto,
+ incorporándolos
+ en
+ los
+ plano
+ georreferenciados
+ solicitados.**_
+
+**RESPUESTA:** El
+ titular
+ aclara
+ que
+ el
+ único camino de acceso al Proyecto,
+ será
+ un
+ camino
+ privado
+de
+ servidumbre
+ existente
+ que
+ empalma
+ con
+ la
+ ruta
+ I-­‐120,
+ Ruta
+ Litueche
+ -­‐
+ La
+ Estrella [1] y
+ no
+ existirán
+otros
+ accesos
+ al
+ Proyecto.
+ Este
+ camino
+ se
+ presenta
+ en
+ el
+ Plano
+ No
+ 02
+ y
+ No
+ 12
+ del **Anexo
+ B** de
+ la
+presente
+ Adenda,
+ donde
+ se
+ identifica
+ su
+ inicio
+ y
+ término.
+ Respecto
+ a
+ las
+ mejoras,
+ éstas
+ serán
+mínimas
+ por
+ el
+ buen
+ estado
+ del
+ camino,
+ y
+ consistirán
+ en
+ un
+ perfilado
+ con
+ monotiveladora,
+ la
+aplicación
+ de
+ material
+ de
+ rodado
+ grueso,
+ compactación
+ y
+ un
+ ensanche
+ de
+ aproximadamente
+ 2
+ m
+a
+ cada
+ lado
+ de
+ la
+ calzada,
+ para
+ obtener
+ una
+ faja
+ de
+ 8
+ m
+ de
+ ancho
+ uniforme.
+ Las
+ maquinarias
+ a
+utilizar
+ serán
+ 1
+ retroexcavadora
+ y
+ 1
+ motoniveladora.
+
+Este
+ camino
+ de
+ acceso
+ al
+ proyecto
+
+ se
+ cubrirá
+ con
+ una
+ capa
+ de
+ estabilizado
+ (grava
+ 1
+ 1⁄2
+ )
+ de
+ no
+ más
+de
+ 20
+ cm,
+ que
+ se
+ compactará
+ con
+ rodillo
+ liso
+ vibratorio
+ para
+ lograr
+ la
+ capacidad
+ portante
+ necesaria
+para
+ el
+ transporte
+ de
+ los
+ aerogeneradores.
+
+_**7.
+ En
+ el
+ punto
+ 1.4.4.2
+ de
+ la
+ DIA
+ “Habilitación
+ de
+ Caminos
+ internos”,
+ el
+ Proponente
+ señala:
+ “Para**_
+_**acceder
+ al
+ interior
+ del
+ polígono
+ de
+ emplazamiento
+ de
+ los
+ aerogeneradores
+ (plataforma
+ de**_
+_**maniobras),
+ se
+ habilitarán
+ caminos
+ que
+ permitirán
+ el
+ tránsito
+ de
+ los
+ vehículos
+ que
+ transportarán**_
+_**los
+ insumos,
+ equipos
+ y
+ maquinarias
+ a
+ los
+ diferentes
+ frentes
+ de
+ trabajo
+ durante
+ la
+ fase
+ de**_
+_**construcción,
+ así
+ como
+ también
+ para
+ las
+ labores
+ de
+ mantenimiento
+ de
+ la
+ fase
+ de
+ operación”.
+ Al**_
+_**respecto,
+ se
+ solicita
+ detallar
+ la
+ siguiente
+ información:**_
+
+_**a.
+ Describir
+ detalladamente
+ la
+ actividad
+ de
+ habilitación
+ de
+ caminos
+ interiores;**_
+**RESPUESTA:** A
+ partir
+ del
+ levantamiento
+ topográfico
+ sobre
+ el
+ camino
+ proyectado
+ se
+ definirán
+ las
+zonas
+ donde
+ será
+ necesario
+ rellenar
+ o
+ excavar
+ para
+ nivelar
+ la
+ superficie
+ y
+ lograr
+ las
+ pendientes
+requeridas
+ para
+ el
+ tránsito
+ de
+ camiones
+ y
+ grúas.
+ En
+ el
+ diseño
+ del
+ camino
+ se
+ buscará
+ la
+minimización
+ de
+ los
+ movimientos
+ de
+ tierra.
+ Para
+ ello
+ se
+ utilizará
+ el
+ material
+ excavado
+ como
+material
+ de
+ relleno.
+Las
+ obras
+ consistirán
+ en
+ nivelar
+ el
+ camino
+ para
+ el
+ desplazamiento
+ de
+ los
+ camiones
+ de
+ transporte,
+grúas
+ y
+ vehículos
+ menores
+ utilizando
+ máquinas
+ motoniveladoras.
+ Estas
+ colocarán
+ el
+ material
+ en
+ las
+
+1 Actualmente
+ esta
+ dentro
+ de
+ la
+ cartera
+ de
+ proyección
+
+ de
+ la
+ Dirección
+ de
+ Vialidad
+ a
+ ejecución
+ 2015,
+ el
+Proyecto:
+ "MEJORAMIENTO
+ CBI
+ RUTA
+ I-­‐120
+ KM
+ 0.0
+ AL
+ 14.7,LA
+ ESTRELLA
+ Y
+ LITUECHE"
+
+13
+
+zonas
+ donde
+ es
+ necesario
+ rellenar
+ en
+ capas
+ de
+ no
+ más
+ de
+ 30
+ cm
+ por
+ vez.
+ A
+ continuación
+ un
+ camión
+cisterna
+ humectará
+ adecuadamente
+ el
+ material
+ dispuesto
+ para
+ luego
+ compactarlo
+ con
+ el
+ paso
+ de
+rodillos
+
+ vibratorios.
+ Dado
+ que,
+ en
+ general,
+ la
+ superficie
+ del
+ terreno
+ es
+ bastante
+ regular,
+ no
+ se
+contempla
+ realizar
+ grandes
+ movimientos
+ de
+ tierra.
+ El
+ camino
+ se
+ cubrirá
+ con
+ una
+ capa
+ de
+estabilizado
+ (grava
+ 1
+ 1⁄2
+ )
+ de
+ no
+ más
+ de
+ 20
+ cm
+ que
+ se
+ compactará
+ con
+ rodillo
+ liso
+ vibratorio
+ para
+lograr
+ la
+ capacidad
+ portante
+ necesaria
+ para
+ el
+ transporte
+ de
+ los
+ aerogeneradores.
+
+_**b.
+ Indicar
+ los
+ sectores
+ donde
+ se
+ efectuarán
+ intervenciones
+ de
+ huellas
+ interiores,**_
+_**georreferenciados
+ en
+ coordenadas
+ UTM
+ Datum
+ WGS
+ 84;**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ en
+ el
+ Plano
+ No
+ 2
+ del
+ Anexo
+ B
+ de
+ la
+ presente
+ Adenda
+ se
+presenta
+ la
+ intervención
+ de
+ huellas
+ interiores,
+ diferenciando
+ entres
+ huellas
+ nuevas
+ a
+ habilitar
+ y
+huellas
+ existentes.
+
+_**c.
+ Aclarar
+ el
+ tipo
+ de
+ intervención
+ que
+ realizará
+ y
+ señalar
+ las
+ acciones
+ que
+ implementará
+ para**_
+_**evitar
+ la
+ erosión
+ en
+ las
+ carpetas
+ de
+ rodado
+ de
+ los
+ caminos
+ y
+ en
+ los
+ taludes
+ de
+ corte;**_
+
+**RESPUESTA:** Para
+ preservar
+ el
+ estado
+ de
+ la
+ carpeta
+ se
+ mantendrá
+ una
+ humectación
+ adecuada
+ de
+los
+ caminos
+ durante
+ la
+ fase
+ de
+ construcción.
+ También
+ se
+ limitará
+ la
+ velocidad
+ máxima para
+vehículos
+ livianos
+ y
+ pesados,
+ a
+ 60
+ km/h
+ y
+ a
+ 40
+ km/h,
+ respectivamente.
+ Para
+ evitar
+ la
+ erosión
+ de
+ las
+carpetas
+ de
+ rodado
+ se
+ construirán
+ taludes
+ en
+ sus
+ bordes
+ de
+ caminos
+ y
+ plataformas
+ con
+ una
+inclinación
+ menor
+ o
+ igual
+ a
+ 3,00/1,00
+ (H/V).
+ En
+ la
+ fase
+ de
+ operación
+ el
+ tránsito
+ a
+ través
+ del
+ camino
+será
+ bajo,
+ por
+ lo
+ que
+ cada
+ dos
+ años
+ aproximadamente
+ será
+ necesario
+ realizar
+ una
+ mantención
+general
+ en
+ donde
+ se
+ nivele
+ y
+ compacte
+ el
+ camino
+ proyectado,
+ si
+ es
+ requerido.
+
+_**d.
+ Indicar
+ el
+ ancho
+ que
+ tendrán
+ los
+ caminos
+ a
+ habilitar
+ y
+ el
+ tipo
+ de
+ material
+ o
+ carpeta
+ que**_
+_**contendrá.**_
+
+**RESPUESTA:** Los
+ caminos
+ internos
+ del
+ Proyecto
+ corresponderán
+ a
+ una
+ faja
+ uniforme
+ de
+ 8
+ m
+ de
+ancho.
+ El
+ camino
+ se
+ cubrirá
+ con
+ una
+ capa
+ de
+ estabilizado
+ (grava
+ 1
+ 1⁄2
+ )
+ de
+ no
+ más
+ de
+ 20
+ cm
+ que
+ se
+compactará
+ con
+ rodillo
+ liso
+ vibratorio
+ para
+ lograr
+ la
+ capacidad
+ portante
+ necesaria
+ para
+ el
+transporte
+ de
+ los
+ aerogeneradores.
+
+ Debido
+ a
+ la
+ existencia
+ de
+ caminos
+ en
+ el
+ predio,
+ en
+ el
+ Plano
+ No
+2
+ del
+ Anexo
+ B,
+ se
+ detallan
+ las
+ huellas
+ existentes
+ y
+ los
+ caminos
+ nuevos
+ que
+ construirá
+ el
+ Proyecto,
+todos
+ los
+ cuales
+ cumplirán
+ con
+ las
+ especificaciones
+ descritas
+ anteriormente.
+
+14
+
+_**8.
+ Se
+ solicita
+ al
+ Proponente
+ indicar
+ si
+ al
+ mejorar
+ o
+ construir
+ los
+ caminos
+ que
+ se
+ utilizaran
+ en
+ el**_
+_**proyecto,
+ se
+ consideraran
+ intervenciones
+ y/o
+ modificaciones
+ de
+ cauces
+ naturales,
+ de
+ ser
+ así,
+ se**_
+_**deberán
+ tramitar
+ los
+ permisos
+ correspondientes
+ ante
+ la
+ autoridad
+ competente,
+ en
+ este
+ caso,
+ la**_
+_**Dirección
+ General
+ de
+ Aguas
+ y/o
+ Dirección
+ de
+ Obras
+ Hidráulica,
+ según
+ corresponda.**_
+
+**RESPUESTA:** El
+ titular
+ aclara
+ que
+ los
+ caminos
+ internos
+ del
+ proyecto
+ no
+ intervendrán
+ cauces
+naturales,
+ tal
+ como
+ se
+ puede
+ corroborar
+ en
+ el
+ Plano
+ No
+ 09
+ del
+ Anexo
+ B
+ de
+ la
+ presente
+
+ Adenda
+No1.
+ Los
+ cauces
+ presentes
+ en
+ el
+ predio
+ del
+ proyecto,
+ se
+ ubican
+ en
+ quebradas
+ que
+ se
+ han
+establecidos
+ como
+ zonas
+ de
+ exclusión
+ y
+ no
+ serán
+ intervenidos
+ por
+ obras
+ o
+ actividades
+ del
+Proyecto.
+
+Con
+ respecto
+ al
+ cruce
+ de
+ quebradas
+ por
+ el
+ tendido
+ eléctrico
+ de
+ media
+ tensión
+ del
+ Proyecto,
+ se
+indica
+ que
+ estos
+ atraviesos
+ se
+ realizarán
+ a
+ través
+ de
+ postes
+ dispuestos
+ a
+ cada
+ lado
+ de
+ la
+ cuenca,
+ sin
+instalar
+ postes
+ dentro
+ de
+ ella.
+ Esto
+ implica
+ hacer
+ un
+ vano
+ de
+ aproximadamente
+ 100
+ metros
+ en
+ los
+3
+ cruces
+ identificados,
+ de
+ acuerdo
+ a
+ la
+ siguiente Figura 1-1 .
+
+15
+
+**Figura
+ 1-­‐1** **Detalle
+ ubicación
+ cruces
+ de
+ quebradas
+ LT
+ media
+ tenisón
+ del
+ Proyecto**
+
+Fuente:
+ Elaboración
+ propia
+
+Por
+ otra
+ parte,
+ aún
+ cuando
+ no
+ se
+ intervienen
+ las
+ quebradas,
+ la
+ norma
+ NSeg
+ 5
+ En.71 _-­‐
+ Instalaciones_
+_Eléctricas
+ de
+ Corrientes
+ Fuertes_,
+ exige
+ distancia
+ libre
+ mínima
+ entre
+ árboles
+ y
+ conductores
+ de
+ 5m.
+Para
+ estos
+ atraviesos
+ de
+ 100
+ m
+ de
+ largo,
+ la
+ flecha
+ (caída
+ máxima
+ de
+ la
+ línea
+ por
+ efecto
+ de
+ la
+gravedad)
+ estimada
+ es
+ menor
+ a
+ 4
+ m.
+ Por
+ lo
+ anterior,
+ al
+ usar
+ postes
+ de
+ altura
+ útil
+ de
+ 15m,
+ la
+ línea
+permanecerá
+ por
+ lo
+ menos
+ 11
+ m
+ sobre
+ el
+ nivel
+ del
+ suelo
+ de
+ los
+ postes
+ por
+ lo
+ que
+ es
+ factible
+realizar
+ un
+ manejo
+ de
+ la
+ vegetación
+ de
+ la
+ franja
+ para
+ mantenerla
+ a
+ más
+ 5
+ m
+ de
+ los
+ conductores,
+ sin
+necesidad
+ de
+ su
+ corta
+ o
+ intervención
+ (Figura
+ 1-­‐2).
+
+16
+
+**Figura
+ 1-­‐2** **Detalle
+ cruce
+ de
+ quebradas
+ LT
+ media
+ tensión**
+
+Fuente:
+ Elaboración
+ propia
+
+Mayores
+ detalles
+ en
+ el
+ Plano
+ No
+ 10
+ del
+ Anexo
+ B.
+
+_**9.
+ Se
+ solicita
+ al
+ Proponente
+ precisar
+ las
+ acciones
+ que
+ adoptará
+ para
+ evitar
+ que
+ se
+ inicien**_
+_**procesos
+ erosivos
+ del
+ suelo,
+ debido
+ al
+ escurrimiento
+ superficial
+ originado
+ por
+ las
+ aguas
+ lluvias,**_
+_**considerando
+ que
+ los
+ caminos
+ compactados
+ reducen
+ la
+ infiltración
+ afectando
+ las
+ características**_
+_**físicas,
+ químicas
+ y
+ mineralógicas
+ del
+ suelo
+ del
+ sector.**_
+
+RESPUESTA:
+ La
+ medida
+ de
+ diseño
+ que
+ adoptará
+ el
+ Proyecto
+ para
+ evitar
+ la
+ erosión
+ del
+ suelo
+producto
+ del
+ escurrimiento
+ superficial
+ de
+ aguas
+ lluvias,
+ consiste
+ en
+ el
+ manejo
+ de
+ las
+ aguas
+ a
+ través
+de
+ canales
+ perimetrales
+ en
+ los
+ caminos
+ internos
+ del
+ proyecto
+ ( Figura 1-3 ).
+ Estos
+ canales
+ tendrán
+una
+ sección
+ típica
+ de
+ 70
+ x
+ 30
+ cms
+ con
+ una
+ pendiente
+ del
+ camino
+ de
+ 7%,
+ los
+ cuales
+ conducirán
+ estas
+aguas
+ lluvias
+ hacia
+ quebradas
+ para
+ su
+ descarga.
+ El
+ detalle
+ de
+ los
+ camino
+ interiores
+ se
+ presenta
+ en
+el
+ Plano
+ No
+ 2
+ y
+ los
+ canales
+ perimetrales
+ propuestos,
+ se
+ aprecian
+ en
+ el
+ Plano
+ No
+ 15,
+ ambos
+ del
+Anexo
+ B
+ de
+ la
+ presente
+ Adenda.
+
+17
+
+**Figura
+ 1-­‐3** **Corte
+ transversal
+ tipo
+ canales
+ perimetrales
+ de
+ caminos
+ evacuación
+ aguas
+ lluvias**
+
+Fuente:
+ Elaboración
+ propia
+
+_**10.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.1.2
+ de
+ la**_
+_**DIA
+ “Línea
+ de
+ transmisión
+ Eléctrica
+ de
+ media
+ tensión”,
+ señalando:**_
+_**a.
+ Velocidad
+ de
+ diseño
+ o
+ nominal
+ (Vn)
+ (m/s);**_
+_**b.
+ Diámetro
+ rotor
+ (m);**_
+_**c.
+ Superficie
+ del
+ rotor
+ (m**_ _**[2]**_ _**).**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ Respecto
+ de
+ los
+ parámetros
+ solicitados
+ para
+ los
+aerogeneradores,
+ éstos
+ son
+ los
+ siguientes:
+
+a.
+ Velocidad
+ de
+ diseño
+ o
+ nominal
+ (Vn)
+ (m/s):
+ 10
+ -
+ 12
+ m/s
+b.
+ Diámetro
+ rotor
+ (m):
+ Hasta
+ 120
+ m
+c.
+ Superficie
+ del
+ rotor
+ (m [2] ):
+ Hasta
+ 10.715
+ m [2]
+
+_**11.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ la
+ Tabla
+ 2-­‐2
+ de
+ la
+ DIA**_
+_**“Resumen
+ características
+ técnicas
+ aerogeneradores
+ del
+ Proyecto”,
+ señalando:**_
+_**a.
+ Función:
+ autoconsumo,
+ transporte,
+ distribución,
+ otro;**_
+_**b.
+ Longitud
+ (m),
+ indicando
+ origen
+ y
+ destino;**_
+_**c.
+ Ancho
+ de
+ las
+ fajas
+ de
+ seguridad
+ y
+ servidumbre
+ (m),
+ indicando
+ el
+ ancho
+ que
+ deber
+ estar**_
+_**descubierto
+ de
+ vegetación
+ o
+ la
+ altura
+ que
+ esta
+ puede
+ tener
+ dentro
+ de
+ la
+ faja;**_
+
+18
+
+_**d.
+ Modo:
+ subterráneo
+ o
+ aéreo,
+ señalando
+ tramos
+ si
+ corresponde;**_
+_**d.1
+ En
+ el
+ caso
+ de
+ tendido
+ subterráneo
+ de
+ la
+ línea:
+ tipo
+ de
+ conducto
+ y
+ profundidad
+ del
+ tendido.**_
+_**d.2
+ En
+ el
+ caso
+ de
+ tendido
+ aéreo
+ de
+ la
+ línea:
+ tipo
+ y
+ descripción
+ de
+ postes
+ o
+ torres,
+ altura
+ de
+ éstos**_
+_**(m)
+ y
+ características
+ del
+ cableado
+ y
+ otros.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ Respecto
+ de
+ la
+ información
+ solicitada
+ para
+ la
+ Línea
+ Eléctrica
+de
+ Media
+ Tensión,
+ a
+ continuación
+ se
+ detalla
+ la
+ información
+ requerida:
+
+a. Función:
+ Transporte
+
+b.
+ Longitud (m), origen y destino:
+ A
+ continuación
+
+ en
+ la Tabla 1-4 se
+ indica
+ la
+ longitud,
+ origen
+ y
+destino
+ de
+ los
+ 2
+ alimentadores
+ que
+ componen
+ la
+ línea
+ eléctrica
+ de
+ media
+ tensión:
+
+**Tabla
+ 1-­‐4** **Características
+ alimentadores
+ PE
+ la
+ Estrella**
+
+1 23
+ Kv 4.694 6218333 257440 6217687 261688
+2 23
+ Kv 4.426 6218333 257431 6216741 260176
+
+Fuente:
+ Elaboración
+ propia
+
+c. Ancho de las fajas de seguridad y servidumbre (m) y ancho que deber estar descubierto de
+vegetación o la altura que esta puede tener dentro de la faja:
+
+ - Ancho de faja de seguridad:
+ 9.4
+ metros
+
+ - Vegetación:
+ Bajo
+ la
+ línea
+ se
+ quitarán
+ los
+ árboles
+ y
+ vegetación
+ para
+ así
+ disminuir
+ la
+posibilidad
+ de
+ contacto
+ con
+ los
+ conductores
+ y
+ para
+ prevenir
+ incendios
+ de
+ manera
+ de
+cumplir
+ con
+ la
+ NSEG
+ 5
+ EN
+ 71
+ para
+ líneas
+ de
+ transporte
+ y
+ distribución
+ de
+ energía.
+ Según
+ lo
+indicado
+ en
+ esta
+ misma
+ norma,
+ alrededor
+ de
+ la
+ línea
+ podrá
+ haber
+ árboles
+ siempre
+ y
+cuando
+ estos
+ se
+ ubiquen
+ a
+ más
+ de
+ 5
+ metros
+ de
+ distancia
+ de
+ las
+ estructuras
+ y
+ conductores.
+Del
+ mismo
+ modo,
+ la
+ vegetación
+ dentro
+ de
+ la
+ faja
+ de
+ servidumbre
+ se
+ mantendrá
+ bajo
+ los
+ 2
+m
+ de
+ altura.
+
+d.
+ Modo:
+
+ - d.1 En el caso de tendido subterráneo de la línea:
+ (tipo
+ de
+ conductor
+ y
+ profundidad
+ del
+tendido)
+
+19
+
+`o` Se
+ utilizará
+ un
+ conductor
+ cubierto
+ de
+ cobre
+ tipo
+ XT
+ 1
+ AWG
+ 25
+ kV,
+ o
+ equivalente,
+
+con
+ capacidad
+ para
+ ser
+ enterrado
+ directamente
+ a
+ tierra.
+ El
+ tendido
+ irá
+aproximadamente
+ a
+ 60
+ cm
+ de
+ profundidad.
+
+ - d.2
+ En el caso de tendido aéreo de la línea:
+ (tipo
+ y
+ descripción
+ de
+ postes
+ o
+ torres,
+ altura
+ de
+éstos
+ (m)
+ y
+ características
+ del
+ cableado
+ y
+ otros)
+
+ Características:
+ Los
+ postes
+ tendrán
+ una
+ altura
+ de
+ 15
+ metros
+ (18
+ metros
+ de
+ largo
+ total
+ y
+3
+ metros
+ enterrados),
+
+ base
+ de
+ hormigón,
+ peso
+ aproximado
+ de
+ 3200
+ kg
+ y
+ coeficiente
+de
+ seguridad
+ 2.
+ La
+ distancia
+ promedio
+ entre
+ postes
+ será
+ de
+ un
+ vano
+ de
+ 100
+ m
+aproximadamente.
+
+ Cableado:
+ Se
+ utilizará
+ un
+ conductor
+ de
+ aluminio
+ desnudo
+ AAAC
+ Flint,
+ de
+ sección:
+ 375
+mm2
+ y
+ con
+ un
+ peso
+ de
+ 1.035
+ kg/km
+
+_**12.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.1.4
+ la
+ DIA**_
+_**“Subestación
+ de
+ transformación
+ eléctrica”,
+ señalando:**_
+_**a.
+ Función
+ de
+ la
+ subestación:
+ concentrar
+ o
+ sumar
+ potencia,
+ elevar
+ o
+ reducir
+ la
+ tensión,
+ otros;**_
+_**b.
+ Superficie
+ (m**_ _**[2]**_ _**);**_
+_**c.
+ Intemperie
+ o
+ interior
+ de
+ edificio;**_
+_**d.
+ Altura
+ máxima
+ de
+ los
+ equipos
+ o
+ del
+ edificio
+ (m);**_
+_**e.
+ Transformadores:
+ número
+ y
+ función;**_
+_**f.
+ Otros
+ equipos
+ que
+ demanden
+ insumos
+ o
+ generen
+ residuos.**_
+
+RESPUESTA:
+ A
+ continuación
+ la
+ información
+ complementaria
+ respecto
+ de
+ la
+ Subestación
+ de
+Transformación
+ eléctrica:
+
+a.
+ Función de la subestación:
+ Elevar
+ tensión.
+b.
+ Superficie (m [2] ):
+ 1
+ ha
+c. Intemperie o interior de edificio:
+ Intemperie
+d.Altura máxima de los equipos o del edificio:
+ La
+ altura
+ máxima
+ de
+ los
+ equipos
+ es
+ de
+ 15
+ m,
+correspondiente
+ a
+ los
+ portales
+ de
+ arremetida
+ de
+ la
+ línea.
+e.
+ Transformadores:
+ 1
+ transformador
+ de
+ poder
+ de
+ 60
+ MVA
+ que
+ elevará
+ la
+ tensión
+ de
+ 23
+ kV
+ a
+ 110
+kV.
+f.
+ Otros equipos que demanden insumos o generen residuos:
+ No
+ aplica.
+
+20
+
+_**13.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.1.5
+ la
+ DIA**_
+_**“Sala
+ de
+ Control
+ y
+ bodega
+ de
+ materiales”,
+ señalando:**_
+_**a.
+ Obras
+ perimetrales:
+ cerco,
+ pantalla
+ vegetal,
+ otras;**_
+_**b.
+ Sistema
+ de
+ impermeabilización
+ de
+ la
+ obra,
+ si
+ corresponde;**_
+_**c.
+ Instrumentos
+ para
+ el
+ registro
+ y
+ control
+ del
+ sistema.**_
+
+RESPUESTA:
+ Se
+ acoge
+ la
+ observación
+ y
+ a
+ continuación
+ la
+ información
+ complementaria
+ respecto
+ de
+la
+ Sala
+ de
+ control
+ y
+ de
+ la
+ bodega
+ de
+ materiales:
+
+a. Obras perimetrales
+ (cerco,
+ pantalla
+ vegetal,
+ otras):
+ La
+ sala
+ de
+ control
+ se
+ ubicará
+ dentro
+ de
+ la
+subestación
+ eléctrica
+ por
+ lo
+ que
+ tendrá
+ el
+ mismo
+ cerco
+ perimetral
+ que
+ ésta
+ última.
+ La
+ bodega
+ de
+materiales
+ no
+ tendrá
+ cerco
+ perimetral,
+ se
+ dispondrán
+ contenedores
+ de
+ 20
+ pies
+ como
+ bodegas.
+
+b.
+ Sistema de impermeabilización de la obra
+ (si
+ corresponde):
+ No
+ aplica
+
+c.
+ Instrumentos para el registro y control del sistema:
+ El
+ medidor
+ será
+ del
+ tipo
+ bidireccional
+ de
+ 4
+cuadrantes,
+ clase
+ 0,2,
+ modelo
+ ION8600
+ o
+ equivalente.
+ El
+ sistema
+ de
+ control
+ será
+ un
+ SCADA
+provisto
+ por
+ el
+ fabricante
+ de
+ los
+ aerogeneradores.
+ El
+ sistema
+ permitirá
+ monitorear
+ la
+ operación
+ en
+tiempo
+ real
+ y
+ llevar
+ un
+ registro
+ de
+ las
+ mediciones
+ de
+ los
+ sensores
+ y
+ medidores
+ del
+ parque.
+
+_**14.
+ Se
+ solicita
+ al
+ Proponente
+ corregir
+ coordenada
+ c)
+ referente
+ al
+ área
+ temporal
+ de
+ residuos
+ de
+ la**_
+_**Tabla
+ 2-­‐3
+ “Coordenadas
+ de
+ instalación
+ de
+ faenas
+ Proyecto”,
+ dado
+ que
+ la
+ coordenada
+ Este**_
+_**presenta
+ 7
+ dígitos.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ a
+ continuación
+ se
+ presenta
+ la Tabla 1-5 con
+ la
+ ubicación
+corregida
+ de
+ las
+ obras
+ temporales
+ del
+ Proyecto:
+
+**Tabla
+ 1-­‐5** **Coordenadas
+ UTM
+ Instalaciones
+ temporales
+ del
+ Proyecto**
+
+|Coordenadas UTM WGS 84 H19|Col2|Col3|
+|---|---|---|
+|**VÉRTICE**|**ESTE**|**NORTE**|
+|**ÁREA DE ACOPIO DE MATERIALES**|**ÁREA DE ACOPIO DE MATERIALES**|**ÁREA DE ACOPIO DE MATERIALES**|
+|A|257346|6218257|
+|B|257380|6218267|
+|C|257394|6218214|
+
+21
+
+|Coordenadas UTM WGS 84 H19|Col2|Col3|
+|---|---|---|
+|**VÉRTICE**|**ESTE**|**NORTE**|
+|D|257361|6218205|
+|**INSTALACIÓN DE FAENAS**|**INSTALACIÓN DE FAENAS**|**INSTALACIÓN DE FAENAS**|
+|A|257317|6218306|
+|B|257365|6218320|
+|C|257380|6218267|
+|D|257331|6218253|
+|**ÁREA TEMPORAL DE RESIDUOS**|**ÁREA TEMPORAL DE RESIDUOS**|**ÁREA TEMPORAL DE RESIDUOS**|
+|A|257352|6218327|
+|B|257362|6218330|
+|C|257365|6218320|
+|D|257355|6218318|
+
+Fuente:
+ Elaboración
+ propia
+
+_**15.
+ Se
+ solicita
+ al
+ Proponente
+ indicar
+ las
+ coordenadas
+ (Proyección
+ UTM
+ huso
+ 19s,
+ datum
+ WGS-­‐84)**_
+_**de
+ la
+ Bodega
+ de
+ acopio
+ temporal
+ de
+ residuos
+ peligrosos
+ declarada
+ en
+ el
+ punto
+ 2.2.1
+ “Partes
+ y**_
+_**obras
+ temporales,
+ fase
+ construcción”
+ de
+ la
+ DIA,
+ e
+ incorporarla
+ a
+ la
+ cartografía
+ solicita
+ en**_
+_**consulta
+ No
+ 4
+ del
+ presente
+ ICSARA.**_
+
+**RESPUESTA** :
+ Las
+ coordenadas
+ de
+ los
+ vértices
+ del
+ área
+ de
+ acopio
+ temporal
+ de
+ residuos
+ peligrosos
+,
+bodega
+ de
+ RESPEL,
+ durante
+ la
+ fase
+ de
+ construcción,
+ son
+ las
+ siguientes
+ ( Tabla 1-6 ):
+
+**Tabla
+ 1-­‐6** **Ubicación
+ bodega
+ RESPEL
+ fase
+ de
+ construcción**
+
+|BODEGA RESPEL (Coordenadas UTM WGS 84 H19)|Col2|Col3|
+|---|---|---|
+|**VÉRTICE**|**ESTE**|**NORTE**|
+|A|257362|6218329|
+|B|257365|6218321|
+
+22
+
+|BODEGA RESPEL (Coordenadas UTM WGS 84 H19)|Col2|Col3|
+|---|---|---|
+|**VÉRTICE**|**ESTE**|**NORTE**|
+|C|257355|6218318|
+|D|257353|6218327|
+
+Fuente:
+ Elaboración
+ propia
+
+De
+ igual
+ manera,
+ la
+ ubicación
+ de
+ la
+ bodega
+ RESPEL
+ del
+ proyecto
+ en
+ su
+ fase
+ de
+ construcción,
+ se
+presenta
+ en
+ el
+ Plano
+ No
+ 03
+ del
+ Anexo
+ B
+ de
+ la
+ presente
+ Adenda.
+
+_**16.
+ Se
+ solicita
+ al
+ Proponente
+ indicar
+ la
+ cantidad
+ de
+ grupos
+ electrógenos
+ que
+ utilizará
+ para
+ la
+ fase**_
+_**de
+ construcción
+ del
+ proyecto,
+ potencia
+ total
+ instalada
+ y
+ lugar
+ de
+ ubicación
+ de
+ estos
+ equipos,**_
+_**incorporándolos
+ a
+ la
+ cartografía
+ solicita
+ en
+ consulta
+ No
+ 4
+ del
+ presente
+ ICSARA.**_
+
+**RESPUESTA:** Tal
+ como
+ fue
+ indicado
+ en
+ la
+ DIA,
+ se
+ considera
+ la
+ utilización
+ de
+ 2
+ grupos
+ electrógenos
+móviles
+ de
+ 15
+ kVa
+ para
+ abastacer
+ de
+ energía
+ a
+ los
+ distintos
+ frentes
+ de
+ trabajo.
+
+Respecto
+ a
+ su
+ ubicación
+ específica,
+ éstos
+ se
+ utilizan
+ en
+ la
+ fase
+ de
+ construcción
+ para
+ entregar
+energía
+ temporalmente
+ a
+ los
+ equipos
+ requeridos
+ para
+ el
+ montaje
+ de
+ cada
+ aerogenerador,
+ durante
+la
+ puesta
+ en
+ marcha
+ mecánica
+ y
+ eléctrica
+ cuando
+ todavía
+ no
+ hay
+ energía
+ de
+ la
+ red.
+ Al
+ ir
+desplazándolos
+ en
+ cada
+ plataforma
+ de
+ izado,
+ no
+
+ es
+ posible
+ identificar
+ un
+ lugar
+ determinado
+ en
+ el
+parque.
+ Sin
+ embargo
+ a
+ modo
+ referencial,
+ se
+ entrega
+ a
+ continuación
+ una
+ tabla
+ con
+ las
+ coordenadas
+temporales
+ en
+ dónde
+ se
+ irán
+ ubicando
+ los
+ grupos
+ electrógenos,
+ de
+ acuerdo
+ a
+ las
+ plataformas
+ de
+izado
+ de
+ cada
+ aerogenerador.
+
+**Tabla
+ 1-­‐7** **Ubicación
+ rotativa
+ grupos
+ electrógenos
+ fase
+ construcción**
+
+|UBICACIÓN TEMPORAL GRUPOS ELECTRÓGENOS (Coordenadas UTM WGS 84 H19)|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|**VÉRTICE**|**ESTE**|**NORTE**|**VÉRTICE**|**ESTE**|**NORTE**|
+|1|257391|6218150|11|261407|6217739|
+|2|257786|6217973|12|261735|6217655|
+|3|258299|6218023|13|257508|6216962|
+|4|258937|6218001|14|257930|6216860|
+|5|259416|6218059|15|258261|6216932|
+|6|259741|6217845|16|258597|6216885|
+|7|260085|6217822|17|258942|6216823|
+|8|260417|6217790|18|259277|6216616|
+
+23
+
+|9|260748|6217766|19|259605|6216557|
+|---|---|---|---|---|---|
+|10|261077|6217721|20|260236|6216756|
+
+Fuente:
+ Elaboración
+ propia
+
+_**17.
+ Se
+ solicita
+ al
+ Proponente
+ indicar
+ las
+ coordenadas
+ (Proyección
+ UTM
+ huso
+ 19s,
+ datum
+ WGS-­‐84)**_
+_**del
+ área
+ de
+ lavado
+ de
+ canoas
+ de
+ los
+ camiones
+ mixer
+ declaradas
+ en
+ el
+ punto
+ 2.2.1.3
+ “Área
+ de**_
+_**lavado
+ de
+ camiones
+ mixer”
+ de
+ la
+ DIA,
+ además
+ de
+ la
+ cantidad
+ estimada
+ (m**_ _**[3]**_ _**)
+ de
+ hormigón
+ a**_
+_**utilizar
+ durante
+ la
+ fase
+ de
+ construcción;
+ incorporando
+ esta
+ obra
+ a
+ la
+ cartografía
+ solicita
+ en**_
+_**consulta
+ No
+ 4
+ del
+ presente
+ ICSARA**_ _._
+
+**RESPUESTA:** A
+ contnuación,
+ en
+ la
+ Tabla
+ 1-­‐8
+ a
+ continuación
+ se
+ presenta
+ la
+ ubicación
+ referencial
+ del
+área
+ de
+ lavado
+ de
+ camiones
+ mixer
+ descrito
+ en
+ el
+ acápite
+ 2.2.1.3
+ de
+ la
+ DIA,
+ el
+ cual
+ estará
+ ubicada
+ a
+un
+ costado
+ del
+ patio
+ de
+ residuos
+ temporales
+ de
+ la
+ instalación
+ de
+ faenas.
+
+**Tabla
+ 1-­‐8** **Ubicación
+ área
+ lavado
+ camiones
+ mixer**
+
+|ÁREA LAVADO CAMIOENS MIXER (Coordenadas UTM WGS 84 H19)|Col2|Col3|
+|---|---|---|
+|**VÉRTICE**|**ESTE**|**NORTE**|
+|A|257349|6218337|
+|B|257358|6218339|
+|C|257351|6218329|
+|D|257361|6218331|
+
+Fuente:
+ Elaboración
+ propia
+
+_**18.
+ En
+ relación
+ a
+ lo
+ señalado
+ por
+ el
+ Proponente
+ en
+ el
+ punto
+ 2.2.1.4
+ de
+ la
+ DIA
+ “Manejo
+ preventivo**_
+_**de
+ componentes
+ ambientales”,
+ se
+ solicita
+ lo
+ siguiente:**_
+_**a.
+ Inducción
+ a
+ trabajadores:
+ Se
+ informa
+ al
+ Proponente
+ que
+ para
+ efectos
+ de
+ seguimiento
+ del**_
+_**proyecto
+ como
+ medio
+ de
+ verificación
+ de
+ esta
+ acción,
+ deberá
+ incluir
+ el
+ reporte
+ con
+ el
+ responsable**_
+_**de
+ la
+ inducción,
+ la
+ lista
+ de
+ asistencia,
+ y
+ una
+ evaluación
+ posterior
+ al
+ trabajador
+ que
+ se
+ le
+ realizará**_
+_**la
+ inducción.
+ Dicha
+ información
+ deberá
+ estar
+ disponible
+ en
+ la
+ instalación
+ de
+ faena
+ para
+ efectos**_
+_**de
+ la
+ fiscalización
+ del
+ proyecto.
+ Además
+ se
+ solicita
+ comprometerse
+ a
+ realizarla
+ antes
+ en
+ la**_
+_**recepción
+ de
+ cargo
+ por
+ parte
+ de
+ los
+ trabajadores.**_
+
+24
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ como
+ medio
+ de
+ verificación
+ de
+ la
+ induccción
+ a
+ los
+trabajadores
+ de
+ la
+ fase
+ de
+ construcción
+ del
+ Proyecto,
+ el
+ encargado
+ de
+ medioambiente
+ de
+ la
+ faena
+deberá
+ completar
+ un
+ registro
+ el
+ cual
+ contendrá,
+ como
+ mínimo,
+ los
+ contenidos
+ indicados
+ a
+continuación
+ en
+ la
+ siguiente
+ tabla.
+ Estos
+ reportes
+ estarán
+ siempre
+ disponibles
+ en
+ la
+ oficina
+adminstrativa
+ de
+ la
+ instalación
+ de
+ faenas,
+ para
+ labores
+ de
+ fiscalización
+ de
+ la
+ autoridad
+competente.
+
+**Tabla
+ 1-­‐9** **Ficha
+ registro
+ capacitaciones
+ perosonal
+ fase
+ de
+ construcción**
+
+**Encargado** **Actividad:** _**Inducción
+ manejo
+ flora
+ y
+ fauna**_
+
+**medioambiente:**
+
+**Fecha:** **Encargado**
+**capacitación:**
+
+**Profesión:**
+
+No trabajadores
+capacitación
+
+Contenidos
+impartidos:
+
+Pauta de
+evaluación a
+trabajador:
+
+Fecha de
+evaluación
+ expost:
+
+Comentarios:
+
+Lista
+ de
+ asistencia: Fotografías:
+
+Ponderación:
+
+Fuente:
+ Elaboración
+ propia
+
+_**b.
+ Reuniones
+ con
+ la
+ comunidad
+ más
+ cerca
+ para
+ informar
+ acerca
+ de
+ los
+ avances
+ del
+ proyecto:
+ Se**_
+_**informa
+ al
+ Proponente
+ que
+ para
+ efectos
+ de
+ seguimiento
+ del
+ proyecto
+ como
+ medio
+ de
+ verificación**_
+_**de
+ esta
+ acción,
+ la
+ calendarización,
+ el
+ reporte
+ y
+ los
+ medios
+ de
+ verificación
+ de
+ dichas
+ reuniones**_
+_**deberán
+ ser
+ enviadas
+ a
+ la
+ Superintendencia
+ del
+ Medio
+ Ambiente
+ en
+ un
+ plazo
+ no
+ superior
+ a
+ un**_
+_**mes
+ de
+ realizada
+ estas
+ actividades,
+ las
+ cuales
+ deberán
+ comenzar
+ previo
+ al
+ inicio
+ de
+ las
+ obras
+ y**_
+_**acciones
+ del
+ proyecto
+ y
+ durante
+ la
+ ejecución
+ de
+ la
+ etapa
+ de
+ construcción.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ como
+ medio
+ de
+ verificación
+ de
+ las
+ reuniones
+ con
+ la
+comunidad
+ durante
+ la
+ fase
+ de
+ construcción
+ del
+ Proyecto,
+ al
+ igual
+ que
+ en
+ el
+ caso
+ anterior,
+ el
+encargado
+ de
+ medioambiente
+ de
+ la
+ faena
+ deberá
+ completar
+ un
+ registro
+ el
+ cual
+ contendrá,
+ como
+mínimo,
+ los
+ contenidos
+ indicados
+ a
+ continuación
+ en
+ la
+ siguiente
+ tabla.
+ Estos
+ reportes
+ serán
+
+25
+
+enviados
+ a
+ la
+ SMA
+ durante
+ los
+ primeros
+ 30
+ días
+ contados
+ desde
+ la
+ realización
+ de
+ cada
+ reunión,
+además
+ de
+ mantener
+ una
+ copia
+ en
+ la
+ instalación
+ de
+ faenas
+ del
+ Proyecto.
+ El
+ titular
+ se
+ compromete
+a
+ enviar
+ una
+ copia
+ de
+ este
+ registro,
+ a
+ modo
+ de
+ acta,
+ a
+ los
+ represetantes
+ de
+ la
+ comunidad
+involucrada,
+ dentro
+ del
+ plazo
+ de
+ 30
+ días.
+
+**Tabla
+ 1-­‐10** **Ficha
+ registro
+ reuniones
+ con
+ la
+ comunidad
+ fase
+ de
+ construcción**
+
+**Encargado** **Actividad:** _**Reunión
+ sector
+ xxx**_
+
+**medioambiente:**
+
+**Fecha
+ y
+ lugar:** **Encargado**
+**presentación:**
+
+**Profesión:**
+
+No
+ asistentes Lista
+ de
+ asistencia: Incluir
+ Fotografías
+Temas
+ a
+ tratar:
+
+Consultas
+comunidad:
+
+Compromisos
+adquiridos:
+
+Comentarios:
+
+Respuesta
+ PE
+ La
+ Estrella:
+
+Fuente:
+ Elaboración
+ propia
+
+_**c.
+ Inducción
+ de
+ trabajadores
+ sobre
+ flora
+ y
+ fauna:
+ Se
+ informa
+ al
+ Proponente
+ que
+ para
+ efectos
+ de**_
+_**seguimiento
+ del
+ proyecto
+ como
+ medio
+ de
+ verificación
+ de
+ esta
+ acción,
+ deberá
+ incluir
+ el
+ reporte**_
+_**con
+ el
+ responsable
+ de
+ la
+ inducción,
+ la
+ lista
+ de
+ asistencia,
+ y
+ una
+ evaluación
+ posterior
+ al
+ trabajador**_
+_**que
+ se
+ le
+ realizará
+ la
+ inducción.
+ Dicha
+ información
+ deberá
+ estar
+ disponible
+ en
+ la
+ instalación
+ de**_
+_**faena
+ para
+ efectos
+ de
+ la
+ fiscalización
+ del
+ proyecto.
+ Además
+ se
+ solicita
+ comprometerse
+ a**_
+_**realizarla
+ antes
+ en
+ la
+ recepción
+ de
+ cargo
+ por
+ parte
+ de
+ los
+ trabajadores.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ para
+ este
+ caso
+ se
+ procederá
+ de
+ la
+ misma
+ manera
+ a
+ lo
+descrito
+ en
+ respuesta
+ a)
+ anterior.
+
+_**d.
+ Inducción
+ de
+ trabajadores
+ sobre
+ el
+ contexto
+ cultural
+ en
+ que
+ se
+ desarrolla
+ el
+ proyecto:
+ Se**_
+_**informa
+ al
+ Proponente
+ que
+ para
+ efectos
+ de
+ seguimiento
+ del
+ proyecto
+ como
+ medio
+ de
+ verificación**_
+_**de
+ esta
+ acción,
+ deberá
+ incluir
+ el
+ reporte
+ con
+ el
+ responsable
+ de
+ la
+ inducción,
+ la
+ lista
+ de
+ asistencia,**_
+
+26
+
+_**y
+ una
+ evaluación
+ posterior
+ al
+ trabajador
+ que
+ se
+ le
+ realizará
+ la
+ inducción.
+ Dicha
+ información**_
+_**deberá
+ ser
+ enviados
+ al
+ Consejo
+ de
+ Monumentos
+ Nacionales
+ con
+ copia
+ a
+ la
+ Superintendencia
+ del**_
+_**Medio
+ Ambiente
+ y
+ en
+ un
+ plazo
+ no
+ superior
+ a
+ un
+ mes
+ de
+ realizada
+ la
+ actividad,
+ la
+ cual
+ debe
+ ser**_
+_**ejecutada
+ previo
+ al
+ inicio
+ de
+ la
+ etapa
+ de
+ construcción.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ para
+ este
+ caso
+ se
+ procederá
+ de
+ la
+ misma
+ manera
+ a
+ lo
+descrito
+ en
+ respuesta
+ a)
+ anterior.
+ Esta
+ inducción
+ sobre
+ el
+ Patrimonio
+ Cultural
+ local
+ será
+ realizada
+por
+ profesional
+ competente
+ y
+ una
+ copia
+ de
+ esta
+ ficha
+ de
+ registro
+ será
+ enviada
+ durante
+ los
+primeros
+ 30
+ días
+ de
+ realizada
+ la
+ actividad
+ al
+ Consejo
+ de
+ Monumentos
+ Nacionales
+ con
+ copia
+ a
+ la
+Superintendencia
+ del
+ Medio
+ Ambiente.
+
+_**19.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.2.2.1
+ la
+ DIA**_
+_**“Preparación
+ del
+ terreno
+ y
+ habilitación
+ de
+ caminos
+ de
+ acceso”,
+ señalando:**_
+_**a.
+ En
+ relación
+ a
+ la
+ extracción
+ de
+ la
+ capa
+ vegetal
+ del
+ suelo:**_
+
+_**a.1
+ Volumen
+ de
+ capa
+ vegetal
+ de
+ suelo
+ a
+ extraer
+ (m**_ _**[3]**_ _**);**_
+**RESPUESTA:** Se
+ estima
+ que
+ la
+ capa
+ vegetal
+ en
+ el
+ terreno
+ tiene
+ un
+ espesor
+ de
+ aproximadamente
+ 10
+cm,
+ y
+ será
+ removida
+ de
+ los
+ caminos,
+ plataformas,
+ subestación,
+ instalación
+ de
+ faenas
+ y
+ otras
+ obras
+temporales.
+ El
+ volumen
+ de
+ capa
+ vegetal
+ estimado
+ a
+ remover
+ son
+ 13.880
+ m [3
+ ] aproximadamente.
+
+_**a.2
+ Superficie
+ de
+ capa
+ vegetal
+ de
+ suelo
+ extraer;**_
+**RESPUESTA:** La
+ superficie
+ a
+ remover
+ corresponde
+ a
+ la
+ suma
+ de
+ caminos
+ interiores,
+ plataformas,
+subestación
+ y
+ obras
+ temporales
+ lo
+ que
+ equivale
+ 138.800
+ m [2]
+
+_**a.3
+ Método
+ de
+ intervención
+ y
+ manejo,
+ por
+ ejemplo,
+ procedimiento
+ y
+ lugar
+ de
+ acopio
+ de
+ la
+ capa**_
+_**vegetal
+ para
+ su
+ uso
+ posterior,
+ lugar
+ de
+ acopio
+ temporal;**_
+**RESPUESTA:** Antes
+ de
+ nivelar
+ y
+ compactar
+ el
+ terreno
+ se
+ removerá
+ la
+ capa
+ vegetal
+ con
+retroexcavadoras
+ y
+ se
+ acumulará
+ a
+ un
+ costado
+ del
+ terreno
+ intervenido.
+ Se
+ propone
+ que
+ en
+ el
+terreno
+ se
+ habilite
+ una
+ zona
+ de
+ acopio
+ donde
+ se
+ lleve
+ esta
+ tierra
+ vegetal
+ en
+ camiones
+ para
+ su
+posterior
+ uso.
+
+_**a.4
+ Destino:
+ si
+ se
+ dará
+ un
+ uso
+ a
+ la
+ capa
+ vegetal
+ de
+ suelo
+ o
+ constituirá
+ un
+ residuo.**_
+**RESPUESTA:** Se
+ propone
+ la
+ reutilización
+ de
+ la
+ capa
+ vegetal
+ en
+ otros
+ sectores
+ del
+ terreno.
+
+_**b.
+ En
+ relación
+ al
+ movimiento
+ de
+ tierra:**_
+_**b.1
+ Cantidad
+ de
+ material
+ a
+ remover
+ (m**_ _**[3]**_ _**);**_
+
+27
+
+**RESPUESTA:** En
+ promedio
+ se
+ retirará
+ una
+ capa
+ de
+ 10-­‐20
+ cm
+ dependiendo
+ del
+ desnivel
+ en
+ el
+ área
+de
+ la
+ subestación,
+ obras
+ temporales
+ y
+ plataformas
+ por
+ lo
+ que
+ aproximadamente
+ se
+ removerán
+6.280
+ m [3
+ ] de
+ tierra.
+
+_**b.2
+ Porcentaje
+ (%)
+ de
+ finos
+ y
+ porcentaje
+ (%)
+ de
+ humedad
+ del
+ material;**_
+**RESPUESTA:** Esta
+ información
+ será
+ obtenida
+ de
+ la
+ ingeniería
+ de
+ detalle
+ de
+ caminos.
+
+_**b.3
+ Destino
+ del
+ material:
+ uso
+ en
+ la
+ obra
+ y/o
+ residuo
+ (asociar
+ con
+ residuos
+ de
+ la
+ construcción).**_
+**RESPUESTA:** La
+ tierra
+ removida
+ se
+ reutilizará
+ como
+ material
+ de
+ relleno
+ en
+ el
+ mismo
+ proyecto.
+
+_**20.
+ En
+ función
+ de
+ lo
+ indicado
+ en
+ el
+ Anexo
+ No
+ 3
+ de
+ la
+ DIA
+ “Estimación
+ de
+ Emisiones**_
+_**Atmosféricas”,
+ sobre
+ humectación,
+ y
+ el
+ porcentaje
+ de
+ eficiencia
+ declarado
+ para
+ disminuir
+ las**_
+_**emisiones
+ de
+ PM10
+ deberá
+ indicar:
+ en
+ qué
+ etapa
+ del
+ proyecto
+ ejecutará
+ la
+ acción,
+ relación
+ de
+ las**_
+_**partes
+ y/o
+ obras
+ del
+ proyecto
+ que
+ se
+ vinculan
+ a
+ desarrollar
+ dicha
+ acción,
+ dónde
+ ejecutará
+ la**_
+_**acción,
+ cuándo
+ será
+ implementado,
+ cronograma
+ de
+ implementación
+ de
+ la
+ acción,
+ frecuencia**_
+_**diaria
+ de
+ riego
+ que
+ se
+ consideró
+ para
+ estimar
+ la
+ eficiencia
+ declarada
+ en
+ el
+ Anexo
+ de
+ Estimación**_
+_**de
+ Emisiones
+ Atmosféricas,
+ tiempo
+ de
+ riego
+ en
+ cada
+ evento,
+ extracción
+ del
+ recurso
+ hídrico
+ para**_
+_**realizar
+ la
+ humectación,
+ tipo
+ de
+ equipo
+ y/o
+ vehículo
+ a
+ utilizar
+ para
+ llevar
+ a
+ cabo
+ la
+ acción,**_
+_**método
+ de
+ verificación
+ que
+ permitan
+ objetivamente
+ que
+ se
+ cumplió
+ con
+ lo
+ anterior.**_
+
+**RESPUESTA:** El
+ titular
+ aclara,
+ tal
+ como
+ aparece
+ en
+ el
+ Anexo
+ Estimación
+ de
+ Emisiones,
+ que
+ la
+estimación
+ de
+ emisiones
+ de
+ la
+ fase
+ de
+ construcción
+ del
+ proyecto
+ se
+ realizó
+ bajo
+ el
+ supuesto
+ de
+**modelación
+ sin
+ medidas
+ de
+ abatimiento**,
+ por
+ lo
+ que
+ el
+ total
+ de
+ MP10
+ y
+ MP2,5
+ contituye
+ la
+ peor
+condición
+ prevista
+ ( Tabla 1-11 )
+ y
+ no
+ se
+ ha
+ utilizado
+ ningún
+ factor
+ para
+ aumentar
+ la
+ eficiencia.
+
+**Tabla
+ 1-­‐11** **Estimación
+ de
+ emisiones
+ de
+ material
+ particulado
+ fase
+ de
+ construcción**
+
+|EMISIÓN|VALOR|UNIDAD|
+|---|---|---|
+|Total fase construcción sin medidas de abatimiento MP10|**7,99260967**|t/fase|
+|Total fase construcción sin medidas de abatimiento MP2,5|**0,867772135**|t/fase|
+|Total estimado diario fase construcción MP10<br>2|66,605|Kg/día|
+
+Fuente:
+ Elaboración
+ propia
+
+2 Aunque
+ el
+ total
+ de
+ la
+ construcción
+ es
+ 10
+ meses,
+ se
+ considerará
+ 120
+ días
+ el
+ tiempo
+ donde
+ efectivamente
+ se
+ podrían
+ producir
+ las
+emisiones
+ de
+ MP 10 y
+ MP 2,5 .
+ De
+ esta
+ forma
+ se
+ concentran
+ las
+ emisiones
+ y
+ se
+ realiza
+ un
+ análisis
+ más
+ conservador
+ de
+ esta
+ producción.
+
+28
+
+Las
+ emisiones
+ atmosféricas
+ son
+ menores
+ y
+ puntuales,
+ circunscritas
+ exclusivamente
+ a
+ la
+ fase
+ de
+construcción
+ que
+ durará
+ 12
+ meses
+ y
+ a
+ la
+ fase
+ de
+ cierre
+ que
+ durará
+ 6
+ meses.
+
+_**21.
+ En
+ función
+ de
+ lo
+ indicado
+ en
+ el
+ Anexo
+ No
+ 3
+ de
+ la
+ DIA
+ “Estimación
+ de
+ Emisiones
+ Atmosféricas”,**_
+_**sobre
+ instalación
+ de
+ malla
+ Raschel,
+ y
+ el
+ porcentaje
+ de
+ eficiencia
+ declarado
+ para
+ disminuir
+ las**_
+_**emisiones
+ de
+ PM10
+ deberá
+ indicar:
+ en
+ qué
+ etapa
+ del
+ proyecto
+ ejecutará
+ la
+ acción,
+ relación
+ de
+ las**_
+_**partes
+ y/o
+ obras
+ del
+ proyecto
+ que
+ se
+ vinculan
+ a
+ desarrollar
+ dicha
+ acción,
+ dónde
+ ejecutará
+ la**_
+_**acción,
+ cuándo
+ será
+ implementado,
+ cronograma
+ de
+ implementación
+ de
+ la
+ acción,
+ qué
+ se**_
+_**consideró
+ para
+ estimar
+ la
+ eficiencia
+ declarada
+ en
+ el
+ Anexo
+ de
+ Estimación
+ de
+ Emisiones**_
+_**Atmosféricas,
+ método
+ de
+ verificación
+ que
+ permitan
+ objetivamente
+ que
+ se
+ cumplió
+ con
+ lo**_
+_**anterior.**_
+
+**RESPUESTA:** Al
+ igual
+ que
+ en
+ la
+ respuesta
+ anterior,
+ se
+ reitera
+ que
+ no
+ se
+ ha
+ utilizado
+ ninguna
+medida
+ de
+ abatimiento
+ para
+ calcular
+ la
+ estimación
+ de
+ emisiones,
+ y
+ por
+ lo
+ tanto
+ no
+ se
+ hará
+ uso
+ de
+malla
+ Raschel,
+ por
+ lo
+ que
+ las
+ emisiones
+ declaradas
+ en
+ la Tabla 1-11 anterior
+ constituyen
+ las
+emisiones
+ totales
+ de
+ material
+ particulado
+ del
+ Proyecto
+ en
+ su
+ fase
+ de
+ construcción.
+
+_**22.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.2.2.3
+ la
+ DIA**_
+_**“Construcción
+ de
+ las
+ fundaciones
+ de
+ los
+ aerogeneradores”,
+ señalando:**_
+_**a.
+ Superficie
+ de
+ las
+ fundaciones
+ y
+ plataformas
+ (m**_ _**[2]**_ _**);**_
+_**b.
+ Espesor
+ del
+ concreto
+ de
+ fundaciones
+ y
+ plataformas
+ (m).**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ Respecto
+ a
+ la
+ información
+ relativa
+ a
+ la
+ Construcción
+ de
+ las
+fundaciones
+ de
+ los
+ aerogeneradores,
+ a
+ continuación
+ se
+ complementa
+ la
+ misma:
+
+a. Superficie de las fundaciones y plataformas (m [2] ):
+ Las
+ fundaciones
+ tendrán
+ una
+ superficie
+ de
+hasta
+ 330
+ m [2] cada
+ una,
+ mientras
+ que
+ las
+ plataformas
+ tendrán
+ una
+ superficie
+ de
+ 2.400
+ m [2] cada
+ una.
+
+b.
+ Espesor del concreto de fundaciones y plataformas (m):
+ Las
+ fundaciones
+ de
+ los
+ aerogeneradores
+tienen
+ una
+ estructura
+ cónica,
+ por
+ lo
+ que
+ el
+ espesor
+ del
+ concreto
+ de
+ las
+ mismas
+ van
+ desde
+ los
+ 0,70
+metros
+ en
+ su
+ parte
+ exterior,
+ hasta
+ los
+ 2,70
+ metros
+ en
+ la
+ parte
+ cercana
+ al
+ anclaje
+ de
+ la
+ torre.
+
+ Por
+ su
+parte,
+ las
+ plataformas
+ no
+ llevan
+ concreto,
+ sino
+ una
+ capa
+ de
+ gravilla
+ de
+ aproximadamente
+ 10
+ cm
+ de
+espesor,
+ lo
+ cual
+ ya
+ ha
+ sido
+ contabilizado
+ en
+ las
+ cubicaciones
+ de
+ material
+ de
+ estabilizado
+ para
+ las
+plataformas
+ entregadas
+ en
+ la
+ DIA.
+
+29
+
+_**23.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.2.2.5
+ la
+ DIA**_
+_**“Construcción
+ línea
+ de
+ transmisión
+ eléctrica
+ de
+ media
+ tensión”,
+ señalando:**_
+_**a.
+ Longitud
+ (m),
+ indicando
+ origen
+ y
+ destino;**_
+_**b.
+ Ancho
+ de
+ las
+ fajas
+ de
+ seguridad
+ y
+ servidumbre
+ (m),
+ indicando
+ el
+ ancho
+ que
+ deber
+ estar**_
+_**descubierto
+ de
+ vegetación
+ o
+ la
+ altura
+ que
+ esta
+ puede
+ tener
+ dentro
+ de
+ la
+ faja;**_
+_**c.
+ Tensión
+ nominal
+ de
+ la
+ línea
+ (kV);**_
+_**d.
+ Modo:
+ subterráneo
+ o
+ aéreo;**_
+_**e.
+ Para
+ los
+ sectores
+ de
+ tendido
+ subterráneo:
+ tipo
+ de
+ conducto
+ y
+ profundidad
+ del
+ tendido;**_
+_**f.
+ Para
+ los
+ tramos
+ de
+ tendido
+ aéreo:
+ tipo
+ y
+ descripción
+ de
+ postes
+ o
+ torres,
+ altura
+ de
+ éstos
+ (m),**_
+_**tipo
+ y
+ características
+ del
+ cableado.**_
+
+**RESPUESTA:** Respecto
+ de
+ la
+ información
+ solicitada
+ para
+ la
+ Línea de transmisión eléctrica de media
+tensión,
+ a
+ continuación
+ se
+ detalla
+ la
+ información
+ requerida:
+
+a.
+ Longitud (m), origen y destino:
+ A
+ continuación
+ en
+ la Tabla 1-12 se
+ indica
+ la
+ longitud,
+ origen
+ y
+destino
+ de
+ los
+ 2
+ alimentadores
+ que
+ componen
+ la
+ línea
+ eléctrica
+ de
+ media
+ tensión:
+
+**Tabla
+ 1-­‐12** **Caraterísticas
+ alimentador
+ línea
+ media
+ tensión**
+
+1 23
+ Kv 4.694 6218333 257440 6217687 261688
+2: 23
+ Kv 4.426 6218333 257431 6216741 260176
+
+Fuente:
+ Elaboración
+ propia
+
+b. Ancho de las fajas de seguridad y servidumbre (m) y ancho que deber estar descubierto de
+vegetación o la altura que esta puede tener dentro de la faja:
+
+ - Ancho de faja de seguridad:
+ 9.4
+ metros
+
+ - Vegetación:
+ Bajo
+ la
+ línea
+ se
+ quitarán
+ los
+ árboles
+ y
+ vegetación
+ para
+ así
+ disminuir
+ la
+posibilidad
+ de
+ contacto
+ con
+ los
+ conductores
+ y
+ para
+ prevenir
+ incendios
+ de
+ manera
+ de
+cumplir
+ con
+ la
+ NSEG
+ 5
+ EN
+ 71
+ para
+ líneas
+ de
+ transporte
+ y
+ distribución
+ de
+ energía.
+ Según
+ lo
+indicado
+ en
+ esta
+ misma
+ norma,
+ alrededor
+ de
+ la
+ línea
+ podrá
+ haber
+ árboles
+ siempre
+ y
+cuando
+ estos
+ se
+ ubiquen
+ a
+ más
+ de
+ 5
+ metros
+ de
+ distancia
+ de
+ las
+ estructuras
+ y
+ conductores.
+Del
+ mismo
+ modo,
+ la
+ vegetación
+ dentro
+ de
+ la
+ faja
+ de
+ servidumbre
+ se
+ mantendrá
+ bajo
+ los
+ 2
+m
+ de
+ altura.
+
+30
+
+c. Tensión nominal de la línea (kV):
+ 23
+ kV
+
+d.
+ Modo:
+ Subterráneo
+ y
+ aéreo
+
+e.
+ Tendido subterráneo de la línea:
+
+ Se
+ utilizará
+ un
+ conductor
+ cubierto
+ de
+ cobre
+ tipo
+ XT
+ 1
+ AWG
+ 25
+kV,
+ o
+ equivalente,
+ con
+ capacidad
+ para
+ ser
+ enterrado
+ directamente
+ a
+ tierra.
+ El
+ tendido
+ irá
+aproximadamente
+ a
+ 60
+ cm
+ de
+ profundidad.
+
+f.
+ Tendido aéreo de la línea:
+
+ - Características:
+ Los
+ postes
+ tendrán
+ una
+ altura
+ de
+ 15
+ metros
+ (18
+ metros
+ de
+ largo
+ total
+ y
+ 3
+metros
+ enterrados),
+
+ base
+ de
+ hormigón,
+ peso
+ aproximado
+ de
+ 3200
+ kg
+ y
+ coeficiente
+ de
+seguridad
+ 2.
+ La
+ distancia
+ promedio
+ entre
+ postes
+ será
+ de
+ un
+ vano
+ de
+ 100
+ m
+aproximadamente.
+
+ - Cableado:
+ Se
+ utilizará
+ un
+ conductor
+ de
+ aluminio
+ desnudo
+ AAAC
+ Flint,
+ de
+ sección:
+ 375
+ mm2
+y
+ con
+ un
+ peso
+ de
+ 1.035
+ kg/km.
+
+_**24.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.2.2.7
+ la
+ DIA**_
+_**“Construcción
+ línea
+ de
+ transmisión
+ eléctrica
+ de
+ alta
+ tensión”,
+ señalando:**_
+_**a.
+ Longitud
+ (m),
+ indicando
+ origen
+ y
+ destino;**_
+_**b.
+ Ancho
+ de
+ las
+ fajas
+ de
+ seguridad
+ y
+ servidumbre
+ (m),
+ indicando
+ el
+ ancho
+ que
+ deber
+ estar**_
+_**descubierto
+ de
+ vegetación
+ o
+ la
+ altura
+ que
+ esta
+ puede
+ tener
+ dentro
+ de
+ la
+ faja;**_
+_**c.
+ Tensión
+ nominal
+ de
+ la
+ línea
+ (kV);**_
+_**d.
+ Modo:
+ subterráneo
+ o
+ aéreo;**_
+_**e.
+ Tipo
+ y
+ descripción
+ de
+ postes,
+ altura
+ de
+ estos
+ (m)
+ y
+ características
+ del
+ cableado.**_
+
+**RESPUESTA:** El
+ titular
+ informa
+ que
+ durante
+ la
+ presente
+ Adenda,
+ se
+ ha
+ decidido **modificar
+ la**
+**alternativa
+ de
+ conexión
+ y
+ prescindir
+ de
+ la
+ subestación
+ de
+ derivación** en
+ el
+ extremo
+ norte
+ del
+predio y
+ realizar
+ una
+ derivación
+ de
+ la
+ línea
+ existente
+ Quelentaro-­‐Portezuelo
+ hasta
+ la
+ subestación
+de
+ transformación
+ interna,
+ disminuyendo
+ así
+ las
+ superficies
+ a
+ intervenir
+ por
+ el
+ Proyecto.
+
+En
+ este
+ nuevo
+ escenario,
+ el
+ Parque
+ Eólico
+ La
+ Estrella
+ considera
+ la
+ construcción
+ de
+ una
+ (1)
+subestación
+ eléctrica
+ que
+ permitirá
+ reunir
+ el
+ aporte
+ de
+ potencia
+ de
+ los
+ 20
+ aerogeneradores
+ en
+ 23
+kV
+ y
+ elevar
+ la
+ tensión
+ a
+ 110
+ kV.
+ Además,
+ en
+ esta
+ subestación
+ se
+ realizará
+ el
+ seccionamiento
+ de
+ la
+línea
+ existente
+ Quelentaro-­‐Portezuelo.
+ Se
+ ha
+ adoptado
+ esta
+ nueva
+ alternativa
+ de
+ conexión,
+ ya
+ que
+proporciona
+ una
+ mayor
+ confiabilidad
+ de
+ suministro
+ de
+ la
+ generación
+ del
+ parque
+ y
+ estabilidad
+ al
+sistema
+ eléctrico.
+ Su
+ ubicación
+ se
+ presenta
+ a
+ continuación
+ en
+ la
+ Tabla
+ 1-­‐13.
+
+31
+
+Para
+ la
+ construcción
+ de
+ la
+ subestación
+ se
+ contempla
+ lo
+ siguiente:
+
+ Obras:
+`o` Cerco
+ perimetral
+ de
+ 400
+ m,
+ en
+ el
+ área
+ de
+ subestación.
+`o` El
+ cerco
+ del
+ patio
+ de
+ alta
+ tensión,
+ cerco
+ metálico
+ tipo
+ ACMAFOR
+ de
+ 2
+ m
+ de
+ altura.
+`o` Movimiento
+ de
+ tierra
+ y
+ plataforma.
+`o` Construcción
+ de
+ la
+ malla
+ de
+ puesta
+ a
+ tierra
+ de
+ la
+ subestación.
+`o` Construcción
+ de
+ sala
+ eléctrica
+ 23
+ kV.
+`o` Construcción
+ de
+ 1
+ paño
+ de
+ 110
+ kV
+ para
+ la
+ acometida
+ de
+ la
+ línea
+`o` Instalación
+ transformador
+ de
+ poder
+ 110/23
+ kV
+ -
+ 60
+ MVA
+`o` Construcción
+ de
+ sala
+ de
+ caseta
+ de
+ control
+`o` Implementación
+ de
+ Sistemas
+ respaldados
+ de
+ protección
+ y
+ telecomunicaciones.
+`o` Montaje
+ de
+ equipos
+ primarios
+ de
+ 110
+ kV.
+
+ Equipamiento
+ Subestación:
+`o` Barra
+ de
+ 110
+ kV
+ con
+ las
+ siguientes
+ características:
+ Aislación
+ de
+ 110
+ kV
+ con
+ estructuras
+
+metálicas
+ y
+ postes
+ de
+ hormigón
+ armado,
+ vigas
+ metálicas
+ de
+ amarre
+ y
+ conductor
+ de
+aluminio,
+ desconectadores
+ tripolares
+ horizontales
+ con
+ y
+ sin
+ puesta
+ tierra,
+interruptores
+ tripolares,
+ pararrayos,
+ transformadores
+ de
+ potencial
+ y
+
+ transformadores
+de
+ corriente.
+`o` Transformador
+ de
+ poder
+ de
+ 60
+ MVA
+ 23/110
+ kV,
+ sobre
+ fundación
+ de
+ hormigón.
+`o` Sala
+ eléctrica
+ de
+ 23
+ kV.
+`o` Barra
+ de
+ 23
+ kV
+ con
+ las
+ siguientes
+ características:
+ interruptor
+ tripolar
+ montado
+ en
+
+poste,
+ conductor
+ de
+ cobre
+ y
+ un
+ transformador
+ de
+ servicios
+ auxiliares.
+`o` Malla
+ de
+ puesta
+ a
+ tierra.
+
+**Tabla
+ 1-­‐13** **Coordenadas
+ subestación
+ eléctrica**
+
+|COORDENADAS UTM (DATUM WGS 84 H19)|Col2|Col3|
+|---|---|---|
+|**Vértice**|**Este**|**Norte**|
+|A|257.394|6.248.436|
+|B|257.494|6.218.430|
+|C|257.488|6.218.330|
+|D|257.389|6.218.336|
+
+Fuente:
+ Elaboración
+ propia
+
+32
+
+Además,
+ se
+ construirá
+ una
+ línea
+ aérea
+ de
+ 110
+ kV
+ entre
+ la
+ línea
+ Quelentaro-­‐Portezuelo
+ la
+ cual
+ será
+de
+ doble
+ circuito
+ en
+ 110
+ kV
+ y
+ tendrá
+ una
+ extensión
+ total
+ de
+ 1.400
+ metros.
+ Se
+ utilizarán
+ postes
+metálicos
+ de
+ 20
+ metros
+ de
+ altura
+ separados
+ aproximadamente
+ 200
+ metros
+ entre
+ sí.
+ Su
+ ubicación
+se
+ presenta
+ a
+ continuación
+ en
+ la
+ Tabla
+ 1-­‐14.
+ El
+ conductor
+ será
+ de
+ aluminio
+ desnudo
+ del
+ tipo
+ AAAC
+Cairo
+ que
+ se
+ fijará
+ a
+ las
+ crucetas
+ de
+ la
+ torre
+ por
+ medio
+ de
+ aisladores
+ poliméricos.
+
+**Tabla
+ 1-­‐14** **Coordenadas
+ de
+ postes
+ de
+ nueva
+ línea
+ 110
+ kV
+ para
+ conexión
+ a
+ línea
+ Quelentaro-­‐**
+
+**Portezuelo**
+
+|COORDENADAS UTM (DATUM WGS 84 H19)|Col2|Col3|
+|---|---|---|
+|**Poste**|**Este**|**Norte**|
+|1|256.294|6.219.269|
+|2|256.345|6.219.230|
+|3|256.462|6.219.137|
+|4|256.617|6.219.013|
+|5|256.775|6.218.888|
+|6|256.932|6.218.764|
+|7|257.090|6.218.638|
+|8|257.248|6.218.513|
+|9|257.392|6.218.399|
+
+Fuente:
+ Elaboración
+ propia
+
+33
+
+**Figura
+ 1-­‐4** **Poste
+ metálico
+ línea
+ de
+ doble
+ circuito
+ 110
+ kV.**
+
+Respecto
+ de
+ la
+ infromación
+ solicitada,
+ y
+ de
+ acuedo
+ a
+ la
+ modificación
+ de
+ proyecto
+ descrita
+anteriormente,
+ para
+ la
+ Línea de transmisión eléctrica de alta tensión,
+ a
+ continuación
+ se
+ detalla
+ la
+información
+ requerida:
+
+a. Longitud (m), origen y destino:
+ A
+ continuación
+ se
+ presenta
+ la
+ Tabla
+ 1-­‐15
+ con
+ las
+ principales
+caracterisitcas
+ de
+ la
+ línea
+ de
+ alta
+ tensión
+ del
+ Proyecto:
+
+34
+
+**Tabla
+ 1-­‐15** **Características
+ LT
+ alta
+ tensión
+ del
+ Proyecto**
+
+Línea de alta 110
+ Kv 1.400 6.219.269 256.294 6.248.436 257.394
+tensión
+
+Fuente:
+ Elaboración
+ propia
+
+b. Ancho de las fajas de seguridad y servidumbre (m) y ancho que deber estar descubierto de
+vegetación o la altura que esta puede tener dentro de la faja:
+
+ - Ancho de faja de seguridad:
+ 18,4
+ metros
+
+ - Ancho faja de servidumbre:
+ 20
+ metros
+
+Bajo
+ la
+ línea
+ se
+ quitaran
+ los
+ árboles
+ y
+ vegetación
+ para
+ así
+ disminuir
+ la
+ posibilidad
+ de
+ contacto
+ con
+los
+ conductores
+ y
+ para
+ prevenir
+ incendios.
+ Alrededor
+ de
+ la
+ línea
+ podrá
+ haber
+ árboles
+ siempre
+ y
+cuando
+ éstos
+ se
+ ubiquen
+ a
+ más
+ de
+ 5
+ metros
+ de
+ distancia
+ de
+ las
+ estructuras
+ y
+ conductores.
+
+c. Tensión nominal de la línea (kV):
+ 110
+ kV
+
+d.
+ Modo (subterráneo o aéreo):
+ Aéreo
+
+e.
+ Tipo y descripción de postes, altura (m) y características del cableado:
+
+ - Características:
+ Los
+ postes
+ tendrán
+ una
+ altura
+ de
+ 20
+ metros
+ (23
+ metros
+ de
+ largo
+ total
+ y
+ 3
+metros
+ enterrados),
+ base
+ de
+ hormigón,
+ un
+ peso
+ aproximado
+ de
+ 3.200
+ kg
+ y
+ coeficiente
+ de
+seguridad
+ 2.
+ La
+ distancia
+ promedio
+ entre
+ postes
+ será
+ de
+ 200
+ m.
+
+ - Cableado:
+ Se
+ utilizará
+ un
+ conductor
+ de
+ aluminio
+ desnudo
+ AAAC
+ Cairo,
+ de
+ sección
+ de
+125,08
+ mm [2] y
+ un
+ peso
+ de
+ 345
+ kg/km,
+ que
+ se
+ fijará
+ a
+ las
+ crucetas
+ de
+ la
+ torre
+ por
+ medio
+ de
+aisladores
+ poliméricos.
+
+_**25.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.2.2.7
+ de
+ la**_
+_**DIA
+ “Construcción
+ línea
+ de
+ transmisión
+ eléctrica
+ de
+ alta
+ tensión”,
+ describiendo
+ las
+ acciones
+ y/o**_
+_**actividades
+ a
+ ejecutar
+ para
+ la
+ construcción
+ de
+ esta
+ obra,
+ refiriéndose
+ a
+ la
+ preparación
+ del**_
+
+35
+
+_**terreno,
+ habilitación
+ de
+ frentes
+ de
+ trabajo
+ móvil
+ en
+ cada
+ estructura,
+ excavaciones
+ y
+ rellenos,**_
+_**fundaciones,
+ emplantillado,
+ montaje
+ de
+ postes,
+ instalación
+ de
+ mallas
+ de
+ puesta
+ a
+ tierra,
+ etc.**_
+
+**RESPUESTA:** A
+ continuación
+ se
+ detallan
+ las
+ acciones
+ y
+ actividades
+ a
+ ejecutar
+ para
+ la
+ construcción
+de
+ la
+ línea
+ de
+ transmisión
+ eléctrica
+ de
+ alta
+ tensión:
+
+Lo
+ primero
+ que
+ se
+ realizará
+ en
+ relación
+ a
+ la
+ construcción
+ de
+ la
+ línea
+ de
+ alta
+ tensión
+ será
+ el
+replanteo
+ topográfico,
+ que
+ tiene
+ por
+ objeto
+ definir
+ la
+ ubicación
+ de
+ las
+ estructuras
+ de
+ soporte
+(postes).
+ Esta
+ tarea
+ la
+ efectuará
+ una
+ cuadrilla
+ de
+ profesionales
+ que
+ se
+ dirigirá
+ hacia
+ los
+ puntos
+tentativos
+ de
+ instalación
+ y
+ harán
+ un
+ levantamiento/inspección
+ del
+ terreno.
+
+Luego,
+ se
+ adecuará
+ el
+ sitio
+ definido
+ por
+ la
+ cuadrilla,
+ limpiando
+ y
+ quitando
+ todo
+ aquello
+ que
+obstruya
+ o
+ dificulte
+ las
+ obras
+ (vegetación,
+ rocas,
+ basura,
+ etc.)
+ sobre
+ la
+ franja
+ de
+ seguridad.
+Teniendo
+ los
+ puntos
+ definidos
+ y
+ preparados
+ para
+ iniciar
+ las
+ obras,
+ se
+ realizarán
+ las
+ excavaciones
+para
+ instalar
+ los
+ postes.
+ El
+ material
+ extraído
+ se
+ apilará
+ al
+ costado
+ para
+ su
+ posterior
+ reutilización
+como
+ material
+ de
+ relleno
+ de
+ estas
+ excavaciones.
+ Una
+ vez
+ listas
+ las
+ excavaciones
+ se
+ instalarán
+ los
+postes
+ usando
+ una
+ grúa
+ pluma
+ sobre
+ camión
+ y
+ se
+ procederá
+ a
+ alinear
+ el
+ poste
+ para
+ luego
+ rellenar
+la
+ excavación
+ y
+ compactar
+ el
+ relleno
+ usando
+ máquina
+ compactadora
+
+ tipo
+ vibropisón.
+
+Teniendo
+ las
+ estructuras
+ izadas
+ en
+ sus
+ posiciones,
+ se
+ instalarán
+ los
+ conductores
+ de
+ la
+ línea
+ de
+ la
+forma
+ tradicional,
+ vale
+ decir,
+ en
+ uno
+ de
+ los
+ extremos
+ del
+ vano
+ se
+ colocará
+ el
+ freno
+ y
+ el
+ carrete
+ del
+conductor,
+ y
+ en
+ el
+ otro
+ extremo
+ se
+ pondrá
+ un
+ huinche
+ para
+ tirar
+ el
+ conductor.
+ Con
+ poleas
+ se
+pasará
+ el
+ cable
+ guía
+ desde
+ el
+ huinche
+ al
+ freno,
+ uniéndolo
+ al
+ conductor
+ de
+ fase.
+ Con
+ el
+ conductor
+montado
+ entre
+ los
+ dos
+ postes
+ del
+ vano,
+ éste
+ se
+ tensará
+ hasta
+ alcanzar
+ la
+ tensión
+ de
+ diseño.
+Finalmente
+ se
+ fijan
+ los
+ conductores
+ a
+ los
+ aisladores
+ y
+ al
+ herraje
+ respectivo.
+
+_**26.
+ En
+ el
+ punto
+ 2.2.2.11
+ de
+ la
+ DIA
+ “Limpieza
+ y
+ Restauración”,
+ se
+ señala:
+ “Una
+ vez
+ que
+ se
+ haya**_
+_**desarmado
+ y
+ retirado
+ las
+ obras
+ transitorias,
+ el
+ titular
+ se
+ compromete
+ a
+ restituir
+ el
+ terreno**_
+_**modificado
+ a
+ sus
+ condiciones
+ originales”.
+ Al
+ respecto,
+ se
+ solicita
+ al
+ Proponente
+ detallar
+ las**_
+_**acciones
+ de
+ restitución
+ que
+ ejecutará,
+ pormenorizando
+ procedimientos
+ e
+ insumos
+ a
+ utilizar
+ y
+ el**_
+_**monitoreo
+ asociado
+ a
+ esta
+ acción.**_
+
+**RESPUESTA:** Las
+ actividades
+ de
+ desmantelamiento
+
+ de
+ las
+ instalaciones
+ provisorias
+ y
+ restauración
+del
+ suelo
+ durante
+ la
+ finalización
+ de
+ la
+ fase
+ de
+ construcción,
+ se
+ realizarán
+ de
+ la
+ siguiente
+ manera:
+
+1. En
+ primer
+ lugar
+ se
+ procede
+ al
+ retiro
+ y
+ desmantelamiento
+ de
+ las
+ estructuras
+ modulares
+ -­‐
+
+containers-­‐
+ utilizados
+ como
+ bodegas
+ u
+ oficinas
+ durante
+ la
+ fase
+ de
+ construcción,
+ y
+ en
+general
+ cualquier
+ estructura
+ modular
+ que
+ no
+ corresponda
+ a
+ una
+ instalación
+ definitiva
+ de
+acuerdo
+ a
+ lo
+ indicado
+ en
+ el
+ Plano
+ No
+ 3
+ el
+ Anexo
+ B.
+ La
+ acción
+ tiene
+ por
+ objetivo
+ retirar
+ y
+
+36
+
+desmantelar
+ todo
+ el
+ mobiliario,
+ estructuras
+ y
+ equipamiento
+ de
+ oficinas,
+ talleres,
+dependencias
+ y
+ cualquier
+ instalación
+ provisoria
+ existente
+ construida
+ al
+ tenor
+ del
+ proyecto
+2. Remoción
+ de
+ estructuras
+ de
+ hormigón,
+ como
+ cimientos
+ de
+ construcciones
+ temporales,
+ en
+
+caso
+ de
+ proceder.
+ Estos
+ residuos
+ serán
+ gestionados
+ como
+ residuos
+ industriales
+ no
+peligrosos
+ y
+ serán
+ dispuestos
+ en
+ botadero
+ autorizado.
+3. Posteriormente,
+ se
+ procederá
+ a
+ la
+ restauración
+ del
+ suelo
+ modificado
+ a
+ las
+ condiciones
+ más
+
+cercanas
+ a
+ la
+ situación
+ sin
+ proyecto.
+ Esta
+ actividad
+ consiste
+ en
+ un
+ perfilado
+ mecánico
+ con
+maquinaria
+ pesada,
+ motoniveladora
+ o
+ retroexcavadora,
+ utilizando
+ los
+ desechos
+ de
+excavaciones
+ generados
+ en
+ la
+ etapa
+ anterior.
+4. Por
+ último,
+ se
+ aplicará
+ una
+ capa
+ de
+ 30
+ cms
+ de
+ suelo
+ natural
+ cuya
+ procedencia
+ será
+
+debidamente
+ acreditada
+ ante
+ la
+ autoridad
+ ambiental,
+ pudiendo
+ utilizar
+ como
+ alternativa
+la
+ capa
+ vegetal
+ producto
+ del
+ escarpe
+ superficial
+ para
+ la
+ medida
+ de
+ manejo
+ de _Calydorea_
+_xyphioides,_ descrita
+ en
+ la
+ respuesta
+ a
+ observación
+ No
+ 55,
+ 56
+ y
+ 57
+ siguiente _._ La
+ terminación
+de
+ esta
+ actividad
+ se
+ realizará
+ con
+ herramientas
+ manuales,
+ palas
+ y
+ rastrillo,
+ hasta
+ obtener
+una
+ superficie
+ homogénea,
+ que
+ siga
+ las
+ líneas
+ naturales
+ de
+ la
+ pendiente
+ del
+ entorno.
+ Se
+espera
+ que
+ la
+ flora
+ presente
+ en
+ el
+ lugar,
+ colonice
+ naturalmente
+ estas
+ superficies.
+5. El
+ monitoreo
+ de
+ esta
+ actividad
+ se
+ realizará
+ mediante
+ el
+ uso
+ de
+ fotografías
+ previas
+ al
+ inicio
+
+de
+ la
+ fase
+ de
+ construcción,
+ de
+ aquellos
+ lugares
+ donde
+ se
+ instalen
+ las
+ obras
+ transitorias,
+ de
+modo
+ de
+ lograr
+ la
+ restauración
+ del
+ suelos
+ en
+ término
+ de
+ cota
+ y
+ pendiente.
+
+_**27.
+ En
+ el
+ punto
+ 2.2.6.2
+ de
+ la
+ DIA
+ “Agua
+ potable,
+ uso
+ doméstico
+ e
+ industrial”,
+ se
+ señala:
+ “Además,**_
+_**se
+ requerirá
+ eventualmente
+ de
+ agua
+ industrial
+ para
+ fines
+ constructivos.
+ Se
+ estima
+ que
+ el**_
+_**requerimiento
+ de
+ agua
+ para
+ uso
+ industrial
+ alcanzará
+ un
+ valor
+ de
+ 10
+ m3/día
+ promedio
+ durante
+ 12**_
+_**meses”.
+ Al
+ respecto
+ se
+ solicita
+ informar:**_
+
+_**a.
+ Destino:
+ asociarlo
+ al
+ nombre
+ de
+ la
+ o
+ las
+ actividades
+ en
+ que
+ se
+ utilizará
+ el
+ agua;**_
+**RESPUESTA:** El
+ agua
+ para
+ uso
+ industrial
+ se
+ utilzará
+ eventualmente
+ para
+ disolver
+ mezclas
+ de
+hormigón
+ en
+ caso
+ de
+ requerirse,
+ limpieza
+ de
+ las
+ canoas
+ de
+ camiones
+ mixer
+ en
+ el
+ área
+ de
+ lavado,
+humectación
+ de
+ caminos,
+ limpieza
+ de
+ herramientas,
+ etc.
+
+_**b.
+ Fuente
+ de
+ abastecimiento;**_
+**RESPUESTA:** En
+ esta
+ etapa
+ del
+ Proyecto
+ no
+ es
+ posible
+ indicar
+ un
+ proveedor
+ específico,
+ sin
+embargo,
+ el
+ titular
+ se
+ compromete
+ a
+ adquirir
+ el
+ agua
+ para
+ uso
+ industrial
+ exclusivamente
+ a
+proveedores
+ vigentes
+ autorizados
+ por
+ la
+ autoridad
+ sanitaria,
+ que
+ cuentan
+ con
+ todos
+ los
+certificados
+ y
+ permisos
+ correspondientes,
+ lo
+ cual
+ será
+ oportunamente
+ informado
+ a
+ la
+ autoridad.
+
+37
+
+_**c.
+ Ubicación
+ georreferenciada
+ del
+ punto
+ de
+ captación
+ de
+ agua
+ (si
+ corresponde);**_
+**RESPUESTA:** En
+ línea
+ con
+ la
+ respuesta
+ anterior,
+ una
+ vez
+ adjudicado
+ el
+ contrato
+ de
+ agua
+ industrial
+al
+ proveedor
+ autorizado,
+ se
+ remitirán
+ las
+ autorizaciones
+ respectivas,
+ incluyendo
+ la
+ fuente
+ de
+captación,
+ a
+ la
+ autoridad
+ sanitaria
+ de
+ la
+ región.
+
+_**d.
+ Modo
+ de
+ provisión:
+ propio
+ o
+ tercero;**_
+**RESPUESTA:** El
+ agua
+ industrial
+ será
+ adquirida
+ a
+ proveedores
+ autorizados.
+
+_**e.
+ Almacenamiento:
+ en
+ el
+ caso
+ que
+ se
+ contemple,
+ indicado
+ infraestructura
+ u
+ obra
+ destinada**_
+_**para
+ este
+ fin,
+ y
+ su
+ ubicación
+ (georreferenciación).**_
+**RESPUESTA:** No
+ se
+ contempla
+ el
+ almacenamiento
+ de
+ agua
+ industrial
+ en
+ la
+ faena.
+ El
+ agua
+ industrial
+utilizada
+ para
+ los
+ efectos
+ descritos
+ anteriormente,
+ será
+ dispuesta
+ en
+ faena
+ por
+ cada
+ proveedor
+autorizado.
+
+_**28.
+ El
+ Proponente
+ deberá
+ aclarar
+ si
+ las
+ actividades
+ asociadas
+ al
+ transporte
+ de
+ maquinarias,**_
+_**insumos
+ y
+ equipos
+ forman
+ parte
+ de
+ la
+ presente
+ evaluación,
+ ateniendo
+ a
+ que
+ el
+ objetivo
+ del**_
+_**proyecto
+ es
+ la
+ ejecución
+ de
+ un
+ proyecto
+ energético
+ denominado
+ Parque
+ Eólico
+ La
+ Estrella,**_ _**a**_
+_**efectos**_ _**de**_ _**determinar**_ _**si**_ _**todas**_ _**las**_ _**partes**_ _**obras**_ _**y/o**_ _**acciones**_ _**del**_ _**proyecto**_ _**se**_ _**encuentran**_ _**en**_ _**la**_
+_**Región de O’Higgins.**_
+
+**RESPUESTA:** Tal
+ como
+ se
+ señala
+ en
+ el
+ literal
+ 2.2.6.6
+ de
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental,
+ el
+proyecto
+ requiere
+ de
+ componentes
+ importadas,
+ y
+ por
+ tanto
+ deberán
+ ser
+ trasladados
+ desde
+ puerto,
+fuera
+ de
+ la
+ región
+ de
+ O ́higgins
+ hacia
+ la
+ faena.
+ Vale
+ decir
+ que
+ es
+ una
+ situación
+ similar
+ para
+ todo
+proyecto
+ de
+ envergadura
+ de
+ la
+ región.
+
+Por
+ otro
+ lado,
+ y
+ atendiendo
+ al
+ tenor
+ de
+ la
+ observación,
+ el
+ Artículo
+ 9°
+ párrafo
+ 2
+ de
+ la
+ Ley
+ 19.300
+señala
+ que
+ en
+ los
+ casos
+ en
+ que
+ la
+ actividad
+ o
+ proyecto
+ pueda
+ causar **impactos
+ ambientales** en
+zonas
+ situadas
+ en
+ distintas
+ regiones,
+ las
+ Declaraciones
+ o
+ los
+ Estudios
+ de
+ Impacto
+ Ambiental
+deberán
+ presentarse
+ ante
+ el
+ Director
+ Ejecutivo
+ del
+ Servicio
+ de
+ Evaluación
+ Ambiental.
+
+De
+ este
+ modo,
+ tal
+ como
+ se
+ señaló
+ en
+ la
+ DIA,
+ el transporte
+ no
+ provocará
+ impacto
+ ambiental,
+ toda
+vez
+ que
+ utilizará
+ la
+ red
+ de
+ caminos
+ públicos
+ existentes,
+ y
+ en
+ el
+ caso
+ de
+ transporte
+sobredimensionado,
+ solicitará
+ a
+ la
+ dirección
+ de
+ Vialidad
+ la
+ Autorización
+ para
+ la
+ circulación
+ de
+vehículos
+ con
+ sobredimensión,
+ de
+ conformidad
+ al
+ DS
+ No158/80
+ del
+ MOP
+ y
+ Resolución
+ No1/95
+ del
+Ministerio
+ de
+ Transportes
+ y
+ Telecomunicaciones
+ que
+ establece
+ dimensiones
+ máximas
+ a
+ vehículos
+ y
+que
+ contiene
+ un
+ estudio
+ de
+ ruta,
+ vigilancia
+ policial
+ y
+ un
+ programa
+ de
+ traslado
+ para
+ evitar
+ cualquier
+incomodidad
+ en
+ el
+ desplazamiento
+ de
+ la
+ comunidad.
+
+38
+
+_**29.
+ En
+ complemento
+ a
+ consulta
+ anterior,
+ se
+ solicita
+ al
+ Proponente
+ incorporar
+ información**_
+_**detallada
+ respecto
+ de
+ las
+ principales
+ rutas
+ de
+ Vialidad
+ utilizadas**_ _**en**_ _**la**_ _**Región
+ por
+ los
+ vehículos**_
+_**de
+ transporte
+ del
+ proyecto,
+ tanto
+ proveedores
+ de
+ insumos,
+ como
+ de
+ personal,
+ que
+ deberá
+ ser**_
+_**consistente
+ con
+ las
+ rutas
+ declaradas
+ en
+ respuesta
+ anterior.**_
+
+**RESPUESTA:** Respondido
+ en
+ observación
+ anterior.
+ Además
+ esta
+ información
+ se
+ presenta
+ en
+ el
+Plano
+ No
+ 08
+ del
+ Anexo
+ B.
+
+_**30.
+ Respecto
+ de
+ la
+ distancia
+ del
+ proyecto
+ a
+ centros
+ poblados
+ más
+ cercanos
+ y
+ las
+ rutas
+ a
+ utilizar,**_
+_**se
+ solicita
+ incorporar
+ gráficamente
+ la
+ información,
+ usando
+ para
+ ello
+ la
+ Carta
+ Caminera
+ de**_
+_**Vialidad
+ de
+ la
+ Región
+ de
+ O’Higgins,
+ superpuesta
+ sobre
+ la
+ cartografía
+ del
+ área
+ de
+ influencia
+ del**_
+_**proyecto,
+ además
+ de
+ determinar
+ eventuales
+ interferencias
+ de
+ conectividad;
+ fundamentando
+ a**_
+_**partir
+ de
+ lo
+ presentado
+ la
+ inexistencia
+ de
+ alteraciones
+ significativas
+ respecto
+ a
+ lo
+ señalado
+ en
+ el**_
+_**artículo
+ 7o,
+ literal
+ b)
+ del
+ D.S.
+ 40/2012
+ del
+ Ministerio
+ del
+ Medio
+ Ambiente**_ .
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ en
+ Plano
+ No
+ 08
+ del
+ Anexo
+ B
+ y
+ en
+ la Figura 1-5 a
+ continuación,
+se
+ presenta
+ la
+ información
+ requerida.
+
+39
+
+**Figura
+ 1-­‐5** **Red
+ vial
+ en
+ relación
+ al
+ área
+ de
+ influencia
+ del
+ Proyecto**
+
+Fuente:
+ Elaboración
+ propia
+
+Las
+ obras
+ y
+ actividades
+ del
+ proyecto
+ no
+ interrumpen
+ de
+ manera
+ alguna
+ las
+ vías
+ de
+ comunicación
+existentes
+ o
+ significan
+ un
+ aumento
+ significativo
+ de
+ los
+ tiempos
+ de
+ desplazamiento.
+ La
+ Ruta
+ I-­‐120
+corresponde
+ a
+ un
+ camino
+ público
+ actualmente
+ con
+ carpeta
+ de
+ ripio,
+ el
+ cual
+ se
+ encuentra
+ dentro
+ de
+la
+ cartera
+ de
+ proyecto
+ a
+ ejecución
+ 2015
+ para
+ su
+ pavimentación.
+ Por
+ esta
+ ruta
+ no
+ circula
+locomoción
+ pública
+ y
+ de
+ acuerdo
+ a
+ los
+ datos
+ de
+ volumen
+ de
+ tránsito
+ para
+ la
+ región
+ de
+ O ́higgins
+ de
+la
+ Dirección
+ de
+ Vialidad,
+ esta
+ ruta
+ cuenta
+ con
+ un
+ Tránsito
+ Medio
+ Diario
+ Anual
+ (TMDA)
+ de
+ 1.265
+vehículos [3] del
+ cual
+ casi
+ un
+ 80%
+ corresponde
+ a
+ vehículos
+ livianos.
+ Considerando
+ que
+ el
+ flujo
+vehicular
+ del
+ Proyecto,
+ en
+ el
+ peor
+ escenario
+ será
+ de
+ 44
+ camiones
+ diarios,
+ con
+ un
+ flujo
+ de
+ 5
+camiones
+ por
+ hora [4],
+ (situación
+ imposible
+ considerando
+ que
+ no
+ todos
+ los
+ vehículos
+ transitarán
+ en
+
+3 Estación
+ de
+ control
+ 06-­‐009-­‐01
+ /
+ Censo
+ 2012
+ /
+ Dirección
+ de
+ Vialidad
+ Región
+ de
+ O ́higgins.
+4 Jornada
+ de
+ 9
+ horas
+ diarias
+
+40
+
+el
+ mismo
+ periodo
+ de
+ tiempo),
+ se
+ obtiene
+ que
+ en
+ relación
+ al
+ TMDA
+ de
+ la
+ ruta,
+ el
+ potencial
+ impacto
+del
+ Proyecto
+ sobre
+ la
+ carga
+ vial
+ no
+ es
+ significativa
+ y
+ será
+ acotado
+ a
+ los
+ 12
+ meses
+ de
+ duración
+ de
+ la
+fase
+ de
+ construcción,
+ por
+ lo
+ que
+ se
+ concluye
+ que
+ el
+ proyecto
+ no
+ generará
+ aumento
+ significativo
+ de
+los
+ tiempos
+ de
+ desplazamiento
+ de
+ los
+ grupos
+ humanos.
+
+_**31.
+ En
+ complemento
+ a
+ consulta
+ anterior,
+ se
+ solicita
+ presentar
+ mediante
+ cartografía
+ UTM
+ huso**_
+_**19s,
+ Datum
+ WGS
+ 84,
+ el
+ o
+ los
+ accesos
+ del
+ Proyecto
+ hacia
+ caminos
+ públicos,
+ para
+ la
+ etapa
+ de**_
+_**construcción
+ y
+ operación,
+ además
+ de
+ indicar
+ si
+ se
+ requiere
+ atraviesos
+ y/o
+ paralelismo
+ con
+ rutas
+ o**_
+_**caminos
+ públicos
+ de
+ tuición
+ de
+ vialidad,
+ detallando
+ rol
+ de
+ ruta
+ y
+ kilometraje
+ en
+ donde
+ se**_
+_**pretenderá
+ realizar
+ dichas
+ obras
+ y
+ accesos,
+ esto
+ en
+ función
+ de
+ los
+ accesos
+ y
+ rutas
+ a
+ utilizar
+ en
+ la**_
+_**Región
+ de
+ O”Higgins.**_
+
+**RESPUESTA:** Se
+ acoge
+ lo
+ solicitado,
+ en
+ Plano
+ No
+ 08
+ del
+ Anexo
+ B,
+ se
+ presenta
+ la
+ información
+requerida.
+ Como
+ se
+ describió
+ en
+ la
+ respuesta
+ a
+ observación
+ No6
+ anterior,
+ el
+ único
+ acceso
+ al
+Proyecto
+ será
+ un
+ camino
+ privado
+ de
+ servidumbre
+ existente
+ que
+ empalma
+ con
+ la
+ ruta
+ I-­‐120,
+ Ruta
+Litueche
+ -­‐
+ La
+ Estrella [5] y
+ no
+ existirán
+ otros
+ accesos
+ al
+ Proyecto.
+ Este
+ camino
+ privado,
+ actualmente
+tiene
+ un
+ acceso
+ a
+ la
+ mencionada
+ ruta,
+ el
+ cual
+ para
+ efectos
+ de
+ la
+ ejecución
+ del
+ presente
+ proyecto
+será
+ objeto
+ de
+ mejoras
+ menores
+ para
+ permitir
+ el
+ acceso
+ de
+ carga
+ sobredimensionada
+ del
+ Proyecto
+(camiones
+ de
+ 60
+ m
+ de
+ largo
+ aproximadamente),
+ para
+ lo
+ cual
+ se
+ solicitará
+ un
+ permiso
+ temporal
+correspondientes
+ al
+ dueño
+ del
+ predio.
+ Estas
+ intervenciones
+ se
+ realizarán
+ únicamente
+ durante
+ la
+fase
+ de
+ contrucción.
+ Durante
+ la
+ fase
+ de
+ operación
+ y
+ dado
+ que
+ el
+ transporte
+ de
+ vehículos
+ durante
+esta
+ fase
+ es
+ despreciable,
+ y
+ no
+ se
+ requeiere
+ de
+ un
+ acceso
+ accondicionado
+ para
+ vehículos
+ con
+sobredimensión,
+ no
+ se
+ realizarán
+ intervenciones
+ permanentes
+ al
+ acceso
+ al
+ Proyecto.
+
+El
+ proyecto
+ de
+ acceso
+ será
+ presentado
+ a
+ la
+ dirección
+ regional
+ de
+ vialidad,
+ de
+ acuerdo
+ a
+ la
+metodología
+ del
+ manual
+ de
+ carreteras
+ y
+ por
+ un
+ consultor
+ inscrito
+ en
+ los
+ registros
+ del
+ MOP,
+ de
+manera
+ de
+ obtener
+ los
+ permisos
+ sectoriales
+ correspondientes.
+
+ **Descripción
+ de
+ las
+ Obras:**
+
+Para
+ realizar
+ el
+ transporte
+ de
+ los
+ elementos
+ de
+ grandes
+ dimensiones
+ (aspas
+ y
+ torres)
+ se
+ requiere
+de
+ la
+ modificación
+ del
+ área
+ que
+ conecta
+ el
+ camino
+ de
+ acceso
+ del
+ proyecto
+ con
+ la
+ ruta
+ I-­‐138
+ debido
+al
+ gran
+ radio
+ de
+ giro
+ requerido
+ por
+ estos
+ camiones.
+ Para
+ esto
+ se
+ habilitará
+ temporalmente
+ un
+ área
+de
+ tránsito
+ en
+ terrenos
+ de
+ privados,
+ previa
+ autorización
+ de
+ sus
+ propietarios,
+ que
+ permita
+ a
+ los
+camiones
+ con
+ aspas
+ (hasta
+ 60
+ m)
+ y
+ torres
+ (hasta
+ 30
+ m)
+ girar
+ desde
+ el
+ camino
+ público
+ hacia
+ el
+
+5 Actualmente
+ esta
+ dentro
+ de
+ la
+ cartera
+ de
+ proyección
+
+ de
+ la
+ Dirección
+ de
+ Vialidad
+ a
+ ejecución
+ 2015,
+ el
+Proyecto:
+ "MEJORAMIENTO
+ CBI
+ RUTA
+ I-­‐120
+ KM
+ 0.0
+ AL
+ 14.7,LA
+ ESTRELLA
+ Y
+ LITUECHE"
+
+41
+
+camino
+ del
+ proyecto
+ sin
+ intervenir
+ el
+ camino
+ público.
+ Las
+ obras
+ necesarias
+ para
+ realizar
+ esta
+modificación
+ son
+ las
+ siguientes:
+
+-­‐ Delimitación
+ del
+ espacio
+ necesario
+ para
+ el
+ área
+ de
+ tránsito
+ mediante
+ banderines.
+-­‐ Retiro
+ y
+ reubicación
+ del
+ cerco
+ de
+ la
+ intersección.
+-­‐ Escarpe
+ de
+ 20
+ cm
+ de
+ capa
+ vegetal
+ del
+ suelo
+ mediante
+ excavadora
+ y
+ acumulación
+ de
+ ésta
+en
+ el
+ área
+ de
+ acopio
+ dentro
+ del
+ área
+ del
+ proyecto
+ para
+ este
+ propósito.
+-­‐ Dispersión
+ de
+ una
+ carpeta
+ de
+ estabilizado
+ de
+ 10
+ cm
+ sobre
+ el
+ área
+ escarpada.
+-­‐ Hidratación
+ y
+ compactación
+ de
+ la
+ capa
+ de
+ estabilizado.
+
+Luego
+ del
+ término
+ del
+ transporte
+ de
+ los
+ elementos
+ de
+ grandes
+ dimensiones,
+ se
+ realizarán
+ las
+siguientes
+ actividades
+ destinadas
+ a
+ restaurar
+ las
+ condiciones
+ del
+ área
+ intervenida:
+
+-­‐ Retiro
+ de
+ la
+ carpeta
+ estabilizada
+ de
+ 20
+ cm
+ y
+ utilización
+ de
+ este
+ material
+ en
+ áreas
+estabilizadas
+ del
+ proyecto.
+-­‐ Restitución
+ de
+ la
+ capa
+ vegetal
+ de
+ 20
+ cm
+ utilizando
+ el
+ material
+ almacenado
+ en
+ el
+ área
+ de
+acopio
+ del
+ proyecto
+ mediante
+ excavadora.
+-­‐ Restitución
+ del
+ cerco
+ a
+ su
+ posición
+ original.
+
+Mayores
+ detalles
+ en **Plano
+ No
+ 16
+ -­‐Proyecto
+ de
+ acceso** -­‐
+ del
+ Anexo
+ B.
+
+_**32.
+ En
+ el
+ punto
+ 2.2.6.6
+ de
+ la
+ DIA
+ “Transporte
+ y
+ flujo
+ vehicular”,
+ se
+ señala:
+ “Para
+ el
+ transporte
+ de**_
+_**carga
+ sobredimensionada,
+ la
+ cual
+ corresponde
+ a
+ las
+ partes
+ de
+ los
+ aerogeneradores
+ del
+ Proyecto,**_
+_**se
+ utilizará
+ la
+ red
+ de
+ caminos
+ públicos
+ existentes
+ en
+ la
+ región.
+ Para
+ tales
+ efectos,
+ se
+ solicitará
+ a**_
+_**la
+ dirección
+ de
+ Vialidad
+ la
+ Autorización
+ para
+ la
+ circulación
+ de
+ vehículos
+ con
+ sobredimensión
+ o**_
+_**sobrepeso
+ en
+ camino
+ público,
+ considerando
+ que
+ se
+ tratan
+ de
+ cargas
+ sobredimensionadas,
+ de**_
+_**conformidad
+ al
+ DS
+ No158/80
+ del
+ MOP
+ y
+ Resolución
+ No1/95
+ del
+ Ministerio
+ de
+ Transportes
+ y**_
+_**Telecomunicaciones
+ que
+ establece
+ dimensiones
+ máximas
+ a
+ vehículos”.
+ Al
+ respecto
+ se
+ informa
+ al**_
+_**Proponente
+ que
+ dicha
+ solicitud
+ deberá
+ ser
+ enviada
+ con
+ copia
+ a
+ la
+ Superintendencia
+ del
+ Medio**_
+_**Ambiente,
+ la
+ cual
+ además
+ deberá
+ ser
+ informada
+ de
+ la
+ autorización
+ por
+ parte
+ de
+ la
+ Dirección
+ de**_
+_**Vialidad.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ la
+ solicitud
+ para
+ la
+ circulación
+ de
+ vehículos
+ con
+sobredimensión
+ o
+ sobrepeso
+ en
+ camino
+ público,
+ será
+ enviada
+ con
+ copia
+ a
+ la
+ Superintendencia
+ del
+Medio
+ Ambiente,
+ además
+ de
+ recibir
+ la
+ copia
+ respectiva
+ de
+ la
+ autorización
+ por
+ parte
+ de
+ la
+ Dirección
+de
+ Vialidad.
+
+42
+
+_**33.
+ En
+ el
+ punto
+ 2.2.6.6
+ de
+ la
+ DIA
+ “Transporte
+ y
+ flujo
+ vehicular
+ -
+ Transporte
+ de
+ carga
+ mayor”,
+ se**_
+_**indica
+ “...se
+ humectarán
+ los
+ caminos
+ no
+ pavimentados
+ con
+ un
+ camión
+ aljibe,
+ con
+ una
+ frecuencia**_
+_**de
+ 1
+ vez
+ al
+ día
+ durante
+ días
+ sin
+ precipitaciones,
+ desde
+ Septiembre
+ de
+ 2016
+ a
+ Febrero
+ 2017,
+ en**_
+_**caso
+ de
+ confirmase
+ el
+ cronograma
+ original
+ de
+ construcción.
+ Cualquier
+ modificación
+ será**_
+_**oportunamente
+ informada
+ a
+ la
+ autoridad
+ ambiental”.
+ Al
+ respecto,
+ y
+ a
+ partir
+ de
+ lo
+ indicado
+ en
+ el**_
+_**Oficio
+ Ord.
+ No
+ 524
+ de
+ fecha
+ 10
+ de
+ marzo
+ de
+ 2015
+ de
+ la
+ SEREMI
+ de
+ Salud
+ de
+ esta
+ región;
+ se**_
+_**informa
+ al
+ Proponente
+ que
+ deberá
+ aumentar
+ la
+ frecuencia
+ de
+ humectación
+ o
+ en
+ su
+ defecto**_
+_**aplicar
+ mata
+ polvo
+ a
+ la
+ totalidad
+ de
+ los
+ caminos
+ a
+ utilizar.
+ Junto
+ a
+ lo
+ anterior,
+ deberá
+ presentar**_
+_**los
+ medios
+ de
+ verificación
+ de
+ la
+ alternativa
+ elegida
+ para
+ su
+ reporte
+ en
+ el
+ marco
+ del
+ seguimiento**_
+_**y
+ fiscalización
+ del
+ proyecto**_ _._
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ El
+ titular
+ se
+ compromete
+ a
+ humectar
+ los
+ caminos
+ interiores
+del
+ predio,
+ desde
+ el
+ empalme
+ a
+ la
+ ruta
+ I-­‐120,
+ desde
+ Septiembre
+ de
+ 2016
+ a
+ Febrero
+ 2017,
+ en
+ caso
+de
+ confirmase
+ el
+ cronograma
+ original
+ de
+ construcción
+ y
+ durante
+ días
+ sin
+ precipitaciones,
+ con
+ una
+**frecuencia
+ de** **2
+ veces/día.** Cualquier
+ modificación
+ será
+ oportunamente
+ informada
+ a
+ la
+ autoridad
+ambiental.
+
+El
+ medio
+ de
+ verificación
+ consitirá
+ en
+ una
+ ficha
+ de
+ registro,
+ de
+ acuerdo
+ a
+ la
+ siguiente Tabla 1-16,
+ la
+cual
+ será
+ llenada
+ por
+ cada
+ camión
+ aljibe
+ que
+ ejecute
+ la
+ labor,
+ hasta
+ que
+ vacíe
+ por
+ completo
+ su
+carga
+ de
+ agua.
+ Además,
+ se
+ indicará
+ si
+ se
+ trata
+ de
+ la
+ primera
+ o
+ segunda
+ aplicación
+ del
+ tramo
+identificado
+ con
+ sus
+ respectivas
+ coordenadas
+ UTM.
+ Esta
+ ficha
+ se
+ encontrará
+ disponible
+ para
+labores
+ de
+ fiscalización,
+ en
+ el
+ expediente
+ de
+ la
+ actividad,
+ en
+ la
+ oficina
+ de
+ la
+ instalación
+ de
+ faena.
+
+**Tabla
+ 1-­‐16** **Ficha
+ de
+ registro
+ actividad
+ humectación
+ de
+ caminos
+ interiores**
+**PARQUE
+ EÓLICO
+ LA
+ ESTRELLA** **Humectación
+ de
+ caminos
+ interiores**
+**Encargado** **Actividad:** _**Humectación
+ de
+ caminos
+ interiores**_
+**medioambiente:**
+
+**Fecha:** **Empresa:**
+Patente de Nombre
+ Chofer: Capacidad
+Vehículo: m [3] :
+
+Ubicación Coordenada
+ Norte Coordenada
+ Este
+(UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84) (UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84)
+
+Inicio
+ Humectación
+Término
+Humectación
+
+Hora
+ de
+ inicio: Hora
+ de
+ término:
+Frecuencia
+ (marcar Primera Segunda
+
+43
+
+**PARQUE
+ EÓLICO
+ LA
+ ESTRELLA** **Humectación
+ de
+ caminos
+ interiores**
+con
+ x) Humectación del Humectación del
+tramo tramo
+
+Fuente:
+ Elaboración
+ propia
+
+_**34.
+ En
+ función
+ de
+ la
+ información
+ presentada
+ en
+ la
+ Tabla
+ 2-­‐7
+ de
+ la
+ DIA
+ “Flujo
+ vehicular
+ fase
+ de**_
+_**construcción”,
+ se
+ solicita
+ al
+ Proponente
+ definir
+ con
+ mayor
+ precisión
+ el
+ origen
+ de
+ los
+ insumos**_
+_**como
+ arena
+ y
+ estabilizado;
+ lo
+ anterior
+ a
+ objeto
+ de
+ precisar
+ las
+ rutas
+ a
+ utilizar
+ por
+ los
+ vehículos
+ de**_
+_**carga
+ para
+ esta
+ acción,
+ dado
+ que
+ durante
+ la
+ etapa
+ de
+ construcción
+ se
+ declara
+ este
+ ítem
+ como
+ el**_
+_**mayor
+ generador
+ de
+ viajes
+ del
+ proyecto.**_
+
+**RESPUESTA:** Como
+ se
+ ha
+ mencionado
+ en
+ respuesta
+ a
+ otras
+ observaciones,
+ no
+ es
+ posible,
+ durante
+esta
+ etapa
+ del
+ Proyecto,
+ señalar
+ proveedores
+ específicos,
+ ya
+ que
+ cualquier
+ moificación
+ en
+ este
+sentido
+ significaría
+ un
+ incumplimiento
+ de
+ la
+ RCA
+ de
+ parte
+ del
+ titular.
+ No
+ obstante,
+ para
+ responder
+esta
+ observación,
+ se
+ señala
+ que
+ se
+ identificaron
+ dos
+ posibles
+ proveedores
+ de
+ áridos
+ en
+ la
+ región
+ de
+O ́higgins
+ que
+ cuentan
+ con
+ las
+ autorizaciones
+ respectivas.
+ Éstos
+ se
+ ubican
+ en
+ la
+ comuna
+ de
+Melipilla
+ (Camino
+ a
+ Rapel
+ Km.
+ 2,
+ Chocalán,
+ Melipilla)
+ y
+ al
+ sur
+ de
+ la
+ comuna
+ de
+ Rancagua
+ (Avda.
+ Lo
+Conty
+ 825
+ Gultro,
+ Olivar).
+ De
+ acuerdo
+ a
+ lo
+ anterior,
+ las
+ alternativas
+ de
+ rutas
+ de
+ transporte
+ serían
+las
+ siguientes:
+
+ **Opción
+ 1
+ -­‐Proveedor
+ sector
+ Chocalán,
+ comuna
+ de
+ Melipilla** :
+
+ Ruta
+ G-­‐60
+ (camino
+ a
+ Rapel)
+ -­‐
+Ruta
+ G-­‐62-­‐I
+ -­‐
+ Ruta
+ I-­‐124
+ -­‐
+ Ruta
+ I-­‐120
+ -­‐
+ Acceso
+ al
+ Proyecto.
+
+ **Opción
+ 2
+ -­‐
+ Provedor
+ sector
+ Olivar,
+ comuna
+ de
+ Rancagua:** Ruta
+ 5
+ Sur
+ -­‐
+ Ruta
+ 66
+ -­‐
+ Ruta
+ G-­‐62-­‐
+I
+ -­‐
+ Ruta
+ I-­‐124
+ -­‐
+ Ruta
+ I-­‐120
+
+ -­‐
+ Acceso
+ al
+ Proyecto.
+
+Aun
+ cuando
+ existen
+ otros
+ comercializadores
+ menores
+ en
+ comunas
+ cercanas
+
+ al
+ proyecto,
+ no
+ existe
+certeza
+ de
+ qué
+ lugar
+ provienen
+ los
+ áridos
+ y
+ si
+ éstos
+ fueron
+ extraídos
+ con
+ los
+ permisos
+correspondientes,
+ por
+ lo
+ que
+ el
+ titular
+ utilizará
+ exclusivamente
+ proveedores
+ debidamente
+autorizados,
+ lo
+ cual
+ será
+ oportunamente
+ infomado
+ a
+ la
+ autoridad.
+
+_**35.
+ En
+ el
+ punto
+ 2.2.6.7
+ de
+ la
+ DIA
+ “Insumos
+ de
+ construcción
+ -
+ Áridos
+ y
+ Estabilizado”,
+ se
+ señala:
+ “se**_
+_**requerirá
+ para
+ las
+ fundaciones
+ de
+ las
+ turbinas,
+ plataformas
+ de
+ montaje,
+ para
+ el
+ tramo
+ de**_
+_**tendido
+ subterráneo
+ y
+ para
+ la
+ habilitación
+ de
+ caminos,
+ se
+ utilizara
+ un
+ total
+ de
+ 30.575
+ m**_ _**[3]**_ _**”.
+ Al**_
+_**respecto
+ se
+ solicita
+ señalar:**_
+_**a.
+ Cantidad
+ requerida
+ (m3/día,
+ m3/mes);**_
+
+44
+
+_**b.
+ Modo
+ de
+ provisión:
+ En
+ el
+ caso
+ que
+ se
+ contemple
+ la
+ provisión
+ de
+ áridos
+ por
+ un
+ tercero,
+ el**_
+_**proponente
+ debe
+ declarar
+ que
+ éstos
+ provendrán
+ de
+ una
+ planta
+ o
+ cantera
+ autorizada,**_
+_**identificando
+ la
+ fuente
+ e
+ indicando
+ el
+ nombre
+ de
+ la
+ cantera;**_
+_**c.
+ En
+ el
+ caso
+ que
+ el
+ proyecto
+ contemple
+ la
+ extracción
+ de
+ áridos,
+ se
+ debe
+ describir
+ la
+ “instalación**_
+_**para
+ la
+ producción
+ de
+ áridos”
+ en
+ la
+ sección
+ “Partes
+ y
+ obras”
+ y
+ la
+ actividad
+ “habilitación,**_
+_**operación
+ y
+ cierre
+ de
+ la
+ instalación
+ para
+ la
+ producción
+ de
+ áridos”
+ en
+ la
+ sección
+ “Actividades”;**_
+_**d.
+ Acopio
+ de
+ áridos:
+ identificar
+ y
+ describir
+ el
+ recinto
+ para
+ el
+ acopio,
+ además
+ de
+ señalar
+ su**_
+_**ubicación
+ (georreferenciación);**_
+_**e.
+ Destino:
+ identificar
+ la
+ o
+ las
+ actividades
+ en
+ las
+ cuales
+ se
+ usarán
+ los
+ áridos.**_
+
+**RESPUESTA** :
+ A
+ continuación
+ se
+ complementa
+ la
+ información
+ respecto
+ de
+ “Insumos
+ de
+ construcción
+-
+ Áridos
+ y
+ Éstabilizado”
+
+a. Cantidad requerida (m [3] /día, m [3] /mes):
+ En
+ primer
+ lugar
+ se
+ debe
+ aclarar
+ que
+ del
+ ítem
+ “áridos
+ y
+estabilizado”
+ sólo
+ 169
+ m [3] corresponden
+ a
+ arena
+ para
+ utilizar
+ en
+ las
+ zanjas
+ de
+ las
+ canalizaciones
+subterráneas
+ de
+ la
+ línea
+ de
+ media
+ tensión
+ y
+ los
+ 30.406
+ m [3] restantes
+ a
+ estabilizado
+ para
+ los
+caminos
+ y
+ plataformas.
+ En
+ promedio
+ se
+ utilizarán
+ 3.821
+ m [3] /mes.
+
+b. Modo de provisión:
+ Al
+ igual
+ que
+ en
+ casos
+ anterior,
+ en
+ esta
+ etapa
+ del
+ Proyecto
+ no
+ es
+ posible
+identificar
+ a
+ un
+ proveedor
+ en
+ específico,
+ sin
+ embargo,
+ el
+ titular
+ se
+ compromete
+ a
+ adquirir
+ los
+áridos
+ de
+ una
+ cantera
+ que
+ cuente
+ con
+ las
+ autorizaciones
+ respectivas.
+
+c.
+ El
+ Proyecto
+ no
+ considera
+ la
+ extracción/producción
+ de
+ áridos.
+
+d. Acopio de áridos: identificar y describir el recinto para el acopio, además de señalar su
+ubicación (georreferenciación): El
+ acopio
+ se
+ realizará
+ en
+ la
+ zona
+ demarcada
+ para
+ tal
+ fin,
+ a
+ saber,
+“área
+ de
+ acopio”
+ cuyas
+ coordenadas
+ fueron
+ indicadas
+ en
+ la
+ DIA
+ y
+ que
+ ahora
+ se
+ georreferencian
+ en
+el
+ Plano
+ No
+ 3
+ del
+ Anexo
+ B.
+
+e.
+ Destino:
+ Los
+ 169
+ m [3] de
+ arena
+ se
+ usarán
+ para
+ cubrir
+ el
+ conductor
+ de
+ cobre
+ con
+ una
+ capa
+ de
+ este
+árido
+ dentro
+ de
+ la
+ canalización
+ subterránea
+ de
+ la
+ línea
+ de
+ media
+ tensión.
+Los
+ 30.406
+ m [3] de
+ estabilizado
+ se
+ utilizarán
+ en
+ el
+ acondicionamiento
+ de
+ caminos
+ internos,
+plataformas
+ de
+ montaje
+ y
+ para
+ la
+ capa
+ superficial
+ de
+ las
+ mallas
+ de
+ tierra.
+
+**Potenciales Impactos Ambientales**
+_**36.
+ El
+ Proponente
+ deberá
+ presentar
+ un
+ Resumen
+ de
+ los
+ Potenciales
+ Impactos
+ Ambientales
+ a**_
+_**generar
+ por
+ el
+ proyecto,
+ en
+ la
+ Etapa
+ de
+ Construcción.
+ Para
+ lo
+ anterior,
+ se
+ sugiere
+ considerar
+ la**_
+_**siguiente
+ Tabla:**_
+
+45
+
+**RESPUESTA:** A
+ continuación,
+ se
+ presenta
+ la Tabla 1-17 información
+ solicitada,
+ aclarando
+ que
+ de
+acuerdo
+ al
+ análisis
+ desarrollado
+ tanto
+ en
+ la
+ DIA
+ como
+ en
+ la
+ presente
+ Adenda,
+ el
+ titular
+ sostiene
+que
+ la
+ ejecución
+ del
+ Proyecto
+ no
+ genera
+ impactos
+ ambientales
+ significativos
+ sobre
+ las
+componentes
+ ambientales
+ presentes
+ dentro
+ del
+ área
+ de
+ influencia.
+
+**Tabla
+ 1-­‐17** **Resumen
+ potenciales
+ impactos
+ ambientales,
+ fase
+ de
+ construcción**
+
+|Obras y/o<br>Actividad fase de<br>construcción que<br>puedan causar<br>impactos|Potenciales<br>Impactos<br>Ambientales|Acciones de<br>Manejo ambiental|Lugar de ejecución|Frecuencia|Verificación<br>de<br>cumplimiento|
+|---|---|---|---|---|---|
+|Movimientos de<br>tierra<br>y<br>transporte<br>de<br>materiales<br>e<br>insumos|Resuspensión<br>de<br>material<br>particulado|1.<br>Control<br>de<br>velocidad:<br>En<br>caminos<br>no<br>pavimentados<br>los<br>vehículos livianos y<br>pesados<br>no<br>circularán<br>a<br>una<br>velocidad mayor a<br>60 km/h y a 40<br>km/h,<br>respectivamente.<br>|Caminos<br>interiores<br>del Proyecto|<br>Diaria|Registros en<br>faena|
+|Movimientos de<br>tierra<br>y<br>transporte<br>de<br>materiales<br>e<br>insumos|Resuspensión<br>de<br>material<br>particulado|2. Humectación de<br>caminos interiores.|Caminos<br>interiores<br>del Proyecto|<br>2<br>veces/día,<br>desde<br>Septiembre de<br>2016 a Febrero<br>2017|Ficha<br>de<br>registro<br>presentada<br>en la Tabla<br>1-16|
+|Ejecución<br>de<br>obras<br>civiles,<br>Fundaciones<br>aerogeneradores,<br>habilitación<br>de<br>caminos nuevos|Aumento<br>niveles<br>de<br>ruido|No se consideran<br>medidas especiales<br>de manejo de<br>Ruido, ya que La<br>predicción de los<br>niveles proporciona<br>resultados<br>favorables para<br>todos los receptores<br>debido a que estos<br>se encuentran a<br>grandesdistancias|No aplica|No aplica|No aplica|
+
+46
+
+|Obras y/o<br>Actividad fase de<br>construcción que<br>puedan causar<br>impactos|Potenciales<br>Impactos<br>Ambientales|Acciones de<br>Manejo ambiental|Lugar de ejecución|Frecuencia|Verificación<br>de<br>cumplimiento|
+|---|---|---|---|---|---|
+|||de las fuentes de<br>ruido (alrededor de<br>1 kilómetro del<br>receptor más<br>cercano).<br>||||
+|Ejecución<br>de<br>obras<br>civiles,<br>Fundaciones<br>aerogeneradores,<br>habilitación<br>de<br>caminos nuevos|Mortalidad de<br>ejemplares de<br>fauna<br>protegida<br>de<br>baja movilidad|Plan de<br>perturbación<br>controlada|Superficie total del<br>área de influencia del<br>Proyecto|<br> <br>Única, previa el<br>nicio<br>fae<br>construcción|Informe<br>remitido<br>a<br>SMA y SAG|
+|Ejecución<br>de<br>obras<br>civiles,<br>Fundaciones<br>aerogeneradores,<br>habilitación<br>de<br>caminos nuevos|Mortalidad de<br>ejemplares de<br>fauna<br>protegida<br>de<br>baja movilidad|Monitoreo de fauna|Superficie total del<br>área de influencia del<br>Proyecto|<br> <br>7 y 30 días<br>posterior<br>a<br>ejecución<br>Plan<br>Perturbación<br>Controlada|<br>Informe<br>remitido a<br>SMA y SAG|
+|Ejecución<br>de<br>obras<br>civiles,<br>Fundaciones<br>aerogeneradores,<br>habilitación<br>de<br>caminos nuevos|Mortalidad de<br>ejemplares de<br>fauna<br>protegida<br>de<br>baja movilidad|Capacitación al<br>personal|Oficinas del Proyecto|Única, previa el<br>nicio<br>fae<br>construcción|Informe<br>remitido<br>a<br>SMAy SAG|
+|Ejecución<br>de<br>obras<br>civiles,<br>Fundaciones<br>aerogeneradores,<br>habilitación<br>de<br>caminosnuevos|Pérdida<br>de<br>superficie<br>de<br>plantación de<br>_Eucaliptus_<br>_globulus_|Plan de Manejo<br>Forestal|9,7<br>ha<br>de<br>intervención<br>sobre<br>plantación<br>de<br>_Eucaliptus globulus_|<br> <br> <br>Única, previa el<br>nicio<br>fae<br>construcción|PMF<br>aprobado por<br>CONAF|
+
+Fuente:
+ Elaboración
+ propia
+
+_**Etapa de Operación**_
+_**37.
+ En
+ el
+ punto
+ 2.3.10.3
+ de
+ la
+ DIA
+ “Productos
+ químicos”,
+ se
+ señala:
+ “Durante
+ la
+ operación
+ se**_
+_**utilizarán
+ aceites
+ eléctricos
+ y
+ mecánicos
+ de
+ aerogeneradores
+ y
+ subestación,
+ durante
+ las
+ labores**_
+_**de
+ mantención
+ del
+ parque
+ y
+ corresponderán
+ a
+ 300
+ litros
+ de
+ lubricante
+ por
+ cada
+ aerogenerador**_
+_**cada
+ dos
+ años”.
+ Al
+ respecto
+ se
+ solicita
+ indicar
+ el
+ manejo
+ que
+ tendrán
+ en
+ términos
+ de
+ acopio
+ y**_
+_**eliminación
+ de
+ estos
+ productos
+ posterior
+ a
+ su
+ utilización.**_
+
+47
+
+**RESPUESTA:** Tal
+ como
+ se
+ mencionó
+ en
+ el
+ acápite
+ 2.3.1.2
+ de
+ la
+ DIA **,** se
+ aclara
+ que
+ las
+ mantenciones,
+tanto
+ programadas
+ como
+ de
+ emergencia,
+ serán
+ realizadas
+ por
+ empresa
+ externa,
+ calificada,
+acreditada
+ y
+ debidamente
+ autorizada
+ para
+ estos
+ efectos,
+ la
+ cual
+ tendrá
+ la
+ responsabilidad
+ de
+ las
+labores
+ de
+ seguimiento
+ y
+ mantención
+ del
+ parque.
+
+Esta
+ empresa
+ externa
+ será
+ la
+ encargada
+ del
+ manejo,
+ gestión,
+ transporte
+ y
+ disposición
+ final
+autorizada
+ de
+ todos
+ los
+ residuos,
+ incluyendo
+ los
+ aceites
+ residuales
+ que
+ se
+ produzcan
+ durante
+ las
+labores
+ de
+ mantención
+ descritas
+ a
+ continuación,
+ para
+ lo
+ cual
+ deberá
+ cumplir
+ con
+ todas
+ las
+disposiciones
+ aplicables
+ contenidas
+ en
+ el
+ DS
+ No
+ 148/2004,
+ Reglamento
+ sanitario
+ sobre
+ manejo
+ de
+residuos
+ peligrosos,
+ y
+ cuyas
+ obligaciones
+ se
+ detallan
+ a
+ continuación:
+
+1. Retirar
+ y
+ transportar
+ los
+ residuos
+ peligrosos
+ a
+ través
+ de
+ transportistas
+ que
+ cuenten
+ con
+
+autorización
+ sanitaria,
+ y
+ cumplan
+ expresamente
+ los
+ requisitos
+ aplicables
+ de
+ los
+ artículos
+No
+ 36
+ al
+ 42,
+ del
+ Título
+ V
+ "Del
+ Transporte"
+ del
+ DS
+ No
+ 148/2004,
+2. Realizar
+ la
+ eliminación
+ de
+ los
+ residuos
+ peligrosos
+ en
+ Instalaciones
+ de
+ Eliminación
+ que
+
+cuenten
+ con
+ la
+ debida
+ Autorización
+ Sanitaria
+ que
+ comprenda
+ tales
+ residuos,
+ fuera
+ del
+ área
+del
+ Proyecto.
+3. Proporcionar
+ oportunamente
+ la
+ información
+ correspondiente
+ al
+ Sistema
+ de
+ Declaración
+ y
+
+Seguimiento
+ de
+ Residuos
+ Peligrosos
+ y
+ entregar
+ al
+ transportista
+ las
+ respectivas
+ Hojas
+ de
+Seguridad
+ para
+ el
+ Transporte
+ de
+ Residuos
+ Peligrosos.
+
+Por
+ último,
+ se
+ aclara
+ que
+ no
+ habrá
+ una
+ bodega
+ de
+ RESPEL
+ permanente
+ durante
+ la
+ fase
+ de
+operación
+ del
+ Proyecto.
+
+_**38.
+ Se
+ solicita
+ al
+ Proponente
+ complementar
+ la
+ información
+ presentada
+ en
+ el
+ punto
+ 2.3.5.1
+ de
+ la**_
+_**DIA
+ “Mantenimiento
+ preventivo”,
+ presentando
+ procedimientos
+ para
+ el
+ mantenimiento
+ de
+ los**_
+_**aerogeneradores,
+ de
+ la
+ estación
+ de
+ control,
+ tendidos
+ eléctricos
+ y
+ de
+ los
+ caminos,
+ incorporando**_
+_**los
+ insumos
+ requeridos
+ por
+ el
+ proyecto
+ para
+ estas
+ acciones.**_
+
+**RESPUESTA:** A
+ continuación
+ se
+ presentan
+ los
+ procedimientos
+ generales
+ para
+ el
+ mantenimiento
+ de
+aerogenradores,
+ sala
+ de
+ control,
+ tendidos
+ eléctricos
+ y
+ caminos:
+
+Aerogeneradores:
+ El
+ mantenimiento
+ preventivo
+ de
+ los
+ aerogeneradores
+ involucra
+ procedimientos
+de
+ chequeo
+ continuo
+ de
+ los
+ diferentes
+ componentes
+ de
+ la
+ infraestructura
+ de
+ generación
+ para
+asegurar
+ así
+ su
+ correcto
+ funcionamiento.
+
+ De
+ esta
+ forma,
+ al
+ menos
+ una
+ vez
+ al
+ año
+ se
+ realizan
+chequeos
+ visuales
+ de
+ los
+ siguientes
+ componentes:
+
+-­‐ Fundaciones
+ y
+ áreas
+ externas
+
+48
+
+-­‐ Anclaje
+ y
+ base
+ de
+ la
+ torre
+-­‐ Accesorios
+ de
+ la
+ torre
+ (anillo
+ de
+ anclaje,
+ cabina
+ de
+ control,
+ extintor
+ interno
+ de
+ cada
+ torre,
+cable
+ de
+ acero
+ anticaídas,
+ pequeña
+ grúa
+ interna
+ de
+ elevación
+ de
+ materiales
+ de
+ trabajo,
+entre
+ otros)
+-­‐ Torre
+ (sistemas
+ de
+ aseguramiento,
+ sistemas
+ de
+ puesta
+ a
+ tierra,
+ luces
+ y
+ luces
+ de
+emergencia,
+ switchs,
+ cajas
+ de
+ conexión,
+ enchufes,
+ escaleras,
+ plataformas
+ intermedias
+ de
+las
+ diferentes
+ alturas
+ de
+ la
+ torre,
+ puentes
+ y
+ cajas
+ de
+ cables,
+ entre
+ otros)
+-­‐ Sistemas
+ de
+ freno
+ (frenos
+ hidráulicos,
+ discos,
+ caliper,
+ cables
+ de
+ poder
+ y
+ control,
+ cables
+trenzados
+ y
+ sistema
+ de
+ destrenzado
+ automático)
+-­‐ Góndola
+ (sistemas
+ de
+ soporte,
+ impermeabilización,
+ iluminación,
+ de
+ ventilación,
+ cabina
+ de
+control
+ etc.)
+-­‐ Estación
+ meteorológica
+ (anemómetros
+ y
+ veletas
+ de
+ dirección
+ de
+ viento),
+ sistema
+ de
+orientación.
+-­‐ Sistema
+ de
+ transmisión,
+ caja
+ de
+ cambio
+ y
+ sistema
+ de
+ enfriamiento.
+-­‐ Generador
+-­‐ Aspas
+
+El
+ chequeo
+ consiste
+ en
+ la
+ revisión
+ y
+ limpieza
+ de
+ elementos
+ que
+ hayan
+ acumulado
+ polvo
+ y
+ pudiesen
+haber
+ sufrido
+ efectos
+ de
+ la
+ corrosión.
+ Asimismo,
+ se
+ chequea
+ el
+ correcto
+ estado
+ de
+ todos
+ los
+elementos
+ de
+ seguridad
+ internos
+ en
+ cada
+ aerogenerador.
+
+ Se
+ verifica
+ además
+ el
+ correcto
+ estado
+ de
+todos
+ los
+ pernos,
+ tornillos
+ y
+ bridas,
+ respetando
+ el
+ chequeo
+ de
+ torque
+ y
+ de
+ posición
+ para
+ cada
+ tipo
+de
+ tonillo.
+
+ Se
+ reemplazan
+ las
+ luminarias
+ que
+ no
+ estén
+ funcionando.
+
+Respecto
+ al
+ chequeo
+ de
+ frenos,
+ se
+ comprueba
+ que
+ no
+ existan
+ ruidos
+ anormales
+ y
+ se
+ chequea
+ el
+estado
+ de
+ todos
+ los
+ pernos
+ y
+ tornillos,
+ realizando
+ test
+ de
+ torque
+ y
+ de
+ posición,
+ asi
+ como
+ del
+ grosor
+de
+ los
+ discos,
+ los
+ cuales
+ se
+ remmplazan
+ en
+ caso
+ de
+ ser
+ necesario.
+ Se
+ verifica
+ además
+ el
+ apriete
+
+ y
+diametro
+ de
+ los
+ cables
+ de
+ poder
+ y
+ de
+ control.
+ Respecto
+ de
+ los
+ cables
+ trenzados
+ se
+ verifica
+ que
+éstos
+ no
+ estén
+ enrrollados
+ en
+ más
+ de
+ tres
+ veces
+ en
+ cada
+ dirección
+ y
+ se
+ verifica
+ el
+ correcto
+funcionamiento
+ del
+ sistema
+ de
+ destrenzado
+ automático.
+ Cada
+ 5
+ años,
+ se
+ realizan
+ además
+ los
+cambios
+ de
+ aceites
+ y
+ de
+ filtros
+ necesarios
+ del
+ sistema
+ de
+ frenos.
+
+Respecto
+ de
+ la
+ Góndola,
+ se
+ verifica
+ el
+ estado
+ del
+ soporte
+ y
+ el
+ estado
+ de
+ impermeabilización
+ de
+ la
+misma.
+ Se
+ chequean
+ todos
+ los
+ pernos
+ y
+ tornillos,
+ verificando
+ el
+ estado
+ y
+ posición
+ de
+ los
+ mismos,
+ y
+se
+ realizan
+ las
+ correspondientes
+ pruebas
+ de
+ torque.
+ Se
+ verifica
+ el
+ estado
+ de
+ las
+ luminarias,
+ las
+cuales
+ son
+ reemplazadas
+ en
+ caso
+ de
+ ser
+ necesario.
+ Finalmente
+ se
+ verifica
+ el
+ estado
+ de
+ la
+ cabina
+ de
+control
+ y
+ todos
+ sus
+ componentes
+ internos
+ (cables,
+ dispositivos,
+ puestas
+ a
+ tierra,
+ etc.)
+
+49
+
+El
+ mantenimiento
+ preventivo
+ considera
+ también
+ el
+ chequeo
+ de
+ la
+ estación
+ meteorológica
+ de
+ cada
+aerogenerador,
+ verificando
+ principalmente
+ el
+ estado
+ de
+ los
+ anemómetros
+ y
+ las
+ veletas
+ de
+dirección
+ de
+ viento,
+ los
+ cuales
+ son
+ calibrados
+ o
+ cambiados
+ en
+ caso
+ de
+ ser
+ necesario.
+ De
+ la
+ misma
+forma
+ se
+ verifica
+ el
+ correcto
+ estado
+ y
+ funcionamiento
+ de
+ los
+ sistemas
+ de
+ orientación.
+
+A
+ continuación
+ se
+ verifica
+ el
+ estado
+ del
+ sistema
+ de
+
+ transmisión,
+ de
+ la
+ caja
+ de
+ cambios
+ y
+ del
+sistema
+ de
+ enfriamiento.
+ Se
+ chequea
+ el
+ estado
+ de
+ las
+ conexiones,
+ cables,
+ sistemas
+ de
+ ventilación
+ y
+de
+ soporte,
+ así
+ como
+ de
+ los
+ pernos
+ y
+ tornillos
+ que
+ los
+ componen
+ (con
+ las
+ respectivas
+ pruebas
+ de
+posición
+ y
+ de
+ torque).
+ Cuando
+ corresponda,
+ se
+ realizan
+ los
+ cambios
+ de
+ aceite
+ que
+ sean
+ necesarios
+(cada
+ 5
+ años).
+
+Respecto
+ del
+ generador
+ de
+ cada
+ aerogenerador,
+ se
+ verifica
+ el
+ estado
+ general
+ de
+ los
+ mismos
+ en
+cuánto
+ al
+ estado
+ de
+ la
+ píntura,
+ óxido
+ y
+ otros.
+ Se
+ realiza
+ el
+ chequeo
+ de
+ todos
+ los
+ componentes
+ para
+asegurar
+ el
+ correcto
+ funcionamiento
+ (alineación,
+ conexiones
+ del
+ rotor,
+ cajas
+ de
+ conexiones
+auxiliares,
+ cables,
+ sistemas
+ de
+ enfriamiento
+ y
+ de
+ control,
+ etc.)
+
+Finalmente,
+ se
+ realiza
+ el
+ chequeo
+ de
+ las
+ aspas
+ de
+ cada
+ aerogenerador
+ mediante
+ la
+ verificación
+ de
+la
+ pintura,
+ presencia
+ de
+ óxido,
+ etc,
+ y
+ se
+ realiza
+ la
+ limpieza
+ correspondiente
+ en
+ caso
+ de
+ ser
+necesario.
+ Asimismo
+ se
+ verifica
+ que
+ no
+ existan
+ ruidos
+ anormales
+ durante
+ la
+ rotación
+ de
+ las
+ aspas.
+
+Todos
+ los
+ materiales,
+ envoltorios,
+ partes
+ y
+ piezas
+ repuestas
+ durante
+ el
+ proceso
+ de
+ mantenimiento
+de
+ los
+ aerogeneradores
+ son
+ acopiadas
+ y
+ llevadas
+ por
+ el
+ mismo
+ personal
+ de
+ mantenimiento.
+
+ Estos
+residuos
+ serán
+ transportados
+ para
+ su
+ disposicion
+ final
+ en
+ lugares
+ debidamente
+ autorizados.
+
+Sala de control:
+ Una
+ vez
+ al
+ año
+ se
+ realiza
+ una
+ inspección
+ visual
+ de
+ los
+ equipos
+ y
+ conexiones
+eléctricas.
+ Si
+ se
+ encuentra
+ algún
+ desperfecto
+ se
+ desconecta
+ la
+ alimentación
+ de
+ la
+ sala
+ y
+ se
+ realizan
+las
+ reparaciones.
+ También,
+ pero
+ con
+ menor
+ frecuencia
+ (cada
+ 2
+ años)
+ se
+ pinta
+ la
+ sala
+ y
+ se
+ remarcan
+las
+ señaléticas.
+
+Tendido eléctrico:
+ Cada
+ 2
+ años
+ se
+ des-­‐energizan
+ y
+ desconectan
+ los
+ alimentadores
+ y
+ se
+ limpian
+ los
+aisladores
+ de
+ las
+ líneas,
+ se
+ revisan
+ las
+ puestas
+ a
+ tierra
+ y
+ los
+ puntos
+ donde
+ existen
+ unión
+ del
+ cable
+conductor
+ para
+ prevenir
+ fallas
+ en
+ el
+ tendido,
+ se
+ miden
+ las
+ mallas
+ de
+ tierra,
+ se
+ realiza
+ una
+ revisión
+visual
+ de
+ las
+ estructuras
+ de
+ soporte
+ y
+ se
+ remarcan
+ las
+ señaléticas
+ de
+ los
+ postes.
+
+Caminos:
+ Los
+ caminos
+ tienen
+ poco
+ uso,
+ sólo
+ se
+ utilizan
+ en
+ caso
+ de
+ mantenimiento
+ o
+ fallas
+ en
+ los
+aerogeneradores.
+ Se
+ estima
+ que
+ las
+ rutas
+ interiores
+ del
+ parque
+ se
+ usarán
+ como
+ máximo
+ 4
+ meses
+ al
+año
+ para
+ un
+ procedimiento
+ de
+ mantención
+ general.
+ En
+ dichos
+ períodos
+ los
+ vehículos
+ que
+circularán
+ serán
+ livianos
+ (camionetas
+ doble
+ cabina)
+ y
+ no
+ realizarán
+ más
+ de
+ 4
+ viajes
+ al
+ día
+ durante
+ el
+
+50
+
+tiempo
+ que
+ dure
+ la
+ mantención.
+ Por
+ todo
+ lo
+ mencionado
+ el
+ mantenimiento
+ de
+ los
+ caminos
+ es
+mínimo,
+ cada
+ 4
+ o
+ 5
+ años
+ será
+ necesario
+ nivelar
+ ciertas
+ zonas
+ del
+ trazado,
+ remarcar
+ curvas,
+ quitar
+piedras
+ u
+ otros
+ objetos
+ que
+ se
+ encuentren.
+ Dado
+ que
+ los
+ caminos
+ interiores
+ son
+ diseñados
+ y
+construidos
+ principalmente
+ para
+ el
+ tránsito
+ de
+ maquinaria
+ destinada
+ a
+ realizar
+ la
+ construcción
+ de
+las
+ fundaciones
+ y
+ el
+ proceso
+ de
+ montaje
+ de
+ los
+ aerogeneradores,
+ el
+ tránsito
+ liviano
+ del
+ periodo
+ de
+mantenimiento
+ durante
+ la
+ fase
+ de
+ operación
+ del
+ proyecto
+ no
+ genera
+ un
+ daño
+ sobre
+ el
+ camino
+ que
+requiera
+ cuidado.
+
+_**39.
+ Se
+ solicita
+ al
+ Proponente
+ informar
+ si
+ el
+ proyecto
+ contempla
+ fuentes
+ que
+ generen
+ vibraciones**_
+_**en
+ alguna
+ de
+ sus
+ etapas,
+ de
+ ser
+ efectivo
+ éstas
+ deberán
+ estar
+ asociarlas
+ a
+ las
+ actividades**_
+_**respectivas
+ y
+ proceder
+ a
+ describir
+ el
+ tipo
+ de
+ vibración,
+ régimen
+ de
+ emisión,
+ período
+ de
+ tiempo
+ en**_
+_**que
+ se
+ genera
+ y
+ las
+ medidas
+ de
+ control
+ o
+ de
+ manejo
+ que
+ implementarán**_ _._
+
+**RESPUESTA:** Las
+ características
+ de
+ las
+ actividades
+ definidas
+ para
+ la
+ construcción,
+ operación
+ y
+cierre,
+ descritas
+ en
+ el
+ punto
+ 2
+ Descripción
+ del
+ Proyecto
+ de
+ la
+ DIA,
+ no
+ establecen
+ acciones
+promotoras
+ de
+ vibraciones
+ sobre
+ la
+ población
+ que
+ pudiesen
+ causar
+ algún
+ tipo
+ de
+ afectación.
+
+Solamente,
+ durante
+ la
+ construcción
+ del
+ proyecto,
+ se
+ podrían
+ generar
+ vibraciones
+ puntuales
+ en
+ los
+frentes
+ de
+ trabajo
+ provocada
+ por
+ vibraciones
+ de
+ vehículos,
+ maquinarias
+ o
+ herramientas
+ eléctricas
+manuales.
+ Esta
+ exposición
+ está
+ regulada
+ por
+ los
+ artículos
+ 83
+ al
+ 94
+ del
+ Decreto
+ Supremo
+ No594/99
+del
+ MINSAL,
+ donde
+ se
+ indican
+ los
+ límites
+ máximos
+ permisibles,
+ tanto
+ para
+ vibraciones
+ de
+ Cuerpo
+Entero
+ como
+ del
+ tipo
+ Mano
+ Brazo,
+ de
+ acuerdo
+ al
+ tiempo
+ de
+ exposición
+ al
+ agente
+ y
+ por
+ cada
+ uno
+ de
+los
+ ejes
+ de
+ medición
+ ahí
+ señalados.
+ Este
+ cuerpo
+ legal
+ forma
+ parte
+ de
+ la
+ normativa
+ aplicable
+ al
+proyecto,
+ por
+ lo
+ que
+ mediante
+ su
+ cumplimiento
+ se
+ evita
+ afectación
+ sobre
+ los
+ trabajadores.
+
+**40.
+ En
+ complemento
+ a
+ consulta
+ anterior,
+ deberá
+ el
+ Proponente
+ referirse
+ a
+ las
+ emisiones
+ de**
+**campos
+ electromagnéticos
+ a
+ producir,
+ identificando
+ la
+ o
+ las
+ fuentes
+ generadoras,
+ estimándose**
+**los
+ valores
+ de
+ campo
+ eléctrico
+ y
+ magnético,
+ adjuntando
+ la
+ metodología
+ utilizada
+ para
+ su**
+**determinación.**
+
+**RESPUESTA:** Durante
+ la
+ operación
+ del
+ proyecto
+ se
+ generan
+ campos
+ eléctricos
+ y
+ magnéticos
+fundamentalmente
+ por
+ la
+ interconexión
+ de
+ los
+ aerogeneradores
+ y
+ la
+ evacuación
+ de
+ la
+ energía
+ a
+través
+ del
+ tendido
+ aéreo
+ y
+ en
+ menor
+ medida
+ por
+ la
+ operación
+ de
+ la
+ subestación.
+ No
+ existe
+ otra
+fuente
+ de
+ estos
+ campos
+ relevante
+ durante
+ la
+ construcción,
+ operación
+ y
+ cierre
+ del
+ proyecto.
+
+Para
+ dar
+ respuesta,
+ a
+ esta
+ observación,
+ se
+ presenta
+ en **Anexo
+ C
+ -­‐Cálculo
+ del
+ CEM-­‐** y
+ se
+ presenta
+bibliografía
+ sobre
+ los
+ efectos
+ de
+ los
+ campos
+ sobre
+ la
+ población
+ y
+ biota,
+ concluyendo
+ que
+ como
+
+51
+
+consecuencia
+ de
+ las
+ bajas
+ frecuencias
+ utilizadas
+ por
+ la
+ infraestructura
+ eléctrica
+ del
+ proyecto
+ no
+ se
+puede
+ prever
+ afectación
+ ambiental
+ por
+ esta
+ componente.
+ Refuerza
+ esta
+ conclusión
+ los
+ bajos
+valores
+ de
+ CEM
+ calculados
+ en
+ el
+ Anexo
+ C
+ en
+ comparación
+ con
+ la
+ recomendación
+ de
+ la
+ Unión
+Europea,
+ del
+ 12
+ de
+ Julio
+ de
+ 1999,
+ la
+ que
+ fija
+ el
+ límite
+ de
+ tolerabilidad
+ en
+ 100
+ μT.
+
+_**41.
+ Considerando
+ que
+ las
+ torres
+ de
+ los
+ aerogeneradores
+ miden
+ 120
+ m.
+ y
+ sus
+ aspas
+ tendrán
+ un**_
+_**diámetro
+ de
+ 120
+ m.,
+ se
+ solicita
+ al
+ Proponente
+ evaluar
+ las
+ potenciales
+ afectaciones
+ durante
+ la**_
+_**etapa
+ de
+ operación
+ a
+ las
+ personas
+ que
+ habitan
+ en
+ los
+ sectores
+ cercanos
+ al
+ Proyecto,
+ en
+ los**_
+_**siguientes
+ ámbitos:**_
+_**a.
+ Impactos
+ visuales
+ de
+ los
+ aerogeneradores,
+ el
+ efecto
+ de
+ sombra
+ titilante
+ (“shadow
+ flicker”)
+ del**_
+_**movimiento
+ de
+ los
+ rotores
+ y
+ las
+ aspas
+ de
+ los
+ aerogeneradores
+ y
+ posibles
+ destellos
+ de
+ reflejos**_
+_**solares;**_
+_**b.
+ Alteración
+ electromagnética
+ de
+ las
+ aspas
+ en
+ rotación
+ sobre
+ señales
+ de
+ televisión,
+ radio
+ o**_
+_**telefonía;**_
+_**c.
+ De
+ ser
+ necesario,
+ el
+ Proponente
+ deberá
+ formular
+ acciones
+ con
+ su
+ respectivo
+ plan
+ de**_
+_**seguimiento.**_
+
+_**La
+ metodología
+ para
+ obtener
+ la
+ información
+ solicitada
+ debe
+ considerar
+ fuentes
+ primarias
+ y**_
+_**secundarias,
+ observación
+ en
+ terreno,
+ aplicación
+ de
+ encuestas
+ y/o
+ entrevistas,
+ según
+ sea**_
+_**necesario.
+ La
+ metodología
+ utilizada
+ y
+ su
+ aplicación
+ deberán
+ ser
+ debidamente
+ descritas
+ en
+ la**_
+_**respuesta
+ a
+ la
+ presente
+ consulta.**_
+
+**RESPUESTA:** Vale
+ mencionar
+ que
+ el
+ proyecto
+ eólico
+ La
+ Estrella
+ en
+ su
+ diseño
+ consideró
+ en
+ todo
+momento
+ las
+ disposiciones
+ de
+ la
+ “ _**Guía
+ para
+ Proyectos
+ Eólicos
+ del
+ Estado
+ de
+ Hamburgo
+ en**_
+_**Alemania**_ _”
+ el
+ cual
+ se
+ presenta
+ como_ se
+ presenta **Anexo
+ K**,
+ la
+ cual
+ señala
+ que
+ la
+ distancia
+ mínima
+adecuada
+ para
+ evitar
+ impactos
+ ambientales
+ sobre
+ la
+ población
+ aledaña
+ de
+ shadow
+ flicker,
+ ruido,
+radiaciones
+ de
+ televisión
+ u
+ otro
+ relevante,
+ es
+ de
+ 300
+ m hacia
+ viviendas
+ individuales
+ y
+ 500
+ m
+ hacia
+secotres
+ residenciales.
+
+Como
+ se
+ desprende
+ de
+ esas
+ recomendaciones,
+ el
+ parque
+ eólico
+ La
+ Estrella
+ presenta
+ un
+ alto
+estándar
+ en
+ cuanto
+ a
+ distancia
+ a
+ población,
+ ya
+ que **la
+ vivienda
+ aislada
+ más
+ cercana
+ se
+ ubica**
+**aproximadamente
+ a
+ 1.000
+ m
+ de
+ distancia**,
+ por
+ tanto
+ se
+ evita
+ cualquier
+ tipo
+ de
+ afectación
+ de
+ las
+mencionadas
+ en
+ los
+ literales
+ a,
+ b
+ y
+ c
+ de
+ la
+ observación.
+
+52
+
+**Potenciales Impactos Ambientales**
+_**42.
+ El
+ Proponente
+ deberá
+ presentar
+ un
+ Resumen
+ de
+ los
+ Potenciales
+ Impactos
+ Ambientales
+ a**_
+_**generar
+ por
+ el
+ proyecto,
+ en
+ la
+ Etapa
+ de
+ Operación.
+ Para
+ lo
+ anterior,
+ se
+ sugiere
+ considerar
+ la**_
+_**siguiente
+ Tabla**_ **:**
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ A
+ continuación,
+ en
+ la Tabla 1-18 se
+ presenta
+ la
+ información
+solicitada,
+ aclarando
+ que
+ de
+ acuerdo
+ al
+ análisis
+ desarrollado
+ tanto
+ en
+ la
+ DIA
+ como
+ en
+ la
+ presente
+Adenda,
+ el
+ titular
+ sostiene
+ que
+ la
+ ejecución
+ del
+ Proyecto
+ no
+ genera
+ impactos
+ ambientales
+significativos
+ sobre
+ las
+ componentes
+ ambientales
+ presentes
+ dentro
+ del
+ área
+ de
+ influencia.
+
+Dadas
+ las
+ caracteristicas
+ del
+ proyecto,
+ el
+ cual
+ no
+ genera
+ emisiones,
+ residuos
+ o
+ descargas
+ de
+consideración,
+ el
+ único
+ potencial
+ impacto
+ ambiental
+ que
+ se
+ identifica
+ durante
+ su
+ fase
+ de
+ operación
+(20
+ años),
+ es
+ la
+ eventual
+ colisión
+ de
+ aves,
+ cuya
+ probabiidad
+ de
+ ocurrencia,
+ de
+ acuerdo
+ a
+ la
+bibliografía
+ consultada,
+ es
+ mayor
+ para
+ el
+ caso
+ de
+ la
+ línea
+ de
+ transmisión.
+ Por
+ tal
+ motivo,
+ en
+ el
+Anexo
+ G
+ se
+ presenta
+ un
+ Plan
+ de
+ Contigencia
+ para
+ la
+ Colisión
+ de
+ Aves.
+
+**Tabla
+ 1-­‐18** **Potenciales
+ impactos
+ ambientales
+ fase
+ operación
+ PE
+ La
+ Estrella**
+
+|Obras y/o<br>Actividad fase<br>de operación<br>que puedan<br>causar impactos|Potenciales<br>Impactos<br>Ambientales|Acciones de Manejo<br>ambiental|Lugar de ejecución|Frecuencia|Verificación<br>de<br>cumplimiento|
+|---|---|---|---|---|---|
+|Funcionamiento<br>aerogeneradores|Colisión<br>de<br>avifauna|Plan<br>de<br>contingencia<br>colisióndeaves|Parque eólico|Monitoreo<br>trimestral<br>durante1 año|Informes<br>trimestrales a<br>SMAy SAG|
+|Transmisión de<br>energía|Colisión<br>de<br>avifauna|Plan<br>de<br>contingencia<br>colisióndeaves|Parque eólico|Monitoreo<br>trimestral<br>durante1 año|Informes<br>trimestrales a<br>SMAy SAG|
+
+Fuente:
+ Elaboración
+ propia
+
+53
+
+**Etapa de Abandono**
+_**43.
+ En
+ el
+ punto
+ 1.3.8
+ de
+ la
+ DIA
+ “Vida
+ útil
+ del
+ proyecto”,
+ se
+ indica
+ que
+ está
+ ascenderá
+ a
+ 20
+ años,**_
+_**para
+ una
+ vez,
+ transcurrido
+ este
+ tiempo
+ realizar
+ una
+ evaluación
+ técnico-­‐económica,
+ a
+ modo
+ de**_
+_**extender
+ su
+ operación
+ mediante
+ el
+ recambio
+ tecnológico.
+ No
+ obstante
+ lo
+ anterior,
+ el
+ Proponente**_
+_**deberá
+ desarrollar
+ esta
+ etapa
+ considerando
+ a
+ lo
+ menos
+ las
+ siguientes
+ acciones:**_
+
+_**a)
+ Desmantelar
+ o
+ asegurar
+ la
+ estabilidad
+ de
+ la
+ infraestructura
+ utilizada
+ por
+ el
+ proyecto
+ o**_
+_**actividad;**_
+**RESPUESTA:** Tal
+ como
+ se
+ indicó
+ en
+ el
+ acápite
+ 2.4.2
+ de
+ la
+ DIA,
+ esta
+ actividad
+ tiene
+ por
+ objetivo
+retirar
+ y
+ desmantelar
+ todo
+ el
+ mobiliario,
+ estructuras
+ y
+ equipamiento
+ de
+ oficinas,
+ talleres,
+dependencias
+ y
+ cualquier
+ instalación
+ existente
+ construida
+ con
+ relación
+ al
+ proyecto.
+ Todas
+ las
+construcciones
+ que
+ sean
+ factibles
+ de
+ desmontar
+ serán
+ desmanteladas,
+ especialmente
+ las
+ que
+ sean
+prefabricadas.
+ Las
+ obras
+ de
+ hormigón,
+ incluyendo
+ cimientos
+ si
+ procede,
+ se
+ demolerán,
+ de
+preferencia,
+ gestionándolos
+ como
+ residuos
+ industrial
+ no
+ peligroso
+ y
+ enviándolos
+ a
+ sitios
+ de
+disposición
+ final
+ autorizados.
+ Debido
+ a
+ que
+ no
+ habrá
+ personal
+ permanente
+ durante
+ la
+ operación
+del
+ Proyecto,
+ esta
+ actividad
+ se
+ prevé
+ que
+ será
+ de
+ menor
+ envergadura.
+
+Las
+ fundaciones
+ de
+ las
+ estructuras
+ de
+ los
+ aerogeneradores,
+ principal
+ obra
+ constructiva
+ del
+Proyecto,
+ serán
+ removidas
+ hasta
+ una
+ profundidad
+ no
+ inferior
+ de
+ 30
+ cm,
+ para
+ posteriormente
+rehabilitar
+ la
+ superficie
+ con
+ la
+ adición
+ de
+ suelo
+ natural,
+ que
+ permita
+ el
+ restablecimiento
+ natural
+ de
+la
+ vegetación
+ del
+ lugar,
+ cuya
+ procedencia
+ será
+ debidamente
+ acreditada
+ ante
+ la
+ autoridad
+ambiental.
+
+Los
+ componentes
+ de
+ los
+ aerogeneradores
+ y
+ de
+ la
+ subestación,
+ luego
+ de
+ ser
+ desmantelados,
+ serán
+reciclados
+ o
+ reutilizados,
+ según
+ sea
+ su
+ estado
+ de
+ conservación,
+ existiendo
+ un
+ amplio
+ mercado
+ para
+estos
+ efectos.
+
+_**b)
+ Describir
+ las
+ obras
+ y/o
+ acciones
+ de
+ restauración
+ de
+ la
+ geoforma
+ o
+ morfología,
+ vegetación
+ y**_
+_**cualquier
+ otro
+ componente
+ ambiental
+ que
+ haya
+ sido
+ afectado
+ durante
+ la
+ ejecución
+ del
+ proyecto**_
+_**o
+ actividad;**_
+RESPUESTA:
+ Tal
+ como
+ se
+ indicó
+ en
+ el
+ acápite
+ 2.4.3
+ de
+ la
+ DIA,
+ dado
+ que
+ el
+ terreno
+ no
+ recibirá
+ mayor
+preparación
+ que
+ las
+ excavaciones
+ de
+ las
+ fundaciones
+ descritas
+ anteriormente
+ y
+ por
+ tanto,
+ se
+considera
+ que
+ la
+ afección
+ sobre
+ el
+ suelo
+ y
+ la
+ geoforma
+ es
+ mínima,
+ el
+ lugar
+ quedará
+ plenamente
+como
+ en
+ su
+ estado
+ anterior
+ al
+ finalizar
+ la
+ operación.
+
+ Las
+ acciones
+ de
+ restauración
+ del
+ suelo,
+ serán
+las
+ indicadas
+ a
+ continuación:
+
+54
+
+1. La
+ restauración
+ del
+ suelo
+ modificado
+ a
+ las
+ condiciones
+ más
+ cercanas
+ a
+ la
+ situación
+ sin
+
+proyecto,
+ consistirán
+ en
+ un
+ perfilado
+ mecánico
+ con
+ maquinaria
+ pesada,
+ motoniveladora
+ o
+retroexcavadora,
+ utilizando
+ los
+ desechos
+ de
+ excavaciones
+ generados
+ en
+ la
+ remoción
+ de
+ las
+fundaciones
+ de
+ aerogeneradores.
+2. Posteriormente,
+ se
+ aplicará
+ una
+ capa
+ de
+ 30
+ cms
+ de
+ suelo
+ natural
+ cuya
+ procedencia
+ será
+
+debidamente
+ acreditada
+ ante
+ la
+ autoridad
+ ambiental.
+ La
+ terminación
+ de
+ esta
+ actividad
+ se
+realizará
+ con
+ herramientas
+ manuales,
+ palas
+ y
+ rastrillo,
+ hasta
+ obtener
+ una
+ superficie
+homogénea,
+ que
+ siga
+ las
+ líneas
+ naturales
+ de
+ la
+ pendiente
+ del
+ entorno.
+ Se
+ espera
+ que
+ la
+flora
+ presente
+ en
+ el
+ lugar,
+ colonice
+ naturalmente
+ estas
+ superficies.
+3. El
+ monitoreo
+ de
+ esta
+ actividad
+ se
+ realizará
+ mediante
+ el
+ uso
+ de
+ fotografías
+ previas
+ al
+ inicio
+
+de
+ la
+ fase
+ de
+ construcción,
+ de
+ aquellos
+ lugares
+ donde
+ se
+ instalen
+ las
+ obras
+ transitorias,
+ de
+modo
+ de
+ lograr
+ la
+ restauración
+ del
+ suelos
+ en
+ término
+ de
+ cota
+ y
+ pendiente.
+
+Con
+ respecto
+ a
+ la
+ afectación
+ sobre
+ la
+ componente
+ flora
+ y
+ vegetación,
+ en
+ la
+ presente
+ Adenda
+ se
+presenta
+ el
+ PMF
+ corregido
+ de
+ plantaciones
+ de _Eucaliptus
+ globulus_ y
+ un
+ plan
+ de
+ medidas
+ para
+ la
+especie
+ en
+ categoría
+ Tahay
+ ( _Calydorea
+ xyphioides)_ que
+ aseguran
+ una
+ mínima
+ afectación
+ sobre
+esta
+ componente
+ y
+ la
+ restitución
+ a
+ sus
+ condiciones
+ originales.
+
+_**c)
+ Identificar
+ las
+ acciones
+ a
+ desarrollar
+ para
+ prevenir
+ futuras
+ emisiones
+ desde
+ la
+ ubicación
+ del**_
+_**proyecto
+ o
+ actividad,
+ para
+ evitar
+ la
+ afectación
+ del
+ ecosistema
+ incluido
+ el
+ aire,
+ suelo
+ y
+ agua;
+ e**_
+
+**RESPUESTA:** Dadas
+ las
+ caracteristicas
+ del
+ Proyecto
+ no
+ considera
+ futuras
+ emisiones
+ posterior
+ al
+cierre:
+
+1. El
+ proyecto
+ consiste
+ en
+ un
+ parque
+ eólico
+ de
+ ERNC,
+ y
+ no
+ genera
+ emisiones
+ a
+ la
+ atmósfera
+
+durante
+ su
+ operación
+ ni
+ posterior
+ al
+ cierre.
+ Todas
+ sus
+ obras
+ y
+ partes
+ será
+ desmanteladas
+ y
+dispuestas
+ en
+ lugares
+ autorizados.
+2. El
+ proyecto
+ no
+ generará
+ descargas
+ de
+ ninguna
+ naturaleza,
+ no
+ durante
+ su
+ operacion
+ ni
+
+posterior
+ al
+ cierre.
+ Al
+ prescindir
+ de
+ personal
+ permanente,
+ no
+ habrá
+ efluente
+ de
+ ningún
+tipo,
+ por
+ otra
+ parte,
+ los
+ aceites
+ de
+ recambio
+ producto
+ de
+ mantenciones
+ será
+ gestionadas
+como
+ RESPEL
+ y
+ dispuestos
+ en
+ sitios
+ de
+ disposición
+ final
+ autorizados,
+ por
+ empresa
+autorizada,
+ fuera
+ del
+ predio
+ del
+ Proyecto.
+
+_**d)
+ Indicar
+ las
+ obras
+ y/o
+ acciones
+ asociadas
+ a
+ la
+ mantención,
+ conservación
+ y
+ supervisión
+ que
+ sean**_
+_**necesarias.**_
+**RESPUESTA:** Dadas
+ las
+ caracteristicas
+ del
+ Proyecto
+ y
+ lo
+ descrito
+ anteriormente,
+ no
+ resultan
+necesarias
+ acciones
+ de
+ mantención,
+ conservación
+ o
+ supervisión
+ posterior
+ al
+ cierre,
+ todas
+ sus
+ obras
+y
+ partes
+ serán
+ completamente
+ desmanteladas
+ y
+ dispuestas
+ en
+ sitios
+ de
+ disposición
+ autorizados.
+
+55
+
+### 2. NORMATIVA
+ DE
+ CARÁCTER
+ AMBIENTAL
+ APLICABLE**
+
+_**44.
+ Se
+ solicita
+ al
+ Proponente
+ incluir
+ los
+ siguientes
+ cuerpos
+ normativos
+ que
+ resultan
+ aplicables
+ al**_
+_**proyecto,
+ refiriéndose
+ a
+ ellos
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+ artículo
+ 19
+ del
+ D.S.
+ 40/2012
+ “la**_
+
+_**descripción de la forma y fases en las que se dará cumplimiento a las obligaciones contenidas en**_
+_**la normativa ambiental, incluyendo indicadores de cumplimiento”:**_
+
+_**Emisiones**_
+_**a.
+ Decreto
+ Supremo
+ N°47/1992,
+ Ministerio
+ de
+ Vivienda
+ y
+ Urbanismo,
+ Ordenanza
+ de
+ la
+ Ley**_
+_**General
+ de
+ la
+ Ley
+ General
+ de
+ Urbanismo
+ y
+ Construcciones;
+ artículo
+ 5.8.3o.**_
+_**b.
+ Decreto
+ Supremo
+ No
+ 279/1983
+ del
+ Ministerio
+ de
+ Salud;
+ Reglamento
+ para
+ el
+ Control
+ de
+ la**_
+_**Emisión
+ de
+ Contaminantes
+ de
+ Vehículos
+ Motorizados
+ de
+ Combustión
+ Interna.**_
+_**Aguas
+ potable**_
+_**c.
+ Decreto
+ Supremo
+ No446/2006
+ del
+ Ministerio
+ de
+ Salud;
+ Norma
+ Chilena
+ 409,
+ Requisitos
+ de
+ Agua**_
+_**Potable.**_
+
+_**Efluentes**_
+_**d.
+ Decreto
+ Supremo
+ No
+ 236/1926,
+ Ministerio
+ de
+ Higiene,
+ Asistencia,
+ Previsión
+ Social
+ y
+ Trabajo,**_
+_**Reglamento
+ de
+ alcantarillados
+ particulares,
+ fosas
+ sépticas,
+ cámaras
+ filtrantes,
+ cámaras
+ de**_
+_**contacto,
+ cámaras
+ absorbentes
+ y
+ letrinas
+ domiciliarias.**_
+_**e.
+ Decreto
+ Fuerza
+ Ley
+ No
+ 1122/1981,
+ ministerio
+ de
+ Justicia,
+ Código
+ de
+ Aguas.**_
+_**f.
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ N°1/90,
+ MINSAL,
+ determina
+ materias
+ que
+ requieren
+ autorización**_
+_**sanitaria
+ expresa.**_
+_**Residuos**_
+_**g.
+ Decreto
+ Ley
+ N°3.557/81,
+ Ministerio
+ de
+ Agricultura,
+ Establece
+ disposiciones
+ sobre
+ protección**_
+_**agrícola;
+ Artículo
+ 11.**_
+_**h.
+ Decreto
+ Supremo
+ N°
+ 298/1994,
+ Ministerio
+ de
+ Transporte
+ y
+ Telecomunicaciones,
+ Reglamento**_
+_**de
+ transporte
+ de
+ carga
+ peligrosa
+ por
+ calles
+ y
+ caminos.**_
+_**i.
+ Decreto
+ Supremo
+ No78/10
+ Ministerio
+ de
+ Salud.
+ Reglamento
+ de
+ almacenamiento
+ de
+ sustancias**_
+_**peligrosas.**_
+
+_**Servicios
+ Eléctricos**_
+_**j.
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No4/2007
+ del
+ Ministerio
+ de
+ Minería;
+ Ley
+ General
+ de
+ Servicios**_
+_**Eléctricos
+ en
+ Materia
+ de
+ Energía
+ Eléctrica.**_
+
+56
+
+_**Energía
+ e
+ Infraestructura
+ Eléctrica**_
+_**k.
+ Decreto
+ Supremo
+ No327/1997
+ del
+ Ministerio
+ de
+ Minería;
+ Reglamento
+ de
+ la
+ Ley
+ General
+ de**_
+_**Servicios
+ Eléctricos.
+ Artículos
+ 114,
+ 206,
+ 210,
+ 213
+ y
+ 219.**_
+_**l.
+ NSEG
+ 5
+ E.n.
+ 71/1971
+ de
+ la
+ Superintendencia
+ de
+ Electricidad
+ y
+ Combustibles;
+ Sobre**_
+_**Instalaciones
+ Eléctricas
+ de
+ Corrientes
+ Fuertes.**_
+_**m.
+ NSEG
+ 6.
+ E.n.
+ 71
+ de
+ la
+ Superintendencia
+ de
+ Electricidad
+ y
+ Combustibles;
+ Cruce
+ y
+ Paralelismo
+ de**_
+_**Líneas
+ Eléctricas.**_
+_**n.
+ DFL
+ N°4/2007
+ Texto
+ refundido,
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Reconstrucción
+ de
+ la**_
+_**Ley
+ N°1,
+ de
+ Minería,
+ de
+ 1982,
+ Ley
+ General
+ de
+ Servicios
+ Eléctricos.**_
+_**ñ.
+ Resolución
+ N°
+ 610/82,
+ SEC,
+ prohíbe
+ el
+ uso
+ de
+ bifenilos
+ policlorinados
+ (PCB)
+ en
+ equipos**_
+_**eléctricos.**_
+_**Flora
+ y
+ fauna**_
+_**o.
+ Ley
+ N°20.283/08,
+ Ministerio
+ de
+ Agricultura,
+ Ley
+ sobre
+ recuperación
+ del
+ bosque
+ nativo
+ y**_
+_**fomento
+ forestal.**_
+_**p.
+ Decreto
+ Supremo
+ N°
+ 93/2008,
+ Ministerio
+ de
+ Agricultura,
+ Reglamento
+ General
+ de
+ la
+ Ley
+ sobre**_
+_**recuperación
+ del
+ bosque
+ nativo
+ y
+ fomento
+ forestal.**_
+_**q.
+ Decreto
+ Ley
+ N°701/74,
+ MINAGRI,
+ somete
+ los
+ terrenos
+ forestales
+ a
+ las
+ disposiciones
+ que
+ indica**_
+_**(texto
+ sustituido
+ por
+ el
+ D.L.
+ 2695/79),
+ y
+ D.S.
+ N°259/80
+ del
+ MINAGRI,
+ Reglamento
+ del
+ D.L.
+ 701
+ de**_
+_**1974.**_
+_**r.
+ Ley
+ No18.755
+ de
+ 1989.
+ Orgánica
+ del
+ SAG
+ y
+ sus
+ modificaciones,
+ Ministerio
+ de
+ Agricultura.**_
+_**s.
+ Decreto
+ Supremo
+ N°366/44
+ del
+ Ministerio
+ de
+ Tierras
+ y
+ Colonización**_
+_**t.
+ Resolución
+ Exenta
+ N°1.826/1994
+ del
+ Servicio
+ Agrícola
+ y
+ Ganadero,
+ Ministerio
+ de
+ Agricultura.**_
+_**Transporte**_
+_**u.
+ Decreto
+ con
+ Fuerza
+ de
+ Ley
+ No
+ 850/1998
+ del
+ Ministerio
+ de
+ Obras
+ Públicas;
+ Fija
+ el
+ texto**_
+_**refundido,
+ coordinado
+ y
+ sistematizado
+ de
+ la
+ Ley
+ No15.840,
+ de
+ 1964
+ y
+ del
+ DFL
+ No
+ 206
+ de
+ 1960,
+ Ley**_
+_**Orgánica
+ del
+ Ministerio
+ de
+ Obras
+ Públicas.**_
+_**v.
+ Resolución
+ No1/1995
+ del
+ Ministerio
+ Transporte
+ y
+ Telecomunicaciones,
+ Subsecretaría
+ de**_
+_**Transportes;
+ Establece
+ dimensiones
+ máximas
+ a
+ vehículos
+ que
+ indica.**_
+_**w.
+ Decreto
+ Supremo
+ No158/1980
+ del
+ Ministerio
+ de
+ Obras
+ Públicas;
+ Establece
+ Límite
+ de
+ Pesos
+ por**_
+_**Eje
+ y
+ Límites
+ de
+ Peso
+ Bruto
+ Total.**_
+_**x.
+ Decreto
+ Supremo
+ No1.665/2003
+ del
+ Ministerio
+ de
+ Obras
+ Públicas;
+ Sobre
+ autorización
+ para**_
+_**circulación
+ de
+ vehículos
+ que
+ exceden
+ pesos
+ máximos.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ a
+ continuación
+ en
+ la
+ Tabla
+ 2-­‐1
+ se
+ presenta
+ el
+ análisis
+ y
+cumplimiento
+ de
+ la
+ normativa
+ indicada:
+
+57
+
+**Tabla
+ 2-­‐1** **Normativa
+ ambiental
+ aplicable
+ Adenda
+ No1**
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+|**Emisiones**|Decreto Supremo<br>N°47/1992,<br>Ministerio de<br>Vivienda y<br>Urbanismo,<br>Ordenanza de la Ley<br>General de la Ley<br>General de<br>Urbanismo y<br>Construcciones;<br>artículo 5.8.3o.||Construcción<br>y cierre|El Titular considera las<br>siguientes medidas de<br>control:<br>• Camino de acceso e<br>internos serán<br>humectados con<br>frecuencia 2 veces/día<br>• Se exigirá una cobertura<br>a los materiales que son<br>transportados en<br>camiones.<br>• En caminos no<br>pavimentados los<br>vehículos livianos y<br>pesados no circularán a<br>una velocidad mayor a 60<br>km/h y a 40 km/h,<br>respectivamente.|_`‒`_ Revisiones<br>técnicas y<br>mantenciones de<br>los vehículos.<br>_`‒`_ Humectación de<br>caminos, en caso de<br>requerirse.<br>_Cobertura de<br>camiones con carga<br>_Cumplimiento de<br>la velocidad máxima<br>de circulación.|
+|**Emisiones**|Decreto Supremo No<br>279/1983 del<br>Ministerio de Salud;<br>Reglamento para el<br>Control de la<br>Emisión de<br>Contaminantes de<br>Vehículos<br>Motorizados de<br>Combustión Interna|**Presentado en la**<br>**DIA, acápite**<br>**4.2.2.1**|Construcción<br>, operación y<br>cierre|Todos los vehículos<br>relacionados con el<br>Proyecto contarán con su<br>revisión técnica al día y se<br>revisará la vigencia de las<br>mantenciones<br>recomendadas por los<br>fabricantes. Esto se hará<br>exigible por el Titular a las<br>empresas contratistas a<br>través de cláusulas<br>contractuales.|_Documentos de<br>revisiones técnicas<br>y mantenciones en<br>los vehículos en<br>obra.|
+|**Agua potable**|Decreto Supremo<br>No446/2006 del<br>Ministerio de Salud;<br>Norma Chilena 409,<br>Requisitos de Agua<br>Potable.||Construcción|El suministro de agua<br>potable para la fase<br>construcción, será<br>abastecida por una<br>empresa proveedora<br>autorizada por la<br>autoridad sanitaria de la<br>región, la cual será<br>responsable de los<br>parámetros de calidad<br>estipuladosenlanorma|_Certificados de<br>ensayos de<br>cumplimiento de<br>calidad de agua<br>potable de parte del<br>proveedor<br>autorizado|
+
+58
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+|||||Nch- 409/1 of.2006, según<br>lo establecido en los<br>art.12, 13, 14 y 15 del DS<br>594/99 MINSAL.||
+|**Efluentes**|Decreto Supremo No<br>236/1926,<br>Ministerio de<br>Higiene, Asistencia,<br>Previsión Social y<br>Trabajo, Reglamento<br>de alcantarillados<br>particulares, fosas<br>sépticas, cámaras<br>filtrantes, cámaras<br>de contacto,<br>cámaras<br>absorbentes y<br>letrinas domiciliarias||Construcción|El Titular dará<br>cumplimiento a las<br>obligaciones establecidas<br>en este reglamento,<br>mediante la presentación<br>ante la SEREMI Salud de la<br>Región de O’Higgins del<br>proyecto de ingeniería<br>correspondiente a la fosa<br>séptica con drenes de<br>infiltración para su<br>respectiva aprobación.|_ Aprobación de<br>fosas sépticas por<br>parte de la<br>autoridad sanitaria<br>regional|
+|**Efluentes**|Decreto Fuerza Ley<br>No 1122/1981,<br>ministerio de<br>Justicia, Código de<br>Aguas|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|
+
+59
+
+_Expedientes
+ de
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+||Decreto con Fuerza<br>de Ley N°1/90,<br>MINSAL, determina<br>materias que<br>requieren<br>autorización<br>sanitaria expresa|Artículo 25.-<br>Instalación de<br>todo lugar<br>destinado a la<br>acumulación,<br>selección,industr<br>ialización,<br>comercio o<br>disposición final<br>de basuras y<br>desperdicios<br>decualquier<br>clase.|Construcción|Una vez obtenida la RCA<br>favorable del Proyecto, el<br>Titular solicitará ante la<br>SEREMI de Salud de la<br>Región del Libertador<br>General Bernardo<br>O’Higgins, la autorización<br>de las siguientes<br>instalaciones destinadas al<br>manejo de residuos<br>durante la fase de<br>construcción:• Patio de<br>acopio residuos<br>domiciliarios y asimilables;<br>y residuos industriales no<br>peligrosos;• Bodega de<br>almacenamiento temporal<br>de residuos peligrosos.Los<br>antecedentes ambientales<br>del permiso de las obras<br>de acopio temporal de<br>residuos se entregaron en<br>el Anexo 4 (cumplimiento<br>PAS) de la presente DIA,<br>en los acápites<br>correspondientes a los<br>PAS N° 140 y 142.|_Oficio de SEREMI<br>de Salud de la<br>Región del<br>Libertador General<br>Bernardo O’Higgins<br>que autoriza<br>proyecto y<br>funcionamiento de<br>patio de residuos<br>domiciliarios, patio<br>de residuos<br>industriales no<br>peligrosos (patio de<br>salvataje) y bodega<br>de almacenamiento<br>temporal de<br>residuos peligrosos.|
+|**Residuos**||||||
+
+fiscalización
+ y
+seguimiento
+ de
+cumplimiento
+ de
+RCA,
+ de
+ parte
+ de
+ la
+Superintendencia
+de
+ Medioambiente
+
+El
+ Proyecto
+ ha
+ adoptado
+en
+ el
+ diseño
+ de
+ sus
+instalaciones,
+ las
+ medidas
+necesarias
+ para
+ dar
+cumplimiento
+ a
+ la
+normativa
+ ambiental
+vigente
+ con
+ respecto
+ al
+
+Decreto
+ Ley
+N°3.557/81,
+Ministerio
+ de
+Agricultura,
+Establece
+disposiciones
+ sobre
+protección
+ agrícola;
+
+**Presentado
+ en
+ la**
+**DIA,
+ acápite**
+**4.2.4.1**
+
+Construcción
+,
+ operación
+ y
+
+60 cierre
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+|||||establecidas en dicho<br>cuerpo legal.||
+||Decreto Supremo N°<br>298/1994,<br>Ministerio de<br>Transporte y<br>Telecomunicaciones,<br>Reglamento de<br>transporte de carga<br>peligrosa por calles y<br>caminos.||Construcción<br>, operación y<br>cierre|El suministro de<br>combustibles y sustancias<br>químicas estará a cargo de<br>distribuidores autorizados,<br>quienes los transportarán<br>hasta el lugar de las obras<br>o las instalaciones del<br>Proyecto mediante<br>camiones debidamente<br>habilitados y autorizados<br>para este propósito<br>(contrato del tipo<br>“suministro en planta”).<br>El titular, mediante<br>cláusulas contractuales,<br>exigirá a las empresas<br>contratistas a cargo del<br>transporte de combustible<br>y sustancias químicas que<br>cumplan con las<br>disposiciones del presente<br>decreto.|_Contrato de<br>prestación de<br>servicios con<br>empresas<br>autorizadas para el<br>transporte de<br>combustibles y<br>sustancias<br>peligrosas, que<br>incluya las<br>disposiciones<br>técnicas y legales<br>del presente<br>reglamento.<br>_Autorización<br>sanitaria de la<br>empresa que realice<br>el transporte de<br>combustibles y<br>sustancias<br>peligrosas|
+||Decreto Supremo<br>No78/10 Ministerio<br>de Salud.<br>Reglamento de<br>almacenamiento de<br>sustancias peligrosas|No Aplica. El Proyecto no almacenará sustancias peligrosas, salvo en los estanques<br>de cada grupo electrógeno que se utilizarán durante la construcción y cierre del<br>proyecto. Durante la operación, los aceites de recambio no serán almacenados en<br>el predio y llegarán al momento de efectuar los recambios a cargo de una empresa<br>externa autorizada|No Aplica. El Proyecto no almacenará sustancias peligrosas, salvo en los estanques<br>de cada grupo electrógeno que se utilizarán durante la construcción y cierre del<br>proyecto. Durante la operación, los aceites de recambio no serán almacenados en<br>el predio y llegarán al momento de efectuar los recambios a cargo de una empresa<br>externa autorizada|No Aplica. El Proyecto no almacenará sustancias peligrosas, salvo en los estanques<br>de cada grupo electrógeno que se utilizarán durante la construcción y cierre del<br>proyecto. Durante la operación, los aceites de recambio no serán almacenados en<br>el predio y llegarán al momento de efectuar los recambios a cargo de una empresa<br>externa autorizada|No Aplica. El Proyecto no almacenará sustancias peligrosas, salvo en los estanques<br>de cada grupo electrógeno que se utilizarán durante la construcción y cierre del<br>proyecto. Durante la operación, los aceites de recambio no serán almacenados en<br>el predio y llegarán al momento de efectuar los recambios a cargo de una empresa<br>externa autorizada|
+|**Servicios**<br>**Eléctricos**|Decreto con Fuerza<br>de Ley No4/2007 del<br>Ministerio de<br>Minería; Ley General<br>de Servicios<br>Eléctricos en<br>Materia de Energía<br>Eléctrica.|**Normativa de carácter sectorial. No constituye normativa ambiental aplicable**<br>**para efectos del SEIA (*)**|**Normativa de carácter sectorial. No constituye normativa ambiental aplicable**<br>**para efectos del SEIA (*)**|**Normativa de carácter sectorial. No constituye normativa ambiental aplicable**<br>**para efectos del SEIA (*)**|**Normativa de carácter sectorial. No constituye normativa ambiental aplicable**<br>**para efectos del SEIA (*)**|
+
+61
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+|**Energía e**<br>**Infraestructur**<br>**a Eléctrica**|Decreto Supremo<br>No327/1997 del<br>Ministerio de<br>Minería;<br>Reglamento de la<br>Ley General de<br>Servicios Eléctricos.<br>Artículos 114, 206,<br>210, 213 y 219.|||||
+|**Energía e**<br>**Infraestructur**<br>**a Eléctrica**|NSEG 5 E.n. 71/1971<br>de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Sobre<br>Instalaciones<br>Eléctricas de<br>Corrientes Fuertes|NSEG 5 E.n. 71/1971<br>de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Sobre<br>Instalaciones<br>Eléctricas de<br>Corrientes Fuertes|NSEG 5 E.n. 71/1971<br>de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Sobre<br>Instalaciones<br>Eléctricas de<br>Corrientes Fuertes|NSEG 5 E.n. 71/1971<br>de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Sobre<br>Instalaciones<br>Eléctricas de<br>Corrientes Fuertes|NSEG 5 E.n. 71/1971<br>de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Sobre<br>Instalaciones<br>Eléctricas de<br>Corrientes Fuertes|
+|**Energía e**<br>**Infraestructur**<br>**a Eléctrica**|NSEG 6. E.n. 71 de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Cruce<br>y Paralelismo de<br>Líneas Eléctricas|NSEG 6. E.n. 71 de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Cruce<br>y Paralelismo de<br>Líneas Eléctricas|NSEG 6. E.n. 71 de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Cruce<br>y Paralelismo de<br>Líneas Eléctricas|NSEG 6. E.n. 71 de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Cruce<br>y Paralelismo de<br>Líneas Eléctricas|NSEG 6. E.n. 71 de la<br>Superintendencia de<br>Electricidad y<br>Combustibles; Cruce<br>y Paralelismo de<br>Líneas Eléctricas|
+|**Energía e**<br>**Infraestructur**<br>**a Eléctrica**|DFL N°4/2007 Texto<br>refundido, del<br>Ministerio de<br>Economía, Fomento<br>y Reconstrucción de<br>la Ley N°1, de<br>Minería, de 1982,<br>Ley General de<br>Servicios Eléctricos.|DFL N°4/2007 Texto<br>refundido, del<br>Ministerio de<br>Economía, Fomento<br>y Reconstrucción de<br>la Ley N°1, de<br>Minería, de 1982,<br>Ley General de<br>Servicios Eléctricos.|DFL N°4/2007 Texto<br>refundido, del<br>Ministerio de<br>Economía, Fomento<br>y Reconstrucción de<br>la Ley N°1, de<br>Minería, de 1982,<br>Ley General de<br>Servicios Eléctricos.|DFL N°4/2007 Texto<br>refundido, del<br>Ministerio de<br>Economía, Fomento<br>y Reconstrucción de<br>la Ley N°1, de<br>Minería, de 1982,<br>Ley General de<br>Servicios Eléctricos.|DFL N°4/2007 Texto<br>refundido, del<br>Ministerio de<br>Economía, Fomento<br>y Reconstrucción de<br>la Ley N°1, de<br>Minería, de 1982,<br>Ley General de<br>Servicios Eléctricos.|
+|**Energía e**<br>**Infraestructur**<br>**a Eléctrica**|Resolución N°<br>610/82, SEC,<br>prohíbe el uso de<br>bifenilos<br>policlorinados (PCB)<br>en equipos<br>eléctricos.|Resolución N°<br>610/82, SEC,<br>prohíbe el uso de<br>bifenilos<br>policlorinados (PCB)<br>en equipos<br>eléctricos.|Resolución N°<br>610/82, SEC,<br>prohíbe el uso de<br>bifenilos<br>policlorinados (PCB)<br>en equipos<br>eléctricos.|Resolución N°<br>610/82, SEC,<br>prohíbe el uso de<br>bifenilos<br>policlorinados (PCB)<br>en equipos<br>eléctricos.|Resolución N°<br>610/82, SEC,<br>prohíbe el uso de<br>bifenilos<br>policlorinados (PCB)<br>en equipos<br>eléctricos.|
+
+62
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+|**Flora y fauna**|Ley N°20.283/08,<br>Ministerio de<br>Agricultura, Ley<br>sobre recuperación<br>del bosque nativo y<br>fomento forestal.|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|
+|**Flora y fauna**|Decreto Supremo N°<br>93/2008, Ministerio<br>de Agricultura,<br>Reglamento General<br>de la Ley sobre<br>recuperación del<br>bosque nativo y<br>fomento forestal|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|No Aplica, el proyecto no intervendrá formaciones de bosque nativo|
+|**Flora y fauna**|Decreto Ley<br>N°701/74, MINAGRI,<br>somete los terrenos<br>forestales a las<br>disposiciones que<br>indica (texto<br>sustituido por el D.L.<br>2695/79), y D.S.<br>N°259/80 del<br>MINAGRI,<br>Reglamento del D.L.<br>701 de 1974.|<br>Construcción|<br>Construcción|El titular del Proyecto<br>procede a la presentación<br>ante CONAF del respectivo<br>Plan de Manejo de<br>plantaciones Forestales<br>para la ejecución de Obras<br>Civiles, para todas aquellas<br>áreas en donde deba<br>realizarse corta de<br>plantaciones forestales.<br>En Anexo E de la presente<br>Adenda se adjuntan los<br>antecedentes del PMF<br>corregido.|_ Documento Plan<br>de manejo corta y<br>reforestación de<br>plantaciones para<br>ejecutar obras<br>civiles DL N° 701,<br>aprobado por<br>CONAF|
+|**Flora y fauna**|Ley No18.755 de<br>1989. Orgánica del<br>SAG y sus<br>modificaciones,<br>Ministerio de<br>Agricultura|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|
+|**Flora y fauna**|Decreto Supremo<br>N°366/44 del<br>Ministerio de Tierras<br>y Colonización|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|
+
+63
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+||Resolución Exenta<br>N°1.826/1994 del<br>Servicio Agrícola y<br>Ganadero,<br>Ministerio de<br>Agricultura.|Derogado y<br>reemplazado por<br>Resolución<br>N°133 Exenta,<br>presentado en<br>acápite No<br>4.2.4.1 de la DIA|Construcción|En caso de que las<br>necesidades de<br>equipamiento impidan<br>adquirir equipos dentro<br>del territorio nacional y<br>por consiguiente se deba<br>incurrir en la importación<br>de insumos y equipos<br>desde el extranjero, el<br>Titular exigirá a la o las<br>empresas distribuidoras<br>que cumplan con lo<br>exigido en este cuerpo<br>normativo mediante<br>contrato, esto es, que los<br>embalajes de madera<br>provenientes del<br>extranjero presenten la<br>certificación que avalúe<br>que fueron sometidos a<br>alguno de los tratamientos<br>dispuestos en el punto 1<br>de la Res. N°133 Exta. y<br>sus modificaciones.|Registro fotográfico<br>de embalajes con<br>marcas de haber<br>sido sometidos a<br>alguno de los<br>tratamientos<br>fitosanitarios<br>aprobados,<br>señalados<br>precedentemente.|
+|**Transporte**|Decreto con Fuerza<br>de Ley No 850/1998<br>del Ministerio de<br>Obras Públicas; Fija<br>el texto refundido,<br>coordinado y<br>sistematizado de la<br>Ley No15.840, de<br>1964 y del DFL No<br>206 de 1960, Ley<br>Orgánica del<br>Ministerio de Obras<br>Públicas.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|No Aplica al Proyecto en evaluación.|
+
+64
+
+|Componente|Cuerpo Legal|Comentario|fase|Forma Cumplimiento|Indicadores<br>Cumplimiento|
+|---|---|---|---|---|---|
+||Resolución<br>No1/1995 del<br>Ministerio<br>Transporte y<br>Telecomunicaciones,<br>Subsecretaría de<br>Transportes;<br>Establece<br>dimensiones<br>máximas a vehículos<br>que indica|Construcción|Construcción|Durante la ejecución de las<br>actividades de<br>Construcción, se requiere<br>el transporte de equipos,<br>que por sus dimensiones,<br>implican exceder los<br>límites señalados. Para tal<br>efecto se solicitará la<br>autorización<br>correspondiente a la<br>Dirección de Vialidad<br>respectiva. Este transporte<br>se efectuará con la debida<br>coordinación con las<br>autoridades municipales y<br>policiales, y con los<br>servicios públicos con<br>competencia en la<br>materia, con los que se<br>acordarán las medidas de<br>seguridad a adoptar en<br>cada caso.|_Pesos y volúmenes<br>de la carga a<br>transportar durante<br>la fase de<br>Construcción.<br>- Obtención de los<br>Permisos de la<br>Dirección de<br>Vialidad para el<br>transporte de carga<br>sobredimensionada.|
+||Decreto Supremo<br>No158/1980 del<br>Ministerio de Obras<br>Públicas; Establece<br>Límite de Pesos por<br>Eje y Límites de Peso<br>Bruto Total.|Decreto Supremo<br>No158/1980 del<br>Ministerio de Obras<br>Públicas; Establece<br>Límite de Pesos por<br>Eje y Límites de Peso<br>Bruto Total.|Decreto Supremo<br>No158/1980 del<br>Ministerio de Obras<br>Públicas; Establece<br>Límite de Pesos por<br>Eje y Límites de Peso<br>Bruto Total.|Decreto Supremo<br>No158/1980 del<br>Ministerio de Obras<br>Públicas; Establece<br>Límite de Pesos por<br>Eje y Límites de Peso<br>Bruto Total.|Decreto Supremo<br>No158/1980 del<br>Ministerio de Obras<br>Públicas; Establece<br>Límite de Pesos por<br>Eje y Límites de Peso<br>Bruto Total.|
+||Decreto Supremo<br>No1.665/2003 del<br>Ministerio de Obras<br>Públicas; Sobre<br>autorización para<br>circulación de<br>vehículos que<br>exceden pesos<br>máximos.|Decreto Supremo<br>No1.665/2003 del<br>Ministerio de Obras<br>Públicas; Sobre<br>autorización para<br>circulación de<br>vehículos que<br>exceden pesos<br>máximos.|Decreto Supremo<br>No1.665/2003 del<br>Ministerio de Obras<br>Públicas; Sobre<br>autorización para<br>circulación de<br>vehículos que<br>exceden pesos<br>máximos.|Decreto Supremo<br>No1.665/2003 del<br>Ministerio de Obras<br>Públicas; Sobre<br>autorización para<br>circulación de<br>vehículos que<br>exceden pesos<br>máximos.|Decreto Supremo<br>No1.665/2003 del<br>Ministerio de Obras<br>Públicas; Sobre<br>autorización para<br>circulación de<br>vehículos que<br>exceden pesos<br>máximos.|
+
+Fuente:
+ Elaboración
+ propia
+
+(*)
+ Para
+ mayor
+ abundamiento,
+ el
+
+ ministerio
+ de
+ Medio
+ Ambiente
+ dispone
+ en
+ la
+ página
+ web
+ de
+ la
+ Biblioteca
+ del
+ Congreso
+Nacional
+ (BCN),
+ un
+ compendio
+ de
+ legislación
+ ambiental
+ aplicable
+ para
+ efectos
+ del
+ SEIA,
+ las
+ referidas
+ normas
+ sectoriales
+no
+ figuran
+ en
+ el
+ mencionado
+ listado.
+Disponible
+ en:
+http://www.leychile.cl/Consulta/listado_n_sel?itemsporpagina=10&totalitems=512&npagina=8&_grupo_aporte=&agr=
+
+1020&sub=&comp=1&tipCat=
+
+65
+
+### 3. PERMISOS
+ AMBIENTALES
+ SECTORIALES**
+
+_**45.
+ Se
+ informa
+ al
+ Proponente
+ que
+ el
+ formulario
+ del
+ Plan
+ de
+ Manejo
+ presentado
+ (PMPF)
+ no**_
+_**corresponde
+ al
+ formato
+ exigido
+ por
+ CONAF
+ para
+ este
+ tipo
+ de
+ actividad,
+ el
+ estudio
+ de
+ Plan
+ de**_
+_**manejo
+ debe
+ ser
+ presentado
+ en
+ el
+ formato
+ oficial;
+ Plan
+ de
+ Manejo
+ de
+ corta
+ y
+ reforestación
+ de**_
+_**plantaciones**_ _**para**_ _**ejecutar**_ _**Obras**_ _**Civiles**_ _**D.L.701,**_ _**disponible**_ _**en**_ _**la**_ _**página**_
+_**web**_ _**http://www.conaf.cl/nuestros-­‐bosques/plantaciones-­‐forestales/formularios-­‐dl70/.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En **Anexo
+ E
+ -­‐Plan
+ de
+ Manejo
+ Forestal** -­‐
+ se
+ presenta
+ el
+ PMF
+para
+ plantaciones
+ forestales
+ corregido
+ para
+ la
+ presente
+ Adenda
+ No1.
+
+_**46.
+ Se
+ informa
+ al
+ Proponente
+ que
+ el
+ formato
+ de
+ los
+ planos
+ solicitados
+ no
+ da
+ cuenta
+ de
+ las**_
+_**especificaciones
+ técnicas
+ requeridas
+ para
+ el
+ plan
+ de
+ manejo.
+ Por
+ lo
+ anterior,
+ deberá
+ presentar
+ la**_
+_**información
+ considerando
+ un
+ plano
+ de
+ diagnóstico
+ con:
+ (i)
+ límites
+ del
+ predio,
+ (ii)
+ red**_
+_**hidrográfica,
+ (iii)
+ caminos
+ existentes,
+ (iv)
+ superficies
+ por
+ capacidad
+ de
+ uso,
+ (v)
+ delimitación
+ de
+ los**_
+_**terrenos
+ calificados
+ de
+ A.P.F,
+ (vi)
+ superficie
+ cubierta
+ por
+ bosque
+ nativo,
+ (vii)
+ plantaciones**_
+_**forestales
+ por
+ unidad
+ de
+ manejo
+ e
+ individualización
+ de
+ los
+ rodales
+ existentes,
+ (viii)
+ áreas**_
+_**forestables
+ y
+ reforestables
+ por
+ unidad
+ de
+ manejo
+ e
+ (ix)
+ individualización
+ de
+ sectores.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En
+ Anexo
+ E
+ se
+ presenta
+ el
+ PMF
+ para
+ plantaciones
+ forestales
+corregido
+ para
+ la
+ presente
+ Adenda
+ No1,
+ incluyendo
+ los
+ planos
+ con
+ la
+ información
+ requerida.
+
+_**47.
+ Se
+ solicita
+ al
+ Proponente
+ presentar
+ un
+ plano
+ de
+ protección
+ ambiental
+ con
+ curvas
+ de
+ nivel,**_
+_**sectores
+ con
+ restricción
+ por
+ topografía,
+ sectores
+ con
+ restricción
+ por
+ suelos
+ sectores
+ con**_
+_**restricción
+ por
+ presencia
+ de
+ recursos
+ hídricos,
+ caminos
+ y
+ canchas
+ de
+ acopios
+ planificadas,
+ zonas**_
+_**de
+ protección
+ contra
+ incendios
+ forestales
+ de
+ prioridad
+ media
+ y
+ alta,
+ torres
+ de
+ observación
+ y**_
+_**brigadas
+ de
+ combate.
+ Lo
+ anterior,
+ en
+ el
+ marco
+ de
+ los
+ requerimientos
+ solicitados
+ para
+ los
+ planes**_
+_**de
+ manejo
+ de
+ plantaciones
+ forestales
+ D.L
+ 701/74
+ del
+ Ministerio
+ de
+ Agricultura.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En
+ Anexo
+ E
+ se
+ presenta
+ el
+ PMF
+ para
+ plantaciones
+ forestales
+corregido
+ para
+ la
+ presente
+ Adenda
+ No1,
+ incluyendo
+ los
+ planos
+ con
+ la
+ información
+ requerida.
+ Se
+aclara
+ que
+ dadas
+ las
+ características
+ del
+ Proyecto,
+ el
+ titular
+ no
+ contará
+ con
+ una
+ brigada
+ de
+ incendios
+permanente,
+ pero
+ se
+ compromete
+ a
+ mantener
+ los
+ cortafuegos
+ y
+ otras
+ medidas
+ de
+ control
+ pasivo
+de
+ incendios
+ descrtos
+ en
+ el
+ citado
+ PMF
+ corregido.
+
+_**48.
+ Se
+ informa
+ al
+ Proponente
+ que
+ debe
+ indicar
+ el
+ autor
+ o
+ autora
+ del
+ estudio
+ técnico
+ y
+ su
+ RUT,**_
+_**junto
+ con
+ señalar
+ su
+ profesión.**_
+
+66
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En
+ Anexo
+ E
+ se
+ presenta
+ el
+ PMF
+ para
+ plantaciones
+ forestales
+corregido
+ para
+ la
+ presente
+ Adenda
+ No1.
+
+_**49.
+ Debido
+ a
+ que
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ es
+ una
+ zona
+ de
+ alto
+ riesgo
+ de
+ incendios**_
+_**forestales,
+ se
+ deben
+ tomar
+ todas
+ las
+ medidas
+ pertinentes
+ para
+ prevenir
+ y/o
+ evitar
+ un
+ incendio**_
+_**forestal.
+ Por
+ lo
+ anterior,
+ dentro
+ del
+ plan
+ de
+ protección
+ específicamente
+ en
+ el
+ ítem
+ incendios**_
+_**forestales,
+ se
+ solicita
+ al
+ Proponente
+ incorporar
+ lo
+ siguiente:**_
+_**a.
+ El
+ programa
+ de
+ protección
+ contra
+ incendios
+ forestales,
+ además
+ de
+ lo
+ indicado
+ en
+ el
+ estudio**_
+_**técnico,
+ deberá
+ considerar
+ la
+ construcción
+ de
+ cortafuegos
+ perimetrales
+ libre
+ de
+ vegetación
+ y
+ con**_
+_**al
+ menos
+ 4
+ metros
+ de
+ ancho
+ de
+ suelo
+ mineral
+ en
+ temporada
+ en
+ todo
+ el
+ predio
+ así
+ como**_
+_**cortafuegos
+ para
+ protección
+ de
+ quebradas
+ con
+ vegetación
+ y
+ cortafuegos
+ para
+ las
+ áreas**_
+_**interiores
+ del
+ predio
+ y
+ alrededor
+ de
+ las
+ obras
+ civiles,
+ construcciones
+ y
+ servidumbres
+ con
+ suelo**_
+_**libre
+ de
+ vegetación
+ bajo
+ el
+ tendido
+ de
+ los
+ cables
+ de
+ transporte
+ de
+ energía
+ eléctrica;**_
+_**b.
+ Se
+ deberá
+ considerar
+ tener
+ una
+ brigada
+ propia
+ de
+ ataque
+ inicial
+ contra
+ incendios
+ forestales**_
+_**permanente
+ dentro
+ del
+ predio
+ con
+ al
+ menos
+ un
+ camión
+ aljibe,
+ una
+ piscina
+ de
+ almacenaje
+ de**_
+_**agua
+ de
+ reserva
+ y
+ bombas
+ de
+ espalda
+ así
+ como
+ las
+ herramientas
+ propias
+ de
+ combate
+ de**_
+_**incendios
+ forestales;**_
+_**c.
+ Durante
+ la
+ ejecución
+ de
+ la
+ corta,
+ las
+ herramientas
+ de
+ combate
+ de
+ incendios
+ forestales
+ deben**_
+_**estar
+ presentes
+ en
+ todo
+ momento
+ en
+ el
+ lugar
+ de
+ la
+ faena
+ y
+ estas
+ deben
+ ser
+ de
+ fácil
+ acceso
+ para**_
+_**todo
+ el
+ personal
+ capacitado.
+ Las
+ bombas
+ de
+ espaldas
+ mencionadas
+ en
+ el
+ plan
+ de
+ protección,**_
+_**deben
+ estar
+ siempre
+ cargadas
+ a
+ plena
+ capacidad
+ con
+ agua
+ y
+ se
+ debe
+ disponer
+ de
+ un
+ estanque**_
+_**móvil
+ cercano
+ para
+ recarga
+ de
+ las
+ bombas
+ de
+ a
+ lo
+ menos
+ 1000
+ lts;**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En
+ Anexo
+ E
+ se
+ presenta
+ el
+ PMF
+ para
+ plantaciones
+ forestales
+corregido
+ para
+ la
+ presente
+ Adenda
+ No1,
+ incluyendo
+ los
+ planes
+ de
+ prevención
+ de
+ incendios
+forestales.
+ Se
+ aclara
+ que
+ dadas
+ las
+ características
+ del
+ Proyecto,
+ el
+ titular
+ no
+ contará
+ con
+ una
+brigada
+ de
+ incendios
+ permanente,
+ pero
+ se
+ compromete
+ a
+ mantener
+ los
+ cortafuegos
+ y
+ otras
+medidas
+ de
+ control
+ pasivo
+ de
+ incendios
+ descritos
+ en
+ el
+ citado
+ PMF
+ corregido.
+
+_**50.
+ En
+ relación
+ a
+ la
+ protección
+ del
+ establecimiento
+ de
+ la
+ reforestación;
+ el
+ titular
+ menciona**_
+_**actividades
+ como;
+ mantención
+ de
+ cercos,
+ exclusión
+ de
+ ganado,
+ control
+ de
+ fauna
+ dañina,
+ etc.
+ Al**_
+_**respecto,
+ se
+ sugiere
+ no
+ ejecutar
+ actividades
+ tendientes
+ a
+ la
+ eliminación
+ de
+ fauna
+ dañina,
+ dado**_
+_**que
+ son
+ parte
+ de
+ la
+ cadena
+ trófica
+ de
+ mamíferos
+ mayores,
+ reemplazando
+ estas
+ actividades
+ por**_
+_**el
+ uso
+ de
+ protección
+ individual
+ de
+ plantas.
+ En
+ este
+ punto,
+ se
+ recomienda
+ al
+ titular
+ realizar
+ una**_
+_**buena
+ preparación
+ de
+ suelo
+ (subsolado
+ profundo
+ minino
+ 70
+ cms,
+ o
+ casilla
+ mecanizada)
+ para**_
+_**facilitar
+ el
+ establecimiento
+ de
+ la
+ plantación.**_
+
+67
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En
+ Anexo
+ E
+ se
+ presenta
+ el
+ PMF
+ para
+ plantaciones
+ forestales
+corregido
+ para
+ la
+ presente
+ Adenda
+ No1,
+ incluyendo
+ como
+ medidas
+ de
+ protección
+ para
+ el
+establecimiento
+ de
+ la
+ reforestación
+ por
+ dispositivos
+ individuales
+ de
+ protección
+ contra
+ lagomorfos,
+además
+ de
+ la
+ preparación
+ de
+ suelo
+ con
+ un
+ subsolado
+
+ de
+ 70
+ cms.
+
+_**Permiso Ambiental Sectorial 160**_
+_**51.
+ Se
+ informa
+ al
+ Proponente
+ que
+ para
+ la
+ obra
+ Instalación
+ de
+ Faenas,
+ la
+ legislación
+ de
+ urbanismo**_
+_**y
+ construcciones
+ no
+ exime
+ de
+ la
+ obtención
+ de
+ los
+ correspondientes
+ permisos
+ de
+ edificación
+ a
+ las**_
+_**instalaciones
+ o
+ edificaciones
+ habitables,
+ aun
+ cuando
+ estas
+ sean
+ de
+ carácter
+ temporal
+ o**_
+_**transitorio
+ (Dictamen
+ N°
+ 29101
+ de
+ fecha
+ 21/06/06
+ de
+ la
+ Contraloría
+ General
+ de
+ la
+ República),**_
+_**por
+ lo
+ que
+ el
+ Proponente
+ deberá
+ contemplar
+ y
+ explicitar
+ dentro
+ de
+ los
+ antecedentes
+ para
+ la**_
+_**obtención
+ del
+ PAS
+ 160
+ del
+ D.S
+ No40/2012
+ del
+ Ministerio
+ del
+ Medio
+ Ambiente,
+ el
+ cumplimiento
+ de**_
+_**la
+ normativa
+ de
+ urbanismo
+ y
+ construcciones,
+ en
+ lo
+ referido
+ a
+ los
+ premisos
+ de
+ edificación
+ para
+ la**_
+_**habilitación
+ de
+ las
+ mencionadas
+ instalaciones
+ de
+ faenas,
+ en
+ virtud
+ de
+ lo
+ prescrito
+ en
+ el
+ Capítulo
+ II**_
+_**del
+ título
+ III
+ de
+ la
+ Ley
+ general
+ de
+ Urbanismo
+ y
+ Construcciones
+ (LGUC)
+ y
+ a
+ lo
+ reglamentado,
+ en
+ lo**_
+_**correspondiente
+ a
+ estos
+ destinos
+ de
+ edificaciones,
+ en
+ los
+ Títulos
+ 4
+ y
+ 5
+ de
+ la
+ Ordenanza
+ General**_
+_**de
+ Urbanismo
+ y
+ Construcciones.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ en **Anexo
+ F
+ -­‐Planos
+ PAS
+ 160-­‐** de
+ la
+ presente
+ Adenda,
+ se
+presentan
+ los
+ planos
+ corregidos
+ que
+ complementan
+ la
+ informacion
+ entregada
+ en
+ el
+ Anexo
+ 4
+ -­‐PAS-­‐
+de
+ la
+ DIA
+ del
+ Proyecto.
+
+Estos
+ planos
+ incluyen:
+
+1. Layout
+ general
+ del
+ Proyecto,
+ con
+ el
+ emplazamiento
+ de
+ las
+ obras
+ permanentes
+ y
+
+temporales
+ del
+ Proyecto
+2. Plano
+ de
+ elevación
+ de
+ todas
+ las
+ edificaciones.
+ incluyendo
+ los
+ aerogeneradores
+3. Plano
+ de
+ elevación
+ de
+ la
+ LT
+ de
+ media
+ tensión
+4. Plano
+ de
+ ubicación
+ obras
+ permanentes
+ del
+ Proyecto
+5. Plano
+ de
+ ubicación
+ obras
+ temporales
+ del
+ Proyecto
+
+_**52.
+ Respecto
+ de
+ los
+ aerogeneradores,
+ cabe
+ señalar
+ que
+ para
+ los
+ efectos
+ del
+ PAS
+ 160,
+ éstos
+ se**_
+_**consideran
+ construcciones,
+ siendo
+ la
+ superficie
+ a
+ tener
+ en
+ cuenta,
+ la
+ ocupada
+ por
+ la
+ torre
+ o**_
+_**cilindro
+ por
+ la
+ que
+ se
+ accede
+ a
+ la
+ Góndola.
+ Por
+ lo
+ tanto,
+ dentro
+ de
+ los
+ antecedentes
+ planimétricos**_
+_**debe
+ incluir
+ la
+ superficie
+ del
+ aerogenerador
+ tipo
+ y
+ la
+ superficie
+ total
+ que
+ arrojan
+ los
+ 20**_
+
+68
+
+_**aerogeneradores
+ (Circ.
+ DDU-­‐ESP
+ 03/2010),
+ para
+ ello
+ se
+ debe
+ considerar
+ la
+ base
+ del
+ cilindro
+ en**_
+_**planta
+ y
+ una
+ vista
+ de
+ la
+ estructura
+ acotada
+ y
+ a
+ escala.**_
+
+**RESPUESTA:** Respondido
+ en
+ observación
+ anterior.
+
+_**53.
+ Se
+ solicita
+ al
+ Proponente
+ actualizar
+ planimetría
+ presentada
+ en
+ el
+ Anexo
+ II
+ de
+ la
+ DIA,
+ a
+ fin
+ de**_
+_**cumplir
+ con
+ los
+ requisitos
+ establecidos
+ en
+ el
+ literal
+ b.4
+ del
+ artículo
+ 160
+ D.S
+ No40/2012
+ del**_
+_**Ministerio
+ del
+ Medio
+ Ambiente.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ los
+ planos
+ del
+ Anexo
+ F
+ -­‐Planos
+ PAS
+ 160-­‐
+
+ cumplen
+ los
+requisitos
+ establecidos
+ en
+ el
+ literal
+ b.4
+ del
+ artículo
+ 160
+ D.S
+ No40/2012
+ del
+ Ministerio
+ del
+ Medio
+Ambiente _**.**_
+
+69
+
+### 4. ANTECEDENTES
+ QUE
+ JUSTIFIQUEN
+ LA
+ INEXISTENCIA
+ DE
+ AQUELLOS** **EFECTOS,
+ CARACTERÍSTICAS
+ O
+ CIRCUNSTANCIAS
+ DEL
+ ARTÍCULO
+ 11
+ DE** **LA
+ LEY**
+
+_**54.
+ En
+ relación
+ al
+ informe
+ “Estudio
+ Impacto
+ Acústico
+ Parque
+ Eólico
+ La
+ Estrella”
+ presentado
+ en
+ el**_
+_**Anexo
+ V
+ de
+ la
+ DIA,
+ se
+ solicita
+ al
+ Proponente
+ complementar
+ al
+ información
+ ahí
+ descrita,
+ por**_
+_**medio
+ de
+ proyecciones
+ de
+ ruido
+ que
+ consideren
+ las
+ distintas
+ condiciones
+ de
+ viento
+ (dirección
+ e**_
+_**intensidad)
+ registrados
+ durante
+ el
+ ciclo
+ anual
+ en
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto;
+ lo**_
+_**anterior,
+ a
+ modo
+ de
+ fundamentar
+ lo
+ no
+ generación
+ de
+ riesgo
+ a
+ la
+ salud
+ de
+ las
+ personas
+ producto**_
+_**de
+ la
+ superación
+ de
+ los
+ valores
+ de
+ ruido
+ establecidos
+ en
+ la
+ normativa
+ aplicable.**_
+
+**RESPUESTA:** Respecto
+ a
+ la
+ consulta, el
+ titular
+ presentó
+ en
+ el
+ Anexo
+ 5
+ de
+ la
+ DIA,
+ el
+ Estudio
+ de
+Impacto
+ Acústico
+ del
+ Parque
+ Eólico
+ La
+ Estrella,
+ durante
+ su
+ construcción
+ y
+ operación.
+ Tal
+ como
+ se
+señala
+ en
+ el
+ objetivo
+ especifíco
+ N°2
+ del
+ punto
+ 2.2
+ del
+ citado
+ documento,
+ se
+ efectúan
+ predicciones
+de
+ los
+ niveles
+ de
+ ruido
+ que
+ permiten
+ analizar
+ la
+ propagación
+ de
+ la
+ energía
+ acústica,
+ bajo
+ la
+ peor
+condición
+ de
+ ruido,
+ generado
+ por
+ parte
+ del
+ proyecto
+ hacia
+ los
+ receptores.
+
+De
+ este
+ modo
+ y
+ para
+ obtener
+ una
+ predicción
+ ajustada
+ a
+ la
+ realidad,
+ para
+ la
+ construcción
+ se
+ evaluó
+un
+ nivel
+ de
+ emisión
+ de
+ 110
+ dBA,
+ el
+ valor
+ más
+ alto
+ registrado
+ en
+ terreno
+ por
+ el
+ equipo
+ desarrollador
+de
+ la
+ presente
+ DIA
+ durante
+ la
+ construcción
+ del
+ Proyecto
+ "Parque
+ Eólico
+ Cuel",
+ en
+ la
+ comuna
+ de
+ Los
+Ángeles
+ y
+ se
+ consideró
+ en
+ el
+ modelamiento
+ la
+ peor
+ condición
+ de
+ viento,
+ es
+ decir
+ en
+ barlovento
+ o
+en
+ contra
+ del
+ viento.
+
+Para
+ el
+ caso
+ de
+ la
+ operación,
+ se
+ modeló
+ la
+ emisión
+ de
+ los
+ aerogeneradores
+ en
+ el
+ peor
+ escenario
+ de
+viento,
+ es
+ decir,
+ barlovento
+ propagación
+ esférica,
+ provocando
+ una
+ presión
+ sonora
+ de
+ 105
+ dBA.
+ Los
+demás
+ valores
+ de
+ atenuación
+ se
+ citan
+ explícitamente
+ en
+ la
+ Tabla
+ 7-­‐1
+ del
+ Anexo
+ 5
+ de
+ la
+ DIA.
+
+En
+ consecuencia,
+ para
+ ambos
+ casos
+ se
+ evaluó
+ la
+ situación
+ acústica
+ más
+ desfavorable
+ y
+ bajo
+cualquier
+ otra
+ condición
+ de
+ viento
+ la
+ emisión
+ será
+ menor
+ que
+ la
+ evaluada
+ y
+ por
+ lo
+ tanto
+ la
+ inmisión
+sobre
+ los
+ receptores
+ determinados,
+ fundamento
+ para
+ afirmar
+ que
+ no
+ existirá
+ riesgo
+ a
+ la
+ salud
+ de
+las
+ personas
+ producto
+ de
+ la
+ superación
+ de
+ los
+ valores
+ de
+ ruido
+ establecidos
+ en
+ la
+ normativa
+aplicable.
+
+En
+ cuanto
+ al
+ eventual
+ ruido
+ sumativo,
+ sinérgico
+ y
+ acumulativo
+ producido
+ por
+ la
+ interacción
+ de
+ las
+emisiones
+ del
+ "Parque
+ Eólico
+ La
+ Estrella
+ "
+ con
+ las
+ emisiones
+ conjuntas
+ del
+ Proyecto
+ "Plantel
+ de
+cerdos
+ Quebrada
+ Honda",
+ ambos
+ proyectos
+ del
+ mismo
+ titular.
+ Para
+ efectos
+ de
+ la
+ evaluación
+ de
+
+70
+
+cumplimiento
+ se
+ tomarán
+ los
+ datos
+ del
+ Anexo
+ 5
+ de
+ la
+ DIA
+ del
+ "Parque
+ Eólico
+ La
+ Estrella
+ "y
+ los
+antecedentes
+ presentados
+ en
+ el
+ Acápite
+ 5.5.2
+ de
+ la
+ DIA
+ del
+ Plantel
+ de
+ Cerdos,
+ calificado
+ambientalmente
+ favorable
+ por
+ la
+ RCA
+ No10/2014.
+
+Para
+ realizar
+ este
+ análisis
+ se
+ considerarán
+ los
+ receptores
+ más
+ cercanos
+ al
+ plantel
+ de
+ cerdos
+ y
+ al
+proyecto
+ eólico,
+ considerando
+ el
+ parque
+ eólico
+ como
+ una
+ fuente
+ única
+ e
+ integrada.
+
+De
+ este
+ modo,
+ durante
+ la
+ operación
+ de
+ ambos
+ proyectos
+ se
+ tendrán
+ dos
+ presiones
+ acústicas
+instantáneas
+ p 1 (t),
+ p 2 (t)
+ sobre
+ los
+ receptores,
+ provocadas
+ por
+ el
+ ruido
+ del
+ plantel
+ de
+ cerdos
+ p 1 (t)
+ y
+el
+ parque
+ eólico
+ en
+ su
+ conjunto
+ p 2 (t)
+ en
+ la
+ peor
+ condición
+ de
+ propagación
+ de
+ ruido.
+
+De
+ esta
+ manera,
+ la
+ presión
+ acústica
+ resultante
+ es
+ la
+ suma
+ de
+ las
+ presiones
+ acústicas
+ instantáneas
+de
+ cada
+ una
+ de
+ las
+ fuentes,
+ es
+ decir:
+
+p(t)
+ =
+ p 1 (t)
+ +
+ p 2 (t)
+
+En
+ términos
+ de
+ decibeles,
+ y
+ como
+ resultado
+ de
+ la
+ escala
+ logarítmica
+ (dB),
+ la
+ suma
+ del
+ sonido
+ es
+dado
+ por
+ la
+ siguiente
+ formulación,
+ en
+ el
+ caso
+ de
+ la
+ evaluación
+ con
+ un
+ n=2
+ (proyecto
+ 1
+ y
+ 2).
+
+_���_ _=_ 10
+ log _�_ _=1210_ _���_ _/10_ dB
+
+De
+ este
+ modo,
+ si
+ se
+ consideran
+ las
+ emisiones
+ señaladas
+ en
+ el
+ Anexo
+ 5
+ de
+ la
+ DIA
+ para
+ el
+ caso
+ de
+ los
+aerogeneradores
+ y
+ 60
+ dBA
+ por
+ parte
+ del
+ plantel
+ de
+ cerdos,
+ y
+ considerando
+ un
+ aporte
+ en
+ cada
+receptor
+ de
+ 25
+ dBA,
+ producto
+ del
+ ruido
+ del
+ plantel [6] se
+ obtienen
+ los
+ siguientes
+ resultados
+ (Tabla
+4-­‐1)
+
+**Tabla
+ 4-­‐1** **Evaluación
+ cumplimiento
+ normativo
+ ruido,
+ funcionamiento
+ conjunto
+ parque
+ eólico
+ y**
+
+**plantel
+ de
+ cerdos**
+
+|Receptor|Inmisión<br>aerogenerador|Inmisión<br>conjunta|Nivel<br>máximo<br>permitido<br>(dBA)<br>diurno|Nivel máximo<br>permitido (dBA)<br>nocturno|CUMPLIMIENTO<br>DS 38/11 MMA|
+|---|---|---|---|---|---|
+|1|41|41,10|62|50|**CUMPLE**|
+|2|35|35,41|63|50|**CUMPLE**|
+|3|32|32,79|48|50|**CUMPLE**|
+
+6 Como
+ referencia
+ 60
+ dBA
+ corresponde
+ al
+ ruido
+ de
+ una
+ conversación.
+
+71
+
+De
+ este
+ modo,
+ se
+ constata
+ que
+ la
+ suma
+ de
+ las
+ emisiones
+ de
+ ambos
+ proyectos
+ es
+ menor,
+ y
+ no
+ existe
+efecto
+ sinérgico
+ o
+ acumulativo
+ que
+ pudiese
+ poner
+ en
+ riesgo
+ la
+ salud
+ de
+ la
+ población
+ o
+ de
+ la
+ biota
+presente
+ en
+ el
+ área
+ de
+ influencia,
+ y
+ se
+ cumplen
+ las
+ disposiciones
+ del
+ DS
+ 38/11
+ del
+ Ministerio
+ de
+Medio
+ Ambiente.
+
+_**55.
+ En
+ el
+ punto
+ 1
+ “Introducción”
+ del
+ Anexo
+ VII
+ de
+ la
+ DIA
+ “Componente
+ Flora
+ y
+ Vegetación
+ Parque**_
+_**Eólico
+ La
+ Estrella”,
+ se
+ indica:
+ “se
+ realizó
+ una
+ prospección
+ de
+ terreno
+ a
+ principios
+ de
+ Enero
+ de**_
+_**2015,
+ en
+ donde
+ se
+ recopilaron
+ antecedentes
+ de
+ estructura
+ y
+ cobertura
+ de
+ la
+ vegetación...”.
+ Al**_
+_**respecto,
+ y
+ según
+ lo
+ indicado
+ por
+ la
+ Dirección
+ Regional
+ CONAF
+ a
+ través
+ del
+ Oficio
+ Ord.
+ No
+ 6/2015**_
+_**de
+ fecha
+ 10
+ de
+ marzo,
+ se
+ informa
+ que
+ los
+ datos
+ entregados
+ resultan
+ insuficientes;
+ lo
+ anterior,**_
+_**dado
+ que
+ en
+ el
+ proyecto
+ ya
+ calificado
+ “Planteles
+ de
+ cerdo
+ quebrada
+ Honda,
+ RCA
+ N°
+ 10/2014”,**_
+_**emplazado
+ en
+ la
+ misma
+ área
+ de
+ influencia
+ del
+ actual
+ proyecto
+ en
+ evaluación,
+ se
+ declaró
+ la**_
+_**presencia
+ de
+ la
+ especie
+ Calydorea
+ xyphioides,
+ la
+ que
+ se
+ encuentra
+ en
+ categoría
+ de**_
+_**conservación
+ Vulnerable
+ y
+ Rara
+ para
+ esta
+ Región,
+ de
+ acuerdo
+ al
+ Reglamento
+ de
+ Clasificación
+ de**_
+_**especies,
+ Decreto
+ Supremo
+ No
+ 50/2008
+ del
+ MINSEGPRES.
+ Por
+ lo
+ anterior,
+ se
+ solicita
+ al**_
+_**Proponente
+ complementar
+ los
+ datos
+ e
+ información
+ referentes
+ a
+ la
+ descripción
+ de
+ la
+ flora**_
+_**terrestre,
+ concibiendo
+ un
+ registro
+ interestacional
+ (otoño
+ -
+ invierno
+ y
+ primavera
+ -
+ verano)
+ y
+ un**_
+_**muestreo
+ adecuado
+ y
+ específico,
+ considerando
+ el
+ ciclo
+ de
+ vida
+ de
+ la
+ especie
+ Calydorea**_
+_**xyphioides
+ (su
+ emergencia
+ es
+ en
+ la
+ época
+ primaveral
+ entre
+ Octubre
+ -
+ Diciembre,
+ es
+ difícil
+ de
+ ver**_
+_**dado**_ _**lo**_ _**efímero**_ _**de**_ _**su**_ _**floración,**_ _**dado**_ _**que**_ _**la**_ _**flor**_ _**dura**_ _**aproximadamente**_ _**1**_
+_**día).
+ (http://www.otaria.cl/Tahay.htm
+ (ttp://es.wikipedia.org/wiki/Calydorea_xiphioides.A**_
+_**modo
+ de
+ precisar
+ los
+ aspectos
+ descriptivos
+ de
+ este
+ componente
+ ambiental,
+ y
+ definir
+ acciones**_
+_**específicas
+ de
+ manejo,
+ según
+ el
+ caso
+ con
+ el
+ objeto
+ de
+ fundamentar
+ la
+ no
+ generación
+ de
+ efectos**_
+_**adversos
+ significativos
+ sobre
+ el
+ componente
+ flora.**_
+
+**RESPUESTA:** Para
+ abordar
+ esta
+ observación
+ y
+ a
+ objeto
+ de
+ garantizar
+ que
+ el
+ proyecto
+ no
+ generará
+efectos
+ detrimentales
+ sobre
+ la
+ vegetación
+ y
+ la
+ flora,
+ en
+ primer
+ lugar
+ se
+ realizó
+ un
+ cruce
+ de
+información
+ referente
+ a
+ la
+ ubicación
+ de
+ la
+ especie _Calydorea
+ xyphioides_ identificada
+ mediante una
+prospección realizada
+ en
+ octubre
+ del
+ 2012
+ y
+ presentada
+ como
+ Anexo
+ 8
+ de
+ la
+ Adenda
+ 2
+ del
+proyecto
+ “ _Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda_ ”,
+ con
+ las
+ obras
+ y
+ área
+ de
+ influencia
+ del
+ proyecto
+“Parque
+ eólico
+ La
+ Estrella”.
+ La
+ ubicación
+ de
+ la
+ especie _Calydorea
+ xyphioides_ identificada
+ en
+ aquella
+oportunidad
+ se
+ presenta
+ en
+ la
+ siguiente
+ Tabla
+ 4-­‐2:
+
+72
+
+**Tabla
+ 4-­‐2.
+ Coordenas
+ de
+ localización
+ de
+ la
+ especie** _**Calydorea
+ xyphioides**_ **(UTM
+ WGS84
+ 19S).**
+
+|Punto|Este|Norte|N° de<br>individuos|
+|---|---|---|---|
+|1|258224|6217826|1|
+|2|258211|6217828|1|
+|3|258137|6217852|1|
+|4|258116|6217843|50|
+|5|258100|6217842|1|
+|6|258088|6217838|1|
+|7|258014|6217795|2|
+|8|258007|6217793|2|
+|9|257999|6217775|2|
+|10|257996|6217770|1|
+|11|257997|6217755|1|
+|12|257993|6217746|1|
+|13|257981|6217730|2|
+|14|257976|6217727|1|
+|15|257974|6217726|1|
+|16|257969|6217729|2|
+|17|257975|6217710|1|
+|18|257976|6217704|1|
+|19|257983|6217698|1|
+|20|257988|6217696|1|
+|21|257997|6217689|1|
+|22|258007|6217688|1|
+|23|258030|6217696|2|
+|24|258042|6217705|2|
+|25|258082|6217699|3|
+|26|258085|6217691|20|
+|27|258099|6217677|1|
+|28|258101|6217663|1|
+|29|258097|6217654|2|
+|30|258117|6217643|1|
+|31|258123|6217681|5|
+|32|258109|6217689|1|
+|33|258108|6217695|1|
+|34|258109|6217706|1|
+|35|258121|6217720|1|
+
+73
+
+|Punto|Este|Norte|N° de<br>individuos|
+|---|---|---|---|
+|36|258094|6217745|1|
+|37|258118|6217818|6|
+|38|258117|6217826|3|
+|39|258129|6217820|1|
+|40|258181|6217796|1|
+|41|258193|6217786|1|
+|42|258197|6217785|1|
+|43|258199|6217784|1|
+|44|258200|6217784|1|
+|45|258205|6217788|1|
+|46|258213|6217783|1|
+|47|258215|6217784|1|
+|48|258220|6217787|1|
+|49|258227|6217788|2|
+|50|258257|6217799|1|
+|51|258259|6217763|20|
+|52|258232|6217689|3|
+|53|258226|6217672|3|
+|54|258198|6217594|10|
+|55|258041|6217150|42|
+|56|257994|6217140|2|
+|57|257574|6216970|1|
+|58|258017|6217101|1|
+|59|258150|6217471|2|
+|60|259479|6217617|1|
+|61|259482|6217664|1|
+|62|259481|6217668|2|
+|63|259425|6217755|1|
+|64|259396|6217553|1|
+|65|259350|6217634|1|
+|66|259353|6217645|1|
+|67|259290|6217871|1|
+|68|259383|6217841|1|
+|69|259164|6217957|1|
+|70|260161|6217765|1|
+|71|260238|6217766|5|
+
+74
+
+|Punto|Este|Norte|N° de<br>individuos|
+|---|---|---|---|
+|72|260263|6217766|2|
+|73|260276|6217765|6|
+|74|260358|6217769|1|
+|75|260472|6217763|3|
+|76|260568|6217748|2|
+|77|260604|6217741|1|
+|78|260899|6217717|3|
+|79|261118|6217732|2|
+|80|261141|6217730|1|
+|81|261163|6217726|1|
+|82|261187|6217726|2|
+|83|261345|6217748|2|
+|84|261362|6217751|15|
+|85|261394|6217758|6|
+|86|261392|6217814|1|
+|87|261407|6217856|3|
+|88|261415|6217886|3|
+|89|261420|6217897|2|
+|90|261426|6217908|1|
+|91|261433|6217939|4|
+|92|261434|6217979|2|
+|93|261268|6217986|19|
+|94|261205|6217773|1|
+|95|261129|6217902|2|
+|96|261121|6217910|2|
+|97|261114|6217902|2|
+|98|261080|6217859|1|
+|99|260678|6218122|5|
+|100|260626|6218260|30|
+|101|260424|6217666|1|
+|102|260451|6217690|3|
+|103|260014|6218074|3|
+|104|260008|6218092|5|
+|105|260004|6218131|2|
+|106|260002|6218149|2|
+|107|258110|6217519|2|
+
+75
+
+|Punto|Este|Norte|N° de<br>individuos|
+|---|---|---|---|
+|108|258110|6217522|6|
+|109|258113|6217542|25|
+|110|258118|6217625|5|
+|111|258127|6217695|2|
+|112|258127|6217710|2|
+|113|258120|6217754|1|
+|114|258116|6217840|15|
+|115|258114|6217886|2|
+|116|258132|6217921|3|
+|117|258141|6217952|1|
+|118|258164|6218040|2|
+|119|258193|6218145|1|
+|120|258175|6218170|2|
+|121|258154|6218060|6|
+|122|258144|6217962|2|
+|123|258067|6217954|4|
+|124|258099|6217906|2|
+|125|258112|6217532|19|
+|126|258086|6217266|5|
+|127|258034|6217121|15|
+|**Total N° de individuos**|**Total N° de individuos**|**Total N° de individuos**|**504**|
+
+Fuente:
+ Anexo
+ 8
+ de
+ Adenda
+ 2
+ del
+ proyecto
+ “Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”,
+ 2013
+
+El
+ resultado
+ cartográfico
+ de
+ la
+ superposición
+ de
+ las
+ obras
+ del
+ Parque
+ Eólico
+ La
+ Estrella
+ y
+ la
+localización
+ de
+ la
+ especie _Calydorea
+ xyphioides_ se
+ muestra
+ a
+ continuación
+ en
+ la
+ Figura
+ 4-­‐1
+ y
+ en
+ el
+Plano
+ No
+ 11
+ del
+ Anexo
+ B.
+
+76
+
+**!"#$$$**
+
+**!"%$$$**
+
+**!"&$$$**
+
+**!'$$$$**
+
+**!'($$$**
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
+||~~***+,-**~~|~~***+,-**~~|~~***+,-**~~|~~**-,/012.345678.19,:;**~~|~~**6,58<1801831=78.1581**~~|~~**+7.<**~~|~~**+7.<**~~|||
+||~~***+,-**~~|~~***+,-**~~|~~***+,-**~~|||||||
+|||||||||||
+|||||||**>,?+6**<br>U<br>L<br>C<br>Á<br>|**>,?+6**<br>U<br>L<br>C<br>Á<br>|**36@A.**<br>bicación Calydorea xiphioides<br>ínea aérea<br>aminos nuevos<br>rea de acopio de materiales<br>~~rea de residuos temporales~~|**36@A.**<br>bicación Calydorea xiphioides<br>ínea aérea<br>aminos nuevos<br>rea de acopio de materiales<br>~~rea de residuos temporales~~|
+|||||||**>,?+6**<br>U<br>L<br>C<br>Á<br>|**>,?+6**<br>U<br>L<br>C<br>Á<br>|**36@A.**<br>bicación Calydorea xiphioides<br>ínea aérea<br>aminos nuevos<br>rea de acopio de materiales<br>~~rea de residuos temporales~~|**36@A.**<br>bicación Calydorea xiphioides<br>ínea aérea<br>aminos nuevos<br>rea de acopio de materiales<br>~~rea de residuos temporales~~|
+|.|./0<br>,<br>./10|./0<br>,<br>./10|./0<br>,<br>./10|!'+$,-'<br>,/0<br>1<br>23|||B<br>I<br>P<br>S<br>S<br>S|odega<br>nstalación de faenas<br>lataformas<br>ala de control<br>E La Estrella<br>E Seccionadora||
+|.|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|!"#$%&'$()$*|
+|||||||||||
+
+**!'($$$**
+
+**!"#$$$**
+
+**!"%$$$**
+
+**!"&$$$**
+
+**!'$$$$**
+
+**Figura
+ 4-­‐1** **Superposición
+ de
+ localización
+ de
+ la
+ especie** _**Calydorea
+ xyphioides
+ y
+ obras
+ parque
+ eólico**_
+
+Fuente:
+ Elaboración
+ propia
+
+Como
+ se
+ aprecia
+ en
+ la
+ figura
+ anterior,
+ dado
+ que
+ existen
+ lugares
+ con
+ presencia
+ de _Calydorea_
+_xyphioides_ en
+ el
+ área
+ de
+ intervención
+ de
+ las
+ obras
+ del
+ proyecto,
+ y
+ debido
+ a
+ lo
+ complejo
+ que
+ resulta
+su
+ identificación,
+ sumado
+ a
+ la
+ alta
+ probabilidad
+ de
+ no
+ obtener
+ resultados
+ positivos
+ aún
+ realizando
+una
+ campaña
+ interestacional
+ como
+ la
+ señalada
+ por
+ la
+ autoridad,
+ el
+ titular
+ considera
+ la
+ ejecución
+ de
+un
+ plan
+ de
+ manejo
+ para
+ la
+ especie,
+ para
+ disminuir
+ la
+ probabilidad
+ de
+ afectación.
+El
+ titular
+ propone
+ como
+ criterio
+ conservador
+ y
+ en
+ una
+ situación
+ de
+ peor
+ escenario,
+ realizar
+ un
+ plan
+de
+ manejo para todas las superficies a intervenir por las obras del Proyecto,
+ consistente
+ en
+ un
+escarpe
+ de
+ la
+ capa
+ vegetal
+ (30
+ cms),
+ su
+ acopio
+ temporal
+ diferenciado
+ y
+ su
+ posterior
+ depósito
+ o
+"resiembra"
+ en
+ las
+ superficies
+ que
+ no
+ sufrirán
+ alteraciones
+ una
+ vez
+ finalizada
+ la
+ fase
+ de
+contrucción
+ del
+ Proyecto
+ ( **Plano
+ No
+ 17
+ del
+ Anexo
+ B** ),
+ lo
+ cual
+ garantiza
+ que
+ de
+ existir
+ la
+ presencia
+de
+ semillas
+ o
+ estados
+ de
+ latencia
+ de
+ la
+ planta
+ (cormos)
+ en
+ el
+ área
+ intervenida,
+ éstos
+ serán
+transportados
+ en
+ el
+ suelo
+ vegetal,
+ el
+ cual
+ será
+ segregado,
+ acopiado
+ y
+ resembrado
+ en
+ áreas
+ sin
+intervención,
+ permitiendo
+ la
+ natural
+ regeneración
+ de
+ la
+ especie.
+
+77
+
+Las
+ actividades
+ del **plan
+ de
+ manejo
+ de** _**Calydorea
+ xyphioides**_ son
+ las
+ siguientes:
+
+ Se
+ realizará
+ escarpe
+ o
+ extracción
+ de
+ la
+ capa
+ superficial
+ de
+ suelo
+ de
+ al
+ menos
+ 30
+ cm
+ de
+profundidad
+ de
+
+ todas
+ las
+ áreas
+ en
+ donde
+ se
+ realizará
+ intervención
+ del
+ suelo:
+ Fundaciones
+de
+ aerogeneradores
+ y
+ postes,
+ plataformas
+ de
+ izado,
+ caminos
+ internos,
+ subestación,
+bodegas,
+ instalación
+ de
+ faenas,
+ etc.
+
+ Luego,
+ se
+ depositará
+ temporalmente
+ este
+ escarpe
+ en
+ un
+ área
+ específica
+ dentro
+ del
+ predio
+y
+ de
+ manera
+ segregada
+ al
+ resto
+ de
+ los
+ desechos
+ de
+ excavación.
+ Preliminarmente
+ se
+propone
+ un
+ área
+ de
+ 15
+ metros
+ alrededor
+ del
+ eje
+ de
+ los
+ caminos
+ internos
+ para
+ este
+ acopio
+
+temporal.
+
+ Posteriormente,
+ una
+ vez
+ finalizada
+ la
+ fase
+ de
+ construcción,
+ se
+ depositará
+ este
+ escarpe
+ en
+aquellos
+ sectores
+ que
+ posean
+ características
+ similares
+ a
+ la
+ que
+ se
+ observó
+ la
+ especie
+ y
+ en
+donde
+ no
+ existan
+ obras
+ permanentes
+ o
+ caminos
+ internos.
+ Se
+ espera
+ que
+ las
+ semillas
+colonicen
+ naturalmente
+ estas
+ superficies.
+ El
+ sitio
+ de
+ depósito
+ final
+ de
+ escarpe
+ será
+ cercado
+para
+ evitar
+ el
+ ingreso
+ de
+ ganado
+ que
+ existe
+ en
+ la
+ zona.
+ Este
+ cercado
+ corresponderá
+ a
+postes
+ con
+ tres
+ hebras
+ de
+ alambre
+ púa,
+ en
+ todo
+ el
+ contorno.
+ Se
+ aclara
+ que
+ esta
+ superficie
+de
+ "resiembra"
+ es
+ adicional
+ y
+ diferente
+ a
+ la
+ declarada
+ para
+ el
+ manejo
+ de
+ la
+ misma
+ especie
+en
+ la
+ RCA
+ No10/2014
+ de
+ la
+ DIA
+ "Plantel
+ de
+ cerdos
+ Quebrada
+ Honda".
+
+ Se
+ realizará
+ 1
+ monitoreo
+ al
+ año
+ siguiente
+ del
+ depósito
+ del
+ escarpe,
+ de
+ manera
+ de
+ verificar
+el
+ crecimiento
+ de
+ la
+ especie
+ y
+ el
+ rescate
+ efectivo
+ de
+ ésta.
+ En
+ este
+ monitoreo
+ se
+ evaluará
+ la
+presencia
+ de
+ la
+ especie
+ mediante
+ la
+ identificación
+ de
+ la
+ floración
+ en
+ primavera.
+ Este
+antecedente
+ será
+ aportado
+ por
+ personal
+ externo
+ calificado,
+ de
+ manera
+ de
+ visitar
+ el
+ área
+de
+ rescate
+ cuando
+ exista
+ floración
+ de
+ manera
+ de
+ evaluarla
+ correctamente.
+ Se
+ entregará
+ el
+informe
+ correspondiente
+ a
+ la
+ autoridad
+ ambiental
+ en
+ un
+ plazo
+ de
+ 20
+ días
+ de
+ realizado
+ este
+
+monitoreo.
+
+ El
+ Titular
+ tomará
+ las
+ medidas
+ para
+ asegurar
+ el
+ crecimiento
+ de
+ la
+ especie
+ en
+ caso
+ que
+ el
+plan
+ de
+ relocalización
+ no
+ tenga
+ éxito,
+ para
+ lo
+ cual
+ implementará
+ acciones
+ adicionales
+ tales
+como
+ habilitación
+ de
+ un
+ área
+ de
+ resguardo
+ adicional,
+ cultivo
+ en
+ invernadero
+ y/o
+ cultivo
+ en
+jardines
+ dentro
+ del
+ predio.
+
+_**56.
+ En
+ complemento
+ a
+ consulta
+ anterior,
+ y
+ en
+ función
+ de
+ la
+ nueva
+ campaña
+ para
+ el**_
+_**levantamiento
+ de
+ información
+ solicitada,
+ se
+ indica
+ al
+ Proponente
+ que
+ deberá
+ presentar
+ plano**_
+_**cartográfico
+ con
+ imagen
+ digital
+ del
+ terreno
+ en
+ coordenadas
+ UTM
+ huso
+ 19s,
+ Datum
+ WGS
+ 84,
+ con**_
+_**la
+ ubicación
+ de
+ cada
+ ejemplar
+ de
+ la
+ especie
+ Calydorea
+ xiphioides
+ identificada,
+ acompañando
+ la**_
+_**información
+ con
+ los
+ archivos
+ digitales
+ (archivos
+ .shp;
+ .kmz);
+ estableciendo
+ con
+ claridad
+ la**_
+_**cantidad
+ de
+ individuos
+ a
+ afectar
+ en
+ los
+ sectores
+ de
+ emplazamiento
+ del
+ proyecto,
+ principalmente**_
+_**para
+ el
+ caso
+ de
+ los
+ caminos
+ de
+ acceso
+ e
+ instalación
+ de
+ obras
+ (temporaleas
+ y
+ permanentes).**_
+
+78
+
+**RESPUESTA:** Como
+ se
+ expresó
+ en
+ la
+ respuesta
+ anterior, para
+ la
+ presente
+ Adenda se
+ complementó
+la
+ información
+ referente
+ a
+ la
+ ubicación
+ (coordenadas
+ UTM
+ WGS84
+ HUSO
+ 19S)
+ y
+ número
+ de
+individuos
+ de
+ la
+ especie _Calydorea
+ xyphioides_ del
+ documento
+ Anexo
+ 8
+ de
+ la
+ Adenda
+ 2
+ del
+ proyecto
+“Plantel
+ de
+ Cerdos
+ Quebrada
+ Honda”
+ llamado
+ “Prospección
+ de
+
+ flora
+ ( _Calydorea
+ xyphioides_ )”
+realizada
+ en
+ octibre
+ de
+ 2012,
+ con
+ las
+ obras
+ y
+ área
+ de
+ influencia
+ del
+ proyecto
+ “Parque
+ eólico
+ La
+Estrella”.
+
+La
+ ubicación
+ en
+ coordenadas
+ UTM
+ huso
+ 19s
+ Datum
+ WGS
+ 84, y
+ número
+ de
+ individuos
+ de
+ la
+ especie
+_Calydorea
+ xyphioides_ se
+ presentó
+ en
+ la
+ Tabla
+ 4-­‐2
+ anterior.
+ El
+ número
+ aproximado
+ de
+ individuos
+ El
+resultado
+ cartográfico
+ en
+ coordenadas
+ UTM
+ huso
+ 19s
+ Datum
+ WGS
+ 84
+ de
+ la
+ superposición
+ de
+ las
+obras
+ del
+ Parque
+ eólico
+ La
+ Estrella
+ y
+ la
+ localización
+ de
+ la
+ especie _Calydorea
+ xyphioides_ se
+ muestra
+en
+ el
+ Plano
+ No
+ 11
+ del
+ Anexo
+ B.
+
+Como
+ se
+ explicó
+ en
+ la
+ respuesta
+ anterior,
+ a
+ modo
+ de
+ asegurar
+ la
+ no
+ afectación
+ de
+ la
+ especie,
+ el
+titular
+ ha
+ adoptado
+ como
+ criterio
+ conservador
+ y
+ en
+ un
+ peor
+ escenario
+ -­‐ **asumiendo
+ la
+ presencia
+ de**
+**la
+ geófita
+ en
+ todo
+ el
+ suelo
+ a
+ intervenir-­‐** un
+ plan
+ de
+ manejo
+ para
+ todas
+ las
+ superficies
+ de
+intervención,
+ el
+ cual
+ consiste
+ en
+ un
+ escarpe
+ superficial,
+ acopio
+ temporal
+ y
+ deposito
+ definitivo
+ en
+áreas
+ propicias
+ para
+ el
+ desarrollo
+ de
+ la
+ planta
+ y
+ que
+ no
+ serán
+ intervenidas
+ por
+ el
+ proyecto
+ en
+ su
+fase
+ de
+ operación.
+
+Por
+ lo
+ anterior,
+ el
+ titular
+ considera
+ que
+ esta
+ medida
+ resulta
+ efectiva
+ en
+ términos
+ de
+ resguardo
+ de
+la
+ especie,
+ ya
+ que
+ se
+ considera
+ la
+ posibilidad
+ de
+ que
+ este
+ presente
+ en
+ toda
+ la
+ superficie
+ a
+intervenir.
+ El
+ plan
+ de
+ medidas
+ descrito
+ en
+ la
+ respuesta
+ anterior,
+ cumple
+ así
+ con
+ el
+ objetivo
+ de
+evitar
+ impactos
+ significativos
+ sobre _Calydorea_ xyphioides
+ producto
+ de
+ la
+ fase
+ de
+ movimientos
+ de
+tierra
+ del
+ Proyecto,
+ por
+ lo
+ cual
+ no
+ resulta
+ necesario
+ la
+ realización
+ de
+ una
+ nueva
+ campaña
+ de
+prospección
+ en
+ busca
+ de
+ la
+ especie.
+
+_**57.
+ En
+ función
+ de
+ los
+ resultados
+ del
+ levantamiento
+ de
+ información
+ respecto
+ de
+ la**_
+_**especie
+ Calydorea
+ xiphioides,
+ se
+ solicita
+ al
+ Proponente
+ incorporar
+ un
+ “Plan
+ de
+ rescate
+ y**_
+_**relocalización”,
+ el
+ cual
+ considere
+ al
+ menos:**_
+_**a.
+ Número
+ y
+ ubicación
+ de
+ los
+ individuos
+ a
+ rescatar,
+ considerando
+ su
+ representación
+ cartográfica**_
+_**y
+ acompañando
+ la
+ información
+ con
+ los
+ archivos
+ digitales
+ de
+ su
+ georreferenciación
+ (archivos
+ .shp;**_
+_**.kmz);**_
+_**b.
+ Destino
+ temporal
+ y
+ condiciones
+ de
+ los
+ individuos
+ antes
+ de
+ su
+ reubicación;**_
+_**c.
+ Sitios
+ seleccionados
+ para
+ su
+ reubicación,
+ acompañado
+ de
+ un
+ análisis
+ de
+ sus
+ características;**_
+_**d.
+ Metas
+ y/o
+ indicadores
+ fiscalizables;**_
+_**e.
+ Plan
+ de
+ contingencia
+ en
+ caso
+ de
+ no
+ cumplir
+ con
+ las
+ metas.**_
+
+79
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación. En **el
+ Anexo
+ J
+ se
+ incluye
+ el
+ Plan
+ de
+ rescate
+ y
+ relocalización**
+**de
+ Calydorea
+ xiphioides** el
+ cual
+ considera
+ los
+ literales
+ antes
+ expuestos.
+
+_**58.
+ Considerando
+ la
+ presencia
+ de
+ al
+ menos
+ tres
+ especies
+ en
+ categoría
+ de
+ conservación
+ en
+ el
+ área**_
+_**de
+ influencia
+ del
+ proyecto,
+ se
+ solicita
+ al
+ Proponente
+ presentar
+ un
+ protocolo
+ con
+ las
+ acciones
+ a**_
+_**emplear
+ para
+ el
+ resguardo
+ y
+ protección
+ en
+ terreno
+ de
+ las
+ especies
+ detectadas
+ (Calydorea**_
+_**xiphioides,
+ Adiantum
+ chilense
+ Kaulf,
+ Trichocereus
+ chiloensis),
+ a
+ modo
+ de
+ fundamentar
+ la
+ no**_
+_**generación
+ de
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ componente
+ flora**_ _._
+
+**RESPUESTA:** Si
+ bien
+ existe
+ la
+ presencia
+ de
+ especies
+ en
+ categoría
+ de
+ conservación
+ en
+ el
+ área
+ de
+influencia
+ ( _Calydorea
+ xiphioides_, _Adiantum
+ chilense
+ Kaulf_ y _Trichocereus
+ chiloensis_ ) la
+ única
+ que
+ se
+encuentra
+ dentro
+ del
+ área
+ de
+ obras
+ del
+ proyecto
+ corresponde
+ a _Calydorea
+ xiphioides_,
+ por
+ lo
+ que
+ el
+proyecto
+ no
+ representa
+ generación
+ de
+ efectos
+ adversos
+ significativos
+ para _Adiantum
+ chilense
+ Kaulf_
+y _Trichocereus
+ chiloensis_ .
+ Para
+ el
+ caso
+ de _Calydorea
+ xiphioides_,
+ se
+ presenta
+ en
+ el
+ Anexo
+ J
+ el
+ Plan
+ de
+rescate
+ y
+ relocalización,
+ el
+ cual
+ considera
+ acciones
+ para
+ no
+ generar
+ efectos
+ adversos
+ significativos
+para
+ la
+ especie.
+
+_**59.
+ A
+ partir
+ de
+ lo
+ expresado
+ en
+ el
+ Capítulo
+ 3
+ y
+ Anexo
+ VIII,
+ Componente
+ Fauna
+ Terrestre
+ de
+ la
+ DIA,**_
+_**y
+ en
+ vista
+ de
+ que
+ el
+ sector
+ presenta
+ un
+ registro
+ de
+ al
+ menos
+ 24
+ especies,
+ que
+ incluye
+ la
+ presencia**_
+_**de
+ especies
+ endémicas,
+ y
+ considerando
+ que
+ las
+ áreas
+ de
+ refugio
+ son
+ restringidas;
+ se
+ solicita
+ al**_
+_**Proponente
+ complementar
+ la
+ información
+ referente
+ a
+ la
+ descripción
+ de
+ avifauna
+ en
+ el
+ Área
+ de**_
+_**Influencia
+ del
+ proyecto,
+ en
+ época
+ reproductiva
+ y
+ post
+ reproductiva,
+ para
+ identificar
+ lugares
+ de**_
+_**reproducción,
+ transito
+ o
+ trayecto,
+ entre
+ otros,
+ para
+ precisar
+ los
+ aspectos
+ descriptivos
+ de
+ este**_
+_**componente
+ ambiental
+ y
+ definir
+ acciones
+ específicas
+ de
+ manejo
+ según
+ el
+ caso
+ con
+ el
+ objeto
+ de**_
+_**fundamentar
+ la
+ no
+ generación
+ de
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ componente
+ fauna.**_
+
+**RESPUESTA:** Para
+ responder
+ el
+ requerimiento
+ de
+ la
+ autoridad,
+ en
+ el **Anexo
+ M
+ -­‐Descripción
+ de**
+**reproducción
+ de
+ especies
+ de
+ avifauna-­‐** se
+ presenta
+ la
+ descripción
+ de
+ avifauna
+ en
+ el
+ Área
+ de
+Influencia
+ del
+ proyecto
+ en
+ época
+ reproductiva.
+
+_**60.
+ Producto
+ de
+ la
+ instalación
+ de
+ las
+ obras
+ permanentes
+ del
+ proyecto
+ (aerogeneradores,**_
+_**tendidos
+ eléctricos),
+ existirá
+ posibilidad
+ de
+ colisión
+ y/o
+ electrocución
+ de
+ aves
+ especialmente
+ de**_
+_**aquellas
+ especies
+ que
+ tienen
+ “líneas
+ de
+ vuelo”
+ diarios
+ desde
+ sus
+ dormideros
+ hacia
+ los
+ lugares
+ de**_
+_**alimentación
+ y
+ viceversa.
+ Por
+ este
+ motivo
+ se
+ solicita
+ al
+ Proponente
+ señalar
+ las
+ acciones
+ que**_
+_**adoptará
+ para
+ evitar
+ o
+ reducir
+ a
+ mínimos
+ niveles
+ la
+ ocurrencia
+ de
+ este
+ tipo
+ de
+ sucesos
+ y
+ las
+ que**_
+
+80
+
+_**adoptará
+ en
+ el
+ caso
+ de
+ ocurrencia
+ de
+ estos
+ durante
+ la
+ etapa
+ de
+ operación
+ del
+ proyecto.
+ Sin**_
+_**perjuicio
+ de
+ lo
+ anterior,
+ será
+ necesario
+ además
+ que
+ el
+ Proponente
+ mantenga
+ un
+ registro
+ o
+ ficha**_
+_**tipo
+ de
+ colisión
+ o
+ electrocución
+ (lugar,
+ torre/aerogenerador,
+ especie,
+ estado
+ de
+ la
+ especie,**_
+_**cantidad,
+ fecha
+ de
+ ocurrido
+ el
+ evento,
+ entre
+ otros),
+ que
+ para
+ el
+ caso
+ que
+ existan
+ tales
+ incidentes**_
+_**se
+ llene
+ la
+ ficha
+ tipo
+ y
+ se
+ dé
+ aviso
+ a
+ la
+ brevedad
+ al
+ SAG
+ (próximas
+ 72
+ horas
+ de
+ ocurrido
+ el**_
+_**evento).**_
+
+**RESPUESTA:** Efectivamente,
+ tal
+ como
+ señala
+ la
+ observación
+ existe
+ un
+ potencial
+ impacto
+ sobre
+ la
+avifauna
+ provocado
+ por
+ líneas
+ eléctricas,
+ a
+ través
+ de
+ colisiones
+ o
+ electrocución.
+ No
+ obstante
+ lo
+anterior,
+ Gonzalez
+ (2014)
+ cita
+ una
+ revisión
+ global
+ de
+ la
+ materia,
+ en
+ donde
+ la
+ tasa
+ de
+ colisión
+ fue
+ de
+0,21/1000
+ aves
+ cruzando
+ por
+ líneas
+ sin
+ medidas
+ de
+ mitigación.
+ Por
+ su
+ parte,
+ la
+ electrocución
+puede
+ ocurrir
+ sólo
+ cuando
+ la
+ separación
+ horizontal
+ entre
+ fases
+ energizadas
+ es
+ menor
+ que
+ la
+distancia
+ entre
+ los
+ extremos
+ de
+ ambas
+ alas
+ (envergadura
+ alar)
+ o
+ cuando
+ la
+ separación
+ vertical
+ es
+menor
+ a
+ la
+ altura
+ del
+ ave
+ (cabeza-­‐pata),
+ por
+ lo
+ tanto
+ es
+ posible
+ en
+ especies
+ de
+ gran
+ envergadura.
+
+Considerando
+ lo
+ anterior,
+ el
+ proyecto
+ propone
+ las
+ siguientes
+ estrategias
+ y
+ acciones
+ para
+ mitigar
+ la
+afectación
+ de
+ la
+ avifauna
+ proveniente
+ del
+ informe
+ de
+ Medidas
+ de
+ Mitigación
+ de
+ Impactos
+ en
+ Aves
+Silvestres
+ y
+ Murciélagos
+ editado
+ por
+ Gonzalo
+ Gonzalez
+ en
+ mayo
+ de
+ 2014,
+ por
+ encargo
+ del
+ Servicio
+Agrícola
+ Ganadero.
+
+Vale
+ mencionar
+ que
+ en
+ la
+ literatura
+ especializada
+ se
+ señala
+ que,
+ para
+ líneas
+ nuevas,
+ la
+ mejor
+opción
+ de
+ mitigación
+ es
+ planificar
+ y
+ diseñar
+ la
+ ruta
+ del
+ tendido
+ por
+ lugares
+ alejados
+ de
+ sitios
+ que
+constituyen
+ el
+ hogar
+ o
+ que
+ atraen
+ especies
+ de
+ aves
+ que
+ son
+ susceptibles
+ a
+ la
+ electrocución
+ o
+colisión.
+ De
+ este
+ modo,
+ el
+ proyecto
+ cumpliría
+ esta
+ acción
+ desde
+ su
+ origen,
+ ya
+ que
+ no
+ se
+ trata
+ de
+ un
+lugar
+ de
+ tránsito
+ de
+ avifauna
+ y
+ no
+ cumple
+ ninguno
+ de
+ los
+ 3
+ criterios
+ señalados
+ por
+ el
+ informe
+ del
+SAG
+ (Criterio
+ 1:
+ Cercanía
+ humedales
+ o
+ costa;
+ Criterio
+ 2:
+ Cercanía
+ a
+ lugares
+ de
+ nidificación
+ y
+ Criterio
+3:
+ Cruce
+ de
+ ríos
+ o
+ valles)
+
+Adicionalmente,
+ el
+ proyecto
+ instalará
+ en
+ su
+ tendido
+ eléctrico
+ disuadores
+ de
+ vuelo
+ salvapájaros
+cada
+ 10
+ metros.
+ Se
+ trata
+ de
+ elementos
+ cumplen
+ la
+ función
+ de
+ aumentar
+ la
+ visibilidad
+ de
+ los
+ cables
+para
+ las
+ aves
+ que
+ se
+ encuentran
+ en
+ vuelo.
+ Se
+ tomarán
+ en
+ cuenta
+ las
+ disposiciones
+ del
+ Real
+ Decreto
+de
+ España
+ 1432/2008,
+ en
+ cuanto
+ los
+ salvapájaros
+ deben
+ ser
+ implementados
+ preferentemente
+ en
+los
+ cables
+ a
+ tierra
+ que
+ tengan
+ un
+ diámetro
+ inferior
+ a
+ 20mm.
+
+Para
+ complementar
+ lo
+ anterior,
+ en **Anexo
+ G** **-­‐
+ Análisis
+ de
+ Afectación
+ y
+ Plan
+ Monitoreo
+ y**
+**Contingencia
+ de
+ Aves-­‐** de
+ la
+ presente
+ Adenda,
+ se
+ presenta
+ un
+ plan
+ de
+ monitoreo
+ y
+ contingencia
+ de
+aves
+ para
+ la
+ etapa
+ de
+ operación
+ del
+ Proyecto.
+
+81
+
+_**61.
+ A
+ partir
+ de
+ lo
+ revisado
+ en
+ el
+ Capítulo
+ 3
+ y
+ Anexo
+ VIII,
+ Componente
+ Fauna
+ Terrestre
+ de
+ la
+ DIA,
+ y**_
+_**considerando
+ la
+ potencial
+ presencia
+ de
+ especies
+ de
+ hábitos
+ fosoriales,
+ tal
+ como
+ Spalacopus**_
+_**cyanus,
+ se
+ solicita
+ al
+ Proponente
+ en
+ función
+ de
+ lo
+ indicado
+ en
+ el
+ Oficio
+ Ord.
+ No
+ 141/2015
+ de**_
+_**fecha
+ 17
+ de
+ marzo
+ de
+ 2015
+ de
+ la
+ SEREMI
+ de
+ Medio
+ Ambiente,
+ ampliar
+ y
+ mejorar
+ el
+ registro
+ de**_
+_**micromamíferos
+ en
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ (con
+ énfasis
+ en
+ la
+ fase
+ reproductiva
+ y
+ post**_
+_**reproductiva)
+ de
+ este
+ componente
+ ambiental
+ y
+ definir
+ acciones
+ específicas
+ de
+ manejo
+ según
+ el**_
+_**caso,
+ tanto
+ para
+ la
+ etapa
+ de
+ construcción
+ como
+ de
+ operación
+ del
+ proyecto,
+ a
+ modo
+ de**_
+_**fundamentar
+ la
+ no
+ generación
+ de
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ componente
+ fauna.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ en **Anexo
+ L
+ -­‐Informe
+ micromamíferos
+ fosoriales-­‐** se
+presentan
+ los
+ resultados
+ de
+ una
+ nueva
+ prospección
+ de
+ fauna
+ realizada
+ durante
+ el
+ mes
+ de
+ mayo
+para
+ la
+ presente
+ Adenda.
+ Se
+ concluye
+ que
+ en
+ el
+ área
+ del
+ Proyecto,
+ no
+ existen
+ evidencias
+ directas
+ o
+indirectas
+ de
+ la
+ presencia
+ de _Spalacopus
+ cyanus._
+
+_**62.
+ En
+ partir
+ de
+ la
+ descripción
+ presentada
+ en
+ el
+ Capítulo
+ 3,
+ Anexo
+ VIII
+ Fauna
+ Terrestre
+ de
+ la
+ DIA,**_
+_**y
+ considerando
+ la
+ presencia
+ de
+ especies
+ de
+ baja
+ movilidad
+ y
+ alta
+ fidelidad
+ al
+ lugar
+ de
+ origen**_
+_**como
+ los
+ reptiles
+ y
+ anfibios,
+ en
+ su
+ caso;
+ se
+ solicita
+ al
+ Proponente
+ precisar
+ los
+ aspectos
+ técnicos**_
+_**(aplicación,
+ control,
+ seguimiento
+ y
+ umbrales
+ e
+ indicadores
+ y
+ el
+ valor
+ o
+ meta
+ de
+ éstos)
+ referidos
+ a**_
+_**la,
+ (i)
+ Acción
+ de
+ perturbación
+ controlada,
+ (ii)
+ monitoreo
+ de
+ fauna
+ (duración
+ del
+ seguimiento,**_
+_**plazos
+ de
+ entrega
+ de
+ los
+ informes
+ de
+ monitoreos)
+ y
+ (iii)
+ Capacitación
+ al
+ personal,
+ para
+ el
+ grupo**_
+_**de
+ animales
+ antes
+ señalado
+ (indicadores
+ y
+ reporte
+ de
+ esta
+ acción),
+ así
+ como
+ de
+ cualquier
+ otra**_
+_**especie
+ de
+ vertebrado,
+ sujeto
+ al
+ control
+ y
+ manejo
+ por
+ parte
+ del
+ proyecto.
+ Lo
+ anterior,
+ a
+ modo
+ de**_
+_**fundamentar
+ la
+ no
+ generación
+ de
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ componente
+ fauna.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ el
+ titular
+ presenta
+ en **Anexo
+ H
+ -­‐Plan
+ de
+ Perturbación**
+**Controlada
+ de
+ Reptiles-­‐** del
+ Proyecto,
+ el
+ cual
+ será
+ ejecutado
+ previo
+ al
+ inicio
+ de
+ la
+ fase
+ de
+construcción
+ del
+ Proyecto.
+
+El
+ área
+ de
+ ejecución
+ de
+ las
+ actividades
+ de
+ perturbación
+ controlada,
+
+ corresponde
+ al
+ área
+ de
+ obras
+dentro
+ del
+ área
+ del
+ Proyecto,
+ con
+ un
+ área
+ buffer
+ de
+ 20
+ metros.
+ Se
+ estima
+ que
+ el
+ plan
+ de
+perturbación
+ controlada
+ requerirá
+ un
+ esfuerzo
+ de
+ 3
+ profesionales
+ durante
+ 3
+ días
+ (9
+ horas
+ de
+trabajo
+ diario),
+ por
+ tanto
+ de
+
+ 135
+ horas/hombre
+ para
+ las
+ especies.
+ Una
+ semana
+ después
+ de
+ la
+realización
+ de
+ la
+ medida
+ de
+ perturbación
+ controlada
+ se
+ realizará
+ un
+ monitoreo
+ en
+ el
+ área
+ de
+ obras,
+de
+ manera
+ de
+ asegurarse
+ de
+ la
+ ausencia
+ de
+ reptiles
+ en
+ el
+ área
+ de
+ obras.
+ Durante
+ la
+ etapa
+ de
+construcción
+ se
+ realizarán
+ monitoreos
+ cada
+ 30
+ días
+ de
+ manera
+ de
+ verificar
+ que
+ las
+ especies
+ no
+ se
+encuentran
+ en
+ el
+ área,
+ esto
+ durante
+ los
+ 12
+ meses
+ de
+ construcción
+ del
+ proyecto.
+ En
+ el
+ caso
+ de
+registrarse
+ individuos
+ se
+ deberá
+ reiterar
+ la
+ medida
+ empleada.
+ Estos
+ monitoreos
+ serán
+ realizados
+
+82
+
+por
+ un
+ profesional
+ durante
+ un
+ día
+ (9
+ horas
+ de
+ trabajo),
+ por
+ tanto
+ cada
+ monitoreo
+ tendrá
+ un
+esfuerzo
+ de
+ muestreo
+ de
+ 9
+ horas/hombre.
+ Tomando
+ en
+ consideración
+ que
+ serán
+ 13
+ monitoreos,
+se
+ realizará
+ un
+ esfuerzo
+ total
+ de
+ muestreo
+ de
+ 117
+ horas
+ hombre.
+
+_**63.
+ En
+ función
+ de
+ los
+ antecedentes
+ entregados
+ como
+ complemento
+ al
+ levantamiento
+ del**_
+_**componente
+ flora
+ y
+ fauna,
+ se
+ informa
+ al
+ Proponente
+ que
+ deberá
+ entregar
+ en
+ forma
+ actualizada**_
+_**la
+ justificación
+ del
+ área
+ de
+ influencia
+ directa
+ del
+ proyecto
+ respecto
+ de
+ la
+ flora
+ presente
+ en
+ el
+ sitio**_
+_**de
+ intervención,
+ incluida
+ la
+ relación
+ de
+ las
+ externalidades
+ negativas
+ a
+ generar
+ producto
+ de**_
+_**dichas
+ intervenciones,
+ y
+ junto
+ con
+ ello
+ presentar
+ los
+ contenidos
+ técnicos
+ que
+ fundamente
+ la**_
+_**inexistenciade
+ efectos
+ adversos
+ significativos
+ sobre
+ recursos
+ naturales
+ renovables
+ indicado
+ en
+ el**_
+_**artículo
+ 6o
+ letra
+ b)
+ del
+ D.S
+ No
+ 40/2012
+ del
+ Ministerio
+ del
+ Medio
+ Ambiente.**_
+
+**RESPUESTA:** De
+ acuerdo
+ a
+ lo
+ desarrollado
+ tanto
+ en
+ la
+ DIA
+ como
+ en
+ la
+ presente
+ Adenda
+ No
+ 1,
+ a
+través
+ de
+ las
+ respuestas
+ del
+ titular
+ a
+ las
+ observaciones
+ de
+ la
+ autoridad
+ y
+ la
+ presentación
+ de
+ una
+multiplicidad
+ de
+ anexos
+
+ que
+ profundizan
+ la
+ descripción
+ y
+ el
+ análisis
+ de
+ afectación
+ correspondiente
+a
+ la
+ componente
+ flora
+ y
+ fauna,
+ el
+ titular
+ concluye
+ que
+ el
+ área
+ de
+ influencia
+ de
+ la
+ componente
+ flora
+y
+ vegetación
+ para
+ el
+ Proyecto,
+ corresponde
+ exclusivamente
+ al
+ área
+ de
+ intervención
+ sobre
+ la
+superficie
+ del
+ suelo
+ para
+ el
+ emplazamiento
+ de
+ las
+ obras
+ temporales
+ y
+ permanentes
+ del
+ Proyecto
+(Tabla
+ 4-­‐3).
+
+**Tabla
+ 4-­‐3** **Justificación
+ área
+ de
+ influencia
+ flora
+ y
+ vegetación**
+
+|DETERMINACIÓN DEL ÁREA DE I NFLUENCIA<br>FLORA Y FAUNA|JUSTIFICACIÓN|
+|---|---|
+|Superficie donde se producirán las<br>intervenciones del Proyecto.<br>• <br>Fundaciones de aerogeneradores<br>• <br>Plataformas de izado<br>• <br>Servidumbre Línea Aérea<br>• <br>Radieres obras civiles<br>• <br>Caminos acceso<br>• <br>Instalación de faenas<br>• <br>Área de operaciones|Las obras y actividades del Proyecto generarán intervenciones<br>puntuales en las áreas destinadas a sus obras permanentes y<br>temporales, dentro de los predios involucrados.|
+
+Fuente:
+ Elaboración
+ propia
+
+Estas
+ obras
+ intervienen
+ sitios
+ con
+ un
+ altísimo
+ grado
+ de
+ perturbación,
+ debido
+ a
+ que
+ el
+ uso
+ del
+ suelo
+se
+ destina
+ a
+ sitios
+ de
+ barbecho,
+ superficies
+ de
+ arado
+ constante,
+ cultivos
+
+ y
+ plantaciones
+ forestales.
+El
+ proyecto
+ ha
+ establecido
+ como
+ áreas
+ de
+ protección
+ ambiental
+ las
+ quebradas
+ que
+ rodean
+ el
+ área
+
+83
+
+de
+ emplazamiento,
+ dado
+ que
+ es
+ en
+ estos
+ sitios
+ donde
+ se
+ pueden
+ encontrar
+ ambientes
+ que
+ dan
+testimonio
+ de
+ la
+ flora
+ y
+ fauna
+ original
+ del
+ área,
+ y
+ presentan
+ sensibilidades
+ ambientales
+ que
+ es
+necesario
+ proteger,
+ por
+ lo
+ cual
+ el
+ Proyecto
+ no
+ realizará
+ intervención
+ alguna
+ sobre
+ estas
+ quebradas.
+Por
+ otra
+ parte,
+ la
+ iniciativa
+ en
+ evaluación
+ corresponde
+ a
+ un
+ proyecto
+ de
+ ERNC,
+ cuya
+ tecnología
+ no
+genera
+ emisiones
+ de
+ gases
+ de
+ efecto
+ invernadero,
+ ni
+ produce
+ efluentes
+ ni
+ residuos
+ en
+ volúmenes
+importantes
+ que
+ puedan
+ afectar
+ la
+ componente
+ posterior
+ al
+ término
+ de
+ su
+ fase
+ de
+ construcción,
+ la
+cual
+ se
+ identifica
+ como
+ la
+ de
+ mayor
+ alteración
+ del
+ entorno,
+ en
+ la
+ que
+ el
+ titular
+ propone
+ medidas
+ de
+manejo
+ de
+ fauna
+ y
+ planes
+ de
+ manejo
+ forestal
+ para
+ asegurar
+ que
+ sus
+ potenciales
+ impactos
+ambientales
+ seon
+ calificados
+ como
+ no
+ significativos.
+ Por
+ lo
+ anterior,
+ se
+ puede
+ asegurar
+ que
+ la
+ejecución
+ del
+ proyecto,
+ salvo
+ la
+ fase
+ de
+ construcción,
+ no
+ generará
+ ningún
+ tipo
+ de
+ impacto
+ sobre
+dicha
+ componente.
+
+_**64.
+ Se
+ solicita
+ al
+ Proponente
+ describir
+ la
+ red
+ de
+ drenaje
+ superficial
+ en
+ el
+ área
+ de
+ influencia
+ del**_
+_**Proyecto
+ (cursos
+ permanentes
+ o
+ temporales),
+ junto
+ con
+ precisar
+ la
+ no
+ afectación
+ de
+ posibles**_
+_**cuerpos
+ de
+ agua
+ en
+ el
+ sector
+ de
+ emplazamiento
+ de
+ las
+ obras,
+ a
+ objeto
+ de
+ fundamentar
+ la**_
+_**inexistencia
+ de
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ recurso
+ agua
+ producto
+ de
+ la
+ magnitud
+ y**_
+_**duración
+ de
+ la
+ intervención
+ en
+ el
+ área
+ del
+ proyecto.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación.
+ En
+ el
+ Plano
+ No
+ 9
+ del
+ Anexo
+ B,
+ se
+ presenta
+ un
+ plano
+cartográfico
+ a
+ escala
+ 1:15.000
+ donde
+ se
+ aprecia
+ la
+ distancia
+ del
+ área
+ de
+ influencia
+ del
+ Proyecto
+ en
+relación
+ a
+ los
+ cursos
+ de
+ agua
+ que
+ se
+ desarrollan
+ en
+ las
+ quebradas
+ con
+ las
+ cuales
+ limita
+ el
+ predio
+ del
+Proyecto.
+ Tal
+ como
+ se
+ puede
+ apreciar,
+ no
+ existe
+ intervención
+ alguna
+ de
+ cauces
+ superficiales
+
+ por
+partes
+ o
+ actividades
+ del
+ Proyecto,
+ los
+ cuales
+ corresponden
+ a
+ cuencas
+ arreicas
+ sin
+ régimen
+permanente.
+
+Con
+ respecto
+ al
+ cruce
+ de
+ quebradas
+ por
+ el
+ tendido
+ eléctrico
+ de
+ media
+ tensión
+ del
+ Proyecto,
+ se
+indica
+ que
+ estos
+ atraviesos
+ se
+ realizarán
+ a
+ través
+ de
+ postes
+ dispuestos
+ a
+ cada
+ lado
+ de
+ la
+ cuenca,
+ sin
+instalar
+ postes
+ dentro
+ de
+ ella.
+ Esto
+ implica
+ hacer
+ un
+ vano
+ de
+ aproximadamente
+ 100
+ metros
+ en
+ los
+3
+ cruces
+ identificados,
+ los
+ cuales
+ fueron
+ identificados
+ en
+ la Figura 1-1 y
+ en
+ el
+ Plano
+ No
+ 10
+ del
+Anexo
+ B.
+
+Por
+ lo
+ anterior,
+ se
+ concluye
+ la
+ inexistencia
+ de
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ recurso
+ agua
+producto
+ de
+ la
+ magnitud
+ y
+ duración
+ de
+ las
+ intervenciones
+ del
+ Proyecto.
+
+84
+
+_**65.
+ Se
+ solicita
+ indicar
+ la
+ profundidad
+ en
+ que
+ se
+ encuentra
+ la
+ napa
+ en
+ el
+ área
+ de
+ intervención
+ del**_
+_**proyecto,
+ y
+ si
+ corresponde,
+ describir
+ las
+ acciones
+ concretas
+ que
+ se
+ llevarán
+ a
+ cabo
+ para
+ evitar
+ la**_
+_**afectación
+ de
+ la
+ misma,
+ así
+ como
+ la
+ afloración
+ de
+ agua
+ al
+ momento
+ de
+ las
+ excavaciones.**_
+
+**RESPUESTA:** Cabe
+ señalar
+ que
+ el
+ área
+ de
+ intervención
+ del
+ proyecto
+ corresponde
+ a
+ una
+ planicie
+ en
+altura
+ que
+ forma
+ parte
+ de
+ la
+ Cordillera
+ de
+ la
+ Costa,
+ delimitada
+ por
+ quebradas
+ de
+ entre
+ 30
+ y
+ 40
+metros
+ de
+ altura,
+ por
+ lo
+ que
+ se
+ descarta
+ la
+ presencia
+ de
+ napas
+ subterráneas.
+
+ Adicionalmente,
+ se
+tiene
+ conocimiento
+ de
+ que,
+ en
+ la
+ zona
+ de
+ quebradas,
+ la
+ napa
+ se
+ encuentra
+ a
+ más
+ de
+ 40
+ metros
+ de
+profundidad,
+ de
+ acuerdo
+ a
+ la
+ información
+ de
+ pozos
+ subterráneos
+ de
+ captación
+ de
+ agua
+ que
+ posee
+el
+ propio
+ titular
+ (con
+ sus
+ respectivo
+ derechos
+ de
+ aprovechamientos
+ entregados
+ por
+ DGA).
+
+Por
+ lo
+ tanto,
+ en
+ el
+ área
+ de
+ intervención
+ del
+ proyecto
+ la
+ napa
+ se
+ encontraría
+ a
+ más
+ de
+ 70
+ metros
+ de
+profundidad.
+ Considerando
+ que
+ la
+ excavación
+ más
+ profunda
+ a
+ realizar
+ en
+ el
+ marco
+ del
+ proyecto
+alcanzará
+ los
+ 3
+ metros
+ de
+ profundidad,
+ es
+ posible
+ indicar
+ que
+ la
+ napa
+ no
+ será
+ intervenida
+ ni
+afectada
+ por
+ las
+ obras
+ del
+ proyecto.
+
+_**66.
+ Mediante
+ el
+ D.S
+ No
+ 126
+ de
+ fecha
+ 7
+ de
+ marzo
+ de
+ 2014
+ de
+ la
+ Subsecretaria
+ de
+ Turismo,
+ fue**_
+_**declarada
+ la
+ Zona
+ de
+ Interés
+ Turístico
+ ZOIT
+ Lago
+ Rapel.
+ De
+ acuerdo
+ a
+ la
+ Ley
+ 20.423/2010
+ sobre
+ el**_
+_**Sistema
+ Institucional
+ para
+ el
+ Desarrollo
+ del
+ Turismo
+ del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y**_
+_**Reconstrucción,
+ corresponden
+ a
+ Zonas
+ de
+ Interés
+ Turístico
+ todos
+ los
+ territorios
+ comunales,**_
+_**intercomunales
+ o
+ determinadas
+ áreas
+ dentro
+ de
+ éstos,
+ que
+ tengan
+ condiciones
+ especiales
+ para**_
+_**la
+ atracción
+ turística
+ y
+ que
+ requieran
+ medidas
+ de
+ conservación
+ y
+ una
+ planificación
+ integrada**_
+_**para
+ promover
+ las
+ inversiones
+ del
+ sector
+ privado.
+ Adicionalmente
+ la
+ citada
+ Ley
+ indica
+ que
+ las**_
+_**ZOIT
+ tendrán
+ carácter
+ prioritario
+ para
+ la
+ ejecución
+ de
+ programas
+ y
+ proyectos
+ públicos
+ de**_
+_**fomento
+ al
+ desarrollo
+ de
+ esta
+ actividad,
+ como
+ asimismo
+ para
+ la
+ asignación
+ de
+ recursos**_
+_**destinados
+ a
+ obras
+ de
+ infraestructura
+ y
+ equipamientos
+ necesarios.
+ Dicho
+ lo
+ anterior,
+ y
+ analizada**_
+_**la
+ información
+ respecto
+ de
+ las
+ obras
+ y/o
+ acciones
+ a
+ ejecutar
+ por
+ el
+ proyecto,
+ se
+ ha
+ detectado
+ que**_
+_**2
+ de
+ los
+ 20
+ aerogeneradores
+ se
+ localizan
+ dentro
+ del
+ polígono
+ que
+ define
+ los
+ límites
+ físicos
+ de**_
+_**dicha
+ ZOIT.
+ Al
+ respecto,
+ se
+ solicita
+ al
+ Proponente
+ indicar
+ la
+ relación
+ de
+ cada
+ una
+ de
+ las
+ obras
+ y/o**_
+_**actividades
+ a
+ generar
+ por
+ el
+ proyecto
+ Parque
+ Eólico
+ La
+ Estrella,
+ con
+ respecto
+ a
+ lo
+ señalado
+ en
+ el**_
+_**Plan
+ de
+ Acción
+ de
+ la
+ ZOIT
+ Lago
+ Rapel,
+ aclarando
+ y
+ definiendo
+ los
+ efectos
+ que
+ el
+ proyecto
+ en
+ sus**_
+_**distintas
+ etapas
+ tendrían
+ sobre
+ la
+ actividad
+ turística
+ y
+ afluencia
+ de
+ visitantes
+ al
+ sector,
+ además**_
+_**de
+ indicar
+ las
+ iniciativas
+ y
+ acciones
+ que
+ han
+ levantado
+ los
+ Municipios
+ para
+ potenciar
+ actividades**_
+_**turísticas
+ en
+ las
+ comunas
+ en
+ que
+ se
+ encontrará
+ inserto
+ el
+ proyecto;
+ todo
+ lo
+ anterior,
+ con
+ el
+ objeto**_
+_**de
+ fundamentar
+ la
+ no
+ generación
+ de
+ alteración
+ significativa
+ en
+ términos
+ de
+ magnitud
+ o
+ duración**_
+_**del
+ valor
+ turístico
+ de
+ la
+ zona.**_
+
+85
+
+**RESPUESTA:** Para
+ efectos
+ de
+ responder
+ la
+ observación
+ anterior,
+ el
+ titular
+ presenta
+ como **Anexo
+ D**
+**-­‐Estudio
+ de
+ Paisaje
+ ZOIT-­‐** de
+ la
+ presente
+ Adenda,
+ un
+ estudio
+ de
+ paisaje
+ que
+ analiza
+ la
+ relación
+ del
+Proyecto
+ con
+ la
+ ZOIT
+ Lago
+ Rapel
+ (Figura
+ 4-­‐2).
+
+Del
+ análisis
+ de
+ los
+ antecedentes
+ de
+ la
+ ZOIT
+ Lago
+ Rapel,
+ se
+ pudo
+ determinar
+ que
+ el
+ Parque
+ Eólico
+La
+ Estrella
+ no
+ presenta
+ incompatibilidad
+ con
+ el
+ desarrollo
+ de
+ la
+ actividad
+ turística.
+ Muy
+ por
+ el
+contrario,
+ no
+ altera
+ el
+ valor
+ de
+ los
+ elementos
+ fundamentales
+ que
+ sirvieron
+ para
+ establecer
+ el
+ área
+de
+ la
+ ZOIT
+ y
+ además
+ se
+ complementa
+ positivamente
+ con
+ los
+ objetivos
+ propuestos
+ en
+ el
+ plan
+ de
+acción
+ respectivo.
+ Cabe
+ mencionar
+ que
+ a
+ nivel
+ comunal,
+ la
+ comuna
+ de
+ La
+ Estrella
+ carece
+ de
+instrumentos
+ de
+ gestión
+ local
+ del
+ turismo
+ por
+ lo
+ que
+ no
+ se
+ pudo
+ ligar
+ el
+ desarrollo
+ del
+ parque
+eólico
+ más
+ allá
+ de
+ las
+ visiones
+ estratégicas
+ planteadas
+ en
+ el
+ Plan
+ Regulador
+ Comunal
+ y
+ el
+ Plan
+ de
+Desarrollo
+ Comunal.
+
+Por
+ otro
+ lado,
+ se
+ aportan
+ datos
+ suficientes
+ de
+ experiencias
+ internacionales
+ y
+ nacionales
+ que
+demuestran
+ el
+ efecto
+ positivo
+ que
+ pueden
+ tener
+ los
+ parques
+ eólicos
+ en
+ el
+ desarrollo
+ de
+ la
+actividad
+ turística,
+ además
+ de
+ poseer
+ una
+ alta
+ compatibilidad
+ con
+ otros
+ usos
+ del
+ territorio
+ de
+valor
+ para
+ la
+ actividad.
+
+Por
+ antecedentes
+ expuestos,
+ no
+ se
+ considera
+ un
+ impacto
+ negativo
+ para
+ la
+ zona
+ de
+ interés
+turístico
+ Lago
+ Rapel.
+
+86
+
+**Figura
+ 4-­‐2** **Relación
+ de
+ la
+ ZOIT
+ Lago
+ Rapel
+ y
+ el
+ parque
+ eólico
+ La
+ Estrella**
+
+Fuente:
+ Elaboración
+ propia
+
+_**67.
+ En
+ virtud
+ del
+ Oficio
+ Ord.
+ No
+ 552/2015
+ de
+ fecha
+ 24
+ de
+ febrero
+ de
+ la
+ Secretaría
+ Ejecutiva
+ del**_
+_**Consejo
+ de
+ Monumentos
+ Nacionales,
+ se
+ informa
+ al
+ Proponente
+ que
+ las
+ acciones
+ comprometidas**_
+_**en
+ las
+ conclusiones
+ del
+ informe
+ “Estudio
+ Arqueológico
+ Parque
+ Eólico
+ La
+ Estrella”,
+ presentado
+ en**_
+_**el
+ Anexo
+ XI
+ de
+ la
+ DIA,
+ deberán
+ ser
+ realizadas
+ de
+ la
+ siguiente
+ manera:**_
+
+_**a.
+ El
+ monitoreo
+ arqueológico
+ deberá
+ ser
+ permanente
+ y
+ realizado
+ por
+ un
+ arqueólogo
+ o
+ licenciado**_
+_**en
+ arqueología
+ durante
+ todas
+ las
+ obras
+ de
+ escarpe
+ del
+ terreno
+ y
+ en
+ todas
+ las
+ actividades
+ que**_
+_**consideren
+ la
+ remoción
+ de
+ la
+ superficie.
+ A
+ partir
+ de
+ esta
+ actividad
+ se
+ deberá
+ remitir
+ a
+ la**_
+_**Superintendencia
+ del
+ Medio
+ Ambiente
+ y
+ a
+ la
+ Secretaría
+ Ejecutiva
+ del
+ Consejo
+ de
+ Monumentos**_
+_**Nacionales
+ en
+ un
+ plazo
+ no
+ superior
+ a
+ un
+ mes
+ de
+ terminado
+ el
+ monitoreo,
+ un
+ informe
+ elaborado**_
+_**por
+ un
+ arqueólogo,
+ el
+ que
+ deberá
+ incluir
+ los
+ siguientes
+ antecedentes:**_
+
+87
+
+_**·∙
+
+
+
+ Descripción
+ de
+ las
+ actividades
+ en
+ todos
+ los
+ frentes
+ de
+ excavación
+ del
+ mes,
+ con
+ fecha;**_
+
+_**·∙
+
+
+
+ Descripción
+ de
+ matriz
+ y
+ materialidad
+ encontrada
+ (con
+ profundidad)
+ en
+ cada
+ obra
+ de**_
+_**excavación;**_
+
+_**·∙
+
+
+
+ Plan
+ mensual
+ de
+ trabajo
+ de
+ la
+ constructora
+ donde
+ se
+ especifique
+ en
+ libro
+ de
+ obras
+ los
+ días**_
+_**monitoreados
+ por
+ el
+ arqueólogo;**_
+
+_**·∙
+
+
+
+ Planos
+ y
+ fotos
+ (de
+ alta
+ resolución)
+ de
+ los
+ distintos
+ frentes
+ de
+ excavación
+ y
+ sus
+ diferentes**_
+_**etapas
+ de
+ avances.**_
+
+**RESPUESTA:** Se
+
+ acoge
+ la
+ observación,
+ el
+ monitoreo
+ arqueológico
+ será
+ permanente
+ y
+ realizado
+ por
+un
+ arqueólogo
+ o
+ licenciado
+ en
+ arqueología,
+ sólo
+ durante
+ las
+ obras
+ de
+ escarpe
+ del
+ terreno
+ y
+ en
+todas
+ las
+ actividades
+ que
+ consideren
+ la
+ remoción
+ de
+ la
+ superficie
+ durante
+ la
+ etapa
+ de
+ movimiento
+de
+ tierras
+ en
+ la
+ fase
+ de
+ construcción
+ del
+ Proyecto.
+
+_**b.
+ De
+ recuperarse
+ materiales
+ arqueológicos,
+ la
+ propuesta
+ de
+ destinación
+ definitiva
+ deberá
+ ser**_
+_**indicada
+ al
+ momento
+ de
+ entregar
+ el
+ informe
+ final
+ del
+ monitoreo,
+ para
+ lo
+ cual,
+ se
+ remitirá
+ un**_
+_**documento
+ oficial
+ de
+ la
+ institución
+ museográfica
+ aceptando
+ la
+ eventual
+ destinación.
+ Se
+ deben**_
+_**solventar
+ los
+ gastos
+ de
+ análisis,
+ conservación
+ y
+ embalaje
+ del
+ material
+ arqueológico,
+ así
+ como
+ su**_
+_**traslado
+ a
+ la
+ institución
+ receptora.**_
+
+**RESPUESTA:** Se
+
+ acoge
+ la
+ observación,
+ de
+ recuperarse
+ materiales
+ arqueológicos
+ se
+ procederá
+según
+ lo
+ indicado
+ por
+ la
+ autoridad.
+
+_**c.
+ Realización
+ de
+ una
+ inducción
+ arqueológica
+ al
+ personal
+ que
+ ejecutará
+ las
+ obras,
+ previo
+ a
+ las**_
+_**faenas
+ de
+ construcción
+ (por
+ el
+ arqueólogo
+ o
+ licenciado
+ en
+ arqueología),
+ a
+ los
+ trabajadores
+ de
+ la**_
+_**empresa
+ y/o
+ subcontratistas,
+ según
+ lo
+ detallado
+ en
+ la
+ página
+ 42
+ del
+ informe
+ “Estudio**_
+_**Arqueológico
+ Parque
+ Eólico
+ La
+ Estrella”.
+ Una
+ vez
+ finalizada
+ la
+ actividad
+ se
+ deberá
+ adjuntar
+ al**_
+_**informe
+ de
+ monitoreo,
+ el
+ acta
+ de
+ asistencia
+ y
+ los
+ contenidos
+ de
+ la
+ presentación
+ para
+ ser**_
+_**remitidos
+ a
+ la
+ Superintendencia
+ del
+ Medio
+ Ambiente
+ y
+ a
+ la
+ Secretaría
+ Ejecutiva
+ del
+ Consejo
+ de**_
+_**Monumentos
+ Nacionales.**_
+
+**RESPUESTA:** Se
+
+ acoge
+ la
+ observación,
+ la
+ inducción
+ arqueológica
+ al
+ personal
+ de
+ faena
+ se
+ realizará
+según
+ lo
+ indicado
+ por
+ la
+ autoridad,
+ de
+ acuerdo
+ al
+ formato
+ de
+ ficha
+ presentado
+ en
+ respuesta
+ a
+observación
+ No
+ 18
+ anterior.
+
+88
+
+_**d.
+ El
+ informe
+ final
+ de
+ monitoreo
+ debe
+ dar
+ cuenta
+ de
+ las
+ actividades
+ de
+ monitoreo
+ realizadas,
+ y**_
+_**de
+ haberse
+ detectado
+ sitios
+ arqueológicos,
+ incluir
+ la
+ información
+ correspondiente
+ de
+ los
+ mismos,**_
+_**además
+ del
+ trabajo
+ de
+ salvataje
+ o
+ rescate
+ arqueológico
+ que
+ se
+ hubiera
+ ejecutado,
+ si**_
+_**corresponde.
+ En
+ estos
+ casos
+ se
+ incluirá
+ una
+ revisión
+ bibliográfica
+ de
+ la
+ zona,
+ el
+ análisis
+ (por
+ tipo**_
+_**de
+ materialidad)
+ y
+ la
+ conservación
+ de
+ todos
+ los
+ materiales
+ arqueológicos
+ que
+ se
+ encuentren**_
+_**motivo
+ de
+ esta
+ actividad.**_
+
+**RESPUESTA:** Se
+
+ acoge
+ la
+ observación,
+ el
+ informe
+ final
+ contendrá
+ los
+ contenidos
+ indicados
+ por
+ la
+autoridad.
+
+_**e.
+ Los
+ sitios
+ arqueológicos
+ Estrella
+ 1
+ y
+ Quebrada
+ Honda
+ no
+ serán
+ afectados
+ por
+ las
+ obras
+ del**_
+_**presente
+ proyecto
+ y
+ deberán
+ ser
+ protegidos
+ mediante
+ un
+ cerco
+ visible
+ según
+ lo
+ indicado
+ en
+ la**_
+_**DIA.
+ Junto
+ con
+ lo
+ anterior,
+ el
+ informe
+ final
+ deberá
+ realizar
+ una
+ comparación
+ del
+ estado
+ de
+ los**_
+_**sitios
+ antes
+ y
+ después
+ de
+ la
+ ejecución
+ del
+ proyecto,
+ para
+ lo
+ cual
+ se
+ deberá
+ entregar
+ fotografías**_
+_**de
+ cada
+ uno
+ de
+ ellos.
+ Finalmente,
+ se
+ deberá
+ proponer
+ si
+ estos
+ cercos
+ se
+ deben
+ mantener
+ o
+ retirar**_
+_**una
+ vez
+ finalizadas
+ las
+ obras.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ los
+ sitios
+ estrella
+ 1
+ y
+ Quebrada
+ Honda
+ serán
+ protegidos
+mediante
+ cercos
+ perimetrales.
+ El
+ informe
+ final
+ de
+ la
+ actividad
+ contendrá
+ los
+ contenidos
+ indicados
+por
+ la
+ autoridad.
+
+### 5. FICHA
+ RESUMEN
+ PARA
+ CADA
+ FASE
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD**
+
+_**68.
+ En
+ consideración
+ a
+ lo
+ consignado
+ en
+ el
+ artículo
+ 19
+ del
+ D.S
+ No
+ 40/2012
+ del
+ Ministerio
+ del**_
+_**Medio
+ Ambiente,
+ Reglamento
+ SEIA,
+ que
+ indica:
+ “Cada
+ vez
+ que,
+ como
+ consecuencia
+ de
+ la**_
+_**presentación
+ de
+ la
+ Adenda,
+ se
+ aclare,
+ rectifique
+ o
+ amplíe
+ el
+ contenido
+ de
+ la
+ Declaración
+ de**_
+_**Impacto
+ Ambiental,
+ se**_ _**deberá**_ _**anexar**_ _**a**_ _**dicha**_ _**Adenda**_ _**la**_ _**actualización**_ _**de**_ _**las**_ _**fichas**_ _**que**_
+_**corresponda”.
+ Se
+ solicita
+ al
+ Proponente
+ en
+ base
+ a
+ las
+ materias
+ de
+ consulta
+ del
+ presente
+ ICSARA,**_
+_**presentar
+ la
+ actualización
+ de
+ las
+ fichas
+ incorporadas
+ como
+ antecedentes
+ anexos
+ a
+ la
+ DIA.**_
+
+**RESPUESTA:** Se
+ acoge
+ la
+ observación,
+ en
+ Anexo
+ I
+ se
+ presentan
+ las
+ fichas
+ resumen
+ del
+ proyecto
+ con
+las
+ actualizaciones
+ correspondientes
+ a
+ la
+ presente
+ adenda.
+
+89
+
+### 6. OTRAS
+ CONSIDERACIONES
+ RELACIONADAS
+ CON
+ EL
+ PROCESO
+ DE** **EVALUACIÓN
+ DE
+ IMPACTO
+ AMBIENTAL
+ DEL
+ PROYECTO**
+
+_**69.
+ El
+ Proponente
+ señala
+ en
+ la
+ DIA
+ la
+ instalación
+ de
+ siete
+ postes
+ de
+ alta
+ tensión
+ más
+ un
+ punto
+ de**_
+_**conexión
+ al
+ Sistema
+ Interconectado
+ Central
+ (SIC),
+ los
+ cuales
+ serán
+ instalados
+ en
+ un
+ camino
+ de**_
+_**servidumbre
+ y
+ en
+ un
+ terreno
+ privado
+ fuera
+ del
+ Fundo
+ Quebrada
+ Honda.
+ Por
+ este
+ motivo,
+ y
+ en**_
+_**consideración
+ de
+ lo
+ indicado
+ por
+ la
+ I.
+ Municipalidad
+ de
+ La
+ Estrella
+ mediante
+ Oficio
+ ORD.
+ No**_
+_**037/097
+ de
+ fecha
+ 12
+ de
+ marzo
+ de
+ 2015,
+ se
+ solicita
+ referirse
+ acerca
+ de
+ la
+ constitución
+ de
+ la**_
+_**servidumbre,
+ permisos
+ y/o
+ autorizaciones
+ de
+ los
+ otros
+ operarios
+ (11
+ propietarios
+ además
+ del**_
+_**Proponente)
+ que
+ utilizan
+ este
+ camino,
+ el
+ cual
+ será
+ usado
+ para
+ la
+ instalación
+ de
+ la
+ línea
+ de
+ postes**_
+_**de
+ alta
+ tensión.**_
+
+_**70.
+ En
+ complemento
+ a
+ consulta
+ anterior,
+ el
+ Proponente
+ deberá
+ referirse
+ a
+ la
+ constitución
+ de**_
+_**servidumbre,
+ permisos
+ y/o
+ autorizaciones
+ del
+ propietario
+ del
+ terreno
+ en
+ donde
+ será
+ emplazado**_
+_**el
+ punto
+ de
+ conexión
+ al
+ SIC,
+ dado
+ que
+ en
+ la
+ DIA
+ se
+ declara
+ la
+ utilización
+ de
+ una
+ superficie
+ de
+ 2000**_
+_**m**_ _**[2]**_ _**para
+ esta
+ obra.**_
+
+**RESPUESTAS
+ OBSERVACIONES
+ No
+ 69
+ y
+ 70**
+Tal
+ como
+ indica
+ la
+ I.
+ Municipalidad
+ de
+ la
+ Estrella,
+ para
+ la
+ instalación
+ de
+ los
+ postes
+ necesarios
+ para
+la
+ línea
+ de
+ interconexión
+ del
+ Parque
+ Eólico
+ con
+ el
+ SIC,
+ y
+ la
+ respectiva
+ subestación
+ de
+ derivación,
+ en
+terrenos
+ privados
+ fuera
+ del
+ Fundo
+ Quebrada
+ Honda,
+ se
+ constituirá
+ una
+ servidumbre
+ mediante
+ el
+proceso
+ de
+ concesión
+ eléctrica,
+ en
+ conformidad
+ a
+ lo
+ establecido
+ en
+ el
+ D.F.L
+ N°
+ 4/20.018
+ de
+ 2006,
+del
+ Ministerio
+ de
+ Economía,
+ Fomento
+ y
+ Turismo,
+ que
+ fija
+ el
+ texto
+ refundido,
+ coordinado
+ y
+sistematizado
+ del
+ D.F.L.
+ N°
+ 1
+ de
+ 1982
+ del
+ Ministerio
+ de
+ Minería,
+ Ley
+ General
+ de
+ Servicios
+Eléctricos.
+ Dicha
+ servidumbre
+ habilitará
+ a
+ Eólica
+ La
+ Estrella
+ para
+ efectuar
+ las
+ referidas
+ obras,
+procedimiento
+ que
+ se
+ tramita
+ en
+ paralelo
+ a
+ este
+ proceso
+ de
+ evaluación
+ ambiental,
+ como
+históricamente
+ se
+ han
+ evaluado
+ ambientalmente
+ los
+ proyectos
+ de
+ esta
+ tipología.
+
+Sin
+ perjuicio
+ de
+ que
+ el
+ Titular
+ ha
+ realizado
+ un
+ adecuado
+ trabajo
+ de
+ acercamiento
+ y
+ socialización
+ del
+proyecto
+ con
+ los
+ propietarios
+ de
+ los
+ predios
+ en
+ que
+ se
+ ubicarán
+ las
+ instalaciones,
+ cabe
+ señalar
+ que
+la
+ constitución
+ de
+ servidumbres
+ corresponde
+ a
+ un
+ procedimiento
+ que
+ se
+ tramita
+ antes,
+ en
+ paralelo
+o
+ con
+ posterioridad
+ al
+ SEIA,
+ toda
+ vez
+ que
+ no
+ constituye
+ normativa
+ ambiental
+ aplicable
+ en
+ los
+términos
+ del
+ artículo
+ 19
+ inciso
+ 3°
+ de
+ la
+ Ley
+ N°
+ 19.300.
+ Así
+ lo
+ refrenda,
+ por
+ lo
+ demás,
+ la
+ “Guía
+ para
+la
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ de
+ Centrales
+ Eólicas
+ de
+ Generación
+ de
+ Energía
+ Eléctrica”
+(Fuente:
+ Servicio
+ de
+ Evaluación
+ Ambiental
+ ISBN:
+ 978-­‐956-­‐9076-­‐02-­‐2,
+ 2012),
+ cuyo
+ contenido
+ no
+menciona
+ la
+ necesidad
+ de
+ proveer
+ la
+ información
+ respecto
+ de
+ la
+ titularidad
+ y/o
+ permisos
+ de
+ los
+predios
+ donde
+ se
+ está
+ realizando
+ la
+ evaluación.
+
+90
+
+Por
+ último,
+ dicho
+ criterio
+ ha
+ sido
+ declarado
+ por
+ la
+ Dirección
+ Ejecutiva
+ del
+ Servicio
+ de
+ Evaluación
+Ambiental,
+ precisamente
+ con
+ ocasión
+ de
+ la
+ resolución
+ exenta
+ No
+ 920/2011,
+ de
+ dicha
+ Dirección
+Ejecutiva
+ que,
+ en
+ su
+ considerando
+ No
+ 6,
+ concluye
+ “que
+ la
+ autoridad
+ ambiental
+ debe
+ velar
+ porque
+el
+ proyecto
+ se
+ ajuste
+ a
+ la
+ normativa
+ ambiental
+ aplicable,
+ dentro
+ de
+ la
+ cual
+ no
+ se
+ encuentra,
+ por
+cierto,
+ la
+ normativa
+ que
+ rige
+ la
+ propiedad
+ del
+ bien
+ raíz,
+ la
+ propiedad
+ minera
+ o
+ de
+ algún
+ otro
+derecho
+ real.”7
+ Lo
+ anterior,
+ por
+ lo
+ demás,
+ guarda
+ consistencia
+ con
+ lo
+ señalado
+ por
+ la
+ Contraloría
+General
+ de
+ la
+ República
+ en
+ su
+ Dictamen
+ N°
+ 80.661
+ de
+ 2011,
+ en
+ el
+ sentido
+ que
+ “(...)
+ en
+ materia
+ de
+concesiones
+ eléctricas
+ la
+ obligación
+ de
+ sometimiento
+ al
+ mencionado
+ Sistema
+ es
+ un
+ imperativo
+ que
+no
+ rige
+ para
+ la
+ dictación
+ del
+ respectivo
+ acto
+ administrativo,
+ sino
+ para
+ la
+ ejecución
+ material
+ de
+ un
+determinado
+ proyecto
+ o
+ actividad,
+ de
+ modo
+ que
+ consignándose,
+ por
+ lo
+ demás,
+ en
+ el
+ artículo
+ 10
+del
+ decreto
+ que
+ se
+ impugna,
+ que
+ “La
+ modificación
+ que
+ por
+ este
+ acto
+ se
+ otorga
+ no
+ exime
+ del
+cumplimiento
+ de
+ las
+ demás
+ obligaciones
+ legales,
+ como
+ lo
+ es
+ el
+ acatamiento
+ de
+ la
+ legislación
+ambiental
+ en
+ forma
+ previa
+ a
+ la
+ ejecución
+ de
+ las
+ obras
+ que
+ se
+ amparan
+ en
+ esta
+ modificación”,
+ no
+ se
+advierte
+ reproche
+ de
+ juridicidad
+ que
+ efectuar
+ a
+ lo
+ obrado
+ por
+ la
+ autoridad
+ administrativa.”
+
+### 7. RELACIÓN
+ CON
+ LOS
+ PLANES
+ DE
+ DESARROLLO
+ COMUNAL**
+
+_**71.
+ En
+ la
+ Tabla
+ 6-­‐1
+ de
+ la
+ DIA
+ “Relación
+ entre
+ el
+ proyecto
+ y
+ PLADECO
+ comuna
+ La
+ Estrella”
+ el**_
+_**Proponente
+ señala:
+ “El
+ Proyecto
+ constituye
+ una
+ oportunidad
+ de
+ generación
+ de
+ emprendimientos**_
+_**asociados
+ a
+ servicios
+ y
+ producción
+ de
+ manufacturas
+ que
+ son
+ demandados
+ por
+ el
+ Parque”.
+ Al**_
+_**respecto,
+ se
+ solicita
+ explicitar
+ de
+ qué
+ forma
+ generará
+ mayor
+ cantidad
+ de
+ emprendimiento
+ y**_
+_**cuáles
+ serán
+ las
+ manufacturas
+ demandadas
+ por
+ el
+ Parque
+ que
+ podrían
+ ser
+ producidas
+ por**_
+_**empresarios
+ o
+ habitantes
+ de
+ la
+ comuna.**_
+
+RESPUESTA:
+ Efectivamente,
+ el
+ proyecto
+ constituye
+ una
+ oportunidad
+ de
+ generación
+ de
+emprendimientos
+ para
+ los
+ habitantes
+ de
+ la
+ comuna
+ de
+ La
+ Estrella,
+ pues
+ la
+ construcción
+ del
+ mismo
+requerirá,
+ en
+ los
+ momentos
+ de
+ mayor
+ demanda,
+ la
+ contratación
+ de
+ hasta
+ 100
+ personas.
+ Para
+ estas
+personas,
+ se
+ requerirá
+ de
+ servicios
+ de
+ alojamiento,
+ alimentación
+ y
+ otros
+ servicios
+ que
+ pudiesen
+ ser
+utilizados
+ por
+ los
+ mismos.
+ Si
+ bien
+ estos
+ requerimientos
+ tendrán
+ un
+ espacio
+ acotado
+ en
+ el
+ tiempo
+(hasta
+ 12
+ meses),
+ la
+ generación
+ y
+ provisión
+ de
+ estos
+ servicios
+ por
+ un
+ tiempo
+ determinado,
+ servirá
+para
+ la
+ implementación/mejoramiento
+ de
+ los
+ mismos,
+ los
+ que
+ finalmente
+ aportarán
+ al
+ turismo
+ y
+desarrollo
+ de
+ la
+ zona.
+
+Respecto
+ a
+ la
+ demanda
+ de
+ manufacturas
+ locales,
+ cabe
+ señalar
+ que
+ gran
+ parte
+ de
+ la
+ ferretería
+menor,
+ así
+ como
+ parte
+ de
+ los
+ insumos
+ de
+ construcción
+ serán
+ demandados
+ a
+ nivel
+ local.
+
+7 Resolución
+ Exenta
+ No920/2011.
+ http://seia.sea.gob.cl/archivos/Res.Inadmisible66-­‐11.PDF
+
+91
+
+92

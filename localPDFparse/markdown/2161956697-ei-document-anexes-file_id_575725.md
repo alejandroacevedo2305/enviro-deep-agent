@@ -1,0 +1,85 @@
+---
+title: FICHA VIBROPISON TR85D
+author: Esteban Lechuga
+date: D:20150608025051Z00'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - VIBROPISÓN TR85D
+-->
+
+# VIBROPISÓN TR85D
+
+Imagen
+ referencial,
+ producto
+ sujeto
+ a
+ cambios
+ sin
+ aviso
+ previo
+
+## Rev 6/2015
+
+MÁXIMA POTENCIA EN
+COMPACTACIÓN DE SUELOS
+COHESIVOS, MIXTOS Y TAMBIÉN
+
+GRANULARES.
+
+DISEÑADO PARA COMPACTAR EN
+
+ESPACIOS REDUCIDOS
+
+**EQUPADO CON MOTOR DIESEL**
+
+**YANMAR**
+
+EXCELENTE MANIOBRABILIDAD Y
+
+PERFECTAMENTE BALANCEADO
+
+BAJO COSTO DE OPERACIÓN Y
+MANTENCIÓN
+
+FABRICADO SEGÚN ISO 9001 Y
+
+NORMAS CE.
+
+**EQUIPADO CON MOTOR YANMAR ESPECIALMENTE DISEÑADO PARA VIBROPISONES**
+
+- **MENOR CONSUMO DE COMBUSTIBLE Y MAYOR VIDA ÚTIL**
+
+**EFICIENTE SISTEMA DE FILTRADO DE AIRE DEL MOTOR, PROLONGA VIDA ÚTIL DEL MISMO**
+
+- **EFECTIVO SISTEMA DE AISLACIÓN DE VIBRACIONES HACIA EL OPERADOR**
+
+**ESTANQUE DE COMBUSTIBLE PLÁSTICO ANTICORROSIVO Y DE GRAN VIDA ÚTIL**
+
+- **ZAPATA DE COMPACTACIÓN ROBUSTA Y DURABLE**
+
+**MARCO PROTECTOR DEL MOTOR AYUDA A PREVENIR DAÑOS AL MISMO, EN LAS**
+**DURAS CONDICIONES DE OBRA**
+
+**FUELLE DE POLIURETANO DE ALTA RESISTENCIA, DE ORIGEN ALEMÁN, ASEGURA**
+**UNA ADECUADA PROTECCIÓN AL SISTEMA DE LUBRICACIÓN**
+
+|Especificaciones Técnicas|Col2|
+|---|---|
+|**Modelo**|**TR85D**|
+|Motor|Diesel, Yanmar L48|
+|Potencia|4.8 hp|
+|Peso|85 kg|
+|**Fuerza de Impacto**|** 1800 kg**|
+|Amplitud del salto|40 - 80 mm|
+|Capacidad del estanque<br>de combustible|2,8 litros|
+|Dimens. zapata|350 x 285 mm|
+|Dimensiones|410 x 703 x 1040 mm|

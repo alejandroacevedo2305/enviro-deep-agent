@@ -1,0 +1,3419 @@
+---
+title: Microsoft Word - Cap 7 A Relación con PPP V1.docx
+author: AP Ecology
+date: D:20141127151612Z00'00'
+language: es
+type: report
+pages: 10
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - DECLARACIÓN
+  - E DIFICIO
+-->
+
+# DECLARACIÓN
+ DE
+ IMPACTO
+ AMBIENTAL** **N M I NTEGRAL**
+### ORMALIZACIÓN
+ Y
+ EJORAMIENTO**
+# E DIFICIO
+ MOP S ANTIAGO**
+
+## CAPÍTULO
+ 7.A** **RELACIÓN
+ CON
+ POLÍTICAS,
+ PLANES
+ Y
+ PROGRAMAS**
+
+SANTIAGO,
+ NOVIEMBRE
+ 2014
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+#### CAPÍTULO
+ 7.A** **RELACIÓN
+ CON
+ POLÍTICAS,
+ PLANES
+ Y
+ PROGRAMAS
+ Y
+ RELACIÓN
+ CON
+ PLANES** **EVALUADOS
+ ESTRATÉGICAMENTE**
+
+ÍNDICE
+
+**CAPÍTULO
+ 7
+ A
+ ......................................................................................................................................................................
+ 3**
+
+7.1 ANTECEDENTES GENERALES
+ .........................................................................................................................................
+ 3
+_7.1.1_ _Introducción
+ ..........................................................................................................................................................
+ 3_
+7.2 A NÁLISIS D E L OS P LANES, P OLÍTICAS Y P ROGRAMAS D E D ESARROLLO D E L A R EGIÓN M ETROPOLITANA ...............................................
+ 4
+_7.2.1_ _Estrategia
+ Regional
+ de
+ Desarrollo
+ (ERD)
+ para
+ la
+ Región
+ Metropolitana
+ de
+ Santiago,
+ para
+ .................................
+ 4_
+_el
+ período
+ 2012-­‐2021.
+ .........................................................................................................................................................
+ 4_
+_7.2.2_ _Política
+ Ambiental
+ De
+ La
+ Región
+ Metropolitana
+ ..................................................................................................
+ 6_
+_7.2.3_ _Plan
+ Regulador
+ Metropolitano
+ de
+ Santiago
+ .........................................................................................................
+ 7_
+_7.2.4_ _CONCLUSIONES
+ .....................................................................................................................................................
+ 9_
+7.3 P LAN E STRATÉGICO
+ DE D ESARROLLO C OMUNAL
+ DE S ANTIAGO .....................................................................................................
+ 9
+7.4 P LAN REGULADOR C OMUNAL
+ DE S ANTIAGO ........................................................................................................................
+ 9
+
+INDICE
+ DE
+ TABLAS
+
+Tabla
+ 7-­‐1:
+ Estrategias
+ de
+ planificación
+ Región
+ Metropolitana
+ .....................................................................................................
+ 4
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 2
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+#### CAPÍTULO
+ 7 A** **RELACIÓN
+ CON
+ POLÍTICAS,
+ PLANES
+ Y
+ PROGRAMAS**
+
+**7.1** **ANTECEDENTES
+ GENERALES**
+
+**7.1.1** **I** **NTRODUCCIÓN**
+
+A
+ continuación
+ se
+ presenta
+ el
+ análisis
+ de
+ compatibilidad
+ territorial
+ del
+ Proyecto **“Normalización
+ Y**
+**Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”**,
+ y
+ su
+ relación
+ con
+ los
+ Planes,
+ Políticas
+ y
+ Programas
+ de
+ Desarrollo
+Regional
+ conforme
+ se
+ indican
+ en
+ los
+ Artículos
+ 8o
+ y
+ 9o
+ de
+ la
+ Ley
+ No19.300
+ y
+ sus
+ modificaciones.
+ Además,
+ se
+complementa
+ este
+ análisis
+ con
+ la
+ relación
+ del
+ Proyecto
+ y
+ el
+ IPT
+ regional
+ correspondiente,
+ el
+ Plan
+ Regulador
+Metropolitano
+ de
+ Santiago
+ (PRMS).
+
+El
+ inciso
+ primero
+ del
+ artículo
+ 9o
+ que
+ se
+ indica,
+ e
+ introducido
+ por
+ la
+ Ley
+ No20.417,
+ publicada
+ en
+ el
+ Diario
+ Oficial
+de
+ fecha
+ 26
+ de
+ enero
+ de
+ 2010,
+ dispone
+ que
+ “los
+ proponentes
+ de
+ los
+ proyectos
+ o
+ actividades,
+ en
+ sus
+ Estudios
+ o
+Declaraciones
+ de
+ Impacto
+ Ambiental,
+ deberán
+ describir
+ la
+ forma
+ en
+ que
+ tales
+ proyectos
+ o
+ actividades
+ se
+relacionan
+ con
+ las
+ políticas,
+ planes
+ y
+ programas
+ de
+ desarrollo
+ regional....”.
+
+En
+ el
+ inciso
+ segundo
+ del
+ Artículo
+ 8°
+ se
+ indica
+ que
+ la
+ Comisión
+ que
+ calificará
+ el
+ proyecto,
+ estipulada
+ en
+ el
+ artículo
+86,
+ deberá
+ siempre
+ solicitar
+ pronunciamiento
+ al
+ Gobierno
+ Regional
+ respectivo,
+ con
+ el
+ objeto
+ de
+ que
+ estos
+señalen
+ si
+ el
+ proyecto
+ o
+ actividad
+ se
+ relaciona
+ con
+ las
+ políticas,
+ planes
+ y
+ programas
+ de
+ desarrollo
+ regional.
+
+En
+ línea
+ con
+ lo
+ anterior
+ y
+ en
+ base
+ a
+ lo
+ señalado
+ en
+ el
+ Ordinario
+ 101958
+ de
+ fecha
+ 10
+ de
+ Junio
+ del
+ 2010
+ de
+ la
+Dirección
+ Ejecutiva
+ de
+ la
+ CONAMA 1,
+ las
+ políticas
+ y
+ planes
+ guían
+ y
+ controlan
+ el
+ proceso
+ de
+ desarrollo
+ regional
+ en
+
+función
+ de
+ una
+ imagen
+ futura
+ de
+ región
+ y
+ de
+ su
+ estructura
+ o
+ funcionamiento,
+ en
+ el
+ marco
+ de
+ las
+ políticas
+ del
+Estado
+ y
+ en
+ respuesta
+ a
+ las
+ aspiraciones
+ de
+ la
+ sociedad. **Se
+ desprende
+ así
+ mismo
+ que
+ las
+ políticas
+ y
+ programas**
+**carecen
+ de
+ un
+ carácter
+ vinculante
+ para
+ los
+ proyectos
+ que
+ por
+ disposición
+ legal
+ deban
+ ser
+ evaluados**
+**ambientalmente
+ y
+ revisten
+ solo
+ un
+ carácter
+ meramente
+ informativo** .
+
+Además,
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+ mismo
+ instructivo,
+ los
+ planes,
+ políticas
+ y
+ programas
+ de
+ desarrollo
+regional
+ que
+ se
+ considerarán
+ en
+ el
+ marco
+ del
+ SEIA,
+ serán
+ exclusivamente
+ aquellos
+ que
+ hayan
+ sido
+ aprobados
+formalmente,
+ a
+ través
+ de
+ un
+ acto
+ administrativo,
+ por
+ el
+ Gobierno
+ Regional,
+ de
+ conformidad
+ a
+ su
+ respectiva
+ Ley
+Orgánica
+ Constitucional.
+ En
+ conformidad
+ a
+ lo
+ anterior
+ el
+ análisis
+ se
+ circunscribe
+ sólo
+ a
+ lo
+ referido
+ en
+ la
+Actualización
+ de
+ la
+ Estrategia
+ de
+ Desarrollo
+ Regional
+ Metropolitana.
+
+Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ en
+ el
+ presente
+ capítulo
+ se
+ analiza
+ la
+ compatibilidad
+ del
+ Proyecto **“Normalización
+ Y**
+**Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”**,
+ con
+ los
+ siguientes
+ Planes,
+ Políticas
+ y
+ Programas
+ existentes
+ para
+la
+ Región
+ Metropolitana
+ de
+ Santiago,
+ a
+ saber:
+
+1 Tiene
+ por
+ objeto
+ precisar
+ las
+ instrucciones
+ de
+ aplicación
+ de
+ los
+ artículos
+ modificados
+ o
+ incorporados
+ a
+ la
+ Ley
+ N°
+ 19.300
+ luego
+ de
+ que
+entrara
+ en
+ vigencia
+ la
+ Ley
+ N°
+ 20.417
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 3
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+**Tabla
+ 7-­‐1:
+ Estrategias
+ de
+ planificación
+ Región
+ Metropolitana**
+
+|Instrumento|Año|
+|---|---|
+|EstrategiaRegionaldeDesarrollo(ERD)paralaRegiónMetropolitanadeSantiago|2012- 2021|
+|PolíticaAmbientalDeLaRegiónMetropolitana||
+
+Así
+ mismo,
+ se
+ complementará
+ este
+ análisis
+ con
+ la
+ compatibilidad
+ del
+ Proyecto
+ y
+ el
+ PRMS,
+ instrumento
+ de
+planificación
+ territorial
+ vigente
+ de
+ la
+ Región
+ Metropolitana.
+
+Respecto
+ de
+ cada
+ uno
+ de
+ los
+ referidos
+ instrumentos,
+ se
+ ha
+ realizado
+ un
+ análisis
+ enfocado
+ a
+ determinar
+ cuáles
+son
+ los
+ principales
+ ejes,
+ lineamientos
+ u
+ objetivos
+ contenidos
+ en
+ ellos,
+ para
+ posteriormente
+ desarrollar
+ la
+Relación
+ con
+ el
+ Proyecto
+ presentado
+ a
+ evaluación
+ ambiental.
+
+**7.2** **ANÁLISIS
+ DE
+ LOS
+ PLANES,
+ POLÍTICAS
+ Y
+ PROGRAMAS
+ DE
+ DESARROLLO
+ DE
+ LA
+ REGIÓN**
+**METROPOLITANA**
+
+**7.2.1** **E** **STRATEGIA** **R** **EGIONAL
+ DE** **D** **ESARROLLO** **(ERD)** **PARA
+ LA** **R** **EGIÓN** **M** **ETROPOLITANA
+ DE** **S** **ANTIAGO** **,** **PARA**
+
+**EL
+ PERÍODO** **2012-­‐2021.**
+
+Este
+ instrumento
+ establece
+ una
+ situación
+ actual
+ de
+ la
+ región,
+ delinea
+ escenarios
+ futuros
+ deseados
+ y
+ formula
+objetivos
+ para
+ concretar
+ dichos
+ escenarios.
+ Se
+ construye
+ en
+ base
+ a
+ una
+ integración
+ de
+ diagnósticos
+ y
+ evidencias
+sectoriales,
+ conformando
+ la
+ situación
+ actual
+ de
+ la
+ región.
+ Incorpora
+ un
+ proceso
+ participativo
+ para
+ implicar
+ e
+integrar
+ valoraciones,
+ opciones
+ y
+ énfasis
+ de
+ los
+ actores
+ que
+ lideran
+ las
+ acciones
+ de
+ desarrollo
+ al
+ interior
+ de
+ la
+región
+ (Gobierno
+ y
+ Consejo
+ Regional;
+ Municipios,
+ actores
+ públicos
+ y
+ privados
+ de
+ relevancia
+ local
+ y
+ regional),
+ de
+manera
+ de
+ concordar
+ mínimos
+ consensos
+ en
+ la
+ proyección
+ futura
+ de
+ la
+ región,
+ sus
+ territorios,
+ aspiraciones
+ y
+expectativas
+ de
+ los
+ grupos
+ y
+ personas
+ que
+ habitan
+ y
+ transitan
+ en
+ la
+ región.
+
+Esta
+ Estrategia
+ Regional
+ de
+ Desarrollo,
+ constituye
+ un
+ marco
+ de
+ definiciones
+ en
+ base
+ al
+ cual
+ se
+ orientan
+ acciones
+ligadas
+ al
+ crecimiento,
+ desarrollo
+ y
+ mejoramiento
+ de
+ las
+ condiciones
+ de
+ vida
+ de
+ grupos
+ y
+ personas
+ habitantes
+ de
+los
+ territorios
+ de
+ la
+ región.
+
+Se
+ describen
+ las
+ diferentes
+ barreras
+ por
+ parte
+ de
+ actores
+ y
+ autoridades
+ regionales
+ junto
+ con
+ estudios
+ vinculados
+a
+ sectores
+ específicos
+ de
+ la
+ realidad
+ regional
+ y
+ a
+ resultados
+ de
+ talleres
+ público-­‐privados
+ de
+ discusión
+ sobre
+ la
+situación
+ general
+ de
+ la
+ Región
+ Metropolitana
+ Santiago
+ (RMS).
+
+Se
+ identifica
+ las
+ problemáticas
+ o
+ síntomas
+ a
+ través
+ del
+ análisis
+ de
+ diversas
+ fuentes
+ secundarias,
+ para
+ luego,
+articular
+ y
+ enfocar
+ la
+ inversión
+ pública,
+ cuyo
+ detalle
+ específico
+ se
+ ordena
+ en
+ los
+ lineamientos
+ estratégicos
+regionales.
+
+A
+ continuación
+ se
+ describen
+ los
+ principales
+ lineamientos
+ estratégicos
+ y
+ se
+ señala
+ su
+ relación
+ con
+ el
+ proyecto
+**“Normalización
+ Y
+ Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”.**
+
+Lineamiento Estratégico Regional (LER) 1: SANTIAGO
+ - REGIÓN INTEGRADA E INCLUSIVA
+
+Corresponde
+ al
+ intento
+ por
+ superar
+ algunas
+ expresiones
+ materiales
+ e
+ intangibles
+ de
+ la
+ segregación
+ y
+ de
+ la
+discriminación,
+ entendidas
+ como
+ barreras
+ para
+ el
+ desarrollo,
+ procurando
+ construir
+ una
+ RMS
+ integrada.
+ Al
+ ser
+ un
+desafío
+ que
+ abarca
+ a
+ la
+ sociedad
+ en
+ su
+ conjunto,
+ no
+ es
+ atribuible
+ en
+ forma
+ exclusiva
+ al
+ quehacer
+ del
+ Gobierno
+Regional,
+ la
+ superación
+ definitiva
+ de
+ esta
+ problemática.
+ Por
+ tanto
+ los
+ objetivos
+ que
+ se
+ incluyen
+ en
+ este
+lineamiento,
+ apuntan
+ a
+ las
+ expresiones
+ materiales
+ de
+ la
+ segregación
+ y
+ de
+ la
+ discriminación
+ y
+ a
+ la
+ generación
+ de
+espacios
+ comunes
+ de
+ encuentro
+ en
+ los
+ habitantes
+ de
+ la
+ RMS.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 4
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+Relación
+ con
+ el
+ Proyecto:
+ El
+ Proyecto
+ es
+ coherente
+ y
+ no
+ se
+ contrapone
+ con
+ este
+ lineamiento
+ estratégico.
+
+Lineamiento Estratégico Regional (LER) 2: SANTIAGO
+ -­‐ REGIÓN EQUITATIVA Y DE OPORTUNIDADES
+
+Este
+ lineamiento
+ es
+ muy
+ similar
+ al
+ anterior,
+ pero
+ se
+ enfoca
+ al
+ concepto
+ de
+ equidad.
+ En
+ efecto,
+ al
+ igual
+ que
+ la
+expectativa
+ de
+ integración,
+ la
+ equidad
+ como
+ principio
+ e
+ idea
+ fuerza,
+ está
+ fuertemente
+ instalada
+ tanto
+ en
+ el
+debate
+ especializado
+ como
+ en
+ las
+ conversaciones
+ cotidianas
+ que
+ se
+ observan
+ en
+ la
+ RMS.
+ La
+ equidad,
+ refleja
+ una
+expectativa
+ de
+ justicia
+ que
+ venía
+ siendo
+ contenida
+ en
+ la
+ idea
+ de
+ igualdad
+ de
+ oportunidades
+ o
+ en
+ la
+ idea
+ de
+redistribución
+ de
+ recursos.
+ La
+ equidad
+ como
+ principio
+ está
+ orientada
+ entonces
+ a
+ superar
+ situaciones
+ y
+dinámicas
+ de
+ inequidades
+ e
+ injusticias,
+ para
+ lograr
+ condiciones
+ mínimas
+ de
+ dignidad,
+ una
+ suerte
+ de
+ soporte
+para
+ la
+ vida.
+ No
+ se
+ apunta
+ por
+ tanto,
+ a
+ construir
+ espacios
+ locales
+ o
+ regionales
+ uniformes
+ o
+ iguales,
+ sino
+ que
+justos.
+
+Relación
+ con
+ el
+ Proyecto:
+ El
+ Proyecto
+ es
+ coherente
+ y
+ no
+ se
+ contrapone
+ con
+ este
+ lineamiento
+ estratégico.
+
+Lineamiento Estratégico Regional (LER) 3: SANTIAGO
+ - REGIÓN SEGURA
+
+De
+ acuerdo
+ al
+ diagnóstico
+ efectuado,
+ el
+ tema
+ de
+ la
+ inseguridad
+ es
+ considerado
+ de
+ gran
+ relevancia
+ por
+ lo
+ que
+ es
+parte
+ de
+ los
+ lineamientos
+ regionales.
+ Sin
+ embargo,
+ la
+ inseguridad
+ no
+ sólo
+ incluye
+ problemáticas
+ asociadas
+ a
+ los
+delitos,
+ a
+ la
+ delincuencia
+ y
+ a
+ la
+ victimización,
+ sino
+ que
+ también
+ alude
+ a
+ espacios
+ de
+ incertidumbre
+ creciente
+ que
+afectan
+ la
+ vida
+ en
+ común,
+ dotando
+ de
+ una
+ cierta
+ inestabilidad
+ y
+ precariedad
+ a
+ procesos
+ que
+ no
+ sólo
+ se
+ dan
+ en
+ el
+ámbito
+ de
+ lo
+ que
+ se
+ conoce
+ como
+ la
+ seguridad
+ ciudadana,
+ sino
+ que
+ también
+ a
+ dinámicas
+ presentes
+ en
+ el
+ trabajo
+y
+ en
+ el
+ acceso
+ a
+ servicios
+ de
+ salud.
+
+_“Una
+ Región
+ segura
+ es
+ una
+ región
+ que
+ no
+ sólo
+ se
+ hace
+ cargo
+ del
+ problema
+ de
+ la
+ delincuencia,
+ esto
+ es,
+ de
+ las_
+_problemáticas
+ de
+ víctimas
+ y
+ victimarios,
+ sino
+ que
+ también
+ atiende
+ a
+ dimensiones
+ que
+ generan
+ inseguridad
+ en
+ las_
+_vidas
+ de
+ las
+ personas
+ debilitando
+ distintos
+ planos
+ en
+ que
+ se
+ concreta
+ su
+ proyecto
+ de
+ vida.”._
+
+Relación
+ con
+ el
+ Proyecto:
+ El
+ Proyecto
+ es
+ coherente
+ y
+ no
+ se
+ contrapone
+ con
+ este
+ lineamiento
+ estratégico.
+
+Lineamiento Estratégico Regional (LER) 4: SANTIAGO: REGION LIMPIA Y SUSTENTABLE
+
+Considera
+ la
+ relación
+ con
+ la
+ sustentabilidad
+ de
+ diversos
+ procesos
+ y
+ medios
+ que
+ hoy
+ afectan
+ la
+ calidad
+ de
+ vida
+ de
+sus
+ habitantes
+ y
+ configuran
+ una
+ situación
+ de
+ urgente
+ tratamiento.
+
+Destaca
+ la
+ importancia
+ de
+ la
+ relación
+ entre
+ la
+ concentración
+ de
+ actividades
+ productivas
+ y
+ la
+ naturaleza,
+ la
+ que
+constituye
+ uno
+ de
+ los
+ principales
+ ámbitos
+ de
+ acción.
+ Es
+ así,
+ que
+ plantea
+ temas
+ relevantes
+ tales
+ como:
+ el
+crecimiento
+ de
+ la
+ ciudad,
+ la
+ disponibilidad
+ de
+ agua,
+ la
+ contaminación
+ ambiental,
+ los
+ que
+ siguen
+ siendo
+ áreas
+que
+ deben
+ seguir
+ siendo
+ entendidas
+ no
+ sólo
+ como
+ estratégicas,
+ sino
+ que
+ ámbitos
+ urgentes
+ de
+ intervención
+pública
+ y
+ privada.
+
+Relación
+ con
+ el
+ Proyecto:
+ El
+ Proyecto
+ es
+ coherente
+ y
+ no
+ se
+ contrapone
+ con
+ este
+ lineamiento
+ estratégico.
+
+Lineamiento Estratégico Regional (LER) 5: SANTIAGO
+ -­‐ REGIÓN INNOVADORA Y COMPETITIVA
+
+De
+ acuerdo
+ a
+ las
+ características
+ de
+ la
+ región,
+ la
+ que
+ considera
+ gran
+ conocimiento,
+ tecnología
+ y
+ centro
+ de
+negocios,
+ se
+ espera
+ que
+ la
+ Región
+ Metropolitana
+ de
+ Santiago
+ sea
+ posicionada
+ y
+ reconocida
+ en
+ el
+ contexto
+global,
+ como
+ conectora
+ de
+ la
+ I+D+i
+ del
+ país
+ y
+ referente
+ en
+ innovación
+ para
+ el
+ ámbito
+ nacional
+ e
+ internacional,
+especialmente
+ el
+ Latinoamericano,
+ con
+ una
+ oferta
+ de
+ conocimiento,
+ de
+ generación
+ y
+ concentración
+ de
+ talento
+ y
+con
+ el
+ dinamismo
+ innovador
+ y
+ emprendedor
+ de
+ su
+ tejido
+ empresarial
+ en
+ el
+ marco
+ de
+ un
+ desarrollo
+ sustentable.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 5
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+En
+ este
+ sentido,
+ los
+ retos
+ de
+ la
+ Región
+ son
+ “Articular
+ la
+ I+D+i
+ para
+ el
+ país,
+ Potenciar
+ la
+ Base
+ Productiva
+ y
+Aumentar
+ la
+ productividad
+ para
+ la
+ competitividad”,
+ lo
+ que
+ permitiría
+ crecimiento
+ y
+ posicionamiento
+ en
+ la
+economía
+ global
+ generando
+ riqueza
+ y
+ bienestar.
+
+Relación
+ con
+ el
+ Proyecto:
+ El
+ Proyecto
+ es
+ coherente
+ y
+ no
+ se
+ contrapone
+ con
+ este
+ lineamiento
+ estratégico.
+
+**7.2.2** **P** **OLÍTICA** **A** **MBIENTAL** **D** **E** **L** **A** **R** **EGIÓN** **M** **ETROPOLITANA**
+
+Fundamentos
+ y
+ Principio
+ de
+ la
+ Política
+
+Fundamentos
+
+Los
+ principales
+ fundamentos
+ a
+ destacar
+ de
+ la
+ política
+ ambiental
+ de
+ la
+ Región
+ Metropolitana
+ son
+ los
+ siguientes:
+La
+ preocupación
+ principal
+ es
+ la
+ calidad
+ de
+ vida
+ de
+ las
+ personas
+ que
+ habitan
+ la
+ Región
+ Metropolitana,
+ cuyo
+mejoramiento
+ sostenido
+ y
+ equitativo
+ no
+ debe
+ comprometer
+ las
+ expectativas
+ de
+ las
+ generaciones
+ futuras.
+
+La
+ complementariedad
+ entre
+ desarrollo
+ socioeconómico
+ y
+ protección
+ de
+ nuestro
+ patrimonio
+ ambiental
+regional,
+ debe
+ garantizar
+ la
+ disponibilidad
+ de
+ recursos
+ necesarios
+ -­‐en
+ cantidad
+ y
+ calidad-­‐
+ para
+ el
+ desarrollo
+sustentable
+ de
+ la
+ Región
+ Metropolitana.
+
+Por
+ lo
+ tanto,
+ es
+ posible
+ asegurar
+ que
+ el
+ proyecto
+ se
+ relaciona
+ con
+ los
+ fundamentos
+ de
+ la
+ política
+ ambiental
+ de
+ la
+región,
+ ya
+ que
+ este
+ tiene
+ como
+ objetivo
+ crear
+ un
+ proyecto
+ que
+ cuente
+ con
+ todas
+ las
+ comodidades
+ y
+conectividad
+ con
+ la
+ ciudad,
+ sobre
+ la
+ base
+ del
+ respeto
+ al
+ medio
+ ambiente,
+ a
+ través
+ del
+ cumplimiento
+ de
+ los
+estándares
+ ambientales
+ y
+ de
+ la
+ legislación
+ vigente.
+
+Principios
+
+Los
+ principios
+ a
+ destacar
+ de
+ la
+ política
+ ambiental
+ (que
+ tenga
+ relación
+ con
+ el
+ proyecto)
+ son
+ los
+ siguientes:
+
+Destacando
+ Políticas
+ públicas
+ regionales
+ ambientalmente
+ sustentables:
+ Se
+ involucra
+ transversalmente
+ a
+ todos
+los
+ sectores,
+ los
+ cuales
+ deben
+ armonizar
+ sus
+ objetivos,
+ estrategias
+ y
+ líneas
+ de
+ acción
+ en
+ la
+ región.
+Responsabilidad
+ del
+ Estado
+ y
+ de
+ los
+ privados:
+ Los
+ privados
+ deben
+ utilizar
+ las
+ mejores
+ tecnologías
+ disponibles
+ y
+las
+ mejores
+ prácticas
+ ambientales,
+ de
+ modo
+ de
+ no
+ lesionar
+ el
+ bien
+ común.
+ El
+ Estado
+ debe
+ proteger
+ el
+ bien
+común
+ y
+ los
+ derechos
+ ciudadanos
+ con
+ un
+ servicio
+ eficiente
+ y
+ oportuno,
+ capaz
+ de
+ fomentar,
+ regular
+ y
+ fiscalizar
+ el
+accionar
+ de
+ los
+ distintos
+ agentes
+ para
+ el
+ desarrollo
+ sustentable.
+ Sustentabilidad:
+ Busca
+ respetar
+ las
+ funciones
+ecosistémicas
+ de
+ los
+ componentes
+ ambientales.
+ Asimismo,
+ este
+ principio
+ incorpora
+ el
+ concepto
+ de
+ equidad
+intergeneracional
+ como
+ compromiso
+ del
+ presente.
+ Prevención:
+ Busca
+ evitar
+ los
+ daños,
+ ya
+ que
+ la
+ recuperación
+es
+ más
+ costosa
+ y
+ menos
+ eficaz,
+ apuntando
+ a
+ crear
+ una
+ conducta
+ preventiva
+ en
+ todos
+ los
+ actores
+ involucrados
+ en
+el
+ proceso
+ de
+ desarrollo
+ regional.
+
+De
+ tal
+ manera,
+ se
+ verifica
+ que
+ el
+ proyecto
+ se
+ relaciona
+ en
+ gran
+ parte
+ con
+ los
+ principios
+ de
+ la
+ política,
+ ya
+ que
+como
+ es
+ un
+ proyecto
+ desarrollado
+ por
+ un
+ privado,
+ este
+ dará
+ cumplimiento
+ a
+ la
+ normativa
+ ambiental
+ vigente,
+con
+ la
+ finalidad
+ de
+ asegurar
+ que
+ el
+ proyecto
+ cumpla
+ con
+ los
+ estándares
+ estipulados
+ en
+ ello,
+ en
+ función
+ de
+respecto
+ al
+ medio
+ ambiente
+ y
+ la
+ comunidad.
+
+Objetivos
+
+“El
+ objetivo
+ general
+ de
+ la
+ Política
+ Ambiental
+ Regional
+ es
+ promover
+ la
+ sustentabilidad
+ ambiental
+ del
+ proceso
+ de
+desarrollo,
+ con
+ miras
+ a
+ mejorar
+ la
+ calidad
+ de
+ vida
+ de
+ los
+ ciudadanos,
+ garantizando
+ un
+ medio
+ ambiente
+ libre
+ de
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 6
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+contaminación,
+ la
+ protección
+ del
+ medio
+ ambiente,
+ la
+ preservación
+ de
+ la
+ naturaleza
+ y
+ la
+ conservación
+ del
+patrimonio
+ ambiental”.
+
+Es
+ posible
+ relacionar
+ este
+ punto
+ con
+ el
+ proyecto,
+ ya
+ que
+ como
+ es
+ sabido
+ la
+ Región
+ Metropolitana,
+ ha
+ sido
+declarada
+ zona
+ latente
+ y
+ saturada,
+ por
+ lo
+ tanto,
+ el
+ proyecto
+ debe
+ dar
+ cumplimiento
+ al
+ PPDA
+ vigente.
+ De
+ esta
+forma,
+ mediante
+ la
+ estimación
+ de
+ emisiones
+ el
+ proyecto
+ considera
+ el
+ PPDA,
+ y
+ aún
+ cuando
+ no
+ debe
+ compensar
+emisiones,
+ identifica
+ una
+ serie
+ de
+ medidas
+ que
+ permitirán
+ mitigar
+ y
+ controlar
+ las
+ emisiones
+ que
+ se
+ generarán
+durante
+ la
+ etapa
+ de
+ construcción.
+
+Líneas
+ de
+ Acción
+
+Las
+ líneas
+ de
+ acción
+ destacada
+ de
+ la
+ política,
+ y
+ que
+ tienen
+ un
+ plazo
+ aproximado
+ de
+ dos
+ años
+ de
+ cumplimiento,
+son:
+
+El
+ objetivo
+ a
+ destacar
+ es
+ el
+ “recuperar
+ y
+ mejorar
+ la
+ calidad
+ ambiental”
+ subrayando
+ la
+ Consolidación
+ de
+ las
+condiciones
+ que
+ permitan
+ continuar
+ con
+ la
+ reducción
+ del
+ problema
+ de
+ material
+ particulado
+ en
+ el
+ aire
+ de
+Santiago,
+ mediante
+ la
+ oportuna
+ ejecución
+ de
+ los
+ compromisos
+ asumidos
+ en
+ el
+ PPDA.
+ Actualización
+ del
+ PPDA,
+validado
+ por
+ la
+ comunidad
+ y
+ los
+ principales
+ actores
+ relevantes
+ involucrados.
+
+Ya
+ que
+ el
+ proyecto
+ se
+ enmarca
+ en
+ la
+ “Normalización
+ y
+ Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”,
+ este
+deberá
+ cumplir
+ con
+ las
+ emisiones
+ estipuladas
+ en
+ el
+ PPDA,
+ con
+ la
+ finalidad
+ de
+ asegurar
+ la
+ calidad
+ de
+ vida
+ de
+ la
+comunidad
+ y
+ los
+ objetivos
+ de
+ disminución
+ de
+ las
+ emisiones
+ a
+ la
+ atmósfera
+ que
+ tiene
+ este,
+ por
+ lo
+ tanto
+ el
+proyecto
+ cumplirá
+ cabalmente
+ con
+ la
+ normativa
+ ambiental
+ vigente.
+
+Es
+ posible
+ visualizar
+ que
+ dentro
+ de
+ los
+ lineamientos
+ de
+ la
+ política,
+ destaca
+ la
+ preocupación
+ de
+ la
+ contaminación
+ambiental
+ especialmente
+ la
+ calidad
+ del
+ aire
+ y
+ la
+ reducción
+ de
+ las
+ emisiones
+ de
+ los
+ contaminantes
+ emitidos
+ a
+ la
+atmósfera,
+ en
+ el
+ ámbito
+ del
+ perfeccionamiento,
+ control
+ y
+ prevención,
+ además
+ de
+ la
+ fiscalización,
+ con
+ la
+ finalidad
+de
+ prevenir
+ el
+ deterioro
+ del
+ medio
+ ambiente.
+
+Finalmente,
+ es
+ posible
+ destacar
+ que
+ el
+ proyecto
+ se
+ relaciona
+ con
+ la
+ política
+ en
+ el
+ ámbito
+ del
+ cumplimiento
+ de
+ la
+normativa
+ vigente
+ con
+ la
+ finalidad
+ de
+ que
+ -­‐dentro
+ de
+ su
+ proceso
+ de
+ implementación-­‐
+ se
+ asegure
+ la
+ protección
+ y
+respeto
+ al
+ medio
+ ambiente
+ y
+ la
+ ciudadanía.
+
+**7.2.3** **P** **LAN** **R** **EGULADOR** **M** **ETROPOLITANO
+ DE** **S** **ANTIAGO**
+
+El
+ Plan
+ Regulador
+ Metropolitano
+ de
+ Santiago
+ (PRMS)
+ fue
+ aprobado
+ el
+ 07
+ de
+ diciembre
+ de
+ 1989
+ mediante
+ la
+Resolución
+ No26
+ de
+ la
+ Secretaría
+ Regional
+ Ministerial
+ de
+ la
+ Vivienda
+ y
+ Urbanismo,
+ y
+ publicado
+ en
+ el
+ Diario
+ Oficial
+el
+ día
+ 27
+ de
+ enero
+ de
+ 1990.
+ Hasta
+ la
+ fecha
+ ha
+ sufrido
+ diferentes
+ modificaciones
+ siendo
+ las
+ úlitmas
+ y
+ mas
+importantes
+ la
+ Modificación
+ 99
+ “MPRMS
+ 99
+ -­‐
+ Actualización
+ de
+ la
+ Vialidad
+ Metropolitana”
+ publicada
+ en
+ 2010,
+ y
+la
+ Modificación
+ 100
+ “MPRMS.100
+ -­‐
+ Actualización
+ Áreas
+ Extensión
+ Urbana
+ y
+ Reconversión”
+ publicada
+ en
+noviembre
+ de
+ 2013.
+
+Las
+ materias
+ abarcadas
+ por
+ este
+ plan
+ son
+ referidas
+ a
+ los
+ límites
+ de
+ extensión
+ urbana,
+ a
+ la
+ zonificación
+metropolitana,
+ al
+ uso
+ del
+ suelo,
+ los
+ equipamientos
+ de
+ carácter
+ metropolitano
+ e
+ intercomunal,
+ las
+ zonas
+exclusivas
+ de
+ usos
+ molestos,
+ las
+ áreas
+ de
+ restricción,
+ las
+ áreas
+ de
+ resguardo
+ de
+ la
+ infraestructura
+ metropolitana,
+la
+ intensidad
+ de
+ ocupación
+ del
+ suelo,
+ como
+ asimismo
+ a
+ las
+ actividades
+ que
+ provocan
+ impacto
+ en
+ el
+ sistema
+metropolitano
+ y
+ exigencias
+ de
+ urbanización
+ y
+ edificación
+ cuando
+ sea
+ pertinente.
+En
+ este
+ Plan
+ se
+ entenderá
+ por
+ “Área
+ Urbana
+ Metropolitana”,
+ al
+ territorio
+ circunscrito
+ por
+ el
+ Límite
+ de
+ Extensión
+Urbana
+ y
+ que
+ por
+ su
+ capacidad,
+ se
+ destina
+ a
+ acoger
+ el
+ crecimiento
+ de
+ la
+ población
+ urbana
+ y
+ sus
+ actividades,
+estimada
+ al
+ año
+ 2020.
+ Es
+ así
+ como
+ en
+ esta
+ área
+ es
+ posible
+ reconocer
+ las
+ áreas
+ urbanizadas
+ (áreas
+ circunscritas
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 7
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+en
+ el
+ caso
+ urbano
+ de
+ las
+ comunas
+ que
+ conforman
+ el
+ Plan)
+ y
+ las
+ áreas
+ urbanizables
+ (entendidas
+ como
+ las
+ que
+ se
+encuentran
+ entre
+ el
+ área
+ urbana
+ y
+ los
+ límites
+ de
+ extensión
+ urbana
+ considerados
+ en
+ el
+ Plan).
+
+El
+ área
+ urbana
+ metropolitana
+ se
+ subdivide
+ en
+ las
+ siguientes
+ zonas:
+
+Zonas
+ Habitacionales
+ Mixtas.
+
+Zonas
+ de
+ Equipamiento
+ Metropolitano
+ e
+ Intercomunal
+ y
+ Zonas
+ de
+ Interés
+ Metropolitano.
+
+Zonas
+ de
+ Actividades
+ Productivas
+ y
+ de
+ Servicio
+ de
+ carácter
+ Industrial.
+
+Areas
+ Verdes.
+
+Relación
+ con
+ el
+ Proyecto:
+ el
+ Plan
+ Regulador
+ Metropolitano
+ de
+ Santiago
+ (PRMS)
+ norma
+ el
+ área
+ de
+ emplazamiento
+del
+ proyecto,
+ clasificándola
+ como
+ zona
+ habitacional
+ mixta
+ del
+ área
+ urbana
+ metropolitana,
+ tal
+ como
+ se
+ indica
+ en
+la
+ figura
+ 5-­‐1.
+
+Se
+ establece
+ para
+ esta
+ área
+ que
+ los
+ usos
+ permitidos
+ corresponden
+ a:
+ Residenciales;
+ de
+ Equipamiento;
+Productivas
+ y
+ de
+ Almacenamiento,
+ de
+ carácter
+ inofensivo
+ e
+ Infraestructura
+ y
+ Transporte.
+
+**Figura
+ 5-­‐1:
+ Emplazamiento
+ del
+ Proyecto
+ y
+ PRMS.**
+
+Fuente:!PRMS!1994!
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 8
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+**7.2.4** **CONCLUSIONES**
+
+El
+ Proyecto **“Normalización
+ y
+ Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”**,
+
+ en
+ evaluación
+ a
+ través
+ de
+ esta
+DIA,
+ corresponde
+ a
+ una
+ inversión
+ en
+ el
+ ámbito
+ de
+ puesta
+ en
+ valor
+ del
+ patrimonio
+ histórico
+ del
+ Edificio
+ MOP.
+
+En
+ este
+ contexto,
+ el
+ Proyecto
+ no
+ se
+ relaciona
+ directamente,
+ ni
+ tampoco,
+ se
+ contrapone
+ con
+ los
+ objetivos
+estratégicos
+ de
+ la
+ Estrategia
+ Regional
+ de
+ Desarrollo
+ (ERD)
+ para
+ la
+ Región
+ Metropolitana
+ de
+ Santiago,
+ para
+ el
+período
+ 2012-­‐2021.
+
+Asimismo,
+ el
+ proyecto
+ tampoco
+ se
+ relaciona
+ directamente
+ con
+ el
+ PRMS
+ ni
+ tampoco
+ se
+ contrapone
+ con
+ las
+regulaciones
+ que
+ este
+ Plan
+ define,
+ toda
+ vez
+ que
+ se
+ trata
+ de
+ un
+ edificio
+ existente
+ y
+ a
+ la
+ puesta
+ en
+ valor
+ de
+ la
+ Zona
+Típica
+ definida
+ por
+ el
+ Decreto
+ Exento
+ No462
+ de
+ 2008
+ Declara
+ Zona
+ Típica
+ o
+ Pintoresca
+ el
+ sector
+ denominado
+“Barrio
+ Cívico
+ -
+ Eje
+ Bulnes
+ -
+ Parque
+ Almagro”,
+ de
+ la
+ comuna
+ y
+ provincia
+ de
+ Santiago,
+ Región
+ Metropolitana.
+(Ver **Anexo
+ 11
+ Decreo
+ No462
+ Zona
+ Típica
+ “Barrio
+ Cívico
+ -
+ Eje
+ Bulnes
+ -
+ Parque
+ Almagro”** ).
+
+En
+ consecuencia,
+ el
+ proyecto
+ es
+ compatible
+ territorialmente
+ con
+ los
+ planes,
+ políticas
+ y
+ programas
+ vigentes
+ en
+ la
+Región
+ Metropolitana
+ y
+ es
+ concordante
+ con
+ los
+ lineamientos
+ y
+ objetivos
+ asociados
+ a
+ la
+ Estrategia
+ Regional
+ de
+Desarrollo
+ (ERD)
+ para
+ la
+ Región
+ Metropolitana
+ de
+ Santiago.
+ Asimismo,
+ el
+ proyecto
+ es
+ compatible
+ con
+ los
+ usos
+ de
+suelo
+ establecidos
+ por
+ el
+ Plan
+ Regulador
+ Metropolitano,
+ dado
+ que
+ su
+ objetivo
+ de
+ equipamiento
+ no
+ interfiere
+con
+ ellos.
+
+**7.3** **PLAN
+ ESTRATÉGICO
+ DE
+ DESARROLLO
+ COMUNAL
+ DE
+ SANTIAGO**
+
+El
+ Plan
+ Estratégico
+ de
+ Desarrollo
+ Comunal
+ Santiago
+ 2010,
+ para
+ la
+ comuna
+ de
+ Santiago
+ plantea
+ dentro
+ de
+ los
+objetivos
+ del
+ PLADECO,
+ la
+ siguiente
+ visión
+ objetivo _“Lugar
+ de
+ emprendimientos
+ y
+ desafíos”._
+
+En
+ tanto
+ el
+ proyecto
+ “Normalización
+ y
+ Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”
+ se
+ relaciona
+ con
+ el
+siguiente
+ objetivo
+ específico:
+ revalorizar
+ al
+ edificio
+ y
+ hacerlo
+ funcionalmente
+ y
+ ambientalmente
+ eficiente
+ y
+grato.
+
+Una
+ de
+ las
+ líneas
+ estratégicas
+ del
+ Plan
+ es:
+ Propuesta
+ Estratégica
+ I.2:
+ Promover
+ la
+ conservación
+ y
+ rehabilitación
+del
+ patrimonio
+ social,
+ Urbano
+ y
+ arquitectónico
+ de
+ los
+ barrios.
+ Y
+ la
+ línea
+ estratégica
+ I2e
+
+ indica:
+ Restaurar,
+rehabilitar
+ y
+ conservar
+ los
+ edificios
+ de
+ interés
+ patrimonial.
+
+El
+ proyecto
+ “Normalización
+ y
+ Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”
+
+ aporta
+ a
+ los
+ objetivos
+ estratégicos
+de
+ desarrollo
+ urbano
+ que
+ se
+ expresan
+ el
+ Plan
+ de
+ Desarrollo
+ Comunal
+ de
+ Santiago,
+ dado
+ que
+ contempla
+ la
+intervención
+ de
+ un
+ Edificio
+ que
+ conforma
+ el
+ Barrio
+ Cívico
+ de
+ Santiago.
+
+**7.4** **PLAN
+ REGULADOR
+ COMUNAL
+ DE
+ SANTIAGO**
+
+EL
+ Plan
+ Regulador
+ Comunal
+ de
+ Santiago
+
+ fue
+ aprobado
+ el
+ 21
+ de
+ enero
+ de
+ 1990
+ y
+ corresponde
+ a
+ un
+ instrumento
+de
+ planificación
+ que
+ permite
+ a
+ través
+ de
+ normas
+ urbanísticas
+ decidir
+ sobre
+ el
+ desarrollo
+ futuro
+ del
+ territorio
+ de
+la
+ comuna.
+ Entre
+ las
+ principales
+ normas
+ urbanísticas
+ que
+ se
+ establecen
+ están:
+ la
+ altura
+ de
+ las
+ edificaciones,
+ los
+usos
+ de
+ suelo
+ permitidos
+ o
+ prohinidos,
+ los
+ sistemas
+ de
+ agrupamiento,
+ la
+ vialidad
+ estructurante,
+ la
+ densidad
+ de
+la
+ población,
+ etc.
+ Así
+ como
+ también,
+ permite
+ determinar
+ las
+ zonas
+ o
+ inmuebles
+ de
+ conservación
+ histórica.
+
+El
+ proyecto
+ es
+ coherente
+ con
+ el
+ uso
+ de
+ suelo
+ establecido
+ por
+ el
+ plan
+ regulador,
+ que
+ corresponde
+ a
+ Zonas
+ de
+edificacion
+ Zona
+ A·∙
+ Zona
+ Conservaci6n
+ Hist6rica
+ A3
+ -­‐
+ Subsector
+ A3b
+ -­‐Zona
+ Tfpica
+ Barrio
+ Civlco;
+ Eje
+ Bulnes
+ -­‐
+Parque
+ Almagro,
+ cuyas
+ exigencias
+ se
+ encuentran
+ detalldas
+ en
+ el
+ Anexo
+ 3.1:
+ Certificado
+ de
+ Informaciones
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 9
+ de
+ 10
+
+C APÍTULO 7.A -­‐ R ELACIÓN C ON P OLÍTICAS, P LANES Y P ROGRAMAS
+
+Previas.
+ El
+ proyecto
+ “Normalización
+ y
+ Mejoramiento
+ Integral
+ Edificio
+ MOP
+ Santiago”
+ cuenta
+ con
+ Informe
+Favorable,
+ como
+ consta
+ en
+ el
+ Anexo
+ 3.5:
+ Informe
+ Favorable
+ Normalización
+ Edificio
+ MOP
+ y
+ Informe
+ Favorable
+Ampliación
+ Edificio
+ MOP
+ y
+ Anexo
+ 3.7:
+ Certificado
+ de
+ regularización
+ de
+ Obra
+ Menor.
+
+D ECLARACIÓN
+ DE I MPACTO A MBIENTAL
+“N ORMALIZACIÓN
+ Y M EJORAMIENTO I NTEGRAL E DIFICIO MOP S ANTIAGO ”
+
+Página
+ 10
+ de
+ 10

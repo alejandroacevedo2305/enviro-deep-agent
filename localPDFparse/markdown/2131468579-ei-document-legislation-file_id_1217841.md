@@ -1,0 +1,828 @@
+---
+title: Sin título
+author: Ricardo Gonzalorena Vallejos
+date: D:20160603113008-03'00'
+language: es
+type: report
+pages: 21
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**C.** **PLAN DE CUMPLIMIENTO DE LA LEGISLACIÓN AMBIENTAL APLICABLE**
+
+**C.1.** **IDENTIFICACIÓN DE LAS NORMAS AMBIENTALES APLICABLES AL PROYECTO.**
+
+En el siguiente punto (C.2.) se identifican las normas ambientales aplicables al Proyecto. Lo anterior se
+desarrolla a través de una tabla, en donde además se indican los organismos fiscalizadores, las formas e
+indicadores de cumplimiento.
+
+**C.2.** **DESCRIPCIÓN DE LA FORMA Y FASES EN LAS QUE SE DARÁ CUMPLIMIENTO A LAS**
+**OBLIGACIONES** **CONTENIDAS** **EN** **LA** **NORMATIVA** **AMBIENTAL,** **INCLUYENDO**
+**INDICADORES DE CUMPLIMIENTO:**
+
+A continuación se lista la normativa ambiental aplicable al Proyecto, según componente ambiental,
+incluyendo la descripción de la forma y fases en las que se dará cumplimiento a las obligaciones contenidas
+en cada normativa y sus indicadores de cumplimiento.
+
+|1. COMPONENTE/MATERIA: GENERALES|Col2|Col3|
+|---|---|---|
+|Norma|Decreto Supremo No 1.150/80. Constitución de la República|Decreto Supremo No 1.150/80. Constitución de la República|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|Fase de construcción y operación.|
+|Forma de cumplimiento|El Proyecto se ajustará a todas las disposiciones constitucionales, otorgando<br>las garantías constitucionales correspondientes.|El Proyecto se ajustará a todas las disposiciones constitucionales, otorgando<br>las garantías constitucionales correspondientes.|
+|Indicador que acredita su cumplimiento|Obtención de Resolución de Calificación Ambiental (RCA) favorable.|Obtención de Resolución de Calificación Ambiental (RCA) favorable.|
+|Forma de control y seguimiento|Ejecución de las acciones preventivas propuestas en la presente Declaración<br>de Impacto Ambiental (DIA) y las establecidas en la RCA.|Ejecución de las acciones preventivas propuestas en la presente Declaración<br>de Impacto Ambiental (DIA) y las establecidas en la RCA.|
+|Norma|Ley 19.300. Ley de Bases Generales del Medio Ambiente|Ley 19.300. Ley de Bases Generales del Medio Ambiente|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|Fase de construcción y operación.|
+|Forma de cumplimiento|Mediante el cumplimiento de las normas ambientales vigentes y la<br>implementación de acciones que permitan reducir y minimizar los impactos<br>ambientales o efectos negativos sobre el medio ambiente.|Mediante el cumplimiento de las normas ambientales vigentes y la<br>implementación de acciones que permitan reducir y minimizar los impactos<br>ambientales o efectos negativos sobre el medio ambiente.|
+|Indicador que acredita su cumplimiento|Obtención de RCA favorable.|Obtención de RCA favorable.|
+|Forma de control y seguimiento|Ejecución de las medidas de control propuestas en la presente DIA y las<br>establecidas en la RCA.|Ejecución de las medidas de control propuestas en la presente DIA y las<br>establecidas en la RCA.|
+|Norma|D.S. N° 40/12 - Reglamento del Sistema de Evaluación de Impacto<br>Ambiental|D.S. N° 40/12 - Reglamento del Sistema de Evaluación de Impacto<br>Ambiental|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|Fase de construcción y operación.|
+|Forma de cumplimiento|El Proyecto será calificado por la autoridad ambiental.|El Proyecto será calificado por la autoridad ambiental.|
+|Indicador que acredita su cumplimiento|Obtención de RCA favorable.|Obtención de RCA favorable.|
+|Forma de control y seguimiento|Ejecución de las medidas de control propuestas en la DIA y de los estudios<br>anexos asociados al Proyecto: Estudios atmosférico y Estudio acústico y<br>vibraciones; y las establecidas en la RCA.|Ejecución de las medidas de control propuestas en la DIA y de los estudios<br>anexos asociados al Proyecto: Estudios atmosférico y Estudio acústico y<br>vibraciones; y las establecidas en la RCA.|
+|Norma|DFL No 458/76, Ley General de Urbanismo y Construcciones y Resolución<br>No 20/94, Plan Regulador Metropolitano de Santiago|DFL No 458/76, Ley General de Urbanismo y Construcciones y Resolución<br>No 20/94, Plan Regulador Metropolitano de Santiago|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|Fase de construcción.|
+|Forma de cumplimiento|El Proyecto se ajustará a las disposiciones indicadas por la ordenanza, la<br>cual contiene y define las características técnicas de los proyectos,<br>materiales y sistemas de construcción y urbanización, de acuerdo a los<br>requisitos de obligatoriedad que establece la Ordenanza General. El<br>Proyecto cumplirá con las disposiciones establecidas en el PRMS de 1990<br>para la zona donde se emplazará el Proyecto.|El Proyecto se ajustará a las disposiciones indicadas por la ordenanza, la<br>cual contiene y define las características técnicas de los proyectos,<br>materiales y sistemas de construcción y urbanización, de acuerdo a los<br>requisitos de obligatoriedad que establece la Ordenanza General. El<br>Proyecto cumplirá con las disposiciones establecidas en el PRMS de 1990<br>para la zona donde se emplazará el Proyecto.|
+|Indicador que acredita su cumplimiento|Permiso de Edificación y Recepción Final, otorgado por la Dirección de|Permiso de Edificación y Recepción Final, otorgado por la Dirección de|
+|||68|
+|DIA | Edificio Coronel Godoy|DIA | Edificio Coronel Godoy|DIA | Edificio Coronel Godoy|
+
+|Col1|Obras de la I. Municipalidad de Estación Central.|
+|---|---|
+|Forma de control y seguimiento|Registro, según Permiso de Edificación, de todas las disposiciones de la<br>norma.|
+|Norma|Reglamento sobre programas de cumplimiento, autodenuncia y planes de<br>reparación. Decreto Supremo No 30/2013 Ministerio del Medio Ambiente.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Construcción y Operación.|
+|Forma de cumplimiento|Ante un eventual daño ambiental, el Titular del Proyecto presentará un<br>programa de cumplimiento ante la Superintendencia del Medio Ambiente.|
+|Indicador que acredita su cumplimiento|Aprobación del programa de cumplimiento por parte de la Superintendencia<br>del Medio Ambiente.|
+|Forma de control y seguimiento|El programa de cumplimiento será fiscalizado por la Superintendencia de<br>Medio Ambiente.|
+|Norma|Aprueba reglamento del sistema nacional de información de fiscalización<br>ambiental y de los registros públicos de resoluciones de calificación<br>ambiental y de sanciones. Decreto Supremo No 31/2013 Ministerio del<br>Medio Ambiente.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Construcción y Operación.|
+|Forma de cumplimiento|Facilitación de documentación requerida por la autoridad a fin de facilitar la<br>fiscalización.|
+|Indicador que acredita su cumplimiento|Registro en obra de toda la documentación requerida por la autoridad a fin<br>de facilitar la fiscalización.|
+|Forma de control y seguimiento|Comprobante de entrega de Información a la Superintendencia de Medio<br>Ambiente.|
+|Norma|Resolución Exenta N°844 del 2012, de la Superintendencia del Medio<br>Ambiente, que Dicta e Instruye Normas de Carácter General sobre la<br>Remisión de los antecedentes respecto de las Condiciones, compromisos y<br>Medidas establecidas en las Resoluciones de Calificación Ambiental, y las<br>demás normas aplicables al proyecto.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Construcción y/u Operación.|
+|Forma de cumplimiento|Remitir información a la Superintendencia del Medio Ambiente, respecto de<br>las condiciones, compromisos o medidas, que ya sea por medio de<br>monitoreo, mediciones, reportes, análisis, informes de emisiones, estudios,<br>auditorias, cumplimiento de metas o plazos, y en general cualquier otra<br>información destinada al seguimiento ambiental del proyecto.|
+|Indicador que acredita su cumplimiento|Comprobante de ingreso de información a la Superintendencia del medio<br>Ambiente.|
+|Forma de control y seguimiento|Comprobante de ingreso de información a la Superintendencia del medio<br>Ambiente.<br>|
+|2. <br>COMPONENTE/MATERIA:**AIRE**|2. <br>COMPONENTE/MATERIA:**AIRE**|
+|Norma|D.S. No 144/61 del MINSAL, establece normas para evitar emanaciones o<br>contaminantes atmosféricos de cualquiera naturaleza.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|
+|Forma de cumplimiento| En la Construcción: Los movimientos de tierra, las actividades de carga y<br>descarga y el movimiento de camiones se realizará tomando las medidas<br>necesarias para captar y minimizar el polvo que tales actividades<br>pudieran generar hacia la comunidad o en las áreas de trabajo.<br> En la Operación: Mantenciones regulares al grupo electrógeno de<br>emergencia ubicado en el primer subterráneo.|
+|Indicador que acredita su cumplimiento| En la Construcción: Registros asociados a mantenciones de maquinarias y|
+
+DIA | Edificio Coronel Godoy 69
+
+|Col1|revisiones técnicas y registro fotográfico de señalización de restricción de<br>velocidad y encarpe de camiones, entre otros.<br> En la Operación: Boleta o factura que corrobore las fechas de las<br>mantenciones del grupo electrógeno.|
+|---|---|
+|Forma de control y seguimiento| En la Construcción: Registro en obra (fotográfico u otro) que corrobore la<br>correcta ejecución de las actividades de carga y descarga, mantenciones<br>al día de maquinarias y camiones (revisiones técnicas).<br> En la Operación: Programa (calendarización) de mantenciones regulares<br>al grupo electrógeno mediante servicios autorizados.|
+|Norma|D.S. No 138/05 y sus modificaciones del MINSAL, establece obligación de<br>declarar emisiones.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de operación.|
+|Forma de cumplimiento|El Proyecto contempla la instalación de un grupo electrógeno de<br>emergencia. El Titular realizará la declaración de emisiones de<br>contaminantes (si corresponde) ante la Autoridad Sanitaria respectiva.|
+|Indicador que acredita su cumplimiento|Comprobante de ingreso de la Declaración de Emisiones de<br>grupos electrógenos y calderas generadoras de agua caliente (si aplica)|
+|Forma de control y seguimiento|Registro de documentos de declaración de emisiones.|
+|Norma|D.S. N° 66/09. Plan de prevención y descontaminación atmosférica para la<br>Región Metropolitana.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación|
+|Forma de cumplimiento|De acuerdo a las estimaciones, el Proyecto no supera la normativa vigente<br>en ninguna de sus fases, por lo tanto se concluye que el Proyecto no<br>deberá realizar un Programa de Compensación de Emisiones (PCE).|
+|Indicador que acredita su cumplimiento|Registros en obra que corroboren la ejecución de las medidas de control<br>propuestas en el Estudio atmosférico.|
+|Forma de control y seguimiento|Registro en obra (fotográfico, check list, inspección visual, entre otros) del<br>cumplimiento de las medidas propuestas en el Estudio atmosférico.|
+|Norma|D.S N°4/1992 del MINSAL, Establece norma de emisión de material<br>particulado a fuentes estacionarias puntuales y grupales|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de operación.|
+|Forma de cumplimiento|De acuerdo a las estimaciones realizadas, el Proyecto no supera las<br>emisiones de material particulado en la fase de operación.|
+|Indicador que acredita su cumplimiento|Mantenciones periódicas de fuentes estacionarias, de su ducto o chimenea<br>de descarga de emisiones.<br>Muestreo isocinético de las fuentes puntuales y grupales para determinar<br>que el nivel de concentración no supere lo establecido por este decreto.|
+|Forma de control y seguimiento|Registro en formato papel y/o digital de los resultados obtenidos en el<br>muestreo.|
+|Norma|D.S. No 48/1984 del MINSAL, Establece - Reglamento de Calderas y<br>Generadores de Vapor|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de operación.|
+|Forma de cumplimiento|Registro de las calderas en la Seremi de Salud Metropolitana.<br>Las instalaciones se someterán al procedimiento de certificación una vez<br>que hayan sido implementadas. Se realizará inspecciones periódicas para<br>acreditar el correcto funcionamiento y calidad de la caldera y sus<br>accesorios.<br>Funcionamiento de la sala de calderas a cargo de operadores capacitados.|
+|Indicador que acredita su cumplimiento|Certificado de la inspección de calderas y sus accesorios.|
+|Forma de control y seguimiento|Registro de los certificados ante la autoridad sanitaria.|
+|Norma|D.S. No 594/99 y sus modificaciones, Condiciones Sanitarias y Ambientales<br>Básicas en los Lugares de Trabajo.<br>Este reglamento en lo que se refiere a emisiones y calidad del aire, plantea<br>los siguientes aspectos:|
+
+DIA | Edificio Coronel Godoy 70
+
+|Col1|- Ventilación que proporcione condiciones ambientales confortables, que<br>no causen molestias o perjudiquen la salud del trabajador.<br>- Límites permisibles de agentes químicos y físicos que puedan provocar<br>efectos adversos en el trabajador.|
+|---|---|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación|
+|Forma de cumplimiento|El Proyecto se ajustará fielmente a las disposiciones contenidas en este<br>Reglamento, cumpliendo todas las disposiciones aludidas en las actividades<br>de construcción y operación. En la construcción se trabajará en ambientes<br>al aire libre (total ventilación) y, gracias a la humectación, las emisiones de<br>polvo por excavaciones serán de baja magnitud, sin generar efectos<br>adversos sobre la salud de los trabajadores.|
+|Indicador que acredita su cumplimiento|Autorización de obras preliminares.<br>Permiso de Edificación.<br>Registro de las condiciones del área de trabajo|
+|Forma de control y seguimiento|Registro en obra (fotográfico, chek list u otro) de los trabajadores utilizando<br>correctamente sus EPP y de las condiciones de su área de trabajo.|
+|Norma|D.S. N° 54/1994, del Ministerio de Transportes y Telecomunicaciones, que<br>establece Norma de Emisión Aplicable a Vehículos Motorizados Medianos.|
+|Fase del Proyecto a la que aplica o en la<br>que se dará cumplimiento|Construcción.|
+|Forma de cumplimiento|Verificar que los vehículos que ingresan a la obra, tenga su revisión técnica<br>al día|
+|Indicador que acredita su cumplimiento|Registro en obra de verificación de vehículos livianos con revisión técnica al<br>día.|
+|Forma de control y seguimiento|Registro en obra de verificación de vehículos livianos con revisión técnica al<br>día.|
+|||
+|3. <br>COMPONENTE/MATERIA:**RUIDO**|3. <br>COMPONENTE/MATERIA:**RUIDO**|
+|Norma|D.S. No 38/11 del MMA, norma de Emisión de Ruidos Generados por<br>Fuentes que Indica.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|
+|Forma de cumplimiento|En la fase de construcción y operación se adoptarán medidas de mitigación<br>a fin de no superar los límites de ruido normados. Dichas medidas se<br>detallan en el Estudio acústico y vibraciones, adjunto en elAnexo 4.<br>Estudios.|
+|Indicador que acredita su cumplimiento|Registro en obra de la correcta ejecución de las medidas de control<br>propuestas en el Estudio acústico y vibraciones del Anexo 4.|
+|Forma de control y seguimiento|Registro en obra de la implementación de las medidas dispuestas en el<br>Estudio acústico y vibraciones.|
+|Norma|D.S. No 594/99 del MINSAL, artículos 70 al 80. Exposición laboral a las<br>emisiones de ruido.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|
+|Forma de cumplimiento|Durante la fase de construcción el personal contará con protecciones<br>auditivas para realizar los trabajos que generen ruidos molestos, es decir,<br>ruidos estables o fluctuantes superiores a un nivel de presión sonora<br>continuo equivalente superior a 85 dB(A) lento, para una jornada de ocho<br>horas diarias.|
+|Indicador que acredita su cumplimiento|Registro en obra, por medio de check list, fotografía u otro, que acredite la<br>entrega de EPP a los trabajadores y el correcto uso de éstos.|
+|Forma de control y seguimiento|Registro en obra de trabajadores que utilizan EPP.|
+|||
+
+DIA | Edificio Coronel Godoy 71
+
+|4. COMPONENTE/MATERIA: RESIDUOS SÓLIDOS|Col2|
+|---|---|
+|Norma|D.F.L. No 725/67 - Código Sanitario, El artículo 80 señala que “Corresponde<br>al Servicio Nacional de Salud autorizar la instalación y vigilar el<br>funcionamiento de todo lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de basuras y desperdicio de<br>cualquier clase”.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|
+|Forma de cumplimiento| En la Construcción: Los residuos generados serán acumulados en una<br>zona especialmente habilitada para este propósito. Éstos serán retirados<br>por el servicio de recolección municipal y dispuesta a relleno sanitario<br>autorizado.<br> En la Operación: Se contará con salas de basuras, diseñada<br>especialmente para la acumulación de residuos. Los residuos domiciliarios<br>se acumularán por un período máximo de dos días, para luego ser<br>retirados por el servicio de recolección municipal, quienes trasladarán<br>estos residuos a rellenos sanitarios autorizados.|
+|Indicador que acredita su cumplimiento| Comprobante de ingreso de residuos a sitios de disposición final<br>autorizados.<br> Registro de recolección de residuos sólidos domiciliarios en la fase de<br>operación, por parte del servicio de aseo municipal.|
+|Forma de control y seguimiento|Registro en obra de los comprobantes de ingreso de residuos a sitios de<br>disposición final autorizados.|
+|Norma|D.S. No 1/2013 del MMA. Reglamento del Registro de Emisiones y<br>Transferencias de Contaminantes (RETC)|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Se designará a un encargado de informar los residuos generados a través<br>del sistema de Ventanilla Única (RECT).|
+|Indicador que acredita su cumplimiento|Comprobante de registro de la declaración a través del RECT.|
+|Forma de control y seguimiento|Registro de despacho de todos los residuos generados durante la<br>construcción del proyecto y su posterior declaración en el sitio web del<br>RETC.|
+|||
+|5. <br>COMPONENTE/MATERIA:**RESIDUOS LÍQUIDOS Y PROVISIÓN DE AGUA POTABLE**|5. <br>COMPONENTE/MATERIA:**RESIDUOS LÍQUIDOS Y PROVISIÓN DE AGUA POTABLE**|
+|Norma|D.S. No 50/2003 del MOP. Establece en lo pertinente que “todo propietario<br>de inmueble urbano edificado, con frente a una red pública de agua potable<br>o de alcantarillado, deberá instalar a su costa, tanto las instalaciones<br>domiciliarias de agua potable y alcantarillado, como el arranque de agua<br>potable y la unión domiciliaria de alcantarillado, incluida su conexión y<br>empalme, dentro del plazo de seis y doce meses, respectivamente, contado<br>desde la puesta en explotación de dichas redes, o desde la notificación<br>respectiva al propietario, por parte de la concesionaria”.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción y operación.|
+|Forma de cumplimiento|El Proyecto requerirá para sus distintas fases de desarrollo, instalaciones de<br>agua potable y aguas servidas. Para la fase de construcción, se conectará al<br>empalme red existente de potable y aguas servidas. Los servicios sanitarios<br>corresponderán a baños químicos. Respecto de la fase de operación, se<br>solicitará factibilidad de agua potable y alcantarillado a empresa sanitaria<br>del sector.|
+|Indicador que acredita su cumplimiento|Obtención del certificado de factibilidad de agua potable y alcantarillado<br>emitido por la empresa sanitaria Aguas Andinas.|
+|Forma de control y seguimiento|Obtención del certificado de factibilidad de agua potable y alcantarillado<br>emitido por la empresa sanitaria Aguas Andinas.|
+|||
+
+DIA | Edificio Coronel Godoy 72
+
+|6. COMPONENTE/MATERIA: RESIDUOS PELIGROSOS|Col2|
+|---|---|
+|Norma|D.S. No 148/2003 del MINSAL. Reglamento Sobre el Manejo Sanitario de los<br>Residuos Peligrosos.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Se utilizarán contenedores diferenciados para este tipo de residuos, los<br>cuales estarán debidamente sellados, almacenados temporalmente en<br>bodega de RESPEL. Serán retirados por empresa autorizada en el manejo y<br>disposición final de ellos.|
+|Indicador que acredita su cumplimiento|Comprobante de retiro de residuos peligrosos cada 6 meses por parte de<br>transportistas y destinatarios autorizados.|
+|Forma de control y seguimiento|Inspección interna constante del sitio de disposición temporal de residuos<br>peligrosos. Registro en obra de los comprobantes de retiro, transporte y<br>disposición final por personas autorizadas.|
+|||
+|7. <br>COMPONENTE/MATERIA:**VIALIDAD**|7. <br>COMPONENTE/MATERIA:**VIALIDAD**|
+|Norma|D.S. No 158/80 del MOP. Peso Máximo de Vehículos. A fin de evitar el<br>deterioro prematuro del pavimento de calles y caminos, la Dirección de<br>Vialidad del Ministerio de Obras Públicas por medio del presente Decreto<br>Supremo, estableció los límites de peso máximo por ejes con que los<br>vehículos de carga podrán circular por los caminos del país. Asimismo,<br>establece que para transportar carga indivisible con peso bruto superior a<br>45 toneladas debe solicitar permiso especial en la Dirección de Vialidad.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|En la fase de construcción del Proyecto se contempla el transporte de<br>camiones con carga hacia y desde la obra. El titular velará porque en todo<br>momento los camiones involucrados en cualquiera de las fases del Proyecto<br>cumplirán con esta normativa.|
+|Indicador que acredita su cumplimiento|Registro en obra de la cantidad de materiales a transportar (guía de<br>despacho, boleta, factura, entre otros).|
+|Forma de control y seguimiento|Registro en obra de la carga máxima que transportan los camiones que<br>ingresan y egresan de la zona de construcción del Proyecto.|
+|Norma|D.S. No 200/93 del MOP. Establece pesos máximos a los vehículos para<br>circular en las vías urbanas del País.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|El Titular velará porque en todo momento los vehículos que circulan por las<br>vías urbanas del área de influencia directa del Proyecto, cumplan este<br>decreto.|
+|Indicador que acredita su cumplimiento|Registro en obra de la cantidad de materiales a transportar (guía de<br>despacho, boleta, factura, entre otros).|
+|Forma de control y seguimiento|Registro en obra de la carga máxima que transportan los camiones que<br>ingresan y egresan de la zona de construcción del Proyecto.|
+|Norma|Decreto No 18/2001 del Ministerio de transportes y telecomunicaciones.<br>Prohíbe circulación de vehículos de carga en vías que indica.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|El Titular velará porque en todo momento los vehículos asociados al<br>Proyecto cumplan con las restricciones horarios de prohibición para circular<br>por las vías al interior del anillo Américo Vespucio y por Avenida Américo<br>Vespucio.|
+|Indicador que acredita su cumplimiento|Restringir, en los contratos con empresas constructoras, la utilización de las<br>vías indicadas.|
+|Forma de control y seguimiento|Registro en obra de las rutas utilizadas por los vehículos asociados al<br>Proyecto.|
+
+DIA | Edificio Coronel Godoy 73
+
+|Norma|D.S. No 75/87 del MINTRAEL. Establece condiciones para el transporte de<br>carga. Artículo 2, que establece que los vehículos que transporten<br>desperdicio, arena, ripio, tierra u otros materiales, ya sean sólidos o<br>líquidos, que puedan escurrirse o caer al suelo, deben estar constituidos de<br>manera que ese escurrimiento o caída no se produzca por causa alguna.|
+|---|---|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Los camiones que transporten materiales serán cubiertos correctamente,<br>por lo que no se producirán escurrimientos o caídas involuntarias,<br>adicionalmente los camiones al salir del terreno del Proyecto, serán<br>controlados en cuanto a su nivel de carga.|
+|Indicador que acredita su cumplimiento|Exigencia contractual. Registro fotográfico de ingreso de camiones<br>encarpados.|
+|Forma de control y seguimiento|Control al ingreso/egreso de la obra. Los camiones que transporten tierra<br>de excavaciones o material pata relleno deben estar encarpados.|
+|||
+|8. <br>COMPONENTE/MATERIA:**SUSTANCIAS PELIGROSAS**|8. <br>COMPONENTE/MATERIA:**SUSTANCIAS PELIGROSAS**|
+|Norma|D.S. No 298/95 reglamenta transporte de cargas peligrosas por calles y<br>caminos.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|El Titular velará porque en todo momento que se realice transporte de<br>cargas peligrosas asociada al Proyecto se ajuste a lo indicado en este<br>decreto.|
+|Indicador que acredita su cumplimiento|Realizar transporte de sustancias peligrosas con transportistas autorizados.|
+|Forma de control y seguimiento|Registro en obra del transportista y de las características de los camiones<br>que efectúan el transporte de sustancias peligrosas.|
+|Norma|D.S. No 78/2009. Reglamento de almacenamiento de sustancias peligrosas.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|El Titular contará con una bodega de almacenamiento para sustancias<br>peligrosas.|
+|Indicador que acredita su cumplimiento|RCA que aprueba el Proyecto.<br>Instalación de sitio de almacenaje temporal de sustancias peligrosas según<br>lo indicado en el reglamento.|
+|Forma de control y seguimiento|Registro en obra de inspección interna constante del sitio de<br>almacenamiento de sustancias peligrosas.|
+|||
+|9. <br>COMPONENTE/MATERIA:**PATRIMONIO ARQUEOLÓGICO**|9. <br>COMPONENTE/MATERIA:**PATRIMONIO ARQUEOLÓGICO**|
+|Norma|Ley 17.288 de Monumentos Nacionales. Durante la realización de las obras<br>el titular deberá informar al Consejo de Monumentos Nacionales de<br>cualquier hallazgo realizado, en cuyo caso se deberá actuar de acuerdo con<br>lo dispuesto en el Artículo 26° de la Ley 17.288 de Monumentos Nacionales<br>y al Artículo 23° del Reglamento de Excavaciones y /o Prospecciones<br>Arqueológicas, Antropológicas y Paleontológicas.|
+|Fase del Proyecto a la que se aplica o en<br>la que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Si durante la ejecución de cualquiera de las actividades de la fase de<br>construcción del Proyecto, se produce algún hallazgo de ruinas o cualquier<br>tipo de restos arqueológicos se paralizarán inmediatamente las obras y se<br>dará aviso a Carabineros y al Consejo de Monumentos Nacionales.|
+|Indicador que acredita su cumplimiento|Registro en obra de los hallazgos declarados.|
+|Forma de control y seguimiento|Registro en obra de los hallazgos declarados.|
+|||
+
+DIA | Edificio Coronel Godoy 74
+
+|10. COMPONENTE/MATERIA: SEGURIDAD Y SALUD OCUPACIONAL|Col2|
+|---|---|
+|Norma|Decreto con Fuerza de Ley N° 725/1967 del Ministerio de Salud Pública.<br>Código Sanitario.|
+|Fase del Proyecto a la que aplica o en la<br>que se dará cumplimiento|Fase de construcción|
+|Forma de cumplimiento|Configurar un sistema de gestión de seguridad y salud ocupacional en<br>faena, a fin de dar cumplimiento a los requerimientos normativos del<br>decreto supremo.|
+|Indicador que acredita su cumplimiento|Capacitación a los trabajadores en temas de seguridad y salud ocupacional.|
+|Forma de control y seguimiento|Registro en obra de la asistencia a las capacitaciones de seguridad y salud<br>ocupacional. Además de inspección permanente de las faenas.|
+|Norma|Decreto Supremo No 594/99 del Ministerio de Salud. Reglamento sobre<br>Condiciones Sanitarias y ambientales Básicas en los Lugares de Trabajo|
+|Fase del Proyecto a la que aplica o en la<br>que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Se implementarán todas las instalaciones necesarias para dar cumplimiento<br>a esta normativa. Las que entre otras, corresponden a: cantidad de baños<br>según número de trabajadores, Guardarropías y Comedores suficientes, etc.|
+|Indicador que acredita su cumplimiento|RCA favorable.|
+|Forma de control y seguimiento|Registro en obra de seguimiento que acredite las condiciones Sanitarias y<br>Ambientales óptimas.|
+|||
+|11. COMPONENTE/MATERIA:**INSTALACIONES DE GAS, ELÉCTRICAS**|11. COMPONENTE/MATERIA:**INSTALACIONES DE GAS, ELÉCTRICAS**|
+|Norma|Resolución Exenta SEC No1128/2006 del Ministerio de Economía, Fomento y<br>reconstrucción|
+|Fase del Proyecto a la que aplica o en la<br>que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Declaración de todas las instalaciones eléctricas y gas que son aplicables al<br>proyecto.|
+|Indicador que acredita su cumplimiento|Comprobante de instalaciones eléctricas y combustibles mediante servicio<br>técnico autorizado.|
+|Forma de control y seguimiento|Comprobante de instalaciones eléctricas y combustibles mediante servicio<br>técnico autorizado.|
+|Norma|Decreto Supremo No92/1983 Del Ministerio De Economía. Aprueba<br>Reglamento de instaladores eléctricos y de electricistas de recintos de<br>espectáculos públicos|
+|Fase del Proyecto a la que aplica o en la<br>que se dará cumplimiento|Fase de construcción.|
+|Forma de cumplimiento|Para las instalaciones eléctricas sólo se trabajara con aquellos servicios<br>técnicos autorizados por la SEC.|
+|Indicador que acredita su cumplimiento|Obtención de Recepción final por la DOM de Estación Central.|
+|Forma de control y seguimiento|Boleta o factura del servicio técnico autorizado. Adjuntando las<br>correspondientes Licencias de los técnicos.|
+|||
+|12. COMPONENTE/MATERIA:**COMBUSTIBLES**|12. COMPONENTE/MATERIA:**COMBUSTIBLES**|
+|Norma|D.S. No 160/2008 Ministerio de Economía, Fomento y Reconstrucción|
+|Fase del Proyecto a la que aplica o en la<br>que se dará cumplimiento|Fase de Operación.|
+|Forma de cumplimiento|El suministro de petróleo diésel al grupo electrógeno, dará cumplimiento a<br>los requerimientos establecidos en este decreto.|
+|Indicador que acredita su cumplimiento|Inspección permanente del lugar de almacenamiento, el cual estará en un<br>lugar limpio, bien ventilado, lejos de fuentes de calor o de chispas.|
+|Forma de control y seguimiento|Registro de trasvasije de combustible y mantenimiento y limpieza del lugar<br>de almacenamiento.|
+
+DIA | Edificio Coronel Godoy 75
+
+**C.3.** **LISTADO DE LOS PERMISOS Y PRONUNCIAMIENTOS AMBIENTALES SECTORIALES**
+
+**APLICABLES AL PROYECTO.**
+
+Los Permisos Ambientales Sectoriales (PAS) aplicables al proyecto se basan en el Título VII del RSEIA (D.S.
+No 40/12, del Ministerio del Medio Ambiente “De los Permisos y Pronunciamientos Ambientales Sectoriales”,
+que de acuerdo con las características del proyecto, deberán ser tramitados ante la autoridad sectorial
+competente para su materialización.
+
+El artículo 107° de dicho decreto indica: “Todos los permisos de carácter ambiental, que de acuerdo con la
+legislación vigente deban o puedan emitir los organismos del Estado, respecto de proyectos o actividades
+sometidos al Sistema de Evaluación de Impacto Ambiental, serán otorgados a través de dicho sistema, de
+acuerdo a las normas de la Ley y el Presente Reglamento”.
+
+El artículo 108° por su parte señala que: “se distingue entre permisos ambientales sectoriales de contenidos
+únicamente ambientales y permisos ambientales sectoriales mixtos, que tienen contenidos ambientales y no
+ambientales”.
+
+“Tratándose de permisos ambientales sectoriales de contenidos únicamente ambientales, la Resolución de
+Calificación Ambiental favorable dispondrá su otorgamiento por parte de los órganos de la Administración
+del Estado con competencia ambiental, bajo las condiciones o exigencias que en la misma se expresen.
+Para estos efectos, bastará que el titular del proyecto o actividad exhiba la Resolución de Calificación
+Ambiental para que el organismo competente otorgue el permiso sin más trámite”.
+
+“Tratándose de permisos ambientales sectoriales mixtos, la Resolución de Calificación Ambiental favorable
+certificará que se da cumplimiento a los requisitos ambientales de dichos permisos. En tal caso, los órganos
+de la Administración del Estado con competencia ambiental no podrán denegar los correspondientes
+permisos en razón de los referidos requisitos, ni imponer nuevas condiciones o exigencias de carácter
+ambiental que no sean las establecidas en la Resolución de Calificación Ambiental”.
+
+A continuación se presentan los Permisos Ambientales Sectoriales aplicables al Proyecto.
+
+|Artículo|Permiso|Aplicabilidad|
+|---|---|---|
+|140<br>(Mixto)|Permiso<br>para<br>la<br>construcción,<br>reparación,<br>modificación y ampliación de cualquier planta de<br>tratamiento de basuras y desperdicios de<br>cualquier clase o para la instalación de todo<br>lugar destinado a la acumulación, selección,<br>industrialización, comercio o disposición final de<br>basuras y desperdicios de cualquier clase.|El Proyecto contempla para la**fase de construcción**, <br>el<br>acopio<br>temporal<br>de<br>residuos<br>asimilables<br>a <br>domiciliario y residuos industriales no peligrosos.<br>Durante la**fase de operación** se acopiarán residuos<br>sólidos domiciliarios en sala de basura destinada<br>específicamente a este fin.|
+|142<br>(Mixto)|Permiso<br>para<br>todo<br>sitio<br>destinado<br>al<br>almacenamiento de residuos peligrosos.|El Proyecto contempla para la fase de construcción, el<br>almacenamiento temporal de residuos peligrosos, para<br>lo cual se construirá una bodega de residuos<br>peligrosos,<br>la<br>cual<br>dará<br>cumplimiento<br>a <br>los<br>requerimientos del D.S. No 148/2003 del MINSAL y las<br>características constructivas de la Ordenanza General<br>de Urbanismo y Construcción.|
+
+DIA | Edificio Coronel Godoy 76
+
+**C.4.** **CONTENIDOS TÉCNICOS Y FORMALES QUE ACREDITEN EL CUMPLIMIENTO DE LOS**
+**REQUISITOS** **DE** **OTORGAMIENTO** **DE** **LOS** **RESPECTIVOS** **PERMISOS** **Y**
+**PRONUNCIAMIENTOS AMBIENTALES SECTORIALES.**
+
+**C.4.1.** **Permiso Ambiental Sectorial. Artículo 140°**
+
+C.4.1.1 Contenidos técnicos y formales Fase de Construcción
+
+**a.** **Generales:**
+**a.1.** **Descripción y planos del sitio**
+
+El Patio de Acopio Temporal de Residuos corresponde a la instalación para el almacenamiento transitorio de
+los residuos sólidos domésticos e industriales no peligrosos generados en la faena, con la finalidad de ser
+enviados posteriormente a destinatarios autorizados, en cumplimiento con los estándares y plazos que
+manda la normativa vigente. Dicha instalación no contempla la disposición final de residuos de ningún tipo.
+
+El sitio de almacenamiento temporal de residuos se ubicará en un sector de terreno contiguo a la zona de
+faena. Las demarcaciones a utilizar para el acopio de estos residuos (no peligrosos) serán del tipo rachel o
+similar, empleando, adicionalmente, señalética altamente visible.
+
+**a.2.** **Descripción de variables meteorológicas**
+Las variables meteorológicas han sido recogidas del sitio web:
+[http://sinca.mma.gob.cl/index.php/estacion/index/key/D14](http://sinca.mma.gob.cl/index.php/estacion/index/key/D14) utilizando para ello, la estación de monitoreo:
+Estación Parque O‟Higgins, distante aproximadamente a 3,10 km del área del Proyecto.
+
+Los datos de ubicación de la estación Parque O‟Higgins son los indicados en la siguiente figura, seguido de
+una tabla que lista los parámetros medidos y la fecha de los registros.
+
+Figura 20. Estación de monitoreo Parque O‟Higgins
+
+[Fuente: http://sinca.mma.gob.cl/index.php/estacion/index/key/D14](http://sinca.mma.gob.cl/index.php/estacion/index/key/D14)
+
+DIA | Edificio Coronel Godoy 77
+
+Tabla 23. Parámetros medidos
+
+|Parámetros|Frecuencia de<br>medición|Fecha primer<br>registro|Fecha último<br>registro|
+|---|---|---|---|
+|Humedad relativa del aire (Humedad relativa, %)|horario|15/12/2003|17/05/2016|
+|Temperatura ambiente (Temperatura, oC)|horario|15/12/2003|17/05/2016|
+|Dirección del viento (Dir. Viento, grados)|horario|15/12/2003|17/05/2016|
+|Velocidad del viento (Vel. Viento, m/s)|horario|15/12/2003|17/05/2016|
+
+Fuente: [http://sinca.mma.gob.cl/index.php/estacion/index/key/D14](http://sinca.mma.gob.cl/index.php/estacion/index/key/D14)
+
+Los gráficos de las mediciones de cada parámetro se muestran a continuación:
+
+DIA | Edificio Coronel Godoy 78
+
+DIA | Edificio Coronel Godoy 79
+
+**a.3.** **Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar**
+
+Tabla 24. Caracterización cualitativa y cuantitativa de los residuos en la fase de construcción
+
+|Tipo de<br>residuo|Características|Cantidad|Tipo de Almacenamiento|
+|---|---|---|---|
+|Inerte|Material Integral y tierra vegetal|17.089,49 m3 /total|Contenedor metálico abierto|
+|Inerte|Escombros|711,33m3/total|711,33m3/total|
+|Sólidos<br>Domésticos|Restos de comida, papel,<br>servilletas, tela, plásticos, etc.|1,14 m3/día|Contenedores plásticos, reforzados en<br>su interior con bolsas de plástico<br>resistentes|
+|Fierro|Descarte de fierro|1,76 ton/mes|Tambores<br>metálicos,<br>debidamente<br>rotulados. En caso que los residuos sean<br>de mayor tamaño, se dispondrán en<br>contenedores metálicos abiertos.|
+|Madera|Descarte de madera|4,42 ton/mes|4,42 ton/mes|
+|Aluminio|Descarte de terminaciones|1,01 ton/mes|1,01 ton/mes|
+|Papel, cartón y<br>productos de<br>papel|Descarte de oficinas y<br>embalaje, tuberías|0,33 ton/mes|0,33 ton/mes|
+|Vidrio|Descarte de terminaciones|0,55 ton/mes|0,55 ton/mes|
+|Plástico|Descarte de oficinas y<br>embalaje, terminaciones|1,66 ton/mes|1,66 ton/mes|
+
+Fuente: Elaboración propia
+
+DIA | Edificio Coronel Godoy 80
+
+A continuación se presentan las características del sector de acopio de los residuos industriales no
+peligrosos:
+
+Tabla 25. Características sector de acopio residuos no industriales
+
+|Características sector de acopio|Col2|Col3|
+|---|---|---|
+|Dimensiones|Superficie = 3 m de largo x 2,5 m de ancho|Superficie = 3 m de largo x 2,5 m de ancho|
+|Tipo de piso de<br>construcción:|Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos.|Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos.|
+|Tipo de muro de la<br>construcción|Sin muro. Se colocará un cierre perimetral con malla rachel para evitar la dispersión<br>de polvo.|Sin muro. Se colocará un cierre perimetral con malla rachel para evitar la dispersión<br>de polvo.|
+|Tipo de techumbre:|Sin techumbre|Sin techumbre|
+|Tipo de ventilación|Será de tipo natural|Será de tipo natural|
+|Tipo<br>de<br>contenedores|Para el almacenamiento de los residuos valorizables: cartones, descarte de aluminios<br>y plásticos, se utilizarán jaulas o tambores metálicos, debidamente rotulados.<br>Para el almacenamiento de los residuos valorizables de mayor tamaño se utilizará<br>contendor metálico.|Para el almacenamiento de los residuos valorizables: cartones, descarte de aluminios<br>y plásticos, se utilizarán jaulas o tambores metálicos, debidamente rotulados.<br>Para el almacenamiento de los residuos valorizables de mayor tamaño se utilizará<br>contendor metálico.|
+|Tipo<br>de<br>contenedores|Imágenes referenciales|Imágenes referenciales|
+|Tipo<br>de<br>contenedores|Jaula metálica|Tambor metálico|
+|Tipo<br>de<br>contenedores|||
+|Tipo<br>de<br>contenedores|Contenedor metálico|Contenedor metálico|
+|Tipo<br>de<br>contenedores|||
+|Retiro de residuos|Retiro mensual a través de empresas autorizadas.|Retiro mensual a través de empresas autorizadas.|
+
+Fuente: Elaboración propia
+
+Respectos a los residuos domiciliarios dispuestos en diferentes puntos de la faena, serán recolectados
+diariamente y almacenados en este sector graficado en el plano Distribución de Faenas (adjunto en el
+Anexo 2 de la DIA).
+
+Las características del sector de almacenamiento de los contenedores son las indicadas a continuación:
+
+DIA | Edificio Coronel Godoy 81
+
+Tabla 26. Características sector de acopio contenedores residuos domiciliarios
+
+|Características sector de acopio|Col2|Col3|
+|---|---|---|
+|Dimensiones|Superficie = 3m de largo *2,5 m de ancho|Superficie = 3m de largo *2,5 m de ancho|
+|Tipo de piso de<br>construcción:|Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos.|Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos.|
+|Tipo de muro de la<br>construcción|Malla acma|Malla acma|
+|Tipo de techumbre:|Planchas zim calum|Planchas zim calum|
+|Tipo de ventilación|Natural|Natural|
+||Imágenes referenciales|Imágenes referenciales|
+||Contenedores plásticos de 360 L de capacidad con tapa, reforzados en su interior<br>con bolsas de plástico resistentes.|Contenedores plásticos de 360 L de capacidad con tapa, reforzados en su interior<br>con bolsas de plástico resistentes.|
+||||
+|**Retiro**<br>**de**<br>**residuos**|Retiro cada 2-3 días a través del camión municipal.|Retiro cada 2-3 días a través del camión municipal.|
+
+Fuente: Elaboración propia
+
+**a.4.** **Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y**
+
+**equipamiento**
+
+En ninguna de las fases del Proyecto se ha considerado la construcción de una planta de tratamiento de
+residuos. Todos los residuos generados en la fase de construcción serán retirados por empresas externas
+autorizadas.
+
+**a.5.** **Formas de abatimiento de emisiones y de control y de manejo de residuos**
+
+Durante esta fase, se construirá un cierre perimetral en los deslindes de la obra, mediante la instalación de
+paneles de OSB, el cual será mantenido en buen estado para impedir la dispersión de polvo y fugas de
+material al exterior del área de faenas.
+
+Existirá en obra un registro de los sitios de disposición final autorizados.
+
+DIA | Edificio Coronel Godoy 82
+
+**a.6.** **Descripción del sistema de manejo de rechazos**
+
+Los materiales de rechazo (acero, aluminio, cartón, vidrio, madera, entre otros), en lo posible, serán
+reutilizados dentro de la misma obra. De lo contrario, serán llevados a sitios de disposición final autorizados
+para residuos de construcción, utilizando para ello el listado de sitios autorizados disponible en el sitio web:
+[http://seremi13.redsalud.gob.cl/wrdprss_minsal/wp-content/uploads/2014/09/Listado-actualizado-de-sitios-](http://seremi13.redsalud.gob.cl/wrdprss_minsal/wp-content/uploads/2014/09/Listado-actualizado-de-sitios-autorizados-para-disposici%C3%B3n-de-escombros-inertes.pdf)
+[autorizados-para-disposici%C3%B3n-de-escombros-inertes.pdf](http://seremi13.redsalud.gob.cl/wrdprss_minsal/wp-content/uploads/2014/09/Listado-actualizado-de-sitios-autorizados-para-disposici%C3%B3n-de-escombros-inertes.pdf)
+
+**a.7.** **Plan de verificación y seguimiento de los residuos a ser tratados y rechazados**
+
+Todos los residuos generados serán retirados por una empresa autorizada según periodicidad normada. El
+titular mantendrá en obra un registro donde se acredite la disposición final de todos los residuos en lugares
+autorizados. Al finalizar la fase de construcción, el titular remitirá los antecedentes necesarios que
+garantizan el envío de los residuos de la obra a sitio autorizado.
+
+**a.8.** **Plan de Contingencias**
+
+Dada las características de los residuos que serán almacenados, el Plan de contingencia del proyecto,
+orientado al almacenamiento temporal de residuos y sustancias, estará enfocado en la contingencia por
+incendio. El cual seguirá los siguientes pasos:
+
+ - Evaluar el nivel de gravedad del incendio, y determinar la necesidad de informar de forma
+inmediata a uno o más organismos de reacción (Bomberos, Carabineros, Ambulancia).
+
+ - Procurar mantener alejadas del lugar del siniestro, a personas ajenas a la faena y/o personal que
+no esté capacitado para enfrentar la contingencia.
+
+ - Dependiendo del tipo de sustancia involucrada en el incendio, y siempre que sea posible combatir el
+fuego sin mayor riesgo, utilizar los medios de extinción disponibles (extintores), respetando las
+indicaciones de seguridad contenidas en la Hoja de seguridad correspondiente a los residuos
+siniestrados.
+
+ De no ser posible el control del fuego sin mayores riesgos, proceder a evacuación de la instalación
+de faena. Confirmar al Cuerpo de Bombero más cercano, que su presencia es requerida con suma
+urgencia. Llamar a Carabineros y esperar llegada de organismos de reacción en zona segura.
+
+ - De encontrarse personas heridas, dar aviso de inmediato a Ambulancia.
+
+Cabe destacar que en faena, se contará con la presencia de un experto en prevención de riesgos quien
+estará a cargo de realizar las siguientes actividades:
+
+ - Garantizar el cumplimiento del D.S. N° 594 de 1999 del Ministerio de Salud, sobre Condiciones
+Sanitarias y Ambientales Básicas de los lugares de Trabajo, para todas las fases del proyecto.
+
+ Verificar el uso de los elementos de protección personal, por parte de todos los trabajadores,
+mientras se encuentren expuestos al riesgo.
+
+ Verificar que los trabajadores cuenten con la licencia de conducir que exige la Ley de Tránsito para
+la operación de maquinarias automotrices en los lugares de trabajo.
+
+**a.9.** **Plan de Emergencia**
+A continuación se describen los pasos a seguir ante una eventual emergencia en caso de incendio o de
+accidente del trabajo:
+
+**Incendio en el Área de Faenas**
+
+ Utilizar elementos de protección personal.
+
+ - Solicitar ayuda de servicios externos para detener el fuego.
+
+ - Registrar el accidente e informar al Jefe del Proyecto.
+
+DIA | Edificio Coronel Godoy 83
+
+**Accidente de Trabajadores**
+
+ - Aislar el área con cinta de acordonamiento
+
+ Dar atención de primeros auxilios en el área de accidentes.
+
+ Si el accidente es mayor, trasladar al (los) herido (s) hasta el centro asistencial más cercano.
+
+ - Dar aviso a la Mutual de Salud correspondiente.
+
+ - Registrar el accidente y avisar de forma inmediata a la gerencia.
+
+Cabe destacar que en faena, se contará con la presencia de un experto en prevención de riesgos quien
+estará a cargo de realizar las siguientes actividades:
+
+ - Garantizar el cumplimiento del D.S. N° 594 de 1999 del Ministerio de Salud, sobre condiciones
+Sanitarias y Ambientales Básicas de los lugares de Trabajo, para todas las fases del Proyecto.
+
+ Verificar el uso de los elementos de protección personal, por parte de todos los trabajadores,
+mientras se encuentren expuestos al riesgo.
+
+ Verificar que los trabajadores cuenten con la licencia de conducir que exige la Ley de Tránsito para
+la operación de maquinarias automotrices en los lugares de trabajo.
+
+En el Anexo 7 se adjunta Plan de Contingencias y emergencias indicando las acciones ante derrame de
+sustancias químicas o peligrosas y derrames de residuos peligrosos.
+
+**e.** **Tratándose de almacenamiento de residuos, además de lo señalado en las letras a.1**
+**hasta a.9:**
+**e.1.** **Especificaciones técnicas de las características constructivas del sitio de almacenamiento**
+
+**y medidas de protección de condiciones ambientales**
+
+Dentro de la obra existirá un patio de acopio en donde se almacenarán, de forma temporal, los residuos
+sólidos domiciliarios y los residuos propios de la construcción (inertes). Los residuos sólidos domiciliarios se
+almacenarán en contenedores plásticos con tapa, de 360 L de capacidad, reforzados en su interior con
+bolsas de plástico resistentes. Por su parte, los residuos de construcción serán almacenados en
+contenedores metálicos abiertos de 8,5 m [3] de capacidad. El patio de acopio estará cerrado y tendrá suelo
+compactado.
+
+**e.2.** **Capacidad máxima de almacenamiento**
+
+En el punto a.4 se presenta en detalle la cantidad máxima de almacenamiento para los residuos sólidos
+domiciliarios y residuos industriales no peligrosos.
+
+**e.3.** **Descripción del tipo de almacenamiento, tales como a granel o en contenedores.**
+
+Para el caso de los residuos de construcción, estos serán almacenados en sectores separados por tipo de
+residuos; a granel (escombros, despuntes de madera, despuntes de fierro) o en contenedores estancos o
+tambores metálicos para cuando el tamaño de los residuos no permita realizar una acumulación a granel. El
+suelo de este sector será previamente compactado.
+
+DIA | Edificio Coronel Godoy 84
+
+C.4.1.2 Contenidos técnicos y formales Fase de Operación
+
+**a.** **Generales:**
+**a.1.** **Descripción y planos del sitio**
+
+Para los Residuos Sólidos Domiciliarios se ha diseñado un sistema de recolección por ductos hacia salas de
+basura ubicadas en el primer subterráneo. La salas de basuras será manejada por personal de aseo y el
+acceso de personas ajenas estará prohibido.
+
+Procedimiento de recolección: Los habitantes del edificio contarán con una tolva (puerta de evacuación) de
+volcar o abatir en cada piso en la zona denominada shaft de basuras. Este shaft estará en el sector del
+núcleo del edificio y a no más de 15 metros de la puerta del último departamento. Por estas tolvas los
+habitantes, botarán sus residuos domiciliarios en bolsas cerradas, de tamaños pequeños y que no
+contengan en ningún caso elementos contundentes en su interior como botellas de vidrio o escombros.
+
+Las especificaciones de las mismas serán tramitadas sectorialmente y de manera oportuna ante autoridad
+sanitaria, de acuerdo a lo dispuesto en el D.F.L. No 1/90 del MINSAL, teniendo en cuenta, además, la
+Resolución No 7328 de 1976 del MINSAL que estable las 'Normas sobre eliminación de basuras en edificios
+elevados'.
+
+**a.2.** **Descripción de variables meteorológica**
+
+Corresponde a las mismas variables ya definidas para la fase de construcción. Ver letra a.2) del Capítulo
+C.4.1.1.
+
+Cabe destacar que el lugar de almacenamiento corresponde a una sala cerrada, ubicadas en el primer
+subterráneo del edificio, este punto no se considera, ya que no habrá dispersión de residuos debido a los
+vientos predominantes de la zona.
+
+**a.3.** **Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar**
+
+Los parámetros y factores empleados en la estimación de la cantidad de basura generada por el Proyecto
+corresponden a los detallados en el capítulo A.6.10.2, el que se relaciona con la cantidad de habitantes,
+tasa de generación (valor referencial) para la comuna de Estación Central.
+
+|Tipo de residuo|Características|Cantidad|
+|---|---|---|
+|Sólidos Domiciliarios|Restos de comida, papel, servilletas, tela, plásticos, etc.|7,63 m3/día|
+
+**a.4.** **Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y**
+
+**equipamiento**
+
+En esta fase, ni en la fase de construcción, se ha considerado la implementación de una planta de
+tratamiento de residuos. Todos los residuos generados en la etapa de operación serán retirados por el
+servicio de aseo municipal, según frecuencia de recolección.
+
+**a.5.** **Formas de abatimiento de emisiones y de control y de manejo de residuos**
+
+
+Material particulado: El manejo de residuos domiciliarios no contempla incineración, solo contempla
+acopio de residuos, por lo cual se ha dispuesto de contenedores plásticos, dentro de sala de basura,
+evitando la emisión de polvos o cualquier material particulado que se pueda producir.
+ Olores: El personal de aseo deberá mantener constante limpieza de los recintos de salas de basuras.
+Los residuos deberán ser colocados embolsados dentro de contenedores sin saturar su capacidad para
+
+DIA | Edificio Coronel Godoy 85
+
+que la tapa hermética cumpla su fin. De acuerdo al manejo interno de la administración del edificio, se
+recomienda hacer un aseo a ducto cada 6 meses, mediante detergentes químicos.
+ Ruidos: Los residuos al caer por el ducto de sección circular y debidamente embolsados, no producen
+ruidos molestos, estos se producen al llegar a la sala. Para disminuir el impacto acústico de dicha caída
+se contempla la llegada a losas de hormigón armado liviano, las cuales atenúan el golpe.
+
+**a.6.** **Descripción del sistema de manejo de rechazos**
+
+Durante la fase de operación no se considera existencia de rechazos.
+
+**a.7.** **Plan de verificación y seguimiento de los residuos a ser tratados y rechazados**
+
+Debido a las características del Proyecto, no se contempla existencia de rechazos.
+
+**a.8.** **Plan de contingencias**
+
+Dada las características de los residuos que serán almacenados (residuos sólidos domiciliarios), el Proyecto
+no contempla Plan de contingencia ya que los residuos serán retirados cada día por medio.
+
+**a.9.** **Plan de emergencia**
+
+Dada las características de los residuos que serán almacenados (residuos sólidos domiciliarios), el Proyecto
+no contempla Plan de emergencia, ya que los residuos serán retirados cada día por medio.
+
+**e.** **Tratándose de almacenamiento de residuos, además de lo señalado en las letras a.1**
+**hasta a.9**
+**e.1.** **Especificaciones técnicas de las características constructivas del sitio de almacenamiento**
+
+**y medidas de protección de condiciones ambientales**
+
+El Proyecto dispondrá de dos salas de basura, las cuales contemplan áreas para la apropiada ubicación de
+contenedores y el debido desplazamiento del personal en sus tareas de aseo y clasificación. El equipamiento
+implementado en dichas salas cumplirá con las siguientes especificaciones técnicas:
+
+
+Contenedores: ubicados en las salas de basuras de cada edificio. Los contenedores serán de polietileno
+de alta densidad y tratados con estabilizante contra rayos U.V, con capacidad de levante mecánico o
+manual.
+
+
+Pavimentos: La sala de basura deberá tener en su totalidad pavimento de baldosa microvibrada. Su
+encuentro con muros serán redondeados.
+
+
+Muros: Los muros y cielos deberán estar estucados, lisos y pintados con las manos suficientes de
+pintura óleo blanco brillante, que resista un aseo profundo mediante agua a presión.
+
+
+Esquinas: Todas las esquinas y vértices deben ser redondeados en un radio mínimo de 5 cm.
+
+
+Puerta: Puertas con peinazo metálico para resistir impactos y acción de roedores, con burlete de goma
+de arrastre de acuerdo a plano especialidades.
+
+
+Iluminación: Deberá contar con iluminación hermética que permita el lavado interior del recinto. No
+deben existir conos de sombra.
+
+**e.2.** **Capacidad máxima de almacenamiento**
+
+Los residuos domiciliarios se dispondrán en contenedores, el volumen total a almacenar temporalmente es
+de 26,88 m [3] /día, los cuales estarán almacenados en contenedores, reforzados en su interior con bolsas de
+plástico resistentes, los que serán retirados día por medio, según frecuencia del servicio de recolección
+municipal.
+
+DIA | Edificio Coronel Godoy 86
+
+**e.3.** **Descripción del tipo de almacenamiento, tales como a granel o en contenedores.**
+El almacenamiento de los residuos, será mediante contenedores plásticos.
+
+**C.4.2.** **Permiso Ambiental Sectorial. Artículo 142°**
+
+C.4.2.1 Contenidos técnicos y formales Fase de Construcción
+
+**a)** **Descripción del sitio de almacenamiento**
+
+El sitio de almacenamiento temporal de residuos se ubicará en un sector de terreno contiguo a la zona de
+faena. En ésta área existirá una bodega de almacenamiento temporal de residuos peligrosos, la cual se
+instalará sobre una base de hormigón, cumpliendo los requerimientos del D.S. No 148/2003 del MINSAL y
+las características constructivas de la Ordenanza General de Urbanismo y Construcción.
+
+**b)** **Especificaciones técnicas de las características constructivas del sitio de almacenamiento**
+**y medidas de protección de condiciones ambientales**
+
+Las características constructivas corresponden a:
+
+
+Tendrá una base continua, impermeable y resistente estructural y químicamente a los residuos.
+
+
+Contará con un cierre perimetral de a lo menos 1,80 metros de altura que impida el libre acceso de
+personas y animales.
+
+
+Estará techada y protegida de condiciones ambientales tales como humedad, temperatura y radiación
+solar, utilizando para ello, planchas de zinc alum.
+
+
+Garantizará que se minimizará la volatilización, el arrastre o la lixiviación y en general cualquier otro
+mecanismo de contaminación del medio ambiente que pueda afectar a la población.
+
+
+Tendrá una capacidad de retención de escurrimientos o derrames no inferior al volumen del contenedor
+de mayor capacidad ni al 20% del volumen total de los contenedores almacenados.
+ Contará con señalización de acuerdo a la Norma Chilena NCh. 2.190 Of 93. Artículo 33°.
+
+En el Anexo 2 de la DIA, se incluye plano en escala adecuada, de bodega de RESPEL, señalando sus
+componentes y detalles de sistema de contención de derrames, ventilación y accesos a la misma.
+
+**c)** **Clase de residuos, cantidades, capacidad máxima y período de almacenamiento**
+
+El tipo de residuos a almacenar corresponde principalmente a los generados durante la actividad de
+terminaciones de la fase de construcción, éstos residuos consisten principalmente en envases vacíos de:
+ácido muriático, espuma poliuterano, adhesivos de contacto imprimantes y trapos y huaipes contaminados
+con ellos, entre otros. A continuación se entrega listado de cantidades estimadas a generar:
+
+DIA | Edificio Coronel Godoy 87
+
+Tabla 27. Estimación de residuos peligrosos a generar
+
+|Residuo|Tipo|Cantidad<br>(m3/mes)|Características<br>de<br>peligrosidad<br>(D.S. No148)|Capacidad<br>máxima|Almacenamiento|Periodo de<br>almacenamiento|
+|---|---|---|---|---|---|---|
+|Envases<br>vacíos de<br>pinturas|Envases vacíos<br>de desmoldantes|0,5|Inflamable|1,1 m3/mes|Tambor<br>metálico de 220<br>litros<br>debidamente<br>tapado y<br>etiquetado|Menor a 6<br>meses|
+|Envases<br>vacíos de<br>pinturas|Envases vacíos<br>de imprimantes|Envases vacíos<br>de imprimantes|Envases vacíos<br>de imprimantes|Envases vacíos<br>de imprimantes|Envases vacíos<br>de imprimantes|Envases vacíos<br>de imprimantes|
+|Envases<br>vacíos de<br>solventes|Envases vacíos<br>de ácido<br>muriático|0,2|Inflamable|Inflamable|Inflamable|Inflamable|
+|Envases<br>vacíos de<br>pegamentos,<br>aceites y<br>barnices|Trapos y huaipes<br>contaminados|0,4|Inflamable|Inflamable|Inflamable|Inflamable|
+|Envases<br>vacíos de<br>pegamentos,<br>aceites y<br>barnices|Envases vacíos<br>de espuma de<br>poliuretano|Envases vacíos<br>de espuma de<br>poliuretano|Envases vacíos<br>de espuma de<br>poliuretano|Envases vacíos<br>de espuma de<br>poliuretano|Envases vacíos<br>de espuma de<br>poliuretano|Envases vacíos<br>de espuma de<br>poliuretano|
+|Envases<br>vacíos de<br>pegamentos,<br>aceites y<br>barnices|Envases<br>vacíos<br>de adhesivos de<br>contacto|Envases<br>vacíos<br>de adhesivos de<br>contacto|Envases<br>vacíos<br>de adhesivos de<br>contacto|Envases<br>vacíos<br>de adhesivos de<br>contacto|Envases<br>vacíos<br>de adhesivos de<br>contacto|Envases<br>vacíos<br>de adhesivos de<br>contacto|
+
+Fuente: Elaboración propia.
+
+**d)** **Medidas para minimizar cualquier mecanismo que pueda afectar la calidad del agua, aire,**
+**suelo que ponga en riesgo la salud de la población.**
+
+La bodega de almacenamiento temporal de residuos peligrosos se instalará sobre una base de hormigón,
+tendrá una capacidad de retención de escurrimientos, el que corresponde al 20% del volumen total de los
+contenedores almacenados. Tendrá una base continua, impermeable y resistente estructural y
+químicamente a los residuos. Contará con un cierre perimetral de a lo menos 1,80 metros de altura que
+impida el libre acceso de personas y animales. Estará techada y protegidos de condiciones ambientales tales
+como humedad, temperatura y radiación solar. Debido a las características físico-químicas de los residuos a
+ser almacenados temporalmente, las medidas consideradas minimizarán la volatilización, el arrastre o la
+lixiviación y en general cualquier otro mecanismo de contaminación del medio ambiente que pueda afectar
+a la población.
+
+**e)** **Capacidad de retención de escurrimientos o derrames del sitio de almacenamiento**
+
+La bodega de almacenamiento temporal de residuos peligrosos tendrá una capacidad de retención de
+escurrimientos, el que corresponde al 20% del volumen total de los contenedores almacenados, y que se
+llevará a cabo mediante pretil.
+
+**f)** **Plan de contingencias**
+
+El Plan de Contingencias se presenta en el capítulo A.8.1 de la presente Declaración.
+
+**g)** **Plan de emergencia**
+
+El Plan de Emergencias se presenta en el capítulo A.8.2 de la presente Declaración.
+
+En el Anexo 7 se adjunta Plan de Contingencias y emergencias indicando las acciones ante derrame de
+sustancias químicas o peligrosas y derrames de residuos peligrosos.
+
+DIA | Edificio Coronel Godoy 88
+
+---
+
+## Tablas Adicionales del Documento
+
+> **Nota:** Las siguientes tablas no tienen referencias explícitas en el texto principal pero contienen información potencialmente relevante.
+
+**Tabla 23.: Parámetros medidos**
+
+| Parámetros | Frecuencia de<br>medición | Fecha primer<br>registro | Fecha último<br>registro |
+| --- | --- | --- | --- |
+| Humedad relativa del aire (Humedad relativa, %) | horario | 15/12/2003 | 17/05/2016 |
+| Temperatura ambiente (Temperatura, oC) | horario | 15/12/2003 | 17/05/2016 |
+| Dirección del viento (Dir. Viento, grados) | horario | 15/12/2003 | 17/05/2016 |
+| Velocidad del viento (Vel. Viento, m/s) | horario | 15/12/2003 | 17/05/2016 |
+
+**Tabla 24.: Caracterización cualitativa y cuantitativa de los residuos en la fase de construcción**
+
+| Tipo de<br>residuo | Características | Cantidad | Tipo de Almacenamiento |
+| --- | --- | --- | --- |
+| Inerte | Material Integral y tierra vegetal | 17.089,49 m3 /total | Contenedor metálico abierto |
+| Inerte | Escombros | 711,33m3/total | 711,33m3/total |
+| Sólidos<br>Domésticos | Restos de comida, papel,<br>servilletas, tela, plásticos, etc. | 1,14 m3/día | Contenedores plásticos, reforzados en<br>su interior con bolsas de plástico<br>resistentes |
+| Fierro | Descarte de fierro | 1,76 ton/mes | Tambores<br>metálicos,<br>debidamente<br>rotulados. En caso que los residuos sean<br>de mayor tamaño, se dispondrán en<br>contenedores metálicos abiertos. |
+| Madera | Descarte de madera | 4,42 ton/mes | 4,42 ton/mes |
+| Aluminio | Descarte de terminaciones | 1,01 ton/mes | 1,01 ton/mes |
+| Papel, cartón y<br>productos de<br>papel | Descarte de oficinas y<br>embalaje, tuberías | 0,33 ton/mes | 0,33 ton/mes |
+| Vidrio | Descarte de terminaciones | 0,55 ton/mes | 0,55 ton/mes |
+| Plástico | Descarte de oficinas y<br>embalaje, terminaciones | 1,66 ton/mes | 1,66 ton/mes |
+
+**Tabla 25.: Características sector de acopio residuos no industriales**
+
+| Características sector de acopio | Col2 | Col3 |
+| --- | --- | --- |
+| Dimensiones | Superficie = 3 m de largo x 2,5 m de ancho | Superficie = 3 m de largo x 2,5 m de ancho |
+| Tipo de piso de<br>construcción: | Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos. | Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos. |
+| Tipo de muro de la<br>construcción | Sin muro. Se colocará un cierre perimetral con malla rachel para evitar la dispersión<br>de polvo. | Sin muro. Se colocará un cierre perimetral con malla rachel para evitar la dispersión<br>de polvo. |
+| Tipo de techumbre: | Sin techumbre | Sin techumbre |
+| Tipo de ventilación | Será de tipo natural | Será de tipo natural |
+| Tipo<br>de<br>contenedores | Para el almacenamiento de los residuos valorizables: cartones, descarte de aluminios<br>y plásticos, se utilizarán jaulas o tambores metálicos, debidamente rotulados.<br>Para el almacenamiento de los residuos valorizables de mayor tamaño se utilizará<br>contendor metálico. | Para el almacenamiento de los residuos valorizables: cartones, descarte de aluminios<br>y plásticos, se utilizarán jaulas o tambores metálicos, debidamente rotulados.<br>Para el almacenamiento de los residuos valorizables de mayor tamaño se utilizará<br>contendor metálico. |
+| Tipo<br>de<br>contenedores | Imágenes referenciales | Imágenes referenciales |
+| Tipo<br>de<br>contenedores | Jaula metálica | Tambor metálico |
+| Tipo<br>de<br>contenedores |  |  |
+| Tipo<br>de<br>contenedores | Contenedor metálico | Contenedor metálico |
+| Tipo<br>de<br>contenedores |  |  |
+| Retiro de residuos | Retiro mensual a través de empresas autorizadas. | Retiro mensual a través de empresas autorizadas. |
+
+**Tabla 26.: Características sector de acopio contenedores residuos domiciliarios**
+
+| Características sector de acopio | Col2 | Col3 |
+| --- | --- | --- |
+| Dimensiones | Superficie = 3m de largo *2,5 m de ancho | Superficie = 3m de largo *2,5 m de ancho |
+| Tipo de piso de<br>construcción: | Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos. | Base continua de hormigón, impermeable y resistente estructural y químicamente a<br>los residuos. |
+| Tipo de muro de la<br>construcción | Malla acma | Malla acma |
+| Tipo de techumbre: | Planchas zim calum | Planchas zim calum |
+| Tipo de ventilación | Natural | Natural |
+|  | Imágenes referenciales | Imágenes referenciales |
+|  | Contenedores plásticos de 360 L de capacidad con tapa, reforzados en su interior<br>con bolsas de plástico resistentes. | Contenedores plásticos de 360 L de capacidad con tapa, reforzados en su interior<br>con bolsas de plástico resistentes. |
+|  |  |  |
+| **Retiro**<br>**de**<br>**residuos** | Retiro cada 2-3 días a través del camión municipal. | Retiro cada 2-3 días a través del camión municipal. |
+
+**Tabla 27.: Estimación de residuos peligrosos a generar**
+
+| Residuo | Tipo | Cantidad<br>(m3/mes) | Características<br>de<br>peligrosidad<br>(D.S. No148) | Capacidad<br>máxima | Almacenamiento | Periodo de<br>almacenamiento |
+| --- | --- | --- | --- | --- | --- | --- |
+| Envases<br>vacíos de<br>pinturas | Envases vacíos<br>de desmoldantes | 0,5 | Inflamable | 1,1 m3/mes | Tambor<br>metálico de 220<br>litros<br>debidamente<br>tapado y<br>etiquetado | Menor a 6<br>meses |
+| Envases<br>vacíos de<br>pinturas | Envases vacíos<br>de imprimantes | Envases vacíos<br>de imprimantes | Envases vacíos<br>de imprimantes | Envases vacíos<br>de imprimantes | Envases vacíos<br>de imprimantes | Envases vacíos<br>de imprimantes |
+| Envases<br>vacíos de<br>solventes | Envases vacíos<br>de ácido<br>muriático | 0,2 | Inflamable | Inflamable | Inflamable | Inflamable |
+| Envases<br>vacíos de<br>pegamentos,<br>aceites y<br>barnices | Trapos y huaipes<br>contaminados | 0,4 | Inflamable | Inflamable | Inflamable | Inflamable |
+| Envases<br>vacíos de<br>pegamentos,<br>aceites y<br>barnices | Envases vacíos<br>de espuma de<br>poliuretano | Envases vacíos<br>de espuma de<br>poliuretano | Envases vacíos<br>de espuma de<br>poliuretano | Envases vacíos<br>de espuma de<br>poliuretano | Envases vacíos<br>de espuma de<br>poliuretano | Envases vacíos<br>de espuma de<br>poliuretano |
+| Envases<br>vacíos de<br>pegamentos,<br>aceites y<br>barnices | Envases<br>vacíos<br>de adhesivos de<br>contacto | Envases<br>vacíos<br>de adhesivos de<br>contacto | Envases<br>vacíos<br>de adhesivos de<br>contacto | Envases<br>vacíos<br>de adhesivos de<br>contacto | Envases<br>vacíos<br>de adhesivos de<br>contacto | Envases<br>vacíos<br>de adhesivos de<br>contacto |

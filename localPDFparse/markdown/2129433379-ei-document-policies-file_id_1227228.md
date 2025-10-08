@@ -1,0 +1,955 @@
+---
+title: DESCRIPCIÓN DE RELACIÓN ENTRE PROYECTOS Y POLÍTICAS
+author: Paola Schnettler
+date: D:20140425003008Z00'00'
+language: es
+type: general
+pages: 5
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**7.** **DESCRIPCIÓN
+ DE
+ RELACIÓN
+ ENTRE
+ PROYECTOS
+ Y
+ POLÍTICAS,
+ PLANES
+ Y**
+
+**PROGRAMAS
+ DE
+ DESARROLLO
+ REGIONAL
+ Y
+ COMUNAL
+ (art.
+ 9
+ ter,
+ Ley
+ 20.417)**
+
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ una
+ solicitud
+ de
+ relocalización
+ de
+ concesión
+ de
+acuicultura
+ otorgada
+ (7.93
+ hás.),
+ relativa
+ al
+ centro
+ de
+ cultivo
+ de
+ salmónidos
+ Williams
+ 1,
+ el
+ cual
+ se
+ubicará
+ en
+ Bahía
+ Adventure,
+ Canal
+ Costa
+ Norte
+ de
+ Isla
+ Williams,
+ comuna
+ de
+ Cisnes,
+ Región
+ de
+Aysén.
+
+La
+ relación
+ del
+ proyecto
+ con
+ las
+ Políticas,
+ Planes
+ y
+ Programas
+ de
+ Desarrollo
+ Regional
+ y
+ Comunal
+contempla
+ la
+ “Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Aysén
+ 2009”
+ (Ilpes
+ -
+ Cepal
+ /
+ Gobierno
+ Regional
+de
+ Aysén),
+ “Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ XI
+ Región
+ de
+ Aysén
+ (2004)”,
+ “Memoria
+ de
+Zonificación
+ Borde
+ Costero
+ Región
+ Aysén
+ del
+ General
+ Carlos
+ Ibáñez
+ del
+ Campo”
+ (SERPLAC
+ Región
+de
+ Aysén),
+ “Plan
+ Regulador
+ de
+ Puerto
+ Cisnes
+ (1992,
+ modificaciones
+ 2001
+ y
+ 2004)”
+ y
+ “Plan
+ de
+Desarrollo
+ Comunal
+ PLADECO
+ comuna
+ de
+ Cisnes
+ 2011-­‐2015”.
+
+**POR
+ TANTO
+ SE
+ DESTACA
+ QUE
+ EN
+ EL
+ PRESENTE
+ ANÁLISIS
+ SE
+ REVISAN
+ TODAS
+ LAS
+ POLÍTICAS,**
+**PLANES
+ Y
+ PROGRAMAS
+ DE
+ DESARROLLO
+ REGIONAL
+ Y
+ COMUNAL,
+ NO
+ DEJANDO
+ FUERA
+ DE
+ ESTA**
+**REVISIÓN
+ NINGUNA
+ POLÍTICA
+ ACTUAL
+ VIGENTE.**
+
+**Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Aysén
+ 2009
+ (Ilpes
+ -
+ Cepal
+ /
+ Gobierno
+ Regional
+ de
+ Aysén)**
+La
+ Estrategia
+ Regional
+ de
+ Desarrollo
+ de
+ Aysén
+ 2009
+ reconoce
+ una
+ gran
+ aptitud
+ acuícola
+ del
+ borde
+costero
+ de
+ la
+ Región,
+ en
+ donde
+ la
+ actividad
+ acuícola
+ ha
+ aumentado
+ considerablemente
+ en
+ los
+últimos
+ años
+ y
+ dado
+ origen
+ a
+ un
+ sin
+ número
+ de
+ emprendimientos
+ productivos
+ ligados
+ a
+ esta
+industria.
+ Destaca
+ la
+ importancia
+ de
+ la
+ delimitación
+ de
+ zonas
+ de
+ desarrollo
+ para
+ las
+ distintas
+actividades
+ productivas
+ prioritarias
+ de
+ la
+ Región,
+ potenciando
+ con
+ ello
+ la
+ expansión
+ de
+ la
+acuicultura
+ y
+ la
+ “convivencia”
+ con
+ las
+ demás
+ actividades
+ productivas
+ y/o
+ industriales
+ que
+ se
+desarrollan
+ en
+ el
+ litoral.
+
+Dentro
+ de
+ los
+ objetivos
+ de
+ desarrollo
+ y
+ lineamientos
+ estratégicos
+ es
+ posible
+ situar
+ el
+ proyecto
+dentro
+ del
+ objetivo
+ “Disponer
+ de
+ adecuados
+ niveles
+ de
+ capital
+ humano
+ y
+ social
+ que
+ aseguren
+ un
+proceso
+ de
+ desarrollo
+ endógeno
+ y
+ participativo”,
+ lineamiento
+ “Formación
+ y
+ perfeccionamiento
+avanzado”.
+ La
+ formulación
+ de
+ un
+ indicador
+ para
+ este
+ lineamiento
+ es
+ la
+ siguiente:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Iniciativa de<br>capacitación para<br>profesionales del<br>centro de cultivo|% de profesionales<br>capacitados en la<br>Región según año<br>calendario|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|N° de profesionales<br>capacitados año<br>(N)*100/Total de<br>profesionales del<br>centro de cultivo|Por cada ciclo<br>productivo se<br>capacitará al<br>menos al 25% de<br>los profesionales|Copia legalizada<br>ante notario de<br>certificado de<br>participación en<br>capacitación<br>(estará<br>disponible en el<br>centro de<br>cultivo)|
+|Iniciativa de<br>capacitación para<br>operarios en<br>programas de la<br>Región|% de operarios<br>capacitados en la<br>Región<br>según año calendario|SENCE<br>Seremi de<br>Educación<br>CORFO<br>ACHS<br>Mutual de<br>Seguridad<br>u otro|N° de operarios<br>capacitados año<br>(N)*100/Total de<br>operarios del centro<br>de cultivo|Por cada ciclo<br>productivo se<br>capacitará al<br>menos al 25% de<br>los operarios|Copia legalizada<br>ante notario de<br>certificado de<br>participación en<br>capacitación<br>(estará<br>disponible en el<br>centro de<br>cultivo)|
+
+Otro
+ de
+ los
+ objetivos
+ vinculables
+ corresponde
+ a
+ “Operar
+ con
+ elevados
+ niveles
+ de
+ eficiencia,
+encadenamientos
+ y
+ competitividad,
+ en
+ la
+ actividad
+ económica
+ regional,
+ de
+ acuerdo
+ con
+ las
+diversas
+ vocaciones
+ productivas
+ acordes
+ al
+ territorio”,
+ lineamiento
+ estratégico
+ “Fortalecimiento
+del
+ sector
+ acuícola”.
+ La
+ formulación
+ de
+ un
+ indicador
+ para
+ este
+ lineamiento
+ es
+ la
+ siguiente:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Relocalización del<br>centro de cultivo|Relocalización<br>dentro de Zona<br>preferencial para la<br>acuicultura|Encargado<br>centro de<br>cultivo|Relocalización en<br>Zona<br>preferencial para<br>la acuicultura|Obtención de<br>Resolución de<br>Calificación<br>Ambiental (RCA)<br>que califica<br>favorablemente la<br>relocalización|Se mantendrá en el<br>centro de cultivo<br>plano que sitúe la<br>concesión<br>relocalizada dentro<br>del Mapa de<br>zonificación del borde<br>costero de la XI<br>RegióndeAysén|
+
+**Plan
+ Regional
+ de
+ Desarrollo
+ Urbano
+ XI
+ Región
+ de
+ Aysén
+ 2004
+ (PRDU)**
+La
+ acuicultura
+ es
+ reconocida
+ por
+ el
+ PRDU
+ como
+ una
+ actividad
+ productiva
+ estratégica
+ a
+ nivel
+regional.
+ Desde
+ el
+ punto
+ de
+ vista
+ de
+ los
+ lineamientos
+ definidos
+ por
+ el
+ PRDU,
+ y
+ en
+ atención
+ al
+ uso
+del
+ territorio
+ bajo
+ premisas
+ de
+ sustentabilidad,
+ es
+ posible
+ vincular
+ el
+ proyecto
+ con
+ el
+ “lineamiento
+sobre
+ el
+ desarrollo
+ de
+ instrumentos
+ de
+ planificación”,
+ situándose
+ dentro
+ del
+ “área
+ de
+ desarrollo
+ 2:
+Cuenca
+ del
+ Río
+ Cisnes”.
+ Al
+ respecto,
+ se
+ presenta
+ el
+ siguiente
+ indicador:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Relocalización del<br>centro de cultivo|Relocalización<br>dentro de Zona<br>preferencial para la<br>acuicultura|Encargado<br>centro de<br>cultivo|Relocalización en<br>Zona<br>preferencial para<br>la acuicultura|Obtención de<br>Resolución de<br>Calificación<br>Ambiental (RCA)<br>que califica<br>favorablemente la<br>relocalización|Se mantendrá en el<br>centro de cultivo<br>plano que sitúe la<br>concesión<br>relocalizada dentro<br>del Mapa de<br>zonificación del<br>borde costero de la XI<br>RegióndeAysén|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)1|Obtención de<br>índice de impacto<br>por sobre 3 puntos<br>de la situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+
+**“Memoria
+ de
+ Zonificación
+ Borde
+ Costero
+ Región
+ Aysén
+ del
+ General
+ Carlos
+ Ibáñez
+ del
+ Campo”**
+**(SERPLAC
+ Región
+ de
+ Aysén)**
+El
+ proyecto
+ en
+ evaluación
+ corresponde
+ a
+ la
+ relocalización
+ de
+ una
+ concesión
+ de
+ acuicultura
+otorgada,
+ con
+ miras
+ a
+ la
+ búsqueda
+ de
+ mejores
+ condiciones
+ ambientales
+ y
+ oceanográficas
+
+ para
+ el
+cultivo
+ intensivo
+ de
+ salmónidos.
+ Conforme
+ a
+ la
+ memoria
+ de
+ zonificación
+ del
+ borde
+ costero,
+ el
+proyecto
+ se
+ sitúa
+ en
+ una
+ “zona
+ preferencial
+ para
+ la
+ acuicultura”,
+ Bahía
+ Adventure,
+ Canal
+ Costa
+Norte
+ de
+ Isla
+ Williams.
+ La
+ formulación
+ de
+ indicadores
+ es
+ la
+ siguiente:
+
+1 Establece
+ la
+ relación
+ entre
+ el
+ aporte
+ de
+ oxígeno
+ y
+ la
+ demanda
+ de
+ oxígeno
+ del
+ sedimento
+ para
+ degradar
+ la
+materia
+ orgánica,
+ lo
+ cual
+ depende
+ las
+ velocidades
+ de
+ corrientes
+ en
+ profundidad.
+ Un
+ índice
+ mayor
+ a
+ 1
+significa
+ que
+ el
+ aporte
+ de
+ oxígeno
+ supera
+ a
+ la
+ demanda,
+ por
+ lo
+ que
+ se
+ ve
+ con
+ dificultad
+ un
+ proceso
+ de
+anaerobiosis
+ en
+ el
+ sedimento,
+ por
+ el
+ contrario
+ si
+ el
+ índice
+ es
+ menor
+ a
+ 1
+ significa
+ que
+ la
+ demanda
+ supera
+ la
+oferta
+ y
+ por
+ ende
+ es
+ factible
+ un
+ proceso
+ de
+ anaerobiosis
+ en
+ el
+ sedimento;
+ si
+ el
+ índice
+ es
+ igual
+ a
+ 1,
+ existiría
+ un
+equilibrio
+ entre
+ oferta
+ y
+ demanda
+ y
+ por
+ ende
+ el
+ impacto
+ sería
+ menor.
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Relocalización del<br>centro de cultivo|Relocalización<br>dentro de Zona<br>preferencial para la<br>acuicultura|Encargado<br>centro de<br>cultivo|Relocalización en<br>Zona<br>preferencial para<br>la acuicultura|Obtención de<br>Resolución de<br>Calificación<br>Ambiental (RCA)<br>que califica<br>favorablemente la<br>relocalización|Se mantendrá en el<br>centro de cultivo<br>plano que sitúe la<br>concesión<br>relocalizada dentro<br>del Mapa de<br>zonificación del borde<br>costero de la XI<br>RegióndeAysén|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)|Obtención de<br>índice de impacto<br>por sobre 3 puntos<br>de la situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+
+**Plan
+ Regulador
+ de
+ Puerto
+ Cisnes
+ (1992,
+ modificaciones
+ 2001
+ y
+ 2004)**
+El
+ lugar
+ de
+ emplazamiento
+ del
+ centro
+ de
+ cultivo
+ Williams
+ 1
+ corresponde
+ a
+ Bahía
+ Adventure,
+ Canal
+Costa
+ Norte
+ de
+ Isla
+ Williams,
+ por
+ lo
+ que
+ no
+ se
+ encuentra
+ inserto
+ en
+ las
+ áreas
+ urbanas
+ propias
+ del
+Plan
+ Regulador
+ (Cines,
+ Cisnes
+ Sector
+ Sur,
+ La
+ Junta,
+ Puerto
+ Raúl
+ Marín
+ Balmaceda
+ y
+ Puyuhuapi).
+ Se
+aclara,
+ no
+ obstante,
+ que
+ el
+ proyecto
+ se
+ ubicará
+ dentro
+ de
+ las
+ Áreas
+ Aptas
+ para
+ la
+ Acuicultura
+(A.A.A.),
+ en
+ una
+ “zona
+ preferencial
+ para
+ la
+ acuicultura”.
+
+**Plan
+ de
+ Desarrollo
+ Comunal
+ PLADECO
+ comuna
+ de
+ Cisnes
+ 2011-­‐2015**
+De
+ acuerdo
+ al
+ análisis
+ FODA,
+ el
+ PLADECO
+ reconoce
+ la
+ actividad
+ acuícola
+ como
+ parte
+ de
+ la
+diversidad
+ de
+ actividades
+ productivas
+ (fortaleza)
+ en
+ la
+ Región
+ y
+ con
+ una
+ clara
+ posibilidad
+ de
+resurgimiento
+ (oportunidad).
+ Asimismo,
+ se
+ plantea
+ como
+ “amenaza”
+ desde
+ el
+ punto
+ de
+ vista
+ de
+ las
+concesiones
+ de
+ acuicultura
+ y
+ como
+ actividad
+ no
+ sustentable.
+ Al
+ respecto,
+ el
+ proyecto
+ corresponde
+a
+ una
+ relocalización
+ de
+ concesión
+ de
+ acuicultura
+ otorgada,
+ la
+ cual
+ se
+ relocalizará
+ dentro
+ de
+ las
+Áreas
+ Aptas
+ para
+ la
+ Acuicultura
+ (A.A.A.)
+ y
+ en
+ una
+ “zona
+ preferencial
+ para
+ la
+ acuicultura”,
+ por
+ lo
+que
+ no
+ se
+ amplía
+ la
+ superficie
+ ni
+ el
+ número
+ de
+ concesiones
+ otorgadas.
+ El
+ objetivo
+ de
+ la
+relocalización
+ es
+ la
+ búsqueda
+ de
+ mejores
+ condiciones
+ ambientales
+ y
+ oceanográficas
+ para
+ el
+ cultivo
+de
+ salmónidos.
+
+Dadas
+ las
+ líneas
+ estratégicas
+ del
+ PLADECO,
+ es
+ posible
+ situarlo
+ dentro
+ de
+ “comuna
+ que
+ protege
+ y
+aprovecha
+ sustentablemente
+ sus
+ recursos
+ marinos”
+ (área
+ estratégica
+ “Desarrollo
+ Económico”)
+ y
+“comuna
+ con
+ manejo
+ integral
+ de
+ residuos
+ sólidos
+ domiciliarios”
+ (área
+ estratégica
+ “Medio
+Ambiente”).
+ Al
+ respecto,
+ se
+ proponen
+ los
+ siguientes
+ indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Relocalización del<br>centro de cultivo|Relocalización<br>dentro de Zona<br>preferencial para la<br>acuicultura|Encargado<br>centro de<br>cultivo|Relocalización en<br>Zona<br>preferencial para<br>la acuicultura|Obtención de<br>Resolución de<br>Calificación<br>Ambiental (RCA)<br>que califica<br>favorablemente la<br>relocalización|Se mantendrá en el<br>centro de cultivo<br>plano que sitúe la<br>concesión<br>relocalizada dentro<br>del Mapa de<br>zonificación del<br>borde costero de la XI<br>RegióndeAysén|
+|Mejoramiento de<br>condiciones<br>ambientales y<br>oceanográficas|Índice de impacto<br>del proyecto|Encargado<br>centro de<br>cultivo<br> <br>|Índice de<br>impacto de<br>Findley y<br>Waitling (1997)|Obtención de<br>índice de impacto<br>por sobre 3 puntos<br>de la situación de<br>equilibrio|Declaración de<br>Impacto Ambiental y<br>RCA que califica<br>favorablemente la<br>relocalización|
+|Limpieza de playa<br>en área del<br>proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo<br>|N° total de<br>limpiezas<br>semestral de<br>playa|1 limpieza<br>semestral de playa|Registro limpieza de<br>playa y fotografías<br>asociadas|

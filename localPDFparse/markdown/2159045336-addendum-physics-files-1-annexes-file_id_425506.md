@@ -1,0 +1,155 @@
+---
+title: Microsoft Word - Compromisos Ambientales Voluntarios
+author: Maribel Ruminot
+date: D:20240409233055-04'00'
+language: es
+type: report
+pages: 9
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+_Compromisos Ambientales Voluntarios_
+_Ampliación planta recicladora de plásticos_
+
+1. CAV Componente Fauna
+
+|1.-Compromiso Ambiental Voluntario: Capacitaciones en Fauna|Col2|
+|---|---|
+|Impacto asociado<br>Pérdida de Hábitat|Impacto asociado<br>Pérdida de Hábitat|
+|Fase del Proyecto<br>Fase de Operación|Fase del Proyecto<br>Fase de Operación|
+|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Informar a los trabajadores del proyecto respecto a la<br>fauna nativa presente para prevenir posibles impactos por malas<br>prácticas.<br>Descripción: Se realizarán capacitaciones al personal del<br>proyecto respecto a la fauna identificada, en especial a aquella<br>en categoría de conservación presente en el área del proyecto,<br>a la importancia de esta y a las medidas de resguardo que<br>deben tener en cada una de sus actividades. <br>Justificación: Se requiere realizar una capacitación ya que son<br>los trabajadores los que finalmente ejecutan las actividades en<br>terreno, por lo que es relevante que ellos cuenten con las<br>herramientas para identificar y prevenir los impactos asociados<br>a la fauna nativa del sector.|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Informar a los trabajadores del proyecto respecto a la<br>fauna nativa presente para prevenir posibles impactos por malas<br>prácticas.<br>Descripción: Se realizarán capacitaciones al personal del<br>proyecto respecto a la fauna identificada, en especial a aquella<br>en categoría de conservación presente en el área del proyecto,<br>a la importancia de esta y a las medidas de resguardo que<br>deben tener en cada una de sus actividades. <br>Justificación: Se requiere realizar una capacitación ya que son<br>los trabajadores los que finalmente ejecutan las actividades en<br>terreno, por lo que es relevante que ellos cuenten con las<br>herramientas para identificar y prevenir los impactos asociados<br>a la fauna nativa del sector.|
+|Lugar, forma y oportunidad<br>de implementación<br>Lugar: Las capacitaciones deberán realizarse en la Planta de<br>procesamiento, en un lugar adecuado para difundir la<br>información que se requiere.<br>Forma: la capacitación deberá ser realizada por un profesional<br>afín a las ciencias del medio ambiente, mediante una<br>presentación de los contenidos a todos los trabajadores que<br>operan en planta y en áreas exteriores, así como también a los<br>que están a cargo de dichas actividades.<br>Oportunidad: La capacitación deberá realizarse una vez se de<br>inicio a la operación del proyecto, obtenida la RCA del mismo.|Lugar, forma y oportunidad<br>de implementación<br>Lugar: Las capacitaciones deberán realizarse en la Planta de<br>procesamiento, en un lugar adecuado para difundir la<br>información que se requiere.<br>Forma: la capacitación deberá ser realizada por un profesional<br>afín a las ciencias del medio ambiente, mediante una<br>presentación de los contenidos a todos los trabajadores que<br>operan en planta y en áreas exteriores, así como también a los<br>que están a cargo de dichas actividades.<br>Oportunidad: La capacitación deberá realizarse una vez se de<br>inicio a la operación del proyecto, obtenida la RCA del mismo.|
+|Indicador que acredite su<br>cumplimiento<br>Registro de asistencia capacitación y registro fotográfico.|Indicador que acredite su<br>cumplimiento<br>Registro de asistencia capacitación y registro fotográfico.|
+|Forma<br>de<br>control<br>y <br>seguimiento<br>Se llevará registro del cumplimiento de los compromisos del<br>proyecto en la plataforma web de la Superintendencia de<br>Medio Ambiente.<br>Adicionalmente se tendrá registro de capacitación en planta.|Forma<br>de<br>control<br>y <br>seguimiento<br>Se llevará registro del cumplimiento de los compromisos del<br>proyecto en la plataforma web de la Superintendencia de<br>Medio Ambiente.<br>Adicionalmente se tendrá registro de capacitación en planta.|
+|Referencia para mayores<br>detalles sobre este impacto<br>específico|Anexo 20 de la Adenda|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+_Compromisos Ambientales Voluntarios_
+_Ampliación planta recicladora de plásticos_
+
+2. CAV Componente Fauna
+
+|2. Compromiso Ambiental Voluntario: Señalética informativa de Fauna|Col2|
+|---|---|
+|Impacto asociado<br>Afectación a la Fauna|Impacto asociado<br>Afectación a la Fauna|
+|Fase del Proyecto<br>Fase de Operación|Fase del Proyecto<br>Fase de Operación|
+|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Prevenir la intervención de especies de fauna en<br>categoría de conservación a través de la identificación de esta.<br>Descripción: El Titular adoptará como Compromiso Ambiental<br>Voluntario la instalación de un letreo con la identificación de<br>especies en categoría de conservación presentes e<br>identificadas en el área de influencia del proyecto y su<br>prohibición de caza, captura o manipulación.<br>Justificación: El presente compromiso voluntario permitirá<br>advertir a los trabajadores la presencia de especies de fauna en<br>categoría de conservación, a modo de promover el<br>conocimiento y el resguardo de estas en el área del proyecto.|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Prevenir la intervención de especies de fauna en<br>categoría de conservación a través de la identificación de esta.<br>Descripción: El Titular adoptará como Compromiso Ambiental<br>Voluntario la instalación de un letreo con la identificación de<br>especies en categoría de conservación presentes e<br>identificadas en el área de influencia del proyecto y su<br>prohibición de caza, captura o manipulación.<br>Justificación: El presente compromiso voluntario permitirá<br>advertir a los trabajadores la presencia de especies de fauna en<br>categoría de conservación, a modo de promover el<br>conocimiento y el resguardo de estas en el área del proyecto.|
+|Lugar, forma y oportunidad<br>de implementación<br>Lugar: Se instalará la señalización en un área cercana a la zona<br>sur del predio, donde se registraron las especies en estado de<br>conservación.<br>Forma: Se señalizará la fauna en categoría de conservación<br>mediante un letrero que indique el nombre científico y común de<br>las especies, y su estado de conservación, además de una<br>indicación de advertencia.<br>Oportunidad: La instalación de la señalética se realizará una<br>vez se de inicio a la operación del proyecto, obtenida la RCA<br>del mismo.|Lugar, forma y oportunidad<br>de implementación<br>Lugar: Se instalará la señalización en un área cercana a la zona<br>sur del predio, donde se registraron las especies en estado de<br>conservación.<br>Forma: Se señalizará la fauna en categoría de conservación<br>mediante un letrero que indique el nombre científico y común de<br>las especies, y su estado de conservación, además de una<br>indicación de advertencia.<br>Oportunidad: La instalación de la señalética se realizará una<br>vez se de inicio a la operación del proyecto, obtenida la RCA<br>del mismo.|
+|Indicador que acredite su<br>cumplimiento<br>Fotografías de la señalización instalada para identificar a la/s<br>especie/s en categoría de conservación.|Indicador que acredite su<br>cumplimiento<br>Fotografías de la señalización instalada para identificar a la/s<br>especie/s en categoría de conservación.|
+|Forma<br>de<br>control<br>y <br>seguimiento<br>Una vez ejecutada la medida, se hará envío de los medios de<br>verificación a la Superintendencia del Medio Ambiente.<br>Adicionalmente, se llevará registro del cumplimiento de los<br>compromisos del proyecto en la plataforma web de la<br>Superintendencia de Medio Ambiente.|Forma<br>de<br>control<br>y <br>seguimiento<br>Una vez ejecutada la medida, se hará envío de los medios de<br>verificación a la Superintendencia del Medio Ambiente.<br>Adicionalmente, se llevará registro del cumplimiento de los<br>compromisos del proyecto en la plataforma web de la<br>Superintendencia de Medio Ambiente.|
+|Referencia para mayores<br>detalles sobre este impacto<br>específico|Anexo 20 de la Adenda|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+_Compromisos Ambientales Voluntarios_
+_Ampliación planta recicladora de plásticos_
+
+3. CAV Emisiones Atmosféricas
+
+|3. Compromiso Ambiental Voluntario: Aplicación supresor de polvo, control de mantenciones a<br>vehículos, maquinaria y transporte de carga encarpada|Col2|
+|---|---|
+|Impacto asociado<br>Aumento de las emisiones de material particulado MP10,<br>MP2,5 y gases de combustión generadas por vehículos y<br>maquinaria por caminos no pavimentados|Impacto asociado<br>Aumento de las emisiones de material particulado MP10,<br>MP2,5 y gases de combustión generadas por vehículos y<br>maquinaria por caminos no pavimentados|
+|Fase del Proyecto<br>Fase de Operación y Cierre|Fase del Proyecto<br>Fase de Operación y Cierre|
+|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Controlar las emisiones de materia particulado y gases<br>de combustión, generadas por vehículos y maquinaria.<br>Descripción: El tránsito de vehículos por caminos o superficies<br>no pavimentadas generará un aumento en las emisiones a la<br>atmósfera de material particulado y gases de combustión, para<br>disminuir estas emisiones se realizará la aplicación de supresor<br>de polvo en un tramo del camino no pavimentado adjunto al<br>predio de la planta recicladora de plásticos, así como también<br>se mantendrá un control de mantención tanto de vehículos<br>como de la maquinaria que utiliza el proyecto.<br>Por otro lado, la carga de insumos, residuos y material<br>reciclable, se deberá realizar encarpada.<br>Justificación: Mantener controladas las emisiones a la atmósfera<br>de material particulado y gases de combustión producto de<br>tránsito de vehículos y maquinaria por superficies no<br>pavimentadas.|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Controlar las emisiones de materia particulado y gases<br>de combustión, generadas por vehículos y maquinaria.<br>Descripción: El tránsito de vehículos por caminos o superficies<br>no pavimentadas generará un aumento en las emisiones a la<br>atmósfera de material particulado y gases de combustión, para<br>disminuir estas emisiones se realizará la aplicación de supresor<br>de polvo en un tramo del camino no pavimentado adjunto al<br>predio de la planta recicladora de plásticos, así como también<br>se mantendrá un control de mantención tanto de vehículos<br>como de la maquinaria que utiliza el proyecto.<br>Por otro lado, la carga de insumos, residuos y material<br>reciclable, se deberá realizar encarpada.<br>Justificación: Mantener controladas las emisiones a la atmósfera<br>de material particulado y gases de combustión producto de<br>tránsito de vehículos y maquinaria por superficies no<br>pavimentadas.|
+|Lugar, forma y oportunidad<br>de implementación|Lugar: Caminos sin pavimentar (tramo por Calle Freire) y zona<br>interior de acceso a la planta recicladora, correspondiendo a un<br>total de 1,5km.<br>Forma: Aplicación de supresor de polvo en el tramo de calle<br>Freire sin pavimentar cercano a receptores y acceso a planta<br>recicladora de plásticos.<br>Asegurar que las mantenciones de vehículos y maquinarias se<br>encuentren al día.<br>Controlar que el transporte de la carga de insumos, residuos y<br>material reciclable se realice encarpada.<br>Oportunidad: La aplicación de supresor de polvo se realizará<br>en época de verano, cuando la disminuyen las precipitaciones,<br>con una frecuencia mensual.<br>Las mantenciones a la maquinaria y vehículos serán realizadas<br>con la frecuencia que establezca el servicio de mantención<br>autorizado.|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+|Compromisos Ambientales Voluntarios Ampliación planta recicladora de plásticos|Col2|
+|---|---|
+|||
+|Todo el transporte de insumos, residuos y material reciclable<br>se deberá realizar encarpado.|Todo el transporte de insumos, residuos y material reciclable<br>se deberá realizar encarpado.|
+|Indicador que acredite su<br>cumplimiento<br>Registro de aplicación de supresor de polvo, de las<br>mantenciones realizadas a la maquinaria y vehículos, así como<br>el control del transporte de carga encarpado.|Indicador que acredite su<br>cumplimiento<br>Registro de aplicación de supresor de polvo, de las<br>mantenciones realizadas a la maquinaria y vehículos, así como<br>el control del transporte de carga encarpado.|
+|Forma<br>de<br>control<br>y <br>seguimiento<br>Registros de aplicación de supresor de polvo en tramo de<br>camino no pavimentado, control de carga encarpada y<br>registros de las mantenciones realizadas a vehículos y<br>maquinarias.<br>Fotografías de los caminos sin pavimentar con supresor de<br>polvo aplicado.<br>Los registros serán emitidos a la Superintendencia del Medio<br>Ambiente.|Forma<br>de<br>control<br>y <br>seguimiento<br>Registros de aplicación de supresor de polvo en tramo de<br>camino no pavimentado, control de carga encarpada y<br>registros de las mantenciones realizadas a vehículos y<br>maquinarias.<br>Fotografías de los caminos sin pavimentar con supresor de<br>polvo aplicado.<br>Los registros serán emitidos a la Superintendencia del Medio<br>Ambiente.|
+|Referencia para mayores<br>detalles sobre este impacto<br>específico|Estudio de Emisiones Atmosféricas Anexo 9 de la Adenda.|
+
+4. CAV Molestias por emisiones a la atmósfera
+
+|4. Compromiso Ambiental Voluntario: Registro de molestias detectadas por la ciudadanía en<br>relación a emisiones a la atmósfera|Col2|
+|---|---|
+|Impacto asociado<br>Molestias detectadas por la ciudadanía en relación a emisiones<br>a la atmósfera|Impacto asociado<br>Molestias detectadas por la ciudadanía en relación a emisiones<br>a la atmósfera|
+|Fase del Proyecto<br>Fase de Operación y Cierre|Fase del Proyecto<br>Fase de Operación y Cierre|
+|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Recepcionar las molestias detectadas por la<br>ciudadanía en relación a emisiones a la atmósfera, producto de<br>las actividades del proyecto.<br>Descripción: Registrar las molestias emitidas por la ciudadanía<br>en relación a emisiones a la atmósfera producto de actividades<br>del proyecto, como aumento de polvo en suspensión.<br>La emisión de molestias puede ser de forma telefónica, a través<br>de correo electrónico o de forma presencial. La denuncia<br>deberá ser registrada con todos los antecedentes necesarios<br>para dar solución y seguimiento.<br>Justificación: Mantener una buena comunicación y relación con<br>la ciudadanía, de tal forma que el proyecto no genere molestias<br>ni situaciones de riesgo para la comunidad.|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Recepcionar las molestias detectadas por la<br>ciudadanía en relación a emisiones a la atmósfera, producto de<br>las actividades del proyecto.<br>Descripción: Registrar las molestias emitidas por la ciudadanía<br>en relación a emisiones a la atmósfera producto de actividades<br>del proyecto, como aumento de polvo en suspensión.<br>La emisión de molestias puede ser de forma telefónica, a través<br>de correo electrónico o de forma presencial. La denuncia<br>deberá ser registrada con todos los antecedentes necesarios<br>para dar solución y seguimiento.<br>Justificación: Mantener una buena comunicación y relación con<br>la ciudadanía, de tal forma que el proyecto no genere molestias<br>ni situaciones de riesgo para la comunidad.|
+|Lugar, forma y oportunidad<br>de implementación|Lugar: Planta recicladora de plásticos VirutexIlko SpA. Oficinas<br>administrativas, comuna de San Carlos.|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+|Compromisos Ambientales Voluntarios Ampliación planta recicladora de plásticos|Col2|
+|---|---|
+|||
+|Forma: Se recepcionarán las situaciones de molestias<br>detectadas por la comunidad, producto de las actividades del<br>proyecto a través de una llamada telefónica, correo electrónico o<br>de forma presencial, registrando la fecha, nombre del<br>denunciante, dirección, teléfono de contacto y situación<br>acontecida, de tal forma de hacer una pronta investigación para<br>detectar la fuente generadora de la molestia, si realmente fue<br>generada por las actividades de la planta recicladora de plásticos<br>y tomar las medidas necesarias para que no se vuelva a generar<br>la situación denunciada, contactando al denunciante para<br>informar de las medidas ejecutadas.<br>Oportunidad: Se recepcionarán las denuncias o situaciones de<br>molestia en horario diurno de funcionamiento de la planta, con<br>la finalidad de registrar toda la información de lo acontecido y<br>los antecedentes del denunciante.|Forma: Se recepcionarán las situaciones de molestias<br>detectadas por la comunidad, producto de las actividades del<br>proyecto a través de una llamada telefónica, correo electrónico o<br>de forma presencial, registrando la fecha, nombre del<br>denunciante, dirección, teléfono de contacto y situación<br>acontecida, de tal forma de hacer una pronta investigación para<br>detectar la fuente generadora de la molestia, si realmente fue<br>generada por las actividades de la planta recicladora de plásticos<br>y tomar las medidas necesarias para que no se vuelva a generar<br>la situación denunciada, contactando al denunciante para<br>informar de las medidas ejecutadas.<br>Oportunidad: Se recepcionarán las denuncias o situaciones de<br>molestia en horario diurno de funcionamiento de la planta, con<br>la finalidad de registrar toda la información de lo acontecido y<br>los antecedentes del denunciante.|
+|Indicador que acredite su<br>cumplimiento<br>Registro de las denuncias realizadas por la comunidad,<br>medidas a implementar para eliminar la molestia y hacer<br>seguimiento a la efectividad de la medida.|Indicador que acredite su<br>cumplimiento<br>Registro de las denuncias realizadas por la comunidad,<br>medidas a implementar para eliminar la molestia y hacer<br>seguimiento a la efectividad de la medida.|
+|Forma<br>de<br>control<br>y <br>seguimiento<br>Registro de las denuncias recibidas.<br>Registro de las medidas implementadas, con fecha y<br>procedimiento.<br>Registro del seguimiento a la medida implementada e<br>información al denunciante.|Forma<br>de<br>control<br>y <br>seguimiento<br>Registro de las denuncias recibidas.<br>Registro de las medidas implementadas, con fecha y<br>procedimiento.<br>Registro del seguimiento a la medida implementada e<br>información al denunciante.|
+|Referencia para mayores<br>detalles sobre este impacto<br>específico|Estudio de Emisiones Atmosféricas Anexo 9 de la Adenda.|
+
+5. CAV Emisiones de ruido nocturno
+
+|5. Compromiso Ambiental Voluntario: Monitoreo de ruido Nocturno|Col2|
+|---|---|
+|Impacto asociado<br>No Aplica|Impacto asociado<br>No Aplica|
+|Fase del Proyecto<br>Fase de Operación|Fase del Proyecto<br>Fase de Operación|
+|<br>Objetivo,<br>descripción<br>y <br>justificación|Objetivo: Verificar que las actividades operativas de la planta en<br>horario nocturno, no sobrepasen los límites establecidos por el<br>D.S N°38/2011 MMA Establece normas de emisión de ruidos<br>generados por fuentes que indica.|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+|Compromisos Ambientales Voluntarios Ampliación planta recicladora de plásticos|Col2|
+|---|---|
+|||
+|Descripción: Se considera que un profesional especialista<br>calificado en emisiones acústicas realice una medición de ruido<br>nocturno cuando la planta esté operando, para así comparar los<br>niveles de presión sonora registrados por el equipo (sonómetro<br>calibrado) con los límites establecidos por la norma de emisión<br>(D.S N°38/2011).<br> Justificación: Constatar que la planta recicladora de plásticos<br>se encuentra funcionando dentro de los límites de emisiones<br>acústicas que exige la normativa ambiental vigente, en relación<br>a los efectos que pudiese generar sobre la salud de la población<br>cercana al proyecto.|Descripción: Se considera que un profesional especialista<br>calificado en emisiones acústicas realice una medición de ruido<br>nocturno cuando la planta esté operando, para así comparar los<br>niveles de presión sonora registrados por el equipo (sonómetro<br>calibrado) con los límites establecidos por la norma de emisión<br>(D.S N°38/2011).<br> Justificación: Constatar que la planta recicladora de plásticos<br>se encuentra funcionando dentro de los límites de emisiones<br>acústicas que exige la normativa ambiental vigente, en relación<br>a los efectos que pudiese generar sobre la salud de la población<br>cercana al proyecto.|
+|Lugar, forma y oportunidad<br>de implementación<br>Lugar: Instalaciones de la planta recicladora de plásticos en<br>horario nocturno.<br>Forma: Se realizarán las mediciones de ruido en el área de la<br>planta recicladora de plásticos, en horario nocturno con toda la<br>maquinaria funcionando.<br>Las mediciones serán reportadas en un informe a través de una<br>tabla comparativa relacionada con los límites que establece el<br>D.S N°38/2011.<br>En caso que los niveles de las emisiones acústicas sobrepasen la<br>normativa, se procederá a analizar cuáles son los equipos que<br>emiten mayores decibeles, hacer los ajustes que sean<br>necesarios, ya sea mantenciones o confinamiento de algunas<br>áreas si fueran necesarias. Una vez establecidas las medidas se<br>procederá a realizar una nueva medición para verificar la<br>efectividad de las medidas implementadas.<br>Oportunidad: El monitoreo de emisiones acústicas se realizará<br>con una frecuencia semestral y en el caso de evidenciar un<br>aumento de los niveles de ruido, se implementarán las medidas<br>que permitan disminuir el ruido, aumentando la frecuencia de<br>monitoreo hasta evidenciar la efectividad de la medida.|Lugar, forma y oportunidad<br>de implementación<br>Lugar: Instalaciones de la planta recicladora de plásticos en<br>horario nocturno.<br>Forma: Se realizarán las mediciones de ruido en el área de la<br>planta recicladora de plásticos, en horario nocturno con toda la<br>maquinaria funcionando.<br>Las mediciones serán reportadas en un informe a través de una<br>tabla comparativa relacionada con los límites que establece el<br>D.S N°38/2011.<br>En caso que los niveles de las emisiones acústicas sobrepasen la<br>normativa, se procederá a analizar cuáles son los equipos que<br>emiten mayores decibeles, hacer los ajustes que sean<br>necesarios, ya sea mantenciones o confinamiento de algunas<br>áreas si fueran necesarias. Una vez establecidas las medidas se<br>procederá a realizar una nueva medición para verificar la<br>efectividad de las medidas implementadas.<br>Oportunidad: El monitoreo de emisiones acústicas se realizará<br>con una frecuencia semestral y en el caso de evidenciar un<br>aumento de los niveles de ruido, se implementarán las medidas<br>que permitan disminuir el ruido, aumentando la frecuencia de<br>monitoreo hasta evidenciar la efectividad de la medida.|
+|Indicador que acredite su<br>cumplimiento<br>Reporte de resultados de los monitoreos y fotografías de la<br>ejecución de las mediciones.|Indicador que acredite su<br>cumplimiento<br>Reporte de resultados de los monitoreos y fotografías de la<br>ejecución de las mediciones.|
+|Forma<br>de<br>control<br>y <br>seguimiento<br>Se generará un informe semestral donde se presenten los<br>resultados de las mediciones efectuadas. El informe se<br>entregará a la Superintendencia del Medio Ambiente,<br>conteniendo los certificados de calibración del equipo utilizado.|Forma<br>de<br>control<br>y <br>seguimiento<br>Se generará un informe semestral donde se presenten los<br>resultados de las mediciones efectuadas. El informe se<br>entregará a la Superintendencia del Medio Ambiente,<br>conteniendo los certificados de calibración del equipo utilizado.|
+|Referencia para mayores<br>detalles sobre este impacto<br>específico|Anexo 20 de la Adenda|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+_Compromisos Ambientales Voluntarios_
+_Ampliación planta recicladora de plásticos_
+
+6. CAV Cerco perimetral arborizado.
+
+|6. Compromiso Ambiental Voluntario: Plantación de árboles nativos (cerco perimetral<br>arborizado)|Col2|
+|---|---|
+|Impacto asociado<br>Mejoramiento paisajístico|Impacto asociado<br>Mejoramiento paisajístico|
+|Fase del Proyecto<br>Fase de Operación|Fase del Proyecto<br>Fase de Operación|
+|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Mejorar el entorno del proyecto, incorporando un<br>cerco arbóreo con especies nativas.<br>Descripción: Realizar la plantación de especies arbóreas<br>nativas en el lado Este de la planta recicladora de plásticos,<br>incorporando ejemplares de Quillay y Notros, mejorando<br>paisajísticamente la zona de emplazamiento del proyecto.<br>Justificación: Incorporar especies vegetales nativas en la zona<br>intervenida por el proyecto, con la finalidad de mejorar el entorno<br>paisajístico.|<br>Objetivo,<br>descripción<br>y <br>justificación<br>Objetivo: Mejorar el entorno del proyecto, incorporando un<br>cerco arbóreo con especies nativas.<br>Descripción: Realizar la plantación de especies arbóreas<br>nativas en el lado Este de la planta recicladora de plásticos,<br>incorporando ejemplares de Quillay y Notros, mejorando<br>paisajísticamente la zona de emplazamiento del proyecto.<br>Justificación: Incorporar especies vegetales nativas en la zona<br>intervenida por el proyecto, con la finalidad de mejorar el entorno<br>paisajístico.|
+|Lugar, forma y oportunidad<br>de implementación|Lugar: Sector Noeste del predio donde se emplaza el proyecto,<br>colindante con la Ruta 5 Sur.<br>Abarcando una superficie total de 974m2 donde se plantarán<br>las especies arbóreas.<br>Forma: Se realizará la plantación de las especies arbóreas en la<br>zona sin vegetación (274m2) de forma posterior a las primeras<br>lluvias de la temporada de otoño a partir del año en que entre en<br>operación el proyecto.<br>Para el establecimiento de las especies, se realizarán casillas<br>manuales. Cada casilla debe tener la siguiente medida:<br>0,3 m de ancho x 0,3 m de largo x 0,3 m de profundidad, con 2<br>colectores de agua lluvia de 0,15 m de ancho x 1 m de largo c/u<br>(CONAF, 2013).<br>Se considera plantar 22 ejemplares con un espaciamiento de 2x2<br>metro.<br>Al efectuar la técnica de plantación manual, se debe tener<br>especial cuidado en la manipulación y tipo de plantas a utilizar<br>(CONAF, 2013):<br>- Se realizará la compra de árboles en viveros de la región de<br>Ñuble.<br>- La planta se debe sacar del contenedor procurando no romper<br>el molde de tierra que contiene las raíces de la planta, colocar la|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+|Compromisos Ambientales Voluntarios Ampliación planta recicladora de plásticos|Col2|
+|---|---|
+|||
+||planta en el hoyo de forma recta, en el centro del hoyo y a una<br>profundidad adecuada.<br>- Apisonar la tierra del hoyo de los bordes hacia el centro, borde<br>en la parte baja para facilitar la captación de agua.<br>- A cada planta se le incorporará un tutor o guía para crecimiento,<br>así como también será delimitada con una malla para evitar que<br>se dañe o sea comida por conejos.<br>Para la plantación de las especies se utilizará fertilizante NPK con<br>la finalidad de asegurar de manera eficiente la supervivencia y<br>crecimiento inicial acelerado de la planta garantizando una<br>ocupación óptima del suelo.<br>Se realizará control de Malezas en los sectores donde se realice<br>la plantación con árboles nativos:<br>- <br>Actividad que consiste en la eliminación y despeje de<br>malezas (pastos y matorrales) presentes en el área<br>cercana a la planta o a la plantación y que puede afectar<br>el crecimiento y desarrollo de éstas (CONAF, 2013). La<br>ejecución de esta medida se realizará de forma manual.<br>Se efectuarán inspecciones periódicas al sector plantado con el<br>objeto de asegurar que las plantas se desarrollen en forma normal<br>y/o detectar a tiempo, problemas que puedan afectar la<br>sobrevivencia de la plantación.<br>Los monitoreos se realizarán de forma periódica (semestral) con<br>la finalidad de determinar actividades o medidas para mejorar las<br>condiciones de la plantación, tales como:<br>• En los sectores en que se evidencie pérdida de plantas, se<br>efectuarán faenas de replante.<br>• Aplicación de fertilizante en plantas que evidencien problemas<br>de nutrientes.<br>• Control de malezas.<br>• Recambio de tutores y/o protectores individuales.<br>Los ejemplares que en la actualidad se encuentran plantados,<br>serán monitoreados bajo las mismas condiciones que los<br>individuos recién plantados.<br> <br>Oportunidad: La plantación será realizada después de la<br>primera lluvia de otoño una vez iniciada la fase de operación<br>del proyecto con RCA aprobada.<br>Los monitoreos o control de prendimiento de los ejemplares<br>plantados, serán realizados de manera semestral.<br>|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl
+
+|Compromisos Ambientales Voluntarios Ampliación planta recicladora de plásticos|Col2|
+|---|---|
+|||
+|Indicador que acredite su<br>cumplimiento<br>Reporte de la plantación efectuada y monitoreos, adjuntando<br>fotografías de la ejecución de las acciones.|Indicador que acredite su<br>cumplimiento<br>Reporte de la plantación efectuada y monitoreos, adjuntando<br>fotografías de la ejecución de las acciones.|
+|Forma<br>de<br>control<br>y <br>seguimiento<br>Se generará un informe semestral donde se presenten los<br>resultados de los monitoreos relacionados con el prendimiento<br>de los ejemplares, acciones de fertilización, replanteo de<br>individuos dañados, etc. El informe se entregará a la<br>Superintendencia del Medio Ambiente, conteniendo los<br>certificados de calibración del equipo utilizado.|Forma<br>de<br>control<br>y <br>seguimiento<br>Se generará un informe semestral donde se presenten los<br>resultados de los monitoreos relacionados con el prendimiento<br>de los ejemplares, acciones de fertilización, replanteo de<br>individuos dañados, etc. El informe se entregará a la<br>Superintendencia del Medio Ambiente, conteniendo los<br>certificados de calibración del equipo utilizado.|
+|Referencia para mayores<br>detalles sobre este impacto<br>específico|Anexo 20 de la Adenda|
+
+Gestión Ambiental y Proyectos de Ingeniería NatGREEN SpA.
+
+www.natgreen.cl - contacto@natgreen.cl

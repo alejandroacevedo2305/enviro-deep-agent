@@ -1,0 +1,110 @@
+---
+title: Sin título
+author: Catalina
+date: D:20150504171224-03'00'
+language: es
+type: general
+pages: 10
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ANEXO D ESTADO ACTUAL DE VÍAS EXTERNAS
+-->
+
+## ANEXO D ESTADO ACTUAL DE VÍAS EXTERNAS ADENDA N°1 DECLARACION DE IMPACTO AMBIENTAL “EL DESCANSO”
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+# ANEXO D ESTADO ACTUAL DE VÍAS EXTERNAS
+
+|Avenida El Descanso, calzada sur|Avenida El Descanso, calzada norte|
+|---|---|
+|<br>Ubicación: 336.647 E, 6.295.257 S|<br>Ubicación: 336.646 E, 6.295.270 S|
+|<br>Ubicación: 336.676 E 6.295.256 S|<br>Ubicación: 336.676 E 6.295.269 S|
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 1**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+|Avenida El Descanso, calzada sur|Avenida El Descanso, calzada norte|
+|---|---|
+|<br>Ubicación: 336.703 E 6.295.256 S|<br>Ubicación: 336.706 E 6.295.267 S|
+|<br>Ubicación: 336.737 E 6.295.256 S|<br>Ubicación: 336.776 E 6.295.264 S|
+|<br>Ubicación: 336.780 E 6.295.264 S|<br>Ubicación: 336.781 E 6.295.265 S|
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 2**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+|Avenida El Descanso, calzada sur|Avenida El Descanso, calzada norte|
+|---|---|
+|<br>Ubicación: 336.810 E 6.295.253 S|<br>Ubicación: 336.810 E 6.295.264 S|
+|<br>Ubicación: 336.839 E 6.295.260 S|<br>Ubicación: 336.832 E 6.295.262 S|
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 3**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 4**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 5**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 6**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 7**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 8**
+
+ANEXO D
+
+ESTADO ACTUAL DE VIAS EXTERNAS
+
+El DESCANSO
+
+Calzada norte
+
+P1500100- EMI 0 - MAYO 2015 INMOBILIARIA EL DESCANSO S.A **ANEXO D - 9**

@@ -1,0 +1,22 @@
+---
+title: L1
+author: Desconocido
+date: D:20160923114011
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|PROYECTO:<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>CONTENIDO:<br>3ODQRGH8ELFDFLyQ<br>/È0,1$ ESCALA: FECHA:<br>1 de 2 1 : 20000 Septiembre 2016<br>JEFE PROYECTO:<br>Jorge Castillo G.<br>INGENIERO PROYECTO:<br>Jorge Castillo G.<br>DIBUJO:<br>Jordan Fuenzalida S.<br>PROPIETARIO JEFE PROYECTO|Col2|Col3|Col4|
+|---|---|---|---|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ||||
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|PROYECTO:<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.|PROYECTO:<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.|PROYECTO:<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|CONTENIDO:<br>3ODQRGH8ELFDFLyQ|CONTENIDO:<br>3ODQRGH8ELFDFLyQ|CONTENIDO:<br>3ODQRGH8ELFDFLyQ|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|/È0,1$<br>1 de 2|ESCALA:<br>1 : 20000|FECHA:<br>Septiembre 2016|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|JEFE PROYECTO:<br>Jorge Castillo G.|JEFE PROYECTO:<br>Jorge Castillo G.|JEFE PROYECTO:<br>Jorge Castillo G.|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|INGENIERO PROYECTO:<br>Jorge Castillo G.|INGENIERO PROYECTO:<br>Jorge Castillo G.|INGENIERO PROYECTO:<br>Jorge Castillo G.|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|DIBUJO:<br>Jordan Fuenzalida S.|DIBUJO:<br>Jordan Fuenzalida S.|DIBUJO:<br>Jordan Fuenzalida S.|
+|ESCALA:<br>PROPIETARIO<br>/È0,1$<br>INGENIERO PROYECTO:<br>JEFE PROYECTO:<br>PROYECTO:<br>CONTENIDO:<br>JEFE PROYECTO<br>FECHA:<br>Jorge Castillo G.<br>1 de 2<br>&XHUSRVGHDJXDVXSHUILFLDOHQiUHDGH<br>influencia de Industria Champion S. A.<br>1 : 20000<br>Jorge Castillo G.<br>Septiembre 2016<br>DIBUJO:<br>Jordan Fuenzalida S.<br>3ODQRGH8ELFDFLyQ|PROPIETARIO<br>JEFE PROYECTO|PROPIETARIO<br>JEFE PROYECTO|PROPIETARIO<br>JEFE PROYECTO|

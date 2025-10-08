@@ -1,0 +1,17 @@
+---
+title: C:\Users\pgodoy\Documents\ARCHIVOS INMOBILIARIA\valle de olivos\regularizacion 2022\DIA 2022\comparativo RCA 303 y actual Model (1)
+author: pgodoy
+date: D:20230105110616-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|PLANTA ESQUEMATICA DETALLADA DE SUPERFICIES POR ZONAS|Col2|D2|
+|---|---|---|
+|ZONA DE EXTRACCION DE ACEITE|ZONA DE EXTRACCION DE ACEITE|ZONA DE EXTRACCION DE ACEITE|
+|SITUACION APROBADA EN RCA 303/2007|SITUACION ACTUAL<br>SOPORTE|SITUACION ACTUAL<br>SOPORTE|
+|AUMENTO DE SUPERFICIE = +168 m2|AUMENTO DE SUPERFICIE = +168 m2|AUMENTO DE SUPERFICIE = +168 m2|

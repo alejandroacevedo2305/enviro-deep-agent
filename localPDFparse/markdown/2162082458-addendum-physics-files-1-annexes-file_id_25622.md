@@ -1,0 +1,16 @@
+---
+title: D:\- OD\OneDrive - Sustentable s.a\-PRY\23-2-006 DIA DS 19 Lote XII, Cerrillos INGEVEC\09 AD1\Anexos\Anexo 8 Proyecto Paisaje\MLXII_Planta G
+author: Pamela Barahona
+date: D:20241231122101-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|ES|Col2|Col3|ZAG|ZAG|RA DOMINAL T.|MU - 02 U - 03 AP - 09 / - 04 ETT. T.|Col8|LIMITE I ABLES NNES, CUBRESUELOS|
+|---|---|---|---|---|---|---|---|---|
+|LAMINA<br> 06|ESCALA:|FECHA|VERSION|CODIGO PRO|TEP<br>Plano General Area de<br>Intervencion LOTE Z1 y Z2|CONTENIDO<br>ARQUITECTURA DEL PAISAJE<br>REPRESENTANTE LEGAL TEODORO FERNÁNDEZ ARQUITECTOS<br>RUT: 6.003.952.<br>TEODORO FERNÁNDEZ L.|REPRESENTANTE LEGAL FIA ARQUITECTOS<br>R.U.T.: 12.027.838-K<br>FRANCISCO IZQUIERDO E.<br>ARQUITECTOS|PROPIETARIO<br>R.U.T.: 61.812.000-7<br>REPRESENTANTE LEGAL 1<br>R.U.T.: 13.668.747-6<br>JORGE DAVAGNINO ROJAS<br>REPRESENTANTE LEGAL 2|
+|LAMINA<br> 06|INDICADAS|||YECTO|YECTO|YECTO|YECTO|YECTO|

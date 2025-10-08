@@ -1,0 +1,42 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20141117085735Z
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+||||||||855|
+|||||||||
+||||||||1290|
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+||||9600|9600|9600|9600|9600|
+||1290|890|||7420|7420|7420|
+
+|A<br>50 2300 50 2350 50 2350 50 2350 50<br>5050<br>855<br>1325<br>50 1290<br>1425<br>855<br>5050<br>9600<br>1290 890 7420<br>A<br>2900<br>2700<br>ELEVACION POSTERIOR ELEVACION ACCESO SECUNDARIO CORTE A-A|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**NOTAS**:|5(91|<br>FECHA|'(6&5,3&,Ï1|352<(&7Ï|GRUPO SAESA<br>PROPIETARIO|GRUPO SAESA<br>PROPIETARIO|GRUPO SAESA<br>PROPIETARIO||||PROYECTO<br>(67$1'$5,=$&,Ï1<br>,1*(1,(5Ë$22&&|
+|**NOTAS**:||||||||||||
+|**NOTAS**:||||||||||||
+|**NOTAS**:|||||$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|$UHD,QJHQLHUtDHQ2EUDV&LYLOHV\3UR\HFWRV(VSHFLDOHV|
+|**NOTAS**:||||||||||||
+|**NOTAS**:|||||ACTIVIDAD|NOMBRE<br>|FECHA|FECHA|FECHA|FECHA|SALA DE CONTROL TIPO A<br>ESTRUCTURAS DE PISO<br>ELEVACIONES Y CORTES<br>PLANO|
+|**NOTAS**:||||||||||||
+|**NOTAS**:|||||352<(&7|)(&+(9(55Ë$<br>Ï|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|
+|**NOTAS**:||||||||||||
+|**NOTAS**:|||||',%8-Ï|A. SEPULVEDA G.|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|
+|**NOTAS**:||||||||||||
+|**NOTAS**:||||||||||||
+|**NOTAS**:|||||5(9,6Ï|F. STUARDO A.|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|AGOSTO 2014|
+|**NOTAS**:||||||||||||
+|**NOTAS**:|||||$352%Ï|G. RIVERA SM.|AGOSTO 2014|ESCALA<br>1:50|5(9,6,Ï1<br>A|1'(3/$12<br>PLUZ-STD-S-H-CE-SC-PL-006|1'(3/$12<br>PLUZ-STD-S-H-CE-SC-PL-006|
+|**NOTAS**:|A|AG. 2014|(PLWLGRSDUDUHYLVLyQ|||||||||

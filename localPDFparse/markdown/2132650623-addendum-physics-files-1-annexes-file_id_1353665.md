@@ -1,0 +1,137 @@
+---
+title: Microsoft Word - Planes de emergencia y contingencia.docx.pdf
+author: Desconocido
+date: D:20180102195019Z00'00'
+language: unknown
+type: report
+pages: 19
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Derrame&de&Hormigón&en&Cuerpos&de&Agua!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Derrame!de!Hormigón!en!cuerpos!de!Agua;!<br>Dicha!situación!puede!generarse!por!motivos!de!<br>su!transporte!y!manejo!!|
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!<br>!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!tiene!<br>relación!con!la!exigencia!a!contratistas!y!<br>prestadores!de!servicios!tanto!de!todas!las!<br>exigencias!legales!de!su!competencia!así!como!<br>de!la!implememntación!de!medidas!de!<br>seguridad!necesaria!ante!emergencia!o!<br>contingencias.!Dicha!exigencia!se!amplia!a!la!<br>totalidad!de!su!participación!en!el!proyecto.!<br>!|
+|Forma!de!control!y!seguimiento!|El!supervisor!de!la!cuadrilla!de!emergencia!<br>generará!registró!visual!del!proceso!de!control!<br>de!la!emergencia,!verificándo!de!igual!modo!<br>que!ésta!se!desarrolle!conforme!a!lo!<br>establecido.!|
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!<br>la!descripción!detallada!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias!ambientales”,!ítem!9!<br>”Procedimientos!frente!a!Emergencias”;!<br>subítem!9.1!“Instrucciones!al!detectarse!un!<br>derrame”!y!9.2!“Derrame!de!hormigón!en!<br>cuerpos!de!agua”!|
+|Acciones!o!medida!a!implementar!para!<br>controlar!la!emergencia!|Al!momento!que!se!presente!el!acontecimiento!<br>se!deberán!tomar!las!siguientes!medidas:!<br>VInformar!al!Jefe!de!Obra,!quien!evaluará!la!<br>situación.!<br>VEl!Jefe!de!Obra!comunicará!la!alerta!a!la!<br>cuadrilla!de!emergencia!correspondiente!(CE1,!|
+
+|Col1|CE2!o!CE3),!dependiendo!de!la!cantidad!<br>derramada.!!<br>VSe!deberá!cercar!el!área!e!ingresará!a!esta!sólo!<br>el!Jefe!de!Terreno,!Supervisor!involucrado,!<br>Prevencionista!y/o!Encargado!Ambiental!y!el!<br>personal!que!conforma!la!cuadrilla!de!<br>emergencia.!<br>VSe!deberá!contener!el!derrame,!retirando!de!<br>forma!inmediata!la!mayor!cantidad!posible!de!<br>hormigón!de!los!cuerpos!de!agua,!de!lo!<br>contrario!se!deberá!delimitar!el!perímetro!<br>afectado!con!material!proveniente!de!<br>excavaciones!u!otro!que!impida!la!dispersión!de!<br>este.!!<br>VPara!esto,!los!jornales!deberán!acumular!el!<br>material!a!orillas!del!cuerpo!de!agua!con!palas,!<br>para!un!posterior!retiro!hacia!botaderos.!!<br>VPor!su!parte,!la!excavadora,!apoyará!esta!labor!<br>retirando!material!y!trasladándolo!a!botaderos!<br>autorizados.!<br>V!La!verificación!del!cumplimiento!será!el!<br>registro!en!bitácora!de!terreno!de!la!situación!<br>ocurrida!y!de!cada!una!de!las!medidas!<br>adoptadas.!!<br>!|
+|---|---|
+|Oportunidad!y!vías!de!comunicación!a!<br>la!SMA!de!la!activación!del!Plan!|La!activación!del!plan!será!comunicado!a!través!<br>de!oficina!de!partes!a!mas!tardar!cinco!días!<br>hábiles!posterior!a!la!detección!del!evento!<br>cuando!este!cumpla!la!condición!de!grado!3!<br>indicado!en!el!plan!señalado.!|
+
+|Derrame&de&Combustibles&y/o&Aceites!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Derrame!de!combustibles!y/o!aceites;!por!fugas!<br>o!fallas!inesperadas!en!los!sistemas!hidráulicos!<br>de!camiones!y!maquinaras,!vehículos!livianos,!<br>grupos!generadores,!entre!otros,!o!producto!de!<br>un!volcamiento!del!camión!abastecedor!de!<br>combustible!en!las!instalaciones!de!la!obra.!|
+
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|---|---|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!tiene!<br>relación!con!la!exigencia!a!contratistas!y!<br>prestadores!de!servicios!tanto!de!todas!las!<br>medidas!de!seguridad!necesarias!como!de!las!<br>exigencias!legales!sobre!el!manejo!y!<br>mantención!de!los!equipos!y!maquinarias!con!<br>los!que!se!presten!servicios!en!obra.!Dicha!<br>exigencia!se!amplia!a!la!totalidad!de!su!<br>participación!en!el!proyecto.!|
+|Forma!de!control!y!seguimiento!|El!supervisor!de!la!cuadrilla!de!emergencia!<br>generará!registró!visual!del!proceso!de!control!<br>de!la!emergencia,!verificándo!de!igual!modo!<br>que!ésta!se!desarrolle!conforme!a!lo!<br>establecido.!El!seguimiento!se!realizará!en!la!<br>verificación!de!cumplimiento!del!total!de!<br>activiades!posteriores!al!evento,!desde!su!<br>origen!hasta!su!total!control,!manejo!y!<br>comunicaciones!correspondientes.!|
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!<br>la!descripción!detallada!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias!ambientales”,!ítem!9!<br>”Procedimientos!frente!a!Emergencias”;!<br>subítem!9.1!“Instrucciones!al!detectarse!un!<br>derrame”,!9.3!“Derrame!de!combustibles!y/o!<br>aceites”,!9.3.1!“Instrucciones!al!detectarse!un!<br>derrame”,!9.3.2!“Derrames!en!cursos!de!agua”,!<br>9.3.3!“Derrames!en!el!suelo”!|
+|Acciones!o!medida!a!implementar!para!<br>controlar!la!emergencia!|Al!momento!que!se!presente!el!acontecimiento!<br>se!deberán!tomar!las!siguientes!medidas:!<br>VInformar!al!Jefe!de!Obra,!quien!evaluará!la!<br>situación.!<br>VEl!Jefe!de!Obra!comunicará!la!alerta!a!la!<br>cuadrilla!de!emergencia!correspondiente!(CE1,!<br>CE2!o!CE3),!dependiendo!de!la!cantidad!<br>derramada.!!<br>VSe!deberá!cercar!el!área!e!ingresará!a!esta!sólo!|
+
+|Col1|plásticas!y!luego!en!contenedores!metálicos!<br>para!su!posterior!disposición!final.!|
+|---|---|
+|Oportunidad!y!vías!de!comunicación!a!<br>la!SMA!de!la!activación!del!Plan!|La!activación!del!plan!será!!comunicado!a!través!<br>de!oficina!de!partes!a!mas!tardar!cinco!días!<br>hábiles!posterior!a!la!detección!del!evento.!|
+
+|Alteración&de&los&servicios&básicos&de&la&comunidad!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Alteración!de!los!servicios!básicos!de!la!<br>comunidad;!Incidentes!producidos!debido!al!<br>tránsito!o!trabajos!de!camiones!y!maquinaria!<br>pesada!cerca!de!sitios!poblados!pudiendo!<br>afectar!los!suministros!básicos!de!la!comunidad.!!|
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!tiene!<br>relación!con!la!exigencia!a!contratistas!y!<br>prestadores!de!servicios!tanto!de!todas!las!<br>medidas!de!seguridad!y!planificación!previa!<br>necesarias!de!los!trabajos!a!realizar,!así!como!<br>de!las!exigencias!legales!sobre!el!manejo!y!<br>mantención!de!los!equipos!y!maquinarias!con!<br>los!que!se!presten!servicios!en!obra.!Dicha!<br>exigencia!se!amplia!a!la!totalidad!de!su!<br>participación!en!el!proyecto.!|
+|Forma!de!control!y!seguimiento!|El!supervisor!de!la!cuadrilla!de!emergencia!<br>generará!registró!visual!del!proceso!de!control!<br>de!la!emergencia,!verificándo!que!ésta!se!<br>desarrolle!conforme!a!lo!establecido.!El!<br>seguimiento!se!realizará!en!la!verificación!de!<br>cumplimiento!del!total!de!activiades!posteriores!<br>al!evento,!desde!su!origen!hasta!su!total!<br>control,!manejo!y!comunicaciones!<br>correspondientes.!|
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias!ambientales”,!ítem!9!<br>”Procedimientos!frente!a!Emergencias”;!|
+
+|la!descripción!detallada!|subítem!9.3.4!“Alteración!de!los!servicios!<br>básicos!de!la!comunidad”!!|
+|---|---|
+|Acciones!o!medida!a!implementar!para!<br>controlar!la!emergencia!|Incidente!respecto!a!corte!del!tendido!eléctrico:!<br>VSe!deberá!aislar!los!cables!que!estén!tendidos!<br>en!el!suelo!para!evitar!riesgos!de!electrocución!<br>del!personal!o!habitantes!del!sector.!<br>VSe!deberá!contactar!lo!antes!posible!a!la!<br>compañía!eléctrica!del!sector!para!la!reposición!<br>del!suministro.!<br>Incidente!respecto!a!rotura!de!cañerías!de!agua!<br>potable!y/o!alcantarillado:!<br>VSe!deberá!dar!aviso!a!la!empresa!Servicios!<br>Sanitarios!del!sector!y!gestionar!las!<br>reparaciones!que!se!tengan!que!realizar.!<br>VEn!caso!de!que!esta!situación!no!pueda!ser!<br>resuelta!de!forma!inmediata!y!requiera!de!un!<br>tiempo!mayor!a!24!horas!se!deberá!proveer!de!<br>los!servicios!básicos!(baños!y!agua!potable)!a!la!<br>población!afectada.!<br>Incidente!respecto!a!rotura!de!matriz!de!gas:!<br>VSe!deberá!dar!aviso!a!Bomberos!quienes!<br>liderarán!las!acciones!que!se!deben!tomar.!<br>VDe!ser!necesario!se!deberá!evacuar!un!<br>perímetro!según!lo!establecido!por!Bomberos.!<br>VEn!forma!paralela!a!esto!se!deberá!dar!aviso!a!<br>la!empresa!que!da!el!suministro!de!gas!al!sector!<br>para!que!reparen!el!ducto.!|
+|Oportunidad!y!vías!de!comunicación!a!<br>la!SMA!de!la!activación!del!Plan!|La!activación!del!plan!generará!comunicado!a!<br>mas!tardar!24!horas!de!ocurrido!el!evento,!asi!<br>como!un!reporte!por!oficina!de!partes!a!mas!<br>tardar!una!semana!despues!de!solucionada!la!<br>emergencia.!|
+
+|Incendio!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Incendio;!Incidentes!producido!debido!al!<br>manejo!de!equipos,!maquinarias!y!sustancias!|
+
+|Col1|con!características!de!inflamabilidad!|
+|---|---|
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!tiene!<br>relación!con!la!exigencia!a!contratistas!y!<br>prestadores!de!servicios!tanto!de!todas!las!<br>medidas!de!seguridad!y!planificación!previa!<br>necesarias!de!los!trabajos!a!realizar,!así!como!<br>de!la!mantención!de!maquinarias!y!equipos!y!la!<br>correcta!clasificación!y!manejo!de!sustancias!y!<br>residuos!con!características!de!peligrosidad.!<br>VSerá!necesario!mantener!operativos!equipos!y!<br>sistemas!contra!incendios.!<br>VMantenerse!debidamente!instruido!en!la!<br>ubicación!y!uso!de!equipos!contra!incendios.!<br>VMantener!despejadas!las!vías!de!evacuación.!<br>VConocer!las!zonas!de!seguridad!y!puntos!de!<br>encuentro.**!**<br>El!Jefe!de!obra!debe!mantener!un!catastro!al!<br>día!y!manejar!las!buenas!condiciones!de!<br>almacenamiento,!orden!y!limpieza!de!la!bodega!<br>de!inflamables!y!el!stock!de!los!productos!que!<br>se!encuentren!en!estas!con!hojas!de!seguridad!<br>cuando!corresponda.!|
+|Forma!de!control!y!seguimiento!|El!supervisor!de!la!cuadrilla!de!emergencia!<br>generará!registró!visual!del!proceso!de!control!<br>de!la!emergencia,!así!como!del!sitio!de!forma!<br>posterior!a!su!control,!verificándo!que!tanto!la!<br>emergencia!como!el!manejo!de!las!condiciones!<br>posteriores!se!desarrollen!conforme!a!lo!<br>establecido.!El!seguimiento!se!realizará!en!la!<br>verificación!de!cumplimiento!del!total!de!<br>activiades!posteriores!al!evento,!desde!su!<br>origen!hasta!su!total!control,!manejo!y!<br>comunicaciones!correspondientes.!|
+
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!<br>la!descripción!detallada!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias!ambientales”,!ítem!9!<br>”Procedimientos!frente!a!Emergencias”;!<br>subítem!9.3.6!“Incendios”.!Y!“Plan!de!<br>contingencias!y!emergencias”,!ítem!8.12.1!<br>“Frente!a!un!incendio”!<br>!|
+|---|---|
+|Acciones!o!medida!a!implementar!para!<br>controlar!la!emergencia!|VEn!caso!de!detectar!humo!o!llama,!se!dará!un!<br>aviso!de!alerta!de!emergencia!a!viva!voz!y/o!por!<br>el!medio!de!comunicación!más!cercano!<br>(teléfono,!radio,!etc.).!!<br>VEn!caso!de!escuchar!la!alerta!de!incendio,!<br>dirigirse!con!extintor!rápido!al!sitio!del!amago.!<br>Recuerde!que!los!extintores!portátiles!sólo!<br>deben!ser!utilizados!para!controlar!amagos!y!no!<br>incendios!declarados.!!<br>VEn!caso!de!advertir!que!el!siniestro!no!puede!<br>ser!controlado!con!los!medios!disponibles!en!<br>obra,!se!llamará!inmediatamente!a!bomberos,!<br>evacuando!el!lugar!afectado!y!dando!una!<br>alarma!general!para!evacuar!si!corresponde.!<br>VCortar!la!energía!eléctrica!y!los!suministros!de!<br>gas!o!combustible!líquido!<br>V!Si!la!atmósfera!es!demasiado!densa,!por!el!<br>humo!y!los!gases,!debe!cubrir!su!nariz!y!boca!<br>con!un!paño!mojado!y!considerar!que!más!<br>cerca!del!piso!encontrara!una!atmósfera!más!<br>tolerable!(avance!agachado).!<br>VSi!se!dio!inicio!a!la!evacuación!nadie!se!<br>devolverá!por!ningún!motivo,!debiendo!guiar!a!<br>personal!nuevo!o!visitas.!!<br>VProducto!de!un!amago!o!de!un!incendio!es!<br>posible!que!se!generen!residuos!inertes!<br>(cenizas,!escombros,!restos!de!madera,!otros)!y!<br>residuos!peligrosos!(material!contaminado!con!<br>aceite!o!combustible!u!otros).!!<br>VEstos!residuos!deben!ser!almacenados!y!<br>dispuestos!adecuadamente.!Una!vez!controlada!<br>la!emergencia,!las!acciones!de!mitigación!a!|
+
+|Col1|implementar!por!la!cuadrilla!son:!<br>VAislar!la!zona!que!contenga!los!residuos.!!!<br>VSi!se!generan!residuos!inertes!(cenizas,!<br>escombros)!éstos!deben!ser!apilados!en!el!<br>menor!tiempo!posible!en!forma!ordenada!en!un!<br>sector!con!acceso!restringido!designado!por!el!<br>Experto!en!Prevención!de!Riesgos!de!Faena!<br>hasta!su!disposición!final.!<br>VSi!se!generan!residuos!peligrosos!(material!<br>contaminado!con!aceite!o!combustible)!éstos!<br>deben!ser!almacenados!en!tambores!de!<br>almacenamiento.!!<br>VLos!tambores!deberán!permanecer!tapados!y!<br>rotulados!indicando!claramente!su!contenido,!<br>fecha!de!generación!y!lugar!de!origen.!<br>VAlmacenar!los!tambores!con!residuos!<br>peligrosos!en!la!bodega!de!almacenamiento!<br>temporal!de!residuos!peligrosos.!<br>VUna!vez!controlado!el!incendio,!se!deberá!<br>preparar!un!informe!sobre!el!accidente!y!se!<br>comunicara.!|
+|---|---|
+|Oportunidad!y!vías!de!comunicación!a!<br>la!SMA!de!la!activación!del!Plan!|Una!vez!controlado!el!incendio!se!preparará!un!<br>reporte!!para!ser!comunicado!a!mas!tardar!en!5!<br>días!hábiles!por!oficina!de!partes.!!|
+
+|Explosión!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Explosión;!Situación!por!motivo!de!manejo!de!<br>sustancias!y!equipos,!así!como!por!las!propias!<br>instalaciones!en!las!viviendas.!|
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!tiene!<br>relación!con!la!exigencia!a!contratistas!y!<br>prestadores!de!servicios!tanto!de!todas!las!|
+
+|Col1|medidas!de!seguridad!y!planificación!previa!<br>necesarias!de!los!trabajos!a!realizar.!De!igual!<br>modo!se!exigirá!total!y!riguroso!cumplimiento!a!<br>las!medidas!de!verificación!de!instalaciones!de!<br>gas!del!proyecto.!|
+|---|---|
+|Forma!de!control!y!seguimiento!|En!el!caso!de!producirse!una!explosión,!la!<br>cuadrilla!de!emergencia!generará!registró!visual!<br>del!proceso!de!control,!así!como!del!sitio!en!<br>cuestión,!verificando!de!igual!modo!que!no!<br>existan!nuevos!riesgos!similares.!El!seguimiento!<br>se!realizará!en!la!verificación!de!cumplimiento!<br>del!total!de!activiades!posteriores!al!evento,!<br>desde!su!origen!hasta!su!total!control,!manejo!y!<br>comunicaciones!correspondientes.!|
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!<br>la!descripción!detallada!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias!ambientales”,!ítem!9!<br>”Procedimientos!frente!a!Emergencias”;!<br>subítem!9.3.7!“Explosión”!!|
+|Acciones!o!medida!a!implementar!para!<br>controlar!la!emergencia!|VSe!deberá!suspender!inmediatamente!lo!que!<br>está!haciendo,!sin!ninguna!disculpa!ni!<br>resistencia.!!<br>VGuardar!información!clave,!valores!y!similares,!<br>siempre!y!cuando!esa!acción!no!le!tome!más!de!<br>unos!pocos!segundos.!!<br>VApagar!y!en!lo!posible!desconectar!equipos,!<br>siempre!y!cuando!esa!acción!no!le!tome!más!de!<br>unos!pocos!segundos.!!<br>VOrganizarse!con!las!personas!presentes!en!el!<br>mismo!lugar!<br>VVerificar!la!presencia!de!todos,!!<br>VCoordinar!el!apoyo!físico!de!las!personas!con!<br>dificultades!de!desplazamiento!y/o!necesidades!<br>especiales,!!<br>VRecordar!las!rutas,!vías!de!evacuación!y!<br>ponerse!bajo!el!mando!de!los!coordinadores!y!<br>brigadistas!de!emergencias.!|
+|Oportunidad!y!vías!de!comunicación!a!|Una!vez!finalizada!la!!investigación!se!preparará!<br>un!reporte!!para!ser!comunicado!a!mas!tardar!|
+
+|Accidentes&individuales&y/o&colectivos!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Accidentes!individuales!y/o!colectivo;!<br>dependiendo!de!la!gravedad!del!accidentado!se!<br>deberán!tomas!las!medidas!que!a!continuación!<br>se!presentan.!|
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!se!<br>relacional!al!cumplimiento!de!los!<br>procedimientos!de!trabajo!definidos!para!cada!<br>uno!de!las!tareas,!así!como!el!permanente!y!<br>correcto!uso!de!los!elementos!de!protección!<br>personal!para!una!de!las!actividades.!|
+|Forma!de!control!y!seguimiento!|Total!registro!y!seguimiento!de!las!posibles!<br>situaciones!en!obra!que!gneren!accidentes,!asi!<br>como!de!su!atención!en!faena!o!derivación!a!la!<br>mutualidad!según!corresponda.!|
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!<br>la!descripción!detallada!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias”,!ítem!8.11!”Actuación!frente!a!<br>emergencias!e!incidentes”;!subítem!8.11!<br>“Actuación!frente!a!emergencias!de!incidentes”!!|
+|Acciones!o!medida!a!implementar!para!<br>controlar!la!emergencia!|**-**Lesiones!Leves;**!**En!este!caso!se!debe!prestar!<br>atención!en!la!Sala!de!Primeros!Auxilios!en!<br>instalación!de!faenas!donde!se!cuenta!con!!<br>implementación!para!tales!efectos,!informando!!<br>al!Jefe!Zonal!o!Área!y!dependiendo!de!la!<br>evaluación!realizada!por!la!persona!capacitada!<br>en!Primeros!Auxilios!y!autorizado!por!el!Jefe!<br>Zonal!!o!Área,!se!enviará!!Mutual!de!Seguridad.!<br>Lesiones!de!Mediana!Gravedad;!En!este!caso!el!<br>accidentado!!deberá!recibir!la!primera!atención!<br>por!la!persona!capacitada!en!Primeros!Auxilios!<br>de!obra,!ya!sea!en!Sala!de!Primeros!Auxilios!o!|
+
+|Col1|de!Riesgos!de!Obra!denunciar!el!accidente!en!el!<br>formulario!de!Denuncia!Individual!de!Accidente!<br>del!Trabajo!(DIAT),!ante!el!respectivo!organismo!<br>administrador,!así!como!tampoco!lo!exime!de!la!<br>obligación!de!adoptar!todas!las!medidas!que!<br>sean!necesarias!para!proteger!eficazmente!la!<br>integridad!física!y!salud!de!todos!los!<br>trabajadores,!frente!a!la!ocurrencia!de!<br>cualquier!accidente!del!trabajo.!<br>!<br>VEl!Experto!Prevención!de!Riesgos!de!Obra!debe$<br>preparar$Carpeta$con$antecedentes$legales$de$<br>los$afectados$con:$<br>2Contrato$de$Trabajo$<br>2Charla$Inducción$<br>2Entrega$Reg.$IOHS$<br>VEntrega!EPP!<br>VCharlas!Específicas!<br>VCapacitación!Mutual!<br>En!el!caso!que!sea!Subcontrato,!Experto!<br>Prevención!de!Riesgos!de!Obra!debe!anexar!<br>todos!los!documentos!del!registro!(archivador)!<br>de!cada!subcontrato!en!faena.!<br>El!Prevencionista!de!Faena!será!la!persona!<br>quien!dirigirá!las!acciones!en!caso!de!ocurrida!<br>una!emergencia!(por!ejemplo!se!preocupará!<br>por!el!traslado!y!acompañará!al!lesionado!al!<br>Policlínico!de!Mutual!de!Seguridad!u!a!otra!<br>instancia!mayor!si!el!caso!lo!amerita).!En!caso!<br>de!no!encontrarse!el!Prevencionistas!de!Faena,!<br>el!Profesional!de!Terreno!y/o!!Profesional!<br>Residente!se!encargarán!de!coordinar!las!<br>maniobras!en!caso!de!ocurrida!una!emergencia.!|
+|---|---|
+|Oportunidad!y!vías!de!comunicación!a!<br>la!SMA!de!la!activación!del!Plan!|Una!vez!finalizada!la!!investigación!se!preparará!<br>un!reporte!!para!ser!comunicado!a!mas!tardar!<br>en!5!días!hábiles!por!oficina!de!partes!en!el!caso!<br>que!la!situación!presente!implicancias!<br>ambientales.!!|
+
+|Sismo!|Col2|
+|---|---|
+|**Riesgo!o!Contingencia!**|Sismo;!Situación!natural!ocurrida!de!forma!<br>impredecible.!|
+|Fase!del!proyecto!a!la!que!aplica!|Construcción!|
+|Emplazamiento,!parte,!obra!o!acción!<br>Asociada!|Dicha!situación!se!genera!en!la!fase!de!<br>construcción!de!viviendas,!las!que!se!presentan!<br>distribuidas!en!7!etapas!consecutivas!en!un!<br>plazo!de!60!meses.!!|
+|Acciones!o!medidas!a!implementar!para!<br>prevenir!la!contingencia!|El!control!que!permita!disminuir!el!riesgo!tiene!<br>relación!con!la!sujeción!de!materiales!que!<br>puedan!afectar!la!integridad!de!las!personas,!<br>considerando!asegurar!siempre!objetos!<br>pesados!que!puedan!caer!desde!altura,!sacar!<br>objetos!que!puedan!caer!de!altura,!sacar!<br>objetos!que!al!caer!puedan!obstruir!pasillos,!<br>anclar!a!los!muros!muebles!que!puedan!<br>tumbarse,!determinar!el!lugar!más!seguro!y!<br>adecuado!para!protegernos,!determinar!zona!<br>de!seguridad!externa!al!recinto!|
+|Forma!de!control!y!seguimiento!|Mantener!la!calma,!desconectar!o!apagar!<br>artefactos!encendidos,!eléctricos!o!de!gas,!<br>permanecer!bajo!vigas,!pilares!o!lugares!de!<br>seguridad!preestablecidos,!mantenerse!aparte!<br>de!ventanales!o!puertas!de!vidrio,!si!ya!está!en!<br>el!exterior!aléjese!de!murallas!altas,!postes!de!<br>alumbrado!eléctrico!y!árboles!altos,!si!usted!se!<br>encuentra!en!un!andamio,!ingresar!<br>inmediatamente!dentro!de!la!edificación,!si!el!<br>sismo!se!presenta!como!terremoto!trate!de!<br>ubicarse!al!lado!(no!por!debajo)!de!una!mesa!<br>por!ejemplo,!no!salga!corriendo!de!las!<br>instalaciones!|
+|Referencia!a!documentos!del!<br>expediente!de!evaluación!que!contenga!<br>la!descripción!detallada!|Anexo!N°14!de!la!DIA!“Plan!de!contingencias!y!<br>emergencias”,!ítem!8.12!“Actuación!frente!a!<br>emergencias!de!seguridad”;!subítem!8.12.2!<br>“Frente!a!un!sismo”!!|
+|Acciones!o!medida!a!implementar!para!|Evacuar!solo!si!así!se!dispone!de!vías!seguras,!<br>Ayude!a!personas!que!tengan!alguna!dificultad!<br>de!movilidad,!No!regresar!hasta!que!se!|
+
+|controlar!la!emergencia!|autorice,!Verificar!focos!de!incendios,!escapes!<br>de!gas!o!fallas!eléctricas,!Realice!solo!llamados!<br>telefónicos!indispensables,!Ante!el!aviso!de!<br>evacuación!del!recinto!siga!las!instrucciones:!<br>salga!con!paso!rápido,!por!las!vías!de!<br>evacuación!señaladas!(no!corra)!hasta!la!zona!<br>de!seguridad!preestablecida,!sirva!de!guía!a!<br>visitas.!|
+|---|---|
+|Oportunidad!y!vías!de!comunicación!a!<br>la!SMA!de!la!activación!del!Plan!|Una!vez!finalizada!la!!investigación!se!preparará!<br>un!reporte!!para!ser!comunicado!a!mas!tardar!<br>en!5!días!hábiles!por!oficina!de!partes.!!|
+
+|“Informe!Preliminar!de!Emergencias!y/o!Contingencias”!deberá!ser!entregado!a!la!SMA!en!un!<br>plazo!no!superior!a!48!horas!de!ocurrido!el!evento.!Dicho!informe!deberá!considerar!a!lo!menos!<br>lo!siguiente!|Col2|
+|---|---|
+|Antecedentes! relativos! al! evento! o! accidente!<br>(tipo! y! causa;! fecha;! hora;! sustancia,! residuo,!<br>emisiones! al! aire! u! otra! relacionada! con! la!<br>contingencia;!duración!del!evento;!acciones!de!<br>control!ejecutadas;!personas!afectadas,!etc.).!<br>**!**|!|
+|La! identificación! del! área! afectada! y! su!<br>extensión! (suelo,! subsuelo,! curso! de! agua! y/o!<br>aire).!<br>!|!|
+|La!identificación!y!explicación!de!la(s)!posible(s)!<br>técnicas(s)!<br>y/o!<br>acción(es)!<br>que!<br>se!<br>implementaron! para! limpiar! el! o! los! recursos!<br>naturales! que! hayan! sido! afectados! (suelo,!<br>agua,!ecosistemas!y!especies).!<br>!|!|
+|Un!protocolo!aplicable!al!manejo!proyectado!de!<br>los!residuos!sólidos!(peligrosos!y!no!peligrosos)!<br>generados! en! el! marco! de! una! contingencia!<br>como!<br>posibles!<br>derrames!<br>de!<br>sustancias!<br>peligrosas!u!otra,!el!cual!deberá!considerar!las!<br>directrices!normativas!aplicables!a!esta!materia.!<br>!|!|
+
+|Medida&Frente&eventuales!afloramientos!de!aguas!durante!la!fase!de!construcción!del!Proyecto,!<br>se!deberá!dar!aviso!inmediato!a!la!DGA!y!la!SMA,!en!un!plazo!menor!a!24!horas!|Col2|
+|---|---|
+|Verificar!la!calidad!del!agua!mediante!toma!de!<br>muestras! a! través! de! laboratorio! acreditado,!<br>que! asegure! que! la! calidad! de! las! aguas! a! ser!<br>gestionadas! (dispuestas),! es! de! similar! calidad!<br>natural! a! la! de! las! aguas! de! la! fuente! donde!<br>corresponda!su!disposición!final.**!**|!|
+|Efectuar! pruebas! hidráulicas! para! determinar!<br>los!<br>volúmenes!<br>y!<br>caudales!<br>de!<br>agua!<br>comprometidos,! a! fin! que! esto! además! le!<br>permita! al! Titular! diseñar! las! medidas! para! el!<br>control! de! la! estabilidad! de! los! taludes! en! el!<br>sector!del!afloramiento.!|!|
+|Enviar! de! inmediato! los! resultados! de! los!<br>análisis! químicos! y! pruebas! hidráulicas! a! la!<br>SMA,!en!un!informe!que!detalle!los!hechos.!A!<br>su! vez,! se! solicita! al! Titular! acompañar!<br>fotografías!<br>(con!<br>fecha),!<br>describir!<br>los!<br>procedimientos!<br>seguidos!<br>y!<br>el!<br>análisis!<br>y!<br>discusión! de! los! resultados! respecto! de! la!<br>calidad!(parámetros!de!la!NCh!409),!volúmenes!<br>y!<br>caudales,!<br>así!<br>como!<br>las!<br>respectivas!<br>conclusiones!y!recomendaciones!para!la!gestión!<br>de!dichas!aguas!(disposición!final).!|!|
+|Una! vez! comprobada! la! naturaleza! de! la!<br>situación! acaecida,! mediante! los! ensayos! y!<br>mediciones! solicitados,! se! analizará! la! medida!<br>de! gestión! definitiva! en! conjunto! con! la!<br>Autoridad!|!|
+|Si! el! afloramiento! de! aguas! responde! a! un!<br>escenario!permanente,!el!Titular!deberá!incurrir!<br>en! los! estudios! suficientes! y! necesarios! que!<br>permitan!determinar!la!posibilidad!de!alcanzar!<br>una!solución!definitiva.!|!|
+
+|Descripción!del!accidente,!lugar,!identificación!<br>de!la!sustancia,!área!de!influencia,!duración!y!<br>magnitud!del!evento!y!principales!impactos!<br>ambientales!|!|
+|---|---|
+|Detalles!de!cada!acción!y!medidas!utilizadas!<br>durante!el!evento!de!contaminación.!<br>!|!|
+|Evaluación!de!los!efectos!sobre!los!recursos!<br>hídricos!superficiales!y/o!subterráneos!<br>afectados!y!su!medio!ambiente!asociado!y!<br>resultados!de!los!monitoreos!inmediatos!en!el!<br>área!de!influencia.!|!|
+|Programa!de!Medidas!de!Descontaminación!de!<br>la!zona,!metodología,!y!evaluación!de!la!<br>efectividad!de!las!medidas,!para!ser!aprobado!<br>por!la!Autoridad.!<br>!|!|

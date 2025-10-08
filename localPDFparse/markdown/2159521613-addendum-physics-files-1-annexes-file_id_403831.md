@@ -1,0 +1,19 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20231020135706-04
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|PROYECTO/TITULO: NOTAS: 1.- COORDENADAS, ELEVACIONES Y DIMENSIONES EN METROS (S.I.C.). 2.- SISTEMA DE REFERENCIA WGS84, HUSO 19 SUR, PROYECCIÓN UTM.|Col2|Col3|Col4|
+|---|---|---|---|
+|PROYECTO/TITULO:<br>**"LOCALIZACIÓN DE ORGANIZACIONES INDÍGENAS**<br>**DE LAS COMUNAS DE LA SERENA, COQUIMBO Y VICUÑA"**<br>|PROYECTO/TITULO:<br>**"LOCALIZACIÓN DE ORGANIZACIONES INDÍGENAS**<br>**DE LAS COMUNAS DE LA SERENA, COQUIMBO Y VICUÑA"**<br>|PROYECTO/TITULO:<br>**"LOCALIZACIÓN DE ORGANIZACIONES INDÍGENAS**<br>**DE LAS COMUNAS DE LA SERENA, COQUIMBO Y VICUÑA"**<br>|PROYECTO/TITULO:<br>**"LOCALIZACIÓN DE ORGANIZACIONES INDÍGENAS**<br>**DE LAS COMUNAS DE LA SERENA, COQUIMBO Y VICUÑA"**<br>|
+||~~ESCALA: 1:280.00~~|~~REV B~~<br><br><br>~~0~~|~~ARCH 1 DE 1~~<br><br>|
+||~~DISEÑÓ~~<br><br><br>~~M.M.~~<br><br>|~~OCT 2023~~<br><br>|~~LÁMINA N°1~~|
+||~~DIBUJÓ~~<br><br>~~PR.~~<br>|~~OCT 2023~~<br>|~~**C2203**~~|
+||~~REVISÓ~~<br>~~C.O.~~|~~OCT 2023~~|~~OCT 2023~~|

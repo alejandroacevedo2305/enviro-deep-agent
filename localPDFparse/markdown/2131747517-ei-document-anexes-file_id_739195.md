@@ -1,0 +1,263 @@
+---
+title: Microsoft Word - Bodega.3 Sta Marta
+author: Eduardo Reid
+date: D:20160302195824
+language: en
+type: general
+pages: 5
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+```
+AFFF Bodega.3 Sta. Marta 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ SYSTEM ANALYSIS TO SHOW MAXIMUM FLOW
+
+ WITH ZERO PRESSURE REMAINING
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ THE FOLLOWING SPRINKLERS ARE OPERATING IN:
+ [ ] TEST AREA 1 [ ] TEST AREA 2 [ ] TEST AREA 3 [ ] REMOTE AREA
+
+ Elevation of sprinklers = Elevation above water test.
+
+ REF. PT. K ELEV. FLOW PRESSURE
+
+101 16.79 33.55 131.29 61.13
+
+102 16.79 33.55 130.23 60.16
+
+103 16.79 33.55 130.00 59.94
+
+104 16.79 30.26 133.99 63.68
+
+105 16.79 30.26 132.63 62.39
+
+106 16.79 30.26 132.52 62.29
+
+107 16.79 30.26 132.11 61.90
+
+108 16.79 30.26 131.82 61.63
+
+109 16.79 30.26 131.75 61.56
+
+ THE SPRINKLER SYSTEM FLOW IS 1186.34 gpm
+ THE OUTSIDE HOSE FLOW AT REFERENCE POINT N0. 1 IS 0.00 gpm
+ [ ] THE INSIDE HOSE [ ] RACK SPKLR'S.
+ [ ] YARD HYDT. FLOW IS 0.00 gpm
+
+ THE FOLLOWING PRESSURES & FLOWS OCCUR
+
+ ---> AT REF. PT. 1 <--
+ STATIC PRESSURE 120.00 psi
+ RESIDUAL PRESSURE 119.00 psi AT 1500.00 gpm
+ TOTAL SYSTEM FLOW 1186.34 gpm
+ AVAILABLE PRESSURE 118.63 psi AT 1186.34 gpm
+ OPERATING PRESSURE 83.89 psi AT 1186.34 gpm
+ PRESSURE REMAINING 34.74 psi
+
+```
+
+```
+AFFF Bodega.3 Sta. Marta 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ FITTING Equivalent Length per NFPA 13 2006, 14.43.1.1
+'-' Indicates Equivalent Length. 'T' Indicates Threaded Fitting
+1=45 Elbow, 2=90 Elbow, 3='T'/Cross, 4=Butterfly Valve, 5=Gate Valve, 6=Swing Check Valve
+
+FROM TO FLOW PIPE FITS EQV. H-W PIPE DIA. FRIC. ELEV. FROM TO DIFF
+(gpm) (ft) (ft) C TYPE (in) (psi) (psi) (psi) (psi) (psi)
+
+1 2 1186.34 6.73 2 10.00 120 1 6.065 0.049 0.000 83.89 83.08
+
+0.81
+
+2 3 1186.34 30.26 2 10.00 120 1 6.065 0.049 13.113 83.08 68.01
+
+1.95
+
+3 4 1186.34 8.22 3 25.00 120 1 6.065 0.049 0.000 68.01 66.40
+
+1.61
+
+4 5 391.52 57.57 2 6.80 120 1 4.026 0.046 0.000 66.40 63.45
+
+2.95
+
+5 6 391.52 3.00 3 16.00 120 1 4.026 0.046 1.426 63.45 61.15
+
+0.87
+
+6 7 260.23 29.61 3 16.00 120 1 4.026 0.022 0.000 61.15 60.17
+
+0.98
+
+7 8 130.00 29.61 2 6.80 120 1 4.026 0.006 0.000 60.17 59.96
+
+0.22
+
+4 9 794.82 2.63 2 6.80 120 1 4.026 0.170 0.000 66.40 64.78
+
+1.62
+
+9 10 436.13 3.28 3 16.00 120 1 4.026 0.056 0.000 64.78 63.70
+
+1.08
+
+10 11 302.14 29.61 3 16.00 120 1 4.026 0.028 0.000 63.70 62.41
+
+1.29
+
+11 12 79.68 29.61 3 16.00 120 1 4.026 0.002 0.000 62.41 62.31
+
+0.10
+
+12 13 36.99 29.61 3 16.00 120 1 4.026 0.001 0.000 62.31 62.28
+
+0.03
+
+13 14 152.77 29.61 3 16.00 120 1 4.026 0.008 0.000 62.28 61.92
+
+0.36
+
+14 15 131.74 29.61 3 16.00 120 1 4.026 0.006 0.000 61.92 61.64
+
+0.28
+
+15 16 61.84 29.61 3 16.00 120 1 4.026 0.002 0.000 61.64 61.58
+
+0.06
+
+16 17 0.00 29.61 3 16.00 120 1 4.026 0.000 0.000 61.58 61.58
+
+0.00
+
+17 18 0.00 29.61 3 16.00 120 1 4.026 0.000 0.000 61.58 61.58
+
+0.00
+
+18 19 0.00 29.61 3 16.00 120 1 4.026 0.000 0.000 61.58 61.58
+
+0.00
+
+19 20 0.00 29.61 3 16.00 120 1 4.026 0.000 0.000 61.58 61.58
+
+0.00
+
+11 12 89.83 29.61 2 6.80 120 1 4.026 0.003 0.000 62.41 62.31
+
+0.10
+
+9 13 358.68 57.57 2 6.80 120 1 4.026 0.039 0.000 64.78 62.28
+
+2.50
+
+13 14 242.91 3.29 3 16.00 120 1 4.026 0.019 0.000 62.28 61.92
+
+0.36
+
+14 15 131.82 29.51 3 16.00 120 1 4.026 0.006 0.000 61.92 61.64
+
+0.28
+
+15 16 69.91 29.51 2 6.80 120 1 4.026 0.002 0.000 61.64 61.58
+
+0.06
+
+6 101 131.29 2.63 0 0.00 120 1 4.026 0.006 0.000 61.15 61.13
+
+0.02
+
+7 102 130.23 2.63 0 0.00 120 1 4.026 0.006 0.000 60.17 60.16
+
+0.02
+
+8 103 130.00 2.63 0 0.00 120 1 4.026 0.006 0.000 59.96 59.94
+
+0.02
+
+10 104 133.99 2.63 0 0.00 120 1 4.026 0.006 0.000 63.70 63.68
+
+0.02
+
+```
+
+```
+AFFF Bodega.3 Sta. Marta 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ FITTING Equivalent Length per NFPA 13 2006, 14.43.1.1
+'-' Indicates Equivalent Length. 'T' Indicates Threaded Fitting
+1=45 Elbow, 2=90 Elbow, 3='T'/Cross, 4=Butterfly Valve, 5=Gate Valve, 6=Swing Check Valve
+
+FROM TO FLOW PIPE FITS EQV. H-W PIPE DIA. FRIC. ELEV. FROM TO DIFF
+(gpm) (ft) (ft) C TYPE (in) (psi) (psi) (psi) (psi) (psi)
+
+11 105 132.63 2.63 0 0.00 120 1 4.026 0.006 0.000 62.41 62.39
+
+0.02
+
+12 106 132.52 2.63 0 0.00 120 1 4.026 0.006 0.000 62.31 62.29
+
+0.02
+
+14 107 132.11 2.63 0 0.00 120 1 4.026 0.006 0.000 61.92 61.90
+
+0.02
+
+15 108 131.82 2.63 0 0.00 120 1 4.026 0.006 0.000 61.64 61.63
+
+0.02
+
+16 109 131.75 2.63 0 0.00 120 1 4.026 0.006 0.000 61.58 61.56
+
+0.02
+
+A MAX. VELOCITY OF 20.02 ft./sec. OCCURS BETWEEN REF. PT. 4 AND 9
+
+Sprinkler-CALC Release 7.2 Win
+By Walsh Engineering Inc.
+North Kingstown R.I. U.S.A.
+By Jorge Reid V
+
+```
+
+```
+ H Y D R A U L I C C A L C U L A T I O N S
+
+ C O V E R S H E E T
+
+AFFF Bodega.3 Sta. Marta
+
+W A T E R S U P P L Y
+
+STATIC PRESSURE (psi) 120
+RESIDUAL PRESSURE (psi) 119
+RESIDUAL FLOW (gpm) 1500
+
+ B O O S T E R P U M P S
+
+NUMBER OF BOOSTER PUMPS 0
+
+ S P R I N K L E R S
+
+MINIMUM FLOW PER SPRINKLER (gpm) 25
+
+MINIMUM PRESSURE PER SPRINKLER (psi) 19.93
+
+THIS SYSTEM OPERATES AT A FLOW OF 1186.34 AT A PRESSURE OF 83.98 psi
+AT THE BASE OF THE RISER (REF. PT. 0)
+
+PIPES USED FOR THIS SYSTEM
+
+======================================
+
+001 SCHEDULE 40
+
+```

@@ -1,0 +1,45 @@
+---
+title: Model
+author: Desconocido
+date: D:20230516225916
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|B. CASTRO|MI ESFUER|Z.DOÑA EMA|
+|---|---|---|---|
+|RESBALIN||1|1<br>|
+|MODULO JUEGOS<br>(juegos adicionales)|1|1|1|
+|COLUMPIO DOBLE|1|2|1|
+|BALANCIN SIMPLE<br>BALANCIN DOBLE<br>o||1|1|
+|COLUMPIO INCLUSIVO<br>ELEFANTE INCLUSIVO<br>AVIÓN INCLUSIVO|1<br>1<br>1|||
+|BARRA SUPERIOR<br>BARRA PARALELA<br>1<br>1<br>1|BARRA SUPERIOR<br>BARRA PARALELA<br>1<br>1<br>1|BARRA SUPERIOR<br>BARRA PARALELA<br>1<br>1<br>1|1|
+|BRAZOS|1||2|
+|TROTADORA|1|1|1|
+
+|Col1|Col2|CANT.|Col4|
+|---|---|---|---|
+|1<br>No<br>NOM|ESCAÑO<br>TIPO<br>ENCLAT.|21<br>MIN.|ADIC.|
+|2<br>3|BASURERO<br>JUEGOS<br>LUMINARIA LED<br>TIPO YOA|10|10|
+|4<br>5<br>6<br>7<br>8|SOLERILLA<br>IMPLEMENTOS<br>DEPORTIVOS<br>INFANTILES<br>PASEO PEATONAL<br>Vereda de hormigón<br>INCLUSIVOS<br>Ruta Accesible<br>PASTO|13 (16 pers)<br>478m2<br>1.200m2|3|
+|9|CUBRESUELO|427m2||
+|10|GINKO BILOBA|9||
+|12|PEUMO|9||
+|13<br>14|QUILLAY<br>QUEBRACHO|2<br>21||
+|15|BORDILLO|415 ML||
+|16|SANTOLINA||86|
+|17<br>18|AGAPANTO<br>VERONICAS||106<br>80|
+|L<br>19|lj<br>LLAVE JARDIN||3|
+|M<br>20|AP<br>MEDIDOR<br>AGUA POTABLE||2|
+|21|BICICLETERO|10||
+|22<br>23<br>24|REJA<br>PAVIMENTO<br>CAUCHO IN SITU<br>FRANJA<br>||1.071 m2|
+
+|2003 DIBUJO PROYECTO No|ESCALA FORMATO 600 x 400|FECHA No REVISION JUNIO 2021|
+|---|---|---|
+|DIBUJO<br>PCV|ESCALA<br>1:25|No REVISION<br>R01|
+|REVISO<br>E.G.|EG/OF/RANCAG<br>ARCHIVO CAD|A-012<br>UA|
+|E.G.<br>APROBO|LAMINA|LAMINA|

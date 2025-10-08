@@ -1,0 +1,31 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20160818164505Z
+language: unknown
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X|Col2|Col3|
+|---|---|---|
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+|~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>~~X~~<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>X|||
+
+X
+
+X

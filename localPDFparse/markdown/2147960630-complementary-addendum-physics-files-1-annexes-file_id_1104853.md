@@ -1,0 +1,25 @@
+---
+title: Model
+author: Desconocido
+date: D:20201113103759
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|COPRO|ARQ.|Col13|Col14|Col15|Col16|MATETIC WINE GROUP S.A.|Col18|Col19|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||||||
+||||||||||||CALCULO||||||||
+||||||||||||||||||||
+||||||||||||DIBUJO||||||||
+||||||||||||||||||||
+|||||||||||||||PROYECTO BODEGA LOS LINGUES TERRAPURA<br>BODEGA FERMENTACION<br>LAY OUT GENERAL<br>BODEGA GUARDA<br>PROYECCION ETAPAS FUTURAS|PROYECTO BODEGA LOS LINGUES TERRAPURA<br>BODEGA FERMENTACION<br>LAY OUT GENERAL<br>BODEGA GUARDA<br>PROYECCION ETAPAS FUTURAS|PROYECTO BODEGA LOS LINGUES TERRAPURA<br>BODEGA FERMENTACION<br>LAY OUT GENERAL<br>BODEGA GUARDA<br>PROYECCION ETAPAS FUTURAS|PROYECTO BODEGA LOS LINGUES TERRAPURA<br>BODEGA FERMENTACION<br>LAY OUT GENERAL<br>BODEGA GUARDA<br>PROYECCION ETAPAS FUTURAS|PROYECTO BODEGA LOS LINGUES TERRAPURA<br>BODEGA FERMENTACION<br>LAY OUT GENERAL<br>BODEGA GUARDA<br>PROYECCION ETAPAS FUTURAS|
+||||||||||||APROBO:|M.ROJAS|||||||
+|||||EMITIDO PARA REVISION|||||||||||||||
+|||||EMITIDO PARA REVISION|D.O.AM|.R.B.|M.R.B|. 10.04.19|. 10.04.19|BM|GRTE PROY:|M.ROJAS|||||||
+||||||||||||MANDANTE:||||||||
+||||||||||||||||||||

@@ -1,0 +1,112 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20171110101035-03'00'
+language: es
+type: report
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ---- -- ------------------------------------------------------------------------
+-->
+
+|INFORME DE INSPECCIÓN<br>INF-SEGEA-N° 998|Código|INF-HlDR0-01|
+|---|---|---|
+|**INFORME DE INSPECCIÓN**<br>~~INF-SEGEA-N° 998~~|Versión<br>Fecha|2 <br>01-08-2017|
+
+foMBRE DEL PU NTO K BATER ÍA ANALÍTICA NlVEL
+
+FE CHA DE INSP ECC IÓ N 19- 10 -2 0I7 INSPECTOR AMBIENTAL CÓDIGO lA
+HORA DE I NSPECC IÓN 10 : 48 12379139-8
+
+ÉCN!CO DE TERRENO METO DO DE INSPECCIÓN UTILIZADO
+
+ASISTENTE EN TERRENO DAN IEL RIV ERA B. NlVEL
+
+DATOS IN SITU
+
+lf EMPERA TU RA (
+
+|CARACTERISTICAS DE LA MUESTRA DE AGUA CARACTERISTICAS AMBlENT ALES|Col2|Col3|Col4|
+|---|---|---|---|
+|!ASPECTODELAMUESTRA<br>||~ONO.CLIMÁTICAS|DESPEJADO<br>|
+|!cOLOR<br>||~lENTO<br>|SUAVE<br>|
+|PLORMUESTRA||lfi.POSECTOR|PLANTA/MINA|
+
+¡ros (ppm)
+
+SAL I NrDAD (PSU)
+
+POTE NCIAL REDOX (m V)
+
+pH EXP OS IC IÓN VAR IACI ÓN DE 1" ( 0 C)
+
+OXIGENO DISU E LTO (ppm)
+
+frURBIEDAD (NTU)
+
+|CARACTERlST!CAS DEL SECTOR|Col2|
+|---|---|
+|~EADEMUESTREO<br>||
+|~~DESCARGA ~~<br>||
+|~~EXPOSICIÓN~~||
+
+|CONTROL DE TEMPERATURA|Col2|
+|---|---|
+|SALADEMUESTRAS||
+|HORADELECTURA<br>||
+|~~VARIACIÓNDE~~1"(<br>0C)||
+
+C LORO LIBRE (m g!L) jCAUD AL (Us) [IPO DE ÁREA
+
+INFORMACIÓN DE EQUIPOS UTILIZADOS
+
+|EQUIPO|NUMERO DE SERIE CÓDIGO INTERNO MARCA|Col3|Col4|
+|---|---|---|---|
+|POZOMETRO<br>|224227|POZ-2|SOLlNST|
+|~~MULTIPARAMETRO~~<br>||||
+|~~BOMBA SUMERGIBLE~~||||
+|FLUJOMETRO<br>||||
+|~~MOLINETE~~<br>||||
+|~~BOMBAPERISTÁLTICA~~<br>||||
+|~~COLORÍMETRO ~~||||
+
+INFORMACIÓN DEL PUNTO
+
+!P UNTUAL MEDICI ONES COORDENADAS WGS-84
+
+!PO DE AGUA SUI3TERRANEO N IV EL NO R TE 7526482,000
+
+SECT OR DE MU ES TREO PTMP ESTE 513484,000
+
+OBSERVACI ONES POZO SECO
+
+# ---- -- ------------------------------------------------------------------------
+
+NOMBRE Y FIRM A INSPECTOR NOMBRE Y FIRMA GE R ENTE TÉCN I CO
+
+GERENTE TÉCNICO
+
+LUIS EOUAROO AL~GRIA OLATE
+
+RU1: 10-824.759·2 "-C- - --...
+COOIGOETfA041Hil
+
+SEGEA LTOA SEGEALTDA
+
+DIG ITADO POR : CA RGO : ASISTENTE EN TERRENO Y ADM.
+
+SOC IEDAD DE S ERVI CI OS Y ESTUDIOS GEOLÓG I COS Y AMBIENTALES L TOA. CÓDIGO ETFA
+
+LEONARDO DA VINCI 24 18, CASA 3 - CA L AMA - n REG I ÓN - C HIL E- FONO +(56) 55276 1972
+
+web: www.segea. cl- mail: m.ulloa@segea.cl
+
+SMA
+
+040 -0 1

@@ -1,0 +1,22 @@
+---
+title: Model
+author: Desconocido
+date: D:20220420125907
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|AVENIDA LUIS DURAND|Col2|Col3|Col4|
+|---|---|---|---|
+|ENTRE KM 2.9 Y KM 3.8<br> TEMUCO<br>Fecha<br>Descripción<br>INVERSIONES E INMOBILIARIA PLAENGE<br>CHILE LIMITADA.<br>Rut: 76.152.061-K<br>Rep. Legal: MARCELO ABURTO HABERT<br>Rut: 10.651.028-K|ENTRE KM 2.9 Y KM 3.8<br> TEMUCO<br>Fecha<br>Descripción<br>INVERSIONES E INMOBILIARIA PLAENGE<br>CHILE LIMITADA.<br>Rut: 76.152.061-K<br>Rep. Legal: MARCELO ABURTO HABERT<br>Rut: 10.651.028-K|ENTRE KM 2.9 Y KM 3.8<br> TEMUCO<br>Fecha<br>Descripción<br>INVERSIONES E INMOBILIARIA PLAENGE<br>CHILE LIMITADA.<br>Rut: 76.152.061-K<br>Rep. Legal: MARCELO ABURTO HABERT<br>Rut: 10.651.028-K|ENTRE KM 2.9 Y KM 3.8<br> TEMUCO<br>Fecha<br>Descripción<br>INVERSIONES E INMOBILIARIA PLAENGE<br>CHILE LIMITADA.<br>Rut: 76.152.061-K<br>Rep. Legal: MARCELO ABURTO HABERT<br>Rut: 10.651.028-K|
+|INSTALACION DE FAENA|INSTALACION DE FAENA|INSTALACION DE FAENA|INSTALACION DE FAENA|
+|||||
+|L.E.R.|P.L.L.|||
+|||||
+||VERSION<br>LAS INDICADAS|VERSION<br>LAS INDICADAS|VERSION<br>LAS INDICADAS|
+||||8|
+|||||

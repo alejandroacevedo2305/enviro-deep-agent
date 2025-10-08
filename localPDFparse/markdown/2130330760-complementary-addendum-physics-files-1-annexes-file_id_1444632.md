@@ -1,0 +1,437 @@
+---
+title: Anexo 5
+author: Sebastián Aguilera C.-
+date: D:20151008045354Z00'00'
+language: unknown
+type: general
+pages: 2
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ANEXO
+-->
+
+# ANEXO
+ 5-­‐
+ PLAN
+ DE
+ MANEJO
+ DE
+ SEGURIDAD
+ DE
+ LAS
+ OBRAS** **ANTE
+ AFLORAMIENTO
+ DE
+ NAPA**
+
+Elaborado
+ para
+
+**1**
+**PRESENTACIÓN**
+
+Se
+ estima
+ que
+ el
+ establecimiento
+ de
+ un
+ plan
+ de
+ contingencia
+ ante
+ afloramiento
+ de
+ la
+ napa
+ es
+innecesario,
+ pues
+ existe
+ una
+ probabilidad
+ remota
+ de
+ que
+ un
+ evento
+ de
+ estas
+ caraterísticas
+ocurra,
+ dado
+ que
+ la
+ napa
+ se
+ ha
+ ubicado
+ a
+ más
+ de
+ 70
+ metros
+ en
+ cada
+ una
+ de
+ las
+ observaciones
+realizadas
+ desde
+ el
+ año
+ 2005
+ a
+ la
+ fecha.
+
+No
+ obstante,
+ y
+ a
+ solicitud
+ de
+ la
+ autoridad,
+ se
+ enuncian
+ a
+ continuación
+ las
+ medidas
+ que
+ se
+tomarían
+ si
+ tal
+ evento
+ ocurriese.
+
+**2**
+**PLAN
+ DE
+ CONTINGENCIA
+ EN
+ CASO
+ DE
+ AFLORAMIENTO
+ DE
+ NAPA
+ FREÁTICA**
+
+En
+ caso
+ de
+ que
+ el
+ monitoreo
+ en
+ el
+ pozo
+ existente
+ registre
+ una
+ disminución
+ de
+ la
+ profundidad
+ de
+ la
+napa,
+ es
+ decir,
+ se
+ acerque
+ peligrosamente
+ a
+ la
+ superficie,
+ se
+ contempla
+ la
+ ejecución
+ de
+ las
+siguientes
+ medidas
+ de
+ emergencia:
+
+1. Realizar
+ un
+ bombeo
+ a
+ máxima
+ capacidad
+ de
+ la
+ bomba
+ de
+ pozo
+ instalada
+ actualmente.
+2. Recurrir
+ a
+ los
+ sacos
+ de
+ arena
+ que
+ la
+ empresa
+ mantiene
+ en
+ bodegas,
+ los
+ que
+ se
+ dispondrán
+
+a
+ la
+ entrada
+ de
+ las
+ instalaciones
+ más
+ vulnerables,
+ con
+ énfasis
+ en
+ aquellas
+ que
+ almacenan
+sustancias
+ y/o
+ residuos
+ peligrosos.
+3. Requerir
+ de
+ forma
+ inmediata
+ de
+ los
+ servicios
+ de
+ una
+ empresa
+ especializada
+ para
+ que
+
+instale
+ una
+ bomba
+ de
+ pozo
+ de
+ tipo
+ “de
+ prueba
+ de
+ bombeo”
+ en
+ el
+ pozo
+ número
+ 2
+ existente
+en
+ el
+ recinto
+ de
+ la
+ Planta.
+Este
+ pozo
+ no
+ cuenta
+ con
+ bomba
+ instalada,
+ pero
+ sí
+ cuenta
+ con
+ una
+ perforación
+ de
+ diámetro
+variable,
+ de
+ 1,20
+ metros
+ de
+ diámetro
+ desde
+ la
+ superficie
+ hasta
+ los
+ 60
+ metros
+ de
+profundidad,
+ y
+ luego
+ entre
+ 60
+ metros
+ y
+ 100
+ metros
+ posee
+ un
+ diámetro
+ de
+ 20”.
+ En
+ la
+actualidad
+ se
+ encuentra
+ con
+ una
+ tapa
+ de
+ acero,
+ que
+ puede
+ ser
+ retirada
+ para
+ proceder
+ de
+ la
+forma
+ señalada.
+4. En
+ caso
+ de
+ que
+ estas
+ dos
+ bombas
+ no
+ sean
+ suficientes
+ para
+ deprimir
+ la
+ napa
+ hasta
+ niveles
+
+seguros,
+ se
+ contempla
+ la
+ instalación
+ de
+ una
+ batería
+ de
+ punteras
+ para
+ apoyar
+ en
+ este
+objetivo.
+5. En
+ el
+ momento
+ en
+ que
+ el
+ agua
+ comience
+ a
+ acercarse
+ a
+ las
+ instalaciones
+ del
+ proyecto,
+ se
+
+contempla
+ detener
+ el
+ proceso
+ productivo
+ y
+ cerrar
+ la
+ planta
+ hasta
+ que
+ el
+ agua
+ se
+ haya
+infiltrado
+ nuevamente
+ hacia
+ el
+ subsuelo.
+6. El
+ agua
+ que
+ se
+ extraiga
+ de
+ la
+ tarea
+ de
+ bombeo
+ será
+ dispuesta
+ en
+ los
+ siguientes
+ puntos,
+ en
+
+orden
+ de
+ prioridad:
+
+a. Estanque
+ de
+ agua
+ potable.
+b. Estanque
+ de
+ RILes
+ tratados
+ de
+ 700
+ m3.
+c. Canal
+ de
+ Riego.
+d. Punto
+ en
+ el
+ predio
+ alejado
+ de
+ las
+ instalaciones.
+e. Predio
+ vecino
+ con
+ plantaciones
+ agrícolas,
+ en
+ caso
+ extremo.
+
+2

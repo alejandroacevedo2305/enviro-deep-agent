@@ -1,0 +1,64 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20220104181848
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+|1|Col2|2|3|4|Col6|Col7|5|6|Col10|7|Col12|8 9 10|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||N|||||||||||UBICACIÓN CUERPOS DE AGUA|
+|O|||||||||||||
+|O||||||||||||Comuna de Yungay|
+|O|||||||||||||
+||||||||||||||
+|||||P28<br>P27|||627.14||||||
+||||||P24<br>P25<br>~~P26~~<br>P29<br>P30<br>P31|P24<br>P25<br>~~P26~~<br>P29<br>P30<br>P31|P21<br>P22<br>P23|P18<br>P19<br>P20|||||
+|||987.5|4||P32<br>P33<br>ACOPIO<br>PLÁSTICOS<br>ACOPIO<br>FIERROS<br>ACOPIO<br>MADERAS<br>BATEA<br>RESD.<br>NO PEL<br>RESPEL<br>BAÑO<br>FASE<br>OPERACIÓN<br>ESTAC.<br>CARGA/DESCARGA<br>ESTAC.<br>CARGA/DESCARGA<br>COMB.<br>Gasoil<br>GENERADOR<br>ALM.<br>MATERIALES<br>TALL|P32<br>P33<br>ACOPIO<br>PLÁSTICOS<br>ACOPIO<br>FIERROS<br>ACOPIO<br>MADERAS<br>BATEA<br>RESD.<br>NO PEL<br>RESPEL<br>BAÑO<br>FASE<br>OPERACIÓN<br>ESTAC.<br>CARGA/DESCARGA<br>ESTAC.<br>CARGA/DESCARGA<br>COMB.<br>Gasoil<br>GENERADOR<br>ALM.<br>MATERIALES<br>TALL|ESTACIONAMIENTOS<br>ZONA SEGURA<br>ER<br>VESTUARIOS<br>COMEDOR<br>BASURA<br>BAÑO Q.<br>LAV. MANOS<br>ZONA<br>ESTANQUES DE<br>AGUA<br>OFICINA<br>VIGILANCIA<br>BAÑO Q.<br>BAÑO Q.<br>BAÑO Q.||P14<br>P15<br>P16<br>P17|P11<br>P12<br>P13|P|P|
+|||987.5|4||P32<br>P33<br>ACOPIO<br>PLÁSTICOS<br>ACOPIO<br>FIERROS<br>ACOPIO<br>MADERAS<br>BATEA<br>RESD.<br>NO PEL<br>RESPEL<br>BAÑO<br>FASE<br>OPERACIÓN<br>ESTAC.<br>CARGA/DESCARGA<br>ESTAC.<br>CARGA/DESCARGA<br>COMB.<br>Gasoil<br>GENERADOR<br>ALM.<br>MATERIALES<br>TALL|P32<br>P33<br>ACOPIO<br>PLÁSTICOS<br>ACOPIO<br>FIERROS<br>ACOPIO<br>MADERAS<br>BATEA<br>RESD.<br>NO PEL<br>RESPEL<br>BAÑO<br>FASE<br>OPERACIÓN<br>ESTAC.<br>CARGA/DESCARGA<br>ESTAC.<br>CARGA/DESCARGA<br>COMB.<br>Gasoil<br>GENERADOR<br>ALM.<br>MATERIALES<br>TALL|ESTACIONAMIENTOS<br>ZONA SEGURA<br>ER<br>VESTUARIOS<br>COMEDOR<br>BASURA<br>BAÑO Q.<br>LAV. MANOS<br>ZONA<br>ESTANQUES DE<br>AGUA<br>OFICINA<br>VIGILANCIA<br>BAÑO Q.<br>BAÑO Q.<br>BAÑO Q.||P14<br>P15<br>P16<br>P17|P11<br>P12<br>P13|P||
+||||||INVERSOR<br>MVPS #1<br>SA~~LA~~ DE<br>CONTROL|INVERSOR<br>MVPS #1<br>SA~~LA~~ DE<br>CONTROL|||||||
+||||||INVERSOR<br>MVPS #1<br>SA~~LA~~ DE<br>CONTROL|INVERSOR<br>MVPS #1<br>SA~~LA~~ DE<br>CONTROL||||||Leyenda:<br>Canales<br>Derechos Subterráneos de Agua<br>Sistema de coordenada UTM Datum: WGS-84 Huso 19S|
+||||||||BODEGA<br>INVERSOR<br>MVPS #2||||||
+||||641.15||||||||||
+||||||||||||||
+|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|
+|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|PARQUE FOTOVOLTAICO CAMPANARIO<br>Esc. 1:1.000<br>Meters<br>0<br>100<br>200|CROQUIS DE UBICACION<br>ESCALA 1:40.000|
+
+1 2 3 4 5 6 7 8 9 10

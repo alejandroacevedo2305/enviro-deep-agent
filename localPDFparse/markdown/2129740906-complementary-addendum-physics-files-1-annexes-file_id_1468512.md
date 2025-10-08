@@ -1,0 +1,134 @@
+---
+title: Report
+author: Ingenieria CyC
+date: D:20141105122645-03'00'
+language: unknown
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Ventilación Bío Bío Poniente 10
+  - Ventilación Bío Bío Poniente 10
+-->
+
+# Ventilación Bío Bío Poniente 10
+## Propagación Media - SP Esc 4 BB P - Fuentes + Cierre perimetral
+
+Focos SType hora
+
+slice
+
+Li
+
+dB(A)
+
+Adiv
+
+dB
+
+ZR
+
+dB
+
+Ls
+
+dB(A)
+
+R'w
+
+dB
+
+L'w
+
+dB(A)
+
+Lw
+
+dB(A)
+
+l or A
+
+m,m2
+
+KI
+
+dB
+
+KT
+
+dB
+
+Ko
+
+dB
+
+S
+
+m
+
+Agr
+
+dB
+
+Abar
+
+dB
+
+Aatm
+
+dB
+
+Amisc
+
+dB
+
+ADI
+
+dB
+
+dLrefl
+
+dB
+
+dLw
+
+dB
+
+Cmet
+
+dB
+
+Lr
+
+dB(A)
+
+|Receptor R01- Persa BioBio Fl GF LrD,lim 64 dB(A) LrN,lim 49 dB(A) Lmax,lim 49 dB(A) LrD 57.5 dB(A) LrN 57.5 dB(A) Lmax 56.9 dB(A)|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Camion tolva<br>Camion tolva<br>Mini cargador frontal<br>Mini cargador frontal<br>mini retroex<br>mini retroex|Punto<br>Punto<br>Punto<br>Punto<br>Punto<br>Punto|LrD<br>LrN<br>LrD<br>LrN<br>LrD<br>LrN|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0 <br>0 <br>0 <br>0 <br>0 <br>0 <br>|74.12<br>74.12<br>67.37<br>67.37<br>79.19<br>79.19|-48.4<br>-48.4<br>-47.6<br>-47.6<br>-49.0<br>-49.0|-1.1<br>-1.1<br>-2.4<br>-2.4<br>-2.9<br>-2.9|-8.6<br>-8.6<br>-9.1<br>-9.1<br>-7.7<br>-7.7|-0.1<br>-0.1<br>-0.1<br>-0.1<br>-0.2<br>-0.2||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|3.0<br>3.0<br>2.4<br>2.4<br>3.9<br>3.9|56.9<br>56.9<br>45.4<br>45.4<br>46.1<br>46.1|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|56.9<br>56.9<br>45.4<br>45.4<br>46.1<br>46.1|
+|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|Receptor<br>R02- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 61.0 dB(A)<br>LrN 61.0 dB(A)<br>Lmax 60.4 dB(A)|
+|Camion tolva<br>Camion tolva<br>Mini cargador frontal<br>Mini cargador frontal<br>mini retroex<br>mini retroex|Punto<br>Punto<br>Punto<br>Punto<br>Punto<br>Punto|LrD<br>LrN<br>LrD<br>LrN<br>LrD<br>LrN|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0 <br>0 <br>0 <br>0 <br>0 <br>0|43.54<br>43.54<br>47.99<br>47.99<br>42.73<br>42.73|-43.8<br>-43.8<br>-44.6<br>-44.6<br>-43.6<br>-43.6|-0.8<br>-0.8<br>-2.1<br>-2.1<br>-2.4<br>-2.4|-10.3<br>-10.3<br>-10.8<br>-10.8<br>-11.0<br>-11.0|0.0<br>0.0<br>-0.1<br>-0.1<br>-0.1<br>-0.1||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|3.4<br>3.4<br>4.7<br>4.7<br>4.3<br>4.3|60.4<br>60.4<br>49.3<br>49.3<br>49.3<br>49.3|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|60.4<br>60.4<br>49.3<br>49.3<br>49.3<br>49.3|
+|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|Receptor<br>R03- Locales<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 58.9 dB(A)<br>LrN 58.9 dB(A)<br>Lmax 58.1 dB(A)|
+|Camion tolva<br>Camion tolva<br>Mini cargador frontal<br>Mini cargador frontal<br>mini retroex<br>mini retroex|Punto<br>Punto<br>Punto<br>Punto<br>Punto<br>Punto|LrD<br>LrN<br>LrD<br>LrN<br>LrD<br>LrN|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0 <br>0 <br>0 <br>0 <br>0 <br>0|62.33<br>62.33<br>68.69<br>68.69<br>59.50<br>59.50|-46.9<br>-46.9<br>-47.7<br>-47.7<br>-46.5<br>-46.5|-1.0<br>-1.0<br>-2.4<br>-2.4<br>-2.7<br>-2.7|-9.0<br>-9.0<br>-9.3<br>-9.3<br>-9.6<br>-9.6|-0.1<br>-0.1<br>-0.1<br>-0.1<br>-0.1<br>-0.1||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|3.1<br>3.1<br>5.1<br>5.1<br>4.6<br>4.6|58.1<br>58.1<br>47.7<br>47.7<br>47.7<br>47.7|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|58.1<br>58.1<br>47.7<br>47.7<br>47.7<br>47.7|
+|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|Receptor<br>R04-<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 56.6 dB(A)<br>LrN 56.6 dB(A)<br>Lmax 55.7 dB(A)|
+|Camion tolva<br>Camion tolva<br>Mini cargador frontal<br>Mini cargador frontal<br>mini retroex<br>mini retroex|Punto<br>Punto<br>Punto<br>Punto<br>Punto<br>Punto|LrD<br>LrN<br>LrD<br>LrN<br>LrD<br>LrN|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0 <br>0 <br>0 <br>0 <br>0 <br>0|106.82<br>106.82<br>114.06<br>114.06<br>102.83<br>102.83|-51.6<br>-51.6<br>-52.1<br>-52.1<br>-51.2<br>-51.2|-1.0<br>-1.0<br>-2.7<br>-2.7<br>-3.0<br>-3.0|-7.8<br>-7.8<br>-7.1<br>-7.1<br>-7.5<br>-7.5|-0.1<br>-0.1<br>-0.3<br>-0.3<br>-0.2<br>-0.2||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|4.2<br>4.2<br>6.8<br>6.8<br>5.6<br>5.6|55.7<br>55.7<br>46.9<br>46.9<br>45.6<br>45.6|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|55.7<br>55.7<br>46.9<br>46.9<br>45.6<br>45.6|
+|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|Receptor<br>pcalib casa placer<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 51.0 dB(A)<br>LrN 51.0 dB(A)<br>Lmax 50.2 dB(A)|
+|Camion tolva<br>Camion tolva<br>Mini cargador frontal|Punto<br>Punto<br>Punto|LrD<br>LrN<br>LrD|0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|112.0<br>112.0<br>102.2|112.0<br>112.0<br>102.2||0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|0 <br>0 <br>0|118.72<br>118.72<br>118.96|-52.5<br>-52.5<br>-52.5|-0.9<br>-0.9<br>-2.7|-10.5<br>-10.5<br>-10.4|-0.1<br>-0.1<br>-0.2||0.0<br>0.0<br>0.0|2.2<br>2.2<br>5.4|50.2<br>50.2<br>41.7|0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|50.2<br>50.2<br>41.7|
+
+SoundPLAN 7.1
+
+# Ventilación Bío Bío Poniente 10
+## Propagación Media - SP Esc 4 BB P - Fuentes + Cierre perimetral
+
+|Focos|SType|hora slice|Li dB(A)|R'w dB|L'w dB(A)|Lw dB(A)|l or A m,m2|KI dB|KT dB|Ko dB|S m|Adiv dB|Agr dB|Abar dB|Aatm dB|Amisc dB|ADI dB|dLrefl dB|Ls dB(A)|dLw dB|Cmet dB|ZR dB|Lr dB(A)|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Mini cargador frontal<br>mini retroex<br>mini retroex|Punto<br>Punto<br>Punto|LrN<br>LrD<br>LrN|0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|102.2<br>102.0<br>102.0|102.2<br>102.0<br>102.0||0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|0 <br>0 <br>0 <br>|118.96<br>120.50<br>120.50|-52.5<br>-52.6<br>-52.6|-2.7<br>-3.1<br>-3.1|-10.4<br>-10.1<br>-10.1|-0.2<br>-0.2<br>-0.2||0.0<br>0.0<br>0.0|5.4<br>3.1<br>3.1|41.7<br>39.0<br>39.0|0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0|41.7<br>39.0<br>39.0|
+|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|Receptor<br>pcalib casa sta rosa<br>Fl GF<br>LrD,lim<br>64 dB(A)<br>LrN,lim<br>49 dB(A)<br>Lmax,lim<br>49 dB(A)<br>LrD 47.4 dB(A)<br>LrN 47.4 dB(A)<br>Lmax 46.7 dB(A)|
+|Camion tolva<br>Camion tolva<br>Mini cargador frontal<br>Mini cargador frontal<br>mini retroex<br>mini retroex|Punto<br>Punto<br>Punto<br>Punto<br>Punto<br>Punto|LrD<br>LrN<br>LrD<br>LrN<br>LrD<br>LrN|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0|112.0<br>112.0<br>102.2<br>102.2<br>102.0<br>102.0||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0 <br>0 <br>0 <br>0 <br>0 <br>0|141.76<br>141.76<br>149.20<br>149.20<br>137.42<br>137.42|-54.0<br>-54.0<br>-54.5<br>-54.5<br>-53.8<br>-53.8|-0.8<br>-0.8<br>-2.8<br>-2.8<br>-3.2<br>-3.2|-16.2<br>-16.2<br>-17.3<br>-17.3<br>-16.9<br>-16.9|-0.1<br>-0.1<br>-0.3<br>-0.3<br>-0.3<br>-0.3||0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|5.9<br>5.9<br>8.6<br>8.6<br>8.4<br>8.4|46.7<br>46.7<br>36.0<br>36.0<br>36.2<br>36.2|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|0.0<br>0.0<br>0.0<br>0.0<br>0.0<br>0.0|46.7<br>46.7<br>36.0<br>36.0<br>36.2<br>36.2|
+|||||||||||||||||||||||||
+
+SoundPLAN 7.1

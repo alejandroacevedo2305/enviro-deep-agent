@@ -1,0 +1,75 @@
+---
+title: Model
+author: Desconocido
+date: D:20190429162454
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|
+|---|---|---|
+||||
+||||
+||||
+||||
+|||BA|
+||||
+
+|Col1|Col2|Col3|Col4|
+|---|---|---|---|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+|Col1|Col2|
+|---|---|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|12-12-2018|ENTREGA PARA CONSTRUCCIÓN|
+|FECHA|DETALLE MODIFICACIÓN|
+
+|CONTENIDO LÁMINA|AGUAS LLUVIA|VERSION|
+|---|---|---|
+|CONTENIDO LÁMINA|- PLANTA SALA DE MÁQUINAS|00|
+|CONTENIDO LÁMINA|PROYECTO SANITARIO<br>EDIFICIO MEMBRILLAR|FECHA|
+|CONTENIDO LÁMINA|PROYECTO SANITARIO<br>EDIFICIO MEMBRILLAR|12-12-201|
+
+|LAMINA|ESCALA|
+|---|---|
+|N° 5 de 5|INDICADA|
+
+|Col1|EL MEMBRILLAR MACKENNA<br>PUDETO<br>VICUÑA<br>PASO DEL ROBLE|Col3|NOTAS ACLARATORIAS<br>DE UBICACION|
+|---|---|---|---|
+||VICUÑA MACKENNA<br>PASO DEL ROBLE<br>PUDETO<br>EL MEMBRILLAR|||
+
+|SIMBOLOGIA AGUAS LLUVIA|Col2|
+|---|---|
+|TUBERIA PROYECTADA BAJO LOSA O RADIER||
+|TUBERIA PROYECTADA POR CIELO||
+|SENTIDO DEL FLUJO (DESAGUE Y VENTILACIÓN)||
+|PENDIENTE TUBERIA|X%|
+|TUBO DE REGISTRO PVC SANIT.|T.REG.|
+|DESCARGA PVC SANIT. 110 ó 75 mm.|D. PVC|
+|CAMARA DECANTADORA PROYECTADA||
+
+|PROYECTISTAS|NOMB|
+|---|---|
+|PROYECTISTAS|PROYECTÓ<br>J.V.G. / I|
+|PROYECTISTAS|DIBUJÓ<br>I.C.|
+|PROYECTISTAS|REVISÓ<br>J.V.|
+|PROPIETARIO / MANDANTE|PROPIETARIO / MANDANTE|
+|||

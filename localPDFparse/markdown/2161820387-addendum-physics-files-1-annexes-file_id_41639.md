@@ -1,0 +1,33 @@
+---
+title: Sin título
+author: Zorro
+date: D:20240916133817-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|ENSAYO|COTA|
+|---|---|
+|Estratigrafía|1.50 m|
+|Caracterización: Análisis granulométrico,<br>Límites de Atterberg (LL, LP, IP), Clasificación USCS|0.80 m|
+|Densidad en terreno y humedad natural (Cono de arena)|0.80 m|
+|||
+|||
+
+|ESTRATO|Col2|Col3|Espesor<br>[m]|Cota<br>superior<br>[m]|Cota<br>inferior<br>[m]|DESCRIPCIÓN DEL SUELO|
+|---|---|---|---|---|---|---|
+|E 00||TV|0.30|0.00|0.30|Estrato vegetal, limo arcilloso de baja plasticidad, color café oscuro, húmedo, estructura migajón<br>con presencia de raicillas|
+|E01||ML|0.50|0.30|0.80|Limo de baja plasticidad, color naranjo, origen natural, estructura homogéneo, humedad baja, sin<br>material orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin<br>tenacidad, sin cementación.|
+|E01c||ML|0.70|0.80|1.50|Limo de baja plasticidad, color café, origen natural, estructura homogéneo, humedo, sin material<br>orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin tenacidad, sin<br>cementación.|
+
+|REG. 004<br>FICHA ESTRATIGRAFICA C 08<br>v0c|Col2|Col3|
+|---|---|---|
+|Proyecto:<br>EMS PFV Los Lagos<br>Ubicación:<br>Camino vecinal s.n. sector Pancul, comuna de Los Lagos, región de Los Ríos<br>Mandante:<br>IM2Solar Chile SPA|Cliente:<br>IM2Solar Chile SPA<br>O.C.:<br>Fecha O.C.:<br>PC-24-03416<br>12 de agosto 2024|Cliente:<br>IM2Solar Chile SPA<br>O.C.:<br>Fecha O.C.:<br>PC-24-03416<br>12 de agosto 2024|
+|Profesional en terreno:<br>Julio César de la Riva V.<br>Procedencia:<br>Calicata C 08<br>Coordenadas:<br> 39°50'29.26"S<br> 72°47'24.65"O<br>Cota napa freática:<br>-1.10 m flujo lento<br>Fecha observación:<br>Martes 10 de septiembre de 2024<br>ENSAYO<br>COTA<br>Estratigrafía<br>1.50 m<br>Caracterización: Análisis granulométrico,<br>0.80 m<br>Límites de Atterberg (LL, LP, IP), Clasificación USCS<br>Densidad en terreno y humedad natural (Cono de arena)<br>0.80 m|Profesional en terreno:<br>Julio César de la Riva V.<br>Procedencia:<br>Calicata C 08<br>Coordenadas:<br> 39°50'29.26"S<br> 72°47'24.65"O<br>Cota napa freática:<br>-1.10 m flujo lento<br>Fecha observación:<br>Martes 10 de septiembre de 2024<br>ENSAYO<br>COTA<br>Estratigrafía<br>1.50 m<br>Caracterización: Análisis granulométrico,<br>0.80 m<br>Límites de Atterberg (LL, LP, IP), Clasificación USCS<br>Densidad en terreno y humedad natural (Cono de arena)<br>0.80 m|Profesional en terreno:<br>Julio César de la Riva V.<br>Procedencia:<br>Calicata C 08<br>Coordenadas:<br> 39°50'29.26"S<br> 72°47'24.65"O<br>Cota napa freática:<br>-1.10 m flujo lento<br>Fecha observación:<br>Martes 10 de septiembre de 2024<br>ENSAYO<br>COTA<br>Estratigrafía<br>1.50 m<br>Caracterización: Análisis granulométrico,<br>0.80 m<br>Límites de Atterberg (LL, LP, IP), Clasificación USCS<br>Densidad en terreno y humedad natural (Cono de arena)<br>0.80 m|
+|**ESTRATIGRAFÍA**<br>Espesor<br>[m]<br>Cota<br>superior<br>[m]<br>Cota<br>inferior<br>[m]<br>DESCRIPCIÓN DEL SUELO<br>E 00<br>TV<br>0.30<br>0.00<br>0.30<br>E01<br>ML<br>0.50<br>0.30<br>0.80<br>E01c<br>ML<br>0.70<br>0.80<br>1.50<br>Estrato vegetal, limo arcilloso de baja plasticidad, color café oscuro, húmedo, estructura migajón<br>con presencia de raicillas<br>Limo de baja plasticidad, color naranjo, origen natural, estructura homogéneo, humedad baja, sin<br>material orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin<br>tenacidad, sin cementación.<br>Limo de baja plasticidad, color café, origen natural, estructura homogéneo, humedo, sin material<br>orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin tenacidad, sin<br>cementación.<br>ESTRATO|**ESTRATIGRAFÍA**<br>Espesor<br>[m]<br>Cota<br>superior<br>[m]<br>Cota<br>inferior<br>[m]<br>DESCRIPCIÓN DEL SUELO<br>E 00<br>TV<br>0.30<br>0.00<br>0.30<br>E01<br>ML<br>0.50<br>0.30<br>0.80<br>E01c<br>ML<br>0.70<br>0.80<br>1.50<br>Estrato vegetal, limo arcilloso de baja plasticidad, color café oscuro, húmedo, estructura migajón<br>con presencia de raicillas<br>Limo de baja plasticidad, color naranjo, origen natural, estructura homogéneo, humedad baja, sin<br>material orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin<br>tenacidad, sin cementación.<br>Limo de baja plasticidad, color café, origen natural, estructura homogéneo, humedo, sin material<br>orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin tenacidad, sin<br>cementación.<br>ESTRATO|**ESTRATIGRAFÍA**<br>Espesor<br>[m]<br>Cota<br>superior<br>[m]<br>Cota<br>inferior<br>[m]<br>DESCRIPCIÓN DEL SUELO<br>E 00<br>TV<br>0.30<br>0.00<br>0.30<br>E01<br>ML<br>0.50<br>0.30<br>0.80<br>E01c<br>ML<br>0.70<br>0.80<br>1.50<br>Estrato vegetal, limo arcilloso de baja plasticidad, color café oscuro, húmedo, estructura migajón<br>con presencia de raicillas<br>Limo de baja plasticidad, color naranjo, origen natural, estructura homogéneo, humedad baja, sin<br>material orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin<br>tenacidad, sin cementación.<br>Limo de baja plasticidad, color café, origen natural, estructura homogéneo, humedo, sin material<br>orgánico ni raíces, consistencia firme, resistencia seca baja, dilatancia rápida, sin tenacidad, sin<br>cementación.<br>ESTRATO|
+|**REGISTRO FOTOGRÁFICO**|**REGISTRO FOTOGRÁFICO**|**REGISTRO FOTOGRÁFICO**|
+|**OBSERVACIÓN GENERAL**<br>Sitio rural, sembrado, con ondulaciones leves, presencia de árboles nativos aislados y en los alrededores, sin accidentes grográficos en el sitio, se encuentra a<br>1,800 m del río Calle Calle. Suelos limosos de capacidad estructural media, se excava con facilidad con una retroexcavadora y los paramentos se mantienen<br>estables.|**OBSERVACIÓN GENERAL**<br>Sitio rural, sembrado, con ondulaciones leves, presencia de árboles nativos aislados y en los alrededores, sin accidentes grográficos en el sitio, se encuentra a<br>1,800 m del río Calle Calle. Suelos limosos de capacidad estructural media, se excava con facilidad con una retroexcavadora y los paramentos se mantienen<br>estables.|**OBSERVACIÓN GENERAL**<br>Sitio rural, sembrado, con ondulaciones leves, presencia de árboles nativos aislados y en los alrededores, sin accidentes grográficos en el sitio, se encuentra a<br>1,800 m del río Calle Calle. Suelos limosos de capacidad estructural media, se excava con facilidad con una retroexcavadora y los paramentos se mantienen<br>estables.|

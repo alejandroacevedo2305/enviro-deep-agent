@@ -1,0 +1,18 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20221228155249
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|3<br>6<br>5 7<br>10<br>22<br>26<br>28<br>8<br>26<br>9<br>4<br>14<br>11<br>27 26<br>22<br>25 15 16<br>13<br>18<br>12<br>24<br>21 19 23<br>20<br>2<br>1<br> ́<br> ́<br> ́<br>17<br>M I N I N G & I N F R A S T R U C T U R E|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**|**& I N F R A S T R U C T U R E**<br>**M I N I N G**|**& I N F R A S T R U C T U R E**<br>**M I N I N G**||
+| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**||||
+| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**| ́<br> ́<br> ́<br>17<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>18<br>20<br>19<br>21<br>~~22~~<br>23<br>24<br>25<br>~~26~~<br>~~27~~<br>26<br>26<br>9<br>28<br>22<br>**& I N F R A S T R U C T U R E**<br>**M I N I N G**||||
+||||||||

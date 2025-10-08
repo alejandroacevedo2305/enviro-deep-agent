@@ -1,0 +1,15 @@
+---
+title: 02
+author: Desconocido
+date: D:20230302183819
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|CONTENIDO :|INFORMACION DIA<br>ESCALA 1/200<br>N° PLANO :<br>FECHA 02-03-2023 F - 0 2<br>DIBUJO J.H.M.S.|Col4|
+|---|---|---|---|
+||BODEGA REEMPAQUE<br>BOG. RES. NO PELIGROSOS<br>BOD. RES. ASIMILABLES<br>DOMICILIARIOS|BODEGA REEMPAQUE<br>BOG. RES. NO PELIGROSOS<br>BOD. RES. ASIMILABLES<br>DOMICILIARIOS|BODEGA REEMPAQUE<br>BOG. RES. NO PELIGROSOS<br>BOD. RES. ASIMILABLES<br>DOMICILIARIOS|

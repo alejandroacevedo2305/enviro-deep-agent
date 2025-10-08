@@ -1,0 +1,483 @@
+---
+title: Microsoft Word - 2. 9 TER.docx
+author: Desconocido
+date: D:20141120174653Z00'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - 8
+-->
+
+# 8
+ DESCRIPCIÓN
+ DE
+ RELACIÓN
+ ENTRE
+ PROYECTOS
+ Y
+ POLÍTICAS,
+ PLANES
+ Y** **PROGRAMAS
+ DE
+ DESARROLLO
+ REGIONAL
+ Y
+ COMUNAL
+ (art.
+ 9
+ ter,
+ Ley** **20.417)**
+
+El
+ proyecto
+ en
+ evaluación
+ se
+ ubica
+ en
+ Río
+ Pudeto,
+ Sector
+ Pudeto,
+ comuna
+ de
+ Ancud,
+ Región
+ de
+ Los
+Lagos,
+ y
+ tiene
+ por
+ titular
+ a
+ Sociedad
+ Comercial
+ Río
+ Mar
+ Limitada.
+ El
+ objetivo
+ del
+ proyecto
+ es
+ el
+cultivo
+ de
+ macroalgas
+ de
+ Gracilaria
+ sp.
+ (pelillo),
+ y
+ contempla
+ una
+ de
+ producción
+ de
+ 866
+ ton.
+ Se
+trata
+ de
+ un
+ emprendimiento
+ local
+ de
+ acuicultura
+ a
+ pequeña
+ escala.
+
+La
+ relación
+ del
+ proyecto
+ con
+ las
+ Políticas,
+ Planes
+ y
+ Programas
+ de
+ Desarrollo
+ Regional
+ y
+ Comunal
+contempla
+ la
+ “Estrategia
+ Regional
+ de
+ Desarrollo
+ Región
+ de
+ Los
+ Lagos
+ 2009-­‐2020
+ (Gobierno
+Regional
+ de
+ Los
+ Lagos)”,
+ “Plan
+ Regulador
+ Comunal
+ de
+ Ancud
+ 2000-­‐2009”
+ y
+ “Plan
+ de
+ Desarrollo
+Comunal
+ de
+ Ancud
+ 2010-­‐2018”.
+
+**Estrategia
+ Regional
+ de
+ Desarrollo
+ Región
+ de
+ Los
+ Lagos
+ 2009-­‐2020
+ (Gobierno
+ Regional
+ de
+ Los**
+**Lagos)**
+
+De
+ las
+ Zonas
+ Estratégicas
+ de
+ Desarrollo
+ el
+ proyecto
+ se
+ encuentra
+ situada
+ en
+ el
+ área
+ “Acuícola
+ y
+ de
+la
+ Pesca
+ Artesanal”.
+ En
+ cuanto
+ a
+ los
+ Ejes
+ de
+ Desarrollo
+ Regional
+ es
+ posible
+ situar
+ el
+ proyecto
+ en
+ el
+Eje
+ “Competitividad
+ Regional”,
+ Lineamiento
+ Estratégico
+ “consolidar
+ un
+ modelo
+ de
+ ordenamiento
+del
+ borde
+ costero
+ que
+ incorpore
+ las
+ actividades
+ productivas,
+ de
+ conservación
+ y
+ de
+ recreación
+ con
+la
+ pesca
+ artesanal
+ (extractiva
+ y
+ áreas
+ de
+ manejo)
+ y
+ concesiones
+ de
+ acuicultura”,
+ objetivo
+“favorecer
+ el
+ desarrollo
+ sustentable
+ de
+ la
+ pesca
+ artesanal
+ y
+ acuicultura,
+ considerando
+ la
+ capacidad
+de
+ carga
+ del
+ ecosistema”.
+ En
+ este
+ sentido,
+ y
+ por
+ tratarse
+ de
+ un
+ proyecto
+ de
+ acuicultura
+ a
+ pequeña
+escala,
+ se
+ propone
+ el
+ siguiente
+ indicador:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Limpieza de<br>playa en área<br>del proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo de<br>macroalgas<br>(pelillo)|N° total de<br>limpiezas<br>semestral de<br>playa|1 limpieza<br>semestral de<br>playa|Registro limpieza de<br>playa y fotografías<br>asociadas|
+
+**Plan
+ Regulador
+ Comunal
+ de
+ Ancud
+ 2000-­‐2009**
+
+Conforme
+ al
+ Plan
+ Regulador
+ Comunal
+ 2000-­‐2009
+ (PRC) [1],
+ el
+ proyecto,
+ dada
+ su
+ ubicación,
+ se
+encuentra
+ fuera
+ de
+ su
+ ámbito
+ de
+ acción.
+ No
+ obstante,
+ el
+ PRC
+ se
+ encuentra
+ actualmente
+ en
+proceso
+ de
+ actualización
+ a
+ través
+ de
+ la
+ Evaluación
+ Ambiental
+ Estratégica [2],
+ quedando
+ dentro
+ del
+límite
+ urbano
+ propuesto.
+ Al
+ respecto,
+ el
+ proyecto
+ se
+ sitúa
+ en
+ un
+ ámbito
+ fluvial
+ (estuario
+ Río
+Pudeto),
+ caracterizado
+ por
+ actividades
+ productivas
+ a
+ escala
+ artesanal,
+ entre
+ ellas
+ el
+ cultivo
+ de
+pelillo.
+ Al
+ tratarse
+ de
+ un
+ emprendimiento
+ local,
+ en
+ el
+ marco
+ de
+ una
+ acuicultura
+ de
+ pequeña
+ escala,
+se
+ propone,
+ el
+ siguiente
+ indicador:
+
+1 http://www.muniancud.cl/transparencia/municipalidad/inicio/index.php?dir=10%20Mecanismos%20de%20
+Participaci%C3%B3n%20Ciudadana/10.9%20Plano%20Regulador/
+2 http://eae.mma.gob.cl/index.php/ficha/buscar_detalle_ficha/108
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Limpieza de<br>playa en área<br>del proyecto|Número semestral<br>de veces que se<br>realiza limpieza de<br>playa|Encargado<br>centro de<br>cultivo de<br>macroalgas<br>(pelillo)|N° total de<br>limpiezas<br>semestral de<br>playa|1 limpieza<br>semestral de<br>playa|Registro<br>limpieza de<br>playa y<br>fotografías<br>asociadas|
+
+**Plan
+ de
+ Desarrollo
+ Comunal
+ de
+ Ancud
+ 2010-­‐2018**
+
+Dados
+ los
+ lineamientos
+ y
+ objetivos
+ estratégicos
+ el
+ Plan
+ de
+ Desarrollo
+ Comunal
+ de
+ Ancud
+(PLADECO),
+ es
+ posible
+ situar
+ el
+ proyecto
+ dentro
+ del
+ “lineamiento
+ estratégico
+ N°1:
+ crecimiento
+económico,
+ diversificación
+ y
+ mejoramiento
+ de
+ la
+ competitividad
+ comunal”,
+ “objetivo
+ estratégico
+N°1:
+ fortalecimiento
+ del
+ aparato
+ productivo,
+ la
+ competitividad
+ regional
+ y
+ la
+ generación
+ de
+ valor
+agregado
+ comunal”.
+ El
+ PLADECO
+ plantea
+ como
+ proyecto
+ un
+ “programa
+ de
+ desarrollo
+ acuícola
+ de
+ la
+Bahía
+ de
+ Ancud
+ y
+ Río
+ Pudeto”
+ para
+ recursos
+ como
+ la
+ Gracilaria.
+ En
+ este
+ sentido,
+ el
+ centro
+ de
+cultivo
+ se
+ alinea
+ perfectamente
+ con
+ el
+ PLADECO,
+ siendo
+ posible
+ proponer
+ los
+ siguientes
+indicadores:
+
+|Acción|Indicador|Fuente|Fórmula|Valor Meta|Medio de<br>verificación|
+|---|---|---|---|---|---|
+|Contratación de<br>fuerza laboral<br>local (comuna<br>de Ancud)|% de trabajadores<br>locales|Encargado<br>centro de<br>cultivo de<br>macroalgas<br>(pelillo)|N° de trabajadores<br>locales*100/Total<br>de trabajadores del<br>centro de cultivo|Al menos al 50%<br>de los<br>trabajadores del<br>centro de<br>cultivo será de<br>la comuna de<br>Ancud|Fotocopia<br>simple del<br>contrato de<br>trabajo y<br>certificado de<br>residencia<br>(estarán<br>disponibles en<br>el centro de<br>cultivo)|
+|Limpieza de<br>playa en área<br>del proyecto|Número<br>semestral de<br>veces que se<br>realiza limpieza<br>deplaya|Encargado<br>centro de<br>cultivo de<br>macroalgas<br>(pelillo)|N° total de<br>limpiezas semestral<br>de playa|1 limpieza<br>semestral de<br>playa|Registro<br>limpieza de<br>playa y<br>fotografías<br>asociadas|

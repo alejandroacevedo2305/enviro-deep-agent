@@ -1,0 +1,56 @@
+---
+title: Model
+author: Desconocido
+date: D:20150209110519
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**PRODUCED BY AN AUTODESK EDUCATIONAL PRODUCT**
+
+N
+
+|CUADRO DE COORDENADAS<br>SERVIU (SAD 69)|Col2|Col3|
+|---|---|---|
+|Ptos.|Norte|Este<br>C|
+|EN-2|6,279,796|.274<br>344,352.458<br>590|
+|VU-1|6,279,88|.497<br>344,297.928<br>58|
+|VU-2|6,279,738|.684<br>344,450.052<br>591|
+|VU-3|6,279,823|.174<br>344,385.863<br>589|
+|VU-5|6,279,896|.991<br>344,409.589<br>588|
+|VU-6|6,279,871|.089<br>344,523.620<br>588|
+|VU-7|6,279,75|.704<br>344,517.572<br>592|
+|PM-6|6,279,632|.905<br>344,544.132<br>591|
+|PM-7|6,279,669|.854<br>344,635.163<br>593|
+
+PUNTO UTM BASE SERVIU (SAD 69)
+
+|BASE<br>SBD-16|NORT<br>6,280,81|E ESTE CO<br>7.78 343,310.25 576|
+|---|---|---|
+|SBD-17|6,280,61|1.00<br>343,659.67<br>580|
+
+SISTEMA COORDENADO SERVIU SAD 69
+
+PH
+
+|Col1|Col2|N : 6280200|
+|---|---|---|
+|CAL|CI - 4<br>ICATA|N : 6280100|
+||CAMINO DE TIER<br>CANAL<br>CI - 3a<br>PROBABLE TRAZADO DE TUBERIA DE AGUA POTABLE|N : 6280000<br>CI - 3|
+||PH<br>~~VU5~~<br><br>CANAL<br>ZONA CON MORAS<br>CANAL PROYECTADO - EN DESUSO<br>RA<br>CANAL EN DESUSO<br>CANAL<br>TU~~BO~~<br>5~~00~~ mm~~.~~<br>CANAL EN DESUSO<br>CLAVE DE TUBO|N : 6279900<br>CI - 5|
+||VU-3<br>~~VU~~1<br>CASA<br>CASA<br>CASA<br>CASA<br>CERCO DE MALLA<br>TUBO<br>COTA FONDO=587.55<br>DIAMETRO=800 mm.<br>TUBO<br>COTA FONDO=587.45<br>DIAMETRO=800 mm.<br>~~TUBO~~<br>COTA FONDO=589.50<br>DIAMETRO=600 mm.<br>TUBO<br>COTA FONDO=589.31<br>DIAMETRO=600 mm.<br>TUBO<br>CAMINO DE TIERRA<br>CAMINO DE TIERRA<br>CANAL<br>TUBO<br>CANAL<br><br>MURO<br>MURO<br><br>&,¢"<br>200 m<br>200 mm.|VU-6<br>MURO VIBROCRET<br>ZONA CON MORAS|
+||PH<br>~~EN2~~<br>CAMINO DE TIERRA<br>CAMINO DE TIERRA<br> DE TIERRA<br>~~CASA~~<br>MURO<br>MURO<br>MURO<br>RADIER<br>HOYO<br>200 mm.<br>¢"<br>200 mm.<br>200 mm.<br>CI - 2<br>m.<br>200 mm.<br>PROBABLE TRAZADO DE TUBERIA DE AGUA POTABLE|PH<br>PH<br>VU-7<br>VU2<br>GALPON<br>CASA<br>GALPON<br>GALPON<br>CASA<br>O VIBROCRET<br>N : 6279700<br>N : 6279800<br>RADIER|
+||GALPON<br>CAMINO<br>RADIER<br>RADIER<br><br>200 mm.<br>100 mm.<br>100 mm.<br>M.A.P.<br>PROBABLE TR|PH<br>PH<br>PM7<br>PM6<br>PISCINA<br>PISCINA<br>COTA FONDO=591.65<br>DIAMETRO=900 mm.<br>TUBO<br>COTA FONDO=591.73<br>DIAMETRO=900 mm.<br>TUBO<br>COTA FONDO=592.35<br>DIAMETRO=500 mm.<br>TUBO<br>COTA FONDO=592.21<br>DIAMETRO=500 mm.<br>TUBO<br>MUR<br>RUINAS<br>RUINAS<br>CAMINO DE TIERRA<br>CANAL<br>CANAL<br>CAMINO DE TIERRA<br>CANAL<br>CANAL<br>N : 6279600<br>RADIER<br>|
+||CI - 6 / NACIENTE<br>AZA|CASA<br>CAMINO DE TIERRA<br>CANAL<br>N : 6279500<br>DO DE TUBERIA DE AGUA POTABLE|
+|E : 344100|E : 344200<br>E : 344300<br>E : 344400<br>CLAVE DE TUBO|E : 344500<br>E : 344600<br>E : 344700<br>E : 344800<br>N : 6279400|
+
+|EL MARISCAL<br>/HYDQWDPLHQWR7RSRJUiILFR|Col2|Col3|
+|---|---|---|
+|(** 274 75 29± 223 71 94**<br>** 223 70 67**<br>**ucetop@ucetop.cl**<br>**www. u c e t o p .cl**|1:<br>ESCALA:<br>FECHA:<br>UBICACION:<br>COMUNA DE SAN BERNARDO<br>MANDANTE:<br>INMOBILIARIA EL BOSQUE<br>1 DE 1<br>LAMINA:<br>Alex Carrasc<br>DIBUJO:<br>LEVANTO<br>J.C.R. -<br>1.000<br>sept. 12, 2013<br>julio 2, 2013<br>Eduardo Mor|:<br>M.A.F.<br>CADA 0.50 mts.<br>CURVAS DE NIVEL|
+|(** 274 75 29± 223 71 94**<br>** 223 70 67**<br>**ucetop@ucetop.cl**<br>**www. u c e t o p .cl**|1:<br>ESCALA:<br>FECHA:<br>UBICACION:<br>COMUNA DE SAN BERNARDO<br>MANDANTE:<br>INMOBILIARIA EL BOSQUE<br>1 DE 1<br>LAMINA:<br>Alex Carrasc<br>DIBUJO:<br>LEVANTO<br>J.C.R. -<br>1.000<br>sept. 12, 2013<br>julio 2, 2013<br>Eduardo Mor|REVISO:<br>o S. M.<br>JOSE LOBOS CATALAN<br>TOPOGRAFO U. C.<br>ales D.|
+
+Z:\PROYECTO\Inmobiliaria El Bosque\2013\09-Septiembre\EL MARISCAL - 2013.09.12 - LEV E. 1000.dwg

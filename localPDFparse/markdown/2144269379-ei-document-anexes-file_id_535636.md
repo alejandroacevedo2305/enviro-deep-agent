@@ -1,0 +1,380 @@
+---
+title: Sin título
+author: Desconocido
+date: Sin fecha
+language: es
+type: general
+pages: 27
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Copia de Inscripción Registro de Comercio de Santiago
+-->
+
+Morandé 440
+
+Santiago
+
+# Copia de Inscripción Registro de Comercio de Santiago
+
+Teléfono:
+
+2 2390 0800
+
+www.conservador.cl
+
+info@conservador.cl
+
+El Conservador de Comercio que suscribe certifica que la inscripción adjunta, y
+
+que rola a fojas 60482 número 29589 del Registro de Comercio de Santiago del
+
+año 2019, está conforme con su original.
+
+Asimismo, certifica que la inscripción referida no tiene más subinscripciones o
+
+notas marginales que aquellas indicadas en el documento.
+
+Los derechos registrales correspondientes a esta copia ascienden a la suma de
+
+$2.600.
+
+Santiago, 31 de julio de 2019.
+
+**Carátula: 15244306**
+
+**PFV Las Cachañas SpA**
+
+Documento incorpora firma electrónica avanzada conforme a Ley N°19.799.
+La vigencia de la firma electrónica en el documento, al igual que la integridad
+y autenticidad del mismo, deben ser verificados en www.conservador.cl,
+donde estará disponible por 90 días contados desde la fecha de su emisión.
+
+Código de verificación: cic_1a6cbd-0 Documento impreso es sólo una copia del documento original.
+
+**www.conservador.cl**
+
+DV/DV
+
+## *No29589
+
+**CONSTITUCIÓN**
+
+**PFV LAS**
+
+**CACHAÑAS SpA**
+
+C: 15244306
+
+*ID: 1731773
+
+*FR: 422365
+
+## Fojas 60482
+
+Santiago, treinta de julio del año dos mil
+
+diecinueve.- A requerimiento de PFV Las
+
+Cachañas SpA, procedo a inscribir lo siguiente:
+
+ANDRÉS FELIPE RIEUTORD ALVARADO, Notario
+
+Público Titular 36a Notaría Santiago, La
+
+Concepción 65, piso 2, Providencia certifico:
+
+Por escritura pública de 23 de julio de 2019,
+
+anotada bajo el repertorio número 22.182-2019,
+
+ante mí: OENERGY GENERACIÓN SOLAR DISTRIBUIDA
+
+SpA, rol único tributario número 76.920.986-7,
+
+domiciliada en Avenida Nueva Providencia, 1881,
+
+oficina 318, Providencia, Santiago, constituyó
+
+sociedad por acciones (la “Sociedad”) cuyos
+
+estatutos son los siguientes. Nombre: PFV Las
+
+Cachañas SpA. Domicilio: El domicilio de la
+
+Sociedad será la ciudad de Santiago, Región
+
+Metropolitana. Lo anterior es sin perjuicio de
+
+poder establecer oficinas o sucursales en
+
+cualquier parte del país o el extranjero.
+
+Objeto: La Sociedad tendrá por objeto, en forma
+
+individual o en conjunto con otros, actuando
+
+por cuenta propia o de terceros, directa o
+
+indirectamente, en el país o en el extranjero,
+
+desarrollar las siguientes actividades: /i/ el
+
+desarrollo, construcción, operación,
+
+mantenimiento y explotación de proyectos de
+
+generación de electricidad en base a energías
+
+renovables no convencionales, incluyendo toda
+
+su infraestructura e instalaciones asociadas;
+
+/ii/ la transmisión de electricidad para sí o
+
+Documento incorpora Firma
+Electronica Avanzada
+Código de Verificación: cic_1a6cbd-0 pagina 2 de 4
+
+por cuenta de terceros; /iii/ la adquisición,
+
+extracción, procesamiento, transformación y
+
+comercialización de cualquier recurso, elemento
+
+o insumo necesario para la producción de
+
+electricidad o su explotación; /iv/ la venta,
+
+disposición, o comercialización a cualquier
+
+título de la producción de electricidad; /v/ la
+
+prestación de todo tipo de servicios,
+
+consultorías o asesorías relacionados con el
+
+desarrollo y gestión pre operacional y
+
+operacional de proyectos de energía eléctrica;
+
+/vi/ la inversión en todo clase de bienes,
+
+corporales e incorporales, muebles e inmuebles,
+
+que sean necesarios o útiles para la
+
+realización del objeto social; y /vii/ toda
+
+actividad u operaciones que acuerden los socios
+
+necesarias para el cumplimiento de los negocios
+
+anteriores. Capital: El capital de la Sociedad
+
+de la cantidad de un millón de pesos, moneda de
+
+curso legal, dividido en cien acciones
+
+nominativas, de una sola serie, sin valor
+
+nominal, es suscrito íntegramente por OENERGY
+
+GENERACIÓN SOLAR DISTRIBUIDA SpA. La totalidad
+
+de las acciones deberán ser íntegramente
+
+pagadas, enterando los fondos a la caja social,
+
+dentro del plazo máximo de cinco años contados
+
+de la fecha de la presente escritura.
+
+Administración: La Sociedad será administrada
+
+por un Representante. El primer representante
+
+será Ricardo Sylvester Zapata. Demás
+
+Documento incorpora Firma
+Electronica Avanzada
+Código de Verificación: cic_1a6cbd-0 pagina 3 de 4
+
+estipulaciones en escritura extractada.
+
+Santiago, 29 de julio de 2019.- Hay firma
+
+electrónica.- El extracto materia de la
+
+presente inscripción, queda agregado al final
+
+del bimestre de Comercio en curso.
+
+Documento incorpora Firma
+Electronica Avanzada
+Código de Verificación: cic_1a6cbd-0 pagina 4 de 4
+
+#### Notario Santiago Andres Felipe Rieutord Alvarado
+
+Certifico que el presente documento electrónico es copia fiel e íntegra de
+
+CONSTITUCION DE SOCIEDAD POR ACCIONES otorgado el 23 de Julio de
+
+2019 reproducido en las siguientes páginas.
+
+Notario Santiago Andres Felipe Rieutord Alvarado.
+
+La Concepción 65, piso 2. Providencia.
+
+Repertorio No: 22182 - 2019.
+
+Santiago, 24 de Julio de 2019.
+
+Emito el presente documento con firma electrónica avanzada (ley No19.799, de
+
+2002), conforme al procedimiento establecido por Auto Acordado de 13/10/2006 de la
+
+**No Certificado: 123456831952.-**
+**www.fojas.cl**
+
+**Pag: 1/21**
+
+KARINA ALEJANDRA
+FLORES MUÑOZ
+
+Excma. Corte Suprema.
+
+Certificado No 123456831952.- Verifique validez en
+
+http://fojas.cl/d.php?cod=not71ariealv&ndoc=123456831952 .
+
+CUR No: F4771-123456831952.
+
+Digitally signed by KARINA ALEJANDRA FLORES MUÑOZ
+Date: 2019.07.24 15:27:29 -04:00
+Reason: Notario Publico Andres Felipe Rieutord Alvarado
+Location: Santiago - Chile _Pag: 1/1_
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 2/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 3/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 4/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 5/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 6/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 7/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 8/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 9/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 10/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 11/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 12/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 13/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 14/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 15/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 16/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 17/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 18/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 19/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 20/21**
+
+**Cert No 123456831952**
+**Verifique** **validez** **en**
+**http://www.fojas.cl**
+
+**Pag: 21/21**

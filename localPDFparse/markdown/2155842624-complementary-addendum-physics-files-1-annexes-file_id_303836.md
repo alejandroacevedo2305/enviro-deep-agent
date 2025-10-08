@@ -1,0 +1,119 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20210127153433-03'00'
+language: es
+type: invoice
+pages: 1
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - R.U.T.: 91.489.000-4 FACTURA ELECTRONICA N° 002804548
+-->
+
+**GIRO**
+**IMPORTACION, DISTRIBUCION Y SERVICIOS, ARRENDAMIENTO DE**
+**MAQUINARIAS Y/O EQUIPOS**
+
+**SUCURSAL : Camino Lo Boza 8723**
+**Renca - Santiago**
+**Santiago**
+
+# R.U.T.: 91.489.000-4 FACTURA ELECTRONICA N° 002804548
+
+S.I.I. - SANTIAGO NORTE
+
+**CLIENTE** **BANCO DEL ESTADO DE CHILE** **RUT** **97.030.000-7 COD. INTERNO 0002028544**
+
+**DIRECCION** **AV.DEL LIBERTADOR B.O*HIGGINS 1111** **FECHA DOC** **27 / 01 / 2021**
+
+**COMUNA** **SANTIAGO** **CIUDAD** **SANTIAGO** **ORDEN DE COMPRA** **LEG30566**
+
+**GIRO** **BANCOS** **VEND. Cabrera Cristian**
+
+**REFERENCIA** **0090663164**
+
+**MODELO** **No SERIE** **MILLAS HORA**
+
+**DIRECCION DESTINO** **ROSARIO NORTE PISO 17 615** **COMUNA DESTINO** **LAS CONDES**
+
+**SOLICITANTE** **MAQUINARIA PY S.A** **RUT** **99567250-2**
+
+**TRANSPORTISTA** **RUT** **PAT**
+
+**CANTIDAD** **CODIGO** **DESCRIPCION** **PRECIO UNIT** **DESCUENTO** **VALOR**
+
+**1** **CB2.7_STD.AA** **ROPS FOLD BALLAST PACK 400KG** **23.245.800** **0** **23.245.800**
+
+**ID: 10030537**
+
+**TIPO: MAQUINA INDUSTRIAL**
+
+**MARCA: CATERPILLAR**
+
+**MODELO: CB2.7**
+
+**SERIE: R5200491**
+
+**N° MOTOR: CMY07131**
+
+**COLOR: AMARILLO**
+**NÚMERO DE CHASIS: CAT0CB27VR5200491**
+**AÑO: 2021**
+
+**ESTADO: NUEVOS**
+
+**COMBUSTIBLE:**
+**PAÍS: ITALIA**
+
+**PIN: CAT0CB27VR5200491**
+
+**D.I.: 6781849369-7 PRIMERA VENTA EN CHILE**
+**FECHA ACEPTACIÓN: 05.12.2019**
+
+**PBV 2.440 KGS / COMBUSTIBLE: DIESEL**
+**OPERACIÓN N° 1021966**
+
+**RODILLO COMPACTADOR DE ASFALTO**
+
+**SON USD 31800.00 X TC 731.00**
+
+**BIEN EXENTO DEL PAGO AL IMPUESTO A LA TRANSFERENCIA DE ACUERDO AL**
+**ARTÍCULO 12 DEL DECRETO LEY 3.063 DE AÑO 1975, POR SER UNA MAQUINARIA**
+**INDUSTRIAL Y POR SUS CARACTERÍSTICAS NO ESTÁ DESTINADA A CIRCULAR POR**
+**LA VÍA PÚBLICA. YA QUE NO POSEE PERMISO DE CIRCULACIÓN**
+**CONDICIÓN DE PAGO: 30 DIAS FECHA FACTURA**
+
+**REFERENCIA**
+**O/C:LEG30566 25-01-2021 ;**
+
+**Dto. Adicional** **0**
+
+**NETO** **23.245.800**
+
+**SON : VEINTISIETE MILLONES SEISCIENTOS SESENTA Y DOS MIL QUINIENTOS DOS**
+
+**PESOS**
+
+Fecha de Venc.: 26 / 02 / 2021 Generado por: FFERNANDEZ
+
+**NOMBRE** **RUT**
+
+**RECINTO**
+
+**FECHA** **FIRMA**
+
+El acuse de recibo que se declara en este acto de acuerdo a lo dispuesto en la letra b) del Art. 4o, y la
+letra c) del Art. 5o de la Ley 19983, acredita que la entrega de la mercaderia(s) o servicio(s) prestado(s)
+ha(s) sido recibido(s).
+
+**19 % I.V.A.** **4.416.702**
+
+**TOTAL** **27.662.502**
+
+**Timbre Electrónico S.I.I.**
+**Res. 125 del 24/11/2005 - Verifique documento: "www.sii.cl"**

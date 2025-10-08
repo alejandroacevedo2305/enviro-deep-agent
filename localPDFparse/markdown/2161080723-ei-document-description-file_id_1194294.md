@@ -1,0 +1,25 @@
+---
+title: PL-001
+author: Desconocido
+date: D:20231011130613
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|A.N.S.|P.F.O.|
+|---|---|
+|A.N.S.|P.F.O.|
+|A.N.S.|P.F.O.|
+|A.N.S.|P.F.O.|
+|A.N.S.|P.F.O.|
+|PROY.<br>|REV.<br>|
+
+|FIRMAS|Col2|
+|---|---|
+|PROYECTISTA<br>PROPIE<br>INGENIERO CIVIL INDUSTRIAL<br>CRISTIAN CUETO BELMAR<br>RUT:10.363.972-7<br><br>NOMBRE:<br>DIRECCIÓ<br>RUT:<br>NOMBRE R<br>RUT RL:|TARIO<br>TAO INVERSIONES SPA<br>N:<br>L:<br>PABLO GENOVESE G.<br>16.938.179-8<br>CAMINO RITOQUE-QUINTERO S/N°, LOTE D-1<br>76.532.288-K<br>|
+|FIR<br>CONTRATISTA<br>No<br>PROYE<br>CERTIF<br>AVENIDA LAS CONDES 10.465, OF 432 - LAS CONDES|FECHA<br>CTO DEFINITIVO<br>ICADO DE RECEPCIÓN<br>PARCELA LAS SALINAS, QUINTERO|
+|FIR<br>CONTRATISTA<br>No<br>PROYE<br>CERTIF<br>AVENIDA LAS CONDES 10.465, OF 432 - LAS CONDES|MA EMPRESA DE SERVICIO SANITARIO|

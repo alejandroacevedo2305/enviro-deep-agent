@@ -1,0 +1,52 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20240902182045-04'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|B|A|No|
+|---|---|---|---|
+||**EMITIDO PARA APROBACION DE LA ACM**|**EMITIDO PARA APROBACION DE LA ACM**|**MODIFICACION**|
+||**F.P.**|**F.P.**|**REVISO**|
+||**F.P.**|**F.P.**|**APROBO**|
+||**11.06.2024**|**13.12.2023**|**FECHA**|
+
+|PLANO: No 4 DE 5|APROBACION Miguel Firmado digitalmente por Miguel Carvajal Rojas DN: C=CL, OU=Departamento de Mn I ag ie pn oi,e ría N, O M= igA us eo lc ia ac ió van aC a Rn oa jl ae ss de Carvajal C = C r j l, E=mcarvajal@asocanalesmaipo.cl Razón: Estoy aprobando este Uo d bc icu am ce ión nt :o Rojas V irginia Subercaseaux 5946, Recinto El Clarillo. PIRQUE. Fecha: 2024-09-02 18:23:04 Foxit Reader Versión: 9.7.0 INGENIERO REVISOR ASOCIACIÓN CANALES DE MAIPO|ASOCIACION CANALES DE MAIPO APROBADO POR LA ASOCIACION CANALES DE MAIPO POR OFICIO No 227/2024 DE FECHA, 02 DE SEPTIEMBRE DE 2024|CONTENIDO: SITUACIÓN PROYECTADA PERFIL LONGITUDINAL PROYECTADA DETALLES PROYECTADO POR : FELIPE PEÑA PROYECTISTA INGENIERO CIVIL|PROYECTO MODIFICACION DE CAUCE ARTIFICIAL PROYECTO DE ENTUBAMIENTO DE CANAL CANAL INTERIOR EL TRIUNFO DE CHILE COMUNA DE PADRE HURTADO|CANALIZACION|
+|---|---|---|---|---|---|
+|FECHA:<br>JUNIO 2024|FECHA:<br>JUNIO 2024|FECHA:<br>JUNIO 2024|FECHA:<br>JUNIO 2024|FECHA:<br>JUNIO 2024|FECHA:<br>JUNIO 2024|
+|INDICADAS<br>ESCALAS:|INDICADAS<br>ESCALAS:|INDICADAS<br>ESCALAS:|INDICADAS<br>ESCALAS:|INDICADAS<br>ESCALAS:|INDICADAS<br>ESCALAS:|
+
+|MATERIALIDAD|GRADIENTE Y PENDIENTE|COTA DE RADIER (m)|COTA DE TAPA (m)|COTA DE BORDE DERECHO (m)|COTA DE BORDE IZQUIERDO (m)|COTA DE FONDO DE CANAL (m)|DISTANCIA ACUMULADA|
+|---|---|---|---|---|---|---|---|
+|CANAL ENTUBADO<br>TUBO HDPE<br>600mm|i=0.0028|462.57<br>462.50<br>462.43<br>462.36<br>462.31<br>461.82<br>462.28<br>462.24<br>462.19<br>462.15<br>462.13<br>462.09<br>462.04<br>461.99<br>461.95<br>461.92<br>461.89<br>461.85|463.88|462.11<br>462.11<br>461.98<br>462.14|462.10<br>462.13<br>461.98<br>462.13|461.80<br>461.75<br>461.62<br>461.82|25.00<br>476.02<br>25.00<br>501.02<br>25.00<br>526.02<br>17.00<br>551.02<br>18.98<br>568.02<br>863.15<br>867.28<br>901.25<br>932.93<br>22.00<br>33.00<br>19.00<br>16.00<br>25.00<br>29.00<br>30.00<br>23.00<br>17.00<br>20.00<br>24.00<br>18.15<br>4.13<br>33.97<br>31.68<br>587.00<br>609.00<br>642.00<br>661.00<br>677.00<br>702.00<br>731.00<br>761.00<br>784.00<br>801.00<br>821.00<br>845.00|
+|CANAL ENTUBADO<br>TUBO HDPE<br>600mm|i=0.0028|462.57<br>462.50<br>462.43<br>462.36<br>462.31<br>461.82<br>462.28<br>462.24<br>462.19<br>462.15<br>462.13<br>462.09<br>462.04<br>461.99<br>461.95<br>461.92<br>461.89<br>461.85|463.72<br>463.55<br>463.38<br>463.26<br>462.14<br>463.17<br>463.13<br>463.06<br>463.02<br>462.99<br>462.94<br>462.88<br>462.82<br>462.78<br>462.74<br>462.70<br>462.38|463.72<br>463.55<br>463.38<br>463.26<br>462.14<br>463.17<br>463.13<br>463.06<br>463.02<br>462.99<br>462.94<br>462.88<br>462.82<br>462.78<br>462.74<br>462.70<br>462.38|463.72<br>463.55<br>463.38<br>463.26<br>462.14<br>463.17<br>463.13<br>463.06<br>463.02<br>462.99<br>462.94<br>462.88<br>462.82<br>462.78<br>462.74<br>462.70<br>462.38|463.72<br>463.55<br>463.38<br>463.26<br>462.14<br>463.17<br>463.13<br>463.06<br>463.02<br>462.99<br>462.94<br>462.88<br>462.82<br>462.78<br>462.74<br>462.70<br>462.38|463.72<br>463.55<br>463.38<br>463.26<br>462.14<br>463.17<br>463.13<br>463.06<br>463.02<br>462.99<br>462.94<br>462.88<br>462.82<br>462.78<br>462.74<br>462.70<br>462.38|
+|CANAL ABIERTO<br>SECCIÓN TRAPECIAL EN TIERRA<br>+ EMPLANTILLADO DEL FONDO<br>0.60x0.80m (n:2.0)|i=0.00167|i=0.00167|i=0.00167|i=0.00167|i=0.00167|i=0.00167|i=0.00167|
+|||||||||
+
+|Col1|Col2|
+|---|---|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||

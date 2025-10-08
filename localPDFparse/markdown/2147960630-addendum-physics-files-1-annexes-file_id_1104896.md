@@ -1,0 +1,21 @@
+---
+title: Sin título
+author: Desconocido
+date: Sin fecha
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|CIONAL DIAGRAMA DE PROCESO Y BALANCE DE MASA_TERRAPURA<br>ÑO 2<br>ION UVA GENERACION DE RESIDUOS|Col2|Col3|
+|---|---|---|
+|EGA<br>3.092 <br>a/año<br><br>RILES<br>RISES<br>LODOS<br>BORRAS|EGA<br>3.092 <br>a/año<br><br>RILES<br>RISES<br>LODOS<br>BORRAS|EGA<br>3.092 <br>a/año<br><br>RILES<br>RISES<br>LODOS<br>BORRAS|
+|LAVADO DE<br>PISOS<br>PCION<br>AJE<br>10.588 mt3/año<br>ILLADO<br>UES DE<br>TACION<br>LAVADO DE<br>EQUIPOS<br>4.182 mt3/año<br>AGUA DE<br>ENFRIAMIENTO<br>20.528<br>mt3/año<br>SADO<br>ATICO<br>LAVADO DE<br>EQUIPOS<br>4.829 mt3/año|Orujos 10% humedad<br>2.151.000 kg/año<br>SUB TOTAL RISES<br>DE PROCESO AÑO<br>2.151.000 Kg/año<br>TOTAL TIERRA<br>FILTRANTE AÑO<br>21.000 Kg/año<br>SOLIDOS < 5 mm<br>11.900 Kg/año<br>83.600 Kg/año<br>SOLIDOS < 0,5 mm<br>LODOS<br>PRECIPITADOS<br>HUMEDAD < 70%<br>110.933 Kg/año<br>55.467 Kg/año<br>LODOS FLOTADOS<br>HUMEDAD < 70%<br>TIERRA<br>FILTRANTE<br>21.000 kg/año|Orujos 10% humedad<br>2.151.000 kg/año<br>SUB TOTAL RISES<br>DE PROCESO AÑO<br>2.151.000 Kg/año<br>TOTAL TIERRA<br>FILTRANTE AÑO<br>21.000 Kg/año<br>SOLIDOS < 5 mm<br>11.900 Kg/año<br>83.600 Kg/año<br>SOLIDOS < 0,5 mm<br>LODOS<br>PRECIPITADOS<br>HUMEDAD < 70%<br>110.933 Kg/año<br>55.467 Kg/año<br>LODOS FLOTADOS<br>HUMEDAD < 70%<br>TIERRA<br>FILTRANTE<br>21.000 kg/año|
+|UES DE<br>RDA<br>LAVADO DE<br>EQUIPOS<br>22.350<br>mt3/año|UES DE<br>RDA<br>LAVADO DE<br>EQUIPOS<br>22.350<br>mt3/año|UES DE<br>RDA<br>LAVADO DE<br>EQUIPOS<br>22.350<br>mt3/año|
+|ELLADO<br>LAVADO DE<br>EQUIPOS<br>4.421 mt3/año<br>HO VINO<br>NEL<br>ROS VINO<br>IDO CON<br>BIDA AÑO<br>19 lt/año<br>TOTAL RIL DE<br>PROCESO AÑO<br>66.898 mt3/año<br>PROMEDIO LTS RIL<br>POR LT VINO<br>PRODUCIDO =3<br>PROMEDIO<br>PRODUCCION RIL<br>279m3/dia<br>TRATAMIENTO<br>DE RILES<br>CAMARA DE<br>DESBASTE<br>66.891 mt3/año<br>FILTRO<br>PARABOLICO <br>( ROTATORIO)<br>66.842 mt3/año<br>ESTANQUE<br>PRECIPITACION<br>66.810 mt3/año<br>ESTANQUE<br>FLOTACION D.A.F.<br>66.745 mt3/año<br>03 lt/año<br>ROS VINO<br>DOS A<br>SO AÑO<br>CELDA DE<br>BIOFILTRADO N°1<br>CELDA DE<br>BIOFILTRADO N°2|ELLADO<br>LAVADO DE<br>EQUIPOS<br>4.421 mt3/año<br>HO VINO<br>NEL<br>ROS VINO<br>IDO CON<br>BIDA AÑO<br>19 lt/año<br>TOTAL RIL DE<br>PROCESO AÑO<br>66.898 mt3/año<br>PROMEDIO LTS RIL<br>POR LT VINO<br>PRODUCIDO =3<br>PROMEDIO<br>PRODUCCION RIL<br>279m3/dia<br>TRATAMIENTO<br>DE RILES<br>CAMARA DE<br>DESBASTE<br>66.891 mt3/año<br>FILTRO<br>PARABOLICO <br>( ROTATORIO)<br>66.842 mt3/año<br>ESTANQUE<br>PRECIPITACION<br>66.810 mt3/año<br>ESTANQUE<br>FLOTACION D.A.F.<br>66.745 mt3/año<br>03 lt/año<br>ROS VINO<br>DOS A<br>SO AÑO<br>CELDA DE<br>BIOFILTRADO N°1<br>CELDA DE<br>BIOFILTRADO N°2|ELLADO<br>LAVADO DE<br>EQUIPOS<br>4.421 mt3/año<br>HO VINO<br>NEL<br>ROS VINO<br>IDO CON<br>BIDA AÑO<br>19 lt/año<br>TOTAL RIL DE<br>PROCESO AÑO<br>66.898 mt3/año<br>PROMEDIO LTS RIL<br>POR LT VINO<br>PRODUCIDO =3<br>PROMEDIO<br>PRODUCCION RIL<br>279m3/dia<br>TRATAMIENTO<br>DE RILES<br>CAMARA DE<br>DESBASTE<br>66.891 mt3/año<br>FILTRO<br>PARABOLICO <br>( ROTATORIO)<br>66.842 mt3/año<br>ESTANQUE<br>PRECIPITACION<br>66.810 mt3/año<br>ESTANQUE<br>FLOTACION D.A.F.<br>66.745 mt3/año<br>03 lt/año<br>ROS VINO<br>DOS A<br>SO AÑO<br>CELDA DE<br>BIOFILTRADO N°1<br>CELDA DE<br>BIOFILTRADO N°2|
+|ROS VINO<br>CIDO EN<br>A AÑO<br>TOTAL RILES TRATADOS A<br>DISPOSICIÓN AÑO<br>T<br>|OTAL RISES ENVIO A LUGAR<br>AUTORIZADO AÑO<br>TOTAL DE LODOS DESHIDRATADOS<br>ENVIO A LUGAR AUTORIZADO AÑO<br>TOTAL TIERRA FILTRANTE AÑO<br><br><br>|OTAL RISES ENVIO A LUGAR<br>AUTORIZADO AÑO<br>TOTAL DE LODOS DESHIDRATADOS<br>ENVIO A LUGAR AUTORIZADO AÑO<br>TOTAL TIERRA FILTRANTE AÑO<br><br><br>|
+|22 lt/año<br>66.745 mt3/año<br>Disposicion Ril tratado a riego<br>278 mt3/dia|2.246.500 Kg/año<br>166.400 Kg/año<br>21.000 Kg/año|2.246.500 Kg/año<br>166.400 Kg/año<br>21.000 Kg/año|
+|22 lt/año<br>66.745 mt3/año<br>Disposicion Ril tratado a riego<br>278 mt3/dia|TOTAL RESIDUOS Y LODOS ENVIADOS A LUGAR AUTORIZADO<br>2.433.900 kg/año||

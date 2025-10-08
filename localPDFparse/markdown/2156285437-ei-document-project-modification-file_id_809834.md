@@ -1,0 +1,106 @@
+---
+title: CAPÍTULO 13 – FIRMA
+author: Veronica Alarcon
+date: D:20220617220747-04'00'
+language: es
+type: general
+pages: 7
+has_toc: False
+has_tables: True
+extraction_quality: high
+keywords: [“AJUSTES PROYECTO COLLAHUASI”]
+---
+
+**1.** **MODIFICACIÓN DE PROYECTO O ACTIVIDAD**
+
+De acuerdo con el artículo 12 del D.S. N° 40/2012, donde se establece que “El titular deberá indicar si el proyecto o actividad sometido a
+evaluación modifica un Proyecto o actividad. Además, en caso de ser aplicable, deberá indicar las Resoluciones de Calificación Ambiental
+del Proyecto o Actividad que se verán modificadas, indicando de qué forma”, se establece que las obras, partes y acciones que forman
+parte del presente Proyecto modifican las resoluciones de Calificación Ambiental siguientes:
+
+ - R.E. N° 713/2199, del 27 de diciembre de 1995, Aprueba el Estudio de Impacto Ambiental del _“Proyecto Minero Collahuasi”._
+
+ R.E. N° 20219900112, del 21 diciembre de 2021, califica ambientalmente favorable el Estudio de Impacto Ambiental del Proyecto
+
+“Desarrollo de Infraestructura y Mejoramiento de Capacidad Productiva de Collahuasi”.
+
+**1.1** **Modificación “Proyecto Minero Collahuasi”**
+
+El presente Proyecto modifica la R.E. N° 713/2199, ya que reemplaza la Garita de acceso al Puerto Collahuasi que fue parte de dicho
+proceso de evaluación ambiental, debido a que se incorpora una Nueva Garita para el acceso a Puerto Collahuasi, la cual tendrá
+instalaciones de seguridad, vigilancia y control de acceso, así como instalaciones sanitarias, estacionamientos, sala eléctrica y áreas
+verdes.
+
+Mencionar que en el proceso de evaluación ambiental del “Proyecto Minero Collahuasi” no se estableció un polígono o área específica de
+emplazamiento de las instalaciones en el área Puerto, así como tampoco se precisó la ubicación de la garita de acceso, por lo cual en la
+presente DIA se incorporan todos los antecedentes necesarios para su evaluación ambiental.
+
+**1.2** **Modificaciones Proyecto “Desarrollo de Infraestructura y Mejoramiento de Capacidad Productiva de Collahuasi”**
+
+A continuación, en la Tabla 1-1 se describen en forma resumida las modificaciones a la R.E. N° 20219900112:
+
+“AJUSTES PROYECTO COLLAHUASI” Página 1 de 7
+
+**Tabla 1-1. Detalle de Obras que Modifica el Proyecto**
+
+|Considerando|Obras y partes aprobadas R.E. N° 20219900112|Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi”|
+|---|---|---|
+|**Mejoramiento de capacidad productiva**|**Mejoramiento de capacidad productiva**|**Mejoramiento de capacidad productiva**|
+|Considerando 4.3.2<br>Fase de Operación|Línea de producción de concentrado - Molienda y<br>chancado de pebbles<br>En la tercera línea de molienda se reemplazará el quinto<br>molino de bolas por uno de 21.000 kW que estará<br>asociado a cuatro baterías de hidrociclones y que<br>además podrá recibir alimentación parcial de cada una<br>de las líneas de alimentación del circuito de ciclones.|Se realizan modificaciones en la línea del Quinto Molino de Bolas,<br>descrito para la tercera línea de molienda, para alcanzar la tasa de<br>procesamiento del EIA (210 ktpd), por lo cual se incluyen las<br>siguientes obras, partes y acciones:<br>• Aumento del tamaño del Quinto Molino, reemplazándolo por<br>uno de 28 ́x46, de 22.000 W de potencia instalada.<br>• Cambio de ubicación de Sala Eléctrica N°2 - TAG 144-ER-<br>002, que provee de energía al Quinto Molino.<br>• Modificación del Sistema de Enfriamiento del Quinto Molino,<br>aumentando su capacidad de refrigeración.<br>• Habilitación<br>de<br>2 <br>nuevas<br>correas<br>transportadoras<br>denominadas 3001 y 3002 para conectar el Quinto Molino con<br>el Chancado de Pebbles.<br>• Incorporación de Muestreador Metalúrgico para la pulpa<br>proveniente del Quinto Molino.|
+|Considerando 4.3.2<br>Fase de Operación|Línea de producción de concentrado - Flotación<br>colectiva<br>En la primera limpieza, se contará con las celdas<br>existentes, de 3 filas de 9 celdas de 160 m3, y dos filas<br>de 9 celdas de 127 m3, que serán alimentadas con el<br>producto de la remolienda y la cola de la segunda<br>limpieza. Los concentrados podrán ser enviados<br>directamente a espesamiento o a la segunda limpieza.<br>El concentrado scavenger será recirculado a la<br>remolienda y el relave se enviará a su disposición final<br>en el depósito.<br>Finalmente, en la segunda limpieza se consideran las 14<br>celdas de la operación actual. El concentrado obtenido<br>será enviado a espesamiento y las colas serán<br>recirculadas a la primera limpieza.|Se consideran modificaciones en el proceso de flotación,<br>incluyendo las siguientes partes, obras y acciones:<br>• Se incorporan 3 nuevas Celdas Jameson adicionales para la<br>flotación de segunda limpieza.<br>• Se incorpora 1 Celda Jameson adicional a las 2 existentes al<br>circuito de flotación de repaso.<br>• Incorporación tercera descarga a Cajón Alimentador de<br>flotación de repaso.|
+
+“AJUSTES PROYECTO COLLAHUASI” Página 2 de 7
+
+|Considerando|Obras y partes aprobadas R.E. N° 20219900112|Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi”|
+|---|---|---|
+||En total, el circuito de flotación contará con 63 celdas de<br>flotación de 127 m3 c/u, 27 celdas de 160 m3 y 36 celdas<br>de 300 m3. Además, se consideran 14 celdas<br>columnares de segunda limpieza.||
+|Considerandos<br>4.3.1<br>Fase<br>de<br>Operación<br>4.3.2<br>Fase<br>de<br>Operación|Línea de producción de concentrado - Planta de<br>flotación selectiva de molibdeno<br>Línea existente Planta de Molibdeno: incluye circuito<br>pre-rougher, estanques de almacenamiento y otras<br>modificaciones menores.<br>Nueva línea Planta de Molibdeno: incluye la recepción<br>del<br>concentrado<br>colectivo;<br>flotación<br>pre-rougher;<br>flotación<br>rougher,<br>primera<br>y <br>segunda<br>limpieza;<br>clasificación y flotación de tercera y cuarta limpieza;<br>espesamiento de concentrado de molibdeno; y filtrado,<br>secado y envasado de concentrado de molibdeno.<br>El producto final de molibdeno (21.850 t/año como<br>promedio) será envasado en maxisacos y llevado a las<br>áreas de almacenamiento (una existente de 500 m2 y<br>dos proyectadas de 1.100 m2 y 1.200 m2), ubicadas en<br>el área industrial en el sector Puerto Collahuasi|Se consideran modificaciones a la<br>Planta<br>de<br>flotación<br>selectiva de molibdeno ubicada en Puerto Collahuasi, considerando<br>las siguientes partes, obras y acciones:<br>• Modificaciones de la Línea existente Planta de Molibdeno<br>existente, incorporando nueva batería de hidrociclones, y<br>descartando lo mencionado en el EIA.<br>• Modificación de Nueva planta de molibdeno: Incluyendo<br>batería de hidrociclones, - Flotación<br>rougher,<br>primera,<br>segunda y tercera limpieza, -<br>Espesador intermedio de<br>concentrado de Mo,<br>Cuarta limpieza,<br>Espesador<br>de concentrado de Mo, -<br>Filtrado, secado y ensacado de<br>Mo.<br>• Reducción superficie área de almacenamiento maxisacos de<br>1.100 m2 a 900 m2.|
+|Considerando 4.3.2<br>Fase de Operación<br>Capítulo<br>1 <br>EIA,<br>Numeral 1.6.1.1.2|Línea de producción de concentrado - Planta de filtrado<br>de concentrado de cobre<br>Dentro de las obras para la producción de concentrado<br>de cobre en Puerto Collahuasi, y según lo que se<br>describe en la sección 1.6.1.1.2 del Capítulo 1 del EIA,<br>se considera la instalación de un nuevo espesador y la<br>ampliación del acopio de concentrado de cobre.<br>Se considera la instalación de un cuarto espesador de<br>concentrado de 43 m de diámetro, incluyendo una nueva<br>cañería de transporte de concentrado y su sistema de<br>bombeo...|Se incluyen modificaciones en la<br>Planta<br>de<br>filtrado<br>de<br>concentrado de cobre ubicada en Puerto Collahuasi, se modifica el<br>4to espesador por un espesador de cabeza de 72 metros de<br>diámetro, para recibir concentrado colectivo Cu-Mo desde el sector<br>Cordillera.|
+
+“AJUSTES PROYECTO COLLAHUASI” Página 3 de 7
+
+|Considerando|Obras y partes aprobadas R.E. N° 20219900112|Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi”|
+|---|---|---|
+|Considerando 4.3.1<br>Fase<br>de<br>Construcción|Línea de producción de concentrado - Disposición de<br>relaves y crecimiento del depósito<br>El crecimiento del muro Noreste se ha proyectado en<br>cinco etapas de construcción, iniciando su operación en<br>el tercer año de operación del Proyecto.<br>La construcción del muro Noroeste se desarrollará con<br>materiales de empréstito. El esquema de crecimiento<br>considera cinco etapas de crecimiento, la primera<br>comienza en el primer año de operación.|Se modifica cronograma de construcción de los muros auxiliares<br>Noreste y Noroeste del Depósito para empezar la construcción de<br>ambos desde el año dos, es decir año 2023.|
+|**Instalaciones de Apoyo para Proyecto**|**Instalaciones de Apoyo para Proyecto**|**Instalaciones de Apoyo para Proyecto**|
+|Considerando 4.3.1<br>Fase<br>de<br>Construcción<br>Considerando 4.3.2<br>Fase de Operación|Transmisión y distribución eléctrica<br>El trazado de cada una de las nuevas líneas de<br>transmisión de los Tramos 1 y 2 se entrega en el<br>Apéndice 1.2 del Anexo 2 de Adenda Complementaria.<br>Se elimina la Línea de transmisión 2x66 kV (S/E<br>Patache-PS2) y se incorpora la LTE de 2x220 desde<br>Geoglifos a PS2. Además, se modifica la localización de<br>la S/E Seccionadora, al sector de la PS3, y se ajusta la<br>alimentación en 220 kV a las PS3, PS4 y PS5.<br>Las coordenadas de cada una de las nuevas líneas de<br>transmisión de los Tramos 1 y 2 se entregan en las<br>Tablas 21 y 23 de la Adenda, respectivamente. Para<br>alimentar las estaciones de bombeo PS3, PS4 y PS5, se<br>realizará el seccionamiento de la línea eléctrica<br>existente<br>2x220<br>kV<br>“Lagunas-Ujina”.<br>Este<br>seccionamiento<br>alimentará<br>a <br>la<br>Subestación<br>Seccionadora proyectada y ésta, a su vez, alimentará a<br>las estaciones de bombeo PS3, PS4 y PS5. Para mayor<br>detalle ver Anexo 2 de Adenda Complementaria donde<br>se encuentra la cartografía (layout) del Proyecto.|Se realizan modificaciones en el suministro de energía, las que<br>consisten en:<br>• <br>Obras Permanentes:<br>• <br>Modificación de trazado LT 2x220 kV S/E Tarapacá a S/E<br>Puerto Collahuasi, y punto de conexión en S/E Tarapacá,<br>así como la incorporación de una caseta de control. <br>• <br>Modificación del trazado LT 2x220 kV S/E Geoglifos a PS2<br>(actual S/E Caliche), de una sección de 400 metros de la<br>LT y punto de conexión en Geoglifos. <br>• <br>Modificación conexión LT 220 kV Lagunas Collahuasi a<br>Seccionadora (actual S/E Cahuiza), mediante una<br>redistribución de las LT en la conexión a S/E. <br>• <br>Modificación Layout S/E en PS4<br>• <br>Modificación conexión LT 220 kV en PS5 (actual S/E<br>Yareta).|
+
+“AJUSTES PROYECTO COLLAHUASI” Página 4 de 7
+
+|Considerando|Obras y partes aprobadas R.E. N° 20219900112|Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi”|
+|---|---|---|
+|Considerando 4.3.1<br>Fase<br>de<br>Construcción|Construcción, uso y cierre de las obras temporales<br>Como se indicó en la sección 1.6.2.1 del Capítulo 1 del<br>EIA para el mejoramiento de la capacidad productiva del<br>Proyecto se requerirá de distintas instalaciones de faena<br>tanto en el sector Cordillera como Puerto Collahuasi,<br>que servirán de apoyo a la fase de construcción del<br>Proyecto,<br>incluyendo<br>áreas<br>de<br>almacenamiento,<br>oficinas, talleres, galpones, casetas de seguridad, entre<br>otras.<br>Algunas de las instalaciones del sector Cordillera serán<br>reacondicionadas de instalaciones existentes y otras<br>serán nuevas.<br>En el sector Puerto Collahuasi se utilizarán las<br>instalaciones temporales proyectadas para el desarrollo<br>de infraestructura para la inclusión de una fuente<br>complementaria de abastecimiento hídrico (Planta<br>Desaladora, obras marinas y sistema de impulsión).<br>Por otro lado, para la infraestructura para la inclusión de<br>una fuente complementaria de abastecimiento hídrico,<br>se cuenta con diversas obras temporales de apoyo,<br>incluyendo campamentos, instalaciones de faena, áreas<br>para la construcción de obras marinas, patios y áreas de<br>acopio y botaderos de material de excavación.|Obras Temporales:<br>Las obras que modifican e incluyen nueva infraestructura sobre<br>superficie aprobada, corresponden a:<br>• <br> <br>Instalación de faena en el sector Campamento<br>Puerto Collahuasi.<br>• <br>Ampliación Instalación de faena en S/E Puerto Collahuasi.<br>• <br>Instalación de faena en el sector de la Subestación Caliche<br>(PS2).<br>• <br>Instalación de faena en el sector Patios de acopio tuberías<br>Campamento N°1.<br>• <br>Instalación de faena en el sector de la Subestación Cahuiza<br>(PS3). <br>• <br>Instalación de faena en el sector Patios de acopio tuberías<br>Campamento N°2.<br>• <br>Habitación de 2 Plantas de hormigón, en sector<br>campamento N°2. <br>• <br>Habitación de Nuevo equipamiento en Casinos de<br>Campamento N°1, N°2 y Puerto. <br>• <br>Instalación de faena en el sector de la Estación de Bombeo<br>PS5 (IIFF PS5). <br> <br>Por otro lado, las obras adicionales sobre áreas nuevas<br>corresponden a:<br>• <br>Habilitación de Instalación de faena en el sector PS1.<br>• <br>Nuevo Patio de almacenamiento sector Campamento N°1.<br>• <br>Nueva área de acopio PS3 (S/E Cahuiza). <br>• <br>Habilitación de Instalación de faena en el sector de la<br>Estación de Bombero PS4 S/E Las Dunas (IIFF PS4).|
+|**Infraestructura para la inclusión de una fuente complementaria de abastecimiento hídrico**|**Infraestructura para la inclusión de una fuente complementaria de abastecimiento hídrico**|**Infraestructura para la inclusión de una fuente complementaria de abastecimiento hídrico**|
+|Considerando 4.3.1<br>Fase<br>de<br>Construcción|Abastecimiento Hídrico - Proceso de Desalación<br>El sistema se compondrá de las siguientes etapas y/o<br>actividades principales: captación de agua de mar,|Se efectúan modificaciones en Planta Desaladora, ubicada en el<br>sector Puerto Collahuasi, las que consisten en:|
+
+“AJUSTES PROYECTO COLLAHUASI” Página 5 de 7
+
+|Considerando|Obras y partes aprobadas R.E. N° 20219900112|Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi”|
+|---|---|---|
+|Considerando 4.3.2<br>Fase de Operación|impulsión,<br>pretratamiento,<br>osmosis<br>inversa,<br>postratamiento, limpieza de membranas y filtros,<br>neutralización de efluentes y dosificación de reactivos.|• <br>Ajustes de sustancias químicas Planta Desaladora,<br>principalmente aumentando el volumen de sustancias<br>almacenadas, para aumentar la autonomía operativa de la<br>Planta Desaladora.<br>• <br>Modificación layout Planta Desaladora, incorporando 2<br>nuevas instalaciones (Edificio de administración anexo y<br>Sala grupo generador) y aumentando la superficie de otras<br>instalaciones indicadas en la**Error! Reference source**<br>**not found.**.<br>• <br>Ajuste<br>Sentina:<br>correspondiente<br>al<br>ajuste<br>de<br>la<br>configuración interna de los equipos.|
+|Considerando 4.3.1<br>Fase<br>de<br>Construcción<br>Considerando 4.3.2<br>Fase de Operación|Abastecimiento Hídrico - Acueducto desde Quebrada<br>Blanca<br>El acueducto desde Quebrada Blanca permitirá<br>suministrar agua desalada al proceso de Collahuasi en<br>caso de mantención o falla de las instalaciones de<br>abastecimiento hídrico de uso permanente (Planta<br>Desaladora, sistema de impulsión y red de fuentes<br>subterráneas) y podrá impulsar un caudal máximo de<br>300 L/s. El agua provendrá de las instalaciones<br>aprobadas de Quebrada Blanca mediante Res. Ex. N°<br>74/2018, y el acueducto podrá operar desde el cuarto<br>año del Proyecto.|Se modifica el sistema de Acueducto desde Quebrada Blanca, el<br>que se implementará en dos etapas, la primera haciendo un bypass<br>con el acueducto Michincha - QB y luego se implementará lo<br>aprobado en el EIA.<br>Como parte de este nuevo funcionamiento y reubicación del<br>sistema se incluyen las siguientes obras nuevas:<br>Obras Permanentes:<br>• <br>Estación de Bombeo (EB)<br>• <br>Tubería de Alimentación QB-EB y Tubería de Retorno EB-<br>QB.<br>• <br>Habilitación de Piscinas 1 y 2<br>• <br>Habilitación de Botadero de material de excavación<br>• <br>Habilitación de Nueva Tubería de Empalme Michincha,<br>desde Acueducto Michincha hasta los reservorios de<br>Collahuasi (para ser utilizado en Etapa 1 de construcción<br>Acueducto desde QB).<br>• <br>Ajuste Trazado Acueducto para conexión con nueva<br>Estación terminal (ET).<br>• <br>Habilitación de Estación Terminal (ET).<br>Obras Temporales:<br>• <br>Habilitación de Instalación de faena (IIFF N°1), en el sector<br>de la Estación de Bombeo|
+
+“AJUSTES PROYECTO COLLAHUASI” Página 6 de 7
+
+|Considerando|Obras y partes aprobadas R.E. N° 20219900112|Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi”|
+|---|---|---|
+|||• <br>Habilitación de Instalación de faena (IIFF N°4), en el sector<br>de la Estación Terminal|
+|Considerando 4.3.1<br>Fase<br>de<br>Construcción<br>Considerando 4.3.2<br>Fase de Operación|Obra de manejo de aguas para la producción<br>Estaciones de bombeo, Estaciones de Drenaje,<br>Estación de transferencia y Estación Terminal: El<br>sistema completo se compone de 5 estaciones de<br>bombeo, 6 estaciones de drenaje, una estación de<br>transferencia y una estación terminal.|Se realizan modificaciones en el sistema de impulsión de agua, las<br>que consisten en:<br>• <br>Modificación trazado acueducto interior Puerto Collahuasi.<br>• <br>Se realiza un Ajuste de faja del acueducto, en el tramo<br>entre Campamento N°1 y S/E Lagunas, ampliándola en un<br>ancho que varía de 6 a 15 metros hacia el sur.<br>• <br>Se implementan ajustes en las capacidades de las piscinas<br>de emergencia de las Estaciones de Drenaje (DS) y de las<br>Estaciones de Bombeo (PS); para lo cual se efectúa:<br>- <br>Aumento de capacidad de piscinas de estaciones DS1,<br>DS2, DS3 y DS4, PS2, PS3, PS4 y PS5.<br>- <br>Disminución de capacidad de piscinas de estaciones<br>DS5 y DS6.<br>• <br>Reubicación estación de drenaje y piscina de emergencia<br>DS5.<br>• <br>Aumento de superficie plataformas estaciones de drenaje<br>DS3 y DS5, y estaciones de bombeo PS2 y PS5.|
+
+_Fuente: Elaboración propia_
+
+“AJUSTES PROYECTO COLLAHUASI” Página 7 de 7
+
+---
+
+## Tablas Adicionales del Documento
+
+> **Nota:** Las siguientes tablas no tienen referencias explícitas en el texto principal pero contienen información potencialmente relevante.
+
+**Tabla 1-1.: Detalle de Obras que Modifica el Proyecto****
+
+| Considerando | Obras y partes aprobadas R.E. N° 20219900112 | Descripción de modificación en la DIA “Ajustes Proyecto<br>Collahuasi” |
+| --- | --- | --- |
+| **Mejoramiento de capacidad productiva** | **Mejoramiento de capacidad productiva** | **Mejoramiento de capacidad productiva** |
+| Considerando 4.3.2<br>Fase de Operación | Línea de producción de concentrado - Molienda y<br>chancado de pebbles<br>En la tercera línea de molienda se reemplazará el quinto<br>molino de bolas por uno de 21.000 kW que estará<br>asociado a cuatro baterías de hidrociclones y que<br>además podrá recibir alimentación parcial de cada una<br>de las líneas de alimentación del circuito de ciclones. | Se realizan modificaciones en la línea del Quinto Molino de Bolas,<br>descrito para la tercera línea de molienda, para alcanzar la tasa de<br>procesamiento del EIA (210 ktpd), por lo cual se incluyen las<br>siguientes obras, partes y acciones:<br>• Aumento del tamaño del Quinto Molino, reemplazándolo por<br>uno de 28 ́x46, de 22.000 W de potencia instalada.<br>• Cambio de ubicación de Sala Eléctrica N°2 - TAG 144-ER-<br>002, que provee de energía al Quinto Molino.<br>• Modificación del Sistema de Enfriamiento del Quinto Molino,<br>aumentando su capacidad de refrigeración.<br>• Habilitación<br>de<br>2 <br>nuevas<br>correas<br>transportadoras<br>denominadas 3001 y 3002 para conectar el Quinto Molino con<br>el Chancado de Pebbles.<br>• Incorporación de Muestreador Metalúrgico para la pulpa<br>proveniente del Quinto Molino. |
+| Considerando 4.3.2<br>Fase de Operación | Línea de producción de concentrado - Flotación<br>colectiva<br>En la primera limpieza, se contará con las celdas<br>existentes, de 3 filas de 9 celdas de 160 m3, y dos filas<br>de 9 celdas de 127 m3, que serán alimentadas con el<br>producto de la remolienda y la cola de la segunda<br>limpieza. Los concentrados podrán ser enviados<br>directamente a espesamiento o a la segunda limpieza.<br>El concentrado scavenger será recirculado a la<br>remolienda y el relave se enviará a su disposición final<br>en el depósito.<br>Finalmente, en la segunda limpieza se consideran las 14<br>celdas de la operación actual. El concentrado obtenido<br>será enviado a espesamiento y las colas serán<br>recirculadas a la primera limpieza. | Se consideran modificaciones en el proceso de flotación,<br>incluyendo las siguientes partes, obras y acciones:<br>• Se incorporan 3 nuevas Celdas Jameson adicionales para la<br>flotación de segunda limpieza.<br>• Se incorpora 1 Celda Jameson adicional a las 2 existentes al<br>circuito de flotación de repaso.<br>• Incorporación tercera descarga a Cajón Alimentador de<br>flotación de repaso. |

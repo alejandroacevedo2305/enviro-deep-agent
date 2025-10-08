@@ -1,0 +1,1860 @@
+---
+title: ADENDA 2 LAGO SOFIA_rev
+author: Paola Schnettler
+date: D:20141230124756Z00'00'
+language: es
+type: report
+pages: 14
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+**“MODIFICACIÓN
+ PISCICULTURA
+ CHINQUIHUE,
+ COMUNA
+ DE
+ PUERTO
+ MONTT,**
+**PROVINCIA
+ DE
+ LLANQUIHUE,
+ DÉCIMA
+ REGIÓN
+ DE
+ LOS
+ LAGOS.
+ CÓDIGO
+ CENTRO
+ 101513”**
+
+**ADENDA
+ No
+ 2**
+
+TITULAR
+
+**SOCIEDAD
+ DE
+ INVERSIONES
+ LAGO
+ SOFÍA
+ LIMITADA**
+
+Puerto
+ Montt,
+ Diciembre
+ 2014
+
+**N** **[o]** **629**
+**Puerto
+ Montt,
+ 3
+ de
+ Noviembre
+ de
+ 2014**
+
+**Informe
+ Consolidado
+ de
+ Solicitud
+ de
+ Aclaraciones,
+ Rectificaciones
+ y/o
+ Ampliaciones**
+**Complementario
+ a
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ del
+ Proyecto
+ "“MODIFICACIÓN**
+**PISCICULTURA** **CHINQUIHUE,** **COMUNA** **DE** **PUERTO** **MONTT,** **PROVINCIA** **DE**
+**LLANQUIHUE,
+ DÉCIMA
+ REGIÓN
+ DE
+ LOS
+ LAGOS.
+ CÓDIGO
+ CENTRO
+ 101513”"**
+
+Nombre
+ del
+ Titular :
+ LAGO
+ SOFÍA
+ LTDA.
+Nombre
+ del
+ Representante
+ Legal
+ :
+ ALEJANDRO
+ FERNÁNDEZ
+ ROJAS
+Dirección :
+ Camino
+ a
+ Chinquihue
+ Km.
+ 12
+ Casilla
+ 1174
+
+El
+ presente
+ Informe
+ Consolidado
+ de
+ Solicitud
+ de
+ Aclaraciones,
+ Rectificaciones
+ o
+Ampliaciones
+ Complementario
+ a
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ del
+ proyecto
+"“MODIFICACIÓN
+ PISCICULTURA
+ CHINQUIHUE,
+ COMUNA
+ DE
+ PUERTO
+ MONTT,
+ PROVINCIA
+DE
+ LLANQUIHUE,
+ DÉCIMA
+ REGIÓN
+ DE
+ LOS
+ LAGOS.
+ CÓDIGO
+ CENTRO
+ 101513”",
+ contiene
+las
+ observaciones
+ generadas
+ en
+ virtud
+ de
+ la
+ revisión
+ de
+ la
+ Declaración
+ de
+ Impacto
+Ambiental.
+
+La
+ respuesta
+ a
+ este
+ Informe
+ Consolidado
+ deberá
+ expresarse
+ a
+ través
+ de
+ un
+ documento
+denominado
+ Adenda
+ a
+ la
+ Declaración
+ de
+ Impacto
+ Ambiental
+ del
+ proyecto
+"“MODIFICACIÓN
+ PISCICULTURA
+ CHINQUIHUE,
+ COMUNA
+ DE
+ PUERTO
+ MONTT,
+ PROVINCIA
+DE
+ LLANQUIHUE,
+ DÉCIMA
+ REGIÓN
+ DE
+ LOS
+ LAGOS.
+ CÓDIGO
+ CENTRO
+ 101513”",
+ la
+ que
+deberá
+ entregarse
+ en
+ 2
+ ejemplares,
+ hasta
+ el
+ 16
+ de
+ Diciembre
+ de
+ 2014.
+
+Si
+ requiere
+ de
+ un
+ plazo
+ mayor
+ al
+ otorgado
+ para
+ responder,
+ éste
+ podrá
+ extenderse,
+ lo
+ cual
+deberá
+ comunicarlo
+ por
+ escrito
+ a
+ este
+ Servicio,
+ dentro
+ del
+ plazo
+ que
+ tiene
+ para
+ responder
+al
+ Informe
+ Consolidado.
+ Debe
+ tenerse
+ presente
+ que
+ posteriormente
+ a
+ esta
+ fecha,
+ se
+reanudará
+ el
+ proceso
+ de
+ evaluación
+ del
+ proyecto.
+
+Ante
+ cualquier
+ consulta
+ comunicarse
+ con
+ la
+ Señora
+ María
+ Angélica
+ Alvarado
+ Mancilla,
+dirección
+ de
+ correo
+ electrónico
+ aalvarado.10@sea.gob.cl,
+ número
+ telefónico
+ 065-­‐562007.
+
+I.
+**Antecedentes
+ que
+ justifiquen
+ la
+ inexistencia
+ de
+ aquellos
+ efectos,
+ características
+ o**
+**circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley**
+**Observaciones
+ de
+ Sernapesca
+ Región
+ de
+ Los
+ Lagos**
+Se
+ solicita
+ al
+ titular
+ complementar
+ información
+ en
+ relación
+
+ a
+
+ aportes
+ de
+
+ nutrientes
+ como
+el
+ Carbono,
+ tomando
+ en
+ consideración
+ el
+ constante
+ aporte
+ de
+ los
+
+ sólidos
+ suspendidos
+ por
+el
+ aumento
+ de
+ la
+ biomasa
+ de
+ producción
+ de
+ la
+ piscicultura,
+ con
+ la
+ finalidad
+ de
+ descartar
+ la
+generación,
+ efectos,
+ características
+ o
+ circunstancias
+ del
+ artículo
+ 11
+ de
+ la
+ Ley
+ 19.300
+ sobre
+Bases
+ Generales
+ del
+ Medio
+ Ambiente,
+ para
+ lo
+ cual
+ deberá
+ analizar
+ el
+ literal
+ b)
+
+**Respuesta:** Respecto
+ de
+ la
+ presente
+ observación,
+ y
+ para
+ dar
+ respuesta
+ adecuada
+ lo
+solicitado
+ en
+ el
+ artículo
+ 11,
+ literal
+ b)
+ de
+ la
+ Ley
+ 19.300,
+ a
+ saber:
+Artículo
+ 11.-­‐
+ Los
+ proyectos
+ o
+ actividades
+ enumerados
+ en
+ el
+ artículo
+ precedente
+ requerirán
+la
+ elaboración
+ de
+ un
+ Estudio
+ de
+ Impacto
+ Ambiental,
+ si
+ generan
+ o
+ presentan
+ a
+ lo
+ menos
+uno
+ de
+ los
+ siguientes
+ efectos,
+ características
+ o
+ circunstancias:
+b)
+ Efectos
+ adversos
+ significativos
+ sobre
+ la
+ cantidad
+ y
+ calidad
+ de
+ los
+ recursos
+ naturales
+renovables,
+ incluidos
+ el
+ suelo,
+ agua
+ y
+ aire;
+Se
+ le
+ solicitó
+ a
+ la
+ empresa
+ APTA,
+ que
+ realizará
+ un
+ informe
+ técnico
+ de
+ balances
+ de
+ masa
+para
+ dar
+ respuesta
+ adecuada
+ a
+ la
+ consulta
+ en
+ comento.
+
+El
+ informe
+ realizado
+ por
+ APTA,
+ detalla
+ lo
+ siguiente
+ :
+
+De
+ acuerdo
+ a
+ los
+ balances
+ de
+ masa
+ realizados,
+ el
+ efluente
+ de
+ la
+ piscicultura
+ no
+ superaría
+los
+ niveles
+ permitidos
+ en
+ ninguno
+ de
+ sus
+ parámetros
+ siendo
+ también
+ consistentes
+ con
+ los
+valores
+ históricos
+ medidos.
+
+De
+ acuerdo
+ a
+ los
+ balances
+ de
+ masa
+ realizados,
+ el
+ efluente
+ de
+ la
+ piscicultura
+ no
+ superaría
+los
+ niveles
+ permitidos
+ en
+ ninguno
+ de
+ sus
+ parámetros
+ siendo
+ también
+ consistentes
+ con
+ los
+valores
+ históricos
+ medidos.
+
+El
+ bajo
+ impacto
+ del
+ aumento
+ de
+ la
+ biomasa
+ de
+ salida
+ de
+ la
+ piscicultura
+ de
+ 120
+ a
+ 600
+toneladas
+ en
+ los
+ niveles
+ máximos
+ esperados
+ para
+ los
+ componentes
+ del
+ efluente,
+ se
+ explica
+en
+ parte
+ por
+ las
+ mejoras
+ en
+ los
+ procesos
+ de
+ tratamiento,
+ y
+ a
+ que
+ el
+ aumento
+ de
+ la
+biomasa
+ saliente
+ se
+ produce
+ sin
+ aumento
+ significativo
+ de
+ los
+ niveles
+ máximos
+ de
+ biomasa
+existente
+ en
+ la
+ piscicultura.
+ Esto
+ se
+ debe
+ a
+ que
+ los
+ peces
+ ingresan
+ con
+ un
+ peso
+ mayor
+(50g),
+ por
+ lo
+ que
+ aproximadamente
+ el
+ 50%
+ de
+ la
+ biomasa
+ de
+ salida
+ no es producida en la
+piscicultura.
+ Por
+ la
+ misma
+ razón,
+ al
+ entrar
+ los
+ peces
+ con
+ un
+ mayor
+ estado
+ de
+ desarrollo,
+ la
+duración
+ del
+ ciclo
+ de
+ cultivo
+ disminuye
+ fuertemente,
+ dando
+ cabida
+ una
+ mayor
+ cantidad
+ de
+ciclos
+ por
+ año,
+ explicándose
+ así
+ el
+ aumento
+ biomasa
+ que
+ la
+ piscicultura
+ puede
+ entregar
+por
+ año.
+
+El
+ balance
+ de
+ masa
+ se
+ realizó
+ en
+ la
+ hipotética
+ condición
+ de
+ máxima
+ carga,
+ consistente
+ en
+la
+ suma
+ de
+ los
+ efluentes
+ de
+ cada
+ sala
+ operando
+ simultáneamente
+ en
+ máxima
+ carga,
+situación
+ límite
+ de
+ ocurrencia
+ altamente
+ improbable.
+ De
+ esta
+ manera,
+ la
+ composición
+estimada
+ del
+ efluente
+ en
+ máxima
+ carga
+ es
+ un
+ valor
+ conservador,
+ y
+ los
+ valores
+ del
+monitoreo
+ debiesen
+ estar
+ en
+ general
+ por
+ debajo
+ de
+ este
+ valor.
+ A
+ su
+ vez,
+ los
+ valores
+máximos
+ históricos
+ de
+ la
+ piscicultura
+ produciendo
+ 120ton/año
+ no
+ debiesen
+ ser
+significativamente
+ diferentes
+ a
+ los
+ valores
+ máximos
+ esperados
+ bajo
+ el
+ nuevo
+ proyecto
+productivo
+ por
+ las
+ razones
+ explicadas
+ en
+ el
+ párrafo
+ precedente,
+ pero
+ si
+ aumentar
+ su
+frecuencia
+ de
+ 2
+ a
+ 3
+ veces
+ por
+ año
+ a
+ 6
+ veces
+ por
+ año.
+
+Según
+ lo
+ anterior,
+ las
+ emisiones
+ de
+ la
+ piscicultura
+ a
+ través
+ de
+ su
+ descarga
+ líquida,
+
+ no
+superarían
+ los
+ límites
+ máximos
+ permitidos,
+ ver
+ resultados
+ en
+ tabla
+ 1
+ (o
+ referirse
+ al
+documento
+ “MEMORIA
+ GENERAL
+ DE
+ BALANCES
+ DE
+ MASA
+ Y
+ DETERMINACIÓN
+ DE
+ LA
+COMPOSICIÓN
+ DE
+ EFLUENTES”.
+
+En
+ la
+ figuras
+ 1
+ a
+ 3
+ se
+ puede
+ ver
+ que
+ los
+ niveles
+ de
+ emisión
+ predichos
+ son
+ consistentes
+ con
+las
+ mediciones
+ históricas
+ de
+ emisión
+ de
+ la
+ piscicultura.
+ Especial
+ atención
+ y
+ explicación
+ hay
+que
+ dar
+ al
+ contenido
+ de
+ nitrógeno;
+ éste
+ es
+ medido
+ por
+ método
+ Kjeldhal
+ el
+ cual
+ mide
+ el
+nitrógeno
+ amino
+ generado
+ por
+ digestión
+ ácida
+ de
+ la
+ muestra,
+ destilación
+ del
+ NH3
+producido
+ y
+ retrotitulación
+ de
+ una
+ solución
+ ácida
+ normalizada
+ que
+ es
+ parcialmente
+neutralizada
+ por
+ el
+ NH3
+ generado.
+ Este
+ método
+ mide
+ el
+ nitrógeno
+ amino
+ de
+ la
+ proteína
+ y
+el
+ nitrógeno
+ amoniacal
+ existente
+ en
+ la
+ muestra.
+ El
+ valor
+ estimado
+ por
+ el
+ balance
+ de
+ masa
+fue
+ de
+ 2,36
+ (ver
+ tabla
+ 1),
+ valor
+ que
+ es
+ del
+ orden
+ de
+ los
+ valores
+ históricos
+ medidos
+ (ver
+figura
+ 3),
+ a
+ diferencia
+ a
+ la
+ predicciones
+ de
+ DBO
+ y
+ P
+ en
+ que
+ el
+ máximo
+ predicho
+ es
+ en
+general
+ mas
+ alto
+ que
+ los
+ valores
+ históricos
+ medidos.
+ Esto
+ se
+ debe
+ a
+ que
+ el
+ sistema
+ de
+cultivo
+ ha
+ agregado
+ una
+ etapa
+ de
+ nitrificación
+ en
+ una
+ de
+ sus
+ salas
+ disminuyendo
+ la
+emisión
+ de
+ nitrógeno
+ en
+ su
+ forma
+ amoniacal.
+
+TABLA
+ 1.
+ Resultado
+ de
+ los
+ balances
+ de
+ masa
+ en
+ condiciones
+ de
+ máxima
+ carga
+ en
+ cada
+ una
+ de
+ las
+salas
+ de
+ cultivo.
+ El
+ cálculo
+ se
+ realizó
+ asumiendo
+ carga
+ máxima
+ simultanea
+ en
+ la
+ totalidad
+ de
+ las
+salas
+ de
+ cultivo.
+
+|Col1|Servicios y Asesorías Ambientales<br>Buin 367 - Puerto Montt<br>Teléfono: +56 65-­‐2752179/+56 65-­‐2714278<br>info@ecosistema.cl<br>www.ecosistema.cl|Col3|Col4|
+|---|---|---|---|
+|<br>Valor del balance de<br>masa de 1,68mg/L|<br>Valor del balance de<br>masa de 1,68mg/L|Valor del balance de<br>masa de 1,68mg/L|Valor del balance de<br>masa de 1,68mg/L|
+
+Figura
+ 1.
+ Niveles
+ historico
+ de
+ fósforo
+ en
+ el
+ efluente
+ de
+ la
+ piscicultura
+ en
+ comparación
+ con
+ el
+ nivel
+máximo
+ absoluto
+ estimado
+ por
+ balance
+ de
+ masa.
+ El
+ valor
+ límite
+ máximo
+ permitido
+ para
+ P
+ es
+10mg/L
+
+Valor
+
+ estimado
+ por
+balance
+ de
+ masa
+12,66
+ mg/L
+
+Figura
+ 2.
+ Niveles
+ historico
+ de
+ DBO5
+ en
+ el
+ efluente
+ de
+ la
+ piscicultura
+ en
+ comparación
+
+ con
+ en
+ nivel
+maximo
+ determinado
+ por
+ balance
+ de
+ masa.
+
+Figura
+ 3.
+ Niveles
+ históricos
+ del
+ contenido
+ de
+ nitrógeno
+ del
+ efluente
+ en
+ compaparación
+ con
+ el
+ nivel
+estimado
+ por
+ balance
+ de
+ materia
+ del
+ nuevo
+ proyecto.
+ El
+ valor
+ indicado
+ es
+ el
+ nitrogeno
+ Kjeldahl
+(nitrogeno
+ amoniacal
+ mas
+ nitrógeno
+ amino
+ de
+ las
+ proteínas)
+ mas
+ el
+ nitrógeno
+ amoniacal
+transformado
+ a
+ nitrito
+ y
+ nitrato
+ no
+ medido
+ por
+ kjeldahl.
+
+Considerando
+ las
+ caracteristicas
+ hidráulicas
+ del
+ estero
+ estudiadas
+ por
+ el
+ profesor
+ Wilson
+Chaperón
+ el
+ el
+ trabajo
+ “vertido
+ de
+ aguas
+ residuales
+ en
+ Piscicultura
+ Lago
+ Sofia”,
+ que
+determinaron
+ un
+ tiempo
+ de
+ residencia
+ del
+ agua
+ en
+ el
+ estero
+ de
+ solo
+ 8,3
+ minutos,
+ se
+ puede
+aseverar
+ que
+ éste
+ es
+ insuficiente
+ para
+ que
+ los
+ nutrientes
+ residuales
+ en
+ el
+ efluente
+ sean
+alterados,
+ y
+ por
+ lo
+ tanto
+ no
+ hay
+ posibilidades
+ de
+ condiciones
+ ambientales
+ adversas
+generadas
+
+ por
+ depleción
+ de
+ O2
+ y/o
+ generación
+ de
+ derivados
+ tóxicos
+ por
+ su
+ degradación.
+Dado
+ esto,
+ y
+ a
+ que
+
+ la
+ velocidad
+ de
+ flujo
+ sería
+ de
+ 0,5m/s
+ (flujo
+ rápido)
+ no
+ se
+ favorece
+ la
+sedimentación
+ de
+ los
+ solidos
+ suspendidos,
+ por
+ lo
+ que
+ es
+ altamente
+ probable
+ que
+ no
+ se
+produzca
+ acumulación
+ significativa
+ de
+ nutrientes
+ en
+ el
+ estero
+ por
+ sedimentación.
+
+La
+ composición
+ elemental
+ del
+ efluente
+ bajo
+ las
+ condiciones
+ de
+ máxima
+ carga
+ definidas
+ en
+el
+ projecto
+ serían
+ las
+ que
+ se
+ muestran
+ en
+ la
+ tabla
+ 2.
+ De
+ estos
+ elemen
+ tos,
+ dos
+ tercios
+ de
+ la
+demanda
+ biologica
+ de
+ oxígeno
+ corresponde
+ a
+ material
+ disuelto.
+
+TABLA
+ 2.
+ Estimación
+ del
+ contenido
+ elemental
+ de
+ C,
+ N
+ y
+ P
+ del
+ efluente
+ en
+ condiciones
+ de
+ máxima
+carga
+ de
+ la
+ piscicultura
+
+|ELEMENTO|CONCENTRACIÓN|
+|---|---|
+|Carbono orgánico<br>Nitrogeno Kjeldahl<br>N de NO3 y NO2<br>Fósforo|4,2 mg/L<br>2,4 mg/L<br>3,7 mg/L<br>1,7 mg/L|
+
+No
+ hay
+ indicadores
+ que
+ puedan
+ predecir
+ un
+ efecto
+ ambiental
+ distinto
+ al
+ que
+ la
+ piscicultura
+ya
+ haya
+ experimentado
+ en
+ los
+ años
+ precedentes,
+ debido
+ a
+ que
+ el
+ aumento
+ de
+ la
+ capacidad
+de
+ la
+ piscicultura
+ está
+ basado
+ en
+ cambios
+ en
+ la
+ lógica
+ productiva
+ que
+ en
+ el
+ aumento
+ de
+ la
+biomasa
+ maxima
+ existente
+ en
+ el
+ centro
+ de
+ cultivo,
+ y
+ a
+ la
+ cual
+ a
+ demás
+ se
+ ha
+ agregado
+mejores
+ elementos
+ tecnologícos
+ para
+ el
+ tratamiento
+ de
+ sus
+ efluentes.
+ No
+ obstante,
+ para
+aumentar
+ el
+ grado
+ de
+ seguridad
+ se
+ recomienda
+ la
+ adición
+ de
+ un
+ sistema
+ de
+ desinfección
+con
+ efectos
+ de
+ oxidación
+ en
+ la
+ salida
+ de
+ agua
+ tratada
+ antes
+ de
+ ser
+ vertida
+ al
+ estero.
+
+La
+ recomendación
+ es
+ la
+ incorporación
+ de
+ ozono
+ (O3)
+ a
+ una
+ tasa
+ de
+ 2mg/L
+ y
+ con
+ un
+ tiempo
+de
+ residencia
+ de
+ 5
+ minutos
+ antes
+ de
+ su
+ descarga.
+
+ Esto
+ corresponde
+ a
+ una
+ dosis
+ objetivo
+de
+ 3(mg/L)s
+ considerando
+ la
+ disminución
+ del
+ 65%
+ del
+ O3
+ en
+ cada
+ una
+ de
+ las
+ 4
+ cámaras
+ de
+reacción
+ en
+ serie,
+ y
+ una
+ demanda
+ instantanea
+ de
+ O3
+ correspondiente
+ al
+ 20%
+ antes
+ de
+entrar
+ al
+ reactor.
+
+Para
+ 176,9
+ L/s
+ de
+ caudal,
+ el
+ tratamiento
+ propuesto
+ requiere
+ un
+ sistema
+ de
+ generacion
+ de
+O3
+ capaz
+ de
+ entregar
+ 1274
+ g
+ de
+ O3/h.
+ El
+ reactor
+ tendría
+ un
+ volumen
+ de
+ 51
+ m3
+ separado
+en
+ cuatro
+ cámaras
+ en
+ serie
+ de
+ 12,5m3
+ c/u.
+ Cada
+ cámara
+ del
+ reactor
+ tiene
+ una
+ area
+ de
+flujo
+ de
+ 8m2
+ y
+ una
+ altura
+ mojada
+ de
+ 1,6m.
+ El
+ flujo
+ se
+ direccionará
+ alternativamente
+ entre
+cámaras
+ decendente-­‐acendente-­‐decendente-­‐acendente.
+ (ver
+ esquema
+ en
+ Figura
+ 4)
+
+La
+ bateria
+ de
+ generación
+ de
+ O3
+ propuesta
+ está
+ compuesta
+ por
+ unidades
+ Ozonia
+ CFS-­‐14
+ 2G
+cada
+ uno
+ con
+ la
+ capacidad
+ requerida
+ de
+ 638g/h,
+ y
+ un
+ gasto
+ aproximado
+ de
+ O2
+ de
+ 9,5kg/h
+y
+ consumo
+ electrico
+ de
+ 7,6KW.
+ (figura
+
+ 5)
+
+La
+ inyección
+ del
+ O3
+ se
+ realizará
+ a
+ través
+ de
+ dos
+ venturis
+ en
+ la
+ primera
+ cámara
+ del
+ reactor.
+
+Figura
+ 4
+ Esquema
+ del
+ sistema
+ de
+ ozonificación
+ propuesto.
+
+|Cantidad inyectada 2 mg/L|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|Reacción al contacto<br>20%<br>1,6 mg/L entrada|Reacción al contacto<br>20%<br>1,6 mg/L entrada|Reacción al contacto<br>20%<br>1,6 mg/L entrada|Reacción al contacto<br>20%<br>1,6 mg/L entrada|Reacción al contacto<br>20%<br>1,6 mg/L entrada|
+|Cámara 1<br>Cámara 2<br>Cámara 3<br>Cámara 4|Tiempo de<br>residencia (min)|Reacción de O3|O3 Residual<br>(mg/L)|CT (mg/L)min|
+|Cámara 1<br>Cámara 2<br>Cámara 3<br>Cámara 4|1,25<br>1,25<br>1,25<br>1,25|65%<br>65%<br>65%<br>65%|1,04<br>0,676<br>0,4394<br>0,28561|1,30<br>0,85<br>0,55<br>0,36|
+|DOSIS DE TRATAMIENTO CT (mg/L)s<br>3,05|DOSIS DE TRATAMIENTO CT (mg/L)s<br>3,05|DOSIS DE TRATAMIENTO CT (mg/L)s<br>3,05|DOSIS DE TRATAMIENTO CT (mg/L)s<br>3,05|DOSIS DE TRATAMIENTO CT (mg/L)s<br>3,05|
+
+Figura 5. Diagrama de producción del generador de O3 recomendado.
+
+Por
+ tanto,
+ aun
+ cuando
+ los
+ balances
+ de
+ masa
+ realizados
+ por
+ el
+ profesional
+ indican
+ que
+ el
+aumento
+ de
+ producción
+ no
+ generará
+ efectos
+ adversos
+ significativos
+ sobre
+ el
+ componente
+agua,
+ el
+ titular
+ implementará,
+ como
+ medida
+ de
+ seguridad
+ y
+ para
+ dar
+ plena
+ garantía
+ de
+ que
+el
+ aumento
+ de
+ producción
+ no
+ generará
+ ningún
+ efecto,
+ un
+ sistema
+ de
+ oxidación
+ y
+desinfección
+ de
+ sus
+ efluentes
+ que
+ se
+ instalará
+ posterior
+ al
+ sistema
+ de
+ tratamiento
+ de
+ filtro
+rotatorio
+ y
+ antes
+ de
+ ser
+ vertidos
+ al
+ cauce
+ receptor.
+
+Para
+ una
+ mejor
+ comprensión
+ se
+ adjunta
+ en
+ el **anexo
+ 1** el
+ informe
+ técnico
+ “Análisis
+ de
+emisiones”
+ elaborado
+ para
+ dar
+ respuesta
+ al
+ presente
+ documento,
+ y
+ en **anexo
+ 2** el
+ informe
+_“MEMORIA
+ GENERAL
+ DE
+ BALANCES
+ DE
+ MASA
+ Y
+ DETERMINACIÓN
+ DE
+ LA
+ COMPOSICIÓN
+ DE_
+_EFLUENTES”,_ que
+ fue
+ adjunto
+ en
+ el
+ anexo
+ 6
+ de
+ la
+ DIA _._
+
+ANEXOS
+
+ANEXO
+ 1
+_“INFORME
+ TÉCNICO
+ ANÁLISIS
+ DE
+ EMISIONES
+ PISCICULTURA
+ CHINQUIHUE”_
+
+ANEXO
+ 2
+_“MEMORIA
+ GENERAL
+ DE
+ BALANCES
+ DE
+ MASA
+ Y
+ DETERMINACIÓN
+ DE
+ LA
+ COMPOSICIÓN
+ DE_
+_EFLUENTES”,_

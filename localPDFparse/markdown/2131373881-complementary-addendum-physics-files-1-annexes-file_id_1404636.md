@@ -1,0 +1,29 @@
+---
+title: Sin título
+author: Desconocido
+date: Sin fecha
+language: es
+type: general
+pages: 3
+has_toc: True
+has_tables: False
+extraction_quality: high
+---
+
+SOCIEDAD PRESLEX LIMITADA
+
+AUMENTO DE CAPACIDAD DE
+
+TRATAMIENTO DE RESIDUOS
+
+ESPECIALES PROVENIENTES DE
+
+ESTABLECIMIENTOS DE SALUD
+
+DECLARACIÓN DE IMPACTO AMBIENTAL
+
+ADENDA N°1
+
+ANEXO 1. PLANO COMPLEMENTARIO DEL
+
+PROYECTO

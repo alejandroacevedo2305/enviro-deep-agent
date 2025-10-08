@@ -1,0 +1,450 @@
+---
+title: Microsoft Word - PERACETIC SANITIZER FP 15 HDS-000
+author: sergio2.abascal
+date: D:20070928124501
+language: unknown
+type: general
+pages: 5
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - !"# $$($$7"6$(6(%&5,$$$ '1&K()"*+,
+-->
+
+# !"# $$($$7"6$(6(%&5,$$$ '1&K()"*+,
+
+6(&&,"1
+,$(17,),&$&,"1$(-35"$&&7".$(-35"/(($"5
+
+10PEUH1H2SU013FW0  3(5$&(7,&6$1,7,=(5)3 623852;,', 
+'HVLQIHFWDQWHEDVH$FLGR3HUDFHWLFR
+3U04HH10U5)DEULFDQWH  6SDUWDQ&KL2H-W1D)
+$LUHFFL6Q  &HUU06DQ&ULVW6ED2789:;3L2LF3UD6DQWLD<0
+7H2=*0Q0V1H(PHU<HQFLD>)D?   !"#$% !"&"&'#(D) !"&""
+
+6(&&,"1
+&"@3"6,&,"1(,1)"5@$&,"16"A5(,1%5($,(17(6
+
+     
+
+ 
+
+  
+
+   
+
+  
+
+
+
+   
+
+   
+
+
+
+   
+
+ 
+
+    
+
+  
+
+
+
+
+
+1DW3UD2HBD  1 H2  SU013FW0 3UH*DUDFL+Q  FR,*-H.D  GH  EDVH  DFXRVD/FLGR*HUDFHWLFR
+
+&0PS0QHQWHV  1 H  ULHV<0 $FLGR 3HUDFHWLFR01$6 "'! !HQ-D*UH*DUDFL+Q
+
+23,HUR  2 8  GH-  - URGXFWR + 7)
+
+
+
+( +
+
+&"55
+
+6(&&,"1+
+,$(17,),&$&,"1$(-"65,(6%"6$(&6"
+
+   
+
+  
+
+
+
+   
+
+   
+
+
+
+   
+
+ 
+
+    
+
+  
+
+
+
+
+
+     
+
+ 
+
+  
+
+
+
+   
+
+  
+
+
+
+   
+
+   
+
+
+
+   
+
+ 
+
+    
+
+  
+
+
+
+
+
+     
+
+ 
+
+  
+
+( +
+
+   
+
+  
+
+
+
+   
+
+   
+
+
+
+   
+
+ 
+
+    
+
+  
+
+
+
+
+
+     
+
+ 
+
+  
+
+&"55
+
+   
+
+  
+
+
+
+   
+
+   
+
+
+
+   
+
+ 
+
+    
+
+  
+
+
+
+
+
+     
+
+ 
+
+  
+
+@DUFDHQ(WLC3HWD3H2L<U0VL1D1  456 XLGR1R,EXUHQWH71RUURVL8R
+
+&2DVL*LFDFL6Q1H5LHV<01H23U013FW0
+ 6D231
+(,Q*2DPDEL2L1D1
+5HDFWL4L1D1
++
+
+−  (*HFW0V  1 H  3 QD  60EUH:H?S0VLFL6Q
+$<31D  ' S0U  3 QD  4 HB, 1 RUURVL8RHLUULWDFL+Q *DUD-D - LH-
+− ,QKD2DFL6Q 1 RUURVL8R*DUD-DV8LDVUHV*LUDWRULDV
+−  &0QWDFW0  F0Q  H2  SLH2,UULWD-D*LH-9HQUR.HFL,LHQWR7GR-RU
+−  &0QWDFW0  F0Q  20 V  0D0 V 1 RUURVL8R9HQUR.HFL,LHQWR9GR-RU98LVWDERUURVD95LHVJRGH-HVLRQHV
+RFX-DUHVJUD8HV
+− ,Q<HVWL6Q 3XHGHFDXVDUQ:XVHDV98;,LWRV7GLDUUHDV'R-RUGHJDUJDQWD
+−  (*HFW0V  1 H  3 QD  60EUH:H?S0VLFL6Q
+FU6QLFD  '2 DU<0  S2DB0, 'HU,DWLWLV
+−  &0Q1LFL0QHV  P=1LFDV  C3 H  VH  4 HUEQ
+D<UD4D1DV  F0Q  2 D  H?S0VLFL6Q
+D2  SU013FW0 3URGXFWRIXHUWH,HQWHR)LGDQWH*XHGHFDXVDUGD<RDVHUHV8L8RV
+DFXDWLFRV
+
+− 3H2L<U0HVSHFLD21H2SU013FW0  3URGXFWRR)LGDQWH7FRUURVL8R,DQL*X-DUFRQ*UHFDXFL+Q
+
+3URGXFWR
+3(5$&(7,&6$1,7,=(5)3 )HFKD(PLVLzQ
+6HSWLHPEUH 
+
+3DJ
+
+6(&&,"1(
+@($,$$6$(35,@(5"6$&F,-,"6
+
+(QFDV01HF0QWDFW0DFFL1HQWD2F0QH2SU013FW0SU0FH1D1HDF3HU10F0Q
+
+
+− ,QKD2DFL6Q 4- H8DUD-D*HUVRQDDIHFWDGDD-DLUH-LEUH3RQHU-DHQUH*RVR4-H8DUDXQ
+= RV*LWD-9ULHVJRGHHGH,D*X-,RQDU
+−  &0QWDFW0  F0Q  2 D  SLH2 'HV*R.DUVHGH-DVUR*DV7FD->DGRFRQWD,LQDGRV?Q.XDJDUFRQ
+DEXQGDQWHDJXDH-DUHDDIHFWDGD9,LQL,R,LQXWRV1RQVX-WDU
+DXQ,HGLFRVL*HUVLVWHD-JXQV5QWR,D
+−  &0QWDFW0  F0Q  20 V  0D0 V 4 D8DU LQ,HGLDWD,HQWHFRQDEXQGDQWHDJXDGXUDQWH, LQXWRV9
+, DQWHQLHQGR-RV*DU*DGRVELHQVH*DUDGRV1RQVX-WDUXQRIWD-,R-RJR
+LQ,HQGLDWD,HQWH9*UR8HHUGHXQDERWH--DGHDJXD 
+− ,Q<HVWL6Q 4 D8DU-DERFDFRQDEXQGDQWHDJXD4-H8DUDXQ=RV*LWD-
+−  10WDV  SDUD  H2  P=1LF0  WUDWDQWH $,HQXGR-RVV5QWR,DVGHHGH,D*X-,RQDUQRH,*LH>DQD
+, DQLIHVWDUVH=DVWDWUDQVFXUULGDVD-JXQDV=RUDV6RQLQGLV*HQVDE-HV
+H-UH*RVR7=RV*L-DWL->DFL;Q
+
+6(&&,"1
+@($,$$63$5$&"@A$7($(-)&(%"
+
+− $<HQWHV1HH?WLQFL6Q  8WL-L>DUDJXDDWR,L>DGDRQHEX-L>DGD*DUDHQIULDU-RVHQ8DVHVH)*XHVWRV
+D-IXHJR$JXD
+
+−
+3U0FH1LPLHQW0VHVSHFLD2HVSDUD
+F0PEDWLUH2*3H<0   5HDFFLRQD8LR-HQWD,HQWHFRQ
+1R,EXVWLE-HV*XHGH*UR8RFDULQFHQGLRV
+H)*-RVL+Q
+
+−
+(C3LS0V1HSU0WHFFL6QSHUV0QD2
+SDUDF0PEDWLUH2*3H<0  8VDUXQH6XL*RGH*URWHFFL;QDGHFXDGR6HU*UXGHQWHGXUDQWH-D
+H)WLQFL+QGHWRGRLQFHQGLRGH*URGXFWURV6XL,LFRV
+
+6(&&,"18
+@($,$$63$5$&"175"-$5$(55$@(6")&%$6
+
+− @ H1L1DV1HHPHU<HQFLDDW0PDUVL
+KD>1HUUDPH1H2DV3VWDQFLD  1 RQWHQHUH-GHUUD,HFRQ,DWHULD-DEVRUEHQWHLQHUWH
+WLHUUDRDUHQD@9
+IRU,DQGRGL6XHV4XHJRFR-RFDUHQXQHQ8DVH*-DVWLFR-L,*LR9
+LGHQWLILFDU7GLV*RQHUVHJ3Q-HJLV-DFL+Q-RFD-4D8DUH-DUHDFRQDJXD
+
+−
+(C3LS01HSU0WHFFL6QSHUV0QD2
+SDUDDWDFDU2DHPHU<HQFLD   5R*D9>D*DWRV9JXDQWHV7JDIDVGHVHJXULGDG
+3UHFD3FL0QHVDW0PDUSDUDH4LWDU
+1 DG0VD2DPELHQWH  3URGXFWRELRGHJUDGDE-H?8LWDU6XHH-*URGXFWRHQWUHHQFRQWDFWRFRQ
+D-FDQWDUL--DGR7FXUVRVGHDJXD*RWDE-H
+− @= W010V1H2LPSLHBD  4 D8DUFRQDEXQGDQWHDJXD
+@=W010V1HH2LPLQDFL6Q1H1HVHFK0V 'L-XLU*H6XH<DVFDQWLGDGHVFRQDJXD9GH-RFRQWUDULRGLV*RQHUVHJAQ
+-HJLV-DFL+Q-RFD-
+
+3URGXFWR
+3(5$&(7,&6$1,7,=(5)3 )HFKD(PLVLzQ
+6HSWLHPEUH 
+
+3DJ 
+
+6(&&,"1
+@$1,3&-$&,"1.$-@$&(1$@,(17"
+
+− 5HF0PHQ1DFL0QHVW=FQLFDV  B DQWHQHUHQHQ8DVHRULJLQD-FHUUDGR?8LWDUWRGDH)*RVLFL+QLQ3WL-
+− 3UHFD3FL0QHVDW0PDU  B DQWHQHU-H.RVGH,DWHULD-HVFR,EXVWLE-HV9*RUH.H,*-R,DGHUD
+
+−
+5HF0PHQ1DFL0QHV1HPDQLS32DFL6Q
+VH<3UD  8VDUJXDQWHV7JDIDVHQ-D,DQL*X-DFL+QGH-*URGXFWR*XUR
+− &0Q1LFL0QHV1H$2PDFHQDPLHQW0
+ B DQWHQHUHQ-XJDUIUHVFR7VHFR
+
+−
+(PED2DDHVUHF0PHQ1D10V>Q0
+D1HF3D10V  ? Q8DVHV*-/VWLFRV*UHIHUHQWH,HQWH=HU,CWLFD,HQWHFHUUDGRV
+
+6(&&,"19
+&"175"-$((F3"6,&,"1535"7(&&,"1(63(&,$-
+
+−  @ H1L1DV  SDUD  UH13FLU  2 D  S0VLEL2L1D1
+1 H  (?S0VLFL6Q  ?8 LWH  - D  VREUH!H)*RVLFL+Q9  VREUH  WRGR  GH  - DV , DQRV
+−  3DUEPHWU0V  SDUD  F0QWU02
+-H PLWHV  SHUPLVLE2HV 4 33 QRGLV*RQLE-H
+S0Q1HUD10  - 33  -  DEV023W0  - 3$ 4 3$ QRGLV*RQLE-H
+−  3U0WHFFL6Q  UHVSLUDW0ULD 6L-D,DQL*X-DFL+QGH-*URGXFWRJHQHUD*DUWLFX-DVDHUHDVXWL-L>DU
+D*DUDWRUHV*LUDWRULR*DUD*R-8RRQLHE-D
+−  %3 DQWHV  1 H  SU0WHFFL6Q D XDQWHV  GHFDXF=RRQHR*UHQRGH  - X<R  - DUJR
+−  3U0WHFFL6Q  1 H  2 D  4 LVWD D DIDV  DQWL!VD-*LFDGXUDV
+−  " WU0V  HC3LS0V  1 H  SU0WHFFL6Q 'H-DQWD-  *-/ VWLFRV  FXDQGR  VH  UHD-L>DQ  WUDV8DVL.HV  R  GHUUD,HV
+−  / HQWL2DFL6Q E HQWL-DFL+Q  QDWXUD-  HV  VXILFLHQWH
+
+6(&&,"17
+35"3,($$$(6),6,&$6.;&,@,&$6
+
+− (VWD10)HVLF05$SDULHQFLD>020U  456 XLGRWUDQV*DUHQWHLQFR-RUR7GHR-RU*LFDQWH
+− &0QFHQWUDFL6Q  0FFLGR3HUDFCWLFR
+
+− S!&0QF)$I& , HQRUD
+− 7HPSHUDW3UD1H1HVF0PS0VLFL6Q
+ 2 RGHWHU,LQDGR7D6XHDWH,*HUDWXUDGHHEX--LFL+QVHH8D*RUD7VHFD
+− 33QW01HLQ*2DPDFL6Q  2 RVHLQI-D,D
+
+− 7HPSHUDW3UD1HD3W0L<QLFL6Q  2 RVHHQFLHQGH
+− 3U0SLH1D1HVH?S20VL4DV  1 DXVDH)*-RVLRQFRQDJHQWHVUHGXFWRUHV
+FR,EXVWLE-HV@
+− 3H2L<U01H*3H<00H?S20VL6Q  6LFRQ,DWHULD-HVRUJ/QLFRV
+− / H20FL1D11HSU0SD<DFL6Q1H
+2D22DPD  2 RHVD*-LFDE-H
+− 3UHVL6Q1H4DS0UDJ&   ,,GHGJD H1
+− $ HQVL1D11H4DS0U  9I 
+− $ HQVL1D1DJ&   J!
+
+−
+6023EL2L1D1HQD<3D>0WU0V
+V024HQWHV  1 R,*-HWD,HQWHVR-XE-HHQDJXD
+
+3URGXFWR
+3(5$&(7,&6$1,7,=(5)3 )HFKD(PLVLzQ
+6HSWLHPEUH 
+
+3DJ#
+
+6(&&,"1
+(67$A,-,$$$.5($&7,/,$$$
+
+− (VWDEL2L1D1  ? VWDE-H
+
+− &0Q1LFL0QHVC3H1HEHQH4LWDUVH  ?8 LWHH)*RQHUH-*URGXFWRDFRQGLFLRQHVH)WUH,DVGHWH,*HUDWXUD
+ED.RH1RVREUHH1
+
+−
+,QF0PSDWLEL2L1D1
+'PDWHULD2HVC3H1HEHQH4LWDUVH,  ?8 LWH-DV,H>F-DVFRQFR,*RQHQWHVRUJ/QLFRV
+
+−
+3U013FW0VSH2L<U0V0V
+1 H1HVF0PS0VLFL6Q   4 DGHVFR,*RVLFL+QJHQHUDJDVHVLQI-D,DE-HV
+
+−
+3U013FW0VSH2L<U0V0V
+1 H2DF0PE3VWL6Q  D DVHVLUULWDQWHV
+
+− 302LPHULBDFL6QSH2L<U0VD  2 RVH*URGXFLU/
+
+6(&&,"1
+,1)"5@$&,"17"F,&"-"%,&$
+
+− 70?LFL1D1D<31D  4 'RUD-HQUDWD
+ !  K2 2$&!&&'?1$Q,H)E93DUWL2?1'DXLGH-LQH&@
+− 70?LFL1D1FU6QLFD01H2DU<0S2DB0
+ 'CU,LFDHQFRQH.R4'&!  K2 2$&!&&'?1$Q,H)E93DUWL2?1'
+D XLGH-LQH& @
+− (*HFW0V20FD2HV  3XHGH*UR8RFDULUULWDFL+QGCU,LFD-RFD-*RUVREUH!H)*RVLFL+Q
+GH-LEHUDGD )
+
+6HQVLEL2LBDFL6QD2HU<=QLFD  3XHGH*URGXFLUGHU,DWLWLV
+
+6(&&,"1
+,1)"5@$&,"1(&"-"%,&$
+
+−,QHVWDEL2L1D1  L LRGHJUDGDE-H
+− 3HUVLVWHQFLD5$H<UD1DEL2L1D1  L LRGHJUDGDE-H2RIRU,DVXE*URGXFWRV
+− A L0:DF3P32DFL6Q  2 RVHFRQRFHQHIHFWRVGHELR!DFX,X-DFL+Q
+
+− (*HFW0VV0EUHH2DPELHQWH   3URGXFWRIXHUWH,HQWHR)LGDQWH*XHGHFDXVDUGD<RDVHUHV8L8RV
+DF3DWLFRV
+
+6(&&,"1+
+&"16,$(5$&,"1(66"A5($,63"6,&,"1),1$
+
+− @= W0101HH2LPLQDFL6Q1H2SU013FW0
+HQ20VUHVL130V  2 HXWUD-L>DU9GL-XLUFRQDJXDVGH*URFHVR7H-L,LQDUVHJAQ-HJLV-DFL+Q
+ - RFD-
+
+−
+(2LPLQDFL6Q1HHQ4DVHV0HPED2DDHV
+&0QWDPLQD10V  ?- L,LQDUHQGHVWLQDWDULRDXWRUL>DGR 
+
+6(&&,"1(
+,1)"5@$&,"16"A5((-75$163"57(
+
+− 1&K7PDUFDVDS2LFDE2HV  1- DVH 
+2)LGDQWH@1-DVH$91RUURVL8R
+− 1J1&  # '
+
+3URGXFWR
+3(5$&(7,&6$1,7,=(5)3 )HFKD(PLVLzQ
+6HSWLHPEUH 
+
+3DJ&
+
+6(&&,"1
+1"5@$6/,%(17(6
+
+10UPDVLQWHUQDFL0QD2HVDS2LFDE2HV ,B2281-DVH 
+2)LGDQWH@1-DVH$
+1RUURVL8R@
+− 10UPDV1DFL0QD2HVDS2LFDE2HV  21G #$ 2I$'M21= '2I'#M'62H'&21=&&2I"$
+− @ DUFDHQHWLC3HWD   &0PE3UHQWH:&0UU0VL40)
+
+6(&&,"18
+"75$6,1)"5@$&,"1(6
+
+~~~~
+
+)UDVHV  1 H  5LHV<0  5 5559555)5+
+)UDVHV  1 H  6H<3UL1D1  6 6+:68:6 :6+85+ 5+7)
+
+&0QVL1HUDQ10C3HH23V01HHVWDLQ*0UPDFL6Q>1H20VSU013FW0VHVWE*3HUD1H2F0QWU021H2SU04HH10U6SDUWDQ&KL2H-W1D)
+Q0DV3PHUHVS0QVDEL2L1D1D2<3QDS0UHVWHF0QFHSW0)$HWHUPLQDU2DVF0Q1LFL0QHV1H3V0VH<3U01H2SU013FW0HV0E2L<DFL6Q1H2
+3V3DUL0)
+
+3URGXFWR
+3(5$&(7,&6$1,7,=(5)3 )HFKD(PLVLzQ
+6HSWLHPEUH 
+
+3DJ

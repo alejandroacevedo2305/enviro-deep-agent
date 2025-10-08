@@ -1,0 +1,35 @@
+---
+title: Sin título
+author: aestrada
+date: D:20170320132341-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+**DISPOSICIÓN DE AGUA LLUVIA ESTANCADA EN** SECTOR: OESTE PLANTA OXIQUIM CORONEL
+
+1. EVIDENCIA DE AGUA ESTANCADA
+
+2. SE TOMA MUESTRA
+
+3. SE RETIRÓ AGUA DEL LUGAR ; SE ENVASO EN IBC
+
+4. SE ENVIÓ A LABORATORIO DE CONTROL, MUESTRA PARA ANÁLISIS
+
+5. SE OBTUVIERON RESULTADOS DEL ANÁLISIS
+
+6. SE SOLICITO DISPOSICIÓN DE AGUA
+
+7. SE RECIBIÓ DISPOSICIÓN DE PARTE QUÍMICO DE PROCESO Y SE REPROCESO EN ESTANQUES DE RIL DE
+
+PLANTA RESINAS (FIN)
+
+Coronel, 24 de noviembre de 2016
+
+Andres Estrada Toledo
+
+Supervisor Planta Formalina

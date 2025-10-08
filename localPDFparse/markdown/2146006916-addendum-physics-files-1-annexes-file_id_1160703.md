@@ -1,0 +1,1838 @@
+---
+title: Tipo de Informe o Capítulo
+author: ISB
+date: D:20210211180325-03'00'
+language: es
+type: report
+pages: 41
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - MVC SOLAR 38 SPA Anexo 02 Actualización del Plan de prevención de contingencias y emergencias
+-->
+
+# MVC SOLAR 38 SPA Anexo 02 Actualización del Plan de prevención de contingencias y emergencias
+
+## DIA Parque Fotovoltaico La Perla
+
+### Región del Biobío
+
+Febrero, 2021
+
+Elaborado por:
+
+**Gestión Ambiental Consultores S.A.**
+
+General del Canto 421 Piso 6, Providencia
+
+Fono: +56 2 2719 5600
+
+www.gac.cl
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**INDICE GENERAL**
+
+**1** **Plan de Prevención de Contingencias y Emergencias .................................................................... 1**
+
+1.1 Introducción .................................................................................................................................. 1
+
+1.2 Alcances ......................................................................................................................................... 1
+
+1.3 Definiciones ................................................................................................................................... 2
+
+1.4 Responsables ................................................................................................................................. 3
+
+1.5 Procedencia de los Planes ............................................................................................................. 3
+
+**2** **Identificación de Riesgos Asociados al Proyecto ........................................................................... 4**
+
+2.1 Descripción de Riesgos Naturales ................................................................................................. 5
+
+2.1.1 Riesgos de Sismos .................................................................................................................. 5
+
+2.1.2 Riesgos de Condiciones Climáticas ........................................................................................ 6
+
+2.2 Descripción de Riesgos Antrópicos ............................................................................................... 6
+
+2.2.1 Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte .................. 6
+
+2.2.2 Riesgo de Incendios ............................................................................................................... 7
+
+2.2.3 Riesgo por Accidentes de Tránsito Asociados al Proyecto .................................................... 7
+
+2.2.4 Riesgo por Uso de Equipos y Maquinaria Pesada ................................................................. 7
+
+2.2.5 Riesgo por Movimiento de Tierras ........................................................................................ 7
+
+2.2.6 Riesgo de Atropello de Fauna ................................................................................................ 8
+
+2.2.7 Riesgo por Desmontaje de Equipos ....................................................................................... 8
+
+2.3 Estrategia General de Prevención de Riesgos ............................................................................... 8
+
+2.3.1 Medidas Ambientales Incorporadas en el Diseño de Ingeniería del Proyecto ..................... 8
+
+2.3.2 Verificar Sistemáticamente el Cumplimiento de la Normativa Aplicable ............................. 8
+
+2.3.3 Supervisión Experta Durante la Construcción ....................................................................... 9
+
+2.3.4 Capacitación en Aspectos Ambientales Sensibles ................................................................. 9
+
+2.3.5 Programas Internos de Control de Riesgos y Prevención de Accidentes ............................ 10
+
+**3** **Medidas de Prevención de Contingencias .................................................................................. 11**
+
+3.1 Medidas de Contingencias Adoptadas para los Riesgos Naturales ............................................. 11
+
+3.2 Medias de Contingencias Adoptadas para los Riesgos Antrópicos ............................................. 13
+
+**4** **Plan de Emergencias ................................................................................................................. 32**
+
+4.1 Organización de la Emergencia ................................................................................................... 32
+
+4.1.1 Comité de Emergencias ....................................................................................................... 32
+
+4.1.2 Coordinador General de Emergencia .................................................................................. 33
+
+4.1.3 Jefe de Emergencias ............................................................................................................ 33
+
+4.1.4 Personal en General ............................................................................................................ 34
+
+4.2 Procedimientos de Protección Ambiental ante Derrames .......................................................... 34
+
+4.3 Medidas Generales de Emergencias ........................................................................................... 35
+
+4.4 Sistema de Comunicación en Caso de Emergencias ................................................................... 35
+
+4.5 Registro de Incidentes y Emergencias ......................................................................................... 36
+
+4.6 Simulacros ................................................................................................................................... 37
+
+4.7 Descripción de las Situaciones de Emergencias .......................................................................... 37
+
+i
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+4.8 Teléfonos de Emergencia ............................................................................................................ 37
+
+4.9 Comunicación a la Superintendencia de Medio Ambiente ......................................................... 38
+
+**INDICE DE TABLAS**
+
+Tabla 2-1.Riesgos Identificados por Fase del Proyecto. ................................................................................ 5
+
+Tabla 3-1. Medidas de contingencias adoptadas en caso de sismos .......................................................... 11
+
+Tabla 3-2. Medidas de contingencias asociadas a Condiciones Climáticas ................................................. 12
+
+Tabla 3-3. Medidas de contingencias adoptadas en caso de Derrame de sustancias peligrosas en áreas de
+
+trabajo y durante su transporte .................................................................................................................. 13
+
+Tabla 3-4. Medidas de contingencias adoptadas en caso de incendio en el área de faenas ...................... 20
+
+Tabla 3-5. Medidas de contingencias adoptadas en caso de accidentes de tránsito ................................. 21
+
+Tabla 3-6. Medidas de contingencias asociadas al uso de equipo y maquinaria pesada ........................... 23
+
+Tabla 3-7. Medidas de contingencias asociadas a movimientos de tierra .................................................. 24
+
+Tabla 3-8. Medidas de contingencias adoptadas en caso de atropello de fauna silvestre ......................... 25
+
+Tabla 3-9. Medidas de contingencias asociadas a Desmontaje de Equipos ............................................... 26
+
+Tabla 3-10. Medidas de contingencia relacionadas a una condición desfavorable de almacenamiento o
+
+error en la clasificación del residuo peligroso ............................................................................................. 27
+
+Tabla 3-11. Medidas de contingencia en caso de derrame de residuos peligrosos en la faena ................. 27
+
+Tabla 3-12. Medidas de contingencia en caso de incendios forestales ...................................................... 29
+
+Tabla 4-1. Teléfonos de Emergencia ........................................................................................................... 37
+
+ii
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+##### 1 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 1.1 Introducción
+
+El presente documento detalla el Plan de Prevención de Contingencias y el Plan de Emergencias para el
+
+Proyecto Parque Fotovoltaico La Perla, las que se encuentran definidas o indicadas en la regulación
+
+nacional D.S N° 40/2012 del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de
+
+Impacto Ambiental.
+
+De acuerdo con lo señalado en el inciso a.8) del Artículo 19 del Reglamento del Sistema de Evaluación de
+
+Impacto Ambiental (RSEIA) una Declaración de Impacto Ambiental deberá contener las medidas de
+
+prevención de riesgos ambientales y de control de accidentes, según lo establecido en el Párrafo 2° del
+
+Título VI del Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA).
+
+El Plan de Prevención de Contingencias contiene las medidas operacionales y criterios de diseño
+
+destinados a evitar o minimizar la ocurrencia de situaciones accidentales de riesgo para las personas y el
+
+medio ambiente.
+
+El Plan de Emergencias tiene como finalidad proteger la vida y seguridad de los trabajadores, la comunidad
+
+y el medio ambiente, además de minimizar las pérdidas de equipos y materiales que resulten de la
+
+emergencia, en la eventualidad que el Plan de Prevención de Contingencias se vea superado. El Plan de
+
+Emergencia define las políticas, la organización y los métodos, que se llevaran a cabo al momento de
+
+enfrentar de enfrentar una emergencia o desastres tanto en lo general como en lo particular.
+
+##### 1.2 Alcances
+
+El presente Plan de Prevención de Contingencias y Emergencias es aplicable a todo el personal que trabaje
+
+en la construcción, operación y/o cierre del Parque Fotovoltaico La Perla, ya sean éstos contratados por el
+
+titular, por el contratista principal, o por subcontratos y externos.
+
+Es importante señalar que el Proyecto posee una estrategia de prevención de riesgos que incorpora
+
+consideraciones a la gestión y/o control administrativo de sus contratistas y operarios, en las distintas
+
+fases de desarrollo para proteger la vida y seguridad de los trabajadores y el medio ambiente, además de
+
+minimizar las pérdidas de equipos y materiales.
+
+1
+
+#### MVC SOLAR 38 SPA
+
+##### 1.3 Definiciones
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Accidente** : Todo incidente cuya consecuencia es una pérdida directa y mensurable, sean lesiones a las
+
+personas, daños al medio ambiente o pérdidas materiales.
+
+**Comité de emergencia** : es el grupo de trabajadores organizados, entrenados y equipados para identificar
+
+las condiciones de riesgo que puedan generar emergencias y actuar adecuadamente controlando o
+
+minimizando sus consecuencias.
+
+**Emergencia** : Evento imprevisto que genere o pueda generar daños a las personas, instalaciones, equipos,
+
+medio ambiente y / o comunidad.
+
+**Emergencia Menor** : Emergencia que solamente involucra afección localizada al medioambiente, no
+
+habiendo personas lesionadas o directamente afectadas.
+
+**Emergencia Mayor** : Emergencia que involucra daños, lesiones o muerte de personas y daños al
+
+medioambiente, o solamente daños al medioambiente a gran escala.
+
+**Evacuación** : abandono de una sala de control, edificio, oficina, local, recinto, frente de trabajo, instalación
+
+de faenas, etc., ante una emergencia.
+
+**Incidente** : Todo evento indeseado no programado que puede generar consecuencias negativas en el
+
+sistema (contaminación, afección al medioambiente, daños, lesiones, pérdidas, etc.).
+
+**Medidas de control de accidentes** : Conjunto de medidas que tienen por finalidad intervenir eficazmente
+
+en los sucesos que alteren el desarrollo normal de un Proyecto o actividad, en tanto puedan causar daño
+
+a la vida, a la salud o al medio ambiente.
+
+**PEE** : Punto Encuentro Emergencia.
+
+**Plan de Emergencias** : Plan que contiene las medidas a adoptar para controlar y minimizar los impactos en
+
+la eventualidad que el Plan de Prevención de Contingencias Ambientales se vea superado, derivados de la
+
+eventual ocurrencia de situaciones naturales u operacionales.
+
+**Plan de Prevención de Contingencias** : Plan que define las medidas cuya finalidad es disminuir o evitar que
+
+aparezcan efectos desfavorables o indeseables en la salud humana o en el medio ambiente, que pudieran
+
+provocar una pérdida, disminución, detrimento o menoscabo significativo a uno o más elementos de este
+
+v a consecuencia de la ejecución del proyecto o actividad.
+
+**Riesgo de ocurrencia de fenómenos naturales** : corresponde a los riesgos asociados a fenómenos ajenos
+
+a la operación normal del Proyecto, tales como sismos, terremotos, inundación, etc.
+
+2
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Coordinador de emergencia** : la persona encargada de liderar y coordinar las acciones a seguir ante una
+
+emergencia.
+
+**Jefe de Emergencia** : Es la persona designada por la administración de la empresa, siendo el responsable
+
+directo de la ejecución de la obra y/u operación en terreno, administrando los recursos humanos y
+
+materiales ante una emergencia.
+
+##### 1.4 Responsables
+
+Los principales actores responsables dentro del Plan de Contingencias son el gerente general, el jefe de
+
+terreno (Coordinador de Emergencia), el comité de emergencias y finalmente todos los trabajadores
+
+contratados directamente por la empresa titular o por empresas contratistas o externas.
+
+ - Gerente General: Es el responsable de entregar los medios para la Prevención y el Control de las
+
+Emergencias.
+
+ - Jefe de turno / terreno: Es el responsable del control de las situaciones que puedan generar una
+
+emergencia, debe realizar inspecciones a las áreas, materiales y equipos que pueden ser la fuente
+
+de una emergencia y tomar las medidas preventivas que correspondan. El jefe de terreno asumirá
+
+igualmente la responsabilidad de la Oficina de Inspección Técnica de Obras (ITO) y del Coordinador
+
+de Emergencia.
+
+ - Comité de Emergencias: Grupo conformado por mínimo 3 y máximo 6 trabajadores que, junto con
+
+tener voluntad y espíritu de colaboración, deben tener conocimientos de primeros auxilios,
+
+evacuación, rescate, control de derrames e incendios, etc., y participar activamente en el control
+
+del plan de prevención y de contingencia. Estas personas deberán tener buenas condiciones físicas
+
+y psicológicas para participar en las operaciones, emergencias y simulacros. El comité de
+
+emergencias considera su funcionamiento exclusivamente en la fase de construcción del proyecto.
+
+ - Trabajadores: Deberá participar activamente en el reporte de situaciones que pudieran generar
+
+una emergencia, así como también acatar las instrucciones dadas por su Supervisor cada vez que
+
+ocurra una emergencia.
+
+##### 1.5 Procedencia de los Planes
+
+De acuerdo con lo señalado en los artículos N° 102, N° 103 y N° 104 del D.S. N° 40/2012 del Ministerio del
+
+Medioambiente que aprueba el Reglamento del SEIA, se establece lo siguiente:
+
+3
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Artículo 102.- Procedencia de estos planes.**
+
+_“Si de la descripción del proyecto o actividad o de las características de su lugar de emplazamiento, se_
+
+_deducen eventuales situaciones de riesgo al medio ambiente, el titular deberá proponer un plan de_
+
+_prevención de contingencias y un plan de emergencias.”_
+
+**Artículo 103.- Plan de prevención de contingencias.**
+
+_“El plan deberá identificar las situaciones de riesgo o contingencia que puedan afectar el medio ambiente_
+
+_o a la población y describir las acciones o medidas a implementar para evitar que estas se produzcan o_
+
+_minimizar la probabilidad de ocurrencia.”_
+
+**Artículo 104.- Plan de emergencias.**
+
+_“El plan deberá describir las acciones a implementar en caso de que se produzca una emergencia. El_
+
+_objetivo de estas medidas es controlar la emergencia y/o minimizar sus efectos sobre el medio ambiente o_
+
+_la población.”_
+
+##### 2 IDENTIFICACIÓN DE RIESGOS ASOCIADOS AL PROYECTO
+
+La identificación de los riesgos asociados al Proyecto se realizó en base a una revisión de todas sus
+
+actividades, de las condiciones geográficas, topológicas y ambientales en que se ubican sus obras, de los
+
+elementos del medio ambiente que interactúan con las obras y actividades del proyecto, el número de
+
+trabajadores involucrados, y distancia e interacción con centros poblados. Esta revisión se realizó para las
+
+fases de construcción, operación y cierre del Proyecto.
+
+Los riesgos previstos, por cada fase de desarrollo del Proyecto, ya sea de origen natural y antrópico, se
+
+indican en Tabla 2-1, y se detallan posteriormente.
+
+4
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Tabla 2-1.Riesgos Identificados por Fase del Proyecto.**
+
+|Riesgo|Col2|Fases|Col4|Col5|
+|---|---|---|---|---|
+|**Riesgo**|**Riesgo**|**Construcción**|**Operación**|**Cierre**|
+|Natural|Sismo|X|X|X|
+|Natural|Condiciones climáticas|X|X|X|
+|Antrópico|Derrame de sustancias peligrosas en áreas de trabajo<br>y durante su transporte|X||X|
+|Antrópico|Incendio|X|X|X|
+|Antrópico|Accidentes de tránsito|X|X|X|
+|Antrópico|Uso de equipos y maquinaria pesada|X||X|
+|Antrópico|Movimientos de tierra|X||X|
+|Antrópico|Riesgos de atropello de fauna|X|X|X|
+|Antrópico|Desmontaje de equipos|||X|
+
+Fuente: Elaboración propia.
+
+##### 2.1 Descripción de Riesgos Naturales
+
+El riesgo natural es la probabilidad de ocurrencia de eventos naturales de tipo catastrófico con
+
+consecuencias para la población, el medio construido y/o los recursos naturales, y cuya causa o actor
+
+desencadenante se relaciona con la estructura y dinámica meteorológica, geomorfológica, hidrológica,
+
+sísmica y/o volcánica (inundaciones, remociones en masa, etc.).
+
+Considerando que el Proyecto se inserta en un área que presenta escasos riesgos geológicos debido a la
+
+morfología local, la cual es predominantemente plana. Particularmente se reconocen los eventos sísmicos
+
+como el principal agente de riesgo en el área del Proyecto.
+
+Es así que como para enfrentar el período de construcción se ha dispuesto ubicar las instalaciones de
+
+faenas en sitios seguros, además de la implementación de los sistemas de alarma que permitan la
+
+evacuación oportuna y tránsito seguro del personal en la eventualidad que ocurra alguna emergencia por
+
+este concepto. Por otra parte, en los diseños de las obras y rutinas de operación se han incorporado los
+
+resguardos necesarios para evitar daños a terceros frente a la ocurrencia eventual de algún fenómeno
+
+natural de características catastróficas.
+
+###### 2.1.1 Riesgos de Sismos
+
+Chile es uno de los países más sísmicos del planeta, en promedio, cada diez años se produce un terremoto
+
+de magnitud superior a 8 en alguna parte del territorio. El nivel de sismicidad es tal que desde 1962, se
+
+han producido más de 4.000 sismos de magnitud superior a 5 (Madariaga R., 1998).
+
+5
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+Los sismos de mayor magnitud en Chile se originan principalmente en la fosa oceánica chilenoperuana que
+
+corresponde a un mecanismo de subducción de la placa Nazca bajo la placa Sudamericana, a una distancia
+
+de la costa que puede variar entre los 100 y los 200 km. El Departamento de Sismología de la Universidad
+
+de Chile (Servicio Sismológico Nacional) cuenta con estaciones sismológicas distribuidas por todo el país
+
+con el objeto de monitorear y catastrar la totalidad de sismos que ocurren en el territorio nacional.
+
+Este riesgo se presenta en todas las fases del proyecto.
+
+###### 2.1.2 Riesgos de Condiciones Climáticas
+
+El riesgo climático considera acontecimientos naturales; temporales de viento, lluvia y bajas temperaturas.
+
+El clima donde se emplaza el proyecto se caracteriza por su clima templado de tipo mediterráneo con
+
+lluvias concentradas en invierno.
+
+Este riesgo se considera bajo en todas las fases del proyecto, considerando la baja ocurrencia de estas
+
+condiciones en la zona.
+
+##### 2.2 Descripción de Riesgos Antrópicos
+
+El riesgo antrópico se refiere a eventos accidentales cuyo origen o factor desencadenante se relaciona con
+
+actividades humanas. Para el caso del Proyecto, estos riesgos se relacionan principalmente con las
+
+actividades de construcción y operación de las obras.
+
+###### 2.2.1 Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte
+
+Este tipo de riesgo es generado por el transporte, almacenamiento y manipulación de algunos materiales
+
+potencialmente peligrosos tales como gasolina, petróleo, aceite para maquinarias, pinturas y solventes.
+
+Las consecuencias inmediatas directas por el derrame de sustancias peligrosas van desde lesiones,
+
+quemaduras, asfixias, entre otras, para las personas y la fauna.
+
+Este tipo de riesgo estará presente durante la construcción, particularmente asociado al traslado de
+
+insumos requeridos para la ejecución de obras y su almacenamiento temporal en la instalación de faenas.
+
+Este riesgo no se considera en la fase de cierre debido a su baja probabilidad de ocurrencia.
+
+6
+
+#### MVC SOLAR 38 SPA
+
+###### 2.2.2 Riesgo de Incendios
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+El riesgo de incendio se refiere a una condición que puede contribuir al inicio o propagación del fuego y
+
+que puede representar un peligro a la vida de las personas y/o a la propiedad pública y privada.
+
+Para el caso del Proyecto, en la fase de construcción es posible encontrar este tipo de riesgo en los recintos
+
+de almacenamiento de combustibles, en las instalaciones de faenas u otras sustancias utilizadas.
+
+En la fase de operación cierre la probabilidad de ocurrencia de un incendio es menor a la fase de
+
+construcción considerando la materialidad de las principales instalaciones (paneles y soportes metálicos),
+
+no obstante, se mantendrán las medidas preventivas y de control de incendios durante esta fase.
+
+En la fase de cierre la probabilidad de ocurrencia de un incendio es baja considerando la actividad principal
+
+es la desmantelación.
+
+###### 2.2.3 Riesgo por Accidentes de Tránsito Asociados al Proyecto
+
+Implica la ocurrencia de choques contra obstáculos fijos o colisiones entre dos vehículos, atropellos y
+
+volcamientos. Al respecto, influyen en él, equivocadas maniobras al conducir, condiciones climáticas
+
+desfavorables, condición de los caminos y mantención de los vehículos.
+
+Este riesgo estará presente en todas las fases de desarrollo del proyecto (construcción, operación y cierre),
+
+considerando que existirá un flujo vehicular permanente.
+
+###### 2.2.4 Riesgo por Uso de Equipos y Maquinaria Pesada
+
+Este tipo de riesgo se encuentra asociado al uso de equipos y maquinaria pesada en las obras temporales
+
+y permanentes del proyecto en la fase de construcción. Los equipos y maquinarias considerados son:
+
+(camiones, retroexcavadora, motoniveladora).
+
+Este riesgo también estará presente en la fase de cierre del proyecto. En la fase de operación no se
+
+considera, ya que no se hará uso de maquinaria pesada.
+
+###### 2.2.5 Riesgo por Movimiento de Tierras
+
+Este tipo de riesgo se encuentra asociado a las actividades de construcción.
+
+Este riesgo no se encuentra presente en la fase de operación.
+
+7
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+El riesgo se encuentra presente en la fase de cierre del proyecto en las actividades de disposición de
+
+escombros, nivelación de caminos y restitución de relieves.
+
+###### 2.2.6 Riesgo de Atropello de Fauna
+
+Durante todas fases del Proyecto, los vehículos de transporte de material y personal utilizarán caminos
+
+existentes y caminos nuevos especialmente habilitados para dar acceso al parque. En este contexto, la
+
+actividad de transporte involucra el riesgo de atropello de animales silvestres.
+
+###### 2.2.7 Riesgo por Desmontaje de Equipos
+
+Este riesgo se encuentra presente exclusivamente en las actividades de desmontajes de los paneles en la
+
+fase de cierre del proyecto.
+
+##### 2.3 Estrategia General de Prevención de Riesgos
+
+El Titular posee una estrategia general de prevención de riesgos que incorpora algunas medidas al
+
+Proyecto en sus distintas fases de desarrollo (construcción, operación y cierre). Esta estrategia cuenta con
+
+los siguientes componentes:
+
+###### 2.3.1 Medidas Ambientales Incorporadas en el Diseño de Ingeniería del Proyecto
+
+A partir de los estudios de ingeniería realizados se han incorporado medidas orientadas a prevenir y/o
+
+minimizar los riesgos asociados a este tipo de proyecto. Dichas medidas serán ratificadas por los futuros
+
+estudios de ingeniería básica y otras consideraciones que asuma el Contratista previa autorización del
+
+titular.
+
+###### 2.3.2 Verificar Sistemáticamente el Cumplimiento de la Normativa Aplicable
+
+Tanto el diseño de ingeniería como los programas de construcción considerarán el cabal cumplimiento de
+
+la normativa vigente. Dicha normativa está referida a aspectos relacionados con las condiciones sanitarias
+
+y ambientales de los lugares de trabajo, accidentes y enfermedades, prevención de riesgos, salud y
+
+seguridad. En este contexto, el titular velará porque se cumplan cada una de las exigencias y condiciones
+
+que establece la ley.
+
+8
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+###### 2.3.3 Supervisión Experta Durante la Construcción
+
+El Titular contará, como parte de la Supervisión Técnica de las Obras, con un especialista en fauna
+
+terrestre, quien realizará, previo a las actividades de preparación del terreno, una inspección en las áreas
+
+que se verán afectadas por el proyecto, considerando individuos de la fauna que puedan ser evitados.
+
+Se aplicará como medida preventiva la supervisión en terreno de un especialista en fauna, quien
+
+supervisará las obras en terreno, tanto al principio de éstas, como durante su desarrollo, con una
+
+frecuencia trimestral.
+
+En caso de que durante esta supervisión se detecte la presencia de especies de interés de conservación,
+
+se aplicarán medidas complementarias de traslado u otras medidas según proceda, de acuerdo con la
+
+vulnerabilidad de los ejemplares detectados y al tipo de obras. Los informes de la supervisión experta
+
+serán enviados a las Autoridades pertinentes.
+
+a) Los objetivos de la supervisión experta consisten en:
+
+ - Alcanzar la meta de cero incidentes ambientales durante la fase de construcción.
+
+ - Dar cumplimiento a la RCA durante la fase de construcción.
+
+ - Evitar el Impacto ambiental y cumplir con la normativa ambiental asociada.
+
+ - El alcance de los trabajos es el control en aspectos ambientales durante la fase de construcción
+
+en el Proyecto.
+
+b) La metodología será detallada en el procedimiento que ejecutará el Constructor e incorporado en
+
+la Matriz Ambiental.
+
+c) Los responsables son el Titular del Proyecto y la empresa constructora.
+
+d) Los medios de registros quedarán indicados en el procedimiento de inspección ambiental de
+
+acuerdo con la normativa ISO 14001.
+
+e) La verificación de cumplimiento será mediante informes semanales y mensuales.
+
+###### 2.3.4 Capacitación en Aspectos Ambientales Sensibles
+
+El Titular gestionará la realización de una capacitación técnica a los trabajadores del proyecto, sobre temas
+
+de flora y fauna terrestre, a través de folletos y charlas, de modo de crear conciencia y procedimientos de
+
+protección de la flora y la fauna, y restricciones en cuanto a la corta, recolección, persecución,
+
+ahuyentamiento y caza.
+
+a) Los objetivos de la supervisión experta consisten en:
+
+ - Alcanzar la meta de cero incidentes ambientales durante la fase de construcción.
+
+ - Dar cumplimiento a la RCA durante la fase de construcción.
+
+ - Evitar el Impacto ambiental y cumplir con la normativa ambiental asociada.
+
+9
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+ - El alcance de los trabajos es el control en aspectos ambientales durante la fase de construcción
+
+en el Proyecto.
+
+b) La metodología será detallada en el procedimiento que ejecutará el Constructor e incorporado en
+
+la Matriz Ambiental.
+
+c) Los responsables son el Titular del Proyecto y la empresa constructora.
+
+d) Los medios de registros quedarán indicados en el procedimiento de inspección ambiental de
+
+acuerdo con la normativa ISO 14001.
+
+e) La verificación de cumplimiento será mediante informes semanales y mensuales.
+
+###### 2.3.5 Programas Internos de Control de Riesgos y Prevención de Accidentes
+
+El Titular exigirá a sus Contratistas de Obra el cumplimiento de un Reglamento Interno de Orden, Higiene,
+
+Seguridad y Medioambiente, el cual será aplicado en todas las fases de desarrollo del Proyecto. Su
+
+contenido, alcance y supervisión se ajustará a lo exigido por la normativa vigente.
+
+El Titular tendrá un Plan de Emergencias en la instalación de faenas, el que estará coordinado con las
+
+prescripciones que en esta materia establece la Ley. Todos los contratistas y subcontratistas deberán
+
+suscribir dicho plan e incorporarlo a su actividad.
+
+Adicionalmente, el Titular velará por que la instalación de faenas disponga de equipos e infraestructura
+
+suficiente para atender las eventuales emergencias que se puedan producir durante el desarrollo del
+
+Proyecto.
+
+Respecto de los riesgos laborales, se considerarán aquellos contenidos en el Código Sanitario y en el
+
+Decreto Supremo N° 594 sobre Seguridad y Ambiente Laboral, algunos de cuyos elementos relevantes son:
+
+ - Lugares de trabajo seguros y que cumplan con los requerimientos establecidos en el D.S. N° 594
+
+del MINSAL sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo.
+
+ - Sistemas y métodos de trabajo que no involucren riesgos para la salud, el medio ambiente o la
+
+seguridad, tales como: programas de control y protección contra incendios, transporte de
+
+combustibles y que se encuentren especificados sus modos de operar en normas o instructivos de
+
+las asociaciones de seguridad y Superintendencia de Electricidad y Combustible.
+
+ - Personal adecuadamente entrenado para reconocer, evaluar y controlar riesgos en los lugares de
+
+trabajo, cuya ocurrencia cause un deterioro al medio ambiente, establecido en el D.S. N° 40 del
+
+Misterio del trabajo y previsión social aprueba el reglamento sobre prevención de riesgos
+
+profesionales.
+
+Por otra parte, al interior de la instalación de faenas, se definirán zonas de seguridad, como áreas de
+
+evacuación ante algún evento sísmico, avalancha o deslizamiento, e incendio.
+
+10
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+Este Plan considerará mantener siempre comunicación y áreas de faenas con personal de los servicios de
+
+Salud, Bomberos, Carabineros, ONEMI, CONAF, etc.
+
+##### 3 MEDIDAS DE PREVENCIÓN DE CONTINGENCIAS
+
+En las siguientes tablas se indican las medidas generales de prevención de contingencias que se aplicarán
+
+en caso de generarse uno o más de los riesgos antes señalados durante las diferentes fases del Proyecto.
+
+##### 3.1 Medidas de Contingencias Adoptadas para los Riesgos Naturales
+
+**Tabla 3-1. Medidas de contingencias adoptadas en caso de sismos**
+
+|Sismos|Col2|
+|---|---|
+|Riesgo o contingencia|Sismos|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Toda la infraestructura del Proyecto|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara prevenir<br>la<br>contingencia|• El tipo de estructuras y emplazamientos de las instalaciones de<br>faenas darán cumplimiento a las especificaciones tipo para<br>instalaciones de este tipo bajo normativa chilena, la que considera<br>los riesgos de sismos.<br>• Se capacitará y entrenará a personal en labores de rescate y<br>emergencia, los cuales deberán ser capacitados en forma anual; se<br>apoyará en el departamento de Prevención de Riesgos y Comités<br>Paritarios respectivos.<br>• A modo general se definirán zonas de seguridad y se elaborará un<br>Plan de Evacuación de Emergencia para cada contrato de<br>construcción que incluye un programa de comunicaciones el cual<br>incluirá<br>aquellas<br>contingencias<br>independientemente<br>de<br>su<br>evaluación de criticidad, el cuál será verificado y controlado en<br>cumplimiento por parte del asesor en prevención de riesgos del<br>titular.|
+|Forma de control y seguimiento|• Obtención de Permiso de Edificación y Recepción de Obras.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Dependiendo de la magnitud del sismo, se activará la alarma y si es<br>pertinente se ordenará la evacuación hacia las zonas de seguridad.<br>• Los trabajadores deberán quedarse en la zona de seguridad y esperar<br>instrucciones del personal entrenado.<br>• Producido un sismo, El titular procederá a evaluar los daños en las<br>estructuras físicas.<br>• En caso de que existan daños que impidan el normal funcionamiento<br>del Parque, se informará de esta situación a las autoridades<br>competentes.|
+
+11
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Sismos|Col2|
+|---|---|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+Fuente: Elaboración propia.
+
+**Tabla 3-2. Medidas de contingencias asociadas a Condiciones Climáticas**
+
+|Condiciones Climáticas s|Col2|
+|---|---|
+|Riesgo o contingencia|Condiciones Climáticas|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Toda la infraestructura del Proyecto|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|Fase de construcción:<br>• No se ubicará la instalación de faenas en zonas expuestas a<br>deslizamientos de tierra.<br>• No se trabajará durante condiciones de mal tiempo sean viento y<br>lluvia.<br>• Las instalaciones eléctricas se inspeccionarán de manera<br>permanente por un especialista del área.<br>• El diseño de ingeniería y la construcción de las instalaciones del<br>Proyecto obedecen a normas o estándares nacionales e<br>internacionales de resistencia.<br>Fases de operación y cierre:<br>• Por el tipo de obras, no se contemplan acciones especiales para<br>eventos climáticos durante estas Fases, excepto aquellas que<br>establece la Ley.|
+|Forma de control y seguimiento|• Permiso de edificación y recepción de obras de la municipalidad.<br>• Certificado SEC “TE1 Declaración Eléctrica de Interiores”.<br>• Reglamento Interno de Higiene y Seguridad. El cual considerará las<br>condiciones óptimas de trabajo.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Dependiendo de la magnitud del temporal, se activará la alarma y si<br>es pertinente la evacuación hacia las zonas de seguridad.<br>• Los trabajadores deberán quedarse en la zona de seguridad y esperar<br>instrucciones por la supervisión.<br>• Producido un temporal, el titular procederá a evaluar los daños en la<br>estructura física.<br>• En caso de que existan daños que impidan el normal<br>funcionamiento, se informará de esta situación a las autoridades<br>competentes.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+Fuente: Elaboración propia.
+
+12
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+##### 3.2 Medias de Contingencias Adoptadas para los Riesgos Antrópicos
+
+**Tabla 3-3. Medidas de contingencias adoptadas en caso de Derrame de sustancias peligrosas en áreas de trabajo**
+
+**y durante su transporte**
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+|Riesgo o contingencia|Derrame de sustancias peligrosas en áreas de trabajo y durante su<br>transporte|
+|Fase del proyecto a la que aplica|Fase de construcción y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Almacenamiento y manejo de sustancias peligrosas.|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|Medidas de seguridad asociadas al transporte:<br>• El transporte de combustible será realizado por empresas<br>autorizadas.<br>• El transporte de líquidos, tales como combustible y otros que se<br>puedan requerir en la faena, se regirán por las disposiciones de la<br>legislación vigente.<br>• El transportista o conductor poseerá la licencia adecuada, en<br>conjunto a la capacitación necesaria para responder en caso de<br>accidentes, con derrame de las sustancias transportadas.<br>• Los conductores de los vehículos de transporte contarán con<br>capacitación en el manejo y manipulación de las sustancias que<br>transportan, así como en procedimientos de primeros auxilios y<br>control de eventuales derrames (incluye la instrucción de los<br>procedimientos asociados al manejo de sustancias peligrosas).<br>• El transporte de sustancias peligrosas contará con las Hojas de<br>Seguridad respectivas, que contendrán entre otros datos, las<br>características de las sustancias, sus riesgos y los procedimientos de<br>emergencia que deberán activarse en caso de declaración del riesgo.<br>Medidas de seguridad asociadas al almacenamiento y manipulación:<br>• Se capacitará al personal que manipule y almacene este tipo de<br>sustancias, en las instalaciones de faenas.<br>• Se dispondrá de un área especial de almacenamiento para estos<br>materiales al interior de la instalación de faenas, la cual estará<br>debidamente señalizada y acondicionada según lo dispuesto por las<br>autoridades competentes.<br>• Los tambores de combustibles y aceite se dispondrán sobre pallets<br>de madera u otros dispositivos con el objeto de facilitar su transporte<br>y evitar la humedad y corrosión de estos, por efecto del contacto<br>directo entre los tambores y el suelo.<br>• Se dispondrá en esta área de elementos que permitan la contención<br>de derrames de mediana magnitud.<br>• Los recintos de acopio de estas sustancias contarán con las Hojas de<br>Seguridad respectivas, que contendrán entre otros datos, las|
+
+13
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+||características de las sustancias, sus riesgos y los procedimientos de<br>emergencia que deberán activarse en caso de declaración del riesgo.<br>• La carga de combustible a maquinarias y equipos utilizados durante<br>la construcción se hará en un área previamente definida y<br>claramente demarcada<br>• Los aceites de cambio y otros desechos aceitosos se almacenarán en<br>lugares adecuados y en tambores vacíos y cerrados, para su posterior<br>disposición en lugares autorizados o devolución a los proveedores.<br>• Cabe indicar que, para el funcionamiento de la maquinaria y<br>vehículos motorizados a utilizar en la construcción de obras, se<br>requerirá de petróleo diésel y gasolina, los que serán abastecidos por<br>empresas distribuidoras locales.<br>• Conforme al DS N° 379/86 del Ministerio de Economía, que regula el<br>almacenamiento de combustibles líquidos derivados del petróleo<br>destinado a consumo propio, se exigirá a los contratistas la<br>inscripción de estanques de combustibles en los registros de la<br>Superintendencia de Electricidad y Combustibles (SEC), siempre que<br>éstos tengan una capacidad superior a 1,1 m3, en caso contrario, no<br>será necesario su inscripción en dicho registro.|
+|Forma de control y seguimiento|• Copia de contrato celebrado con empresa autorizada de realizar el<br>retiro de los residuos en etapa de construcción, operación y cierre.<br>• Se mantendrán registros de entrada/salida de sustancias y residuos<br>peligrosos.<br>• Se mantendrán copias de las Autorizaciones Sanitarias de las<br>empresas transportistas de residuos peligrosos.<br>• Se mantendrán copias de las Autorizaciones Sanitarias de la Bodega<br>de Repuestos y Bodega de RESPEL.<br>• Se mantendrá copia de las autorizaciones sanitarias de las empresas<br>de disposición final donde serán enviados los residuos sólidos<br>peligrosos.|
+|Acciones o medida a implementar<br>para controlar la emergencia|Fases de construcción y cierre:<br>• Se deberá dar cumplimiento a todo lo indicado en el punto anterior<br>respecto de accidentes de tránsito y/o en el interior de recintos o<br>frentes de trabajo, en adición a esto se deberá cumplir con al menos<br>uno de los siguientes puntos según corresponda a la envergadura o<br>complicación de atención de la emergencia.<br> <br>a) En caso de derrame debido a accidente de tránsito se deberá cumplir,<br>al menos, con lo siguiente:<br>a.1) Acciones Iniciales: <br>- El chofer, operador u otro dará aviso Inmediato al Supervisor Directo y<br>tratará de contener el derrame mediante la generación de diques de<br>tierra u otro elemento del que disponga.|
+
+14
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+||- Se verificará si hay personas que se hayan visto afectadas por el<br>derrame. En caso de que se requiera, se procederá a utilizar los elementos<br>apropiados para resguardar primero la vida y salud de dichas personas.<br>- Se determinará la naturaleza del derrame respecto de si esta es<br>producto de sustancias transportadas o procedentes del vehículo<br>siniestrado.<br>- Si corresponde a transporte de sustancias se identificará el tipo de<br>productos transportados y que sean causantes del derrame a través de la<br>individualización de los productos contenidos en el vehículo y sus<br>registros, además se solicitará la copia de las hojas de seguridad de los<br>productos transportados y el procedimiento en caso de emergencia<br>establecido en la Guía GRE, de no encontrarse, se procederá a buscar por<br>parte del Comité de Emergencias del registro en su copia de la Guía GRE.<br>a.2) Acciones de Control:<br>- Se procederá a llamar al número de emergencia consignado en el<br>vehículo de transporte, llamar a Bomberos y Carabineros más cercanos al<br>lugar del accidente.<br>- Como acción inmediata de precaución, aislé el área del derrame o<br>escape como mínimo cincuenta metros en todas las direcciones.<br>- En caso de derrames de líquidos, trate de contener el avance de este<br>mediante la confección de diques de tierra en círculos concéntricos, evite<br>la utilización de maquinarias que puedan provocar chispas hasta definir la<br>naturaleza de la sustancia derramada.<br>- Verifique las condiciones y presencia de cuerpos de agua superficial<br>(ríos, lagos u otros) que se puedan ver afectados, de ser necesario cave<br>zanjas para desviar los flujos.<br>- Mediante el Comité de Emergencia trate de taponear o sellar los puntos<br>de fuga de sustancias a través del uso de piezas de madera.<br>- Mantener alejado al personal no autorizado.<br>- Si se trata de un evento que por su envergadura puede afectar a terceros<br>producto de la emergencia, se dará aviso inmediato a la Autoridad<br>Sanitaria y a las municipalidades involucradas, sobre la localización y<br>magnitud del evento, para dar cumplimiento a esto el comité de<br>emergencias, la ITO y el Titular contarán con un listado de teléfonos con<br>todos los servicios, municipalidades, bomberos y carabineros de cada<br>localidad involucrada en el proyecto.<br>a.3) Acciones Posteriores:<br>- Una vez controlada la fuente del derrame se procederá a retirar todo el<br>material contaminado y dando especial cuidado a dar cumplimiento a lo<br>indicado en el DS 148, la cual deberá, al menos, dar cumplimiento a los<br>siguientes puntos:<br>- Si el derrame es de combustibles y/o aceites derivados de hidrocarburos,<br>se procederá a retirar todo el material contaminado, colocando este en|
+
+15
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+||bolsas plásticas las cuales serán selladas y transportadas a botaderos que<br>cuenten con resolución sanitaria adecuada.<br>- Si eventualmente hubiese producto derramado, éste será recogido con<br>pala para vaciarlo a un envase que se pueda cerrar herméticamente y<br>colocarlo también dentro de una bolsa plástica gruesa que, a su vez, debe<br>cerrarse. Se utilizarán envases de polietileno.<br>- Tanto la disposición final de la sustancia como la correspondiente<br>limpieza del vehículo de transporte (restos contaminados producto del<br>accidente), serán realizadas por una empresa especializada en el<br>tratamiento de residuos peligrosos y con su aprobación sanitaria y con su<br>respectiva Resolución de Calificación Ambiental.<br>- El prestador de servicios (EPS) deberá mantener copias de la<br>documentación respectiva, tanto del transporte como de la disposición<br>final de los residuos generados acorde a lo especificado en el DS 148.<br>- Si el accidente ocurriese en una vía de transito pública se incorporarán<br>las acciones necesarias que permitan un despeje oportuno y rápido de la<br>vía afectada en coordinación con Carabineros de Chile y la Dirección de<br>Vialidad, para esto tanto la EPS como el Titular pondrán a disposición los<br>medios necesarios para dar soporte a estas instituciones.<br>- En caso de no haber derrame de sustancias peligrosas y tras la obtención<br>por parte de Carabineros de Chile, se procederá a recuperar los<br>contenedores o embalajes de producto desplazándolos fuera de la zona<br>de circulación y luego de esto realizar las acciones tendientes a que el<br>vehículo siniestrado sea retirado para permitir la libre circulación de los<br>vehículos.<br>- La persona a cargo del control de la emergencia mantendrá permanente<br>contacto con el Titular para informarle de avances, modificaciones y/o<br>recibir instrucciones o acotaciones.<br>- Luego de controlada la emergencia, es Supervisor Directo y el Jefe de<br>Terreno deberán emitir un informe donde se consigne la naturaleza de los<br>aspectos ambientales involucrados en la emergencia, los impactos<br>generados, las medidas de mitigación y de control efectuadas, de ser<br>necesario establecerá las medidas de seguimiento adecuadas; no será<br>inimputable ante la emergencia por parte de subcontratistas, por lo que<br>la EPS y/o el Titular deberán velar por el cumplimiento de este punto.<br>- La evaluación de un accidente con derrame considerará el estado de los<br>recursos hídricos superficiales y subterráneos que pudieran verse<br>afectados y será consignado en el Informe.<br>- El Informe Técnico realizado será revisado por el Titular, el cuál remitirá<br>una copia a la Autoridad Ambiental, la Autoridad Sanitaria, así como a las<br>reparticiones involucradas (Vialidad, DGA, Ministerio de Agricultura, etc.).<br>- Se realizará una investigación interna sobre las causas que originaron el<br>evento y la eficiencia o suficiencia de las acciones preventivas o|
+
+16
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+||correctivas adoptadas con el fin de corregir los procedimientos que eviten<br>que la aparición de dicha situación en el futuro.<br> <br>b) Para el caso de derrames de sustancias peligrosas (productos químicos<br>o contaminantes, aceites, lubricantes, pinturas, etc.) al suelo Dadas las<br>características de productos utilizados para las distintas Fases del<br>proceso, en general se trabajará con sustancias derivadas de los<br>hidrocarburos, por lo que en general será aplicable lo estipulado en la<br>Guía GRE.<br>No obstante, se aplicará como mínimo:<br>- Identificar y localizar el foco que provoca contaminación, sea esta<br>causado por un derrame accidental de una sustancia almacenada<br>temporalmente o a causa de fugas en alguna maquinaria o dispositivo,<br>para proceder inmediatamente a su control y neutralización.<br>- Detectado el punto de fuga este será controlado mediante la contención<br>del derrame procediendo a embolsar el recipiente afectado y sellándolo.<br>- Como acción inmediata de precaución se aislará el área del derrame o<br>escape como mínimo cincuenta metros en todas las direcciones.<br>- Si la contaminación es provocada por una fuga en maquinaria o equipo,<br>se procederá a tratar de sellar esta fuga mediante la aplicación de una<br>cinta de goma o similar, si esta no es capaz de controlar la fuga se<br>detendrá el uso del equipo o maquinaria o se enviará a taller autorizado<br>para su revisión y control.<br>- Una vez controlada la fuente del derrame se procederá a retirar todo el<br>material contaminado y dando especial cuidado a dar cumplimiento a lo<br>indicado en el DS 148, la cual deberá, al menos, dar cumplimiento a los<br>siguientes puntos:<br>- Si el derrame es de combustibles y/o aceites derivados de hidrocarburos,<br>se procederá a retirar todo el material contaminado, colocando este en<br>bolsas plásticas las cuales serán selladas y transportadas a botaderos que<br>cuenten con resolución sanitaria adecuada.<br>- Si eventualmente hubiese producto derramado, éste será recogido con<br>pala para vaciarlo a un envase que se pueda cerrar herméticamente y<br>colocarlo también dentro de una bolsa plástica gruesa que, a su vez, debe<br>cerrarse. Se utilizarán envases de polietileno.<br>- Tanto la disposición final de la sustancia como la correspondiente<br>limpieza del vehículo de transporte (restos contaminados producto del<br>accidente), serán realizadas por una empresa especializada en el<br>tratamiento de residuos peligrosos y con su aprobación sanitaria y con su<br>respectiva Resolución de Calificación Ambiental.<br>- El prestador de servicios (EPS) deberá mantener copias de la<br>documentación respectiva, tanto del transporte como de la disposición<br>final de los residuos generados acorde a lo especificado en el DS 148.|
+
+17
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+||- En caso de no haber derrame de sustancias peligrosas y tras la obtención<br>por parte del Jefe de Terreno o el Representante por parte del Titular, se<br>procederá a recuperar los contenedores o embalajes de producto<br>desplazándolos fuera de la zona de circulación y luego de esto realizar las<br>acciones tendientes a restaurar las condiciones anteriores a la ocurrencia<br>del accidente.<br>- La persona a cargo del control de la emergencia mantendrá permanente<br>contacto con el Titular para informarle de avances, modificaciones y/o<br>recibir instrucciones o acotaciones.<br>- Luego de controlada la emergencia, es Supervisor Directo y el Jefe de<br>Terreno deberán emitir un informe donde se consigne la naturaleza de los<br>aspectos ambientales involucrados en la emergencia, los impactos<br>generados, las medidas de mitigación y de control efectuadas, de ser<br>necesario establecerá las medidas de seguimiento adecuadas; no será<br>inimputable ante la emergencia por parte de subcontratistas, por lo que<br>la EPS y/o el Titular deberán velar por el cumplimiento de este punto.<br>- La evaluación de un accidente con derrame considerará el estado de los<br>recursos hídricos superficiales y subterráneos que pudieran verse<br>afectados y será consignado en el Informe.<br>- El Informe Técnico realizado será revisado por el Titular, el cuál remitirá<br>una copia a la Autoridad Ambiental, la Autoridad Sanitaria, así como a las<br>reparticiones involucradas (Vialidad, DGA, Ministerio de Agricultura, etc.).<br>- Se realizará una investigación interna sobre las causas que originaron el<br>evento y la eficiencia o suficiencia de las acciones preventivas o<br>correctivas adoptadas con el fin de corregir los procedimientos que eviten<br>que la aparición de dicha situación en el futuro.<br>- Cada Instalación de Faenas contará con los elementos necesarios para<br>la implementación de este procedimiento, para el retiro de la sustancia<br>peligrosas derramadas, sean éstos palas, maquinaria, envases de<br>almacenamiento provisorios, bolsas plásticas, etc. según se requiera.<br>Asimismo, se deberán establecer y seguir los procedimientos<br>confeccionados para cada caso, así como las recomendaciones<br>establecidas en las Hojas de Seguridad de cada producto utilizado.<br> <br>c) En caso de derrames de sustancias peligrosas a cursos de agua.<br>- Para la aplicación de derrames será aplicable los puntos expresados<br>anteriormente, teniendo cuidado de aplicar las herramientas necesarias<br>de apoyo para el control de la emergencia.<br>- El Titular aplicará el Plan de Contingencia: Control de contaminación<br>accidental de cursos de agua, informando a la Dirección General de Aguas<br>y organizaciones de canalistas involucradas y pertinentes para realizar el<br>corte de aguas arriba y aguas debajo de cauce.<br>- Una vez presente las unidades de emergencia en el lugar del derrame,<br>cuya labor es concurrir oportunamente al lugar del accidente con|
+
+18
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte|Col2|
+|---|---|
+||personal y equipos apropiados para atender la emergencia, deberán<br>realizar una evaluación inicial para establecer las acciones a seguir.<br>- Se deberá determinar la extensión del derrame, especialmente si es<br>costero o fluvial y su trayectoria.<br>- Igualmente se deberá identificar posibles recursos naturales y bienes<br>muebles e inmuebles posiblemente afectados.<br>- La empresa deberá identificar y detallar las medidas que se aplicarán<br>para minimizar el impacto Ambiental y la restauración del medio. Esto<br>deberá considerar duración, equipos a emplear, personal requerido,<br>métodos y el área que se restaurará. Adicionalmente la empresa<br>contratará los servicios profesionales de una empresa especialista en este<br>tipo de derrames, para asegurar el restablecimiento del área afectada,<br>esto se realizará en forma inmediata al término de la emergencia, de<br>forma de establecer un cronograma de restauración.<br>- Se elaborará, un programa de seguimiento o monitoreo post derrame.<br>Se deberá llevar un registro mediante fotografías el área afectada<br>posterior al derrame, identificando las áreas contaminadas y áreas<br>limpias.<br>- Deberá realizarse un muestreo del sedimento del fondo del curso<br>afectado a fin de certificar que se ha extraído toda la contaminación del<br>lugar. El monitoreo y sus parámetros deberán tener relación con<br>elementos relacionados o indicadores de la sustancia derramada, pH,<br>Sólidos Totales Disueltos, Hidrocarburos, Plomo, Arsénico, Fierro, etc. Se<br>deberá muestrear como referencia los parámetros estipulados en el<br>Decreto Supremo Número 90/2000 del MINSEGPRES, sobre norma de<br>emisión a cursos de agua y/o Norma Chilena 1333 para Diferentes Usos<br>del agua: Uso Riego - Recreacional - Bebida de Animales. Adicionalmente<br>se contratarán los servicios especializados de una auditoría externa para<br>la verificación del cumplimiento del programa de seguimiento y<br>monitoreo hasta la verificación de la descontaminación del medio<br>afectado.<br>- Finalmente y una vez remediada el área afectada, se deberán enviar<br>copias de los resultados y de los informes de las auditorías externas<br>realizadas en el lugar a los organismos fiscalizadores gubernamentales<br>para garantizar la limpieza del curso de agua.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+19
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Tabla 3-4. Medidas de contingencias adoptadas en caso de incendio en el área de faenas**
+
+|Incendio en el Área de faenas s|Col2|
+|---|---|
+|Riesgo o contingencia|Incendio en el Área de faenas|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Área de faenas del Proyecto|
+|Acciones o medidas a implementar<br>para prevenir la contingencia|Fase de construccióny cierre:<br>• El contratista se regirá por las medidas y obligaciones establecidas<br>por el titular para minimizar el riesgo de incendio.<br>• En la instalación de faenas se construirán recintos especialmente<br>habilitados para el almacenamiento de combustible y otras<br>sustancias inflamables. Los materiales inflamables se mantendrán en<br>forma ordenada y clasificada al interior del recinto. El prevencionista<br>de riesgos realizará una inspección permanente, detectando<br>posibles fallas en los procedimientos de manejo de estas sustancias.<br>• Los contratistas dispondrán en las áreas de trabajos e instalación de<br>faenas, de los elementos básicos requeridos para combatir cualquier<br>amago de fuego o incendio, según lo establecido por la normativa<br>vigente en esta materia (extintores, mangueras, tambores con<br>arena, etc.).<br>• Se realizará un monitoreo del área afectada para evaluar e informar<br>daños a la Autoridad Pertinente, si existe un daño ambiental o<br>comunitario.<br> <br>Fase de operación:<br>• Por el tipo de obras, no se contemplan acciones especiales para<br>eventos de incendio durante esta fase, excepto aquellas que<br>establece la Ley.|
+|Forma de control y seguimiento|• Se mantendrán copias de las Autorizaciones Sanitarias de la Bodega<br>de Repuestos y Bodega de RESPEL.<br>• Se mantendrán copias de las Autorizaciones Sanitarias de la Bodega<br>de Repuestos y Bodega de RESPEL.<br>• Se mantendrá un registro de inspección de bodegas.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Se activará la alarma de incendio.<br>• Se dará aviso de inmediato al jefe de emergencias y al coordinador<br>de emergencias.<br>• Se activará el procedimiento contra incendios, se utilizará extintores<br>para extinguir el fuego, sólo si el siniestro es controlable.<br>• Si no es posible controlar la situación se dará aviso inmediato a<br>Bomberos y se evacuará a los trabajadores hacia las zonas de<br>seguridad.<br>• Se inspeccionará el área verificando la presencia de heridos. Si este<br>fuera el caso se trasladará de inmediato hasta un centro asistencial.<br>• Se deberá investigar las causas del siniestro|
+
+20
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Incendio en el Área de faenas s|Col2|
+|---|---|
+||• Sólo podrán reactivarse las actividades una vez que el siniestro este<br>controlado.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+**Tabla 3-5. Medidas de contingencias adoptadas en caso de accidentes de tránsito**
+
+|Accidentes de tránsito s|Col2|
+|---|---|
+|Riesgo o contingencia|Accidentes de tránsito|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Área de faenas del Proyecto|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|• Se darán capacitaciones de seguridad vial a todos los conductores<br>implicados en la construcción del proyecto.<br>• Se ejecutará un reglamento interno de buenas conductas para la<br>conducción segura de vehículos. El incumplimiento de este<br>reglamento será causal de despido inmediato.<br>• El personal para contratar para manejar los camiones, buses o<br>maquinarias será personal calificado, con licencia de conducir al día.<br>Se les exigirá licencia según lo señalado en la Ley de Tránsito (N°<br>18.290).<br>• El Contratista implementará un procedimiento formal para enfrentar<br>accidentes de tránsito que permitan atender la emergencia en forma<br>oportuna, el cual permanecerá al interior de cada vehículo de carga.<br>• Se capacitará a los conductores respecto de las acciones a seguir<br>ante un siniestro en la ruta.<br>• Se implementará la señalización adecuada en el área de construcción<br>El peso de los camiones cargados con equipos o materiales no<br>deberá exceder los máximos permitidos de acuerdo con las<br>rutas/puentes que se estén utilizando. En caso contrario, se<br>obtendrán los permisos correspondientes de la Dirección de Vialidad<br>en cada caso.|
+|Forma de control y seguimiento|• Se mantendrá registro de las capacitaciones de seguridad vial.<br>• Se mantendrá registro de las licencias de conducir de los<br>conductores asociados al proyecto.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Se informará al jefe de emergencias del accidente.<br>• Se dimensionará la emergencia<br>• Se clasificará el evento accidente de tránsito (leve, serio, grave)<br>• Se activará el Plan de Comunicaciones con Ambulancia (131),<br>Bomberos (132) y Carabineros (133), informando acerca de la<br>ocurrencia del accidente, la gravedad de éste y la identificación de<br>las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente.|
+
+21
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Accidentes de tránsito s|Col2|
+|---|---|
+||• Se inspeccionará, por parte del personal calificado, el área<br>verificando la presencia de heridos. Si este fuera el caso se trasladará<br>de inmediato hasta un centro asistencial.<br>• Una vez controlada la situación, se procederá a restaurar la vialidad<br>disponiendo equipos y maquinaria para ayudar a despejar la ruta en<br>el más breve plazo (una vez que la autoridad responsable lo<br>autorice).<br>• Se dará aviso oportuno a las compañías de seguros involucradas.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido. Se realizará una completa descripción de la respuesta<br>frente a la emergencia, recolectando todas las evidencias posibles,<br>con el fin de hacer las correcciones que el caso amerite y mejorar los<br>procedimientos.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+22
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Tabla 3-6. Medidas de contingencias asociadas al uso de equipo y maquinaria pesada**
+
+|Uso de equipo y maquinaria pesada|Col2|
+|---|---|
+|Riesgo o contingencia|Uso de equipo y maquinaria pesada|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Área de faenas del Proyecto|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|Fase de construcción:<br>• El Contratista implementará un procedimiento formal para la<br>operación que permita atender de forma segura la conducción y<br>operación de maquinarias, el cual permanecerá al interior de cada<br>equipo.<br>• Se capacitará a los operadores y conductores respecto de las<br>acciones a seguir ante un siniestro.<br>• Se implementará la señalización adecuada en el área de construcción<br>La operación de equipos no deberá exceder los máximos permitidos<br>de acuerdo con el manual de operación.<br>• Se implementará un plan de mantención de equipos y maquinarias.<br>• En caso de detectarse alguna intervención de un sitio arqueológico,<br>se debe detener la obra en ese sector e informar a las autoridades.<br>• El supervisor será el responsable de resguardar el sitio arqueológico<br>en las mismas condiciones que se detectó.<br>Fase de operación y cierre:<br>• No se contemplan acciones especiales durante esta fase excepto<br>aquellas que establece la Ley.|
+|Forma de control y seguimiento|• Se mantendrá registro de las licencias de conducir de los<br>conductores de maquinaria pesada.<br>• Se mantendrá registro de las capacitaciones de seguridad vial.<br>• Fotografía de señaléticas instaladas por el proyecto.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia<br>• Se clasificará el evento (leve, serio, grave).<br>• Se activará el Plan de Comunicaciones si la situación lo amerita con<br>Ambulancia (131), Bomberos (132) y Carabineros (133), informando<br>acerca de la ocurrencia del accidente, la gravedad de éste y la<br>identificación de las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente.<br>• Se inspeccionará, por parte del personal calificado, el área<br>verificando la presencia de heridos. Si este fuera el caso se trasladará<br>de inmediato hasta un centro asistencial.<br>• Una vez controlada la situación, se procederá a restaurar la vialidad<br>disponiendo equipos y maquinaria para ayudar a despejar la ruta en<br>el más breve plazo (una vez que la autoridad responsable lo<br>autorice).|
+
+23
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Uso de equipo y maquinaria pesada|Col2|
+|---|---|
+||• Se dará aviso oportuno a las compañías de seguros involucradas.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido. Se realizará una completa descripción de la respuesta<br>frente a la emergencia, recolectando todas las evidencias posibles,<br>con el fin de hacer las correcciones que el caso amerite y mejorar los<br>procedimientos.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+**Tabla 3-7. Medidas de contingencias asociadas a movimientos de tierra**
+
+|Movimiento de Tierra|Col2|
+|---|---|
+|Riesgo o contingencia|Movimiento de Tierra|
+|Fase del proyecto a la que aplica|Fase de construcción y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Área de faenas del Proyecto|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|En fase de construcción:<br>• El Contratista implementará un procedimiento formal para la<br>operación que permita atender de forma segura el movimiento de<br>tierra.<br>• El mandante contara con un equipo de topografía permanente para<br>controlar las diferentes obras a ejecutar. El escarpe y la geometría<br>del proyecto será verificada en emplazamiento y cotas por cada capa<br>de material que se retire o coloque.<br>• Se capacitará a los operadores y conductores respecto de las<br>acciones a seguir ante un siniestro.<br>• La operación de equipos no deberá exceder los máximos permitidos<br>de acuerdo con el manual de operación.<br>• Se implementará un plan de mantención de equipos y maquinarias.<br>• En caso de detectarse alguna intervención de un sitio arqueológico,<br>se debe detener la obra en ese sector e informar a las autoridades.<br>• El supervisor será el responsable de resguardar el sitio arqueológico<br>y dará aviso a la gerencia del proyecto, quien dará aviso al CMN.|
+|Forma de control y seguimiento|• Registro de entrega de recepción de procedimiento por parte de<br>contratista.<br>• Se mantendrá registro de las licencias de conducir de los<br>conductores de maquinaria pesada.<br>• Registro de mantenciones.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia<br>• Se clasificará el evento accidente (leve, serio y grave)<br>• Se activará el Plan de Comunicaciones si lo amerita con Ambulancia<br>(131), Bomberos (132) y Carabineros (133), informando acerca de la|
+
+24
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Movimiento de Tierra|Col2|
+|---|---|
+||ocurrencia del accidente, la gravedad de éste y la identificación de<br>las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente.<br>• Se inspeccionará, por parte del personal calificado, el área<br>verificando la presencia de heridos. Si este fuera el caso se trasladará<br>de inmediato hasta un centro asistencial.<br>• Se dará aviso oportuno a las compañías de seguros involucradas.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido. Se realizará una completa descripción de la respuesta<br>frente a la emergencia, recolectando todas las evidencias posibles,<br>con el fin de hacer las correcciones que el caso amerite y mejorar los<br>procedimientos.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+**Tabla 3-8. Medidas de contingencias adoptadas en caso de atropello de fauna silvestre**
+
+|Atropello de fauna silvestre|Col2|
+|---|---|
+|Riesgo o contingencia|Atropello de fauna silvestre|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Transporte de material y personas|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|• Colocación de letreros de aviso de paso de animales.<br>• Regular la velocidad máxima dentro del área del proyecto de 15 - 20<br>km/hr.<br>• Instalación de letreros, en ciertas áreas específicas de mayor<br>frecuentación de que indiquen a los conductores que reduzcan la<br>velocidad debido a la presencia de animales.|
+|Forma de control y seguimiento|• Registro de capacitación de prevención de accidentes.<br>• Se mantendrá registro de las licencias de conducir de los<br>conductores.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia Se clasificará el evento (leve, serio,<br>grave).<br>• Una vez controlada la situación, se informará a las autoridades<br>pertinentes, en caso de requerir se trasladará para la revisión de un<br>veterinario.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+25
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Tabla 3-9. Medidas de contingencias asociadas a Desmontaje de Equipos**
+
+|Desmontaje de Equipos|Col2|
+|---|---|
+|Riesgo o contingencia|Desmontaje de Equipos|
+|Fase del proyecto a la que aplica|Fase de cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Desmontaje y transporte de paneles fotovoltaicos y equipos|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|• El Contratista implementará un procedimiento formal para la<br>operación que permita atender de forma segura el desmontaje.<br>• Se capacitará a los operadores y conductores respecto de las<br>acciones a seguir ante un siniestro.<br>• La operación de equipos no deberá exceder los máximos permitidos<br>de acuerdo con el manual de operación.<br>• Se implementará un plan de mantención de equipos y maquinarias.<br>• Durante la fase de cierre, se incluirá las indicaciones que en esta<br>materia establezca la RCA|
+|Forma de control y seguimiento|• Procedimiento operacional de desmontaje de equipos.|
+|Acciones o medida a implementar<br>para controlar la emergencia|Fase de Cierre:<br>• Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia y se delimitará toda el área con<br>barreras duras, conos y personas que impidan el ingreso de terceros.<br>• Se clasificará el evento accidente (grave y hay lesiones a las<br>personas)<br>• Se activará el Plan de Comunicaciones si lo amerita con Ambulancia<br>(131), Bomberos (132) y Carabineros (133), informando acerca de la<br>ocurrencia del accidente, la gravedad de éste y la identificación de<br>las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente.<br>• Se inspeccionará, por parte del personal calificado, el área<br>verificando la presencia de heridos. Si este fuera el caso se trasladará<br>de inmediato hasta un centro asistencial.<br>• Se dará aviso oportuno a las compañías de seguros involucradas.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido. Se realizará una completa descripción de la respuesta<br>frente a la emergencia, recolectando todas las evidencias posibles,<br>con el fin de hacer las correcciones que el caso amerite y mejorar los<br>procedimientos.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+26
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+**Tabla 3-10. Medidas de contingencia relacionadas a una condición desfavorable de almacenamiento o error en la**
+
+**clasificación del residuo peligroso**
+
+|Condición desfavorable de almacenamiento o error en la clasificación del residuo peligroso|Col2|
+|---|---|
+|Riesgo o contingencia|Condición desfavorable de almacenamiento o error en la clasificación del<br>residuo peligroso|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre.|
+|Emplazamiento, parte, obra o acción<br>asociada|Manejo de residuos peligrosos|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|• Verificar el tipo de residuo a recolectar siendo revisado por personal<br>idóneo para ser trasladado a los contenedores correspondientes<br>(señalizados).<br>• Revisar la rotulación de los contenedores, los cuales deben estar en<br>línea con el tipo de residuo almacenado.<br>• Realizar un seguimiento administrativo de los residuos que salen del<br>proyecto a disposición final.|
+|Forma de control y seguimiento|Chequear constantemente la coherencia entre el etiquetado de los<br>contenedores con respecto a la del sitio de almacenamiento de residuos<br>peligrosos.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Una vez declarada la emergencia, el Coordinador de Emergencias<br>gestionará el apoyo logístico necesario solicitado por el Jefe de<br>Emergencia, se comunicará en primer lugar con el centro asistencial<br>más cercano, si debido a la emergencia se producen lesionas o daños<br>a personas, dando aviso, de ser necesario, a los servicios externos de<br>emergencia tales como bomberos, carabineros, etc,<br>• Luego, el Coordinador de Emergencias, comunicará al gerente<br>general la situación que se vive en las instalaciones y de las medidas<br>que se han tomado, será responsable de coordinar las acciones, dará<br>la instrucción de terminar con las operaciones normales, debido a la<br>existencia de condiciones peligrosas producto de la emergencia,<br>ordenando detener y desenergizar los equipos para proceder a la<br>evacuación.<br>• Finalmente, el Coordinador de emergencias será el responsable de<br>informar a la Superintendencia del Medioambiente a través del<br>módulo de aviso de Contingencias e Incidentes dentro del plazo de<br>24 horas de ocurrido el evento que se informa|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+**Tabla 3-11. Medidas de contingencia en caso de derrame de residuos peligrosos en la faena**
+
+|Derrame de residuos peligrosos en la faena|Col2|
+|---|---|
+|Riesgo o contingencia|Derrame de residuos peligrosos en la faena|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre|
+|Emplazamiento, parte, obra o acción<br>asociada|Manejo, almacenamiento y transporte de residuos peligrosos|
+
+27
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de residuos peligrosos en la faena|Col2|
+|---|---|
+|Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia|• Identificar y localizar el foco que provoca contaminación, sea esta<br>causado por un derrame accidental de una sustancia almacenada<br>temporalmente o a causa de fugas en alguna maquinaria o<br>dispositivo, para proceder inmediatamente a su control y<br>neutralización.<br>• Detectado el punto de fuga este será controlado mediante la<br>contención del derrame procediendo a embolsar el recipiente<br>afectado y sellándolo.<br>• Como acción inmediata de precaución se aislará el área del derrame<br>o escape como mínimo cincuenta metros en todas las direcciones.<br>• Evaluar la gravedad de la situación, comprobando existencia del<br>derrame y clasificándolo si se trata de Emergencia Menor o<br>Emergencia Mayor a fin de definir las medidas apropiadas para su<br>actuación.<br>Si el derrame es clasificado como menor:<br>• Si el derrame o infiltración se produce desde tuberías, cortar el flujo<br>en la línea afectada cerrando las válvulas correspondientes aguas<br>arriba de la infiltración/rotura.<br>• Si es el caso, detener la infiltración, cerrando envases<br>adecuadamente, cambiando su posición para detener el derrame o<br>colocándolo dentro de otro envase.<br>• Recuperar la sustancia derramada con los materiales dispuestos en<br>el Kit de Emergencia.<br>Si el derrame es clasificado como mayor:<br>• Dar aviso a los servicios de emergencia externos tales como<br>hospitales, bomberos, carabineros.<br>• Se deberá socorrer en primer lugar a las personas lesionadas si las<br>hubiere.<br>• Los encargados de controlar el derrame, primeramente, deben<br>acondicionarse con los elementos de protección personal.<br>• Bloquear desagües de alcantarillas, para evitar que el producto<br>ingrese a estas instalaciones, contener el derrame con material<br>disponible en el lugar mediante diques o cordones (zanjas) de arena,<br>sacos de arena, tierra y/o aserrín.<br>• Marcar la zona de derrame con señales que adviertan de la situación.<br>• Mantener al público alejado del área de peligro.<br>• Colecte el derrame en recipientes, si esto es posible de hacer sin<br>riesgos. Si se genera agua contaminada, debe ser recuperada en<br>contenedores destinados a este fin.<br>• Una vez controlada la fuente del derrame se procederá a retirar todo<br>el material contaminado y dando especial cuidado a dar<br>cumplimiento a lo indicado en el DS 148, la cual deberá, al menos,<br>dar cumplimiento a los siguientes puntos:|
+
+28
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Derrame de residuos peligrosos en la faena|Col2|
+|---|---|
+||Si el derrame es de combustibles y/o aceites derivados de<br>hidrocarburos, se procederá a retirar todo el material contaminado,<br>colocando este en bolsas plásticas las cuales serán selladas y<br>transportadas a la bodega de residuos peligrosos, para luego ser<br>derivados a botaderos que cuenten con resolución sanitaria adecuada|
+|Forma de control y seguimiento|Revisión periódica del estado de los recipientes donde se almacenan los<br>residuos peligrosos.|
+|Acciones o medida a implementar<br>para controlar la emergencia|• Eliminar todas las fuentes de ignición (no fumar, no usar bengalas,<br>chispas o llamas en el área de peligro)<br>• No tocar ni caminar sobre el material derramado<br>• Detener la fuga en el caso de poder hacerlo sin riesgo<br>• Absorber con tierra seca, arena u otro material absorbente no<br>combustible y transferirlo a contenedores<br>• Usar herramientas limpias a prueba de chispas para recoger el<br>material absorbido<br>• Luego de efectuado el control, proceder a la recolección, re<br>envasado y rotulado del residuo<br>• Efectuar monitoreo a componentes ambientales afectadas si<br>procede.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+**Tabla 3-12. Medidas de contingencia en caso de incendios forestales**
+
+|Incendios Forestales|Col2|
+|---|---|
+|Riesgo o contingencia|Incendios Forestales|
+|Fase del proyecto a la que aplica|Fase de construcción, operación y cierre|
+|Emplazamiento, parte, obra o acción<br>asociada|El proyecto se emplaza en un área susceptible a incendios forestales<br>debido a la presencia de vegetación y la condición climatológica del sector<br>que presenta altas temperaturas en algunas épocas del año.|
+|Acciones o medidas a implementar<br>para prevenir la contingencia|- <br>Capacitación en materia de prevención y control de incendios.<br>- <br>Identificación de los sitios con riesgo de incendio y definición de<br>zonas de seguridad.<br>- <br>Zonificación del área donde se ejecutarán las actividades del<br>proyecto. Para cada una de las zonas definidas, se identificarán<br>los riesgos y/o actividades críticas que podrían causar un<br>incendio. La zonificación, estará cargo de un especialista en la<br>prevención de incendios forestales.<br>- <br>Para cada zona definida, se informará al personal de los riesgos<br>asociados a cada actividad, y de las medidas tendientes a<br>prevenir estos riesgos. Esta información será transmitida en las<br>capacitaciones que el encargado de prevención de riesgos<br>realice a los trabajadores. Además, se entregarán nociones|
+
+29
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Incendios Forestales|Col2|
+|---|---|
+||teóricas básicas con respecto al comportamiento del fuego y los<br>métodos de combate de incendios forestales.<br>- <br>Todo el personal que participe en acciones de construcción y<br>también en la operación del proyecto, tanto de manera directa<br>como indirecta será capacitado en técnicas de prevención de<br>incendios, así como en los métodos de combate de incendios<br>forestales. El especialista en la prevención de incendios<br>forestales proporcionará al personal la instrucción práctica<br>básica sobre el combate de incendios forestales, las formas de<br>organizarse y construir colectivamente líneas rudimentarias de<br>control de fuego, a fin de combatir preliminarmente cualquier<br>foco de incendio hasta que llegue el personal especializado.<br>- <br>Se instalarán a lo menos 4 señales de prohibición del uso de<br>fuego y de prohibición de fumar en lugares estratégicos de la<br>obra, en las instalaciones de faena y posteriormente en las<br>instalaciones del Parque Fotovoltaico, donde exista mayor<br>tránsito de personal del proyecto.<br>- <br>Generación de lugares seguros para fumar al interior de las<br>instalaciones.<br>- <br>Ordenación de combustible: El desecho vegetal se retirará y<br>transportará a sectores habilitados de acopio donde el material<br>se triturará para posteriormente ser depositado en vertederos<br>autorizados por la Municipalidad.<br>- <br> Herramientas y equipos de combate: Además de los equipos y<br>herramientas que se utilice para realizar las faenas, habrá<br>herramientas e implementos básicos para el combate inicial de<br>un incendio, tales como palas, rozones, rastrillos y extintores.<br>- <br>Mantener las instalaciones libres de basura.<br>- <br>Manipulación de combustibles: Se implementará una serie de<br>medidas preventivas, las cuales se señalan a continuación:<br>- <br>• <br>Se instruirá al personal para que el combustible sea<br>manipulado de manera cuidadosa.<br>- <br>• <br>Los combustibles serán almacenados en lugares seguros<br>y aislados. El transporte de combustible a los lugares de faenas<br>se realizará usando envases seguros.|
+|Forma de control y seguimiento|- <br>Registro de capacitaciones en prevención de incendio.<br>- <br>Registro de señalética y documentos que acrediten la adquisición de<br>los equipos para combate de incendios.<br>- <br>|
+|Acciones o medida a implementar<br>para controlar la emergencia|- <br>Se activará la alarma de incendio.<br>- <br>Se dará aviso de inmediato al jefe de emergencias y al coordinador<br>de emergencias. Se dotará de un teléfono celular o equipo de radio<br>al jefe de cada cuadrilla que esté realizando faenas en los diversos<br>frentes de trabajo, con el propósito que comuniquen de inmediato|
+
+30
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+|Incendios Forestales|Col2|
+|---|---|
+||cualquier emergencia que pudiese ocurrir durante las faenas. Dentro<br>de la estructura de operaciones del proyecto, se designará una<br>persona que tendrá por objeto recibir información de las cuadrillas<br>de trabajo, disponer o instruir el traslado de mayores recursos y<br>personal si fuere necesario, así como realizar la coordinación con<br>CONAF para solicitar la participación de brigadas profesionales de<br>combate de incendios. Esta persona estará equipada con un teléfono<br>celular o equipo de radio cumpliendo, además, otras funciones que<br>le sean asignadas.<br>- <br>El personal que se encuentre más cerca del incendio, dará aviso de<br>inmediato a la persona encargada de coordinar las comunicaciones y<br>proporcionará todos los antecedentes que sean necesarios, tales<br>como: tipo de combustible que se está quemando, cantidad de<br>combustible y recursos amenazados, disponibilidad de agua, vías de<br>acceso al lugar, estimación de la superficie afectada hasta ese<br>momento, topografía del lugar, condiciones meteorológicas locales,<br>especialmente dirección y fuerza del viento y, en especial, si se<br>requiere de más personal para el combate.<br>- <br>Se activará el procedimiento contra incendios, se procederá a aislar<br>el foco de incendio o hacer un primer ataque al foco del fuego con<br>los extintores que habrá dispuestos en las instalaciones. El personal<br>que se encuentre disponible más cerca del lugar del incendio<br>comenzará a combatir de inmediato, construyendo las líneas de<br>control que sean necesarias. En primera instancia, asumirá la<br>responsabilidad el técnico o capataz encargado de las faenas que<br>primero llegue al lugar del incendio.<br>- <br>Se dará aviso inmediato a CONAF (en caso de Incendio Forestal al<br>teléfono de emergencias 130) o Bomberos y se evacuará a los<br>trabajadores hacia las zonas de seguridad.<br>- <br>Se inspeccionará el área verificando la presencia de heridos. Si este<br>fuera el caso se trasladará de inmediato hasta un centro asistencial.<br>- <br>Si CONAF envía brigadistas contra incendios al lugar, el personal de<br>la empresa que se encuentre en el lugar se pondrá a las órdenes del<br>jefe de incendio.<br>- <br>Sólo podrán reactivarse las actividades una vez que el siniestro este<br>controlado.|
+|Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan|Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa.|
+
+31
+
+#### MVC SOLAR 38 SPA
+
+##### 4 PLAN DE EMERGENCIAS
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+El Plan de Emergencias tiene por objeto definir las acciones concretas a tomar y poner en práctica una
+
+serie de medidas en el eventual caso que fallen las acciones preventivas indicadas en la sección anterior,
+
+y está compuesto por una serie de medidas específicas para cada riesgo, de manera tal de minimizar los
+
+daños a las instalaciones, comunidades y al medio ambiente.
+
+El Plan será presentado a todos los trabajadores de la empresa, con el fin de actuar de manera coordinada
+
+bajo una metodología y lograr una respuesta eficiente ante el riesgo, minimizar los efectos negativos
+
+durante y después de ocurrida la emergencia.
+
+El Plan de Emergencia se pondrá en marcha a partir de la activación de la alarma mediante cualquier
+
+sistema de comunicación existente: radiales, telefónicos, visuales, o a viva voz.
+
+##### 4.1 Organización de la Emergencia
+
+Para situaciones de emergencia, existen varios roles que son claves en el control de esta. El rol de Jefe de
+
+Emergencias será tomado por el Prevencionista que esté de turno en el momento del incidente.
+
+Jerárquicamente sobre ellos estará el Coordinador General de Emergencia. Las actividades y
+
+responsabilidades del equipo se describen a continuación:
+
+###### 4.1.1 Comité de Emergencias
+
+En el caso de la Fase de Construcción, el Comité de Emergencias estará conformado por:
+
+ - Jefe de Obra
+
+ - Jefe Turno
+
+ - Encargado de Prevención de Riesgos del contratista (Jefe de Emergencia)
+
+ - Encargado de Prevención de Riesgos del titular
+
+ - Encargado de Medio Ambiente del titular
+
+ - Gerente de construcción del titular. (Coordinador General de la Emergencia)
+
+El comité de emergencia se debe reunir regularmente o cuando las circunstancias lo requieran, para
+
+verificar el cumplimiento de los procedimientos específicos de seguridad que se establezcan al inicio de la
+
+construcción, definir normas o analizar otras materias de interés. En cada sesión se debe levantar un acta
+
+de los temas tratados.
+
+En sus principales actividades preventivas se contempla lo siguiente:
+
+32
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+ - Velar por la implementación, conservación y cumplimiento de este procedimiento.
+
+ - Programar simulacros de emergencia estableciendo prioridades conforme a la evaluación del
+
+riesgo efectuada.
+
+ - Las recomendaciones que resulten de la evaluación deben materializarse según el procedimiento
+
+de acciones preventivas y correctivas.
+
+ - Determinar las necesidades de entrenamiento sobre los protocolos y planes de emergencia de los
+
+operadores de planta y el personal auxiliar.
+
+ - Controlar que se revisen periódicamente los equipos de extinción de incendios, alarmas,
+
+elementos de primeros auxilios (camilla, botiquín, etc.)
+
+###### 4.1.2 Coordinador General de Emergencia
+
+El Coordinador General de Emergencia tiene las siguientes funciones:
+
+ - Gestionará el apoyo logístico necesario solicitado por el Jefe de Emergencia
+
+ - Será responsable dar la alarma interna y se comunicará en primer lugar con el centro asistencial
+
+más cercano, si debido a la emergencia se producen lesionas o daños a personas, dando aviso, de
+
+ser necesario, a los servicios externos de emergencia tales como bomberos, salvamento marítimo,
+
+carabineros, etc.
+
+ - Será responsable de dar aviso a la Superintendencia del Medioambiente en caso de daños
+
+ambientales o afección al medioambiente.
+
+ - Comunicará al gerente general, la situación que se vive en las instalaciones y de las medidas que
+
+se han tomado.
+
+ - Será responsable de coordinar las acciones.
+
+ - Dará la instrucción de terminar con las operaciones normales, debido a la existencia de
+
+condiciones peligrosas producto de la emergencia, ordenando detener y desenergizar los equipos
+
+para proceder a la evacuación.
+
+###### 4.1.3 Jefe de Emergencias
+
+El Jefe de Emergencia será el Jefe de Turno presente en el momento que se produzca la emergencia. El
+
+Jefe de Emergencia tiene las siguientes funciones:
+
+ - Concurrirá al lugar de la emergencia, para evaluar la magnitud y propagación.
+
+ - Evaluará si la situación amerita evacuar las instalaciones.
+
+ - Identificará y evaluará las condiciones peligrosas en terreno.
+
+ - Avisará y mantendrá contacto permanente con el Coordinador de Emergencias.
+
+ - Finalizado el evento emitirá el informe correspondiente para el Coordinador de Emergencias.
+
+33
+
+#### MVC SOLAR 38 SPA
+
+###### 4.1.4 Personal en General
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+Todo el personal de la obra deberá cumplir con las siguientes obligaciones:
+
+ - Seguirán lo indicado en sus procedimientos específicos.
+
+ - No se involucrarán en el control de la Emergencia, a menos que lo indique el Jefe de Emergencias
+
+o el Coordinador de la Emergencias.
+
+ - Seguirán las instrucciones de evacuación emitidas por Jefe de Emergencias o el Coordinador de la
+
+Emergencias o equipos de emergencias externos, de forma ordenada.
+
+##### 4.2 Procedimientos de Protección Ambiental ante Derrames
+
+1. Avisar de la situación al superior inmediato o al Jefe de Emergencia.
+
+2. Disponer de la hoja de seguridad de la sustancia derramada
+
+3. Se deben identificar las características más relevantes de la sustancia en la hoja de seguridad
+
+(identificar los riesgos asociados a la salud, a la inflamabilidad, reactividad, tipos de elementos de
+
+protección personal, formas de extinción, efectos en el medio ambiente, entre otros).
+
+4. Evaluar la gravedad de la situación, comprobando existencia del derrame y clasificándolo si se
+
+trata de Emergencia Menor o Emergencia Mayor a fin de definir las medidas apropiadas para su
+
+actuación.
+
+5. Si el derrame es clasificado como menor:
+
+ - Si el derrame o infiltración se produce desde tuberías, cortar el flujo en la línea afectada
+
+cerrando las válvulas correspondientes aguas arriba de la infiltración/rotura.
+
+ - Si es el caso, detener la infiltración, cerrando envases adecuadamente, cambiando su posición
+
+para detener el derrame o colocándolo dentro de otro envase.
+
+ - Recuperar la sustancia derramada con los materiales dispuestos en el Kit de Emergencia.
+
+6. Si el derrame es clasificado como mayor:
+
+ - Dar aviso a los servicios de emergencia externos tales como hospitales, bomberos,
+
+carabineros.
+
+ - Se deberá socorrer en primer lugar a las personas lesionadas si las hubiere.
+
+ - Los encargados de controlar el derrame, primeramente, deben acondicionarse con los
+
+elementos de protección personal.
+
+ - Bloquear desagües de alcantarillas, para evitar que el producto ingrese a estas
+
+ - Instalaciones, contener el derrame con material disponible en el lugar mediante diques o
+
+ - Cordones (zanjas) de arena, sacos de arena, tierra y/o aserrín.
+
+ - Marcar la zona de derrame con señales que adviertan de la situación.
+
+ - Mantener al público alejado del área de peligro.
+
+ - Colecte el derrame en recipientes, si esto es posible de hacer sin riesgos. Si se genera
+
+ - Agua contaminada, debe ser recuperada en contenedores destinados a este fin.
+
+34
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+7. Una vez concluida las tareas de control, recolectar los materiales y/o productos utilizados para el
+
+control del derrame, colocarlos en envases adecuados, cerrados e identificados hasta su retiro por
+
+una empresa autorizada.
+
+8. El Jefe de Emergencia deberá evaluar el estado de equipos e instalaciones dañadas, señalizando
+
+los riesgos con tarjetas de "PELIGRO NO OPERAR" o cercando el sector con cinta PELIGRO.
+
+9. El Jefe de Emergencia deberá emitir un informe técnico sobre las causas que originaron la
+
+emergencia, y de derivarlo al Jefe de Planta.
+
+##### 4.3 Medidas Generales de Emergencias
+
+En situaciones de emergencia, lo más importante será salvaguardar la integridad física de las personas y
+
+la oportuna comunicación de acuerdo con el protocolo de emergencias específico por y así evitar una
+
+propagación al medio ambiente y la comunidad El Jefe de Emergencias, según el nivel y tipo de
+
+emergencia, paralizará las faenas, evacuará trabajadores y/o equipos y normalizará las operaciones a la
+
+brevedad posible. En caso de emergencia, toda persona que identifique un siniestro debe mantener la
+
+calma e informar claramente lo siguiente:
+
+a) Tipo de emergencia (caso).
+
+b) Hora y lugar que ocurrió.
+
+c) Existencia de lesionados y en su caso tipo de lesiones.
+
+d) Existencia de daños al medioambiente y en su caso tipo de afección.
+
+e) Dar el nombre y cargo.
+
+Todo el personal debe conocer las zonas de seguridad definidas por el Proyecto, denominadas Puntos de
+
+Encuentro de Emergencia (PEE). Será responsabilidad del Coordinador de Emergencias dar a conocer esta
+
+información y mantener estos puntos en condiciones de seguridad adecuadas.
+
+##### 4.4 Sistema de Comunicación en Caso de Emergencias
+
+Para una eficiente aplicación de los planes de prevención contingencias y emergencias expuestas, se
+
+deberá contar con una comunicación expedita con el Coordinador General de Emergencias y el Jefe de
+
+Emergencias, así como con los actores relevantes externos.
+
+Los mecanismos de comunicación ante una emergencia serán:
+
+ - Alarma a viva voz: Deberá usarse para comunicar la emergencia a las personas que se encuentran
+
+alrededor de la persona que se está comunicando la alarma.
+
+ - Alarma por medio de sirenas, citófono, radio o teléfono.
+
+35
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+Igualmente, se debe establecer contacto con las entidades externas encargadas de atender las
+
+emergencias. Así, según sea el incidente, se contactará con:
+
+ - Mutual de Seguridad.
+
+ - Hospital.
+
+ - Superintendencia del Medioambiente.
+
+ - Bomberos.
+
+ - Carabineros de Chile.
+
+ Ilustre Municipalidad de Los Ángeles.
+
+ - ONEMI
+
+ - SEREMI de Salud.
+
+ - Dirección Regional de Vialidad.
+
+ - Servicio Agrícola y Ganadero
+
+##### 4.5 Registro de Incidentes y Emergencias
+
+En el caso de existir cualquier tipo de emergencia que involucre a la fauna del área del proyecto, se
+
+informará de manera inmediata a la autoridad pertinente según sea el carácter de la emergencia.
+
+Sin perjuicio de lo anterior, y una vez superada la emergencia, se remitirá al Servicio Agrícola y Ganadero
+
+un reporte de la emergencia, indicando su origen, características y consecuencias.
+
+Con el objetivo de mantener un registro acucioso de todos los incidentes y/o emergencias en el área del
+
+proyecto, un profesional tendrá a cargo, como parte de sus labores, el mantenimiento de un libro de
+
+registro de estos. La información contenida en dicho libro será la siguiente:
+
+ - Fecha y hora
+
+ - Ubicación georreferenciada del lugar del incidente o emergencia
+
+ - Especie y número de ejemplares involucrados
+
+ - Testigos o personas involucradas
+
+ - Breve descripción de los hechos
+
+ - Medidas adoptadas, en caso de existir
+
+ - Fotografías, en caso de haberlas
+
+ - Identificación de la (s) autoridad (es) notificada(s)
+
+36
+
+#### MVC SOLAR 38 SPA
+
+##### 4.6 Simulacros
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+Los planes antes descritos serán probados como mínimo una vez al año mediante simulacros de respuesta
+
+ante situaciones de emergencia, de acuerdo con un programa anual de simulacros que será establecido
+
+previo al inicio de las actividades de construcción.
+
+Por parte del titular, estarán a cargo de los simulacros las áreas de Seguridad y de Relacionamiento
+
+Comunitario.
+
+##### 4.7 Descripción de las Situaciones de Emergencias
+
+El contenido de un Plan de Emergencia depende del tipo de actividad a ejecutar, por lo que se considera
+
+primordial y necesario evaluar los factores de peligros existentes en las tecnologías a emplear y afrontar
+
+los riesgos en las actividades asociadas al Proyecto, susceptibles de afectar el ambiente y provocar
+
+accidentes o emergencias.
+
+Para tales efectos, las emergencias se pueden clasificar de acuerdo con su origen, sean estos riesgos
+
+naturales o antrópicos, ya antes mencionadas. Las medidas para las situaciones de emergencia, por riesgos
+
+naturales y antrópicos, se presentan en conjunto con las medidas para las respectivas contingencias, en
+
+los puntos 3.1 y 3.2 del presente documento.
+
+##### 4.8 Teléfonos de Emergencia
+
+En la siguiente Tabla se presentan los teléfonos de emergencia.
+
+**Tabla 4-1. Teléfonos de Emergencia**
+
+|Entidad|Dirección|N° Telefónico|
+|---|---|---|
+|ACHS - sede, Los Ángeles|Av. Alemania 800, Los Ángeles|600 600 2247|
+|Cuerpo de Bomberos de Los Ángeles|Ricardo vicuña 410|(43) 313507|
+|Carabineros de Chile (Comisaría Los<br>Ángeles)|Calle Colón 108|(56-43) 2243024|
+|CONAF|José Manso de Velasco 275, Los Ángeles|(43) 232 1086 y el<br>número<br>de<br>emergencias 130|
+
+37
+
+#### MVC SOLAR 38 SPA
+
+Anexo 02
+
+Actualización del Plan de prevención de contingencias y emergencias
+
+DIA Parque Fotovoltaico La Perla
+
+##### 4.9 Comunicación a la Superintendencia de Medio Ambiente
+
+El jefe local de la emergencia deberá dar aviso al jefe de área de la operación, y a la Gerencia de Asuntos
+Externos y Sustentabilidad. Éste último será el encargado de dar aviso a la Superintendencia de Medio
+
+Ambiente (SMA).
+
+Se avisará a la Superintendencia del Medio Ambiente (SMA) ante cualquiera de las siguientes situaciones:
+
+ - Incidentes viales.
+
+ - Alteración de sitios de interés patrimonial.
+
+ - Atropello de fauna.
+
+Las vías de comunicación mediante las cuales se dará aviso a la SMA se incorporan dentro del siguiente
+
+procedimiento:
+
+ - Dentro de las primeras 24 horas de ocurrido el incidente, se realizará el reporte del incidente en
+
+el módulo de avisos de la SMA en su sitio web.
+
+38
+
+---
+
+## Tablas Adicionales del Documento
+
+> **Nota:** Las siguientes tablas no tienen referencias explícitas en el texto principal pero contienen información potencialmente relevante.
+
+**Tabla 2-1.: Riesgos Identificados por Fase del Proyecto.****
+
+| Riesgo | Col2 | Fases | Col4 | Col5 |
+| --- | --- | --- | --- | --- |
+| **Riesgo** | **Riesgo** | **Construcción** | **Operación** | **Cierre** |
+| Natural | Sismo | X | X | X |
+| Natural | Condiciones climáticas | X | X | X |
+| Antrópico | Derrame de sustancias peligrosas en áreas de trabajo<br>y durante su transporte | X |  | X |
+| Antrópico | Incendio | X | X | X |
+| Antrópico | Accidentes de tránsito | X | X | X |
+| Antrópico | Uso de equipos y maquinaria pesada | X |  | X |
+| Antrópico | Movimientos de tierra | X |  | X |
+| Antrópico | Riesgos de atropello de fauna | X | X | X |
+| Antrópico | Desmontaje de equipos |  |  | X |
+
+**Tabla 3-1.: Medidas de contingencias adoptadas en caso de sismos****
+
+| Sismos | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Sismos |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Toda la infraestructura del Proyecto |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara prevenir<br>la<br>contingencia | • El tipo de estructuras y emplazamientos de las instalaciones de<br>faenas darán cumplimiento a las especificaciones tipo para<br>instalaciones de este tipo bajo normativa chilena, la que considera<br>los riesgos de sismos.<br>• Se capacitará y entrenará a personal en labores de rescate y<br>emergencia, los cuales deberán ser capacitados en forma anual; se<br>apoyará en el departamento de Prevención de Riesgos y Comités<br>Paritarios respectivos.<br>• A modo general se definirán zonas de seguridad y se elaborará un<br>Plan de Evacuación de Emergencia para cada contrato de<br>construcción que incluye un programa de comunicaciones el cual<br>incluirá<br>aquellas<br>contingencias<br>independientemente<br>de<br>su<br>evaluación de criticidad, el cuál será verificado y controlado en<br>cumplimiento por parte del asesor en prevención de riesgos del<br>titular. |
+| Forma de control y seguimiento | • Obtención de Permiso de Edificación y Recepción de Obras. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Dependiendo de la magnitud del sismo, se activará la alarma y si es<br>pertinente se ordenará la evacuación hacia las zonas de seguridad.<br>• Los trabajadores deberán quedarse en la zona de seguridad y esperar<br>instrucciones del personal entrenado.<br>• Producido un sismo, El titular procederá a evaluar los daños en las<br>estructuras físicas.<br>• En caso de que existan daños que impidan el normal funcionamiento<br>del Parque, se informará de esta situación a las autoridades<br>competentes. |
+
+**Tabla 3-2.: Medidas de contingencias asociadas a Condiciones Climáticas****
+
+| Condiciones Climáticas s | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Condiciones Climáticas |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Toda la infraestructura del Proyecto |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | Fase de construcción:<br>• No se ubicará la instalación de faenas en zonas expuestas a<br>deslizamientos de tierra.<br>• No se trabajará durante condiciones de mal tiempo sean viento y<br>lluvia.<br>• Las instalaciones eléctricas se inspeccionarán de manera<br>permanente por un especialista del área.<br>• El diseño de ingeniería y la construcción de las instalaciones del<br>Proyecto obedecen a normas o estándares nacionales e<br>internacionales de resistencia.<br>Fases de operación y cierre:<br>• Por el tipo de obras, no se contemplan acciones especiales para<br>eventos climáticos durante estas Fases, excepto aquellas que<br>establece la Ley. |
+| Forma de control y seguimiento | • Permiso de edificación y recepción de obras de la municipalidad.<br>• Certificado SEC “TE1 Declaración Eléctrica de Interiores”.<br>• Reglamento Interno de Higiene y Seguridad. El cual considerará las<br>condiciones óptimas de trabajo. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Dependiendo de la magnitud del temporal, se activará la alarma y si<br>es pertinente la evacuación hacia las zonas de seguridad.<br>• Los trabajadores deberán quedarse en la zona de seguridad y esperar<br>instrucciones por la supervisión.<br>• Producido un temporal, el titular procederá a evaluar los daños en la<br>estructura física.<br>• En caso de que existan daños que impidan el normal<br>funcionamiento, se informará de esta situación a las autoridades<br>competentes. |
+| Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan | Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa. |
+
+**Tabla 3-3.: Medidas de contingencias adoptadas en caso de Derrame de sustancias peligrosas en áreas de trabajo****
+
+| Derrame de sustancias peligrosas en áreas de trabajo y durante su transporte | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Derrame de sustancias peligrosas en áreas de trabajo y durante su<br>transporte |
+| Fase del proyecto a la que aplica | Fase de construcción y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Almacenamiento y manejo de sustancias peligrosas. |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | Medidas de seguridad asociadas al transporte:<br>• El transporte de combustible será realizado por empresas<br>autorizadas.<br>• El transporte de líquidos, tales como combustible y otros que se<br>puedan requerir en la faena, se regirán por las disposiciones de la<br>legislación vigente.<br>• El transportista o conductor poseerá la licencia adecuada, en<br>conjunto a la capacitación necesaria para responder en caso de<br>accidentes, con derrame de las sustancias transportadas.<br>• Los conductores de los vehículos de transporte contarán con<br>capacitación en el manejo y manipulación de las sustancias que<br>transportan, así como en procedimientos de primeros auxilios y<br>control de eventuales derrames (incluye la instrucción de los<br>procedimientos asociados al manejo de sustancias peligrosas).<br>• El transporte de sustancias peligrosas contará con las Hojas de<br>Seguridad respectivas, que contendrán entre otros datos, las<br>características de las sustancias, sus riesgos y los procedimientos de<br>emergencia que deberán activarse en caso de declaración del riesgo.<br>Medidas de seguridad asociadas al almacenamiento y manipulación:<br>• Se capacitará al personal que manipule y almacene este tipo de<br>sustancias, en las instalaciones de faenas.<br>• Se dispondrá de un área especial de almacenamiento para estos<br>materiales al interior de la instalación de faenas, la cual estará<br>debidamente señalizada y acondicionada según lo dispuesto por las<br>autoridades competentes.<br>• Los tambores de combustibles y aceite se dispondrán sobre pallets<br>de madera u otros dispositivos con el objeto de facilitar su transporte<br>y evitar la humedad y corrosión de estos, por efecto del contacto<br>directo entre los tambores y el suelo.<br>• Se dispondrá en esta área de elementos que permitan la contención<br>de derrames de mediana magnitud.<br>• Los recintos de acopio de estas sustancias contarán con las Hojas de<br>Seguridad respectivas, que contendrán entre otros datos, las |
+
+**Tabla 3-4.: Medidas de contingencias adoptadas en caso de incendio en el área de faenas****
+
+| Incendio en el Área de faenas s | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Incendio en el Área de faenas |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Área de faenas del Proyecto |
+| Acciones o medidas a implementar<br>para prevenir la contingencia | Fase de construccióny cierre:<br>• El contratista se regirá por las medidas y obligaciones establecidas<br>por el titular para minimizar el riesgo de incendio.<br>• En la instalación de faenas se construirán recintos especialmente<br>habilitados para el almacenamiento de combustible y otras<br>sustancias inflamables. Los materiales inflamables se mantendrán en<br>forma ordenada y clasificada al interior del recinto. El prevencionista<br>de riesgos realizará una inspección permanente, detectando<br>posibles fallas en los procedimientos de manejo de estas sustancias.<br>• Los contratistas dispondrán en las áreas de trabajos e instalación de<br>faenas, de los elementos básicos requeridos para combatir cualquier<br>amago de fuego o incendio, según lo establecido por la normativa<br>vigente en esta materia (extintores, mangueras, tambores con<br>arena, etc.).<br>• Se realizará un monitoreo del área afectada para evaluar e informar<br>daños a la Autoridad Pertinente, si existe un daño ambiental o<br>comunitario.<br> <br>Fase de operación:<br>• Por el tipo de obras, no se contemplan acciones especiales para<br>eventos de incendio durante esta fase, excepto aquellas que<br>establece la Ley. |
+| Forma de control y seguimiento | • Se mantendrán copias de las Autorizaciones Sanitarias de la Bodega<br>de Repuestos y Bodega de RESPEL.<br>• Se mantendrán copias de las Autorizaciones Sanitarias de la Bodega<br>de Repuestos y Bodega de RESPEL.<br>• Se mantendrá un registro de inspección de bodegas. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Se activará la alarma de incendio.<br>• Se dará aviso de inmediato al jefe de emergencias y al coordinador<br>de emergencias.<br>• Se activará el procedimiento contra incendios, se utilizará extintores<br>para extinguir el fuego, sólo si el siniestro es controlable.<br>• Si no es posible controlar la situación se dará aviso inmediato a<br>Bomberos y se evacuará a los trabajadores hacia las zonas de<br>seguridad.<br>• Se inspeccionará el área verificando la presencia de heridos. Si este<br>fuera el caso se trasladará de inmediato hasta un centro asistencial.<br>• Se deberá investigar las causas del siniestro |
+
+**Tabla 3-5.: Medidas de contingencias adoptadas en caso de accidentes de tránsito****
+
+| Accidentes de tránsito s | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Accidentes de tránsito |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Área de faenas del Proyecto |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | • Se darán capacitaciones de seguridad vial a todos los conductores<br>implicados en la construcción del proyecto.<br>• Se ejecutará un reglamento interno de buenas conductas para la<br>conducción segura de vehículos. El incumplimiento de este<br>reglamento será causal de despido inmediato.<br>• El personal para contratar para manejar los camiones, buses o<br>maquinarias será personal calificado, con licencia de conducir al día.<br>Se les exigirá licencia según lo señalado en la Ley de Tránsito (N°<br>18.290).<br>• El Contratista implementará un procedimiento formal para enfrentar<br>accidentes de tránsito que permitan atender la emergencia en forma<br>oportuna, el cual permanecerá al interior de cada vehículo de carga.<br>• Se capacitará a los conductores respecto de las acciones a seguir<br>ante un siniestro en la ruta.<br>• Se implementará la señalización adecuada en el área de construcción<br>El peso de los camiones cargados con equipos o materiales no<br>deberá exceder los máximos permitidos de acuerdo con las<br>rutas/puentes que se estén utilizando. En caso contrario, se<br>obtendrán los permisos correspondientes de la Dirección de Vialidad<br>en cada caso. |
+| Forma de control y seguimiento | • Se mantendrá registro de las capacitaciones de seguridad vial.<br>• Se mantendrá registro de las licencias de conducir de los<br>conductores asociados al proyecto. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Se informará al jefe de emergencias del accidente.<br>• Se dimensionará la emergencia<br>• Se clasificará el evento accidente de tránsito (leve, serio, grave)<br>• Se activará el Plan de Comunicaciones con Ambulancia (131),<br>Bomberos (132) y Carabineros (133), informando acerca de la<br>ocurrencia del accidente, la gravedad de éste y la identificación de<br>las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente. |
+
+**Tabla 3-6.: Medidas de contingencias asociadas al uso de equipo y maquinaria pesada****
+
+| Uso de equipo y maquinaria pesada | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Uso de equipo y maquinaria pesada |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Área de faenas del Proyecto |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | Fase de construcción:<br>• El Contratista implementará un procedimiento formal para la<br>operación que permita atender de forma segura la conducción y<br>operación de maquinarias, el cual permanecerá al interior de cada<br>equipo.<br>• Se capacitará a los operadores y conductores respecto de las<br>acciones a seguir ante un siniestro.<br>• Se implementará la señalización adecuada en el área de construcción<br>La operación de equipos no deberá exceder los máximos permitidos<br>de acuerdo con el manual de operación.<br>• Se implementará un plan de mantención de equipos y maquinarias.<br>• En caso de detectarse alguna intervención de un sitio arqueológico,<br>se debe detener la obra en ese sector e informar a las autoridades.<br>• El supervisor será el responsable de resguardar el sitio arqueológico<br>en las mismas condiciones que se detectó.<br>Fase de operación y cierre:<br>• No se contemplan acciones especiales durante esta fase excepto<br>aquellas que establece la Ley. |
+| Forma de control y seguimiento | • Se mantendrá registro de las licencias de conducir de los<br>conductores de maquinaria pesada.<br>• Se mantendrá registro de las capacitaciones de seguridad vial.<br>• Fotografía de señaléticas instaladas por el proyecto. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia<br>• Se clasificará el evento (leve, serio, grave).<br>• Se activará el Plan de Comunicaciones si la situación lo amerita con<br>Ambulancia (131), Bomberos (132) y Carabineros (133), informando<br>acerca de la ocurrencia del accidente, la gravedad de éste y la<br>identificación de las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente.<br>• Se inspeccionará, por parte del personal calificado, el área<br>verificando la presencia de heridos. Si este fuera el caso se trasladará<br>de inmediato hasta un centro asistencial.<br>• Una vez controlada la situación, se procederá a restaurar la vialidad<br>disponiendo equipos y maquinaria para ayudar a despejar la ruta en<br>el más breve plazo (una vez que la autoridad responsable lo<br>autorice). |
+
+**Tabla 3-7.: Medidas de contingencias asociadas a movimientos de tierra****
+
+| Movimiento de Tierra | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Movimiento de Tierra |
+| Fase del proyecto a la que aplica | Fase de construcción y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Área de faenas del Proyecto |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | En fase de construcción:<br>• El Contratista implementará un procedimiento formal para la<br>operación que permita atender de forma segura el movimiento de<br>tierra.<br>• El mandante contara con un equipo de topografía permanente para<br>controlar las diferentes obras a ejecutar. El escarpe y la geometría<br>del proyecto será verificada en emplazamiento y cotas por cada capa<br>de material que se retire o coloque.<br>• Se capacitará a los operadores y conductores respecto de las<br>acciones a seguir ante un siniestro.<br>• La operación de equipos no deberá exceder los máximos permitidos<br>de acuerdo con el manual de operación.<br>• Se implementará un plan de mantención de equipos y maquinarias.<br>• En caso de detectarse alguna intervención de un sitio arqueológico,<br>se debe detener la obra en ese sector e informar a las autoridades.<br>• El supervisor será el responsable de resguardar el sitio arqueológico<br>y dará aviso a la gerencia del proyecto, quien dará aviso al CMN. |
+| Forma de control y seguimiento | • Registro de entrega de recepción de procedimiento por parte de<br>contratista.<br>• Se mantendrá registro de las licencias de conducir de los<br>conductores de maquinaria pesada.<br>• Registro de mantenciones. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia<br>• Se clasificará el evento accidente (leve, serio y grave)<br>• Se activará el Plan de Comunicaciones si lo amerita con Ambulancia<br>(131), Bomberos (132) y Carabineros (133), informando acerca de la |
+
+**Tabla 3-8.: Medidas de contingencias adoptadas en caso de atropello de fauna silvestre****
+
+| Atropello de fauna silvestre | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Atropello de fauna silvestre |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Transporte de material y personas |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | • Colocación de letreros de aviso de paso de animales.<br>• Regular la velocidad máxima dentro del área del proyecto de 15 - 20<br>km/hr.<br>• Instalación de letreros, en ciertas áreas específicas de mayor<br>frecuentación de que indiquen a los conductores que reduzcan la<br>velocidad debido a la presencia de animales. |
+| Forma de control y seguimiento | • Registro de capacitación de prevención de accidentes.<br>• Se mantendrá registro de las licencias de conducir de los<br>conductores. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia Se clasificará el evento (leve, serio,<br>grave).<br>• Una vez controlada la situación, se informará a las autoridades<br>pertinentes, en caso de requerir se trasladará para la revisión de un<br>veterinario.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido. |
+| Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan | Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa. |
+
+**Tabla 3-9.: Medidas de contingencias asociadas a Desmontaje de Equipos****
+
+| Desmontaje de Equipos | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Desmontaje de Equipos |
+| Fase del proyecto a la que aplica | Fase de cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Desmontaje y transporte de paneles fotovoltaicos y equipos |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | • El Contratista implementará un procedimiento formal para la<br>operación que permita atender de forma segura el desmontaje.<br>• Se capacitará a los operadores y conductores respecto de las<br>acciones a seguir ante un siniestro.<br>• La operación de equipos no deberá exceder los máximos permitidos<br>de acuerdo con el manual de operación.<br>• Se implementará un plan de mantención de equipos y maquinarias.<br>• Durante la fase de cierre, se incluirá las indicaciones que en esta<br>materia establezca la RCA |
+| Forma de control y seguimiento | • Procedimiento operacional de desmontaje de equipos. |
+| Acciones o medida a implementar<br>para controlar la emergencia | Fase de Cierre:<br>• Se informará al jefe de terreno del accidente.<br>• Se dimensionará la emergencia y se delimitará toda el área con<br>barreras duras, conos y personas que impidan el ingreso de terceros.<br>• Se clasificará el evento accidente (grave y hay lesiones a las<br>personas)<br>• Se activará el Plan de Comunicaciones si lo amerita con Ambulancia<br>(131), Bomberos (132) y Carabineros (133), informando acerca de la<br>ocurrencia del accidente, la gravedad de éste y la identificación de<br>las personas y vehículos involucrados.<br>• Se demarcará el área afectada, prohibiendo el ingreso a la zona del<br>accidente.<br>• Se inspeccionará, por parte del personal calificado, el área<br>verificando la presencia de heridos. Si este fuera el caso se trasladará<br>de inmediato hasta un centro asistencial.<br>• Se dará aviso oportuno a las compañías de seguros involucradas.<br>• Se entregará información oportuna a los encargados en la empresa.<br>• Se registrará e informará el accidente en un formulario previamente<br>definido. Se realizará una completa descripción de la respuesta<br>frente a la emergencia, recolectando todas las evidencias posibles,<br>con el fin de hacer las correcciones que el caso amerite y mejorar los<br>procedimientos. |
+| Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan | Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa. |
+
+**Tabla 3-10.: Medidas de contingencia relacionadas a una condición desfavorable de almacenamiento o error en la****
+
+| Condición desfavorable de almacenamiento o error en la clasificación del residuo peligroso | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Condición desfavorable de almacenamiento o error en la clasificación del<br>residuo peligroso |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre. |
+| Emplazamiento, parte, obra o acción<br>asociada | Manejo de residuos peligrosos |
+| Acciones<br>o <br>medidas<br>a <br>implementarpara<br>prevenir<br>la<br>contingencia | • Verificar el tipo de residuo a recolectar siendo revisado por personal<br>idóneo para ser trasladado a los contenedores correspondientes<br>(señalizados).<br>• Revisar la rotulación de los contenedores, los cuales deben estar en<br>línea con el tipo de residuo almacenado.<br>• Realizar un seguimiento administrativo de los residuos que salen del<br>proyecto a disposición final. |
+| Forma de control y seguimiento | Chequear constantemente la coherencia entre el etiquetado de los<br>contenedores con respecto a la del sitio de almacenamiento de residuos<br>peligrosos. |
+| Acciones o medida a implementar<br>para controlar la emergencia | • Una vez declarada la emergencia, el Coordinador de Emergencias<br>gestionará el apoyo logístico necesario solicitado por el Jefe de<br>Emergencia, se comunicará en primer lugar con el centro asistencial<br>más cercano, si debido a la emergencia se producen lesionas o daños<br>a personas, dando aviso, de ser necesario, a los servicios externos de<br>emergencia tales como bomberos, carabineros, etc,<br>• Luego, el Coordinador de Emergencias, comunicará al gerente<br>general la situación que se vive en las instalaciones y de las medidas<br>que se han tomado, será responsable de coordinar las acciones, dará<br>la instrucción de terminar con las operaciones normales, debido a la<br>existencia de condiciones peligrosas producto de la emergencia,<br>ordenando detener y desenergizar los equipos para proceder a la<br>evacuación.<br>• Finalmente, el Coordinador de emergencias será el responsable de<br>informar a la Superintendencia del Medioambiente a través del<br>módulo de aviso de Contingencias e Incidentes dentro del plazo de<br>24 horas de ocurrido el evento que se informa |
+| Oportunidad y vías de comunicación<br>a la SMA de la activación del Plan | Se informará a la SMA a través del Módulo de avisos de contingencias e<br>incidentes dentro de las 24 horas de ocurrido el evento que se informa. |
+
+**Tabla 3-11.: Medidas de contingencia en caso de derrame de residuos peligrosos en la faena****
+
+| Derrame de residuos peligrosos en la faena | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Derrame de residuos peligrosos en la faena |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre |
+| Emplazamiento, parte, obra o acción<br>asociada | Manejo, almacenamiento y transporte de residuos peligrosos |
+
+**Tabla 3-12.: Medidas de contingencia en caso de incendios forestales****
+
+| Incendios Forestales | Col2 |
+| --- | --- |
+| Riesgo o contingencia | Incendios Forestales |
+| Fase del proyecto a la que aplica | Fase de construcción, operación y cierre |
+| Emplazamiento, parte, obra o acción<br>asociada | El proyecto se emplaza en un área susceptible a incendios forestales<br>debido a la presencia de vegetación y la condición climatológica del sector<br>que presenta altas temperaturas en algunas épocas del año. |
+| Acciones o medidas a implementar<br>para prevenir la contingencia | - <br>Capacitación en materia de prevención y control de incendios.<br>- <br>Identificación de los sitios con riesgo de incendio y definición de<br>zonas de seguridad.<br>- <br>Zonificación del área donde se ejecutarán las actividades del<br>proyecto. Para cada una de las zonas definidas, se identificarán<br>los riesgos y/o actividades críticas que podrían causar un<br>incendio. La zonificación, estará cargo de un especialista en la<br>prevención de incendios forestales.<br>- <br>Para cada zona definida, se informará al personal de los riesgos<br>asociados a cada actividad, y de las medidas tendientes a<br>prevenir estos riesgos. Esta información será transmitida en las<br>capacitaciones que el encargado de prevención de riesgos<br>realice a los trabajadores. Además, se entregarán nociones |
+
+**Tabla 4-1.: Teléfonos de Emergencia****
+
+| Entidad | Dirección | N° Telefónico |
+| --- | --- | --- |
+| ACHS - sede, Los Ángeles | Av. Alemania 800, Los Ángeles | 600 600 2247 |
+| Cuerpo de Bomberos de Los Ángeles | Ricardo vicuña 410 | (43) 313507 |
+| Carabineros de Chile (Comisaría Los<br>Ángeles) | Calle Colón 108 | (56-43) 2243024 |
+| CONAF | José Manso de Velasco 275, Los Ángeles | (43) 232 1086 y el<br>número<br>de<br>emergencias 130 |

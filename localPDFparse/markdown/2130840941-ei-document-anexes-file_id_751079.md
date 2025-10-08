@@ -1,0 +1,45 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20150917112622
+language: unknown
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+ESC. VER. 1:1000
+
+APROBO ESC. VER. 1:1000 SIRGAS WGS 84
+
+|E-414900 E-415000 E-415100<br>N-7421700<br>N-7421600<br>N-7421500<br>N-7421400<br>N-7421300 Simbologia<br>Curvas de Nivel<br>Cerco perimetral<br>Camino<br>Acopio de material<br>Oficina<br>Analytica<br>ILUSTRE MUNICIPALIDAD DE SIERRA GORDA E-414900 E-415000 E-415100<br>&KDxDU TIFFI TOPOGRAFIA<br>DESCRIPCION 9,1&8/$&,21*(2'e6,&$ SI NO TOPOGRAFIA J.CASTILLO 03/03/2015<br>9 Mp .U BWL .F NH .  SN ieo rm rab Gre o : rda 1. W&y GG SLJ 8R 4, 6 H* u s o 19 Sur. C DA IBL UC JU OLO J J. .G GO ON NZ ZA AL LE EZ Z 11 22 // 00 33 // 22 00 11 55 VERTEDERO BAQUEDANO REVISIONES TIFFI LTDA.<br>REVISION E. URQUIZA 12/03/2015<br>NORTE: 7.468.889,129 GEOMENSOR JEFE UBICACION : BAQUEDANO, II REGION ANTOFAGASTA<br>ESTE: 467.370,881 ARNALDO TIFFI P. 3/$121 11 LIENTE<br>ELEVACION: 1.659,188 APROBO ESC. HZ. 1:1000 DATUM REV.|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|N-7421600<br>N-7421500<br>N-7421400<br>N-7421300<br>E-415000<br>E-414900<br>E-415000<br>E-414900<br>REVISIONES<br>GEOMENSOR JEFE<br>REVISION<br>LIENTE<br>CALCULO<br>DIBUJO<br>TIFFI LTDA.<br>TOPOGRAFIA<br>ESC. HZ. 1:1000<br>3/$121<br>REV.<br>APROBO<br>DATUM<br>J.CASTILLO<br>03/03/2015<br>TIFFI TOPOGRAFIA<br>ARNALDO TIFFI P.<br>9,1&8/$&,21*(2'e6,&$<br>9pUWLFH
+<br>ESTE:<br>NORTE:<br>ELEVACION:<br>Nombre :<br>&yGLJR
+6*<br>E. URQUIZA<br>J.GONZALEZ<br>12/03/2015<br>12/03/2015<br>12/03/2015<br>SI<br>NO<br>DESCRIPCION<br>VERTEDERO BAQUEDANO<br>M.B.N. Sierra Gorda 1.<br> 7.468.889,129<br> 467.370,881<br> 1.659,188<br>UBICACION :<br>BAQUEDANO, II REGION ANTOFAGASTA<br><br> WGS 84, Huso 19 Sur.<br>1<br>1<br>Simbologia<br>Curvas de Nivel<br>Acopio de material<br>Cerco perimetral<br>Oficina<br>Camino<br>ILUSTRE MUNICIPALIDAD DE SIERRA GORDA<br>E-415100<br>N-7421700<br>E-415100<br>J.GONZALEZ<br>&KDxDU<br>Analytica|N-7421600<br>N-7421500<br>N-7421400<br>N-7421300<br>E-415000<br>E-414900<br>E-415000<br>E-414900<br>REVISIONES<br>GEOMENSOR JEFE<br>REVISION<br>LIENTE<br>CALCULO<br>DIBUJO<br>TIFFI LTDA.<br>TOPOGRAFIA<br>ESC. HZ. 1:1000<br>3/$121<br>REV.<br>APROBO<br>DATUM<br>J.CASTILLO<br>03/03/2015<br>TIFFI TOPOGRAFIA<br>ARNALDO TIFFI P.<br>9,1&8/$&,21*(2'e6,&$<br>9pUWLFH
+<br>ESTE:<br>NORTE:<br>ELEVACION:<br>Nombre :<br>&yGLJR
+6*<br>E. URQUIZA<br>J.GONZALEZ<br>12/03/2015<br>12/03/2015<br>12/03/2015<br>SI<br>NO<br>DESCRIPCION<br>VERTEDERO BAQUEDANO<br>M.B.N. Sierra Gorda 1.<br> 7.468.889,129<br> 467.370,881<br> 1.659,188<br>UBICACION :<br>BAQUEDANO, II REGION ANTOFAGASTA<br><br> WGS 84, Huso 19 Sur.<br>1<br>1<br>Simbologia<br>Curvas de Nivel<br>Acopio de material<br>Cerco perimetral<br>Oficina<br>Camino<br>ILUSTRE MUNICIPALIDAD DE SIERRA GORDA<br>E-415100<br>N-7421700<br>E-415100<br>J.GONZALEZ<br>&KDxDU<br>Analytica|N-7421600<br>N-7421500<br>N-7421400<br>N-7421300<br>E-415000<br>E-414900<br>E-415000<br>E-414900<br>REVISIONES<br>GEOMENSOR JEFE<br>REVISION<br>LIENTE<br>CALCULO<br>DIBUJO<br>TIFFI LTDA.<br>TOPOGRAFIA<br>ESC. HZ. 1:1000<br>3/$121<br>REV.<br>APROBO<br>DATUM<br>J.CASTILLO<br>03/03/2015<br>TIFFI TOPOGRAFIA<br>ARNALDO TIFFI P.<br>9,1&8/$&,21*(2'e6,&$<br>9pUWLFH
+<br>ESTE:<br>NORTE:<br>ELEVACION:<br>Nombre :<br>&yGLJR
+6*<br>E. URQUIZA<br>J.GONZALEZ<br>12/03/2015<br>12/03/2015<br>12/03/2015<br>SI<br>NO<br>DESCRIPCION<br>VERTEDERO BAQUEDANO<br>M.B.N. Sierra Gorda 1.<br> 7.468.889,129<br> 467.370,881<br> 1.659,188<br>UBICACION :<br>BAQUEDANO, II REGION ANTOFAGASTA<br><br> WGS 84, Huso 19 Sur.<br>1<br>1<br>Simbologia<br>Curvas de Nivel<br>Acopio de material<br>Cerco perimetral<br>Oficina<br>Camino<br>ILUSTRE MUNICIPALIDAD DE SIERRA GORDA<br>E-415100<br>N-7421700<br>E-415100<br>J.GONZALEZ<br>&KDxDU<br>Analytica|N-7421600<br>N-7421500<br>N-7421400<br>N-7421300<br>E-415000<br>E-414900<br>E-415000<br>E-414900<br>REVISIONES<br>GEOMENSOR JEFE<br>REVISION<br>LIENTE<br>CALCULO<br>DIBUJO<br>TIFFI LTDA.<br>TOPOGRAFIA<br>ESC. HZ. 1:1000<br>3/$121<br>REV.<br>APROBO<br>DATUM<br>J.CASTILLO<br>03/03/2015<br>TIFFI TOPOGRAFIA<br>ARNALDO TIFFI P.<br>9,1&8/$&,21*(2'e6,&$<br>9pUWLFH
+<br>ESTE:<br>NORTE:<br>ELEVACION:<br>Nombre :<br>&yGLJR
+6*<br>E. URQUIZA<br>J.GONZALEZ<br>12/03/2015<br>12/03/2015<br>12/03/2015<br>SI<br>NO<br>DESCRIPCION<br>VERTEDERO BAQUEDANO<br>M.B.N. Sierra Gorda 1.<br> 7.468.889,129<br> 467.370,881<br> 1.659,188<br>UBICACION :<br>BAQUEDANO, II REGION ANTOFAGASTA<br><br> WGS 84, Huso 19 Sur.<br>1<br>1<br>Simbologia<br>Curvas de Nivel<br>Acopio de material<br>Cerco perimetral<br>Oficina<br>Camino<br>ILUSTRE MUNICIPALIDAD DE SIERRA GORDA<br>E-415100<br>N-7421700<br>E-415100<br>J.GONZALEZ<br>&KDxDU<br>Analytica|GEOMENSOR JEFE<br>REVISION<br>LIENTE<br>CALCULO<br>DIBUJO<br>TIFFI LTDA.<br>TOPOGRAFIA<br>ESC. HZ. 1:1000<br>3/$121<br>APROBO<br>DATUM<br>J.CASTILLO<br>03/03/2015<br>TIFFI TOPOGRAFIA<br>ARNALDO TIFFI P.<br>E. URQUIZA<br>J.GONZALEZ<br>12/03/2015<br>12/03/2015<br>12/03/2015<br>VER<br>UBICACION :<br>BAQUEDA<br><br>1<br>1<br>ILUST<br>J.GONZALEZ<br>&KDxDU|GEOMENSOR JEFE<br>REVISION<br>LIENTE<br>CALCULO<br>DIBUJO<br>TIFFI LTDA.<br>TOPOGRAFIA<br>ESC. HZ. 1:1000<br>3/$121<br>APROBO<br>DATUM<br>J.CASTILLO<br>03/03/2015<br>TIFFI TOPOGRAFIA<br>ARNALDO TIFFI P.<br>E. URQUIZA<br>J.GONZALEZ<br>12/03/2015<br>12/03/2015<br>12/03/2015<br>VER<br>UBICACION :<br>BAQUEDA<br><br>1<br>1<br>ILUST<br>J.GONZALEZ<br>&KDxDU|TEDERO BAQUEDANO<br>RE MUNICIPALIDAD DE SIERRA GORDA|TEDERO BAQUEDANO<br>RE MUNICIPALIDAD DE SIERRA GORDA|
+||REVISIONES<br>||9pUWLFH
+<br>Nombre :<br>&yGLJR
+6*<br><br><br><br>|9pUWLFH
+<br>Nombre :<br>&yGLJR
+6*<br><br><br><br>|9pUWLFH
+<br>Nombre :<br>&yGLJR
+6*<br><br><br><br>|9pUWLFH
+<br>Nombre :<br>&yGLJR
+6*<br><br><br><br>|9pUWLFH
+<br>Nombre :<br>&yGLJR
+6*<br><br><br><br>|
+||REVISIONES<br>||M.B.N. Sierra Gorda 1.<br> WGS 84, Huso 19 Sur.|M.B.N. Sierra Gorda 1.<br> WGS 84, Huso 19 Sur.|M.B.N. Sierra Gorda 1.<br> WGS 84, Huso 19 Sur.|M.B.N. Sierra Gorda 1.<br> WGS 84, Huso 19 Sur.|M.B.N. Sierra Gorda 1.<br> WGS 84, Huso 19 Sur.|
+||REVISIONES<br>|||||||
+||REVISIONES<br>||NORTE:<br> 7.468.889,129|NORTE:<br> 7.468.889,129|NORTE:<br> 7.468.889,129|NO, II REGION ANTOFAGASTA|NO, II REGION ANTOFAGASTA|
+||REVISIONES<br>||ESTE:<br><br> 467.370,881|ESTE:<br><br> 467.370,881|ESTE:<br><br> 467.370,881|||
+||REVISIONES<br>||ELEVACION:<br><br> 1.659,188|ELEVACION:<br><br> 1.659,188|ESC. HZ. 1:1000<br>DATUM<br>||REV.|
+
+1

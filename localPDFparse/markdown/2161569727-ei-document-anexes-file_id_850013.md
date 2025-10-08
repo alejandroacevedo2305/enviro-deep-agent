@@ -1,0 +1,41 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20240108165057-03'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+2.344.950 PATTEPROFE
+
+29/12/2023
+
+JUAN ANTONIO CANOVAS HERNANDEZ
+
+10.660.055-4
+
+ZANARTU 2836
+
+Nro. PATENTE: 306.282-1
+
+PERIODO: 1ER. SEMESTRE 2024
+
+83241 ARQUITECTO
+
+ORDEN DE INGRESO MUNICIPALES
+
+CUENTA NOMBRE MONTO
+
+1150301001001001 FDO.MUNICIP(ART.24) 32.231
+
+35
+
+08/01/2024
+
+32.231
+
+32.231

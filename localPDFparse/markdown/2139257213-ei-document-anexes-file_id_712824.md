@@ -1,0 +1,43 @@
+---
+title: PLT61ca.tmp.pdf
+author: Desconocido
+date: D:20170424192249Z00'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|0.5% 0.5%|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|B|B|B|B|B|B|B|C<br>0.5%|
+|||||||||
+|C||B|0.5%<br>PAVIMENTO|0.5%<br>PAVIMENTO||||
+|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO|D<br>0.5%<br>0.5%<br>PASILLO ADOCRETO||
+|B|B|B|B|B|B|B|C<br>0.5%|
+|||||||||
+|C||B|0.5%<br>PAVIMENTO|0.5%<br>PAVIMENTO||||
+
+29/03/2017 B
+
+|Col1|D<br>0.5% 0.5%<br>B<br>C PAVIMENTO PAVIMENTO C 0.5%<br>0.5% 0.5% B 0.5%<br>D<br>0.5% 0.5%<br>PASILLO ADOCRETO<br>D<br>0.5% 0.5%<br>B<br>C PAVIMENTO PAVIMENTO C 0.5%<br>0.5% 0.5% B 0.5%<br>D<br>0.5% 0.5%<br>P ESL CA ALN T :A DE PAVIMENTO M1PRO6YE-CT4O N6°:3<br>A 1 50<br>PLANO N°:<br>PE 1 /1<br>PROYECTO: P SA UT SIO TA C NO CN IAT SE N PE ED LIO GR+ R56E O 3S2 S 3 4D A61 SE108 CALCULO:<br>PROPIETARIO: PUERTO COLUMBO S.A. Proy:<br>UBICACION: CAMINO LA POLVORA REVISO: REVISIONES<br>AB EE MM II TT II DD OO PP AA RR AA RA EP VR IO SIOBA NC DIO ELN C D LE IEL N C TL EIENTE RR .. PP .. RR .. AA .. MM .. OO .. 11 41 // 00 34 // 22 00 11 77CONTENIDO: PLANTAS ED/N SE PE P EN A CL V IA FIMC ICEE AN S CTA IO ON, N CR EOO SRQ TTU EEE CS N Y IC D AE STALLES FE ES 2IN CC 9H/AD 0ALI 3CA :/S 2A: 0D 1A 7S REV.|Col3|Col4|Col5|Col6|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+||||||||||
+|||||||||PROYECTO N°:<br>PLANO N°:<br>M16-463|
+||||||||SUSTANCIAS PELIGROSAS<br>PATIO CONTENEDORES DE<br><br>PROYECTO:<br>+56 32 3461108|CALCULO:<br><br>PE /1<br>1|
+||||||||PUERTO COLUMBO S.A.<br>PROPIETARIO:|Proy:|
+|||A<br><br>B|EMITIDO PARA REVISION DEL CLIENTE<br>EMITIDO PARA APROBACION DEL CLIENTE|R.P.R.<br>R.P.R.|A.M.O.<br>A.M.O.|14/03/2017<br>11/04/2017|CAMINO LA POLVORA<br>S/N ENLACE SAN ROQUE<br>CONTENIDO:<br>UBICACION:<br>PLANTA DE PAVIMENTO, CORTES Y DETALLES<br>ESPECIFICACIONES TECNICAS|INDICADAS<br>FECHA:<br>REV.<br>ESCALAS:<br>REVISO:<br>29/03/2017<br>|
+
+N°
+
+DESCRIPCION
+
+|Col1|Col2|
+|---|---|
+|0,18<br>1<br>ROJO<br>ESPESOR<br>No<br>COLOR|0,18<br>1<br>ROJO<br>ESPESOR<br>No<br>COLOR|
+|AMARILLO<br>|0,25<br>2<br><br>|
+|MAGENTA<br>AZUL<br>CYAN<br>VERDE|0,3<br>6<br>0,5<br>5<br>0,4<br>4<br>0,35<br>3|
+
+PLOTEO :17-abr-17 GRIS 8 al 255 0,05

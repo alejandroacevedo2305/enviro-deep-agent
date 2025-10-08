@@ -1,0 +1,46 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20240201082602
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|ARQUITECTOS<br>CHRISTEL RENDEL A.<br>JOSELIN GONZALEZ M.<br>ATEC ALVARO BOLIVAR C.|Col2|Col3|
+|---|---|---|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+|ARQUITECTURA|ARQUITECTURA|ARQUITECTURA|
+|CENCOSUD SHOPPING CENTERS S.A.|CENCOSUD SHOPPING CENTERS S.A.|CENCOSUD SHOPPING CENTERS S.A.|
+||||
+||||
+||||
+||||
+||||
+|PROYECTO|PROYECTO|PROYECTO|
+|CONTENIDO<br>EMPLAZAMIENTO Y CUADRO DE SUP.|CONTENIDO<br>EMPLAZAMIENTO Y CUADRO DE SUP.|CONTENIDO<br>EMPLAZAMIENTO Y CUADRO DE SUP.|
+|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|JOSELIN GONZALEZ M.<br>ARQUITECTO A CARGO :|
+|DIBUJO :<br>A.B.C.|DIBUJO :<br>A.B.C.|DIBUJO :<br>A.B.C.|
+|SERIE|REVISO<br>**FECHA**|REVISO<br>**FECHA**|
+||-<br>10.10.2023|-<br>10.10.2023|
+|PLANO No<br>AR-PT-1|VERSION<br>A<br>001|VERSION<br>A<br>001|
+|X-REF|ESCALA<br>|ESCALA<br>|
+||INDICADAS|INDICADAS|
+||||

@@ -1,0 +1,20928 @@
+---
+title: Capitulo.1.DescripcionDeProyecto.Rev.0(15.04.2015)
+author: Diego J. Martínez Neira
+date: D:20150416222106Z00'00'
+language: es
+type: report
+pages: 60
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Declaración
+  - Capítulo
+-->
+
+# Declaración
+ de
+ Impacto
+ Ambiental** **Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+#### Comuna
+ de
+ Marchigüe**
+
+# Capítulo
+ 1.** **Descripción
+ de
+ Proyecto**
+
+#### Preparado
+ para**
+## Maitenes
+ Solar
+ Spa**
+
+### Abril
+ de
+ 2015**
+
+**Revisión
+ 0**
+
+________________________________________________________________________________________________________ **www.tet.cl**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+### Tabla
+ de
+ Contenidos**
+
+**1.** **DESCRIPCIÓN DEL PROYECTO O ACTIVIDAD** **1**
+
+1.1. I DENTIFICACIÓN
+ DEL
+ TITULAR
+ Y
+ REPRESENTANTE
+ LEGAL 1
+1.2. A NTECEDENTES
+ GENERALES
+ DEL
+ PROYECTO 1
+1.2.1. N OMBRE
+ DEL
+ PROYECTO 1
+1.2.2. B REVE
+ DESCRIPCIÓN
+ DEL
+ PROYECTO 1
+1.2.3. O BJETIVO
+ GENERAL
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD 2
+1.2.4. T IPOLOGÍA
+ DEL
+ PROYECTO
+ Y
+ LA
+ APLICABLE
+ A
+ SUS
+ PARTES, OBRAS
+ Y / O
+ ACCIONES
+ DE
+ ACUERDO
+ AL A RTÍCULO 3 DEL
+RSEIA 2
+1.2.5. M ODIFICACIÓN
+ DE
+ PROYECTO
+ O
+ ACTIVIDAD 2
+1.2.6. M ONTO
+ ESTIMADO
+ DE
+ LA
+ INVERSIÓN 3
+1.2.7. V IDA
+ ÚTIL
+ DEL
+ PROYECTO
+ O
+ ACTIVIDAD
+ Y
+ DE
+ SUS
+ PARTES
+ U
+ OBRAS
+ SI
+ CORRESPONDE 3
+1.2.8. F AENA
+ MÍNIMA
+ QUE
+ DÉ
+ CUENTA
+ DE
+ LA
+ EJECUCIÓN
+ DEL
+ PROYECTO 3
+1.2.9. N EGOCIACIÓN
+ CON
+ INTERESADOS 3
+1.2.10. D ESARROLLO
+ DE
+ PROYECTOS
+ O
+ ACTIVIDADES
+ POR
+ ETAPAS 3
+1.3. L OCALIZACIÓN
+ DEL
+ PROYECTO 3
+1.3.1. D IVISIÓN
+ POLÍTICO -­‐ ADMINISTRATIVA
+ A
+ NIVEL
+ REGIONAL, PROVINCIAL
+ Y
+ COMUNAL
+ EN
+ LA
+ QUE
+ SE
+ LOCALIZA
+ EL
+PROYECTO 3
+1.3.2. R EPRESENTACIÓN
+ CARTOGRÁFICA (D ATUM WGS 84) 3
+1.3.3. S UPERFICIE
+ TOTAL 8
+1.3.4. C AMINO
+ DE
+ ACCESO 10
+1.3.5. J USTIFICACIÓN
+ DE
+ LA
+ LOCALIZACIÓN 10
+1.4. D ESCRIPCIÓN
+ DE
+ LAS
+ PARTES, ACCIONES
+ Y
+ OBRAS
+ FÍSICAS
+ DEL P ROYECTO 10
+1.4.1. C RITERIOS
+ AMBIENTALES
+ GENERALES
+ PARA
+ EL
+ DISEÑO
+ DE M AITENES 10
+1.4.2. O BRAS
+ TEMPORALES 11
+1.4.3. O BRAS
+ PERMANENTES 12
+1.5. F ASE
+ DE C ONSTRUCCIÓN 24
+1.5.1. P ARTES, OBRAS
+ Y
+ ACCIONES 24
+1.5.2. F ECHA
+ ESTIMADA
+ E
+ INDICACIÓN
+ DE
+ LA
+ PARTE, OBRA
+ O
+ ACCIÓN
+ QUE
+ ESTABLEZCA
+ EL
+ INICIO
+ Y
+ TÉRMINO
+ DE
+ LA
+ FASE .
+32
+1.5.3. C RONOGRAMA 32
+1.5.4. M ANO
+ DE
+ OBRA 33
+1.5.5. E QUIPOS, M AQUINARIAS, I NSUMOS
+ Y S ERVICIOS 34
+1.5.6. E XPLOTACIÓN
+ O
+ EXTRACCIÓN
+ DE
+ RECURSOS
+ NATURALES
+ RENOVABLES 38
+1.5.7. E MISIONES
+ Y
+ FORMA
+ DE
+ ABATIMIENTO
+ Y
+ CONTROL 38
+1.5.8. M ANEJO
+ DE
+ RESIDUOS
+ Y / U
+ OTROS
+ PRODUCTOS
+ O
+ SUSTANCIAS 38
+1.6. F ASE
+ DE O PERACIÓN 42
+1.6.1. P ARTES, O BRAS
+ Y A CCIONES 42
+1.6.2. F ECHA
+ ESTIMADA
+ E
+ INDICACIÓN
+ DE
+ LA
+ PARTE, OBRA
+ O
+ ACCIÓN
+ QUE
+ ESTABLEZCA
+ EL
+ INICIO
+ Y
+ TÉRMINO
+ DE
+ LA
+ FASE
+ DE
+OPERACIÓN 43
+1.6.3. C RONOGRAMA
+ FASE
+ DE
+ OPERACIÓN 44
+1.6.4. M ANO
+ DE
+ OBRA 44
+1.6.5. D ESCRIPCIÓN
+ DE
+ LAS
+ ACTIVIDADES
+ DE
+ MANTENCIÓN
+ Y
+ CONSERVACIÓN 44
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+i
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.6.6. S UMINISTROS 46
+1.6.7. C UANTIFICACIÓN, MANEJO
+ Y
+ TRANSPORTE
+ DE
+ LOS
+ PRODUCTOS 47
+1.6.8. E XPLOTACIÓN
+ O
+ EXTRACCIÓN
+ DE
+ RECURSOS
+ NATURALES
+ RENOVABLES 47
+1.6.9. E MISIONES, FORMAS
+ DE
+ ABATIMIENTO
+ Y
+ CONTROL
+ EN
+ FASE
+ DE
+ OPERACIÓN 47
+1.6.10. M ANEJO
+ DE
+ RESIDUOS
+ Y / U
+ OTROS
+ PRODUCTOS
+ O
+ SUSTANCIAS 48
+1.7. F ASE
+ DE
+ CIERRE
+ Y
+ ABANDONO 50
+1.7.1. D ESCRIPCIÓN
+ DE
+ ACTIVIDADES
+ DEL P ROYECTO
+ EN
+ LA
+ FASE
+ DE
+ CIERRE 50
+1.7.2. F ECHA
+ ESTIMADA
+ E
+ INDICACIÓN
+ DE
+ LA
+ PARTE, OBRA
+ O
+ ACCIÓN
+ QUE
+ ESTABLEZCA
+ EL
+ INICIO
+ Y
+ TÉRMINO
+ DE LA
+ FASE
+51
+1.7.3. C RONOGRAMA 51
+1.7.4. M ANO
+ DE
+ OBRA 51
+1.7.5. R ESTAURACIÓN
+ COMPONENTES
+ AMBIENTALES
+ AFECTADOS 51
+1.7.6. P REVENCIÓN
+ DE
+ FUTURAS
+ EMISIONES 52
+1.7.7. M ANTENCIÓN, CONSERVACIÓN
+ Y / O
+ SUPERVISIÓN 52
+1.7.8. E QUIPOS, MAQUINARIAS, INSUMOS
+ Y
+ SERVICIOS
+ EN
+ FASE
+ DE
+ CIERRE 52
+1.7.9. E MISIONES
+ DE
+ FASE
+ DE
+ CIERRE
+ Y
+ ABANDONO 53
+1.7.10. R ESIDUOS
+ DE
+ FASE
+ DE
+ CIERRE
+ Y
+ ABANDONO 54
+1.8. P LAN
+ DE
+ PREVENCIÓN
+ DE
+ RIESGOS, CONTINGENCIAS
+ Y
+ EMERGENCIAS 56
+
+### Listado
+ de
+ Tablas**
+
+T ABLA 1. I DENTIFICACIÓN
+ DEL
+ TITULAR
+ Y
+ EL
+ REPRESENTANTE
+ LEGAL 1
+T ABLA 2. C OORDENADAS
+ DE
+ EMPLAZAMIENTO
+ DE M AITENES
+ Y
+ SUS
+ OBRAS
+ PERMANENTES 4
+T ABLA 3. S UPERFICIE
+ Y
+ COORDENADAS UTM REFERENCIALES, DE
+ OBRAS
+ TEMPORALES, P ROYECTO M AITENES ( CIFRAS
+
+REDONDEADAS ) 9
+T ABLA 4. S UPERFICIE
+ DE
+ OBRAS
+ PERMANENTES M AITENES 9
+T ABLA 5. C ARACTERÍSTICAS
+ TIPO
+ MÓDULO
+ FOTOVOLTAICO
+ DE 250 W P . 13
+T ABLA 6. C ARACTERÍSTICAS
+ DE
+ LOS
+ INVERSORES
+ DE 500 K W 16
+T ABLA 7. C ARACTERÍSTICAS
+ DE
+ LA
+ RED
+ DE
+ DRENAJE 22
+T ABLA 8. E STIMACIÓN
+ DEL
+ MOVIMIENTO
+ DE
+ TIERRA 26
+T ABLA 9. C RONOGRAMA
+ DE
+ LA F ASE
+ DE C ONSTRUCCIÓN 33
+T ABLA 10. R EQUERIMIENTOS
+ DE
+ EQUIPOS
+ Y
+ MAQUINARIA
+ PARA
+ LA
+ CONSTRUCCIÓN
+ DE M AITENES 34
+T ABLA 11. R EQUERIMIENTOS
+ DE
+ SUSTANCIAS
+ PELIGROSAS
+ PARA
+ LA
+ CONSTRUCCIÓN
+ DE M AITENES 35
+T ABLA 12. E STIMACIÓN
+ DEL
+ NÚMERO
+ DE
+ VIAJES
+ EN
+ LA
+ FASE
+ DE
+ CONSTRUCCIÓN 37
+T ABLA 13. E MISIONES
+ ATMOSFÉRICAS . F ASE C ONSTRUCCIÓN 38
+T ABLA 14. G ENERACIÓN
+ DE
+ AGUAS
+ SERVIDAS
+ EN
+ FASE
+ DE
+ CONSTRUCCIÓN 38
+T ABLA 15. G ENERACIÓN
+ DE
+ RESIDUOS
+ SÓLIDOS
+ NO
+ PELIGROSOS
+ EN
+ FASE
+ DE
+ CONSTRUCCIÓN 40
+T ABLA 16. G ENERACIÓN
+ DE
+ RESIDUOS
+ PELIGROSOS
+ EN
+ FASE
+ DE
+ CONSTRUCCIÓN 41
+T ABLA 17. R ESUMEN
+ DE
+ LA
+ GENERACIÓN
+ DE
+ RESIDUOS
+ EN
+ FASE
+ DE
+ CONSTRUCCIÓN 42
+T ABLA 18. C RONOGRAMA
+ DE
+ LA F ASE
+ DE O PERACIÓN 44
+T ABLA 19. E MISIONES
+ ATMOSFÉRICAS . F ASE O PERACIÓN . 47
+T ABLA 20. G ENERACIÓN
+ DE
+ AGUAS
+ SERVIDAS
+ EN
+ FASE
+ DE
+ OPERACIÓN 48
+T ABLA 21. G ENERACIÓN
+ DE
+ RESIDUOS
+ SÓLIDOS
+ NO
+ PELIGROSOS
+
+ EN
+ FASE
+ DE
+ OPERACIÓN 49
+T ABLA 22.G ENERACIÓN
+ DE
+ RESIDUOS
+ SÓLIDOS
+ PELIGROSOS
+
+ EN
+ FASE
+ DE
+ OPERACIÓN 49
+T ABLA 23. G ENERACIÓN
+ TOTAL
+ DE
+ RESIDUOS
+ SÓLIDOS
+ EN
+ FASE
+ DE
+ OPERACIÓN 49
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+ii
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+T ABLA 24. C RONOGRAMA
+ DE
+ LA
+ FASE
+ DE
+ CIERRE
+ DEL
+ PROYECTO . 51
+T ABLA 25. E QUIPOS
+ Y
+ MAQUINARIAS
+ PARA
+ LA
+ CONSTRUCCIÓN
+ DEL P ROYECTO 52
+T ABLA 26. E MISIONES
+ ATMOSFÉRICAS . F ASE C IERRE . 53
+T ABLA 27. G ENERACIÓN
+ RESIDUOS
+ SÓLIDOS
+ NO
+ PELIGROSOS
+ FASE
+ DE
+ CIERRE 55
+T ABLA 28. R ESUMEN
+ RESIDUOS
+ FASE
+ DE
+ CIERRE 56
+
+### Listado
+ de
+ Fotografías**
+
+F OTOGRAFÍA 1. E STRUCTURA
+ DE
+ SOPORTE
+ DE
+ MÓDULOS
+ FOTOVOLTAICOS 14
+F OTOGRAFÍA 2. E STRUCTURA
+ DE
+ SOPORTE
+ CON
+ MÓDULOS
+ FOTOVOLTAICOS 14
+F OTOGRAFÍA 3. C AJAS
+ DE
+ CONEXIÓN 15
+F OTOGRAFÍA 4. I NVERSORES
+ Y
+ CABINA
+ ELÉCTRICA 16
+F OTOGRAFÍA 5. T RANSFORMADOR
+ DE
+ TRES
+ FASES
+ DE
+ RESINAS
+ ENCAPSULADO 17
+F OTOGRAFÍA 6. I NSTALACIÓN
+ DE
+ INTERRUPTORES
+ DE
+ MEDIA
+ TENSIÓN 18
+F OTOGRAFÍA 7. I NSTALACIÓN
+ DE
+ CABINA
+ DE
+ DISTRIBUCIÓN
+ E
+ INTERRUPTORES
+ DE
+ MEDIA
+ TENSIÓN 19
+F OTOGRAFÍA 8. E STACIÓN
+ METEOROLÓGICA 21
+F OTOGRAFÍA 9. C AMINOS
+ INTERIORES
+ DE M AITENES 22
+F OTOGRAFÍA 10. C ERCO
+ PERIMETRAL
+ GALVANIZADO 23
+F OTOGRAFÍA 11. P ORTÓN
+ DE
+ ACCESO
+ PLANTA M AITENES 24
+F OTOGRAFÍA 12. F IJACIÓN
+ DE
+ ESTRUCTURAS
+ DE
+ SOPORTE 28
+F OTOGRAFÍA 13. C ANALIZACIONES 29
+F OTOGRAFÍA 14. C ANALIZACIONES 29
+F OTOGRAFÍA 15. R ED
+ DE
+ DRENAJE 30
+F OTOGRAFÍA 16. B ASE
+ DE
+ HORMIGÓN
+ PARA
+ INSTALACIÓN
+ DE
+ CASETAS 31
+F OTOGRAFÍA 17. I NSTALACIÓN
+ DE
+ CASETAS 31
+
+### Listado
+ de
+ Figuras**
+
+F IGURA 1. L OCALIZACIÓN
+ GEOGRÁFICA
+ DEL
+ PROYECTO (WGS 84 19S) 4
+F IGURA 2. R UTAS
+ DE
+ ACCESO S AN A NTONIO - M AITENES . A) I-­‐80G, I-­‐20, H76; B) I-­‐80G, I-­‐50, H76 36
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+iii
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**1.**
+**Descripción
+ del
+ proyecto
+ o
+ actividad**
+
+**1.1.** **Identificación
+ del
+ titular
+ y
+ representante
+ legal**
+La
+ identificación
+ y
+ antecedentes
+ del
+ titular
+ se
+ presentan
+ en
+ la
+ Tabla
+ 1.
+
+**Tabla
+ 1.
+ Identificación
+ del
+ titular
+ y
+ el
+ representante
+ legal**
+
+|Nombre del Titular:|MAITENES SOLAR SPA|
+|---|---|
+|**Dirección:**|El Jacarandá 18424, Maipú|
+|**Rol Único Tributario:**|76.457.686-1|
+|**Ciudad:**|Santiago|
+|**Teléfono:**|(56) 964883049|
+|**Nombre del Representante Legal:**|Dario Di Leonardo|
+|**Cédula Nacional de Identidad:**|24.650.382-6|
+|**Dirección:**|Alsacia 145, Las Condes|
+|**Ciudad:**|Santiago|
+|**Teléfono:**|(56) 964883049|
+|**Correo electrónico:**|dariodileonardo@gmail.com|
+
+En
+ el
+ Anexo
+ 1.1
+ se
+ acompaña
+ la
+ documentación
+ que
+ acredita
+ la
+ identidad
+ del
+ titular
+ y
+ la
+ personería
+ del
+representante
+ legal.
+
+**1.2.** **Antecedentes
+ generales
+ del
+ proyecto**
+**1.2.1.** **Nombre
+ del
+ proyecto**
+
+El
+ proyecto
+ sometido
+ a
+ evaluación
+ se
+ denomina
+ “Planta
+ Fotovoltaica
+ Maitenes”,
+ en
+ adelante
+ e
+ indistintamente
+“Maitenes”
+ o
+ “el
+ Proyecto”.
+
+**1.2.2.** **Breve
+ descripción
+ del
+ proyecto**
+
+Maitenes
+ corresponde
+ a
+ un
+ proyecto
+ de
+ pequeños
+ medios
+ de
+ generación
+ (PMG),
+ que
+ producirá
+ energía
+eléctrica
+ a
+ través
+ de
+ energías
+ renovables
+ no
+ convencionales
+ (ERNC),
+ por
+ medio
+ de
+ la
+ construcción
+ de
+ una
+ central
+ de
+paneles
+ fotovoltaicos
+ para
+ la
+ captación
+ de
+ la
+ energía
+ solar,
+ que
+ inyectará
+ hasta
+ 9
+ MW
+ al
+ Sistema
+ Interconectado
+Central
+ (SIC)
+ en
+ media
+ tensión
+ (13,2
+ ó
+ 23
+ kV).
+
+El
+ Proyecto
+ se
+ compone
+ de
+ dos
+ elementos
+ principales,
+ a
+ saber:
+ i)
+ el
+ generador;
+ y,
+ ii)
+ el
+ sistema
+ de
+ conversión/
+transformación.
+ El
+ primero
+ contempla
+ la
+ instalación
+ de
+ 42.000
+ módulos
+ fotovoltaicos
+ (paneles
+ fotovoltaicos)
+ de
+250
+ Wp
+ de
+ potencia
+ nominal,
+ que
+ inyectará
+ 9
+ MW
+ al
+ SIC,
+ para
+ lo
+ cual
+ es
+ necesario
+ instalar
+ módulos
+ fotovoltaicos
+con
+ una
+ capacidad
+ de
+ planta
+ en
+ corriente
+ continua,
+ de
+ 10,5
+ MWp.
+ Estos
+ irán
+ dispuestos
+ sobre
+ estructuras
+ fijas
+ de
+28 [o] de
+ inclinación,
+ orientados
+ al
+ norte,
+ con
+ un
+ altura
+ máxima
+ de
+ 3
+ m,
+ utilizando
+ un
+ predio
+
+ de
+ 15
+ ha,
+ localizado
+ 7
+km
+ al
+ Noroeste
+ de
+ la
+ ciudad
+ de
+ Marchigüe,
+ en
+ la
+ comuna
+ homónima
+ de
+ la
+ Provincia
+ de
+ Cardenal
+ Caro,
+ en
+ la
+ Región
+del
+ Libertador
+ General
+ Bernardo
+ O’Higgins.
+ Dado
+ que
+ los
+ paneles
+ fotovoltaicos
+ producirán
+ energía
+ en
+ corriente
+continua,
+ el
+ segundo
+ elemento
+ corresponde
+ a
+ los
+ inversores
+ que
+ la
+ dejarán
+ como
+ corriente
+ alterna,
+ y
+ a
+ los
+transformadores
+ que
+ aumentarán
+ su
+ potencia
+ a
+ media
+ tensión
+ (13,2
+ ó
+ 23
+ kV).
+ La
+ energía
+ producida,
+ convertida
+ y
+transformada,
+ será
+ conducida
+ desde
+ un
+ centro
+ de
+ distribución,
+ por
+ un
+ cable
+ de
+ potencia
+ subterráneo
+ e
+ inyectada
+ al
+Sistema
+ Interconectado
+ Central
+ (SIC)
+ en
+ un
+ único
+ punto
+ de
+ conexión
+ a
+ la
+ red,
+ frente
+ al
+ predio
+ de
+ la
+ planta.
+ El
+ acceso
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+1
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+a
+ la
+ planta
+ desde
+ la
+ ruta
+ principal
+ más
+ cercana
+ (Ruta
+ H-­‐76)
+ será
+ por
+ un
+ camino
+ de
+ acceso
+ construido
+ para
+ tales
+fines,
+ que
+ se
+ complementará
+ con
+ vías
+ de
+ circulación
+ interior,
+ dentro
+ de
+ la
+ planta,
+ para
+ los
+ desplazamientos
+necesarios.
+
+La
+ construcción
+ se
+ estima
+ que
+ se
+ realizará
+ en
+ un
+ máximo
+ de
+ seis
+ meses
+ y
+ la
+ operación
+ de
+ la
+ planta
+ está
+programada,
+ inicialmente,
+ para
+ 25
+ años.
+ No
+ se
+ contempla
+ fase
+ de
+ abandono,
+ puesto
+ que
+ la
+ tecnología
+ podría
+renovarse
+ y
+ darle
+ continuidad
+ al
+ proyecto.
+
+La
+ planta
+ contará
+ con
+ un
+ cerco
+ perimetral,
+ portón
+ de
+ acceso
+ y
+ equipos
+ de
+ vigilancia
+ y
+ control.
+ La
+ operación
+ y
+vigilancia
+ de
+ la
+ planta
+ se
+ realizará
+ de
+ manera
+ remota
+ y
+ en
+ tiempo
+ real,
+ no
+ contemplándose
+ la
+ presencia
+ de
+trabajadores
+ en
+ las
+ instalaciones,
+ salvo
+ para
+ las
+ labores
+ de
+ mantención.
+
+Cabe
+ indicar
+ que
+ el
+ proyecto
+ Maitenes
+ se
+ ubica
+ contiguo
+ al
+ proyecto
+ Berlino,
+ actualmente
+ en
+ tramitación
+ y
+ que,
+para
+ fines
+ de
+ acceso
+ y
+ tránsito,
+ Maitenes
+ utilizaría
+ el
+ mismo
+ camino
+ del
+ primero,
+ por
+ la
+ vía
+ de
+ establecer
+ un
+contrato
+ de
+ uso
+ de
+ servidumbre
+ con
+ los
+ propietarios
+ del
+ primero.
+ Es
+ necesario
+ subrayar
+ también,
+ que
+ ambos
+proyectos
+ corresponden
+ a
+ sociedades
+ propietarias
+ diferentes
+ e
+ independientes.
+
+**1.2.3.** **Objetivo
+ general
+ del
+ proyecto
+ o
+ actividad**
+
+El
+ objetivo
+ del
+ Proyecto
+ es
+ producir
+ energía
+ eléctrica
+ aprovechando
+ la
+ luz
+ solar,
+ utilizando
+ energías
+ renovables
+no
+ convencionales
+ (ERNC),
+ potenciando
+ así
+ el
+ aprovechamiento
+ de
+ las
+ características
+ propias
+ de
+ la
+ zona
+ para
+ la
+producción
+ de
+ una
+ energía
+ limpia.
+
+Cabe
+ destacar
+ que
+ esta
+ forma
+ de
+ generación
+ eléctrica,
+ durante
+ su
+ operación,
+ no
+ está
+ asociada
+ a
+ ningún
+ tipo
+ de
+combustión
+ y
+ por
+ lo
+ tanto
+ no
+ existe
+ producción
+ de
+ material
+ particulado
+ o
+ emisiones
+ gaseosas
+ a
+ la
+ atmósfera.
+Tampoco
+ existe
+ ningún
+ tipo
+ de
+ descarga
+ líquida
+ ni
+ ruido.
+ Por
+ la
+ tecnología
+ de
+ paneles
+ empleada,
+ tampoco
+ hay
+reflexión
+ solar.
+ Finalmente,
+ la
+ limpieza
+ de
+ los
+ paneles,
+ sólo
+ se
+ realiza
+ con
+ agua
+ de
+ calidad
+ industrial
+ sin
+ uso
+ de
+químicos
+ ni
+ detergentes
+ de
+ ningún
+ tipo.
+
+**1.2.4.** **Tipología
+ del
+ proyecto
+ y
+ la
+ aplicable
+ a
+ sus
+ partes,
+ obras
+ y/o
+ acciones
+ de
+ acuerdo
+ al
+ Artículo
+ 3
+ del
+ RSEIA**
+
+El
+ Proyecto
+ se
+ somete
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental
+ (SEIA)
+ en
+ razón
+ de
+ lo
+ establecido
+ en
+ el
+artículo
+ 10
+ de
+ la
+ Ley
+ 19.300
+ Sobre
+ Bases
+ Generales
+ del
+ Medio
+ Ambiente
+ (LBGMA),
+ modificada
+ por
+ la
+ Ley
+ 20.417,
+ y
+el
+ artículo
+ 3
+ del
+ D.S.
+ N°40/2012,
+ Reglamento
+ del
+ Sistema
+ de
+ Impacto
+ Ambiental
+ (RSEIA),
+ señalan
+ aquellos
+ proyectos
+o
+ actividades
+ susceptibles
+ de
+ causar
+ impacto
+ ambiental,
+ en
+ cualesquiera
+ de
+ sus
+ fases,
+ que
+ deberán
+ someterse
+ al
+SEIA,
+ incluyendo
+ en
+ su
+ letra
+ c)
+ Centrales
+ generadoras
+ de
+ energía
+ mayores
+ a
+ 3
+ MW.
+
+En
+ virtud
+ de
+ lo
+ anterior,
+ y
+ dado
+ que
+ el
+ proyecto
+ considera
+ la
+ construcción
+ e
+ implementación
+ de
+ un
+ parque
+fotovoltaico
+ compuesto
+ por
+ 42.000
+ módulos
+ fotovoltaicos,
+ que
+ inyectará
+ 9
+ MW
+ al
+ SIC
+ y
+ que,
+ de
+ acuerdo
+ a
+ la
+normativa
+ ambiental
+ vigente,
+ debe
+ someterse
+ al
+ Sistema
+ de
+ Evaluación
+ de
+ Impacto
+ Ambiental.
+
+La
+ manera
+ de
+ ingreso
+ al
+ SEIA
+ corresponde
+ a
+ una
+ Declaración
+ de
+ Impacto
+ Ambiental
+ (DIA),
+ ya
+ que
+ Maitenes
+ no
+genera
+ ningún
+ efecto,
+ característica
+ o
+ circunstancia
+ como
+ las
+ señaladas
+ en
+ el
+ Artículo
+ 11
+ de
+ la
+ Ley
+ de
+ Bases
+Generales
+ del
+ Medio
+ Ambiente;
+ y
+ los
+ artículos
+ 5
+ al
+ 11
+ del
+ RSEIA,
+ que
+ establecen
+ los
+ criterios
+ para
+ la
+ presentación
+ de
+un
+ Estudio
+ de
+ Impacto
+ Ambiental.
+ Todo
+ lo
+ anterior
+ se
+ analiza
+ y
+ presenta
+ con
+ detalle
+ en
+ el
+ Capítulo
+ 2,
+ siguiente.
+
+**1.2.5.** **Modificación
+ de
+ proyecto
+ o
+ actividad**
+
+De
+ acuerdo
+ a
+ lo
+ expresado
+ en
+ el
+ Artículo
+ 12
+ del
+ D.S.N°
+ 40/12
+ del
+ Ministerio
+ del
+ Medio
+ Ambiente,
+ se
+ aclara
+ que
+la
+ Planta
+ Fotovoltaica
+ Maitenes
+ corresponde
+ a
+ un
+ proyecto
+ nuevo
+ y
+ no
+ a
+ una
+ modificación
+ de
+ otro
+ existente.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+2
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**1.2.6.** **Monto
+ estimado
+ de
+ la
+ inversión**
+
+El
+ monto
+ estimado
+ de
+ la
+ inversión
+ está
+ en
+ el
+ rango
+ de
+ los
+ 19-­‐20
+ millones
+ de
+ dólares
+ estadounidenses
+ (19-­‐20
+MM
+ USD).
+
+**1.2.7.** **Vida
+ útil
+ del
+ proyecto
+ o
+ actividad
+ y
+ de
+ sus
+ partes
+ u
+ obras
+ si
+ corresponde**
+
+El
+ proyecto
+ contempla
+ una
+ vida
+ útil
+ de
+ 25
+ años,
+ prorrogables;
+ momento
+ en
+ el
+ que
+ se
+ evaluará
+ la
+ conveniencia
+de
+ seguir
+ operando
+ el
+ parque,
+ renovar
+ su
+ tecnología
+ o
+ desmantelarlo.
+
+**1.2.8.** **Faena
+ mínima
+ que
+ dé
+ cuenta
+ de
+ la
+ ejecución
+ del
+ proyecto**
+
+De
+ acuerdo
+ a
+ lo
+ expresado
+ en
+ el
+ artículo
+ 16
+ del
+ RSEIA
+ (DS
+ 40/2012),
+ se
+ entenderá
+ como
+ el
+ inicio
+ de
+ la
+ ejecución
+del
+ Proyecto,
+ la
+ obtención
+ del
+ permiso
+ de
+ edificación
+ municipal,
+ que
+ permitirá
+ iniciar
+ las
+ labores
+ de
+ topografía
+ y
+demarcación
+ del
+ predio
+ de
+ Maitenes;
+ lo
+ cual
+ será
+ comunicado
+ a
+ la
+ autoridad
+ con
+ anterioridad.
+
+Esta
+ actividad
+ será
+ la
+ que
+ debe
+ considerarse
+ para
+ los
+ efectos
+ del
+ artículo
+ 25
+ ter
+ de
+ la
+ Ley
+ 20.417.
+
+**1.2.9.** **Negociación
+ con
+ interesados**
+
+No
+ se
+ realizaron
+ negociaciones
+ con
+ interesados
+ antes
+ del
+ ingreso
+ de
+ esta
+ DIA.
+
+**1.2.10.** **Desarrollo
+ de
+ proyectos
+ o
+ actividades
+ por
+ etapas**
+
+De
+ acuerdo
+ a
+ lo
+ solicitado
+ en
+ el
+ Artículo
+ 14
+ del
+ D.S.
+ N°40/12
+ MMA,
+ se
+ declara
+ que
+ el
+ Proyecto
+ “Planta
+Fotovoltaica
+ Maitenes”
+ se
+ realizará
+ en
+ una
+ sola
+ etapa.
+
+**1.3.** **Localización
+ del
+ proyecto**
+**1.3.1.** **División
+ político-­‐administrativa
+ a
+ nivel
+ regional,
+ provincial
+ y
+ comunal
+ en
+ la
+ que
+ se
+ localiza
+ el
+ proyecto**
+
+El
+ proyecto
+ se
+ encuentra
+ localizado
+ en
+ la
+ Región
+ del
+ Libertador
+ Bernardo
+ O’Higgins,
+ en
+ la
+ Provincia
+ de
+ Cardenal
+Caro
+ y
+ la
+ Comuna
+ de
+ Marchigüe,
+ en
+ un
+ predio
+ de
+ 57
+ ha
+ totales,
+ de
+ las
+ que
+ utilizará
+ 15
+ ha,
+ y
+ al
+ cual
+ se
+ accede
+ por
+ la
+ruta
+ H-­‐76.
+
+**1.3.2.** **Representación
+ cartográfica
+ (Datum
+ WGS
+ 84)**
+
+En
+ la
+ Figura
+ 1
+ se
+ muestra
+ la
+ ubicación
+ geográfica
+ del
+ proyecto.
+
+En
+ el
+ Anexo
+ 1.2
+ se
+ presenta
+ el _layout_ general
+ de
+ Maitenes.
+
+En
+ la
+ Tabla
+ 2
+ se
+ presentan
+ las
+ coordenadas
+ de
+ las
+ principales
+ zonas
+ de
+ Maitenes,
+ de
+ acuerdo
+ al _layout_ (Anexo
+1.2).
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+3
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Figura
+ 1.
+ Localización
+ geográfica
+ del
+ proyecto
+ (WGS
+ 84
+ 19S)**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Tabla
+ 2.
+ Coordenadas
+ de
+ emplazamiento
+ de
+ Maitenes
+ y
+ sus
+ obras
+ permanentes**
+
+|Zona/Obra/<br>Vértice|Coordenada UTM (WGS 84 19S)|Col3|
+|---|---|---|
+|**Zona/Obra/**<br>**Vértice**|**Este**|**Norte**|
+|**PolígonoMaitenes**|**PolígonoMaitenes**|**PolígonoMaitenes**|
+|1|263.456|6.195.924|
+|2|263.657|6.195.924|
+|3|263.697|6.195.859|
+|4|263.697|6.195.849|
+|5|263.480|6.195.434|
+|6|263.398|6.195.424|
+|7|263.241|6.195.332|
+|8|263.179|6.195.364|
+|9|263.179|6.195.392|
+|**ZonasdePanelesSolares**|**ZonasdePanelesSolares**|**ZonasdePanelesSolares**|
+|**Zona1**|**Zona1**|**Zona1**|
+|1|263.456|6.195.914|
+|2|263.510|6.195.914|
+|3|263.510|6.195.919|
+|4|263.577|6.195.919|
+|5|263.288|6.195.365|
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+4
+
+|Col1|Col2|Declaración de Impacto Ambiental<br>Proyecto Planta Fotovoltaica Maitenes<br>Comuna de Marchigüe<br>Abril de 2015 | Rev. 0|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|||**Zona/Obra/**<br>**Vértice**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|||
+|||**Zona/Obra/**<br>**Vértice**|**Este**|**Norte**|**Norte**|**Norte**|**Norte**|
+|||6|263.241|6.195.337|6.195.337|6.195.337|6.195.337|
+|||7|263.184|6.195.367|6.195.367|6.195.367|6.195.367|
+|||8|263.184|6.195.391|6.195.391|6.195.391|6.195.391|
+|||9|263.184|6.195.391|6.195.391|6.195.391|6.195.391|
+|||10|263.456|6.195.914|6.195.914|6.195.914|6.195.914|
+|||**Zona2**|**Zona2**|**Zona2**|**Zona2**|**Zona2**|**Zona2**|
+|||1|263.583|6.195.919|6.195.919|6.195.919|6.195.919|
+|||2|263.655|6.195.919|6.195.919|6.195.919|6.195.919|
+|||3|263.692|6.195.858|6.195.858|6.195.858|6.195.858|
+|||4|263.692|6.195.851|6.195.851|6.195.851|6.195.851|
+|||5|263.477|6.195.438|6.195.438|6.195.438|6.195.438|
+|||6|263.396|6.195.428|6.195.428|6.195.428|6.195.428|
+|||7|263.320|6.195.384|6.195.384|6.195.384|6.195.384|
+|||8|263.304|6.195.384|6.195.384|6.195.384|6.195.384|
+|||9|263.583|6.195.919|6.195.919|6.195.919|6.195.919|
+|||**CabinasdeMediaTensión(MT) **|**CabinasdeMediaTensión(MT) **|**CabinasdeMediaTensión(MT) **|**CabinasdeMediaTensión(MT) **|**CabinasdeMediaTensión(MT) **|**CabinasdeMediaTensión(MT) **|
+|||**A **|**A **|**A **|**A **|**A **|**A **|
+|||1|263.559|6.195.890|6.195.890|6.195.890|6.195.890|
+|||2|263.561|6.195.889|6.195.889|6.195.889|6.195.889|
+|||3|263.560|6.195.887|6.195.887|6.195.887|6.195.887|
+|||4|263.558|6.195.888|6.195.888|6.195.888|6.195.888|
+|||5|263.559|6.195.890|6.195.890|6.195.890|6.195.890|
+|||**B **|**B **|**B **|**B **|**B **|**B **|
+|||1|263.503|6.195.782|6.195.782|6.195.782|6.195.782|
+|||2|263.505|6.195.781|6.195.781|6.195.781|6.195.781|
+|||3|263.504|6.195.779|6.195.779|6.195.779|6.195.779|
+|||4|263.501|6.195.780|6.195.780|6.195.780|6.195.780|
+|||5|263.503|6.195.782|6.195.782|6.195.782|6.195.782|
+|||**C **|**C **|**C **|**C **|**C **|**C **|
+|||1|263.446|6.195.673|6.195.673|6.195.673|6.195.673|
+|||2|263.448|6.195.672|6.195.672|6.195.672|6.195.672|
+|||3|263.447|6.195.670|6.195.670|6.195.670|6.195.670|
+|||4|263.445|6.195.671|6.195.671|6.195.671|6.195.671|
+|||5|263.446|6.195.673|6.195.673|6.195.673|6.195.673|
+|||**D **|**D **|**D **|**D **|**D **|**D **|
+|||1|263.390|6.195.566|6.195.566|6.195.566|6.195.566|
+|||2|263.392|6.195.565|6.195.565|6.195.565|6.195.565|
+|||3|263.391|6.195.563|6.195.563|6.195.563|6.195.563|
+|||4|263.389|6.195.564|6.195.564|6.195.564|6.195.564|
+|||5|263.390|6.195.566|6.195.566|6.195.566|6.195.566|
+|||**E **|**E **|**E **|**E **|**E **|**E **|
+|||1|263.334|6.195.459|6.195.459|6.195.459|6.195.459|
+|||2|263.336|6.195.457|6.195.457|6.195.457|6.195.457|
+|||3|263.335|6.195.455|6.195.455|6.195.455|6.195.455|
+|||4|263.333|6.195.456|6.195.456|6.195.456|6.195.456|
+|||5|263.334|6.195.459|6.195.459|6.195.459|6.195.459|
+|||**Cabinasbajatensión/mediatensión(BT/MT)**|**Cabinasbajatensión/mediatensión(BT/MT)**|**Cabinasbajatensión/mediatensión(BT/MT)**|**Cabinasbajatensión/mediatensión(BT/MT)**|**Cabinasbajatensión/mediatensión(BT/MT)**|**Cabinasbajatensión/mediatensión(BT/MT)**|
+|||**A **|**A **|**A **|**A **|**A **|**A **|
+|||1|263.562|6.195.897|6.195.897|6.195.897|6.195.897|
+|||2|263.565|6.195.896|6.195.896|6.195.896|6.195.896|
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+5
+
+|Col1|Col2|Declaración de Impacto Ambiental<br>Proyecto Planta Fotovoltaica Maitenes<br>Comuna de Marchigüe<br>Abril de 2015 | Rev. 0|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|||**Zona/Obra/**<br>**Vértice**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|||
+|||**Zona/Obra/**<br>**Vértice**|**Este**|**Norte**|**Norte**|**Norte**|**Norte**|
+|||3|263.561|6.195.889|6.195.889|6.195.889|6.195.889|
+|||4|263.559|6.195.890|6.195.890|6.195.890|6.195.890|
+|||5|263.562|6.195.897|6.195.897|6.195.897|6.195.897|
+|||6|263.558|6.195.888|6.195.888|6.195.888|6.195.888|
+|||7|263.560|6.195.887|6.195.887|6.195.887|6.195.887|
+|||8|263.557|6.195.880|6.195.880|6.195.880|6.195.880|
+|||9|263.554|6.195.881|6.195.881|6.195.881|6.195.881|
+|||10|263.558|6.195.888|6.195.888|6.195.888|6.195.888|
+|||**B **|**B **|**B **|**B **|**B **|**B **|
+|||1|263.506|6.195.789|6.195.789|6.195.789|6.195.789|
+|||2|263.504|6.195.779|6.195.779|6.195.779|6.195.779|
+|||3|263.500|6.195.772|6.195.772|6.195.772|6.195.772|
+|||4|263.498|6.195.773|6.195.773|6.195.773|6.195.773|
+|||5|263.506|6.195.789|6.195.789|6.195.789|6.195.789|
+|||6|263.501|6.195.780|6.195.780|6.195.780|6.195.780|
+|||7|263.504|6.195.779|6.195.779|6.195.779|6.195.779|
+|||8|263.500|6.195.772|6.195.772|6.195.772|6.195.772|
+|||9|263.498|6.195.773|6.195.773|6.195.773|6.195.773|
+|||10|263.501|6.195.780|6.195.780|6.195.780|6.195.780|
+|||**C **|**C **|**C **|**C **|**C **|**C **|
+|||1|263.449|6.195.680|6.195.680|6.195.680|6.195.680|
+|||2|263.452|6.195.679|6.195.679|6.195.679|6.195.679|
+|||3|263.448|6.195.672|6.195.672|6.195.672|6.195.672|
+|||4|263.446|6.195.673|6.195.673|6.195.673|6.195.673|
+|||5|263.449|6.195.680|6.195.680|6.195.680|6.195.680|
+|||6|263.445|6.195.671|6.195.671|6.195.671|6.195.671|
+|||7|263.447|6.195.670|6.195.670|6.195.670|6.195.670|
+|||8|263.444|6.195.663|6.195.663|6.195.663|6.195.663|
+|||9|263.441|6.195.665|6.195.665|6.195.665|6.195.665|
+|||10|263.445|6.195.671|6.195.671|6.195.671|6.195.671|
+|||**D **|**D **|**D **|**D **|**D **|**D **|
+|||1|263.394|6.195.573|6.195.573|6.195.573|6.195.573|
+|||2|263.396|6.195.571|6.195.571|6.195.571|6.195.571|
+|||3|263.392|6.195.565|6.195.565|6.195.565|6.195.565|
+|||4|263.390|6.195.566|6.195.566|6.195.566|6.195.566|
+|||5|263.394|6.195.573|6.195.573|6.195.573|6.195.573|
+|||6|263.389|6.195.564|6.195.564|6.195.564|6.195.564|
+|||7|263.391|6.195.563|6.195.563|6.195.563|6.195.563|
+|||8|263.388|6.195.556|6.195.556|6.195.556|6.195.556|
+|||9|263.385|6.195.557|6.195.557|6.195.557|6.195.557|
+|||10|263.389|6.195.564|6.195.564|6.195.564|6.195.564|
+|||**E **|**E **|**E **|**E **|**E **|**E **|
+|||1|263.338|6.195.465|6.195.465|6.195.465|6.195.465|
+|||2|263.340|6.195.464|6.195.464|6.195.464|6.195.464|
+|||3|263.336|6.195.457|6.195.457|6.195.457|6.195.457|
+|||4|263.330|6.195.450|6.195.450|6.195.450|6.195.450|
+|||5|263.338|6.195.465|6.195.465|6.195.465|6.195.465|
+|||6|263.333|6.195.456|6.195.456|6.195.456|6.195.456|
+|||7|263.335|6.195.455|6.195.455|6.195.455|6.195.455|
+|||8|263.332|6.195.449|6.195.449|6.195.449|6.195.449|
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+6
+
+|Col1|Col2|Declaración de Impacto Ambiental<br>Proyecto Planta Fotovoltaica Maitenes<br>Comuna de Marchigüe<br>Abril de 2015 | Rev. 0|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|||**Zona/Obra/**<br>**Vértice**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|||
+|||**Zona/Obra/**<br>**Vértice**|**Este**|**Norte**|**Norte**|**Norte**|**Norte**|
+|||9|263.330|6.195.450|6.195.450|6.195.450|6.195.450|
+|||10|263.333|6.195.456|6.195.456|6.195.456|6.195.456|
+|||**Estacióndedistribución**|**Estacióndedistribución**|**Estacióndedistribución**|**Estacióndedistribución**|**Estacióndedistribución**|**Estacióndedistribución**|
+|||1|263.471|6.195.925|6.195.925|6.195.925|6.195.925|
+|||2|263.471|6.195.922|6.195.922|6.195.922|6.195.922|
+|||3|263.479|6.195.922|6.195.922|6.195.922|6.195.922|
+|||4|263.479|6.195.925|6.195.925|6.195.925|6.195.925|
+|||5|263.471|6.195.925|6.195.925|6.195.925|6.195.925|
+|||**Cabinademedida**<br><br>|**Cabinademedida**<br><br>|**Cabinademedida**<br><br>|**Cabinademedida**<br><br>|**Cabinademedida**<br><br>|**Cabinademedida**<br><br>|
+|||1|263.468 <br>|6.195.925 <br>|6.195.925 <br>|6.195.925 <br>|6.195.925 <br>|
+|||2|263.468 <br>|6.195.922 <br>|6.195.922 <br>|6.195.922 <br>|6.195.922 <br>|
+|||3|263.471 <br>|6.195.922 <br>|6.195.922 <br>|6.195.922 <br>|6.195.922 <br>|
+|||4|263.471 <br>|6.195.925 <br>|6.195.925 <br>|6.195.925 <br>|6.195.925 <br>|
+|||5|263.468|6.195.925|6.195.925|6.195.925|6.195.925|
+|||**CabinadeControly Vigilancia(SCADA)**|**CabinadeControly Vigilancia(SCADA)**|**CabinadeControly Vigilancia(SCADA)**|**CabinadeControly Vigilancia(SCADA)**|**CabinadeControly Vigilancia(SCADA)**|**CabinadeControly Vigilancia(SCADA)**|
+|||1|263.483|6.195.923|6.195.923|6.195.923|6.195.923|
+|||2|263.490|6.195.923|6.195.923|6.195.923|6.195.923|
+|||3|263.490|6.195.921|6.195.921|6.195.921|6.195.921|
+|||4|263483|6.195.921|6.195.921|6.195.921|6.195.921|
+|||5|263.483|6.195.923|6.195.923|6.195.923|6.195.923|
+|||**Bodegay taller**|**Bodegay taller**|**Bodegay taller**|**Bodegay taller**|**Bodegay taller**|**Bodegay taller**|
+|||1|263.492|6.195.923|6.195.923|6.195.923|6.195.923|
+|||2|263.498|6.195.923|6.195.923|6.195.923|6.195.923|
+|||3|263.498|6.195.921|6.195.921|6.195.921|6.195.921|
+|||4|263.492|6.195.921|6.195.921|6.195.921|6.195.921|
+|||5|263.492|6.195.923|6.195.923|6.195.923|6.195.923|
+|||**CabledePotencia**|**CabledePotencia**|**CabledePotencia**|**CabledePotencia**|**CabledePotencia**|**CabledePotencia**|
+|||1|263.472|6.195.925|6.195.925|6.195.925|6.195.925|
+|||2|263.455|6.195.936|6.195.936|6.195.936|6.195.936|
+|||3|263.416|6.195.952|6.195.952|6.195.952|6.195.952|
+|||4|263.390|6.195.964|6.195.964|6.195.964|6.195.964|
+|||5|263.378|6.195.969|6.195.969|6.195.969|6.195.969|
+|||6|263.254|6.196.065|6.196.065|6.196.065|6.196.065|
+|||7|263.195|6.195.990|6.195.990|6.195.990|6.195.990|
+|||8|263.188|6.195.986|6.195.986|6.195.986|6.195.986|
+|||9|263.074|6.195.987|6.195.987|6.195.987|6.195.987|
+|||10|263.026|6.196.020|6.196.020|6.196.020|6.196.020|
+|||11|263.051|6.196.087|6.196.087|6.196.087|6.196.087|
+|||12|262.790|6.196.263|6.196.263|6.196.263|6.196.263|
+|||**PuntodeConexión**|**PuntodeConexión**|**PuntodeConexión**|**PuntodeConexión**|**PuntodeConexión**|**PuntodeConexión**|
+|||PC|262.782|6.196.273|6.196.273|6.196.273|6.196.273|
+|||**Caminodeacceso**|**Caminodeacceso**|**Caminodeacceso**|**Caminodeacceso**|**Caminodeacceso**|**Caminodeacceso**|
+|||1|262.788|6.196.263|6.196.263|6.196.263|6.196.263|
+|||2|263.033|6.196.098|6.196.098|6.196.098|6.196.098|
+|||3|263.042|6.196.086|6.196.086|6.196.086|6.196.086|
+|||4|263.041|6.196.072|6.196.072|6.196.072|6.196.072|
+|||5|263.025|6.196.031|6.196.031|6.196.031|6.196.031|
+|||6|263.024|6.196.020|6.196.020|6.196.020|6.196.020|
+|||7|263.030|6.196.012|6.196.012|6.196.012|6.196.012|
+|||8|263.065|6.195.989|6.195.989|6.195.989|6.195.989|
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+7
+
+|Col1|Col2|Declaración de Impacto Ambiental<br>Proyecto Planta Fotovoltaica Maitenes<br>Comuna de Marchigüe<br>Abril de 2015 | Rev. 0|Col4|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|||**Zona/Obra/**<br>**Vértice**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|**CoordenadaUTM(WGS8419S)**|||
+|||**Zona/Obra/**<br>**Vértice**|**Este**|**Norte**|**Norte**|**Norte**|**Norte**|
+|||9|263.071|6.195.987|6.195.987|6.195.987|6.195.987|
+|||10|263.076|6.195.986|6.195.986|6.195.986|6.195.986|
+|||11|263.187|6.195.986|6.195.986|6.195.986|6.195.986|
+|||12|263.192|6.195.987|6.195.987|6.195.987|6.195.987|
+|||13|263.195|6.195.990|6.195.990|6.195.990|6.195.990|
+|||14|263.253|6.196.064|6.196.064|6.196.064|6.196.064|
+|||15|263.376|6.195.969|6.195.969|6.195.969|6.195.969|
+|||16|263.388|6.195.964|6.195.964|6.195.964|6.195.964|
+|||17|263.389|6.195.961|6.195.961|6.195.961|6.195.961|
+|||18|263.412|6.195.952|6.195.952|6.195.952|6.195.952|
+|||19|263.415|6.195.953|6.195.953|6.195.953|6.195.953|
+|||20|263.454|6.195.937|6.195.937|6.195.937|6.195.937|
+|||21|263.484|6.195.937|6.195.937|6.195.937|6.195.937|
+|||22|263.490|6.195.931|6.195.931|6.195.931|6.195.931|
+|||23|263.490|6.195.924|6.195.924|6.195.924|6.195.924|
+|||24|263.456|6.195.924|6.195.924|6.195.924|6.195.924|
+|||25|263.451|6.195.931|6.195.931|6.195.931|6.195.931|
+|||26|263.373|6.195.963|6.195.963|6.195.963|6.195.963|
+|||27|263.254|6.196.056|6.196.056|6.196.056|6.196.056|
+|||28|263.195|6.195.980|6.195.980|6.195.980|6.195.980|
+|||**Caminoperimetralexterior**|**Caminoperimetralexterior**|**Caminoperimetralexterior**|**Caminoperimetralexterior**|**Caminoperimetralexterior**|**Caminoperimetralexterior**|
+|||1|263.179|6.195.392|6.195.392|6.195.392|6.195.392|
+|||2|263.179|6.195.364|6.195.364|6.195.364|6.195.364|
+|||3|263.162|6.195.372|6.195.372|6.195.372|6.195.372|
+|||4|263.452|6.195.930|6.195.930|6.195.930|6.195.930|
+|||5|263.661|6.195.930|6.195.930|6.195.930|6.195.930|
+|||6|263.706|6.195.855|6.195.855|6.195.855|6.195.855|
+|||7|263.489|6.195.438|6.195.438|6.195.438|6.195.438|
+|||8|263.480|6.195.434|6.195.434|6.195.434|6.195.434|
+|||9|263.697|6.195.849|6.195.849|6.195.849|6.195.849|
+|||10|263.697|6.195.859|6.195.859|6.195.859|6.195.859|
+|||11|263.657|6.195.924|6.195.924|6.195.924|6.195.924|
+|||12|263.456|6.195.924|6.195.924|6.195.924|6.195.924|
+|||13|263.489|6.195.434|6.195.434|6.195.434|6.195.434|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales
+
+**1.3.3.** **Superficie
+ total**
+
+Maitenes
+ se
+ emplazará
+ en
+ un
+ predio
+ de
+ 15
+ ha.
+ En
+ este
+ se
+ contemplan
+ las
+ áreas
+ asociadas
+ a
+ la
+ ubicación
+ de
+ los
+paneles
+ fotovoltaicos,
+ las
+ cabinas
+ eléctricas
+ de
+ media
+ tensión/baja
+ tensión
+ (MV/LV),
+ las
+ celdas
+ de
+ media
+ tensión
+(MV),
+ la
+ estación
+ de
+ distribución
+ de
+ media
+ tensión
+ (EDMT),
+ la
+ cabina
+ de
+ control
+ y
+ vigilancia
+ (SCADA,
+ por
+ sus
+ siglas
+en
+ inglés),
+ los
+ caminos
+ internos
+ y
+ camino
+ de
+ acceso.
+ El
+ perímetro
+ del
+ área
+ del
+ Proyecto
+ estará
+ definido
+ por
+ el
+ cerco
+perimetral
+ en
+ los
+ límites
+ de
+ la
+ planta.
+ El
+ detalle
+ de
+ las
+ superficies
+ asociadas
+ a
+ las
+ obras,
+ permanentes
+ y
+ sus
+coordenadas
+ referenciales
+ se
+ presentan
+ en
+ la
+ Tabla
+ 3
+ y
+ las
+ obras
+ permanentes
+ en
+ laTabla
+ 4.
+
+El _layout_ general
+ de
+ la
+ planta
+ se
+ presenta
+ en
+ el
+ Anexo
+ 1.2.
+ Las
+ obras
+ temporales
+ (Instalación
+ de
+ Faenas)
+ se
+presentan
+ en
+ el
+ Anexo
+ 1.3 .
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+8
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 3.
+ Superficie
+ y
+ coordenadas
+ UTM
+ referenciales,
+ de
+ obras
+ temporales,
+ Proyecto
+ Maitenes
+ (cifras**
+
+|Tabla
+ 3.
+
+ Superficie
+ y
+ coordenadas
+ UTM
+ referenciales,
+ de
+ obras
+ tempor redondeadas)|Col2|rales,
+ Proyecto
+ Maitenes
+ (cifras|Col4|
+|---|---|---|---|
+|<br> <br>|<br> <br>|CoordenadasUTM(WGS84H19S)|CoordenadasUTM(WGS84H19S)|
+|Obra|Superficie(m~~2~~)|Este|Norte|
+|Estacionamientosdemaquinariay vehículos|278|263.512|6.195.955|
+|Estacionamientosdevehículos|156|263.558|6.195.947|
+|Almacenamientodemateriales|765|263.475|6.195.950|
+|Áreademaniobras|1.708|263.510|6.195.943|
+|Portería|8|263.497|6.195.934|
+|Depósito& Taller|16|263.504|6.195.934|
+|Vestuarios& WC|30|263.587|6.195.936|
+|Oficinas|30|263.595|6.195.936|
+|Comedor|38|263.604|6.195.936|
+|Zona acopio residuos domésticos y asimilables a<br>domésticos|16|263.531|6.195.952|
+|Zonaacopioresiduosnopeligrosos|65|263.534|6.195.946|
+|Zona bodega común de Sustancias Peligrosas<br>(SUSPEL)y ResiduosPeligrosos( RESPEL)|9|263.528|6.195.934|
+|ZonaresguardobodegacomúnRESPELy SUSPEL|112|263.529|6.195.936|
+|Zonadeabastecimientodecombustible|81|263.572|6.195.935|
+|Zonagruposelectrógenos|10|263.580|6.195.935|
+|Zona estanques agua sanitaria|10|263.610|6.195.936|
+|Zona estanques agua sanitaria|10|263.500|6.195.933|
+|Total|3.332|||
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Tabla
+ 4.
+ Superficie
+ de
+ obras
+ permanentes
+ Maitenes**
+
+|Obra|Cantidad|Unidad|
+|---|---|---|
+|Caminodeaccesoy externas(a)|10.070|m~~2~~ <br>|
+|Caminosinteriores|12.250|m~~2~~ <br>|
+|Zonapanelesfotovoltaicos|136.250|m~~2~~ <br>|
+|Cabinaseléctricas|218,3|m~~2~~ <br>|
+|Estacióndecontroly vigilancia|10|m~~2~~ <br>|
+|Estacióndedistribución|19|m~~2~~ <br>|
+|Cabinademedida|6,25|m~~2~~ <br>|
+|Bodega/Taller|14,8|m~~2~~ <br>|
+|Cabledepotencia/evacuación(b)|252|m~~2~~|
+|Total|159.090,35||
+
+**a** :
+ El
+ acceso
+ será
+ compartido
+ con
+ el
+ proyecto
+ Berlino
+ (en
+ evaluación),
+ por
+ medio
+ de
+ un
+ contrato
+ de
+ uso
+ de
+ servidumbre;
+ razón
+ por
+ la
+ cual
+sólo
+ se
+ ha
+ considerado
+ lo
+ correspondiente
+ a
+ Maitenes.
+
+**b** :
+ Este
+ segmento
+ de
+ la
+ ruta
+ del
+ cable
+ de
+ conducción
+ también
+ será
+ compartido
+ con
+ la
+ del
+ proyecto
+ Berlino
+ (en
+ evaluación),
+ por
+ medio
+ de
+ un
+contrato
+ de
+ uso
+ de
+ servidumbre),
+ razón
+ por
+ la
+ cual
+ sólo
+ se
+ ha
+ considerado
+ lo
+ correspondiente
+ a
+ Maitenes.
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+9
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**1.3.4.** **Camino
+ de
+ acceso**
+
+Se
+ accederá
+ a
+ Maitenes
+ por
+ un
+ camino
+ de
+ acceso
+ perteneciente
+ al
+ proyecto
+ Berlino,
+ contiguo
+ a
+ Maitenes
+ y
+actualmente
+ en
+ evaluación,
+ con
+ quienes
+ se
+ establecerá
+ un
+ contrato
+ de
+ uso
+ de
+ servidumbre.
+ Este
+ camino
+ empalma
+con
+ la
+ Ruta
+ H-­‐76,
+ en
+ las
+ coordenadas
+ 262.785,68
+ E
+ -
+ 6.196.259,8
+ N
+ (UTM
+ WGS
+ 84).
+ El
+ camino
+ de
+ acceso
+ será
+ de
+material
+ estabilizado
+ y
+ compactado,
+ de
+ una
+ extensión,
+ desde
+ el
+ empalme
+ con
+ la
+ servidumbre
+ y
+ del
+ camino
+ y
+ hasta
+la
+ entrada
+ a
+ la
+ planta
+ Maitenes,
+ de
+ XXX
+ m
+ y
+ un
+ ancho
+ de
+ XXX
+ m
+ Anexo
+ 1.4).
+
+**1.3.5.** **Justificación
+ de
+ la
+ localización**
+
+El
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ fue
+ seleccionada
+ por
+ Maitenes
+ Solar
+ Spa,
+ por
+ sus
+ altos
+ niveles
+ de
+radiación
+ solar,
+ apropiados
+ para
+ la
+ operación
+ rentable
+ de
+ una
+ planta
+ fotovoltaica;
+ así
+ como
+ por
+ contar
+ con
+características
+ geográficas
+ adecuadas
+ para
+ su
+ correcta
+ implementación
+ y
+ operación.
+
+Los
+ criterios
+ para
+ justificar
+ la
+ elección
+ del
+ emplazamiento
+ de
+ Maitenes,
+ fueron:
+
+ Altos
+ niveles
+ de
+ radiación
+ solar;
+ Compatibilidad
+ territorial
+ con
+ los
+ planes
+ reguladores
+ vigentes;
+ Proximidad
+ a
+ infraestructura
+ energética;
+ Disponibilidad
+ de
+ terreno
+ con
+ topografía
+ compatible
+ para
+ disponer
+ el
+ Proyecto;
+ y
+ Accesibilidad
+ al
+ área
+ de
+ emplazamiento
+ del
+ Proyecto.
+
+**1.4.** **Descripción
+ de
+ las
+ partes,
+ acciones
+ y
+ obras
+ físicas
+ del
+ Proyecto**
+
+**1.4.1.** **Criterios
+ ambientales
+ generales
+ para
+ el
+ diseño
+ de
+ Maitenes**
+
+El
+ diseño
+ de
+ la
+ planta
+ fotovoltaica
+ se
+ hizo
+ considerando
+ una
+ vida
+ útil
+ de
+ los
+ paneles
+ fotovoltaicos
+ de,
+ al
+ menos,
+25
+ años.
+ Lo
+ mismo
+ para
+ la
+ elección
+ de
+ las
+ otras
+ partes
+ y
+ piezas
+ elegidas
+ para
+ la
+ construcción
+ y
+ equipamiento
+ de
+ la
+planta.
+ Todo
+ lo
+ anterior
+ en
+ función
+ de
+ alcanzar
+ máxima
+ adecuación
+ y
+ resistencia
+ a
+ los
+ factores
+ climáticos
+ tales
+como
+ resistencia
+ a
+ las
+ lluvias
+ y
+ la
+ corrosión,
+ resistencia
+ a
+ la
+ temperatura
+ y
+ la
+ radiación
+ UV.
+ Estas
+ consideraciones
+fueron
+ hechas
+ pensando
+ en
+ construir
+ una
+ planta
+ en
+ la
+ que
+ el
+ riesgo
+ de
+ falla
+ sea
+ llevado
+ a
+ su
+ nivel
+ más
+ bajo,
+ y
+cuente
+ con
+ la
+ mayor
+ autonomía
+ posible,
+ cumpliendo
+ todo
+ los
+ estándares
+ de
+ seguridad
+ y
+ desempeño
+ que
+garanticen
+ su
+ funcionamiento
+ regular
+ durante
+ la
+ etapa
+ de
+ operación.
+
+ En
+ ese
+ sentido,
+ los
+ materiales
+ y
+ componentes
+utilizados
+ cumplirán
+ con
+ todas
+ las
+ normativas
+ de
+ calidad
+ chilenas
+ y
+ también
+ los
+ estándares
+ internacionales
+ que
+sean
+ del
+ caso
+ considerar.
+
+Las
+ instalaciones
+ (partes
+ y
+ obras
+ físicas)
+ que
+ conforman
+ este
+ parque
+ fotovoltaico,
+ se
+ componen
+ de
+ obras
+temporales
+ y
+ permanentes.
+
+Las
+ primeras
+ corresponden
+ fundamentalmente
+ a
+ la
+ instalación
+ de
+ faenas
+ y
+ todo
+ lo
+ contenido
+ dentro
+ de
+ su
+perímetro,
+ que
+ serán
+ necesarias
+ para
+ la
+ etapa
+ de
+ construcción
+ de
+ Maitenes
+ (Tabla
+ 3;
+ Anexos
+ 1.2,
+ 1.3
+ );
+ luego
+ de
+ lo
+cual
+ serán
+ desmanteladas
+ y
+ retiradas
+ del
+ lugar,
+ reacondicionando,
+ si
+ fuera
+ necesario,
+ las
+ superficies
+ utilizadas.
+
+Las
+ segundas,
+ corresponden
+ a
+ los
+ módulos
+ fotovoltaicos,
+ sus
+ estructuras
+ de
+ soporte
+ y
+ conexión,
+ las
+ cabinas
+eléctricas
+ con
+ los
+ inversores
+ y
+ centros
+ de
+ trasformación
+ (MT/BT;
+ MT),
+ las
+ instalaciones
+ de
+ control
+ y
+ vigilancia
+(SCADA),
+ el
+ Centro
+ de
+ Distribución,
+ el
+ cable
+ de
+ potencia
+ o
+ evacuación
+ con
+ el
+ que
+ la
+ planta
+ se
+ conectará
+ a
+ la
+ red
+ de
+distribución,
+ el
+ camino
+ de
+ acceso
+ y
+ caminos
+ internos
+ de
+ la
+ planta,
+ la
+ red
+ de
+ drenaje
+ (Tabla
+ 4;
+ Anexos
+ 1.2,
+ 1.4,
+ 1.5,
+1.6,
+ 1.7,
+ 1.8
+ ).
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+10
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**1.4.2.** **Obras
+ temporales**
+
+Para
+ la
+ fase
+ de
+ construcción
+ del
+ proyecto
+ Parque
+ Fotovoltaico
+ Maitenes
+ Solar
+ se
+ contempla
+ la
+ implementación
+de
+ una
+ instalación
+ de
+ faena,
+ dentro
+ de
+ la
+ cual
+ se
+ ubicarán
+ los
+ sectores
+ y
+ obras
+ destinados
+ al
+ almacenamiento
+ de
+insumos,
+ materiales
+ y
+ herramientas;
+ las
+ oficinas,
+ comedores,
+ servicios
+ sanitarios
+ y
+ vestidores,
+ así
+ como
+ las
+ áreas
+ de
+estacionamiento
+ de
+ vehículos
+ y
+ maquinarias
+ (Anexo
+ 1.3).
+
+Estas
+ instalaciones
+ constituirán
+ el
+ centro
+ de
+ operaciones
+ desde
+ donde
+ se
+ coordinarán
+ los
+ trabajos
+ de
+ la
+ obra
+ y
+contarán
+ con
+ todos
+ los
+ requisitos
+ señalados
+ en
+ el
+ artículo
+ 28
+ del
+ D.S.
+ N°594
+ del
+ Ministerio
+ de
+ Salud
+ (MINSAL),
+ que
+aprueba
+ el
+ Reglamento
+ Sobre
+ Condiciones
+ Sanitarias
+ y
+ Ambientales
+ Básicas
+ en
+ los
+ Lugares
+ de
+ Trabajo.
+
+La
+ instalación
+ de
+ faenas
+ se
+ realizará
+ sobre
+ fundaciones
+ de
+ madera
+ (tacos
+ de
+ apoyo)
+ o
+ de
+ hormigón
+ y
+ se
+ montará
+la
+ infraestructura
+ consistente
+ principalmente
+ en
+ contenedores
+ adaptados.
+ Los
+ materiales,
+ equipos
+ y
+ estructuras
+ se
+transportarán
+ mediante
+ camiones.
+ La
+ instalación
+ de
+ faenas
+ tendrá
+ la
+ siguiente
+ configuración
+ general
+ (Anexo
+ 1.3,
+Tabla
+ 3):
+
+ Acceso
+ o
+ Portería:
+ la
+ portería
+ será
+ una
+ oficina
+ modular
+ de
+ tipo
+ metálico.
+ Será
+ el
+ control
+ de
+ acceso
+ para
+
+la
+ instalación
+ de
+ faena;
+ Oficinas:
+ estarán
+ habilitadas
+ para
+ personal
+ contratista,
+ serán
+ contenedores
+ modulares;
+ Comedor:
+ se
+ habilitará
+ un
+ comedor,
+ del
+ tipo
+ contenedor
+ metálico,
+ para
+ la
+ alimentación
+ de
+ los
+
+trabajadores.
+ Los
+ alimentos
+ serán
+ provistos
+ por
+ una
+ empresa
+ local
+ autorizada
+ por
+ la
+ autoridad
+sanitaria
+ en
+ las
+ cercanías
+ de
+ la
+ obra.
+ Cabe
+ hacer
+ presente
+ que
+ no
+ se
+ considera
+ la
+ preparación
+ de
+alimentos
+ en
+ las
+ instalaciones
+ de
+ faena
+ sino
+ sólo
+ su
+ consumo;
+ Vestidores:
+ los
+ vestidores
+ estarán
+ ubicados
+ a
+ un
+ costado
+ de
+ los
+ servicios
+ sanitarios
+ y
+ contarán
+ con
+
+casilleros
+ para
+ que
+ los
+ trabajadores
+ dejen
+ sus
+ ropas
+ de
+ trabajo.
+ Al
+ igual
+ que
+ las
+ instalaciones
+ antes
+descritas,
+ consistirán
+ en
+ contenedores
+ metálicos
+ que
+ permitan
+ una
+ correcta
+ ventilación
+ y
+luminosidad;
+ Servicios
+ sanitarios:
+ en
+ la
+ instalación
+ de
+ faenas,
+ se
+ dispondrá
+ de
+ baños
+ químicos
+ en
+ cantidades
+
+establecidas
+ en
+ los
+ artículos
+ 23
+ y
+ 24
+ del
+ D.S.
+ No
+ 594/1999
+ MINSAL.
+ El
+ servicio
+ de
+ instalación
+ y
+mantención
+ de
+ los
+ baños
+ químicos
+ será
+ contratado
+ a
+ empresas
+ autorizadas
+ por
+ la
+ SEREMI
+ de
+ Salud
+regional.
+ Del
+ mismo
+ modo,
+ se
+ instalará
+ duchas
+ para
+ el
+ uso
+ de
+ los
+ trabajadores,
+ según
+ lo
+ indica
+ el
+artículo
+ 21
+ y
+ 23
+ del
+ D.S.
+ No
+ 594/1999
+ MINSAL.
+ El
+ abastecimiento
+ de
+ agua
+ para
+ estos
+ servicios
+higiénicos
+ será
+ mediante
+ camiones
+ aljibe
+ que
+ alimentarán
+ un
+ estanque
+ conectado
+ a
+ dichos
+ servicios;
+ Servicios
+ de
+ primeros
+ auxilios:
+ se
+ habilitará
+ dentro
+ del
+ área
+ de
+ las
+ oficinas,
+ una
+ zona
+ con
+ todos
+ los
+
+equipos
+ necesarios
+ para
+ servicios
+ de
+ primeros
+ auxilios;
+ Estacionamientos:
+ Los
+ estacionamientos
+ serán
+ para
+ vehículos
+ menores,
+ camionetas,
+ minibuses
+ y
+ en
+
+menor
+ medida
+ para
+ maquinaria
+ y
+ estarán
+ demarcados;
+ Abastecimiento
+ de
+ energía:
+ la
+ energía
+ eléctrica
+ para
+ cada
+ instalación
+ de
+ faenas
+ será
+ abastecida
+ por
+
+dos
+ (2)
+ equipos
+ electrógenos
+ de
+ 100
+ a
+ 200
+ kVA,
+ correspondientes
+ a
+ uno
+ de
+ trabajo
+ y
+ otras
+ para
+reserva
+ en
+ caso
+ de
+ emergencias;
+ Sector
+ disposición
+ de
+ agua
+ potable:
+ el
+ agua
+ para
+ consumo
+ humano
+ será
+ provista
+ mediante
+ bidones
+ de
+
+20
+ litros
+ de
+ agua
+ purificada,
+ sellados,
+ adquiridos
+ a
+ empresa
+ autorizadas
+ por
+ la
+ SEREMI
+ de
+ Salud
+regional;
+ Zona
+ de
+ abastecimiento
+ de
+ combustible:
+ zona
+ dedicada
+ exclusivamente
+ a
+ la
+ carga
+ de
+ combustible
+ de
+
+los
+ vehículos
+ y
+ maquinaria
+ empleada
+ en
+ la
+ faena
+ de
+ construcción.
+ Será
+ delimitada
+ y
+ señalizada
+ de
+acuerdo
+ a
+ lo
+ dispuesto
+ en
+ el
+ D.S.
+ 160
+ /2009
+ (Ministerio
+ de
+ Economía
+ Fomento
+ y
+ Reconstrucción);
+ Almacenamiento
+ de
+ materiales:
+ se
+ habilitará
+ un
+ sector
+ destinado
+ al
+ almacenamiento
+ de
+ materiales
+ de
+
+construcción
+ y
+ mantenimiento
+ de
+ la
+ planta
+ y
+ sus
+ obras
+ asociadas
+ y
+ un
+ taller
+ mecánico
+
+ para
+ ejecutar
+aquellas
+ labores
+ de
+ reparación
+ y
+ preparación
+ de
+ partes
+ de
+ la
+ planta
+ fotovoltaica.
+ Dentro
+ de
+ ésta
+ se
+ubicará
+ la
+ bodega
+ de
+ sustancias
+ peligrosas,
+ según
+ lo
+ dispuesto
+ en
+ el
+ D.S.
+ 78/2009
+ Reglamento
+ de
+almacenamiento
+ de
+ sustancias
+ peligrosas
+ (MINSAL),
+ artículos
+ 18
+ y
+ 19;
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+11
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+ Almacenamiento
+ de
+ residuos
+ domésticos
+ y
+ asimilables:
+ se
+ utilizarán
+ contenedores
+ de
+ basura
+ con
+ tapa,
+
+individualizados
+ por
+ tipo
+ de
+ residuo
+ (húmedo,
+ seco,
+ vidrio/metal,
+ papel,
+ plástico),
+ dispuestos
+ al
+interior
+ de
+ la
+ instalación
+ de
+ faena.
+ La
+ disposición
+ final
+ de
+ estos
+ residuos
+ estará
+ a
+ cargo
+ de
+ una
+empresa
+ autorizada
+ por
+ la
+ Autoridad
+ Sanitaria
+ y
+ se
+ realizará
+ en
+ sitios
+ calificados
+ para
+ tal
+ fin.
+ La
+recolección
+ de
+ éstos
+ será
+ hecha
+ desde
+ la
+ instalación
+ de
+ faenas
+ por
+ el
+ servicio
+ de
+ recolección
+ municipal
+u
+ otro
+ contratado
+ por
+ el
+ contratista,
+ de
+ acuerdo
+ al
+ volumen
+ de
+
+ residuos
+ total
+ producido.
+ Si
+ fuera
+hecho
+ por
+ una
+ empresa
+ especializada,
+ ésta
+ deberá
+ acreditar
+ el
+ permiso
+ correspondiente
+ entregado
+por
+ la
+ autoridad
+ sanitaria.
+ Además,
+ deberá
+ llevar
+ un
+ registro
+ del
+ retiro
+ y
+ disposición
+ final
+ de
+ los
+mismos,
+ en
+ un
+ lugar
+ habilitado.
+ Sin
+ perjuicio
+ de
+ lo
+ anterior,
+ en
+ todo
+ momento
+ se
+ mantendrá
+ el
+ orden
+y
+ limpieza
+ en
+ la
+ instalación
+ de
+ faenas,
+ y
+ se
+ dispondrán
+ medidas
+ de
+ control
+ de
+ vectores
+ sanitarios
+(aves,
+ roedores,
+ insectos
+ u
+ otros);
+ Almacenamiento
+ residuos
+ no
+ peligrosos:
+ se
+ habilitará
+ un
+ sector
+ para
+ el
+ almacenamiento
+ temporal
+ de
+
+residuos
+ industriales
+ no
+ peligrosos,
+ correspondientes
+ a
+ madera,
+ plástico,
+ despuntes
+ de
+ metales,
+restos
+ de
+ hormigón,
+ restos
+ de
+ maderas
+ y
+ material
+ reutilizable,
+ etc.;
+ en
+ conformidad
+ con
+ lo
+ establecido
+por
+ el
+ artículo
+ 18
+ del
+ D.S.
+ N°
+ 594/99
+ del
+ Ministerio
+ de
+ Salud.
+ Estos
+ materiales
+ se
+ ordenarán
+ en
+contenedores
+ especiales
+ y
+ se
+ segregarán
+ para
+ su
+ reutilización
+ -
+ cuando
+ sus
+ condiciones
+ lo
+ permitan
+ -­‐
+y
+ disposición
+ final
+ en
+ sitios
+ autorizados.
+ El
+ retiro
+ y
+ disposición
+ de
+ los
+ mismos
+ se
+ realizará
+ por
+ una
+empresa
+ especializada,
+ con
+ una
+ frecuencia
+ mensual;
+ Bodega
+ de
+ sustancias
+ peligrosas.
+ Se
+ contempla
+ una
+ bodega
+ de
+ almacenamiento
+ de
+ sustancias
+
+peligrosas
+ (WD-­‐40
+ y
+ tubos
+ de
+ espuma
+ aislante
+ de
+ poliuretano)
+ de
+ 4
+ m [2],
+ la
+ que
+ cumplirá
+ con
+ las
+exigencias
+ establecidas
+ en
+ el
+ D.S.
+ N°78/2010,
+ que
+ aprueba
+ el
+ Reglamento
+ de
+ Almacenamiento
+ de
+Sustancias
+ Peligrosas;
+ y
+ Bodega
+ Residuos
+ Peligrosos:
+ se
+ habilitará
+ una
+ bodega
+ de
+ 9
+ m [2
+ ] de
+ acopio
+ temporal
+ autorizada
+ para
+ el
+
+almacenamiento
+ de
+ residuos
+ peligrosos,
+ generados
+ durante
+ la
+ fase
+ de
+ construcción,
+ tales
+ como:
+ latas
+de
+ lubricantes
+ (WD-­‐40)
+ y
+ tubos
+ de
+ espuma
+ aislante
+ de
+ poliuretano.
+ No
+ se
+ realizará
+ ningún
+ tipo
+ de
+tratamiento.
+ El
+ transporte
+ y
+ la
+ disposición
+ final
+ serán
+ realizadas
+ por
+ empresas
+ especializadas
+ y
+autorizadas
+ por
+ la
+ SEREMIS
+ de
+ Salud,
+ según
+ lo
+ indican
+ los
+ artículos
+ 18,
+ 19
+ y
+ 20
+ del
+ D.S.
+ No
+ 594/1999
+del
+ Ministerio
+ de
+ Salud.
+ La
+ bodega
+ cumplirá
+ con
+ todos
+ los
+ requisitos
+ establecidos
+ por
+ el
+ D.S.
+ N°
+ 148.
+ El
+retiro
+ de
+ estos
+ residuos
+ se
+ realizará
+ con
+ una
+ frecuencia
+ mensual,
+ por
+ una
+ empresa
+ especializada
+ y
+autorizada.
+
+El
+ detalle
+ de
+ la
+ ubicación
+ se
+ presenta
+ en
+ la
+ y
+ las
+ superficies
+ asociadas
+ a
+ cada
+ instalación
+ descrita,
+ se
+ presentan
+en
+ la
+ Tabla
+ 3
+ y
+ el
+ Anexo
+ 1.3
+
+**1.4.3.** **Obras
+ permanentes**
+
+1.4.3.1.
+
+ Unidades
+ generadoras
+_1.4.3.1.1.
+
+ Módulos
+ fotovoltaicos_
+
+Un
+ módulo
+ o
+ panel
+ fotovoltaico
+ está
+ compuesto
+ por
+ un
+ conjunto
+ de
+ celdas
+ fotovoltaicas,
+ que
+ corresponden
+ a
+dispositivos
+ electrónicos
+ que
+ permiten
+ transformar
+ la
+ energía
+ luminosa
+ (fotones)
+ en
+ energía
+ eléctrica.
+ Éstas
+ se
+encuentran
+ dispuestas
+ en
+ serie
+ o
+ paralelo,
+ a
+ lo
+ largo
+ del
+ módulo.
+ El
+ módulo,
+ por
+ otra
+ parte,
+ está
+ formado
+ por
+ un
+cristal
+ o
+ lámina
+ transparente
+ superior
+ que
+ lo
+ protege
+ de
+ la
+ intemperie,
+ la
+ lluvia
+ y
+ otros
+ factores
+ climáticos
+ y
+ dentro
+de
+ él
+ se
+ encuentran
+ encapsulados
+ el
+ sustrato
+ conversor
+ y
+ sus
+ conexiones
+ eléctricas.
+
+Los
+ módulos
+ o
+ paneles
+ considerados
+ para
+ el
+ presente
+ Proyecto
+ están
+ compuestos
+ por
+ 60
+ celdas
+ fotovoltaicas,
+conectadas
+ en
+ serie
+ con
+ el
+ fin
+ de
+ proporcionar
+ los
+ niveles
+ eléctricos
+ apropiados
+ para
+ los
+ sistemas
+ de
+ conversión.
+ En
+el
+ Anexo
+ 1.10
+ se
+ presenta
+ una
+ ficha
+ técnica
+ referencial
+ de
+ los
+ módulos
+ fotovoltaicos
+ tipo
+ (dado
+ que
+ al
+ momento
+ de
+la
+ construcción
+ del
+ proyecto
+ podría
+ existir
+ una
+ mejor
+ tecnología)
+ que
+ se
+ utilizarán
+ en
+ la
+ planta
+ Maitenes.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+12
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Con
+ el
+ fin
+ de
+ maximizar
+ la
+ producción
+ de
+ energía,
+ Maitenes
+ contempla
+ una
+ planta
+ fotovoltaica
+ compuesta
+ por
+aproximadamente
+ 42.000
+ módulos
+ fotovoltaicos,
+ del
+ tipo
+ silicio
+ policristalino,
+ de
+ 250
+ Wp
+ cada
+ uno,
+ que
+ inyectará
+ 9
+MW
+ al
+ SIC,
+ y
+ tendrá
+ una
+ vida
+ útil
+ de
+ 25
+ años.
+
+ En
+ la
+ Tabla
+ 5
+ se
+ detallan
+ otras
+ características
+ referenciales
+ (tipo),
+ de
+los
+ módulos
+ fotovoltaicos
+ a
+ utilizar.
+
+**Tabla
+ 5.
+ Características
+ tipo
+ módulo
+ fotovoltaico
+ de
+ 250
+ Wp**
+
+|Aspecto|Detalle|
+|---|---|
+|Voltajeencircuitoabierto,Voc|38V|
+|Voltajeóptimodeoperación,Vmp|30,6V|
+|Corrientedecortocircuito,Isc|8,5A|
+|Corrienteóptimadeoperación,Imp|8,17A|
+|Temperaturadefuncionamiento|-40oC~+90oC|
+|Voltajemáximodelsistema|1000Vdc|
+|Temperaturadefuncionamientonominaldelacélula|45±2oC|
+|Coeficientedetemperaturadecorrientedecortocircuito|0,05+- 0,01%/oC|
+|Coeficientedetemperaturadetensiónencircuitoabierto|-0,30+- 0,02%/oC|
+|Coeficientedetemperaturadepotencia|-0,42+- 0,03%/oC|
+|Medidas|1.640x992x40mm(largox anchox grosor)|
+|Peso|19Kg|
+
+Fuente:
+ Tomado
+ de
+ UpSolar.
+
+_1.4.3.1.2.
+
+ Estructuras
+ de
+ soporte_
+
+Los
+ módulos
+ fotovoltaicos
+ serán
+ ubicados
+ sobre
+ estructuras
+ de
+ soporte.
+ Estas
+ estructuras
+ serán
+ en
+ este
+ caso
+metálicas.
+ El
+ proyecto
+ utilizará
+ estructuras
+ fijas
+ con
+ un
+ ángulo
+ de
+ inclinación
+ de
+ 28o
+ en
+ relación
+ a
+ la
+ horizontal
+ y
+ con
+orientación
+ en
+ dirección
+ norte.
+ Estarán
+ dispuestos
+ en
+ forma
+ lineal
+ uno
+ al
+ lado
+ del
+ otro,
+ componiendo
+ una
+ fila
+compuesta
+ de
+ varias
+ cadenas [1] (Fotografía
+ 1;
+ Anexo
+ 1.5).
+
+En
+ base
+ a
+ las
+ características
+ técnicas
+ de
+ los
+ módulos
+ empleados
+ y
+ las
+ condiciones
+ de
+ radiación
+ solar
+ y
+ambientales
+ del
+ sector
+ de
+ emplazamiento,
+ se
+ contemplan
+ 1.826
+ cadenas,
+ formadas
+ por
+ 23
+ módulos
+ cada
+ una
+ y
+dispuestas
+ en
+ filas
+ paralelas,
+ adyacentes
+ entre
+ sí,
+ en
+ dirección
+ Este
+ -
+ Oeste.
+ La
+ distancia
+ entre
+ las
+ filas
+ se
+ definirá
+ en
+base
+ a
+ minimizar
+ la
+ generación
+ de
+ sombras
+ a
+ lo
+ largo
+ del
+ año.
+
+La
+ distancia
+ entre
+ el
+ borde
+ inferior
+ de
+ la
+ estructura
+ y
+ el
+ suelo
+ debe
+ garantizar
+ el
+ mantenimiento
+ de
+ la
+ limpieza
+de
+ los
+ módulos
+ fotovoltaicos
+ y
+ la
+ ausencia
+ de
+ sombra
+ de
+ la
+ hierba.
+ Asimismo,
+ la
+ altura
+ de
+ éstas
+ no
+ excederá
+ los
+ 3
+ m.
+
+Con
+ el
+ fin
+ de
+ minimizar
+ la
+ afectación
+ sobre
+ los
+ componentes
+ ambientales,
+ el
+ soporte
+ metálico
+ de
+ los
+ módulos
+fotovoltaicos
+ se
+ fijará
+ directamente
+ a
+ la
+ tierra
+ por
+ un
+ poste
+ o
+ un
+ tornillo
+ metálico.
+ El
+ tipo
+ de
+ fijación
+ dependerá
+ de
+las
+ características
+ litográficas
+ y
+ de
+ resistencia
+ de
+ la
+ tierra,
+ siendo
+ ambas
+ alternativas
+ similares
+ desde
+ el
+ punto
+ de
+vista
+ ambiental.
+
+1 Cadena:
+ corresponde
+ a
+ un
+ grupo
+ de
+ módulos
+ fotovoltaicos,
+ conectados
+ eléctricamente
+ en
+ serie;
+ cuyo
+ número
+ varía
+ de
+ acuerdo
+a
+ los
+ parámetros
+ eléctricos
+ del
+ módulo
+ fotovoltaico,
+ del
+ equipo
+ inversor
+ y
+ de
+ los
+ parámetros
+ ambientales
+ (irradiación,
+temperatura).
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+13
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 1.
+ Estructura
+ de
+ soporte
+ de
+ módulos
+ fotovoltaicos**
+
+Fuente:
+ Maitenes
+ Solar.
+
+**Fotografía
+ 2.
+ Estructura
+ de
+ soporte
+ con
+ módulos
+ fotovoltaicos**
+
+Fuente:
+ Maitenes
+ Solar.
+
+_1.4.3.1.3.
+
+ Cajas
+ de
+ conexión_
+
+La
+ conexión
+ de
+ los
+ módulos
+ fotovoltaicos
+ se
+ realiza
+ en
+ la
+ parte
+ posterior
+ de
+ los
+ mismos,
+ en
+ una
+ caja
+ de
+ conexión
+( _Stringboxes_ ),
+ cuya
+ finalidad
+ es
+ la
+ protección
+ de
+ los
+ módulos
+ frente
+ a
+ corrientes
+ de
+ falla,
+ permitiendo
+ la
+ circulación
+de
+ la
+ corriente
+ en
+ un
+ solo
+ sentido.
+ La
+ implementación
+ de _stringboxes_ tienes
+ los
+ siguientes
+ objetivos:
+
+ Rapidez
+ y
+ sencillez
+ de
+ cableado;
+ Evitar
+ que
+ se
+ invierta
+ el
+ flujo
+ de
+ corriente
+ entre
+ bloques
+ conectados
+ cuando
+ se
+ produzca
+ sombra
+ en
+
+alguno
+ de
+ ellos;
+ Alta
+ selectividad
+ y
+ la
+ protección
+ de
+ las
+ cuerdas
+ ;
+ y
+ Protección
+ de
+ cada
+ panel
+ frente
+ a
+ posibles
+ daños
+ ocasionados
+ por
+ sombras
+ parciales
+ que
+ se
+
+produzcan
+ en
+ circunstancias
+ especiales.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+14
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+La
+ caja
+ de
+ conexión
+ incluye:
+
+ Un
+ seccionador
+ de
+ fusibles
+ en
+ cada
+ polaridad
+ de
+ los
+ grupos
+ ;
+ Un
+ sensor
+ de
+ corriente
+ para
+ cada
+ cadena;
+ Un
+ dispositivo
+ de
+ protección
+ contra
+ sobretensiones
+ (descargador
+ de
+ sobretensiones);
+ y
+ Dispositivos
+ para
+ el
+ sistema
+ de
+ monitoreo.
+
+Finalmente
+ desde
+ cada
+ una
+ de
+ las
+ cajas
+ de
+ conexiones
+ partiráun
+ circuito
+ que
+ llegará
+ hasta
+ el
+ inversor.
+
+En
+ la
+ Fotografía
+ 3
+ se
+ presentan
+ las
+ cajas
+ de
+ conexión.
+
+En
+ el
+ Anexo
+ 1.5
+ se
+ presenta
+ un
+ detalle
+ de
+ las
+ estructuras
+ de
+ soporte,
+ los
+ paneles
+ fotovoltaicos,
+ las
+ cajas
+ de
+conexión
+ y
+ el
+ sistema
+ de
+ cableado
+ que
+ se
+ utilizará.
+
+En
+ el
+ Anexo
+ 1.9
+ se
+ presenta
+ el
+ Diagrama
+ Unilinear
+ que
+ muestra
+ la
+ configuración
+ y
+ relación
+ de
+ las
+ partes
+ y
+equipos
+ involucrados
+ en
+ la
+ producción,
+ transformación
+ y
+ distribución
+ de
+ energía
+ eléctrica
+ de
+ Maitenes.
+
+**Fotografía
+ 3.
+ Cajas
+ de
+ conexión**
+
+Fuente:
+ Maitenes
+ Solar.
+
+_1.4.3.1.4.
+
+ Estaciones
+ de
+ inversores_
+
+Los
+ inversores
+ son
+ equipos
+ diseñados
+ para
+ trasformar
+ la
+ corriente
+ continua
+ precedente
+ del
+ campo
+ de
+ paneles,
+en
+ corriente
+ alterna
+ para
+ ser
+ inyectada
+ a
+ la
+ red
+ del
+ Sistema
+ Interconectado
+ Central.
+
+Se
+ instalarán
+ 20
+ inversores
+ de
+ 500
+ kW
+ de
+ potencia
+ nominal,
+ o
+ similar,
+ emplazados
+ al
+ interior
+ de
+ contenedores
+metálicos,
+ denominados
+ Estaciones
+ Conversoras,
+ las
+ que
+ se
+ conectan
+ entre
+ sí
+ a
+ través
+ de
+ cabinas
+ para
+ celdas
+ de
+media
+ tensión
+ (cuya
+ temperatura
+ será
+ estabilizada
+ por
+ un
+ sistema
+ de
+ ventilación).
+
+Las
+ instalaciones
+ de
+ inversores
+ tendrán
+ las
+ siguientes
+ características:
+
+ Cumplimiento
+ de
+ las
+ normas
+ de
+ seguridad
+ vigentes;
+ Contarán
+ con
+ un
+ sistema
+ de
+ medición
+ y
+ monitoreo;
+ Operación
+ automatizada;
+ Monitor
+ de
+ aislamiento
+ en
+ el
+ lado
+ DC;
+ Capacidad
+ de
+ monitoreo
+ a
+ distancia
+ para
+ analizar
+ los
+ datos
+ medidos;
+ Cuadro
+ y
+ transformador
+ de
+ servicios
+ auxiliares;
+ y
+ Puesta
+ a
+ tierra.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+15
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Las
+ características
+ eléctricas
+ asociadas
+ a
+ los
+ inversores
+ señalados
+ se
+ señalan
+ y
+ detallan
+ en
+ la
+ Tabla
+ 6
+ y
+ los
+ Anexos
+1.5
+ y
+ 1.9.
+
+**Tabla
+ 6.
+ Características
+ de
+ los
+ inversores
+ de
+ 500
+ kW**
+
+|Inversor|Inversor 500 kW - datos eléctricos|
+|---|---|
+|Mínima tensión de entrada MPP|430 V|
+|Máxima tensión de entrada MPP|1.000 V|
+|Máxima corriente de entrada|1.250 A|
+|Potencia nominal CA|500 kVA|
+|Máxima potencia CA|700 kVA|
+|Máximo rendimiento*|98,6 %|
+|Rendimiento europeo *|98,4 %|
+|Dimensiones|2,6 x 2,2 x 0, 9 m (ancho x alto x largo)|
+|Peso|1.800 kg|
+|Rango de temperatura|-25 - 62 °C|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**Fotografía
+ 4.
+ Inversores
+ y
+ cabina
+ eléctrica**
+
+Fuente:
+ Maitenes
+ Solar.
+
+En
+ el
+ Anexo
+ 1.9,
+ como
+ se
+ indicó
+ antes,
+ se
+ presentan
+ las
+ características
+ de
+ operación
+ de
+ la
+ generación
+ eléctrica
+de
+ los
+ paneles,
+ su
+ conversión,
+ transformación
+ y
+ distribución
+ antes
+ de
+ ser
+ inyectada
+ al
+ SIC.
+
+_1.4.3.1.5.
+
+ Centros
+ de
+ transformación_
+
+Para
+ las
+ estaciones
+ de
+ inversores
+ se
+ tiene
+ previsto
+ colocar,
+ en
+ las
+ cabinas
+ eléctricas
+ MT/BT,
+ un
+ transformador
+de
+ media
+ tensión
+ que
+ eleva
+ la
+ tensión
+ de
+ salida
+ del
+ inversor
+ de
+ 0,315
+ kV
+ en
+ promedio,
+ a
+ la
+ tensión
+ de
+ la
+ red
+ en
+ el
+punto
+ de
+ conexión
+ (13,2/23
+ kV).
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+16
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Se
+ contempla
+ la
+ instalación
+ de
+ 10
+ transformadores,
+ todos
+ de
+ tres
+ fases,
+ de
+ grupo
+ Dyn11
+ con
+ una
+ potencia
+ de
+dimensionado
+ de
+ 1.000
+ kVA.
+ Cabe
+ señalar
+ que
+ este
+ equipo
+ no
+ utilizará
+ aceite
+ durante
+ su
+ operación,
+ pues
+corresponde
+ a
+ un
+ transformador
+ de
+ resinas
+ encapsulado,
+ por
+ lo
+ que
+ no
+ generará
+ residuos
+ peligrosos
+ a
+ lo
+ largo
+ de
+su
+ operación.
+
+Al
+ igual
+ que
+ las
+ estaciones
+ de
+ inversores,
+ los
+ equipos
+ transformadores
+ irán
+ emplazados
+ al
+ interior
+ de
+contenedores
+ metálicos
+ (Cabinas
+ eléctricas),
+ denominados
+ Estaciones
+ Conversoras,
+ las
+ que
+ como
+ se
+ menciona
+ en
+ la
+sección
+ anterior,
+ se
+ conectarán
+ entre
+ sí
+ en
+ cabinas
+ eléctricas
+ para
+ celdas
+ de
+ media
+ tensión
+ (Fotografía
+ 4,
+ Fotografia
+5,
+ Anexos
+ 1.5,
+ 1.9).
+
+**Fotografía
+ 5.
+ Transformador
+ de
+ tres
+ fases
+ de
+ resinas
+ encapsulado**
+
+Fuente:
+ Maitenes
+ Solar.
+
+_1.4.3.1.6.
+
+ Instalación
+ de
+ distribución
+ e
+ interruptores
+ de
+ media
+ tensión_
+
+Para
+ la
+ conexión
+ de
+ las
+ estaciones
+ de
+ inversores
+ a
+ la
+ red
+ de
+ media
+ tensión
+ se
+ integra
+ en
+ cada
+ estación
+ de
+inversores,
+ un _switchgear_ de
+ distribución,
+ que
+ es
+ la
+ combinación
+ de
+ interruptores
+ eléctricos,
+ fusibles,
+ interruptores
+y
+ transformadores
+ de
+ medición
+ utilizados
+ para
+ controlar,
+ proteger
+ y
+ aislar
+ a
+ los
+ equipos
+ eléctricos
+ y
+ para
+ medir
+ el
+voltaje
+ y
+ la
+ corriente
+ de
+ flujos
+ de
+ energía
+ (Fotografía
+ 6,
+ Anexo
+ 1.5).
+
+Los
+ interruptores
+ de
+ media
+ tensión
+ se
+ utilizan
+ para
+ a
+ desconexión
+ de
+ los
+ equipos,
+ tanto
+ para
+ labores
+ de
+mantenimiento,
+ como
+ para
+ protección
+ de
+ la
+ planta
+ en
+ caso
+ de
+ fallas
+ durante
+ su
+ funcionamiento
+ normal.
+
+En
+ el
+ Anexo
+ 1.9
+ Diagrama
+ Unilinear,
+ se
+ presentan
+ las
+ características
+ de
+ operación
+ de
+ la
+ generación
+ eléctrica
+ de
+los
+ paneles,
+ su
+ conversión,
+ transformación,
+ sus
+ interruptores
+ y
+ distribución.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+17
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 6.
+ Instalación
+ de
+ interruptores
+ de
+ media
+ tensión**
+
+Fuente:
+ Maitenes
+ Solar.
+
+_1.4.3.1.7.
+
+ Cabina
+ de
+ control
+ y
+ vigilancia
+ (SCADA)_
+
+Es
+ una
+ caseta
+ en
+ la
+ cual
+ se
+ ubicarán
+ los
+ equipos
+ que
+ mantienen
+ el
+ control
+ y
+ llevan
+ el
+ registro
+ de
+ las
+ operaciones
+de
+ la
+ planta
+ (Anexo
+ 1.5).
+
+_1.4.3.1.8.
+
+ Casetas
+ eléctricas_
+
+Como
+ se
+ ha
+ mencionado
+ en
+ las
+ secciones
+ anteriores,
+ los
+ equipos
+ eléctricos,
+ como
+ inversores,
+ transformadores
+ e
+interruptores,
+ se
+ instalarán
+ al
+ interior
+ de
+ casetas
+ eléctricas
+ prefabricadas
+ compuestas
+ por
+ contenedores
+ metálicos,
+los
+ que
+ son
+ de
+ rápida
+ y
+ fácil
+ instalación
+ (Fotografía
+ 7,
+ Anexos
+ 1.5).
+
+Su
+ instalación
+ se
+ debe
+ realizar
+ sobre
+ losas
+ prefabricadas
+ y
+ desmontables
+ de
+ hormigón
+ armado
+ extendido
+ sobre
+una
+ capa
+ adecuada
+ de
+ grava
+ compactada,
+ para
+ garantizar
+ la
+ estabilización
+ de
+ los
+ equipos
+ ubicados
+ en
+ su
+ interior.
+
+La
+ configuración
+ de
+ la
+ planta
+ Maitenes
+ (Anexo
+ 1.9)
+ incluye:
+
+ Diez
+ (10)
+ casetas
+ de
+ conversión
+ “Estación
+ Conversora”
+ (2,5m
+ x
+ 7,5m
+ x
+ 3m),
+ donde
+ se
+ encuentran
+ los
+
+inversores,
+ los
+ transformadores
+ de
+ BT
+ /
+ MT,
+ sistemas
+ de
+ calefacción
+ /
+ refrigeración
+ e
+ interruptores
+ de
+baja
+ tensión;
+ Cinco
+ (5)
+ casetas
+ para
+ celdas
+ de
+ media
+ tensión
+ (2,5m
+ x
+ 2,5m
+ x
+ 3m)
+ para
+ los
+ dispositivos
+ de
+ distribución
+
+de
+ campo
+ MV;
+ Una
+ (1)
+ estación
+ de
+ distribución
+ (2.5mx
+ 7,5m
+ x
+ 3m)
+ subdivididos
+ en
+ 2
+ habitaciones:
+
+`o` Una
+ habitación
+ para
+ el _switchgear_ principal
+`o` Un
+ pequeño
+ espacio
+ para
+ el
+ transformador
+ auxiliar
+ MT
+ /
+ BT;
+ Una
+ (1)
+ caseta
+ para
+ el
+ grupo
+ de
+ medida
+ (2.5m
+ x
+ 2.5m
+ x
+ 3m)
+ Una
+ (1)
+ caseta
+ de
+ control
+ (Cabina
+ SCADA
+ y
+ aparato
+ de
+ seguridad)
+ (2.5mx
+ 7.5mx
+ 3m)
+ para
+ la
+ ubicación
+
+del
+ sistema
+ SCADA,
+ los
+ dispositivos
+ de
+ distribución
+ de
+ baja
+ tensión,
+ los
+ sistemas
+ de
+ video
+ -
+ vigilancia;
+ Un
+ (1)
+ contenedor
+ o
+ cabina
+ para
+ piezas
+ de
+ repuestos
+ y
+ taller
+ (2m
+ x
+ 6m
+ x
+ 2.6m);
+ Cada
+ caseta
+ estará
+ equipada
+ con
+ sensores
+ de
+ temperatura,
+ detectores
+ de
+ humo
+ conectados
+ al
+ equipo
+
+SCADA
+ y
+ un
+ sistema
+ contra
+ incendios
+ adecuado
+ para
+ su
+ uso
+ con
+ el
+ equipo
+ eléctrico
+ específico
+instalado.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+18
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 7.
+ Instalación
+ de
+ cabina
+ de
+ distribución
+ e
+ interruptores
+ de
+ media
+ tensión**
+
+Fuente:
+ Maitenes
+ Solar.
+
+En
+ el
+ Anexo
+ 1.5,
+ se
+ muestran
+ detalles
+ de
+ las
+ cabinas
+ eléctricas
+ que
+ se
+ utilizarán
+ para
+ los
+ distintos
+ tipos
+ de
+equipos
+ descritos
+ anteriormente.
+
+1.4.3.2.
+ Tendido
+ eléctrico
+ de
+ conexión
+ a
+ la
+ red
+
+La
+ evacuación
+ de
+ la
+ energía
+ eléctrica
+ producida
+ en
+ el
+ parque
+ fotovoltaico
+ se
+ realizará
+ mediante
+ un
+ tendido
+eléctrico
+ subterráneo
+ de
+ 13.2/23
+ kV,
+ por
+ medio
+ de
+ un
+ cable
+ de
+ potencia
+ que
+ conectará
+ el
+ punto
+ de
+ evacuación
+ de
+la
+ planta
+ con
+ el
+ punto
+ de
+ conexión
+ a
+ la
+ red
+ de
+ distribución.
+ Este
+ tendido
+ eléctrico
+ tendrá
+ una
+ longitud
+ de
+ 950
+ m
+ e
+irá
+ dispuesto
+ en
+ una
+ zanja
+ de
+ 0,90
+ m
+ de
+ profundidad
+ por
+ 0,8m
+ de
+ ancho
+ en
+ su
+ parte
+ superior
+ y
+ 0,7
+ mde
+ ancho
+ en
+ su
+base,
+ que
+ estará
+ ubicada
+ a
+ un
+ costado
+ del
+ camino
+ de
+ acceso
+ (Anexo
+ 1.6).
+
+En
+ una
+ longitud
+ de
+ 620
+ m
+ se
+ compartirá
+ la
+ zanja
+ con
+ el
+ cable
+ de
+ potencia
+ de
+ Berlino.
+
+En
+ el
+ Anexo
+ 1.2
+ y
+ 1.6
+ se
+ presenta
+ el
+ recorrido
+ del
+ cable
+ de
+ potencia
+ de
+ media
+ tensión
+ que
+ se
+ conectará
+ al
+ SIC,
+ el
+cual
+ correrá
+ paralelo
+ al
+ camino
+ de
+ acceso
+ del
+ proyecto.
+
+En
+ el
+ Anexo
+ 1.8
+ se
+ presenta
+ el
+ detalle
+ de
+ la
+ excavación
+ que
+ se
+ realizará
+ en
+ los
+ cauces
+ fuera
+ del
+ predio
+ Maitenes
+para
+ cruzar
+ el
+ cable
+ de
+ potencia
+ que
+ conectará
+ con
+ la
+ red
+ eléctrica,
+ por
+ un
+ costado
+ de
+ la
+ servidumbre
+ de
+ acceso
+ al
+predio.
+
+1.4.3.3.
+
+ Sistema
+ de
+ cableado
+
+Los
+ cables
+ utilizados
+ cumplirán
+ con
+ la
+ normativa
+ vigente
+ NCh
+ 4/2004
+ 8.1,
+ en
+ cuanto
+ a
+ aislamiento
+ y
+ grado
+ de
+protección.
+ Se
+ dividen
+ en
+ 2
+ grupos
+ principales:
+ los
+ usados
+ para
+ la
+ conducción
+ de
+ energía
+ y
+ los
+ usados
+ para
+ la
+conexión
+ interna.
+
+Los
+ cables
+ de
+ conducción
+ de
+ energía
+ y
+ de
+ registro
+ de
+ datos,
+ se
+ dispondrán
+ en
+ zanjas
+ ubicadas
+ a
+ un
+ costado
+ de
+los
+ caminos
+ internos,
+ con
+ una
+ profundidad
+ de
+ al
+ menos
+ 0,7
+ m
+ según
+ la
+ recomendación
+ en
+ DIN
+ VDE
+ 0276,
+ parte
+ 603.
+En
+ caso
+ de
+ un
+ subsuelo
+ pedregoso,
+ los
+ cables
+ serán
+ colocados
+ en
+ una
+ cama
+ de
+ arena
+ para
+ evitar
+ posibles
+ daños.
+ De
+igual
+ forma,
+ el
+ ancho
+ de
+ las
+ zanjas
+ será
+ seleccionado
+ en
+ base
+ al
+ diámetro
+ del
+ cable
+ y
+ las
+ distancias
+ necesarias,
+según
+ DIN
+ VDE
+ 0276,
+ parte
+ 1000,
+ así
+ como
+ las
+ distancias
+ mínimas
+ entre
+ los
+ cables
+ de
+ energía
+ eléctrica
+ y
+ de
+ datos,
+ la
+que
+ se
+ estima
+ en
+ al
+ menos
+ 30
+ cm.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+19
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+El
+ detalle
+ de
+ las
+ zanjas
+ del
+ sistema
+ de
+ cableado
+ de
+ la
+ planta
+ se
+ muestra
+ en
+ el
+ Anexo
+ 1.6.
+
+Los
+ cables
+ asociados
+ al
+ sistema
+ de
+ vigilancia
+ se
+ instalarán
+ adjuntos
+ al
+ cerco
+ dispuesto
+ a
+ lo
+ largo
+ de
+ la
+ planta
+(Anexos
+ 1.6).
+
+1.4.3.4.
+
+ Distribución
+ interna
+ de
+ baja
+ tensión
+ (BT)
+
+Para
+ el
+ funcionamiento
+ interno
+ de
+ la
+ planta
+ fotovoltaica
+ en
+ su
+ conjunto,
+ se
+ considera
+ el
+
+ suministro
+ de
+ energía
+eléctrica
+ mediante
+ un
+ transformador
+ MT/BT
+ (Media
+ Tensión
+ /
+ Baja
+ Tensión),
+ para
+ los
+ equipos
+ de
+ control
+electrónico,
+ la
+ comunicación
+ de
+ los
+ inversores,
+ el
+ seguimiento
+ y
+ sistema
+ de
+ alarma,
+ los
+ sistemas
+ de
+ refrigeración,
+iluminación
+ y
+ líneas
+ eléctricas
+ de
+ las
+ instalaciones.
+
+Se
+ contempla
+ un
+ transformador
+ de
+ dos
+ fases,
+ de
+ grupo
+ Dyn11
+ de
+ resinas
+ encapsulado.
+
+Para
+ asegurar
+ el
+ suministro
+ de
+ energía
+ en
+ todos
+ los
+ servicios
+ esenciales
+ de
+ la
+ planta
+ -­‐
+ tales
+ como
+ supervisión
+ de
+sistemas,
+ control
+ de
+ los
+ transformadores,
+ circuitos
+ de
+ control
+ y
+ señalización
+ de
+ MT/BT
+ y
+ BT,
+ sistema
+ de
+ vigilancia
+(SCADA),
+ entre
+ otros,
+ se
+ contempla
+ un
+ sistema
+ de
+ alimentación
+ ininterrumpido
+ que
+ actúa
+ como
+ reserva
+ de
+ energía
+en
+ caso
+ de
+ fallo
+ de
+ alimentación
+ en
+ la
+ red.
+ Esta
+ energía
+ será
+ provista
+ por
+ el
+ sistema
+ de
+ bajo
+ voltaje
+ existente
+ al
+costado
+ de
+ la
+ Ruta
+ H-­‐76.
+1.4.3.5.
+
+ Sistema
+ de
+ puesta
+ a
+ tierra
+
+La
+ planta
+ fotovoltaica
+ estará
+ equipada
+ con
+ un
+ sistema
+ de
+ puesta
+ a
+ tierra,
+ que
+ corresponde
+ a
+ un
+ circuito
+ que
+conecta
+ las
+ partes
+ metálicas
+ con
+ el
+ suelo,
+ definiendo
+ así
+ el
+ potencial
+ eléctrico
+ de
+ éstas
+ con
+ relación
+ a
+ la
+ superficie
+de
+ la
+ tierra.
+ En
+ el
+ caso
+ de
+ una
+ falla
+ eléctrica,
+ o
+ fenómenos
+ naturales
+ como
+ caídas
+ de
+ rayos,
+ el
+ sistema
+ de
+ puesta
+ a
+tierra,
+ permite
+ que
+ la
+ corriente
+ fluya
+ al
+ suelo,
+ garantizando
+ la
+ seguridad
+ de
+ las
+ personas
+ y
+ de
+ la
+ planta.
+
+1.4.3.6.
+
+ Estación
+ meteorológica
+
+Con
+ el
+ fin
+ de
+ supervisar
+ el
+ rendimiento
+ de
+ la
+ planta
+ fotovoltaica,
+ es
+ necesaria
+ la
+ instalación
+ de
+ una
+ estación
+meteorológica
+ en
+ el
+ área
+ de
+ la
+ planta
+ (Fotografía
+ 8).
+ Los
+ parámetros
+ necesarios
+ de
+ medir
+ son:
+
+ Irradiación
+ en
+ el
+ plano
+ de
+ los
+ módulos
+ (paneles);
+ Temperatura
+ del
+ módulo
+ (a
+ través
+ del
+ sensor
+ de
+ temperatura
+ para
+ ser
+ instalado
+ en
+ la
+ parte
+ posterior
+ del
+
+módulo);
+ Temperatura
+ ambiente;
+ Velocidad
+ y
+ dirección
+ del
+ viento;
+ y
+ Humedad.
+
+Todos
+ los
+ datos
+ recopilados
+ por
+ esta
+ estación
+ serán
+ registrados
+ por
+ el
+ Sistema
+ de
+ Vigilancia
+ (SCADA)
+ -
+ descrito
+en
+ la
+ sección
+ siguiente
+ -
+ para
+ incluirlos
+ en
+ la
+ evaluación
+ de
+ la
+ producción
+ de
+ energía,
+ con
+ el
+ fin
+ de
+ verificar
+ el
+correcto
+ funcionamiento
+ de
+ la
+ planta
+ fotovoltaica.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+20
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 8.
+ Estación
+ meteorológica**
+
+Fuente:
+ Maitenes
+ Solar.
+
+1.4.3.7.
+
+ Sistema
+ de
+ vigilancia
+ (SCADA)
+
+La
+ planta
+ fotovoltaica
+ estará
+ supervisada
+ de
+ forma
+ constante
+ por
+ un
+ sistema
+ de
+ vigilancia,
+ control
+ y
+ adquisición
+de
+ datos
+ (SCADA,
+ por
+ sus
+ siglas
+ en
+ inglés,
+ System
+ of
+ Supervision,
+ Control
+ and
+ Data
+ Acquisition),
+ cuyas
+ principales
+funciones
+ son:
+
+ Detección
+ y
+ notificación
+ de
+ fallos
+ o
+ anomalías
+ de
+ forma
+ remota;
+ Control
+ de
+ interruptores
+ principales
+ de
+ forma
+ remota;
+ Monitoreo
+ del
+ estado
+ de
+ los
+ equipos
+ de
+ mando
+ y
+ protección
+ (interruptores,
+ fusibles,
+ etcétera);
+ Registro
+ de
+ datos
+ para
+ el
+ análisis
+ de
+ parámetros
+ de
+ funcionamiento
+ de
+ la
+ planta;
+ Sistema
+ de
+ alarmas
+ y
+ video
+ vigilancia.
+
+Este
+ sistema
+ estará
+ compuesto
+ por
+ 35
+ postes
+ de
+ acero
+ galvanizado
+ de
+ 4
+ m
+ de
+ altura,
+ rodeando
+ el
+ perímetro
+ de
+la
+ planta
+ Maitenes,
+ dotados
+ de
+ luces
+ y
+ cámaras
+ de
+ vigilancia
+ (éstas,
+ cada
+ dos
+ postes);
+ y
+ su
+ sistema
+ de
+ mando
+ se
+encontrará
+ alojado
+ en
+ una
+ cabina
+ específica
+ para
+ tales
+ efectos
+ (Anexos
+ 1.2
+ y
+ 1.5).
+
+1.4.3.8.
+
+ Caminos
+ internos
+
+Se
+ contempla
+ la
+ habilitación
+ de
+ caminos
+ internos,
+ destinados
+ a
+ las
+ actividades
+ de
+ mantención
+ de
+ la
+ planta,
+ los
+que
+ deberán
+ garantizar
+ la
+ accesibilidad
+ a
+ todos
+ los
+ puntos
+ de
+ la
+ planta.
+ Estos
+ caminos
+ alcanzarán
+ 2,35
+ km
+ de
+recorrido
+ interno,
+ con
+ un
+ ancho
+ promedio
+ de
+ 4,5
+ m,
+ contarán
+ con
+ una
+ carpeta
+ estabilizada,
+ tendrán
+ una
+ ligera
+pendiente
+ hacia
+ el
+ exterior
+ de
+ la
+ planta
+ y
+ contarán
+ con
+ un
+ prensado
+ final
+ mecánico
+ (Fotografía
+ 9).
+
+El
+ detalle
+ de
+ los
+ caminos
+ internos
+ proyectados,
+ se
+ presenta
+ en
+ el
+ Anexo
+ 1.4.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+21
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 9.
+ Caminos
+ interiores
+ de
+ Maitenes**
+
+Fuente:
+ Maitenes
+ Solar.
+
+1.4.3.9.
+
+ Camino
+ de
+ acceso
+
+Junto
+ con
+ los
+ caminos
+ internos,
+ se
+ contempla
+ la
+ habilitación
+ de
+ un
+ camino
+ de
+ acceso
+ a
+ la
+ planta,
+ el
+ que
+conectará
+ el
+ área
+ de
+ emplazamiento
+ del
+ Proyecto
+ con
+ la
+ ruta
+ H-­‐76,
+ principal
+ acceso
+ a
+ la
+ planta.
+ Como
+ se
+ dijo
+ antes,
+en
+ un
+ trayecto
+ de
+ 898
+ m,
+ este
+ corresponderá
+ a
+ un
+ uso
+ de
+ servidumbre
+ del
+ camino
+ de
+ acceso
+ del
+ proyecto
+ Berlino
+(en
+ evaluación),
+ y
+ un
+ segmento
+ de
+ 17
+ m,
+ correspondiente
+ al
+ proyecto
+ Maitenes,
+ propiamentente
+ tal.
+
+Este
+ camino
+ tendrá
+ las
+ mismas
+ características
+ de
+ construcción
+ que
+ los
+ caminos
+ internos.
+ El
+ detalle
+ de
+ los
+caminos
+ internos
+ proyectados,
+ se
+ presenta
+ en
+ el
+ Anexo
+ 1.4.
+
+1.4.3.10.
+
+ Red
+ de
+ drenaje
+
+Para
+ prevenir
+ y
+ limitar
+ posibles
+ inundaciones
+ de
+ la
+ zona
+ durante
+ la
+ temporada
+ de
+ lluvias,
+ se
+ implementará
+ un
+sistema
+ de
+ drenaje
+ de
+ agua
+ lluvia
+ compuesto
+ por
+ un
+ canal
+ de
+ drenaje
+ tipo
+ francés
+ y
+ dos
+ zanjas
+ de
+ drenaje,
+localizadas
+ de
+ forma
+ longitudinal
+ a
+ las
+ filas
+ de
+ módulos
+ fotovoltaicos.
+
+La
+ red
+ de
+ drenaje
+ convergerá
+ en
+ un
+ canal
+ con
+ sección
+ trapezoidal
+ que
+ transportará
+ el
+ agua
+ dentro
+ de
+ los
+canales
+ colectores
+ naturales
+ ya
+ presentes
+ en
+ el
+ sitio.
+
+Las
+ características
+ de
+ los
+ canales
+ y
+ zanja
+ de
+ drenaje
+ proyectados
+ de
+ describen
+ en
+ la
+ Tabla
+ 7
+ y
+ Anexo
+ 1.7.
+
+**Tabla
+ 7.
+ Características
+ de
+ la
+ red
+ de
+ drenaje**
+
+|Red de drenaje|Profundidad (m)|Ancho (m)|Longitud total (m)|
+|---|---|---|---|
+|Canal de drenaje|0,6|1,5|90|
+|Zanja de drenaje|0,8|0,6|1.250|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+22
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.4.3.11.
+
+ Cerco
+ perimetral
+El
+ recinto
+ donde
+ se
+ ubicará
+ el
+ proyecto
+ será
+ cercado
+ en
+ todo
+ su
+ perímetro
+ mediante
+ una
+ valla
+ metálica
+ de
+ acero
+galvanizado,
+ con
+ una
+ altura
+ aproximada
+ de
+ 2,5
+ metros,
+ instalada
+ a
+ través
+ de
+ una
+ inserción
+ directa
+ en
+ el
+ suelo
+ a
+ una
+profundidad
+ no
+ menor
+ a
+ 1,5
+ metros
+ (Fotografía
+ 10).
+ El
+ acceso
+ a
+ la
+ instalación
+ fotovoltaica
+ está
+ garantizado
+ por
+ una
+puerta
+ de
+ acceso
+ también
+ de
+ acero
+ galvanizado,
+ con
+ puertas
+ dobles
+ de
+ 2,5
+ metros
+ de
+ altura
+ desde
+ el
+ nivel
+ del
+ suelo
+(Fotografía
+ 11).
+
+Con
+ el
+ fin
+ de
+ otorgar
+ protección,
+ tanto
+ al
+ personal
+ propio
+ del
+ parque
+ solar,
+ como
+ al
+ externo
+ a
+ ella,
+ se
+ contempla
+la
+ instalación
+ de
+ una
+ señalética
+
+ adecuada,
+ que
+ indique
+ la
+ ubicación
+ de
+ las
+ obras
+ y
+ los
+ riesgos
+ asociados.
+
+El
+ detalle
+ del
+ cerco
+ perimetral
+ se
+ muestra
+ en
+ el
+ Anexo
+ 1.5.
+
+**Fotografía
+ 10.
+ Cerco
+ perimetral
+ galvanizado**
+
+Fuente:
+ Maitenes
+ Solar.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+23
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 11.
+ Portón
+ de
+ acceso
+ planta
+ Maitenes**
+
+Fuente:
+ Maitenes
+ Solar.
+
+**1.5.** **Fase
+ de
+ Construcción**
+**1.5.1.** **Partes,
+ obras
+ y
+ acciones**
+
+La
+ principal
+ parte
+ u
+ obra
+ del
+ Proyecto
+ en
+ la
+ fase
+ de
+ construcción
+ será
+ la
+ faena
+ de
+ construcción,
+ según
+ fue
+enunciado
+ en
+ el
+ punto
+ 1.2.10
+ y
+ la
+ Tabla
+ 2.
+ Las
+ acciones
+ que
+ se
+ llevarán
+ a
+ cabo
+ en
+ esta
+ fase
+ corresponden
+ a:
+
+ Contratación
+ de
+ mano
+ de
+ obra;
+ Instalaciones
+ de
+ faena;
+ Replanteo
+ topográfico
+ y
+ preparación
+ del
+ terreno;
+ Instalación
+ de
+ cerco
+ perimetral;
+ Habilitación
+ camino
+ de
+ acceso
+ e
+ internos;
+ Montaje
+ de
+ estructuras
+ de
+ soporte
+ y
+ paneles
+ fotovoltaicos;
+ Instalación
+ y
+ conexión
+ subterránea
+ de
+ circuitos
+ eléctricos
+ (Canalización);
+ Sistema
+ de
+ drenaje;
+ Instalación
+ de
+ equipos
+ de
+ conversión,
+ transformación
+ y
+ control
+ (Casetas
+ eléctricas);
+ Instalación
+ y
+ conexión
+ de
+ cable
+ de
+ potencia
+ de
+ transmisión;
+ Instalación
+ de
+ equipos
+ de
+ control
+ y
+ vigilancia;
+ Retiro
+ de
+ instalaciones
+ de
+ faena;
+ y
+ Pruebas
+ eléctricas
+ y
+ puesta
+ en
+ marcha.
+
+1.5.1.1.
+ Contratación
+ de
+ mano
+ de
+ obra
+
+Esta
+ se
+ realizará
+ para
+ cubrir
+ las
+ necesidades
+ relativas
+ a
+ la
+ realización
+ de
+ obras
+ civiles,
+ de
+ montaje
+ y
+ eléctricas.
+ Lo
+anterior
+ se
+ realizará
+ con
+ una
+ empresa
+ de
+ montaje
+ y
+ construcción
+ que
+ deberá
+ contratar
+ mano
+ de
+ obra
+ especializada
+y
+ no
+ especializada.
+
+Para
+ la
+ construcción
+ del
+ proyecto
+ se
+ considera
+ una
+ dotación
+ de
+ aproximadamente
+ 40
+ personas,
+ con
+ un
+ máximo
+de
+ 50
+ en
+ el
+ momento
+ de
+ mayor
+ demanda,
+ que
+ se
+ mantendrá
+ constante
+ durante
+ la
+ construcción.
+
+Se
+ considera
+ una
+ jornada
+ laboral
+ de
+ 9
+ horas
+ efectivas
+ al
+ día,
+ de
+ lunes
+ a
+ sábado,
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+DFL
+ 1/2003
+ Código
+ del
+ Trabajo .
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+24
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+La
+ selección
+ y
+ contratación
+ de
+ mano
+ de
+ obra
+ se
+ realizará
+ de
+ acuerdo
+ a:
+
+ El
+ contratista
+ deberá
+ contactar
+ personal
+ especializado
+ para
+ cada
+ una
+ de
+ las
+ obras
+ señaladas,
+
+cerciorándose
+ que
+ se
+ posee
+ experiencia
+ en
+ proyectos
+ similares
+ al
+ que
+ se
+ realizará
+ en
+ Maitenes;
+ Los
+ trabajadores
+ seleccionados
+ se
+ someterán
+ a
+ los
+ exámenes
+ pre-­‐ocupacionales
+ que
+ corresponda,
+
+para
+ asegurar
+ que
+ éstos
+ se
+ encuentran
+ en
+ condiciones
+ de
+ desarrollar
+ su
+ trabajo
+ en
+ óptimas
+condiciones
+ de
+ salud;
+ Los
+ trabajadores
+ aceptados
+ firmarán
+ su
+ contrato
+ de
+ trabajo
+ y
+ se
+ les
+ entregará
+ el
+ Reglamento
+ Interno
+
+de
+ Higiene
+ y
+ Seguridad,
+ del
+ contratista;
+ Los
+ trabajadores
+ contratados
+ recibirán
+ una
+ inducción
+ para
+ conocer
+ las
+ políticas,
+ normas
+ y
+
+regulaciones
+ que
+ regirán
+ sus
+ labores;
+ También
+ se
+ realizarán
+ para
+ los
+ trabajadores
+ contratados,
+ inducciones
+ en
+ seguridad
+ y
+ salud
+
+ocupacional,
+ medio
+ ambiente,
+ comunidad
+ y
+ calidad
+ con
+ las
+ que
+ opera
+ el
+ contratista,
+ así
+ como
+ el
+derecho
+ a
+ saber
+ (DAS),
+ para
+ que
+ sean
+ conocidas
+ por
+ todos
+ ellos
+ y
+ las
+ apliquen
+ en
+ sus
+ labores
+regulares;
+ Todos
+ los
+ trabajadores
+ recibirán
+ luego
+ sus
+ elementos
+ de
+ protección
+ personal
+ (EPPs),
+ de
+ acuerdo
+ a
+ las
+
+labores
+ que
+ les
+ serán
+ encomendadas
+ en
+ el
+ marco
+ de
+ su
+ trabajo;
+ y
+ El
+ traslado
+ de
+ trabajadores
+ desde
+ y
+ hacia
+ la
+ obra,
+ desde
+ Marchigüe
+ o
+ Pichidegüa,
+ se
+ realzará
+ por
+ una
+
+empresa
+ autorizada,
+ de
+ acuerdo
+ al
+ D.S.
+ 80/2004
+ del
+ Ministerio
+ de
+ Transportes.
+
+1.5.1.2.
+ Instalaciones
+ de
+ faena
+
+Como
+ primera
+ actividad
+ se
+ contempla
+ la
+ habilitación
+ del
+ sector
+ destinado
+ al
+ emplazamiento
+ de
+ la
+ instalación
+ de
+faena
+ proyectada,
+ iniciando
+ con
+ las
+ labores
+ de
+ topografía
+ para
+ el
+ emplazamiento
+ del
+ perímetro
+ y
+ las
+ zonas
+contempladas
+ en
+ su
+ configuración
+ (Anexos
+ 1.3).
+
+Si
+ fuese
+ necesario,
+ se
+ realizará
+ en
+ la
+ zona
+ de
+ las
+ oficinas
+ y
+ bodegas,
+ una
+ nivelación
+ del
+ terreno,
+ para
+ lo
+ cual
+ se
+utilizará
+ retroexcavadora.
+ Esta
+ nivelación
+ será
+ monitoreada
+ por
+ el
+ personal
+ de
+ topografía
+ y
+ el
+ supervisor
+ de
+ obras
+civiles,
+ y
+ sólo
+ considera
+ una
+ pequeña
+ nivelación,
+ cuyos
+ movimientos
+ de
+ tierra
+ serán
+ mínimos.
+
+Una
+ vez
+ nivelado
+ el
+ terreno
+ se
+ colocará
+ la
+ instalación
+ modular
+ (contenedores)
+ correspondientes
+ a
+ la
+ faena
+temporal,
+ que
+ contiene
+ sectores
+ de
+ oficinas,
+ comedor,
+ baños
+ y
+ vestidores,
+ estacionamientos,
+ almacenamiento
+ de
+materiales,
+ áreas
+ de
+ disposición
+ de
+ residuos,
+ etc.
+
+Luego
+ de
+ la
+ instalación
+ de
+ contenedores,
+ se
+ realizaran
+ los
+ trabajos
+ de
+ albañilería
+ y
+ terminaciones
+ de
+ la
+instalación
+ de
+ faena.
+
+Finalmente,
+ se
+ instalarán
+ los
+ vestidores,
+ las
+ duchas,
+ los
+ baños
+ químicos
+ y
+ los
+ estanques
+ de
+ agua.
+
+Los
+ materiales,
+ equipos
+ y
+ estructuras
+ se
+ transportarán
+ mediante
+ camiones
+ simples.
+ Cabe
+ señalar
+ que
+ el
+ camino
+de
+ acceso
+ será
+ el
+ descrito
+ en
+ el
+ punto
+ 1.4.3.9.,
+ en
+ este
+ mismo
+ Capítulo.
+
+En
+ el
+ área
+ de
+ la
+ planta,
+ en
+ los
+ frentes
+ de
+ trabajo,
+ se
+ instalarán
+ baños
+ químicos
+ de
+ forma
+ de
+ dar
+ cumplimiento
+ a
+las
+ distancias
+ establecidas
+ en
+ el
+ D.S.
+ No
+ 594/1999
+ del
+ Ministerio
+ de
+ Salud.
+ Este
+ servicio
+ se
+ contratará
+ a
+ proveedores
+debidamente
+ autorizados.
+ El
+ retiro,
+ transporte
+ y
+ disposición
+ de
+ las
+ aguas
+ servidas
+ generadas
+ por
+ su
+ uso,
+ se
+ realizará
+según
+ la
+ normativa
+ vigente,
+ por
+ parte
+ de
+ los
+ mismos
+ proveedores.
+ En
+ los
+ frentes
+ de
+ trabajo
+ existirán
+ áreas
+ de
+manejo
+ de
+ residuos
+ en
+ transición
+ (contenedor
+ simple,
+ tapado).
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+25
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.5.1.3.
+ Preparación
+ del
+ terreno
+ y
+ excavaciones
+
+La
+ construcción
+ del
+ parque
+ fotovoltaico
+ comenzará
+ con
+ la
+ habilitación
+ de
+ los
+ terrenos
+ que
+ serán
+ utilizados
+ para
+el
+ emplazamiento
+ de
+ las
+ estructuras
+ de
+ soporte
+ y
+ los
+ módulos
+ fotovoltaicos,
+ así
+ como
+ los
+ centros
+ de
+transformación
+ y
+ equipamiento
+ descritos
+ anteriormente.
+ La
+ preparación
+ del
+ terreno
+ involucra
+ actividades
+ de
+movimiento
+ de
+ tierra
+ para
+ nivelación,
+ descepado
+ de
+ árboles
+ y
+ arbustos.
+ Para
+ esta
+ última
+ actividad
+ se
+ presenta
+ en
+ el
+Capítulo
+ 3,
+ el
+ Plan
+ de
+ Manejo
+ para
+ corta
+ de
+ Bosque
+ Nativo,
+ correspondiente
+ al
+ Anexo
+ 3.4-­‐PAS
+ 148,
+ junto
+ con
+ todos
+los
+ antecedentes
+ técnicos
+ necesarios
+ para
+ su
+ solicitud.
+
+Considerando
+ que
+ la
+ topografía
+ del
+ terreno
+ es
+ relativamente
+ plana,
+ sólo
+ se
+ considera
+ una
+ pequeña
+ nivelación
+para
+ la
+ implementación
+ de
+ la
+ instalación
+ de
+ faena,
+ la
+ estación
+ Conversora,
+ las
+ cabinas
+ para
+ celdas
+ de
+ media
+tensión,
+ la
+ caseta
+ control,
+ la
+ estación
+ de
+ distribución,
+ el
+ contenedor
+ para
+ piezas
+ de
+ repuesto
+ y
+ taller
+ y
+ los
+ caminos
+de
+ acceso
+ e
+ internos.
+
+Junto
+ con
+ la
+ nivelación
+ del
+ terreno,
+ se
+ consideran
+ también
+ las
+ excavaciones
+ asociadas
+ a
+ la
+ implementación
+ del
+Tendido
+ eléctrico
+ de
+ conexión
+ a
+ la
+ red,
+ las
+ zanjas
+ correspondientes
+ al
+ sistema
+ de
+ cableado
+ y
+ la
+ red
+ de
+ drenaje
+ para
+aguas
+ lluvia.
+
+La
+ remoción
+ de
+ material
+ superficial
+ asociado
+ a
+ las
+ actividades
+ de
+ preparación
+ del
+ terreno,
+ tanto
+ la
+ nivelación
+ y
+su
+ posterior
+ compactación,
+ como
+ las
+ excavaciones
+ proyectadas,
+ se
+ describe
+ en
+ la
+ Tabla
+ 8.
+
+**Tabla
+ 8.
+ Estimación
+ del
+ movimiento
+ de
+ tierra**
+
+|Obra|Cantidad|Superficie por obra<br>(m2)|Superficie total<br>(m2)|Volumen (m3)|
+|---|---|---|---|---|
+|Instalación de faena|1,00|3.427,30|3.427,30|1.028,2|
+|Estación Conversora|10,00|18,75|187,50|56,25|
+|Cabinas para celdas de media tensión|5,00|6,25|31,25|9,35|
+|Caseta de control|1,00|18,75|18,75|5,62|
+|Estación de distribución|1,00|19|19|5,7|
+|Cabina de medida|1,00|1,25|1,25|1,87|
+|Contenedor para piezas de repuesto y taller|1,00|12,00|12,00|3,6|
+|Camino de acceso*|1,00|1.810|1.810|543|
+|Caminos internos|1,00|12.250|12.250|3.675|
+|Caminos perimetral exterior|1,00|8.287|8.287|2.486|
+|Cable de potencia de conexión a la red*|1,00|315|315|250|
+|Sistema de cableado|1,00|1.930|1.930|1.436|
+|Red de drenaje|1,00|840|840|520|
+|**Total**|**Total**|**28.934.1**|**28.934.1**|**10.018,72**|
+
+ - Excluyendo
+ la
+ sección
+ correspondiente
+ al
+ proyecto
+ Berlino
+ (en
+ evaluación).
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Para
+ la
+ nivelación
+ señalada,
+ se
+ considera
+ la
+ remoción
+ de
+ aproximadamente
+ 30
+ cm
+ de
+ tierra
+ en
+ cada
+ instalación,
+alcanzando
+ un
+ máximo
+ de
+ ~10.018,72
+ m [3] de
+ tierra.
+ Parte
+ de
+ ésta
+ (65%,
+ 6.512,17m [3] )
+ será
+ utilizada
+ en
+ la
+ construcción
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+26
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+de
+ caminos
+ y
+ nivelación
+ del
+ terreno,
+ y
+ otra
+ parte
+ (35%,
+ 3.506,55m ~~[3]~~ )
+ será
+ depositada
+ dentro
+ del
+ mismo
+ predio
+Maitenes,
+ por
+ lo
+ cual
+ no
+ serán
+ necesarios
+ camiones
+ para
+ su
+ transporte
+ fuera
+ de
+ éste.
+
+Estas
+ cifras
+ corresponden
+ a
+ estimaciones
+ generales,
+ que
+ serán
+ ajustadas
+ según
+ las
+ necesidades
+ de
+ la
+construcción
+ y
+ al
+ uso
+ que
+ se
+ haga
+ de
+ parte
+ del
+ material
+ removido .
+
+1.5.1.4.
+ Instalación
+ de
+ cerco
+ perimetral
+
+Se
+ instalará
+ un
+ cierre
+ perimetral
+ compuesto
+ por
+ una
+ valla
+ metálica
+ de
+ acero
+ galvanizado,
+ con
+ una
+ altura
+aproximada
+ de
+ 2,5
+ metros,
+ instalada
+ a
+ través
+ de
+ una
+ inserción
+ directa
+ en
+ el
+ suelo
+ a
+ una
+ profundidad
+ no
+ menor
+ a
+ 1,5
+metros
+ (Anexo
+ 1.5).
+ Se
+ contempla
+ un
+ (1)
+ acceso,
+ dispuesto
+ en
+ el
+ sector
+ Norte
+ del
+ predio,
+ habilitado
+ para
+ el
+ ingreso
+de
+ vehículos
+ de
+ hasta
+ 12
+ toneladas.
+
+Con
+ el
+ fin
+ de
+ otorgar
+ protección,
+ tanto
+ al
+ personal
+ propio
+ del
+ parque
+ solar,
+ como
+ al
+ externo
+ a
+ ella,
+ se
+ instalará
+una
+ señalética
+ adecuada,
+ que
+ indique
+ la
+ ubicación
+ de
+ las
+ obras
+ y
+ los
+ riesgos
+ asociados
+ a
+ cada
+ una
+ de
+ ellas,
+ dando
+cumplimiento
+ a
+ los
+ señalado
+ en
+ el
+ D.S.
+ 594/1999.
+
+En
+ el
+ cerco
+ perimetral
+ existirán
+ postes
+ con
+ cámaras
+ de
+ seguridad
+ e
+ iluminación
+ para
+ labores
+ de
+ monitoreo
+ y
+protección
+ de
+ las
+ instalaciones
+ de
+ la
+ planta
+ Maitenes
+ (punto
+ 1.4.3.7.;
+ Anexo
+ 1.4).
+
+1.5.1.5.
+
+ Habilitación
+ de
+
+ camino
+ de
+ acceso
+ e
+ internos
+
+El
+ camino
+ de
+ acceso
+ y
+ los
+ caminos
+ interiores
+ serán
+ habilitados
+ de
+ manera
+ sucesiva,
+ según
+ avance
+ de
+ la
+construcción
+ de
+ cada
+ sector
+ del
+ Proyecto,
+ y
+ considerando
+ también
+ los
+ requerimientos
+ de
+ las
+ actividades
+ de
+construcción
+ de
+ obras
+ civiles
+ y
+ montaje
+ de
+ equipos.
+
+Para
+ la
+ habilitación
+ de
+ los
+ caminos
+ señalados,
+ se
+ requiere
+ el
+ uso
+ de
+ maquinaria
+ para
+ una
+ limpieza
+ y
+ escarpe
+superficial
+ del
+ área
+ contemplada
+ para
+ éstos,
+ cuyo
+ objetivo
+ es
+ preparar
+ la
+ carpeta
+ para
+ el
+ tránsito
+ de
+ camiones
+ y
+maquinaria
+ necesarios
+ para
+ el
+ traslado
+ de
+ insumos
+ y
+ personal
+ hacia
+ cada
+ obra
+ del
+ Proyecto.
+
+El
+ camino
+ de
+ acceso
+ y
+ los
+ caminos
+ de
+ conexión
+ dentro
+ del
+ Proyecto,
+ serán
+ construidos
+ a
+ partir
+ de
+ una
+ base
+ de
+fundación
+ de
+ material
+ árido
+ de
+ 8-­‐10
+ cm
+ de
+ diámetro
+ y
+ aproximadamente
+ 20
+ cm
+ de
+ espesor,
+ sobre
+ la
+ cual
+ se
+dispondrá
+ una
+ membrana
+ geotextil
+ que
+ llevará
+ encima
+ una
+
+ capa
+ de
+ aproximadamente
+ 15
+ cm
+ de
+ material
+estabilizado
+ que
+ será
+ compactado
+ con
+ rodillo.
+ Estos
+ caminos
+ tendrán
+ un
+ ancho
+ promedio
+ aproximado
+ de
+ 6
+ y
+ 4,5
+ m,
+respectivamente;
+ con
+ una
+ pendiente
+ aproximada
+ de
+ 3%,
+ a
+ cada
+ lado
+ del
+ eje
+ del
+ camino,
+ para
+ que
+ escurra
+ el
+ agua
+en
+ temporada
+ de
+ lluvias
+ al
+ suelo
+ (cuando
+ la
+ vía
+ se
+ encuentre
+ ligeramente
+ sobre
+ el
+ nivel
+ de
+ éste,
+ en
+ los
+ caminos
+interiores)
+ o
+ a
+ un
+ canal
+ de
+ drenaje,
+ en
+ el
+ camino
+ de
+ acceso.
+ El
+ detalle
+ del
+ trazado
+ de
+ los
+ mismos
+ se
+ presenta
+ en
+ el
+Anexo
+ 1.4.
+
+Una
+ vez
+ hecho
+ el
+ escarpe
+ se
+ realizará
+ de
+ manera
+ mecánica
+ el
+ nivelado
+ del
+ camino
+ para
+ posteriormente
+proceder
+ a
+ la
+ compactación
+ en
+ forma
+ mecanizada
+ (rodillo).
+
+La
+ tierra
+ que
+ será
+ removida
+ (escarpe),
+ será
+ distribuida
+ íntegramente
+ en
+ sectores
+ a
+ nivelar,
+ siempre
+ al
+ interior
+del
+ predio
+ Maitenes.
+
+1.5.1.6.
+ Montaje
+ de
+ estructuras
+ de
+ soporte
+ y
+ paneles
+ fotovoltaicos
+_1.5.1.6.1.
+
+ Hincado
+ de
+ estructuras_
+Habilitado
+ el
+ terreno,
+ se
+ procederá
+ al
+ hincado
+ de
+ los
+ perfiles
+ de
+ las
+ estructuras
+ de
+ soporte
+ de
+ los
+ paneles
+fotovoltaicos.
+ Estos
+ irán
+ fijos
+ directamente
+ en
+ tierra
+ por
+ un
+ poste
+ metálico
+ o
+ un
+ tornillo
+ metálico
+ (Fotografía
+ 12).
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+27
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+El
+ cálculo
+ de
+ los
+ perfiles
+ hincados
+ o
+ tornillos
+ se
+ hace
+ en
+ base
+ a
+ valores
+ empíricos
+ para
+ módulos
+ de
+ asentamiento
+que
+ deben
+ ser
+ aún
+ confirmados
+ mediante
+ pruebas
+ de
+ carga _in
+ situ_ por
+ parte
+ de
+ la
+ empresa
+ ejecutora.
+ Sin
+ embargo,
+se
+ calcula
+ una
+ profundidad
+ entre
+ 1,5-­‐2.0
+ m
+ en
+ el
+ caso
+ del
+ presente
+ Proyecto.
+ Los
+ perfiles
+ que
+ se
+ utilizarán
+ serán
+metálicos,
+ del
+ tipo
+ galvanizado
+ en
+ caliente.
+
+Realizado
+ el
+ hincado,
+ se
+ procede
+ al
+ ensamblaje
+ de
+ los
+ soportes
+ para
+ los
+ módulos
+ solares,
+ sobre
+ los
+ cuales
+ se
+fijarán
+ los
+ paneles
+ fotovoltaicos
+ y
+ cuyo
+ procedimiento
+ de
+ montaje
+ consiste
+ en
+ la
+ puesta
+ del
+ panel
+ sobre
+ la
+estructura
+ a
+ través
+ de
+ un
+ camión
+ con
+ brazo
+ hidráulico
+ o
+ una
+ mini
+ grúa
+ hidráulica,
+ para
+ proceder
+ a
+ la
+ fijación
+mediante
+ el
+ uso
+ de
+ herramientas
+ manuales.
+
+Este
+ sistema
+ se
+ ha
+ elegido
+ por
+ sobre
+ la
+ implementación
+ de
+ fundaciones
+ de
+ hormigón
+ debido,
+ principalmente,
+ a
+que
+ tiene
+ la
+ ventaja
+ de
+ minimizar
+ las
+ excavaciones
+ requeridas
+ y
+ por
+ ende
+ el
+ impacto
+ sobre
+ el
+ área
+ de
+emplazamiento
+ y
+ a
+ que
+ permite
+ un
+ desmantelamiento
+ simple
+ una
+ vez
+ finalizado
+ el
+ periodo
+ de
+ vida
+ útil
+ del
+Proyecto,
+ si
+ eso
+ fuera
+ contemplado.
+
+Se
+ utilizarán
+ alrededor
+ de
+ 8.500
+ soportes
+ para
+ la
+ instalación
+ de
+ los
+ paneles
+ fotovoltaicos.
+
+**Fotografía
+ 12.
+ Fijación
+ de
+ estructuras
+ de
+ soporte**
+
+Fuente:
+ Maitenes
+ Solar.
+
+_1.5.1.6.2.
+
+ Excavaciones
+ y
+ canalizaciones
+ internas_
+
+Montados
+ los
+ paneles
+ solares
+ se
+ comienza
+ con
+ la
+ conexión
+ de
+ todo
+ el
+ sistema
+ de
+ cableado
+ eléctrico.
+ Éste,
+ desde
+los
+ paneles
+ fotovoltaicos
+ hasta
+ los
+ inversores
+ (cabina
+ MT/BT)
+ considera
+ la
+ conexión
+ de
+ los
+ paneles
+ entre
+ sí,
+utilizando
+ su
+ propia
+ estructura
+ (fila
+ de
+ módulos)
+ y
+ agrupándose
+ en
+ series
+ en
+ cajas
+ de
+ conexión
+ (Anexos
+ 1.5
+ ).
+
+Desde
+ cada
+ extremo
+ de
+ la
+ fila
+ de
+ módulos,
+ desde
+ la
+ caja
+ de
+ conexión,
+ hasta
+ el
+ edificio
+ de
+ inversor
+ respectivo,
+ la
+conexión
+ se
+ hará
+ a
+ través
+ de
+ canalizaciones
+ subterráneas
+ de
+ aproximadamente
+ 50
+ cm
+ de
+ ancho
+ y
+ hasta
+ 124
+ cm
+ de
+profundidad.
+ Una
+ vez
+ terminada
+ la
+ colocación
+ de
+ los
+ cables
+ se
+ cubrirá
+ con
+ el
+ mismo
+ material
+ extraído
+ durante
+ la
+excavación.
+
+La
+ longitud
+ total
+ de
+ la
+ canalización
+ alcanza
+ a
+ 6,4
+ kilómetros
+ y
+ se
+ ubican
+ dentro
+ del
+ perímetro
+ del
+ Proyecto.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+28
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Estas
+ canalizaciones
+ se
+ constituirán
+ sobre
+ una
+ base
+ de
+ protección
+ de
+ arena,
+ sobre
+ la
+ cual
+ se
+ situarán
+ los
+distintos
+ cables
+ (Bajo
+ voltaje
+ -­‐LV-­‐,
+ Medio
+ voltaje
+ -­‐MV-­‐)
+ y
+ circuitos,
+ que
+ irá
+ dispuestos
+ en
+ el
+ interior
+ de
+ tubos
+corrugados
+ de
+ 63
+ cm
+ ø,
+ o
+ directamente
+ depositados
+ en
+ el
+ suelo;
+ un
+ pvc
+ protector,
+ luego
+ una
+ segunda
+ capa
+ de
+arena
+ y
+ finalmente,
+ una
+ capa
+ protectora
+ de
+ arcilla
+ o
+ rocas.
+ Estas
+ canalizaciones
+ que
+ atravesarán
+ todo
+ el
+ predio
+Maitenes
+ y
+ también
+ llevarán
+ el
+ tendido
+ de
+ fibra
+ óptica
+ para
+ comunicaciones
+ y
+ control
+ (Fotografía
+ 13;
+ Anexos
+ 1.4
+ y
+1.6).
+
+Es
+ preciso
+ señalar,
+ que
+ las
+ dimensiones
+ descritas
+ pueden
+ variar
+ dependiendo
+ de
+ la
+ calidad
+ del
+ suelo
+ donde
+ se
+emplacen.
+ Todas
+ las
+ excavaciones
+ se
+ harán
+ con
+ una
+ pala
+ retroexcavadora.
+ El
+ material
+ excavado
+ será
+ acopiado
+ a
+ un
+costado
+ de
+ cada
+ zanja,
+ para
+ posteriormente
+ ser
+ utilizado
+ como
+ material
+ de
+ relleno
+ de
+ las
+ mismas
+ y,
+ en
+ su
+ defecto,
+distribuido
+ en
+ algún
+ lugar
+ dentro
+ del
+ predio
+ Maitenes,
+ de
+ modo
+ que
+ no
+ sea
+ necesario
+ el
+ uso
+ de
+ camiones
+ para
+ su
+retiro.
+
+Una
+ vez
+ finalizada
+ la
+ canalización
+ y
+ dispuestos
+ los
+ cables,
+ el
+ terreno
+ quedará
+ plano,
+ en
+ condiciones
+ similares
+ a
+las
+ originales
+ (Fotografía
+ 14).
+
+**Fotografía
+ 13.
+ Canalizaciones**
+
+Fuente:
+ Maitenes
+ Solar.
+
+**Fotografía
+ 14.
+ Canalizaciones**
+
+Fuente:
+ Maitenes
+ Solar.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+29
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.5.1.7.
+ Sistema
+ de
+ drenaje
+
+Para
+ prevenir
+ y
+ limitar
+ posibles
+ inundaciones
+ de
+ la
+ zona
+ durante
+ la
+ temporada
+ de
+ lluvias,
+ se
+ construirá
+ un
+sistema
+ de
+ drenaje
+ de
+ aguas
+ lluvia,
+ conformado
+ por
+ un
+ tipo
+ de
+ zanja
+ drenante
+ y
+ dos
+ tipos
+ de
+ canales
+ de
+ drenaje;
+para
+ salvaguardar
+ la
+ planta
+ fotovoltaica.
+ La
+ longitud
+ total
+ de
+ la
+ red
+ de
+ drenaje
+ alcanza
+ a
+ 1,35
+ kilómetros
+ y
+ se
+ ubica
+dentro
+ del
+ predio
+ Maitenes.
+ El
+ detalle
+ del
+ trazado
+ de
+ la
+ red
+ drenaje
+ proyectada,
+ se
+ presenta
+ en
+ la
+ Fotografía
+ 15
+ y
+ el
+Anexo
+ 1.7.
+
+**Fotografía
+ 15.
+ Red
+ de
+ drenaje**
+
+Fuente:
+ Maitenes
+ Solar.
+
+1.5.1.8.
+ Instalación
+ de
+ equipos
+ de
+ conversión,
+ transformación
+ y
+ control
+ (Casetas
+ Eléctricas)
+
+Una
+ vez
+ instalados
+ los
+ paneles
+ fotovoltaicos
+ y
+ realizadas
+ las
+ canalizaciones
+ subterráneas,
+ se
+ procederá
+ a
+ ubicar
+las
+ casetas
+ eléctricas
+ para
+ albergar
+ los
+ equipos
+ indicados
+ en
+ el
+ punto
+ 1.4.3.,
+ las
+ que
+ incluyen
+ las
+ cabinas
+ eléctricas
+con
+ conversores,
+ transformadores,
+ interruptores,
+ control
+ y
+ vigilancia
+ y
+ el
+ contenedor
+ para
+ piezas
+ de
+ repuesto
+ y
+taller.
+
+La
+ instalación
+ de
+ dichas
+ casetas
+ se
+ realizará
+ sobre
+ la
+ superficie
+ nivelada
+ y
+ rellenada
+ por
+ hormigón
+ para
+ asegurar
+su
+ estabilidad
+ (Fotografía
+ 16).
+
+El
+ transporte
+ de
+ las
+ cabinas
+ eléctricas
+ con
+ las
+ estaciones
+ de
+ inversores
+ y
+ centro
+ de
+ trasformación,
+ que
+ se
+emplazarán
+ al
+ interior
+ de
+ éstas,
+ se
+ realizará
+ en
+ camiones
+ desde
+ el
+ Puerto
+ de
+ San
+ Antonio
+ (~120
+ km
+ del
+ proyecto)
+ y
+su
+ almacenamiento
+ se
+ implementará
+ al
+ interior
+ de
+ la
+ instalación
+ de
+ faena,
+ en
+ el
+ sector
+ destinado
+ para
+ ello,
+ para
+ ser
+dispuestos
+ en
+ el
+ parque
+ fotovoltaico.
+
+Las
+ casetas
+ eléctricas
+ consistirán
+ en
+ contenedores
+ metálicos
+ prefabricados,
+ cuya
+ instalación
+ se
+ realizará
+mediante
+ camiones
+ grúa
+ (Fotografía
+ 17).
+
+El
+ detalle
+ de
+ la
+ ubicación,
+ distribución
+ y
+ detalle
+ las
+ casetas
+ se
+ presenta
+ en
+ los
+ Anexos
+ 1.2,
+ 1.5.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+30
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Fotografía
+ 16.
+ Base
+ de
+ hormigón
+ para
+ instalación
+ de
+ casetas**
+
+Fuente:
+ Maitenes
+ Solar.
+
+**Fotografía
+ 17.
+ Instalación
+ de
+ casetas**
+
+Fuente:
+ Maitenes
+ Solar.
+
+1.5.1.9.
+ Instalación
+ y
+ conexión
+ de
+ cable
+ de
+ potencia
+ y
+ transmisión
+
+La
+ instalación
+ del
+ cable
+ de
+ potencia
+ y
+ transmisión
+ eléctrica
+ se
+ realizará
+ en
+ zanjas
+ ubicadas
+ en
+ las
+ orillas
+ de
+ los
+caminos
+ internos
+ y
+ el
+ camino
+ de
+ acceso,
+ en
+ el
+ interior
+ de
+ tubos
+ corrugados
+ con
+ el
+ fin
+ de
+ facilitar
+ el
+ proceso
+ de
+instalación,
+ mantención
+ y
+ reemplazo
+ en
+ caso
+ de
+ ser
+ necesario.
+ La
+ instalación
+ del
+ cable
+ irá
+ separadas
+ según:
+ i)
+ cable
+de
+ video
+ y
+ señal;
+ ii)
+ cales
+ de
+ energía,
+ separados
+ según
+ voltaje.
+ El
+ punto
+ de
+ conexión
+ con
+ la
+ red
+ de
+ distribución
+ se
+realizará
+ a
+ través
+ del
+ camino
+ de
+ acceso
+ hasta
+ la
+ carretera
+ H
+ -­‐76,
+ compartiendo
+ parte
+ de
+ la
+ zanja
+ (620
+ m)
+ con
+ la
+ que
+utilizará
+ el
+ proyecto
+ Berlino
+ (en
+ evaluación).
+ Con
+ el
+ fin
+ de
+ evitar
+ cualquier
+ problema
+ con
+ el
+ tráfico
+ en
+ esta
+ carretera
+principal,
+ el
+ cruce
+ hacia
+ el
+ polo
+ de
+ conexión
+ se
+ realizará
+ por
+ medio
+ de
+ una
+ perforación
+ direccional
+ horizontal
+ (HDD
+por
+ sus
+ siglas
+ en
+ inglés).
+
+El
+ detalle
+ del
+ trazado
+ y
+ sus
+ dimensiones,
+ se
+ describe
+ en
+ los
+ Anexos
+ 1.6
+ y
+ 1.8
+
+1.5.1.10.
+
+ Instalación
+ de
+ equipos
+ de
+ control
+ y
+ vigilancia
+
+Finalmente
+ se
+ procede
+ a
+ la
+ instalación
+ de
+ la
+ estación
+ meteorológica
+ y
+ el
+ sistema
+ de
+ monitoreo,
+ control
+ y
+vigilancia,
+ SCADA,
+ en
+ un
+ lugar
+ definido
+ por
+ los
+ expertos
+ correspondientes
+ en
+ base
+ a
+ las
+ condiciones
+ propias
+ de
+ la
+zona
+ del
+ proyecto
+ y
+ la
+ configuración
+ del
+ parque
+ fotovoltaico.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+31
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.5.1.11.
+
+ Retiro
+ de
+ instalaciones
+ de
+ faena
+
+Una
+ vez
+ que
+ la
+ construcción
+ del
+ Parque
+ Fotovoltaico
+ haya
+ finalizado,
+ se
+ retirarán
+ los
+ equipos
+ y
+ las
+ maquinarias
+de
+ las
+ faenas,
+ así
+ como
+ todos
+ los
+ excedentes
+ de
+ construcción
+ (materiales
+ y
+ desperdicios
+ no
+ orgánicos),
+ los
+ que
+serán
+ manejados
+ de
+ acuerdo
+ a
+ lo
+ establecido
+ en
+ la
+ legislación
+ vigente
+ y
+ dispuestos
+ en
+ sitios
+ autorizados.
+
+Tal
+ como
+ se
+ ha
+ indicado
+ previamente,
+ los
+ excedentes
+ de
+ construcción
+ generados
+ en
+ los
+ frentes
+ de
+ trabajo
+(despuntes
+ de
+ aluminio
+ chatarra,
+ hierro,
+ embalajes,
+ etc.),
+ serán
+ acumulados
+ en
+ contenedores
+ y
+ enviados
+diariamente
+ a
+ la
+ zona
+ de
+ acopio
+ de
+ residuos
+ de
+ la
+ instalación
+ de
+ faenas,
+ donde
+ se
+ almacenarán
+ de
+ acuerdo
+ a
+ su
+tipo.
+ Finalmente
+ los
+ materiales
+ de
+ desecho
+ remanentes,
+ serán
+ retirados
+ por
+ contratistas
+ autorizados
+ y
+ depositados
+en
+ sitios
+ autorizados
+ sanitaria
+ y
+ ambientalmente,
+ con
+ una
+ frecuencia
+ semanal.
+
+Una
+ vez
+ que
+ el
+ terreno
+ haya
+ sido
+ limpiado
+ de
+ construcciones
+ temporales
+ y
+ desechos,
+ se
+ realizarán
+ las
+actividades
+ tendientes
+ a
+ restaurar
+ los
+ suelos.
+ Estas
+ actividades
+ implicarán
+ la
+ remoción
+ o
+ recubrimiento
+ de
+ las
+estructuras
+ de
+ hormigón
+ de
+ las
+ cabinas
+ eléctricas,
+ y
+ los
+ cimientos
+ de
+ las
+ obras
+ temporales.
+
+1.5.1.12.
+
+ Pruebas
+ eléctricas
+
+Una
+ vez
+ finalizado
+ retiro
+ de
+ las
+ instalaciones
+ de
+ faenas,
+ se
+ procederá
+ a
+ realizar
+ las
+ pruebas
+ eléctricas,
+ cuyo
+número
+ dependerá
+ de
+ los
+ resultados
+ que
+ se
+ vayan
+ obteniendo.
+ Las
+ pruebas
+ eléctricas
+ consistirán
+ básicamente
+ en
+ la
+generación
+ y
+ entrega
+ de
+ energía
+ eléctrica
+ en
+ condiciones
+ similares
+ a
+ como
+ ocurrirá
+ en
+ la
+ fase
+ de
+ operación.
+
+Finalmente
+ se
+ proyecta
+ la
+ puesta
+ en
+ marcha
+ del
+ Proyecto,
+ la
+ que
+ consiste
+ en
+ la
+ revisión
+ y
+ comprobación
+ del
+correcto
+ funcionamiento
+ de
+ todos
+ los
+ dispositivos
+ eléctricos
+ con
+ el
+ fin
+ de
+ asegurar
+ su
+ comportamiento
+ adecuado
+ y
+el
+ cumplimiento
+ de
+ la
+ normativa
+ asociada.
+ Los
+ equipos
+ que
+ deben
+ ser
+ revisados
+ corresponden
+ a:
+
+ Estaciones
+ de
+ inversores,
+ centros
+ de
+ transformación,
+ interruptores
+ y
+ distribución;
+ Sistema
+ de
+ conexiones
+ eléctricas
+ interno;
+ y
+ Control
+ de
+ supervisión
+ y
+ del
+ sistema
+ de
+ adquisición
+ de
+ datos
+ -
+ SCADA.
+
+Están
+ previstas
+ pruebas
+ funcionales
+ en
+ diferentes
+ condiciones
+ de
+ operación
+ realizada
+ para
+ cada
+ equipo.
+Después
+ de
+ este
+ paso,
+ los
+ dispositivos
+ deben
+ ser
+ revisados
+ todos
+ juntos
+ con
+ el
+ fin
+ de
+ comprobar
+ el
+ funcionamiento
+de
+ toda
+ la
+ instalación
+ fotovoltaica.
+
+**1.5.2.** **Fecha
+ estimada
+ e
+ indicación
+ de
+ la
+ parte,
+ obra
+ o
+ acción
+ que
+ establezca
+ el
+ inicio
+ y
+ término
+ de
+ la
+ fase.**
+
+El
+ hito
+ de
+ inicio
+ de
+ esta
+ fase
+ se
+ define
+ como
+ la
+ primera
+ actividad
+ a
+ realizar,
+ la
+ cual
+ consistirá
+ en
+ la
+ preparación,
+mediante
+ nivelación,
+ del
+ terreno
+ destinado
+ al
+ emplazamiento
+ de
+ la
+ faena
+ temporal.
+
+El
+ hito
+ de
+ término
+ lo
+ constituirá
+ la
+ última
+ prueba
+ eléctrica
+ de
+ funcionamiento,
+ actividad
+ que
+ será
+ definida
+ en
+función
+ del
+ resultado
+ de
+ las
+ pruebas
+ anteriores
+ y
+ que
+ será
+ informada
+ con
+ una
+ semana
+ de
+ anticipación
+ a
+ la
+Superintendencia
+ de
+ Electricidad
+ y
+ Combustibles
+ (SEC).
+
+La
+ fecha
+ de
+ inicio
+ para
+ la
+ fase
+ de
+ construcción
+ será
+ el
+ día
+ 1
+ de
+ febrero
+ de
+ 2016.
+
+La
+ fecha
+ de
+ término
+ para
+ la
+ fase
+ de
+ construcción
+ será
+ el
+ día
+ 31
+ de
+ julio
+ de
+ 2016.
+
+**1.5.3.** **Cronograma**
+
+En
+ la
+ Tabla
+ 9
+ se
+ presenta
+ el
+ cronograma
+ de
+ la
+ Fase
+ de
+ Construcción.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+32
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 9.
+ Cronograma
+ de
+ la
+ Fase
+ de
+ Construcción**
+
+|Etapa | Actividad|Duración|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Etapa | Actividad**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|**Semanas**|
+|**Etapa | Actividad**|**2 **|**4 **|**6 **|**8 **|**10**|**12**|**14**|**16**|**18**|**20**|**22**|**24**|
+|Instalacióndefaenas|||||||||||||
+|Instalacióncercoperimetral|||||||||||||
+|Preparacióndelterreno|||||||||||||
+|Habilitación camino de acceso e<br>internos|||||||||||||
+|Montaje de estructuras de soporte y<br>panelesfotovoltaicos|||||||||||||
+|Sistemadedrenaje|||||||||||||
+|Instalación de equipos de conversión,<br>transformacióny control|||||||||||||
+|Instalación y conexión subterránea de<br>circuitoseléctricos(canalización)|||||||||||||
+|Instalación y conexión de cable de<br>potenciadetransmisión|||||||||||||
+|Instalacióndeequiposdevigilancia|||||||||||||
+|Retirodeinstalacionesdefaena|||||||||||||
+|Pruebaseléctricas|||||||||||||
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**1.5.4.** **Mano
+ de
+ obra**
+
+Las
+ obras
+ serán
+ contratadas
+ a
+ una
+ empresa
+ de
+ montaje
+ y
+ construcción,
+ la
+ que
+ deberá
+ contratar
+ mano
+ de
+ obra
+calificada
+ y
+ no
+ calificada
+ para
+ realizar
+ sus
+ labores.
+
+Respecto
+ de
+ la
+ mano
+ de
+ obra
+ no
+ especializada,
+ se
+ privilegiará
+ la
+ contratación
+ de
+ mano
+ de
+ obra
+ local.
+
+Para
+ las
+ obras
+ de
+ construcción
+ del
+ Proyecto,
+ se
+ considerará
+ una
+ dotación
+ de
+ aproximadamente
+ 40
+ personas
+(con
+ un
+ máximo
+ de
+ 50trabajadores
+ para
+ los
+ momentos
+ de
+ mayor
+ demanda)
+ y
+ que,
+ en
+ términos
+ de
+ cantidad,
+ se
+mantendrá
+ constante
+ a
+ lo
+ largo
+ de
+ esta
+ fase.
+
+Para
+ la
+ ejecución
+ de
+ las
+ obras
+ se
+ considera
+ una
+ jornada
+ laboral
+ de
+ lunes
+ a
+ sábado
+ en
+ jornadas
+ definidas
+ en
+ base
+a
+ lo
+ señalado
+ por
+ el
+ DFL
+ N°1/2003
+ Código
+ del
+ Trabajo.
+ Sólo
+ en
+ forma
+ eventual
+ podría
+ requerirse
+ trabajar
+ algún
+ día
+domingo.
+
+La
+ selección
+ y
+ contratación
+ de
+ mano
+ de
+ obra
+ se
+ realizará
+ de
+ acuerdo
+ a:
+
+ El
+ contratista
+ deberá
+ contactar
+ personal
+ especializado
+ para
+ cada
+ una
+ de
+ las
+ obras
+ señaladas,
+
+cerciorándose
+ que
+ posee
+ experiencia
+ en
+ proyectos
+ similares
+ al
+ que
+ se
+ realizará
+ en
+ Maitenes;
+ Los
+ trabajadores
+ seleccionados
+ se
+ someterán
+ a
+ los
+ exámenes
+ pre-­‐ocupacionales
+ que
+ corresponda,
+
+para
+ asegurar
+ que
+ éstos
+ se
+ encuentran
+ en
+ condiciones
+ de
+ desarrollar
+ su
+ trabajo
+ en
+ óptimas
+condiciones
+ de
+ salud;
+ Los
+ trabajadores
+ aceptados
+ firmarán
+ su
+ contrato
+ de
+ trabajo
+ y
+ se
+ les
+ entregará
+ el
+ Reglamento
+ Interno
+
+de
+ Higiene
+ y
+ Seguridad,
+ del
+ contratista;
+ Los
+ trabajadores
+ contratados
+ recibirán
+ una
+ inducción
+ para
+ conocer
+ las
+ políticas,
+ normas
+ y
+
+regulaciones
+ que
+ regirán
+ sus
+ labores;
+ También
+ se
+ realizarán
+ para
+ los
+ trabajadores
+ contratados,
+ inducciones
+ en
+ seguridad
+ y
+ salud
+
+ocupacional,
+ medio
+ ambiente,
+ comunidad
+ y
+ calidad
+ con
+ las
+ que
+ opera
+ el
+ contratista,
+ así
+ como
+ el
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+33
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+derecho
+ a
+ saber
+ (DAS),
+ para
+ que
+ sean
+ conocidas
+ por
+ todos
+ ellos
+ y
+ las
+ apliquen
+ en
+ sus
+ labores
+regulares;
+ Todos
+ los
+ trabajadores
+ recibirán
+ luego
+ sus
+ elementos
+ de
+ protección
+ personal
+ (EPP),
+ de
+
+ acuerdo
+ a
+ las
+
+labores
+ que
+ les
+ serán
+ encomendadas
+ en
+ el
+ marco
+ de
+ su
+ trabajo;
+ y
+ El
+ traslado
+ del
+ personal
+ será
+ realizado
+ desde
+ y
+ hacia
+ la
+ obra
+ de
+ forma
+ diaria,
+
+ mediante
+ empresas
+ de
+
+transporte
+ autorizadas
+ según
+ lo
+ establecido
+ en
+ el
+ D.S
+ 80/
+ 2004
+ del
+ Ministerio
+ de
+ Transporte
+ desde
+Marchigüe
+ o
+ Pichidegua.
+
+**1.5.5.** **Equipos,
+ Maquinarias,
+ Insumos
+ y
+ Servicios**
+
+1.5.3.1.
+ Equipos
+ y
+ maquinarias
+
+Los
+ equipos
+ y
+ maquinarias
+ que
+ se
+ utilizarán
+ en
+ la
+ fase
+ de
+ construcción
+ se
+ describen
+ en
+ la
+ siguiente
+ tabla
+ (Tabla
+10).
+
+**Tabla
+ 10.
+ Requerimientos
+ de
+ equipos
+ y
+ maquinaria
+ para
+ la
+ construcción
+ de
+ Maitenes**
+
+|Máquina / Equipo|Número|Tiempo de operación (mes)|
+|---|---|---|
+|Excavadora|2|1|
+|Motoniveladora|2|1|
+|Camión Tolva|4|2|
+|Martillo hidráulico (hinca pilotes)|4|1|
+|Camión Grúa|2|3|
+|Camioneta 4x4|2|6|
+|Camión Mixer|1|1|
+|Camión Aljibe|1|6|
+|Generadores 100 KVA|2|6|
+|Bus de transporte|3|6|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+1.5.3.2.
+ Insumos
+_1.5.3.2.1.
+
+ Combustible_
+
+En
+ la
+ fase
+ de
+ construcción
+ se
+ requerirá
+ de
+ petróleo
+ diesel
+ sólo
+ para
+ el
+ generador
+ y
+ para
+ la
+ maquinaria
+ en
+terreno;
+ por
+ lo
+ tanto
+ para
+ su
+ funcionamiento
+ se
+ contará
+ con
+ un
+ suministro
+ diario
+ de
+ combustible
+ en
+ camiones
+tanque,
+ por
+ empresas
+ debidamente
+ autorizadas
+ por
+ la
+ Superintendencia
+ de
+ Electricidad
+ y
+ Combustible.
+
+_1.5.3.2.2.
+
+ Hormigón_
+
+Para
+ la
+ preparación
+ de
+ las
+ plataformas
+ de
+ apoyo
+ de
+ las
+ casetas
+ eléctricas
+ descritas
+ en
+ la
+ sección
+ (Punto
+ 1.5.1.8),
+se
+ estima
+ un
+ total
+ de
+ 40
+ m [3] de
+ hormigón,
+ el
+ cual
+ será
+ proporcionado
+ por
+ terceros
+ autorizados,
+ mediante
+ camiones
+_mixer_ (de
+ hasta
+ 10
+ m [3] );
+ por
+ lo
+ tanto,
+ no
+ se
+ requerirá
+ fabricar
+ este
+ insumo
+ en
+ terrenos
+ del
+ Proyecto.
+
+_1.5.3.2.3.
+ Equipos
+ planta
+ fotovoltaica_
+
+Para
+ el
+ equipamiento
+ de
+ la
+ planta,
+ se
+ importarán
+ y
+ despacharán
+ por
+ barco
+ los
+ paneles
+ fotovoltaicos,
+ los
+ equipos
+eléctricos
+ conversores,
+ transformadores,
+ interruptores,
+ de
+ vigilancia
+ y
+ control,
+ de
+ distribución,
+ así
+ como
+ el
+ cable
+ de
+potencia
+ para
+ la
+ evacuación
+ de
+ la
+ energía
+ eléctrica
+ de
+ la
+ planta
+ y
+ su
+ inyección
+ al
+ SIC.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+34
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Los
+ embalajes
+ de
+ madera
+ en
+ los
+ que
+ vengan
+ los
+ equipos,
+ piezas
+ y
+ partes,
+ cumplirán
+ con
+ la
+ Resolución
+N°133/2005
+ del
+ Servicio
+ Agrícola
+ y
+ Ganadero,
+ para
+ el
+ ingreso
+ de
+ embalajes
+ de
+ madera
+ y
+ la
+ transmisión
+ de
+ plagas.
+
+_1.5.3.2.4.
+
+ Sustancias
+ peligrosas_
+
+Durante
+ la
+ fase
+ de
+ construcción
+ del
+ Proyecto
+ se
+ requerirá
+ de
+ sustancias
+ peligrosas,
+ las
+ cuales
+ serán
+ abastecidas
+por
+ empresas
+ que
+ cuenten
+ con
+ todas
+ las
+ autorizaciones
+ correspondientes.
+ La
+ siguiente
+ tabla
+ muestra
+ el
+ detalle
+ de
+las
+ sustancias
+ requeridas.
+
+**Tabla
+ 11.
+ Requerimientos
+ de
+ sustancias
+ peligrosas
+ para
+ la
+ construcción
+ de
+ Maitenes**
+
+|Sustancia|Cantidad|Unidad|Forma de provisión|Actividad Asociada|
+|---|---|---|---|---|
+|Lubricante spray (WD<br>40Industrial(**a)**|0,0071|m3|Envases sellados|Lubricación de estructuras|
+|Espuma sellante**(b)**|0,045|m3|Envases sellados|Sellado de tuberías eléctricas|
+|Combustible**(c)**|3|m3/semana|Camión tanque|Operación de maquinaria y vehículos|
+|Grasas y lubricantes|0,08|t/mes|Tambores/Latas|Operación de maquinaria y vehículos|
+
+**(a)** :
+ sólo
+ uso
+ de
+ emergencia.
+ 15
+ latas
+ de
+ 16
+ oz
+ (US)
+**(b):** 60
+ tubos
+ de
+ 750
+ ml.
+ Cada
+ 750
+ ml
+ tiene
+ una
+ expansión
+ aproximada
+ de
+ 45
+ l.
+ Se
+ usa
+ para
+ sellar
+ los
+ extremos
+ de
+ los
+ tubos
+corrugados,
+ los
+ bordes
+ de
+ las
+ entradas
+ de
+ los
+ cables
+ en
+ las
+ cabinas
+ eléctricas
+ y
+ los
+ extremos
+ de
+ los
+ postes
+
+ de
+iluminación
+**(c)** :
+ consumo
+ máximo
+ estimado
+ para
+ las
+ primeras
+ semanas
+ de
+ construcción,
+ cuando
+ el
+ movimiento
+ de
+ tierra
+ y
+ construcción
+de
+ caminos
+ sean
+ las
+ tareas
+ principales.
+ Luego
+ es
+ eso,
+ el
+ consumo
+ bajará
+ a
+ <1m [3] /semana.
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Las
+ sustancias
+ serán
+ almacenadas
+ en
+ la
+ bodega
+ de
+ sustancias
+ peligrosas
+ (descrita
+ en
+ la
+ sección
+ 1.4.2)
+ y
+transportadas
+ a
+ través
+ de
+ empresas
+ debidamente
+ autorizadas.
+ Respecto
+ de
+ este
+ último,
+ cabe
+ señalar
+ que
+ si
+ bien
+ el
+Proyecto
+ requiere
+ de
+ sustancias
+ peligrosas,
+ no
+ es
+ parte
+ del
+ proyecto
+ su
+ transporte,
+ ya
+ que,
+ éste
+ estará
+ en
+ manos
+ de
+un
+ tercero
+ autorizado.
+ El
+ titular
+ mantendrá
+ un
+ registro
+ actualizado
+ y
+ disponible
+ para
+ su
+ correcta
+ fiscalización.
+
+1.5.3.3.
+ Servicios
+ requeridos
+_1.5.3.3.1.
+
+ Suministro
+ de
+ agua
+ potable_
+
+Durante
+ la
+ fase
+ de
+ construcción
+ se
+ requerirá
+ de
+ agua
+ potable
+ para
+ los
+ trabajadores.
+ Se
+ estima
+ una
+ cantidad
+ de
+225
+ m [3] /mes
+ (7,5
+ m [3] /día),
+ en
+ base
+ a
+ una
+ dotación
+ de
+ 150
+ l/día
+ por
+ persona
+ (de
+ acuerdo
+ al
+ DS
+ 594/99),
+ estimando
+ un
+máximo
+ de
+ 50
+ trabajadores.
+ El
+ proveedor
+ deberá
+ mantener
+ la
+ provisión
+ de
+ agua
+ necesaria
+ para
+ la
+ operación
+ de
+ las
+duchas
+ y
+ los
+ servicios
+ sanitarios.
+ El
+ agua
+ cumplirá
+ con
+ la
+ NCh
+ 409/84
+ para
+ agua
+ potable.
+
+El
+ agua
+ para
+ beber
+ se
+ suministrará
+ en
+ bidones
+ de
+ agua
+ sellados
+ (20
+ l)
+ y
+ etiquetados
+ adquiridos
+ a
+ una
+ empresa
+autorizada
+ por
+ la
+ Autoridad
+ Sanitaria
+ Local
+ y,
+ los
+ cuales
+ serán
+ instalados
+ en
+ la
+ oficinas
+ al
+ interior
+ de
+ la
+ instalación
+ de
+faena.
+ También
+ se
+ mantendrán
+ botellas
+ individuales
+ para
+ el
+ consumo
+ durante
+ la
+ faena
+ en
+ los
+ frentes
+ de
+ trabajo.
+
+_1.5.3.3.2.
+
+ Suministro
+ de
+ energía_
+
+Para
+ suministrar
+ energía
+ se
+ instalarán
+ dos
+ generadores
+ de
+ 100
+ kVA
+ de
+ motor
+ diesel,
+ en
+ la
+ instalación
+ de
+ faenas,
+o
+ por
+ medio
+ de
+ un
+ empalme
+ temporal
+ de
+ la
+ compañía
+ de
+ distribución
+ eléctrica
+ de
+ la
+ zona.
+
+_1.5.3.3.3.
+
+ Servicios
+ higiénicos_
+
+En
+ la
+ instalación
+ de
+ faenas
+ y
+ los
+ frentes
+ de
+ trabajo,
+ se
+ dispondrá
+ de
+ baños
+ químicos
+ en
+ cantidades
+ establecidas
+en
+ los
+ artículos
+ 23
+ y
+ 24
+ del
+ D.S.
+ No
+ 594/1999
+ del
+ Ministerio
+ de
+ Salud.
+ Del
+ mismo
+ modo,
+ se
+ instalará
+ duchas
+ en
+ la
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+35
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+instalación
+ de
+ faenas
+ para
+ el
+ uso
+ de
+ los
+ trabajadores,
+ según
+ lo
+ indica
+ el
+ artículo
+ 21
+ y
+ 23
+ del
+ D.S.
+ No
+ 594/1999
+ del
+Ministerio
+ de
+ Salud.
+
+El
+ servicio
+ de
+ instalación
+ y
+ mantención
+ de
+ los
+ baños
+ químicos
+ y
+ las
+ duchas
+ será
+ contratado
+ a
+ empresas
+autorizadas
+ por
+ la
+ SEREMI
+ de
+ Salud
+ regional.
+
+_1.5.3.3.4.
+
+ Servicios
+ de
+ alimentación_
+
+Se
+ habilitará
+ un
+ comedor,
+ del
+ tipo
+ contenedor
+ metálico,
+ con
+ capacidad
+ para
+ 50
+ personas,
+ para
+ la
+ alimentación
+de
+ los
+ trabajadores
+ en
+ la
+ faena.
+ Los
+ alimentos
+ serán
+ provistos
+ por
+ una
+ empresa
+ local
+ autorizada
+ por
+ la
+ autoridad
+sanitaria
+ en
+ las
+ cercanías
+ de
+ la
+ obra.
+ Cabe
+ hacer
+ presente
+ que
+ no
+ se
+ considera
+ la
+ preparación
+ de
+ alimentos
+ en
+ las
+instalaciones
+ de
+ faena,
+ sino
+ su
+ consumo.
+
+_1.5.3.3.5.
+
+ Servicios
+ de
+ transporte
+ de
+ equipos
+ y
+ de
+ personal_
+
+Durante
+ la
+ fase
+ de
+ construcción
+ se
+ requerirá
+ transportar
+ al
+ personal
+ contratado,
+ los
+ materiales
+ de
+ construcción,
+las
+ estructuras,
+ equipos,
+ insumos
+ y
+ residuos
+ de
+ distinto
+ tipo.
+ Como
+ medios
+ de
+ transporte
+ se
+ utilizarán
+ vehículos
+livianos,
+ buses
+ y
+ camiones,
+ de
+ proveedores
+ privados
+ de
+ transporte.
+
+Los
+ paneles
+ y
+ otros
+ equipos
+ serán
+ importados,
+ por
+ lo
+ que
+ será
+ necesario
+ transportarlos
+ desde
+ el
+ puerto
+ definido
+por
+ los
+ proveedores,
+ probablemente
+ el
+ Puerto
+ de
+ San
+ Antonio,
+ utilizando
+ como
+ principal
+ ruta
+ de
+ traslado,
+ la
+ Ruta
+78,
+ Ruta
+ I-­‐80G,
+ IG-­‐20
+ y
+ Ruta
+ H-­‐76
+ que
+ da
+ acceso
+ al
+ Proyecto
+ (Figura
+ 2).
+ Debido
+ a
+ la
+ cantidad
+ de
+ paneles
+ y
+dimensiones
+ de
+ la
+ planta
+ fotovoltaica,
+ se
+ requerirá
+ de
+ un
+ máximo
+ de
+ 150
+ viajes,
+ es
+ decir,
+ no
+ más
+ de
+ 5
+ viajes
+ diarios
+concentrados
+ en
+ un
+ mes.
+ El
+ transporte
+ será
+ mediante
+ camiones
+ simples.
+
+Tabla
+ 12
+ se
+ muestra
+ la
+ cantidad
+ estimada
+ de
+ viajes
+ asociados
+ al
+ Proyecto
+ durante
+ esta
+ etapa,
+ en
+ períodos
+ de
+máxima
+ actividad.
+ La
+ estimación
+ se
+ presenta
+ en
+ viajes/día
+ (ida
+ y
+ vuelta).
+
+**Figura
+ 2.
+ Rutas
+ de
+ acceso
+ San
+ Antonio
+ -
+ Maitenes.
+ A)
+ I-­‐80G,
+ I-­‐20,
+ H76;
+ B)
+ I-­‐80G,
+ I-­‐50,
+ H76**
+
+A)
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+36
+
+B)
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Fuente:
+ Maitenes
+ Solar
+ Spa.
+
+**Tabla
+ 12.
+ Estimación
+ del
+ número
+ de
+ viajes
+ en
+ la
+ fase
+ de
+ construcción**
+
+|Tipo de vehículo|Motivo|No de Viajes|Col4|Col5|
+|---|---|---|---|---|
+|**Tipo de vehículo**|**Motivo**|**Día**|**Mes**|**Totales**|
+|Buses|Transporte de personal|2|44|264|
+|Camionetas|Transporte de personal|4|88|530|
+|Camión simple 40’ container|Transporte de paneles|5|150|170|
+|Camión simple 40’ container|Transporte de materiales varios|2|60|70|
+|Camión simple residuos|Transporte de residuos|1|22|30|
+|Camión mixer|Transporte de hormigón|1|22|30|
+|**Total**|**Total**|**15**|**386**|**1.094**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+1 _.5.3.3.6.
+
+ Servicios
+ de
+ alojamiento
+ de
+ personal_
+
+El
+ personal
+ contratado
+ que
+ no
+ sea
+ de
+ la
+ zona,
+ será
+ alojado
+ en
+ la
+ comuna
+ de
+ Marchigüe
+ en
+ los
+ servicios
+ de
+hospedaje
+ que
+ sean
+ ofrecidos,
+ o
+ en
+ otros
+ similares
+ en
+ las
+ comunas
+ aledañas
+ (Pichidegüa,
+ Peralillo,
+ Las
+ Cabras).
+
+Eventualmente,
+ dependiendo
+ del
+ número
+ de
+ trabajadores
+ que
+ sea
+ de
+ otra
+ zona,
+ se
+ arrendará
+ un
+ lugar
+ de
+alojamiento
+ para
+ ellos.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+37
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**1.5.6.** **Explotación
+ o
+ extracción
+ de
+ recursos
+ naturales
+ renovables**
+
+La
+ habilitación
+ de
+ la
+ superficie
+ para
+ el
+ emplazamiento
+ Maitenes
+ y
+ sus
+ obras,
+ considera
+ el
+ descepado
+ de
+ árboles
+y
+ arbustos.
+ El
+ detalle
+ de
+ esta
+ actividad
+ y
+ de
+ las
+ especies
+ a
+ intervenir,
+ se
+ describe
+ en
+ el
+ capítulo
+ 3
+ Plan
+ de
+Cumplimiento
+ de
+ la
+ Legislación
+ Ambiental,
+ el
+ Plan
+ de
+ Manejo
+ para
+ corta
+ de
+ Bosque
+ Nativo,
+ correspondiente
+ al
+ PAS
+148
+ (Anexo
+ 3.4),
+ junto
+ con
+ todos
+ los
+ antecedentes
+ técnicos
+ necesarios
+ para
+ su
+ solicitud.
+
+**1.5.7.** **Emisiones
+ y
+ forma
+ de
+ abatimiento
+ y
+ control**
+
+1.5.7.1.
+
+ Emisiones
+ a
+ la
+ atmósfera
+
+Las
+ principales
+ emisiones
+ a
+ la
+ atmósfera
+ durante
+ la
+ fase
+ de
+ construcción
+ corresponderán
+ a
+ material
+ particulado
+y
+ gases
+ provenientes
+ de
+ actividades
+ asociadas
+ al
+ movimiento
+ de
+ tierra
+ y
+ al
+ tránsito
+ de
+ vehículos.
+ El
+ Anexo
+ 1.10
+presenta
+ la
+ estimación
+ de
+ las
+ emisiones
+ para
+ la
+ fase
+ de
+ construcción.
+ En
+ la
+ Tabla
+ 13
+ se
+ entrega
+ un
+ resumen
+ de
+ las
+emisiones
+ estimadas
+ para
+ el
+ total
+ de
+ esta
+ fase
+ (6
+ meses).
+
+|Tabla
+ 13.
+
+ Emisiones
+ atmosféricas.
+ Fase
+ Construcción|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+||**Emisiones(t)**|**Emisiones(t)**|**Emisiones(t)**|**Emisiones(t)**|**Emisiones(t)**|**Emisiones(t)**|
+|**Actividad**|**MP10 **|**MP2,5 **|**NOx**|**CO**|**HC**|**SOx**|
+|Movimiento de tierra<br>(Escarpeterreno,Excavaciones,Transferenciadematerial,Compactación)|0,27|0,11|-|-|-|-|
+|Operacióny movimientodemaquinaria|0,08|-|1,03|0,23|0,105|-|
+|Tránsitovehicular|0,13|0,03|0,23|0,06|0,013|0,001|
+|Gruposelectrógenos(2x 100kVA)|0,11|0,00000|1,56|0,34|-|0,104|
+|**Total**|**0,59**|**0,14**|**2,82**|**0,63**|**0,118**|**0,105**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+1.5.7.2.
+
+ Emisiones
+ de
+ ruido
+
+La
+ modelación
+ de
+ ruido
+ (Anexo
+ 1.11 ) para
+ la
+ fase
+ de
+ construcción,
+ mostró
+ que
+ todas
+ las
+ actividades
+ a
+ desarrollar
+(Movimiento
+ de
+ tierra,
+ Construcción
+ de
+ caminos
+ y
+ de
+ Obras
+ civiles),
+ en
+ los
+ tres
+ puntos
+ sensibles
+ de
+ registro,
+ tienen
+niveles
+ de
+ presión
+ sonora
+ máximos
+ corregidos
+ (NPC),
+ dentro
+ de
+ los
+ límites
+ establecidos
+ por
+ el
+ D.S.
+ 38/2011
+ (<
+51
+ dBA),
+ por
+ lo
+ tanto
+ se
+ encuentran
+ dentro
+ de
+ lo
+ indicado
+ por
+ la
+ normativa.
+ Sin
+ embargo,
+ en
+ el
+ caso
+ de
+ los
+ puntos
+sensibles
+ R1
+ (Residencia
+ Histórica)
+ y
+ R2
+ (Residencia
+ Makoto),
+ la
+ modelación
+ incluyó
+ la
+ incorporación
+ de
+ una
+ barrera
+acústica
+ de
+ 4
+ metros
+ de
+ altura
+ y
+ 15
+ mm
+ de
+ espesor,
+ para
+ que
+ los
+ NPC
+ estuvieran
+ dentro
+ de
+ lo
+ normado.
+ Así,
+ será
+menester
+ implementar
+ dicha
+ barrera
+ acústica
+ para
+ cumplir
+ con
+ la
+ exigencia
+ señalada.
+
+**1.5.8.** **Manejo
+ de
+ residuos
+ y/u
+ otros
+ productos
+ o
+ sustancias**
+
+1.5.8.1.
+ Residuos
+ líquidos
+
+La
+ generación
+ de
+ residuos
+ líquidos
+ durante
+ esta
+ fase
+ está
+ directamente
+ asociada
+ a
+ la
+ mano
+ de
+ obra,
+ ya
+ que
+corresponderá
+ a
+ aguas
+ servidas.
+ Se
+ estima
+ una
+ generación
+ máxima
+ de
+ 180
+ m [3] /mes
+ (6
+ m [3] /día)
+ de
+ aguas
+ servidas
+domésticas,
+ tomando
+ como
+ referencia
+ un
+ factor
+ de
+ recuperación
+ de
+ 0,8
+ del
+ total
+ del
+ consumo
+ de
+ agua
+ potable
+(Tabla
+ 14).
+
+**Tabla
+ 14.
+ Generación
+ de
+ aguas
+ servidas
+ en
+ fase
+ de
+ construcción**
+
+|Fase|Mano de obra<br>máximo|Consumo<br>(m3/día)|Factor de<br>recuperación|Agua servida<br>generada<br>(m3/día)|Agua servida<br>generada<br>(m3/mes)|
+|---|---|---|---|---|---|
+|Construcción|50|7,5|0,8|6|180|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+38
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Como
+ se
+ menciona
+ anteriormente,
+ en
+ base
+ a
+ la
+ temporalidad
+ de
+ la
+ fase
+ de
+ construcción
+ (6
+ meses
+ como
+máximo)
+ y
+ al
+ número
+ de
+ trabajadores
+ considerado
+ (50
+ como
+ máximo),
+ se
+ contempla
+ para
+ esta
+ fase
+ la
+ utilización
+ de
+baños
+ químicos
+ portátiles,
+ los
+ cuales
+ cumplirán
+ con
+ lo
+ dispuesto
+ en
+ el
+ D.S.
+ N°594
+ del
+ Ministerio
+ de
+ Salud,
+“Reglamento
+ sobre
+ condiciones
+ sanitarias
+ y
+ ambientales
+ básicas
+ en
+ los
+ lugares
+ de
+ trabajo”,
+ publicado
+ en
+ el
+ Diario
+Oficial
+ del
+ 29
+ de
+ abril
+ de
+ 2000.
+ En
+ particular
+ se
+ indica
+ que
+ en
+ lo
+ que
+ respecta
+ a
+ la
+ cantidad
+ y
+ ubicación
+ de
+ los
+ baños
+químicos,
+ se
+ dará
+ cumplimiento
+ a
+ lo
+ establecido
+ en
+ los
+ artículos
+ 24
+ y
+ 25
+ del
+ D.S.
+ N°
+ 594,
+ es
+ decir:
+
+ Los
+ baños
+ químicos
+ se
+ proveerán
+ en
+ la
+ cantidad
+ indicada
+ en
+ los
+ artículos
+ 23
+ y
+ 24
+ del
+ D.S.
+ N°594.
+ Los
+ baños
+ químicos
+ estarán
+ instalados
+ a
+ no
+ más
+ de
+ 75
+ metros
+ de
+ distancia
+ del
+ área
+ de
+ trabajo.
+ El
+ servicio
+ de
+ instalación
+ y
+ mantención
+ de
+ los
+ baños
+ químicos
+ para
+ los
+ frentes
+ de
+ trabajo
+ será
+
+contratado
+ a
+ una
+ empresa
+ autorizada
+ por
+ la
+ Autoridad
+ Sanitaria.
+ Esta
+ empresa,
+ estará
+ a
+ cargo
+ tanto
+ del
+suministro,
+ funcionamiento
+ de
+ los
+ baños,
+ así
+ como
+ de
+ los
+ residuos
+ generados
+ por
+ éstos,
+ producto
+ de
+ su
+limpieza.
+ Se
+ contempla
+ una
+ limpieza
+ periódica
+ (de
+ al
+ menos
+ 2
+ veces
+ por
+ semana)
+ de
+ cada
+ baño.
+ En
+ este
+ sentido,
+ el
+ Titular
+ exigirá
+ que
+ todas
+ las
+ empresas
+ que
+ se
+ contraten
+ estén
+ autorizadas
+ por
+ la
+
+Autoridad
+ Sanitaria.
+ Para
+ ello
+ el
+ Titular
+ exigirá,
+ la
+ entrega
+ de
+ la
+ Resolución
+ que
+ acredite
+ la
+ autorización
+para
+ funcionar
+ y
+ el
+ contrato
+ vigente
+ con
+ la
+ empresa
+ sanitaria
+ local
+ para
+ la
+ disposición
+ de
+ los
+ residuos.
+ Además
+ de
+ lo
+ anterior
+ se
+ llevará
+ un
+ sistema
+ de
+ registro
+ y
+ control
+ de
+ la
+ mantención
+ y
+ disposición
+ final
+
+de
+ los
+ residuos
+ generados
+ por
+ éstos,
+ a
+ fin
+ de
+ demostrar
+ que
+ la
+ disposición
+ final
+ se
+ efectuará
+ en
+ lugar
+autorizado.
+ En
+ términos
+ generales,
+ el
+ sistema
+ de
+ registro
+ considerará:
+
+`o` Fecha
+ de
+ retiro
+ de
+ los
+ residuos
+ generados
+ por
+ los
+ baños
+ químicos;
+`o` Número
+ de
+ baños;
+`o` Empresa
+ responsable
+ del
+ retiro
+ de
+ los
+ residuos
+ generados
+ de
+ los
+ baños;
+`o` Cantidad
+ estimada
+ de
+ residuos
+ generados
+ y
+ retirados;
+ y
+`o` Lugar
+ de
+ destino
+ y
+ disposición
+ final
+ de
+ los
+ residuos.
+1.5.8.2.
+ Residuos
+ sólidos
+ domiciliarios
+
+El
+ Proyecto
+ generará
+ residuos
+ sólidos
+ domésticos
+ y
+ asimilables
+ a
+ domésticos,
+ los
+ cuales
+ consistirán
+ básicamente
+en
+ papeles,
+ envases
+ y
+ elementos
+ similares.
+ Se
+ estima
+ una
+ generación
+ de
+ 1
+ kg/día
+ por
+ persona;
+ por
+ lo
+ tanto,
+ se
+estima
+ una
+ generación
+ máxima
+ de
+ 1,7
+ t/mes,
+ de
+ residuos
+ sólidos
+ domiciliarios.
+
+Los
+ residuos
+ sólidos
+ domésticos
+ serán
+ almacenados
+ en
+ bolsas
+ plásticas
+ al
+ interior
+ de
+ contenedores
+ cubiertos
+especialmente
+ demarcados
+ y
+ habilitados
+ en
+ la
+ faena
+ de
+ construcción.
+ Diariamente
+ serán
+ retirados
+ para
+ su
+almacenamiento
+ temporal
+ en
+ un
+ contenedor
+ que
+ se
+ ubicará
+ en
+ el
+ patio
+ de
+ almacenamiento
+ temporal
+ de
+ residuos
+domiciliarios.
+ Desde
+ este
+ lugar,
+ los
+ residuos
+ serán
+ retirados
+ dos
+ veces
+ por
+ semana
+ por
+ una
+ empresa
+ autorizada
+ y
+transportados
+ hacia
+ un
+ relleno
+ autorizado
+ para
+ su
+ disposición
+ final.
+
+Para
+ el
+ retiro
+ de
+ residuos
+ sólidos
+ domiciliarios,
+ se
+ contempla
+ un
+ procedimiento
+ de
+ registro
+ y
+ seguimiento,
+ el
+cual
+ verificará
+ que
+ todos
+ los
+ camiones
+ que
+ se
+ despachen
+ de
+ faena
+ lleguen
+ a
+ destino
+ autorizado.
+ Este
+ plan
+contempla
+ el
+ registro
+ y
+ la
+ emisión
+ de
+ informes
+ mensuales,
+ que
+ contendrán
+ como
+ mínimo
+ información
+ asociada
+ a:
+
+ Trabajador
+ de
+ la
+ Planta
+ Fotovoltaica
+ a
+ cargo
+ del
+ retiro
+ de
+ residuos;
+ Empresa
+ que
+ realiza
+ el
+ retiro
+ de
+ residuos;
+ Trabajador
+ de
+ la
+ empresa
+ que
+ retira
+ los
+ residuos;
+ Fecha
+ de
+ retiro;
+ Hora
+ de
+ retiro;
+ Hora
+ de
+ salida;
+ Tipo
+ de
+ residuos
+ retirado;
+ Peso
+ total
+ (kg);
+ Patente
+ vehículo
+ que
+ retira
+ los
+ residuos;
+ Lugar
+ de
+ disposición
+ final;
+ Fecha
+ de
+ recepción
+ de
+ residuos;
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+39
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+ Hora
+ de
+ recepción
+ de
+ residuos;
+ y
+ Peso
+ total
+ de
+ residuos
+ recepcionados
+ (kg).
+
+Finalmente
+ se
+ llevará
+ un
+ registro
+ actualizado
+ de
+ las
+ guías
+ de
+ despacho
+ asociadas
+ a
+ cada
+ retiro
+ de
+ residuos.
+
+El
+ detalle
+ de
+ la
+ cantidad
+ de
+ residuos
+ domésticos
+ generados
+ y
+ su
+ sistema
+ de
+ disposición,
+ se
+ indica
+ en
+ el
+ Capítulo
+3,
+ Plan
+ de
+ Cumplimiento
+ de
+ la
+ Legislación
+ Ambiental
+ Aplicable,
+ Anexo
+ 3.1.-­‐
+ PAS
+ 140.
+
+1.5.6.3.
+ Residuos
+ sólidos
+ no
+ peligrosos
+
+La
+ construcción
+ del
+ parque
+ fotovoltaico
+ generará
+ residuos
+ industriales
+ sólidos
+ no
+ peligrosos,
+ tales
+ como
+ restos
+de
+ maderas,
+ plásticos,
+ restos
+ de
+ cables,
+ tornillos,
+ alambres
+ u
+ otros
+ similares.
+ Se
+ estima
+ una
+ generación
+ de
+ 0,97
+t/mes,
+ de
+ acuerdo
+ al
+ detalle
+ descrito
+ en
+ la
+ siguiente
+ tabla
+ (Tabla
+ 15).
+
+**Tabla
+ 15.
+ Generación
+ de
+ residuos
+ sólidos
+ no
+ peligrosos
+ en
+ fase
+ de
+ construcción**
+
+|Residuo|Cantidad (t/mes)|
+|---|---|
+|Hormigón|0,12|
+|Restos de cables, tornillos, clavos, alambres|0,1|
+|Restos de embalaje envases de plástico, maderas|0,7|
+|Elementos de Protección Personal|0,05|
+|**Total**|**0,97**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+Los
+ residuos
+ industriales
+ no
+ peligrosos
+ serán
+ dispuestos
+ temporalmente
+ en
+ contenedores
+ ubicados
+ en
+ la
+instalación
+ de
+ faena.
+ Los
+ residuos
+ que
+ presenten
+ algún
+ valor
+ comercial,
+ como
+ la
+ chatarra,
+ podrán
+ ser
+ retirados
+ por
+empresas
+ de
+ reciclaje
+ de
+ materiales,
+ en
+ tanto
+ que
+ aquellos
+ residuos
+ que
+ no
+ presenten
+ valor
+ comercial
+ serán
+dispuestos
+ temporalmente
+ en
+ un _container_ tipo _roll-­‐off_ abierto
+ de
+ 10
+ m3
+ hasta
+ su
+ retiro
+ por
+ una
+ empresa
+autorizada
+ que
+ lo
+ transportará
+ hacia
+ un
+ sitio
+ autorizado
+ para
+ su
+ disposición
+ final.
+
+Respecto
+ del
+ retiro,
+ al
+ igual
+ que
+ para
+ los
+ residuos
+ sólidos
+ domiciliarios,
+ se
+ contempla
+ un
+ procedimiento
+ de
+registro
+ y
+ seguimiento,
+ el
+ cual
+ verificará
+ que
+ todos
+ los
+ camiones
+ que
+ se
+ despachen
+ de
+ faena
+ lleguen
+ a
+ destino
+autorizado.
+ Este
+ plan
+ contempla
+ el
+ registro
+ y
+ la
+ emisión
+ de
+ informes
+ mensuales,
+ que
+ contendrán
+ como
+ mínimo
+información
+ asociada
+ a:
+
+ Trabajador
+ de
+ la
+ Planta
+ Fotovoltaica
+ a
+ cargo
+ del
+ retiro
+ de
+ residuos;
+ Empresa
+ que
+ realiza
+ el
+ retiro
+ de
+ residuos;
+ Trabajador
+ de
+ la
+ empresa
+ que
+ retira
+ los
+ residuos;
+ Fecha
+ de
+ retiro;
+ Hora
+ de
+ retiro;
+ Hora
+ de
+ salida;
+ Tipo
+ de
+ residuos
+ retirado;
+ Peso
+ total
+ (kg);
+ Patente
+ vehículo
+ que
+ retira
+ los
+ residuos;
+ Lugar
+ de
+ disposición
+ final;
+ Fecha
+ de
+ recepción
+ de
+ residuos;
+ Hora
+ de
+ recepción
+ de
+ residuos;
+ y
+ Peso
+ total
+ de
+ residuos
+ recepcionados
+ (kg).
+
+Finalmente
+ se
+ llevará
+ un
+ registro
+ actualizado
+ de
+ las
+ guías
+ de
+ despacho
+ asociadas
+ a
+ cada
+ retiro
+ de
+ residuos.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+40
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+El
+ detalle
+ de
+ la
+ cantidad
+ de
+ residuos
+ domésticos
+ generados
+ y
+ su
+ sistema
+ de
+ disposición,
+ se
+ indica
+ en
+ el
+ Capítulo
+3,
+ Anexo
+ 3.1-­‐PAS
+ 140.
+
+1.5.6.4.
+ Residuos
+ peligrosos
+
+Actividades
+ de
+ mantención
+ menor
+ de
+ equipos
+ y
+ vehículos,
+ así
+ como
+ el
+ uso
+ de
+ combustible
+ en
+ maquinarias
+ y
+generador
+ eléctrico
+ generará
+ residuos
+ industriales
+ sólidos
+ peligrosos,
+ los
+ cuales
+ consistirán
+ básicamente
+ en
+ guaipes
+contaminados,
+ aceites
+ usados,
+ envases
+ y
+ paños
+ contaminados,
+ entre
+ otros.
+ También
+ se
+ generarán
+ residuos
+asociados
+ a
+ actividades
+ de
+ pintura.
+ La
+ cantidad
+ de
+ estos
+ residuos
+ será
+ mínima,
+ estimándose
+ una
+ cantidad
+aproximada
+ de
+ 0,06
+ t/mes.
+
+**Tabla
+ 16.
+ Generación
+ de
+ residuos
+ peligrosos
+ en
+ fase
+ de
+ construcción**
+
+|Residuo|Cantidad (t/mes)|
+|---|---|
+|Latas de lubricante (WD-40)|0,02|
+|Tubos de espuma sellante de poliuretano|0,01|
+|Elementos de Protección Personal contaminados con sustancias peligrosas|0,02|
+|Trapos contaminados|0,01|
+|Tóner de impresora|0,0015|
+|Pilas / baterías|0,003|
+|**Total**|**0,0645**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+Los
+ residuos
+ peligrosos
+ serán
+ dispuestos
+ temporalmente
+ de
+ acuerdo
+ a
+ lo
+ dispuesto
+ en
+ el
+ artículo
+ 33
+ del
+ D.S.
+148/2003
+ (MINSAL).
+ Periódicamente,
+ una
+ vez
+ al
+ mes,
+ serán
+ retirados
+ por
+ una
+ empresa
+ calificada
+ y
+ trasladados
+ a
+ un
+lugar
+ de
+ disposición
+ final
+ autorizado,
+ de
+ acuerdo
+ a
+ lo
+ dispuesto
+ en
+ el
+ mismo
+ Reglamento,
+ declarando
+oportunamente
+ la
+ cantidad
+ de
+ residuos
+ peligrosos
+ en
+ el
+ SIDREP.
+
+Respecto
+ del
+ retiro,
+ al
+ igual
+ que
+ para
+ los
+ residuos
+ sólidos
+ domiciliarios
+ y
+ no
+ peligrosos,
+ se
+ contempla
+ un
+procedimiento
+ de
+ registro
+ y
+ seguimiento,
+ el
+ cual
+ verificará
+ que
+ todos
+ los
+ camiones
+ que
+ se
+ despachen
+ de
+ faena
+lleguen
+ a
+ destino
+ autorizado.
+ Este
+ plan
+ contempla
+ el
+ registro
+ y
+ la
+ emisión
+ de
+ informes
+ mensuales,
+ que
+ contendrán
+como
+ mínimo
+ información
+ asociada
+ a:
+
+ Trabajador
+ de
+ la
+ Planta
+ Fotovoltaica
+ a
+ cargo
+ del
+ retiro
+ de
+ residuos;
+ Empresa
+ que
+ realiza
+ el
+ retiro
+ de
+ residuos;
+ Trabajador
+ de
+ la
+ empresa
+ que
+ retira
+ los
+ residuos;
+ Fecha
+ de
+ retiro;
+ Hora
+ de
+ retiro;
+ Hora
+ de
+ salida;
+ Tipo
+ de
+ residuos
+ retirado;
+ Peso
+ total
+ (kg);
+ Patente
+ vehículo
+ que
+ retira
+ los
+ residuos;
+ Lugar
+ de
+ disposición
+ final;
+ Fecha
+ de
+ recepción
+ de
+ residuos;
+ Hora
+ de
+ recepción
+ de
+ residuos;
+ y
+ Peso
+ total
+ de
+ residuos
+ recepcionados
+ (kg).
+
+Finalmente
+ se
+ llevará
+ un
+ registro
+ actualizado
+ de
+ las
+ guías
+ de
+ despacho
+ asociadas
+ a
+ cada
+ retiro
+ de
+ residuos.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+41
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Todo
+ el
+ personal
+ en
+ obra
+ estará
+ debidamente
+ capacitado
+ para
+ el
+ manejo
+ de
+ estos
+ residuos
+ y
+ para
+ el
+procedimiento
+ a
+ seguir
+ en
+ caso
+ de
+ emergencia.
+ Se
+ elaborará
+ un
+ plan
+ de
+ emergencia
+ que
+ incluirá
+ un
+ Sistema
+ de
+Combate
+ de
+ Incendios
+ y
+ Control
+ de
+ Derrames,
+ documento
+ que
+ especificará
+ el
+ modo
+ de
+ proceder
+ ante
+ incidentes
+relacionados
+ con
+ el
+ manejo
+ sustancias
+ peligrosas.
+ Este
+ procedimiento
+ será
+ elaborado
+ una
+ vez
+ que
+ comiencen
+ las
+obras
+ y
+ formará
+ parte
+ de
+ la
+ documentación
+ de
+ Prevención
+ de
+ Riesgos
+ y
+ Medio
+ Ambiente,
+ de
+ la
+ instalación
+ de
+faenas.
+
+El
+ detalle
+ de
+ la
+ cantidad
+ de
+ residuos
+ domésticos
+ generados
+ y
+ su
+ sistema
+ de
+ disposición,
+ se
+ indica
+ en
+ el
+ Capítulo
+3,
+ Anexo
+ 3.2-­‐PAS
+ 142.
+
+1.5.6.5.
+ Paneles
+ fotovoltaicos
+ dañados
+
+Es
+ posible
+ que
+ algunos
+ paneles
+ fotovoltaicos
+ sufran
+ daños
+ durante
+ su
+ traslado
+ o
+ su
+ montaje,
+ debiendo
+ ser
+reemplazados.
+ Por
+ esta
+ razón,
+ se
+ considera
+ que
+ existirá
+ una
+ cantidad
+ de
+ paneles
+ dañados
+ que
+ pueden
+ catalogarse
+como
+ residuos
+ generados
+ durante
+ la
+ fase
+ de
+ construcción.
+ Independiente
+ del
+ alcance
+ de
+ su
+ daño,
+ este
+ residuo
+ será
+manejado
+ como
+ si
+ fuera
+ un
+ residuo
+ peligroso.
+ Se
+ estima
+ una
+ cantidad
+ equivalente
+ a
+ 0,02
+ t/mes.
+
+En
+ la
+ Tabla
+ 17
+ se
+ muestra
+ el
+ resumen
+ de
+ la
+ generación
+ de
+ residuos
+ durante
+ la
+ fase
+ de
+ construcción
+ de
+ Maitenes.
+
+**Tabla
+ 17.
+ Resumen
+ de
+ la
+ generación
+ de
+ residuos
+ en
+ fase
+ de
+ construcción**
+
+|Tipo de residuos|Cantidad estimada<br>(t/mes)|Forma de manejo|Lugar de disposición final|
+|---|---|---|---|
+|Residuos domésticos|1,7|Retiro diario en contenedores exclusivos en<br>frentes de trabajo y almacenamiento<br>temporal en Instalación de Faenas. Desde ahí<br>retiro dos o tres veces por semana, por<br>servicio municipal o empresa especializada y<br>autorizada.|Retiro y disposición en<br>relleno sanitario autorizado<br>por la SEREMI de Salud<br>Región de O’Higgins|
+|Residuos Industriales<br>no peligrosos|0,97|Retiro periódico en frentes de trabajo y<br>almacenamiento temporal en contenedores<br>exclusivos en Instalación de Faenas. Desde<br>ahí, retiro mensual por empresa autorizada.|Retiro y disposición en lugar<br>autorizado por la SEREMI de<br>Salud Región de O’Higgins.<br>Eventualmente, reciclado por<br>empresa especializada.|
+|Residuos peligrosos|0,06|Almacenamiento temporal en Instalación de<br>Faenas. Desde ahí, retiro mensual por<br>empresa autorizada.|Retiro y disposición en sitio<br>autorizado de acuerdo al D.S.<br>148/2003.|
+|Paneles fotovoltaicos<br>dañados|0,02|Almacenamiento temporal en contenedor<br>exclusivo en Instalación de Faenas. Desde ahí,<br>retiro mensual por empresa autorizada.|Retiro y disposición en sitio<br>autorizado de acuerdo al D.S.<br>148/2003.|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**1.6.** **Fase
+ de
+ Operación**
+**1.6.1.** **Partes,
+ Obras
+ y
+ Acciones**
+
+La
+ principal
+ parte
+ u
+ obra
+ del
+ Proyecto
+ en
+ la
+ fase
+ de
+ operación
+ seránlos
+ módulos
+ fotovoltaicos
+ que
+ conformarán
+el
+ parque
+ fotovoltaico,
+ junto
+ al
+ tendido
+ eléctrico
+ de
+ evacuación
+ de
+ la
+ energía
+ eléctrica
+ generada.
+
+Las
+ acciones
+ durante
+ esta
+ fase
+ se
+ describen
+ a
+ continuación.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+42
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.6.1.1.
+
+ Pruebas
+ de
+ energización
+ y
+ puesta
+ en
+ marcha
+
+La
+ fase
+ de
+ operación,
+ comienza
+ con
+ la
+ conexión
+ de
+ los
+ equipos.
+ Para
+ probar
+ su
+ funcionamiento
+ y
+ lograr
+ una
+conexión
+ exitosa,
+ se
+ consideran
+ las
+ siguientes
+ pruebas:
+
+_1.6.1.1.1.
+
+ Pruebas
+ de
+ equipos_
+
+Antes
+ de
+ conectar
+ la
+ planta
+ a
+ la
+ red
+ de
+ distribución,
+ es
+ necesario
+ revisar
+ los
+ equipos
+ que
+ componen
+ el
+ Proyecto
+de
+ forma
+ individual,
+ esto
+ con
+ la
+ finalidad
+ de
+ verificar
+ que
+ el
+ montaje
+ se
+ haya
+ realizado
+ conforme
+ a
+ la
+documentación
+ técnica
+ del
+ proyecto,
+ a
+ las
+ instrucciones
+ del
+ proveedor
+ y
+ a
+ la
+ normativa
+ asociada
+ si
+ corresponde;
+ y
+asegurar
+ el
+ correcto
+ funcionamiento
+ del
+ equipo
+ en
+ cuestión,
+ mediante
+ los
+ controles
+ indicados
+ en
+ las
+ normas
+respectivas,
+ manual
+ del
+ fabricante
+ y
+ cualquier
+ otra
+ especificación
+ especial
+ previamente
+ señalada.
+
+Los
+ equipos
+ que
+ deben
+ ser
+ revisados
+ corresponden
+ a:
+
+ Estaciones
+ de
+ inversores
+ y
+ centros
+ de
+ transformación;
+ Sistema
+ de
+ conexiones
+ eléctricas
+ interno;
+ Control
+ de
+ Supervisión
+ y
+ el
+ sistema
+ de
+ adquisición
+ de
+ datos
+ -
+ SCADA;
+ y
+ El
+ sistema
+ de
+ seguridad.
+
+Están
+ previstas
+ pruebas
+ funcionales
+ en
+ diferentes
+ condiciones
+ de
+ operación
+ realizada
+ por
+ cada
+ equipo.
+ Después
+de
+ este
+ paso,
+ los
+ dispositivos
+ deben
+ ser
+ revisados
+ todos
+ juntos
+ con
+ el
+ fin
+ de
+ comprobar
+ el
+ cumplimiento
+ de
+ toda
+ la
+instalación
+ fotovoltaica.
+
+_1.6.1.1.2.
+
+ Pruebas
+ de
+ sistema_
+
+Una
+ vez
+ revisados
+ los
+ equipos
+ en
+ particular,
+ se
+ procederá
+ a
+ evaluar
+ el
+ funcionamiento
+ del
+ sistema
+ en
+ su
+conjunto
+ con
+ sus
+ correspondientes
+ cables
+ de
+ interconexión,
+ todos
+ los
+ cuales
+ deberán
+ constituir
+ unidades
+funcionales
+ diferenciadas.
+
+El
+ ensayo
+ de
+ estas
+ funciones
+ se
+ hará
+ en
+ forma
+ sistemática,
+ para
+ diferentes
+ condiciones
+ de
+ operación,
+ en
+ base
+ a
+protocolos
+ previamente
+ establecidos.
+
+Finalmente
+ todos
+ los
+ dispositivos,
+ equipos
+ y
+ sistemas
+ serán
+ revisados
+ en
+ conjunto,
+ con
+ el
+ fin
+ de
+ comprobar
+ el
+cumplimiento
+ de
+ toda
+ la
+ instalación
+ fotovoltaica.
+
+1.6.1.2.
+
+ Generación
+ y
+ transmisión
+ de
+ energía
+
+La
+ fase
+ de
+ operación
+ consiste
+ en
+ la
+ generación
+ de
+ energía
+ eléctrica
+ a
+ partir
+ de
+ cada
+ módulo
+ fotovoltaico,
+ la
+ que
+será
+ transmitida
+ en
+ corriente
+ continua
+ de
+ baja
+ tensión,
+ para
+ luego
+ ser
+ invertida
+ (corriente
+ continua/corriente
+alterna),
+ transformada
+ (MT/BT),
+ conducida
+ a
+ través
+ los
+ sistemas
+ de
+ conexión
+ internos
+ al
+ centro
+ de
+ distribución
+ y
+luego
+ inyectada
+ a
+ la
+ red
+ de
+ distribución
+ mediante
+ el
+ tendido
+ eléctrico
+ proyectado.
+
+Este
+ proceso
+ no
+ requiere
+ de
+ personal
+ técnico
+ presente
+ en
+ la
+ planta,
+ ya
+ que
+ ésta
+ funcionará
+ de
+ forma
+automática
+ a
+ través
+ del
+ sistema
+ SCADA,
+ que
+ controla
+ y
+ verifica
+ la
+ instalación
+ fotovoltaica.
+ Se
+ requerirá
+ personal
+técnico
+ sólo
+ para
+ el
+ mantenimiento
+ programado
+ o
+ en
+ caso
+ de
+ emergencia.
+
+**1.6.2.** **Fecha
+ estimada
+ e
+ indicación
+ de
+ la
+ parte,
+ obra
+ o
+ acción
+ que
+ establezca
+ el
+ inicio
+ y
+ término
+ de
+ la
+ fase
+ de**
+**operación**
+
+El
+ inicio
+ de
+ la
+ ejecución
+ del
+ Proyecto
+ será
+ una
+ vez
+ que
+ se
+ obtenga
+ la
+ Resolución
+ de
+ Calificación
+ Ambiental
+favorable
+ y
+ los
+ permisos
+ sectoriales
+ necesarios
+ para
+ la
+ construcción
+ de
+ las
+ obras.
+
+El
+ hito
+ de
+ inicio
+ de
+ esta
+ fase
+ se
+ define
+ como
+ el
+ momento
+ en
+ que
+ se
+ inicia
+ la
+ entrega
+ de
+ energía
+ eléctrica
+ a
+ la
+ red,
+lo
+ cual
+ podrá
+ verificarse
+ en
+ la
+ sala
+ de
+ control.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+43
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+La
+ fecha
+ de
+ inicio
+ para
+ la
+ fase
+ de
+ operación
+ será
+ el
+ día
+ 1
+ de
+ agosto
+ de
+ 2016.
+
+Si
+ bien
+ el
+ Proyecto
+ no
+ contempla
+ una
+ fase
+ de
+ cierre
+ y
+ abandono,
+ frente
+ a
+ la
+ ocurrencia
+ de
+ una
+ eventualidad
+ que
+ocasione
+ su
+ cierre
+ y
+ según
+ lo
+ señalado
+ por
+ la
+ normativa
+ ambiental
+ vigente,
+ la
+ presente
+ DIA
+ incluye
+ la
+ descripción
+ de
+una
+ eventual
+ fase
+ de
+ cierre
+ en
+ la
+ presente
+ sección.
+
+La
+ acción
+ que
+ dará
+ término
+ a
+ la
+ fase
+ de
+ operación
+ consistirá
+ en
+ el
+ corte
+ de
+ la
+ entrega
+ de
+ energía
+(desenergización),
+ lo
+ cual
+ podrá
+ verificarse
+ en
+ la
+ sala
+ de
+ control.
+
+La
+ fecha
+ de
+ término
+ para
+ la
+ fase
+ de
+ operación
+ sería
+ posterior
+ a
+ la
+ vida
+ útil
+ proyectada
+ para
+ el
+ Proyecto,
+ 25
+ años.
+
+**1.6.3.** **Cronograma
+ fase
+ de
+ operación**
+
+En
+ la
+ Tabla
+ 18
+ se
+ presenta
+ el
+ cronograma
+ de
+ la
+ fase
+ de
+ operación.
+
+**Tabla
+ 18.
+ Cronograma
+ de
+ la
+ Fase
+ de
+ Operación**
+
+|Etapa | Actividad|Duración|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Etapa | Actividad**|**Años**|**Años**|**Años**|**Años**|**Años**|**Años**|**Años**|**Años**|**Años**|**Años**|**Años**|
+|**Etapa | Actividad**|**1 **|**2 **|**3 **|**4 **|**5 **|**6 **|**7 **|**8 **|**9 **|**... **|**25**|
+|Puesta en marcha y operación<br>plantafotovoltaica||||||||||||
+|Monitoreoy vigilancia||||||||||||
+|Mantencióndepaneles||||||||||||
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**1.6.4.** **Mano
+ de
+ obra**
+
+Para
+ las
+ actividades
+ de
+ mantenimiento
+ y
+ revisiones
+ programadas,
+ se
+ contempla
+ un
+ número
+ de
+ 4-­‐6
+ trabajadores,
+como
+ máximo.
+ Estos
+ visitarán
+ de
+ forma
+ periódica
+ las
+ instalaciones
+ de
+ la
+ planta.
+ Sin
+ embargo,
+ cabe
+ señalar
+ que
+durante
+ esta
+ fase
+ no
+ se
+ requerirá
+ de
+ mano
+ de
+ obra
+ permanente
+ en
+ planta,
+ ya
+ que,
+ como
+ se
+ mencionó
+ previamente,
+ésta
+ funcionará
+ de
+ manera
+ automática.
+
+**1.6.5.** **Descripción
+ de
+ las
+ actividades
+ de
+ mantención
+ y
+ conservación**
+
+El
+ proyecto
+ sólo
+ contempla
+ actividades
+ de
+ comprobación
+ de
+ cableado
+ y
+ conexiones,
+ revisión
+ general
+ y
+ limpieza
+de
+ módulos
+ fotovoltaicos,
+ las
+ que
+ se
+ describen
+ a
+ continuación.
+
+1.6.5.1.
+
+ Corte
+ y
+ desbrozado
+ de
+ hierbas
+ y
+ pastos
+
+Una
+ o
+ dos
+ veces
+ al
+ año,
+ en
+ la
+ estación
+ seca,
+ 2
+ trabajadores,
+ por
+ un
+ lapso
+ de
+ 3
+ ó
+ 4
+ días,
+ realizarán
+ labores
+ de
+limpieza
+ del
+ terreno
+ de
+ hierbas
+ y
+ pastos.
+ Esto
+ tiene
+ el
+ doble
+ propósito
+ de
+ evitar
+ el
+ sombreo
+ de
+ los
+ paneles
+fotovoltaico
+ de
+ modo
+ que
+ no
+ se
+ vea
+ afectada
+ la
+ generación,
+ y
+ también
+ evitar
+ el
+ peligro
+ de
+ incendio
+ -especialmente
+en
+ verano-­‐
+ producto
+ de
+ las
+ hierbas
+ secas
+ que
+ naturalmente
+ crecen
+ en
+ el
+ lugar.
+
+Los
+ residuos
+ orgánicos
+ serán
+ retirados
+ del
+ lugar
+ o
+ dispuestos
+ en
+ un
+ sector
+ donde
+ no
+ representen
+ un
+ riesgo
+ y
+puedan
+ degradarse
+ naturalmente .
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+44
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.6.5.2.
+
+ Mantención
+ de
+ la
+ planta
+ fotovoltaica
+_1.6.5.2.1.
+
+ Mantenimiento
+ preventivo_
+
+El
+ mantenimiento
+ preventivo
+ de
+ la
+ planta
+ será
+ realizado
+ por
+ 2
+ a
+ 4
+ trabajadores,
+ por
+ lapsos
+ variables
+ de
+ 3
+ a
+ 5
+días,
+ con
+ una
+ frecuencia
+ mensual .
+
+La
+ mantención
+ de
+ los
+ paneles
+ fotovoltaicos
+ se
+ realizará
+ por
+ medio
+ de
+ recorridos
+ pedestres
+ para
+ la
+ inspección
+visual
+ de
+ los
+ paneles,
+ las
+ estructuras,
+ los
+ equipos
+ y
+ los
+ conductores.
+ Estos
+ tienen
+ por
+ objetivo
+ detectar
+ posibles
+fallas
+ en
+ los
+ materiales
+ que
+ pudiesen
+ afectar
+ la
+ seguridad,
+ estabilidad
+ y
+ continuidad
+ del
+ servicio.
+ Asimismo,
+contempla
+ principalmente
+ el
+ chequeo
+ y
+ la
+ limpieza
+ de
+ los
+ sistemas
+ eléctricos;
+ incluyendo
+ el
+ conjunto
+ de
+inspecciones,
+ pruebas
+ y
+ medidas
+ que
+ se
+ efectúan
+ para
+ mantener
+ el
+ estado
+ de
+ los
+ paneles,
+ estructuras
+ y
+ equipos.
+También
+ incluye
+ acciones
+ correctivas
+ menores,
+ periódicas
+ y
+ programables
+ tales
+ como
+ el
+ reapriete
+ de
+ conexiones,
+retoques
+ de
+ pintura,
+ etc.
+
+Respecto
+ de
+ los
+ caminos
+ de
+ internos
+ y
+ de
+ acceso
+ a
+ la
+ planta,
+ el
+ personal
+ a
+ cargo
+ del
+ funcionamiento
+ normal
+ de
+la
+ instalación
+ fotovoltaica
+ se
+ hará
+ cargo
+ de
+ éstos
+ con
+ el
+ fin
+ de
+ evitar
+ cualquier
+ tipo
+ de
+ inestabilidad
+ y
+ asegurar
+ un
+tránsito
+ seguro
+ a
+ través
+ de
+ dichos
+ caminos.
+ Las
+ principales
+ actividades
+ asociadas
+ a
+ la
+ mantención
+ de
+ dichos
+caminos
+ son:
+ limpieza
+ de
+ la
+ carpeta,
+ revisión
+ y
+ compactación
+ de
+ baches,
+ mantención
+ de
+ señalética.
+
+Respecto
+ de
+ la
+ periodicidad
+ de
+ estas
+ mantenciones,
+ se
+ contempla
+ un
+ máximo
+ de
+ 1
+ visita
+ al
+ mes.
+ En
+ estas
+inspecciones
+ sólo
+ se
+ utiliza
+ equipamiento
+ menor.
+ Eventualmente,
+ se
+ emplearán
+ herramientas
+ de
+ mano
+ y
+ equipos
+de
+ medición
+ a
+ distancia,
+ como
+ pirómetro
+ y
+ cámara
+ termográfica
+ (termovisor).
+ Las
+ inspecciones
+ de
+ los
+ paneles
+ se
+realizarán
+ de
+ acuerdo
+ a
+ lo
+ que
+ establezca
+ el
+ fabricante.
+ Cabe
+ señalar
+ que
+ en
+ caso
+ de
+ ser
+ necesario
+ realizar
+ cualquier
+de
+ las
+ actividades
+ señaladas,
+ todos
+ los
+ insumos
+ y
+ residuos
+ asociados
+ a
+ éstas,
+ serán
+ trasladados
+ y
+ retirados
+ durante
+su
+ desarrollo,
+ no
+ existiendo
+ acopio
+ temporal
+ de
+ ellos
+ al
+ interior
+ de
+ la
+ planta.
+ Asimismo,
+ el
+ traslado
+ del
+ personal
+asociado
+ se
+ realizará
+ de
+ forma
+ diaria
+ desde
+ las
+ ciudades
+ más
+ cercanas,
+ según
+ corresponda.
+
+No
+ se
+ contempla
+ ninguna
+ mantención
+ del
+ cable
+ de
+ poder
+ subterráneo
+ de
+ distribución;
+ salvo
+ en
+ caso
+ de
+ falla.
+
+_1.6.5.2.2.
+
+ Mantenimiento
+ correctivo_
+
+El
+ mantenimiento
+ correctivo
+ considera
+ reparaciones
+ derivadas
+ de
+ fallas
+ detectadas
+ en
+ el
+ sistema,
+ en
+ cualquiera
+de
+ sus
+ fases
+ (producción,
+ conversión,
+ transformación,
+ conducción).
+ Su
+ envergadura
+ dependerá
+ de
+ la
+ magnitud
+ de
+ la
+falla
+ o
+ de
+ la
+ anomalía
+ que
+ exista.
+ Las
+ acciones
+ correctivas
+ más
+ habituales
+ son:
+ i)
+ sustitución
+ de
+ fusibles
+ de
+ los
+circuitos
+ de
+ corriente
+ continua;
+ ii)
+ reseteo
+ de
+ equipos
+ de
+ control
+ de
+ motores;
+ iii)
+ reseteo
+ de
+ inversores;
+ iv)
+sustitución
+ de
+ tarjetas
+ electrónicas
+ de
+ comunicación
+ o
+ control;
+ v)
+
+ sustitución
+ de
+ paneles
+ fotovoltaicos;
+ y,
+vi)
+ reapriete
+ de
+ cables
+ y
+ conectores.
+
+Respecto
+ de
+ la
+ periodicidad
+ de
+ estas
+ mantenciones,
+ se
+ contempla
+ una
+ visita
+ cada
+ 6
+ meses.
+ Cabe
+ señalar
+ que
+para
+ la
+ implementación
+ de
+ estas
+ mantenciones
+ todos
+ los
+ insumos
+ y
+ residuos
+ asociados,
+ serán
+ trasladados
+ y
+retirados
+ durante
+ su
+ desarrollo,
+ no
+ existiendo
+ acopio
+ temporal
+ de
+ ellos
+ al
+ interior
+ de
+ la
+ planta.
+ Asimismo,
+ el
+traslado
+ del
+ personal
+ asociado
+ se
+ realizará
+ de
+ forma
+ diaria
+ desde
+ las
+ ciudades
+ más
+ cercanas,
+ según
+ corresponda.
+
+_1.6.5.2.3.
+
+ Mantenimiento
+ de
+ emergencia_
+
+Finalmente
+ la
+ reparación
+ de
+ emergencia
+ corresponde
+ a
+ las
+ reparaciones
+ no
+ programadas,
+ productode
+ daños
+cometidos
+ por
+ personas,
+ a
+ consecuencia
+ de
+ accidentes
+ o
+ provocados
+ por
+ fenómenos
+ naturales.
+ No
+ son
+ predecibles.
+Estas
+ reparaciones
+ pueden
+ requerir
+ el
+ uso
+ de
+ equipo
+ mayor
+ y
+ de
+ personal
+ especializado
+ para
+ la
+ ejecución
+ de
+ las
+distintas
+ maniobras
+ que
+ sea
+ necesario
+ realizar
+ para
+ establecer
+ el
+ servicio.
+
+Respecto
+ de
+ la
+ periodicidad
+ de
+ las
+ reparaciones
+ de
+ emergencia,
+ puesto
+ que
+ no
+ son
+ predecibles,
+ no
+ es
+ posible
+establecerla.
+ Cabe
+ señalar
+ que
+ en
+ caso
+ de
+ ser
+ necesaria
+ la
+ reparación
+ de
+ equipos,
+ todos
+ los
+ insumos
+ y
+ residuos
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+45
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+asociados
+ a
+ éstas,
+ serán
+ trasladados
+ y
+ retirados
+ durante
+ su
+ desarrollo,
+ no
+ existiendo
+ acopio
+ temporal
+ de
+ ellos
+ al
+interior
+ de
+ la
+ planta.
+ Asimismo,
+ el
+ traslado
+ del
+ personal
+ asociado
+ se
+ realizará
+ de
+ forma
+ diaria
+ desde
+ las
+ ciudades
+más
+ cercanas,
+ según
+ corresponda,
+ asociado
+ al
+ evento
+ de
+ reparación
+ puntual.
+
+_1.6.5.2.4.
+
+ Limpieza
+ de
+ paneles
+ fotovoltaico_ s
+
+El
+ mantenimiento
+ preventivo
+ de
+ la
+ planta
+ será
+ realizado
+ por
+ un
+ máximo
+ de
+ 5
+ trabajadores,
+ por
+ lapsos
+ de
+ 5
+ a
+ 10
+días,
+ una
+ o
+ dos
+ veces
+ al
+ año,
+ o
+ tres
+ como
+ máximo.
+
+En
+ base
+ a
+ las
+ características
+ propias
+ del
+ área
+ de
+ emplazamiento
+ y
+ con
+ el
+ fin
+ de
+ garantizar
+ el
+ buen
+funcionamiento
+ de
+ la
+ planta
+ fotovoltaica,
+ se
+ contempla
+ la
+ limpieza
+ de
+ los
+ paneles
+ solares,
+ los
+ que
+ deberán
+ estar
+limpios
+ de
+ polvo,
+ manchas
+ ocasionadas
+ por
+ excremento
+ de
+ aves,
+ entre
+ otros.
+
+Se
+ contemplan
+ limpiezas
+ en
+ seco,
+ realizadas
+ en
+ conjunto
+ con
+ las
+ mantenciones
+ preventivas
+ en
+ caso
+ de
+ ser
+necesario,
+ y
+ una
+ limpieza
+ con
+ agua,
+ realizada
+ una
+ o
+ dos
+ veces
+ al
+ año,
+ en
+ caso
+ que
+ no
+ baste
+ con
+ la
+ limpieza
+ en
+ seco.
+Esta
+ limpieza
+ se
+ realizará
+ de
+ forma
+ manual
+ e
+ individual,
+ utilizando
+ para
+ esto
+ agua
+ para
+ riego
+ o
+ potable,
+ sin
+detergentes
+ ni
+ aditivos,
+ de
+ manera
+ uniforme
+ a
+ lo
+ largo
+ del
+ panel,
+ sin
+ producción
+ de
+ residuos
+ derivados
+ de
+ su
+realización.
+ Para
+ este
+ tipo
+ de
+ limpieza
+ se
+ considera
+ un
+ consumo
+ de
+ agua
+ de
+ 20
+ m [3] al
+ año,
+ la
+ cual
+ será
+ suministrada
+por
+ terceros
+ autorizados,
+ en
+ un
+ camión
+ aljibe.
+
+**1.6.6.** **Suministros**
+
+1.6.6.1.
+
+ Agua
+ potable
+
+Durante
+ la
+ fase
+ de
+ operación
+ se
+ requerirá
+ de
+ agua
+ potable
+ para
+ quienes
+ realicen
+ las
+ labores
+ de
+ mantención
+(máximo
+ 5
+ personas).
+ Esta
+ será
+ suministrada
+ en
+ base
+ a
+ una
+ dotación
+ de
+ 150
+ l/día
+ por
+ persona.
+ Se
+ dispondrá
+ de
+ 8
+m [3] totales,
+ considerando
+ que
+ las
+ labores
+ de
+ mantención
+ programadas
+ (revisión
+ de
+ paneles
+ y
+ corte
+ de
+ hierbas)
+tomarán
+ alrededor
+ 5
+ a
+ 10
+ días
+ cada
+ vez.
+
+El
+ suministro
+ de
+ agua
+ potable
+ para
+ beber
+ estará
+ disponible
+ mediante
+ la
+ presencia
+ permanente
+ de
+ un
+ sistema
+ de
+bidones
+ de
+ 20
+ l
+ y
+ botellas
+ individuales.
+
+1.6.6.2.
+
+ Agua
+ industrial
+
+En
+ la
+ limpieza
+ de
+ módulos
+ fotovoltaicos
+ se
+ utilizará
+ agua
+ en
+ momentos
+ puntuales
+ en
+ que
+ no
+ baste
+ con
+ la
+limpieza
+ en
+ seco.
+ Se
+ han
+ considerado
+ dos
+ limpiezas
+ con
+ agua
+ al
+ año,
+ resultando
+ un
+ consumo
+ de
+ agua
+ de
+ 40
+ m [3]
+anuales
+ (equivalente
+ a
+ 55
+ l/día).
+ El
+ agua
+ corresponderá
+ a
+ agua
+ de
+ calidad
+ industrial
+ que
+ será
+ proporcionada
+ por
+terceros
+ autorizados
+ en
+ envases
+ cerrados
+ o
+ camiones
+ aljibes.
+
+1.6.6.2.
+
+ Servicios
+ higiénicos
+
+El
+ suministro
+ estará
+ disponible
+ mediante
+ la
+ instalación
+ de
+ baños
+ químicos
+ portátiles
+ que
+ serán
+ instalados
+ y
+luego
+ retirados
+ por
+ una
+ empresa
+ especializada
+ y
+ autorizada
+ por
+ la
+ autoridad
+ de
+ Salud.
+
+1.6.6.3.
+ Energía
+ eléctrica
+
+La
+ energía
+ eléctrica
+ que
+ fuera
+ necesaria
+ será
+ suministrada
+ por
+ generadores
+ portátiles
+ o
+ desde
+ la
+ misma
+ red
+ de
+bajo
+ voltaje,
+ en
+ las
+ cercanías
+ de
+ la
+ planta
+ Maitenes.
+
+1.6.6.4.
+
+ Alojamiento
+
+Los
+ trabajadores
+ que
+ realicen
+ las
+ mantenciones
+ se
+ alojarán
+ en
+ la
+ ciudad
+ de
+ Marchigüe
+ o
+ Pichidegua,
+ según
+disponibilidad
+ de
+ servicios
+ de
+ hotelería.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+46
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.6.6.5.
+
+ Traslado
+ de
+ personal
+ de
+ mantención
+
+Mientras
+ se
+ realicen
+ las
+ labores
+ de
+ mantención,
+ los
+ trabajadores
+ se
+ trasladarán
+ diariamente
+ en
+ camioneta
+ de
+ un
+proveedor
+ autorizado,
+ con
+ todos
+ sus
+ permisos
+ y
+ autorizaciones
+ al
+ día,
+ desde
+ sus
+ respectivos
+ lugares
+ de
+ alojamiento
+a
+ la
+ planta
+ Maitenes,
+ para
+ el
+ desarrollo
+ de
+ sus
+ tareas.
+
+Para
+ las
+ mantenciones
+ preventivas
+ (cada
+ 6
+ meses)
+ se
+ realizará
+ 1
+ viaje
+ diario
+ mientras
+ duren
+ los
+ trabajos.
+
+1.6.6.6.
+
+ Transporte
+ de
+ materiales
+ y
+ residuos
+
+Se
+ utilizarán
+ camiones
+ livianos
+ y
+ cerrados,
+ con
+ toda
+ su
+ documentación
+ y
+ permisos
+ al
+ día,
+ para
+ el
+ traslado
+ de
+materiales
+ y
+ residuos
+ derivados
+ de
+ las
+ labores
+ de
+ mantención
+ que
+ se
+ realicen
+ en
+ la
+ planta
+ Maitenes.
+
+**1.6.7.** **Cuantificación,
+ manejo
+ y
+ transporte
+ de
+ los
+ productos**
+
+La
+ planta
+ Maitenes
+ producirá
+ energía
+ eléctrica
+ fotovoltaica
+ a
+ partir
+ de
+ la
+ instalación
+ de
+ 42.000
+ paneles,
+ e
+inyectará
+ 9MW
+ al
+ SIC.
+
+**1.6.8.** **Explotación
+ o
+ extracción
+ de
+ recursos
+ naturales
+ renovables**
+
+Por
+ las
+ características
+ del
+ proyecto
+ y
+ su
+ forma
+ de
+ generación,
+ no
+ habrá
+ extracción
+ de
+ éstos,
+ sino
+ sólo
+aprovechamiento
+ de
+ la
+ radiación
+ solar.
+
+**1.6.9.** **Emisiones,
+ formas
+ de
+ abatimiento
+ y
+ control
+ en
+ fase
+ de
+ operación**
+
+1.6.9.1.
+
+ Emisiones
+ a
+ la
+ atmósfera
+
+**En
+ la
+ fase
+ de
+ operación,
+ las
+ emisiones
+ de
+ material
+ particulado
+ o
+ gases
+ serán
+ marginales,
+ ya
+ que
+ estarán
+ asociadas**
+
+**al
+ tránsito
+ del
+ vehículo
+ que
+ transportará
+ al
+ personal
+ de
+ mantenimiento,
+ los
+ materiales
+ necesarios
+ y
+ los**
+**residuos
+ derivados
+ de
+ la
+ mantención
+ (máximo
+ dos
+ vehículos)
+ de
+ la
+ planta
+ Maitenes.
+ Una
+ estimación**
+**que
+ considera
+ dos
+ vehículos
+ diarios,
+ se
+ entregan
+ en
+ la**
+
+Tabla
+ 19
+ y
+ el
+ Anexo
+ 1.10.
+ Debido
+ a
+ lo
+ anterior
+ no
+ se
+ justifica
+ implementar
+ medidas
+ de
+ abatimiento
+ y
+ control.
+
+**Tabla
+ 19.
+ Emisiones
+ atmosféricas.
+ Fase
+ Operación**
+
+|Col1|Emisiones (t)|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|**Actividad**|**MP10**|**MP 2,5**|**NOx**|**CO**|**HC**|**SOx**|
+|Tránsito vehicular|0,003|0,001|0,003|0,001|0,0002|0,00002|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+1.6.9.2.
+
+ Emisiones
+ de
+ ruido
+ y
+ vibraciones
+
+Las
+ estimaciones
+ realizadas
+ para
+ esta
+ fase
+ del
+ proyecto,
+ indican
+ que
+ tanto
+ en
+ horario
+ diurno
+ como
+ nocturno,
+ se
+cumplirá
+ con
+ la
+ normativa
+ vigente
+ (D.S.
+ 38/2011),
+ por
+ lo
+ cual
+ no
+ procede
+ ningún
+ tipo
+ de
+ medida
+ de
+ abatimiento
+ ni
+control.
+
+1.6.9.3.
+
+ Encandilamiento
+
+Los
+ paneles
+ fotovoltaicos
+ están
+ diseñados
+ para
+ absorber
+ la
+ mayor
+ parte
+ del
+ espectro
+ solar,
+ con
+ el
+ fin
+ de
+convertir
+ la
+ energía
+ radiante
+ en
+ electricidad.
+ Los
+ niveles
+ de
+ reflectividad
+ de
+ los
+ paneles
+ solares
+ son
+ inferiores
+ a
+ los
+del
+ vidrio
+ estándar
+ o
+ el
+ acero
+ galvanizado,
+ por
+ lo
+ que
+ su
+ reflexión
+ es
+ ínfima
+ y
+ no
+ representa
+ ningún
+ riesgo
+ para
+ las
+personas
+ y
+ su
+ salud.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+47
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Se
+ ha
+ demostrado
+ que
+ no
+ existe
+ riesgo
+ de
+ deslumbramiento
+ a
+ aquellas
+ aeronaves
+ que
+ sobrevuelen
+ en
+ las
+inmediaciones
+ de
+ la
+ planta
+ fotovoltaica,
+ ya
+ que
+ la
+ reflectividad
+ de
+ los
+ módulos
+ fotovoltaicos
+ está
+ por
+ debajo
+ de
+otros
+ elementos
+ como
+ áreas
+ residenciales
+ o
+ superficies
+ reflectantes
+ comúnmente
+ usadas
+ como
+ tejados
+ metálicos,
+depósitos
+ de
+ agua,
+ etc.
+
+**1.6.10.** **Manejo
+ de
+ residuos
+ y/u
+ otros
+ productos
+ o
+ sustancias**
+
+1.6.10.1.
+
+ Residuos
+ líquidos
+
+La
+ generación
+ de
+ residuos
+ líquidos
+ durante
+ esta
+ fase
+ está
+ directamente
+ asociada
+ a
+ la
+ mano
+ de
+ obra
+ (5
+ personas
+máximo),
+ ya
+ que
+ corresponderá
+ a
+ aguas
+ servidas.
+ Considerando
+ que
+ para
+ esta
+ fase
+ se
+ consideran
+ visitas
+ puntuales
+de
+ mantención,
+ se
+ estima
+ una
+ generación
+ máxima
+ de
+ 0,6
+ m [3] /día
+ de
+ aguas
+ servidas
+ domésticas,
+ tomando
+ como
+referencia
+ un
+ factor
+ de
+ recuperación
+ de
+ 0,8
+ del
+ total
+ del
+ consumo
+ de
+ agua
+ potable
+ (Tabla
+ 20).
+
+La
+ evacuación
+ y
+ el
+ almacenaje
+ de
+ estas
+ aguas
+ servidas,
+ corresponderá
+ al
+ uso
+ de
+ baños
+ químicos
+ que
+ deberá
+disponer
+ y
+ retirar
+ un
+ proveedor
+ autorizado
+ por
+ la
+ autoridad
+ sanitaria.
+
+**Tabla
+ 20.
+ Generación
+ de
+ aguas
+ servidas
+ en
+ fase
+ de
+ operación**
+
+|Fase|Mano de obra máximo|Consumo (m3/día)|Factor de recuperación|Agua servida generada (m3/día)|
+|---|---|---|---|---|
+|Operación|5|0,75|0,8|0,6|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+1.6.10.2.
+
+ Residuos
+ sólidos
+_1.6.10.2.1.
+
+ Residuos
+ sólidos
+ domiciliarios_
+
+En
+ fase
+ de
+ operación
+ se
+ producirán
+ residuos
+ sólidos
+ domésticos
+ y
+ asimilables
+ a
+ domésticos,
+ los
+ cuales
+consistirán
+ básicamente
+ en
+ papeles,
+ principalmente.
+ Considerando
+ que
+ para
+ esta
+ fase
+ se
+ consideran
+ visitas
+puntuales
+ de
+ mantención,
+ se
+ estima
+ una
+ generación
+ de
+ 0,6
+ kg/día
+ por
+ persona,
+ considerando
+ que
+ no
+ existirán
+residuos
+ asociados
+ a
+ comidas;
+ por
+ lo
+ tanto,
+ se
+ estima
+ una
+ generación
+ de
+ 3
+ kg/día,
+ de
+ residuos
+ sólidos
+ domiciliarios,
+cuando
+ existan
+ labores
+ de
+ mantenimiento.
+
+Los
+ residuos
+ sólidos
+ domésticos
+ serán
+ almacenados
+ en
+ contenedores
+ plásticos
+ y
+ retirados
+ del
+ Proyecto
+ para
+ su
+disposición
+ en
+ un
+ lugar
+ de
+ recolección
+ de
+ la
+ basura
+ (dos
+ a
+ tres
+ veces
+ por
+ semana,
+ según
+ planificación
+ del
+municipio).
+
+_1.6.10.2.2.
+
+ Residuos
+ industriales
+ sólidos
+ no
+ peligrosos_
+
+Los
+ residuos
+ sólidos
+ industriales
+ no
+ peligrosos
+ durante
+ la
+ fase
+ de
+ operación
+ provendrán
+ de
+ actividades
+ como
+recambio
+ de
+ paneles
+ o
+ reparaciones
+ varias,
+ por
+ lo
+ que
+ serán
+ de
+ muy
+ baja
+ magnitud
+ y
+ consistirán
+ principalmente
+ en
+materiales
+ de
+ desgaste
+ como
+ cartón,
+ embalajes,
+ etc.
+ Se
+ estima
+ una
+ generación
+ de
+ 0,05
+ t/mes
+ (Tabla
+ 21).
+
+El
+ almacenamiento
+ de
+ estos
+ residuos,
+ se
+ realizará
+ en
+ un
+ contenedor
+ destinado
+ para
+ ellos,
+ el
+ cual
+ una
+ vez
+finalizada
+ la
+ mantención,
+ serán
+ dispuestos
+ en
+ un
+ sitio
+ autorizado
+ para
+ su
+ disposición
+ final,
+ por
+ lo
+ tanto
+ no
+ existirá
+acumulación
+ de
+ residuos
+ al
+ interior
+ de
+ la
+ planta
+ durante
+ esta
+ fase.
+
+Al
+ igual
+ que
+ para
+ la
+ fase
+ de
+ construcción,
+ se
+ llevará
+ un
+ registro
+ de
+ los
+ retiros
+ realizados
+ con
+ el
+ fin
+ de
+ mantener
+control
+ sobre
+ el
+ manejo
+ y
+ gestión
+ de
+ los
+ residuos.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+48
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 21.
+ Generación
+ de
+ residuos
+ sólidos
+ no
+ peligrosos
+ en
+ fase
+ de
+ operación**
+
+|Residuo|Cantidad (t/mes)|
+|---|---|
+|Restos de cables, tornillos, clavos, alambres|0,03|
+|Revestimientos, tuberías|0,02|
+|**Total**|**0,05**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+_1.6.10.2.3.
+
+ Residuos
+ industriales
+ sólidos
+ peligrosos_
+
+La
+ generación
+ de
+ residuos
+ peligrosos
+ durante
+ la
+ fase
+ de
+ operación
+ del
+ Proyecto
+ consistirá
+ básicamente
+ en
+residuos
+ producto
+ de
+ actividades
+ de
+ mantención,
+ tales
+ como:
+ latas
+ de
+ lubricante
+ (WD-­‐40,
+ tubos
+ de
+ espuma
+ de
+poliuretano
+ aislante),
+ paños
+ y
+ EPP
+ contaminados.
+ La
+ cantidad
+ de
+ estos
+ residuos
+ será
+ mínima,
+ estimándose
+ en
+ 0,013
+t/mes
+ (Tabla
+ 22).
+
+**Tabla
+ 22.Generación
+ de
+ residuos
+ sólidos
+ peligrosos
+ en
+ fase
+ de
+ operación**
+
+|Residuo|Cantidad (t/mes)|
+|---|---|
+|Latas de WD-40|0,005|
+|Tubos de espuma sellante de poliuretano|0,005|
+|Paños contaminados|0,001|
+|Elementos de Protección Personal contaminados con<br>sustancias peligrosas, paños contaminados|0,002|
+|**Total**|**0,013**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Al
+ igual
+ que
+ para
+ los
+ residuos
+ no
+ peligrosos,
+ los
+ residuos
+ peligrosos
+ asociados
+ a
+ las
+ actividades
+ de
+ mantención,
+se
+ almacenarán
+ en
+ una
+ bodega
+ de
+ acuerdo
+ a
+ lo
+ señalado
+ en
+ el
+ artículo
+ 33
+ del
+ D.S.
+ 148/2003
+ (MINSAL),
+ retirado
+ por
+una
+ empresa
+ especializada
+ y
+ dispuesto
+ en
+ un
+ sitio
+ autorizado
+ para
+ su
+ disposición
+ final,
+ por
+ lo
+ tanto
+ no
+ existirá
+acumulación
+ de
+ residuos
+ al
+ interior
+ de
+ la
+ planta
+ durante
+ esta
+ fase.
+
+_1.6.10.2.4.
+
+ Paneles
+ fotovoltaicos
+ dañados_
+
+Los
+ paneles
+ fotovoltaicos
+ que
+ sufran
+ daños
+ serán
+ reemplazados.
+ Por
+ esta
+ razón,
+ se
+ considera
+ que
+ existirá
+ una
+cantidad
+ de
+ paneles
+ dañados
+ que
+ pueden
+ catalogarse
+ como
+ residuos
+ generados
+ durante
+ la
+ fase
+ de
+ operación.
+Independiente
+ del
+ alcance
+ de
+ su
+ daño,
+ este
+ residuo
+ será
+ manejado
+ como
+ si
+ fuera
+ un
+ residuo
+ peligroso.
+ Se
+ estima
+una
+ cantidad
+ equivalente
+ a
+ 0,02
+ t/mes.
+ El
+ total
+ de
+ la
+ estimación
+ de
+ residuos
+ producidos
+ durante
+ la
+ fase
+ de
+operación,
+ se
+ presenta
+ a
+ continuación
+ (Tabla
+ 23).
+
+**Tabla
+ 23.
+ Generación
+ total
+ de
+ residuos
+ sólidos
+ en
+ fase
+ de
+ operación**
+
+|Tipo de residuos|Cantidad estimada<br>(t/mes)|Forma de manejo|Lugar de disposición final|
+|---|---|---|---|
+|Residuos domésticos|0,09**(a)**|No hay almacenamiento temporal de residuos<br>en la planta.|Lugar autorizado por la SEREMI<br>de Salud Región de O’Higgins.|
+|Residuos Industriales<br>no peligrosos|0,05|No hay almacenamiento temporal de residuos<br>en la planta.|Lugar autorizado por la SEREMI<br>de Salud Región de O’Higgins.|
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+49
+
+|Col1|Col2|Col3|Declaración de Impacto Ambiental<br>Proyecto Planta Fotovoltaica Maitenes<br>Comuna de Marchigüe<br>Abril de 2015 | Rev. 0|Col5|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+||Residuos peligrosos|0,04|0,04|No hay almacenamiento temporal de residuos<br>en la planta.|No hay almacenamiento temporal de residuos<br>en la planta.|Lugar autorizado por la SEREMI<br>de Salud Región de O’Higgins.||
+||Paneles fotovoltaicos<br>dañados|0,02|0,02|No hay almacenamiento temporal de residuos<br>en la planta.|No hay almacenamiento temporal de residuos<br>en la planta.|Lugar autorizado por la SEREMI<br>de Salud Región de O’Higgins.|Lugar autorizado por la SEREMI<br>de Salud Región de O’Higgins.|
+
+**(a):** cabe
+ indicar
+ que
+ durante
+ la
+ operación,
+ la
+ mantención
+ (en
+ todos
+ sus
+ aspectos)
+ no
+ pasará
+ de
+ 5-­‐10
+ días
+ al
+ mes,
+ por
+ lo
+ que
+ esta
+
+cantidad
+ será
+ de
+ alrededor
+ de
+ 0,03
+ t/mes)
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+**1.7.** **Fase
+ de
+ cierre
+ y
+ abandono**
+Si
+ bien
+ no
+ se
+ contempla
+ esta
+ fase
+ para
+ el
+ proyecto
+ Maitenes,
+ en
+ caso
+ de
+ ser
+ necesario,
+ al
+ final
+ de
+ la
+ vida
+ útil
+ de
+la
+ instalación
+ fotovoltaica
+ se
+ programará
+ el
+ desmantelamiento
+ de
+ los
+ equipos
+ con
+ el
+ fin
+ de
+ llevar
+ el
+ sitio
+ a
+ las
+condiciones
+ originales.
+ Las
+ actividades
+ para
+ esta
+ fase
+ se
+ describen
+ a
+ continuación.
+
+La
+ fase
+ de
+ cierre
+ tendrá
+ una
+ duración
+ estimada
+ de
+ 5
+ meses.
+ La
+ acción
+ que
+ dará
+ inicio
+ a
+ la
+ fase
+ de
+ cierre
+consistirá
+ en
+ el
+ corte
+ de
+ los
+ cables
+ de
+ conexión
+ a
+ la
+ red.
+ Esta
+ actividad
+ será
+ previamente
+ informada
+ a
+ la
+ autoridad
+con
+ 15
+ días
+ de
+ anticipación.
+ La
+ acción
+ que
+ dará
+ término
+ a
+ la
+ fase
+ de
+ cierre
+ consistirá
+ en
+ el
+ retiro
+ de
+ la
+ planta
+ de
+tratamiento
+ de
+ aguas
+ servidas,
+ ya
+ desmantelada.
+ En
+ esta
+ fase
+ se
+ considera
+ una
+ mano
+ de
+ obra
+ de
+ 25
+ trabajadores.
+
+**1.7.1.** **Descripción
+ de
+ actividades
+ del
+ Proyecto
+ en
+ la
+ fase
+ de
+ cierre**
+
+1.7.1.1.
+ Habilitación
+ de
+ instalaciones
+ de
+ faenas
+
+Corresponde
+ a
+ la
+ habilitación
+ de
+ áreas
+ para
+ instalaciones
+ de
+ contratistas.
+ Estas
+ se
+ llevaran
+ a
+ cabo
+ de
+ la
+ misma
+forma
+ que
+ en
+ la
+ fase
+ de
+ construcción,
+ descrita
+ anteriormente
+ en
+ el
+ presente
+ capítulo.
+
+1.7.1.2.
+
+ Desmantelamiento
+ de
+ la
+ infraestructura
+
+Durante
+ la
+ etapa
+ de
+ cierre
+ se
+ realizará
+ el
+ retiro
+ de
+ todas
+ las
+ estructuras
+ construidas
+ en
+ el
+ Proyecto;
+ es
+ decir,
+ el
+desmantelamiento
+ de
+ los
+ módulos
+ fotovoltaicos
+ y
+ sus
+ estructuras,
+ el
+ sistema
+ de
+ cableado,
+ las
+ casetas
+ de
+ equipos
+inversores,
+ transformadores,
+ vigilancia,
+ y
+ demás.
+
+En
+ primer
+ lugar
+ se
+ realizará
+ la
+ desconexión
+ de
+ los
+ paneles.
+ Posteriormente,
+ y
+ sin
+ otro
+ medio
+ que
+ el
+ manual,
+ se
+desmontarán
+ los
+ paneles
+ y
+ se
+ cargarán
+ a
+ un
+ camión
+ para
+ su
+ transporte
+ y
+ entrega
+ a
+ una
+ empresa
+ autorizada
+ para
+ su
+correcto
+ tratamiento
+ y
+ reciclado.
+
+Posteriormente,
+ se
+ realizará
+ el
+ desmontaje
+ de
+ las
+ estructuras
+ de
+ soporte,
+ las
+ que
+ se
+ apilarán
+ en
+ un
+ lugar
+destinado
+ para
+ ello
+ desde
+ el
+ cual
+ serán
+ cargadas
+ a
+ un
+ camión
+ para
+ su
+ transporte
+ definitivo
+ a
+ una
+ empresa
+autorizada
+ para
+ su
+ tratamiento
+ de
+ reutilización.
+
+Luego
+ se
+ procederá
+ a
+ la
+ desconexión,
+ desmontaje
+ y
+ retirada
+ de
+ inversor,
+ transformador
+ y
+ equipos
+ eléctricos
+ y
+para
+ finalmente
+ trasladarlos
+ a
+ un
+ gestor
+ para
+ su
+ tratamiento
+ y
+ reutilización.
+
+Finalmente
+ se
+ realizarán
+ labores
+ de
+ descompactación
+ de
+ las
+ áreas
+ donde
+ se
+ hayan
+ emplazado
+ caminos
+ y
+plataformas
+ de
+ cabinas
+ eléctricas
+ y
+ de
+ la
+ sala
+ de
+ control.
+
+1.7.1.3.
+
+ Restauración
+ área
+ de
+ emplazamiento
+ del
+ Proyecto
+
+Una
+ vez
+ finalizada
+ la
+ explotación
+ del
+ Parque
+ Solar,
+ se
+ procederá
+ a
+ la
+ restauración
+ del
+ terreno
+ donde
+ se
+ emplaza
+el
+ Proyecto
+ y
+ sus
+ obras,
+ con
+ el
+ fin
+ de
+ devolver
+ las
+ condiciones
+ originales
+ del
+ sector.
+ Para
+ esto
+ se
+ considera
+principalmente
+ el
+ extendido
+ de
+ la
+ tierra
+ y
+ la
+ nivelación
+ del
+ suelo.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+50
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+Cabe
+ señalar
+ que
+ no
+ se
+ considera
+ un
+ tratamiento
+ de
+ descontaminación
+ para
+ el
+ sitio,
+ dado
+ que
+ los
+ equipos
+asociados
+ a
+ la
+ instalación
+ solar
+ no
+ liberan
+ sustancias
+ nocivas
+ para
+ la
+ tierra
+ y
+ para
+ el
+ medio
+ ambiente.
+
+**1.7.2.** **Fecha
+ estimada
+ e
+ indicación
+ de
+ la
+ parte,
+ obra
+ o
+ acción
+ que
+ establezca
+ el
+ inicio
+ y
+ término
+ de
+ la
+ fase**
+
+Se
+ estima
+ que
+ en
+ mayo
+ del
+ 2041,
+ tras
+ 25
+ años
+ de
+ vida
+ útil
+ del
+ Parque
+ Solar
+ Maitenes
+ (previo
+ a
+ la
+ evaluación
+técnica
+ y
+ comercial
+ del
+ proyecto
+ para
+ definir
+ la
+ posible
+ continuidad
+ de
+ éste)
+ el
+ hito
+ que
+ marcará
+ el
+ inicio
+ de
+ la
+ fase
+de
+ cierre
+ será
+ su
+ desconexión
+ a
+ la
+ red
+ de
+ distribución
+ eléctrica
+ y
+ el
+ posterior
+ retiro
+ de
+ los
+ paneles
+ y
+ estructuras
+ de
+montaje.
+ El
+ desmantelamiento
+ del
+ Parque
+ durará
+ aproximadamente
+ 5
+ meses
+ y
+ el
+ término
+ de
+ la
+ fase
+ estará
+marcado
+ por
+ la
+ restitución
+ de
+ los
+ terrenos
+ utilizados
+ en
+ el
+ Proyecto.
+**1.7.3.** **Cronograma**
+
+El
+ cronograma
+ en
+ detalle
+ de
+ esta
+ fase
+ se
+ indica
+ en
+ la
+ Tabla
+ 24.
+
+**Tabla
+ 24.
+ Cronograma
+ de
+ la
+ fase
+ de
+ cierre
+ del
+ proyecto**
+
+|Actividades|Mes 1|Col3|Col4|Col5|Mes 2|Col7|Col8|Col9|Mes 3|Col11|Col12|Col13|Mes 4|Col15|Col16|Col17|Mes 5|Col19|Col20|Col21|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Actividades**|**1 **|**2 **|**3 **|**4 **|** 1**|**2 **|**3 **|**4 **|** 1**|**2 **|**3 **|** 4**|**1 **|**2 **|** 3**|**4 **|**1 **|**2 **|** 3**|** 4**|
+|Instalacionesdefaena|||||||||||||||||||||
+|Desconexiónreddedistribución|||||||||||||||||||||
+|Desmantelamientodeinstalaciones|||||||||||||||||||||
+|Retirodepanelessolares|||||||||||||||||||||
+|Desmantelamientoestructurasdesoporte|||||||||||||||||||||
+|Desmantelamientocasetaseléctricas|||||||||||||||||||||
+|Desconexiónredinterna|||||||||||||||||||||
+|Desmantelamientosistemadevigilancia|||||||||||||||||||||
+|Retiro de instalación de faena y elementos auxiliares<br>delaconstrucción|||||||||||||||||||||
+|RestauraciónáreadelProyecto|||||||||||||||||||||
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**1.7.4.** **Mano
+ de
+ obra**
+
+Para
+ las
+ actividades
+ de
+ cierre
+ y
+ desmantelamiento
+ del
+ Proyecto,
+ se
+ considerará
+ una
+ dotación
+ de
+aproximadamente
+ 40
+ personas
+ (con
+ un
+ máximo
+ de
+ 50trabajadores
+ para
+ los
+ momentos
+ de
+ mayor
+ demanda)
+ y
+ que,
+en
+ términos
+ de
+ cantidad,
+ se
+ mantendrá
+ constante
+ a
+ lo
+ largo
+ de
+ esta
+ fase.
+
+Para
+ la
+ ejecución
+ de
+ las
+ obras
+ se
+ considera
+ una
+ jornada
+ laboral
+ de
+ lunes
+ a
+ sábado
+ en
+ jornadas
+ definidas
+ en
+ base
+a
+ lo
+ señalado
+ por
+ el
+ DFL
+ N°1/2003
+ Código
+ del
+ Trabajo.
+ Sólo
+ en
+ forma
+ eventual
+ podría
+ requerirse
+ trabajar
+ algún
+ día
+domingo.
+
+El
+ traslado
+ del
+ personal
+ será
+ realizado
+ mediante
+ de
+ empresas
+ de
+ transporte
+ autorizadas
+ según
+ lo
+ establecido
+ en
+el
+ D.S
+ 80/
+ 2004
+ del
+ Ministerio
+ de
+ Transporte
+ desde
+ las
+ ciudades
+ cercanas
+ al
+ Proyecto,
+ privilegiando
+ la
+ contratación
+de
+ mano
+ de
+ obra
+ local.
+
+**1.7.5.** **Restauración
+ componentes
+ ambientales
+ afectados**
+
+Las
+ actividades
+ de
+ restauración
+ del
+ terreno
+ consistirán
+ en
+ un
+ proceso
+ de
+ descompactación
+ de
+ las
+ áreas
+ donde
+ se
+hayan
+ emplazado
+ estructuras
+ de
+ peso
+ (sala
+ de
+ control)
+ y
+ caminos,
+ permitiendo
+ devolver
+ la
+ estructura
+ y
+ aumentar
+ la
+aireación
+ del
+ suelo.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+51
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+En
+ virtud
+ de
+ que
+ el
+ suelo
+ cumple
+ funciones
+ a
+ nivel
+ ambiental,
+ mediante
+ la
+ sustentación
+ de
+ vegetación
+permanente
+ y
+ efímera,
+ las
+ acciones
+ de
+ descompactación
+ permitirán
+ un
+ repoblamiento
+ natural
+ del
+ área
+ recuperada,
+sin
+ necesidad
+ de
+ intervención
+ humana.
+ De
+ esta
+ manera,
+ se
+ facilitará
+ además
+ el
+ repoblamiento
+ por
+ parte
+ de
+ la
+ fauna
+nativa.
+
+**1.7.6.** **Prevención
+ de
+ futuras
+ emisiones**
+
+Una
+ vez
+ terminada
+ la
+ fase
+ de
+ cierre
+ no
+ existirán
+ instalaciones
+ generadoras
+ de
+ emisiones
+ de
+ ningún
+ tipo.
+
+**1.7.7.** **Mantención,
+ conservación
+ y/o
+ supervisión**
+
+El
+ Proyecto
+ no
+ contempla
+ actividades
+ de
+ mantención,
+ conservación
+ y/o
+ supervisión
+ durante
+ la
+ fase
+ de
+ cierre
+ ni
+posterior
+ a
+ ella.
+ Cabe
+ señalar
+ que
+ en
+ el
+ área
+ no
+ quedarán
+ instalaciones
+ remanentes.
+
+**1.7.8.** **Equipos,
+ maquinarias,
+ insumos
+ y
+ servicios
+ en
+ fase
+ de
+ cierre**
+
+1.7.8.1.
+
+ Equipos
+ y
+ maquinarias
+ de
+ la
+ fase
+ de
+ cierre
+
+**Los
+ equipos
+ y
+ maquinarias
+ que
+ se
+ utilizarán
+ en
+ la
+ fase
+ de
+ cierre
+ son
+ similares
+ a
+ aquellos
+ utilizados
+ para
+ la**
+
+**construcción
+ del
+ Proyecto
+ y
+ se
+ describen
+ en
+ la
+ siguiente
+ tabla
+ (**
+
+Tabla
+ 25).
+
+**Tabla
+ 25.
+ Equipos
+ y
+ maquinarias
+ para
+ el
+ cierre
+ del
+ Proyecto**
+
+|Ítem|Cantidad total Proyecto|Tiempo de operación (mes)|
+|---|---|---|
+|CamiónGrúa|2|2|
+|Excavadora|2|2|
+|Camioneta4x4|2|5|
+|CamiónTolva|2|5|
+|Generadores100KVA|2|5|
+|CamiónAljibe|2|5|
+|Bus|3|5|
+|**Total **|||
+
+Fuente:
+ Maitenes
+ Solar
+ SpA.
+
+1.7.8.2.
+
+ Insumos
+ fase
+ de
+ cierre
+_1.7.8.2.1.
+
+ Combustible_
+
+En
+ la
+ fase
+ de
+ cierre,
+ como
+ en
+ la
+ de
+ construcción,
+ se
+ requerirá
+ de
+ petróleo
+ diesel
+ sólo
+ para
+ el
+ generador
+ y
+ para
+ la
+maquinaria
+ en
+ terreno;
+ por
+ lo
+ tanto
+ para
+ su
+ funcionamiento
+ se
+ contará
+ con
+ un
+ suministro
+ diario
+ de
+ combustible
+ en
+camiones
+ tanque,
+ por
+ empresas
+ debidamente
+ autorizadas
+ por
+ la
+ Superintendencia
+ de
+ Electricidad
+ y
+ Combustible.
+
+_1.7.8.2.2.
+
+ Suministro
+ de
+ Agua
+ Potable_
+
+Durante
+ la
+ fase
+ de
+ cierre
+ se
+ requerirá
+ de
+ agua
+ potable
+ para
+ los
+ trabajadores.
+ Se
+ estima
+ una
+ cantidad
+ de
+ 225
+m [3] /mes
+ (7,5
+ m [3] /día),
+ en
+ base
+ a
+ una
+ dotación
+ de
+ 150
+ l/día
+ por
+ persona
+ (de
+ acuerdo
+ al
+ DS
+ 594/99),
+ estimando
+ un
+máximo
+ de
+ 50
+ trabajadores.
+ El
+ proveedor
+ deberá
+ mantener
+ la
+ provisión
+ de
+ agua
+ necesaria
+ para
+ la
+ operación
+ de
+ las
+duchas
+ y
+ los
+ servicios
+ sanitarios.
+ El
+ agua
+ cumplirá
+ con
+ la
+ NCh
+ 409/84
+ para
+ agua
+ potable.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+52
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+El
+ agua
+ para
+ beber
+ estará
+ disponible
+ en
+ bidones
+ de
+ 20
+ l
+ en
+ dispensadores
+ y
+ botellas
+ individuales
+ para
+ su
+consumo
+ en
+ los
+ frentes
+ de
+ trabajo.
+
+_1.7.8.2.3.
+
+ Suministro
+ de
+ energía_
+
+La
+ energía
+ requerida
+ para
+ el
+ funcionamiento
+ de
+ las
+ instalaciones
+ (oficinas,
+ otros)
+ será
+ obtenida
+ mediante
+ un
+grupo
+ electrógeno
+ de
+ 100
+ kVA,
+ o
+ por
+ medio
+ de
+ un
+ empalme
+ temporal
+ de
+ la
+ compañía
+ de
+ distribución
+ eléctrica
+ de
+ la
+zona.
+
+_1.7.8.2.4.
+
+ Servicios
+ higiénicos_
+
+En
+ la
+ instalación
+ de
+ faenas,
+ se
+ dispondrá
+ de
+ baños
+ químicos
+ en
+ cantidades
+ establecidas
+ en
+ los
+ artículos
+ 23
+ y
+ 24
+del
+ D.S.
+ No
+ 594/1999
+ del
+ Ministerio
+ de
+ Salud.
+ El
+ servicio
+ de
+ instalación
+ y
+ mantención
+ de
+ los
+ baños
+ químicos
+ será
+contratado
+ a
+ empresas
+ autorizadas
+ por
+ las
+ SEREMI
+ de
+ Salud
+ regionales.
+ Del
+ mismo
+ modo,
+ se
+ instalará
+ duchas
+portátiles
+ para
+ el
+ uso
+ de
+ los
+ trabajadores,
+ según
+ lo
+ indica
+ el
+ artículo
+ 21
+ y
+ 23
+ del
+ D.S.
+ No
+ 594/1999
+ del
+ Ministerio
+ de
+Salud.
+
+_1.7.8.2.5.
+
+ Alimentación_
+
+Se
+ habilitará
+ un
+ comedor,
+ del
+ tipo
+ contenedor
+ metálico,
+ con
+ capacidad
+ para
+ 50
+ personas,
+ para
+ la
+ alimentación
+de
+ los
+ trabajadores.
+ Los
+ alimentos
+ serán
+ provistos
+ por
+ una
+ empresa
+ local
+ autorizada
+ por
+ la
+ autoridad
+ sanitaria
+ en
+las
+ cercanías
+ de
+ la
+ obra.
+ Cabe
+ hacer
+ presente
+ que
+ no
+ se
+ considera
+ la
+ preparación
+ de
+ alimentos
+ en
+ las
+ instalaciones
+de
+ faena.
+
+_1.7.8.2.6.
+
+ Transporte
+ de
+ equipos
+ y
+ transporte
+ de
+ personal_
+
+Durante
+ la
+ fase
+ de
+ cierre
+ se
+ requerirá
+ transportar
+ materiales
+ de
+ construcción,
+ estructuras,
+ equipos,
+ insumos,
+residuos
+ y
+ personal.
+ Como
+ medios
+ de
+ transporte
+ se
+ utilizarán
+ vehículos
+ livianos,
+ buses
+ y
+ camiones.
+
+El
+ transporte
+ de
+ suministros
+ e
+ insumos
+ se
+ realizará
+ como
+ se
+ describe
+ en
+ la
+ sección
+ 1.5.5,
+ utilizando
+ para
+ esto
+camionetas
+ y
+ camiones
+ 3⁄4
+ las
+ que
+ circularán
+ a
+ través
+ de
+ los
+ caminos
+ de
+ acceso
+ existentes.
+
+El
+ transporte
+ diario
+ del
+ personal
+ se
+ realizará
+ de
+ la
+ misma
+ forma
+ que
+ la
+ descrita
+ para
+ la
+ fase
+ de
+ construcción,
+ por
+medio
+ de
+ buses
+ cuya
+ frecuencia
+ de
+ viaje
+ estará
+ asociada
+ al
+ inicio
+ y
+ término
+ de
+ cada
+ jornada
+ de
+ trabajo.
+
+**1.7.9.** **Emisiones
+ de
+ fase
+ de
+ cierre
+ y
+ abandono**
+
+1.7.9.1.
+
+ Emisiones
+ atmosféricas
+
+Las
+ emisiones
+ asociadas
+ a
+ la
+ fase
+ de
+ cierre
+ del
+ proyecto
+ se
+ asimilan
+ a
+ las
+ descritas
+ para
+ la
+ construcción
+ de
+ éste
+generándose
+ a
+ partir
+ de
+ los
+ movimientos
+ de
+ tierra
+ y
+ tránsito
+ de
+ vehículos
+ y
+ maquinaria,
+ tanto
+ dentro
+ del
+ parque,
+como
+ en
+ las
+ rutas
+ utilizadas
+ para
+ el
+ transporte
+ de
+ equipos,
+ materiales
+ y
+ estructuras
+ (Tabla
+ 26).
+
+**Tabla
+ 26.
+ Emisiones
+ atmosféricas.
+ Fase
+ Cierre**
+
+|Col1|Emisiones (t)|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|**Actividad**|**MP10 **|**MP2,5 **|** NOx**|**CO**|**HC **|**SOx**|
+|Movimientodetierra|0,098|0,03|-|-|-|-|
+|Operacióny movimientodemaquinaria|0,063|-|0,81|0,17|0,079|-|
+|Tránsitovehicular|0,124|0,03|0,02|0,01|0,001|-|
+|Gruposelectrógenos|0,11|-|1,56|0,34|-|0,1|
+|**Total**|**0,396**|**0,06**|**2,39**|**0,52**|** 0,080**|**0,1**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+53
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+1.7.9.2.
+
+ Ruido
+
+En
+ la
+ fase
+ de
+ cierre
+ y
+ abandono
+ se
+ prevé
+ que
+ la
+ generación
+ de
+ ruido
+ durante
+ el
+ desmantelamiento
+ de
+ las
+ obras
+será
+ mucho
+ menor
+ a
+ la
+ etapa
+ de
+ construcción
+ y
+ operación
+ debido
+ a
+ que
+ no
+ se
+ utilizará
+ en
+ ningún
+ caso
+ la
+ cantidad
+ y
+tipo
+ de
+ maquinaria
+ pesada
+ usada
+ en
+ dichas
+ fases,
+ sino
+ que
+ principalmente
+ serán
+ desmanteladas
+ las
+ instalaciones
+ y
+retirados
+ los
+ elementos
+ que
+ constituyen
+ la
+ planta
+ solar
+ (paneles
+ fotovoltaicos,
+ inversores,
+ centros
+ de
+transformación).
+
+Por
+ las
+ razones
+ anteriores,
+ los
+ niveles
+ durante
+ ésta
+ etapa
+ serán
+ muy
+ bajos
+ o
+ bien
+ imperceptibles
+ en
+ los
+receptores
+ identificados.
+
+**1.7.10.** **Residuos
+ de
+ fase
+ de
+ cierre
+ y
+ abandono**
+
+1.7.10.1.
+
+ Residuos
+ líquidos
+ domésticos
+
+Durante
+ la
+ etapa
+ de
+ Abandono
+ del
+ proyecto
+ se
+ generarán
+ efluentes
+ líquidos
+ similares
+ a
+ los
+ de
+ la
+ etapa
+ de
+construcción,
+ 180
+ m [3] /mes
+ (6
+ m [3] /día),
+ producto
+ del
+ uso
+ de
+ los
+ baños
+ químicos
+ y
+ duchas,
+ los
+ que
+ al
+ igual
+ que
+ durante
+la
+ construcción,
+ serán
+ temporales,
+ extendiéndose
+ por
+ el
+ periodo
+ de
+ tiempo
+ que
+ duren
+ estas
+ actividades
+ (5
+ meses
+aproximadamente)
+ y
+ serán
+ retirados
+ por
+ una
+ empresa
+ autorizada
+ para
+ ello
+ y
+ llevados
+ a
+ un
+ sitio
+ de
+ disposición
+ final
+autorizado.
+
+1.7.10.2.
+
+ Residuos
+ sólidos
+
+Durante
+ la
+ etapa
+ de
+ abandono,
+ se
+ generarán
+ principalmente
+ residuos
+ sólidos
+ industriales
+ no
+ peligrosos
+ y
+escombros
+ (restos
+ de
+ hormigón),
+ restos
+ de
+ cables,
+ metales
+ (entre
+ otros),
+ además
+ de
+ la
+ generación
+ de
+ residuos
+sólidos
+ asimilables
+ a
+ domiciliarios.
+
+El
+ almacenamiento
+ temporal
+ de
+ residuos
+ generados,
+ se
+ realizará
+ según
+ lo
+ descrito
+ en
+ la
+ fase
+ de
+ construcción
+ del
+presente
+ capítulo.
+
+_1.7.10.2.1.
+
+ Residuos
+ sólidos
+ domésticos_
+
+Los
+ residuos
+ domésticos
+ serán
+ almacenados
+ en
+ tambores
+ o
+ contenedores
+ con
+ tapa,
+ para
+ ser
+ retirados
+ 3
+ veces
+por
+ semana,
+ con
+ destino
+ a
+ un
+ vertedero
+ local
+ autorizado.
+ Se
+ estima
+ que
+ trabajarían
+ 50
+ personas
+ como
+ máximo,
+ lo
+que
+ implicaría
+ un
+ volumen
+ de
+ generación
+ de
+ residuos
+ domiciliario
+ generado
+ en
+ los
+ frentes
+ de
+ trabajo
+ de
+ 50
+ kg/día
+aproximadamente
+ (considerando
+ una
+ tasa
+ de
+ producción
+ de
+ 1
+ kg/día
+ por
+ persona).
+
+El
+ Manejo
+ de
+ los
+ residuos
+ sólidos
+ será
+ similar
+ al
+ contemplado
+ para
+ la
+ fase
+ de
+ construcción
+ del
+ Proyecto,
+contemplando
+ principalmente:
+
+ Los
+ residuos
+ generados
+ serán
+ dispuestos
+ en
+ contenedores
+ segregados,
+ debidamente
+ rotulados
+ y
+
+sellados
+ con
+ tapa,
+ los
+ cuales
+ serán
+ acopiados
+ en
+ el
+ área
+ de
+ acopio
+ temporal
+ de
+ residuos
+ no
+ peligrosos
+dentro
+ de
+ contenedores
+ cerrados
+ para
+ posteriormente
+ ser
+ enviados
+ a
+ rellenos
+ sanitarios
+ autorizados
+dentro
+ de
+ la
+ Región.
+ La
+ frecuencia
+ de
+ retiro
+ será
+ de
+ mínimo
+ 2
+ veces
+ a
+ la
+ semana;
+ La
+ empresa
+ encargada
+ del
+ retiro
+ periódico
+ de
+ los
+ residuos
+ contará
+ con
+ resolución
+ sanitaria
+ para
+ el
+
+manejo
+ y
+ trasporte,
+ acreditando
+ además
+ la
+ disposición
+ final
+ de
+ los
+ residuos
+ en
+ un
+ sitio
+ de
+ disposición
+autorizado
+ por
+ la
+ SEREMI
+ de
+ Salud
+ de
+ la
+ Región
+ de
+ O’Higgins;
+ y
+ Los
+ lugares
+ de
+ trabajo
+ se
+ mantendrán
+ en
+ óptimas
+ condiciones
+ de
+ orden,
+ limpieza
+ e
+ higiene,
+
+especialmente
+ en
+ los
+ sectores
+ donde
+ se
+ ubiquen
+ los
+ receptáculos
+ para
+ la
+ disposición
+ temporal
+ de
+ los
+residuos
+ domiciliarios,
+ adoptando
+ las
+ medidas
+ más
+ efectivas
+ para
+ controlar
+ la
+ proliferación
+ de
+ vectores
+sanitarios
+ (roedores,
+ insectos,
+ aves,
+ etc.),
+ a
+ través
+ de
+ la
+ desratización
+ y
+ fumigaciones.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+54
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+_1.7.10.2.2.
+
+ Residuos
+ sólidos
+ industriales
+ no
+ peligrosos_
+
+Los
+ residuos
+ industriales
+ no
+ peligrosos
+ serán
+ generados
+ en
+ el
+ desmantelamiento
+ de
+ la
+ planta
+ fotovoltaica
+ y
+ sus
+respectivas
+ obras,
+ e
+ incluyen
+ despuntes
+ de
+ aluminio,
+ chatarra,
+ hierro,
+ hormigón
+ y
+ escombros.
+ Estos
+ residuos
+ serán
+similares
+ en
+ composición
+ y
+ cantidad
+ a
+ lo
+ señalado
+ en
+ la
+ fase
+ de
+ construcción,
+ y
+ su
+ almacenamiento
+ también
+ se
+realizará
+ en
+ contenedores
+ ubicados
+ en
+ la
+ instalación
+ de
+ faena.
+ Se
+ estima
+ una
+ generación
+ de
+ 0,16
+ t/mes,
+ de
+ acuerdo
+al
+ detalle
+ descrito
+ en
+ la
+ Tabla
+ 27.
+
+**Tabla
+ 27.
+ Generación
+ residuos
+ sólidos
+ no
+ peligrosos
+ fase
+ de
+ cierre**
+
+|Residuo|Cantidad (t/mes)|
+|---|---|
+|Chatarra|0,04|
+|Hormigón y escombros|0,1|
+|Estructuras|0,02|
+|Revestimientos y tuberías|0,004|
+|**Total**|**0,16**|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Los
+ residuos
+ que
+ presenten
+ algún
+ valor
+ comercial,
+ como
+ la
+ chatarra,
+ podrán
+ ser
+ retirados
+ por
+ empresas
+ de
+reciclaje
+ de
+ materiales,
+ en
+ tanto
+ que
+ aquellos
+ residuos
+ que
+ no
+ presenten
+ valor
+ comercial
+ serán
+ dispuestos
+temporalmente
+ en
+ un _container_ tipo
+ roll-­‐off
+ abierto
+ de
+ 10
+ m3
+ hasta
+ su
+ retiro
+ por
+ una
+ empresa
+ autorizada
+ que
+ lo
+transportará
+ hacia
+ un
+ sitio
+ autorizado
+ para
+ su
+ disposición
+ final.
+
+El
+ destino
+ final,
+ será
+ realizado
+ por
+ una
+ empresa
+ externa
+ que
+ cuente
+ con
+ autorización
+ de
+ la
+ SEREMI
+ de
+ salud
+ de
+la
+ Región.
+
+_1.7.10.2.3.
+
+ Residuos
+ sólidos
+ peligrosos_
+
+La
+ cantidad
+ de
+ estos
+ residuos
+ peligrosos
+ generador
+ en
+ esta
+ fase
+ será
+ mínima,
+ estimándose
+ una
+ cantidad
+ de
+0,1
+ m [3] /mes,
+ correspondiendo
+ principalmente
+ a:
+ aceites,
+ filtros
+ de
+ maquinaria,
+ ropa
+ contaminada,
+ guantes
+contaminados,
+ mascarillas
+ contaminadas,
+ trapos
+ y
+ guaipe
+ contaminado,
+ entre
+ otros.
+
+Su
+ disposición
+ temporal
+ se
+ realizará
+ en
+ un
+ contenedor
+ metálico
+ de
+ 3
+ m [3],
+ similar
+ al
+ que
+ se
+ ocupará
+ en
+ la
+ fase
+ de
+construcción.
+ Estos
+ residuos
+ serán
+ retirados
+ por
+ una
+ empresa
+ calificada
+ y
+ trasladados
+ a
+ un
+ lugar
+ de
+ disposición
+ final
+autorizado,
+ de
+ acuerdo
+ a
+ lo
+ dispuesto
+ en
+ el
+ D.S.
+ N°
+ 148/2003.
+
+_1.7.10.2.4.
+
+ Paneles
+ fotovoltaicos
+ dañados_
+
+Es
+ posible
+ que
+ paneles
+ fotovoltaicos
+ sufran
+ daños
+ durante
+ su
+ desmontaje,
+ los
+ cuales
+ pueden
+ catalogarse
+ como
+residuos
+ generados
+ durante
+ la
+ fase
+ de
+ cierre.
+ Independiente
+ del
+ alcance
+ de
+ su
+ daño,
+ este
+ residuo
+ será
+ manejado
+como
+ si
+ fuera
+ un
+ residuo
+ peligroso.
+ Se
+ estima
+ una
+ cantidad
+ equivalente
+ a
+ 0,02
+ t/mes.
+
+La
+ Tabla
+ 28
+ muestra
+ el
+ resumen
+ de
+ los
+ residuos
+ generados
+ a
+ lo
+ largo
+ de
+ la
+ fase
+ de
+ cierre,
+ indicando
+ su
+ forma
+ de
+manejo
+ y
+ lugar
+ de
+ disposición
+ final.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+55
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Maitenes**
+
+**Comuna
+ de
+ Marchigüe**
+
+Abril
+ de
+ 2015
+ |
+ Rev.
+ 0
+
+**Tabla
+ 28.
+ Resumen
+ residuos
+ fase
+ de
+ cierre**
+
+|Tipo de residuos|Cantidad estimada<br>(t/mes)|Forma de manejo|Lugar de disposición final|
+|---|---|---|---|
+|Residuos domésticos|1,5|Retiro diario en contenedores exclusivos<br>en frentes de trabajo y almacenamiento<br>temporal en Instalación de Faenas.<br>Desde ahí retiro dos o tres veces por<br>semana,<br>por<br>servicio<br>municipal<br>o<br>empresa especializada y autorizada.|Retiro y disposición en relleno<br>sanitario autorizado por la SEREMI de<br>Salud Región de O’Higgins|
+|Residuos Industriales<br>no peligrosos|0,16|Retiro periódico en frentes de trabajo y<br>almacenamiento<br>temporal<br>en<br>contenedores exclusivos en Instalación<br>de Faenas. Desde ahí, retiro mensual por<br>empresa autorizada.|Retiro<br>y<br>disposición<br>en<br>lugar<br>autorizado por la SEREMI de Salud<br>Región de O’Higgins. Eventualmente,<br>reciclado por empresa especializada.|
+|Residuos peligrosos|0,00001|Almacenamiento<br>temporal<br>en<br>contenedor exclusivo en Instalación de<br>Faenas. Desde ahí, retiro mensual por<br>empresa autorizada.|Retiro<br>y<br>disposición<br>en<br>sitio<br>autorizado<br>de<br>acuerdo<br>al<br>D.S.<br>148/2003.|
+|Paneles fotovoltaicos<br>dañados|0,02|Almacenamiento<br>temporal<br>en<br>contenedor exclusivo en Instalación de<br>Faenas. Desde ahí, retiro mensual por<br>empresa autorizada.|Retiro<br>y<br>disposición<br>en<br>sitio<br>autorizado<br>de<br>acuerdo<br>al<br>D.S.<br>148/2003.|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales
+
+**1.8.** **Plan
+ de
+ prevención
+ de
+ riesgos,
+ contingencias
+ y
+ emergencias**
+El
+ Proyecto
+ cuenta
+ con
+ un
+ plan
+ que
+ permite
+ prevenir
+ contingencias
+ (riesgos)
+ y
+ controlar
+ emergencias,
+ todos
+ en
+el
+ marco
+ de
+ su
+ política
+ integrada
+ de
+ calidad,
+ seguridad
+ y
+ salud
+ ocupacional
+ y
+ medioambiental.
+ El
+ detalle
+ de
+ este
+ se
+presenta
+ en
+ el
+ Anexo
+ 1.12,
+ Plan
+ de
+ Prevención
+ de
+ Contingencias
+ y
+ Plan
+ de
+ Control
+ de
+ Emergencias.
+
+www.tet.cl
+ ________________________________________________________________________________________________________Capítulo
+ 1.
+
+ Descripción
+ de
+ Proyecto
+
+56

@@ -1,0 +1,18 @@
+---
+title: Model
+author: Desconocido
+date: D:20250110112609
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|0 0 0 0 0<br>A A A A A<br>-23<br>-31 -30 -32 -29<br>-35 B<br>-40<br>-43 LENTE LIMO ARENA<br>B<br>A<br>-55 -56<br>B<br>-70<br>-72<br>B<br>-103<br>-106<br>-110<br>-114<br>C<br>-120<br>C<br>-130<br>B<br>-134<br>-136<br>-140<br>C<br>0 10 20 30 40 50 cm -160 -160<br>POZO 7<br>0 10 20 30 40 50 cm<br>POZO 6<br>PERFIL NORTE<br>ESC.1:10<br>PERFIL NORTE<br>0 10 20 30 40 50 cm 0 10 20 30 40 50 cm<br>-196<br>ESC.1:10 POZO 8 POZO 9 -198<br>PERFIL NORTE PERFIL SUR C<br>ESC.1:10 ESC.1:10<br>-220<br>0 10 20 30 40 50 cm<br>POZO 10<br>PERFIL NORTE<br>ESC.1:10|Col2|Col3|
+|---|---|---|
+|0<br>POZO 9<br>PERFIL SUR<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>C<br>-134<br>0<br>POZO 6<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>C<br>-35<br>B<br>-110<br>-114<br>-31<br>0<br>POZO 7<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>0<br>POZO 10<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-220<br>-70<br>B<br>-72<br>-32<br>-29<br>LENTE LIMO ARENA<br>-56<br>B<br>-55<br>C<br>-106<br>-103<br>0<br>POZO 8<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>B<br>-120<br>-136<br>-23<br>B<br>-30<br>C<br>-198<br>-196<br>-43<br>-40<br>A|||
+|0<br>POZO 9<br>PERFIL SUR<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>C<br>-134<br>0<br>POZO 6<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>C<br>-35<br>B<br>-110<br>-114<br>-31<br>0<br>POZO 7<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>0<br>POZO 10<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-220<br>-70<br>B<br>-72<br>-32<br>-29<br>LENTE LIMO ARENA<br>-56<br>B<br>-55<br>C<br>-106<br>-103<br>0<br>POZO 8<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>B<br>-120<br>-136<br>-23<br>B<br>-30<br>C<br>-198<br>-196<br>-43<br>-40<br>A|||
+|0<br>POZO 9<br>PERFIL SUR<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>C<br>-134<br>0<br>POZO 6<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>C<br>-35<br>B<br>-110<br>-114<br>-31<br>0<br>POZO 7<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>0<br>POZO 10<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-220<br>-70<br>B<br>-72<br>-32<br>-29<br>LENTE LIMO ARENA<br>-56<br>B<br>-55<br>C<br>-106<br>-103<br>0<br>POZO 8<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>B<br>-120<br>-136<br>-23<br>B<br>-30<br>C<br>-198<br>-196<br>-43<br>-40<br>A|||
+|0<br>POZO 9<br>PERFIL SUR<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>C<br>-134<br>0<br>POZO 6<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-140<br>C<br>-35<br>B<br>-110<br>-114<br>-31<br>0<br>POZO 7<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-130<br>0<br>POZO 10<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-220<br>-70<br>B<br>-72<br>-32<br>-29<br>LENTE LIMO ARENA<br>-56<br>B<br>-55<br>C<br>-106<br>-103<br>0<br>POZO 8<br>PERFIL NORTE<br>ESC.1:10<br>0<br>10<br>20<br>30<br>40<br>50 cm<br>A<br>-160<br>B<br>-120<br>-136<br>-23<br>B<br>-30<br>C<br>-198<br>-196<br>-43<br>-40<br>A|||

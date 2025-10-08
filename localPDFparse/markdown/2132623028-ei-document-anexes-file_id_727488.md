@@ -1,0 +1,72 @@
+---
+title: Sin título
+author: Luis Rodriguez
+date: D:20170807153935-04'00'
+language: en
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|IPROMSA LTDA|DEPARTAMENTO DE INGENIERÍA|Código de Documento|Col4|Pag.|
+|---|---|---|---|---|
+|** IPROMSA LTDA**|**DEPARTAMENTO DE INGENIERÍA**|ERSA231-IBMPHDD-0003|ERSA231-IBMPHDD-0003|ERSA231-IBMPHDD-0003|
+|** IPROMSA LTDA**|**DATA SHEET - TANQUE 5m3 Marcador de Kerosene**|**Revisión**|0|1|
+|** IPROMSA LTDA**|**DATA SHEET - TANQUE 5m3 Marcador de Kerosene**|**Fecha de Emisión**|**Fecha de Emisión**|de|
+|** IPROMSA LTDA**|**DATA SHEET - TANQUE 5m3 Marcador de Kerosene**|30-mar-17|30-mar-17|1|
+
+|GENERAL|1<br>2<br>3<br>4<br>5|TAG NO. T-100|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|**GENERAL**|1<br>2<br>3<br>4<br>5|QUANTITY<br>**1**|QUANTITY<br>**1**|QUANTITY<br>**1**|QUANTITY<br>**1**|QUANTITY<br>**1**|QUANTITY<br>**1**|QUANTITY<br>**1**|QUANTITY<br>**1**|
+|**GENERAL**|1<br>2<br>3<br>4<br>5|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|SERVICE<br>**Tanque Horizontal**|
+|**GENERAL**|1<br>2<br>3<br>4<br>5|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|**Quinizarina / Xileno**<br>PRODUCT|
+|**GENERAL**|1<br>2<br>3<br>4<br>5|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|**0,86**<br>SPECIFIC GRAVITY|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|CODE & ADDENDA<br>**BS 2594**|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|PRESSURE & TEMPERATURE|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>INTERNAL:<br>**35**|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|kg/cm2 (g) @<br>°C<br>**Atm**<br>EXTERNAL:<br>**35**|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|°C<br>METAL TEMPERATURE (MINIMUM)|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|mm<br>LIQUID LEVEL|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|JOINT EFFICIENCIES<br>**100%**<br>SHELL:|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|HEADS:<br>**100%**|HEADS:<br>**100%**|HEADS:<br>**100%**|HEADS:<br>**100%**|HEADS:<br>**100%**|HEADS:<br>**100%**|HEADS:<br>**100%**|HEADS:<br>**100%**|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|mm<br>SHELL:<br>CORROSION ALLOWANCE|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|mm<br>HEADS:|mm<br>HEADS:|mm<br>HEADS:|mm<br>HEADS:|mm<br>HEADS:|mm<br>HEADS:|mm<br>HEADS:|mm<br>HEADS:|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|mm<br>NOZZLES:|mm<br>NOZZLES:|mm<br>NOZZLES:|mm<br>NOZZLES:|mm<br>NOZZLES:|mm<br>NOZZLES:|mm<br>NOZZLES:|mm<br>NOZZLES:|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|VACUUM DESIGN<br>**No**|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|POSTWELD HEAT TREATMENT|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|mm<br>INTERNAL DIAM / SHELL HEIGHT|
+|**DESIGN CONDITIONS**|6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|VOLUME<br>m3<br>**5**|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|HEADS TYPE<br>**Coníco**|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|OPERATING PRESSURE & TEMPERATURE|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|kg/cm2 (g) @<br>°C<br>**25**<br>**Atmospheric**|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|MAWP<br>kg/cm2 (g) limited by<br>**Full of liquid**|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|MAP (N&C)<br>kg/cm2 (g)|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|HYDRO. TEST PRESSURE<br>SHOP:<br>kg/cm2|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|FIELD:<br>kg/cm2|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|HYDRO. TEST POSITION|HYDRO. TEST POSITION|HYDRO. TEST POSITION|HYDRO. TEST POSITION|HYDRO. TEST POSITION|HYDRO. TEST POSITION|HYDRO. TEST POSITION|HYDRO. TEST POSITION|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|FLANGE RATINGS<br>MAWP:<br>kg/cm2|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|MAP:<br>kg/cm2|MAP:<br>kg/cm2|MAP:<br>kg/cm2|MAP:<br>kg/cm2|MAP:<br>kg/cm2|MAP:<br>kg/cm2|MAP:<br>kg/cm2|MAP:<br>kg/cm2|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|TEST:<br>kg/cm2|TEST:<br>kg/cm2|TEST:<br>kg/cm2|TEST:<br>kg/cm2|TEST:<br>kg/cm2|TEST:<br>kg/cm2|TEST:<br>kg/cm2|TEST:<br>kg/cm2|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|WEIGHTS<br>EMPTY:<br>kg|
+|**OPERATION AND TEST**<br>**CONDITIONS**|21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|OPERATION:<br>kg<br>TEST:<br>kg|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|SHELL<br>mm<br>**ASTM A36**|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|HEADS<br>mm|HEADS<br>mm|HEADS<br>mm|HEADS<br>mm|HEADS<br>mm|HEADS<br>mm|HEADS<br>mm|HEADS<br>mm|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|NOZZLES|NOZZLES|NOZZLES|NOZZLES|NOZZLES|NOZZLES|NOZZLES|NOZZLES|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|FLANGES|FLANGES|FLANGES|FLANGES|FLANGES|FLANGES|FLANGES|FLANGES|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|BOLTING|BOLTING|BOLTING|BOLTING|BOLTING|BOLTING|BOLTING|BOLTING|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|INTERNAL PLATES|INTERNAL PLATES|INTERNAL PLATES|INTERNAL PLATES|INTERNAL PLATES|INTERNAL PLATES|INTERNAL PLATES|INTERNAL PLATES|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|SADDLES|SADDLES|SADDLES|SADDLES|SADDLES|SADDLES|SADDLES|SADDLES|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|PADS & WEAR PLATES|PADS & WEAR PLATES|PADS & WEAR PLATES|PADS & WEAR PLATES|PADS & WEAR PLATES|PADS & WEAR PLATES|PADS & WEAR PLATES|PADS & WEAR PLATES|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|GASKET|GASKET|GASKET|GASKET|GASKET|GASKET|GASKET|GASKET|
+|**MATERIALS**|34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43|INSULATION<br>mm|INSULATION<br>mm|INSULATION<br>mm|INSULATION<br>mm|INSULATION<br>mm|INSULATION<br>mm|INSULATION<br>mm|INSULATION<br>mm|
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|**ITEM NO.**|**QTY.**|**SIZE/TYPE/RATING**|**SERVICE**|**ITEM NO.**|**QTY.**|**SIZE**|**SERVICE**|
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N1|1|2" 3000 lb. NPT|CARGA|N9|1|8"|CARGA POLVO|
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N2|1|2" 3000 lb. NPT|MEDICION|N10|1|6"|VENTEO|
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N3|1|2" 3000 lb. NPT|RECIRCULACION|||||
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N4|1|2" 3000 lb. NPT|SUCCION|||||
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N5|1|2" 3000 lb. NPT|DRENAJE DE FONDO|||||
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N6|1|24"|DOMO|||||
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N7|1|1" 3000 lb. NPT|VIDRIO NIVEL|||||
+|**NOZZLES**|44<br>45<br>46<br>47<br>48<br>49<br>50<br>51<br>52|N8|1|2" 3000 lb. NPT|RECIRCULACION|||||

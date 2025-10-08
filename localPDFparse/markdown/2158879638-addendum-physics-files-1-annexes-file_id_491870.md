@@ -1,0 +1,61 @@
+---
+title: PLANOS ARQUITECTURA ALMACENAMIENTO RESIDUOS
+author: Jaime Iturriaga
+date: D:20230623143241Z
+language: unknown
+type: general
+pages: 12
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+RESPEL
+
+RESPEL
+
+RESPEL
+
+RESPEL
+
+RESIDUOS
+
+NO
+
+PELIGROSOS
+
+RESIDUOS
+
+NO
+
+PELIGROSOS
+
+RESIDUOS
+
+NO
+
+PELIGROSOS
+
+RESIDUOS
+
+NO
+
+PELIGROSOS
+
+RESIDUOS
+
+DOMESTICOS
+
+RESIDUOS
+
+DOMESTICOS
+
+**INSTALACIONES PERMANENTES**
+
+RESIDUOS
+
+DOMESTICOS
+
+RESIDUOS
+
+DOMESTICOS

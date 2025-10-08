@@ -1,0 +1,197 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20160826085218-04'00'
+language: es
+type: report
+pages: 3
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - RESOLUCIÓN DE APROBACIÓN DE ANTEPROYECTO DE EDIFICACIÓN
+  - REGIÓN: METROPOLITANA
+-->
+
+Formulario 2.2
+
+**VISTOS:**
+
+# RESOLUCIÓN DE APROBACIÓN DE ANTEPROYECTO DE EDIFICACIÓN
+
+(R.A.E. - 5.1.5)
+
+
+
+DIRECCIÓN DE OBRAS - I. MUNICIPALIDAD DE
+
+LA FLORIDA
+
+# REGIÓN: METROPOLITANA
+
+A) Las atribuciones emanadas del Art. 24 de la Ley Orgánica Constitucional de Municipalidades.
+
+B)Las disposiciones de la Ley General de Urbanismo y Construcciones, en especial el Art. 116, su Ordenanza General, y el
+
+instrumento de planificacion territorial.
+
+C) La Solicitud de Aprobación, los planos y demás antecedentes debidamente suscritos por el propietario y el arquitecto
+
+proyectista, correspondientes al expediente S.A.P. - 5.1.5. N° **201606343 / 364-E/2016..**
+
+D) El Certificado de Informaciones Previas No **713, 714 Y 765.** de fecha **13.04.2015 Y 14.05.2015.**
+
+E) La Solicitud No **----** de Aprobación de Anteproyecto de Loteo con Construcción Simultánea de fecha **----** .
+
+**RESUELVO:**
+
+1.- Aprobar la **RESOLUCIÓN DE APROBACIÓN DE ANTEPROYECTO DE EDIFICACIÓN**
+
+con destino (s) **HABITACIONAL** ubicado en calle/avenida/camino **VICUÑA MACKENNA PONIENTE** N° **6456** Loteo N° **A** manzana **N/R**
+
+Localidad ó loteo **NO LOTEO** sector **URBANO** Zona **Z-AA+CB-CM** del plan regulador **1o MODIF_PRC_S.C** de conformidad a los planos y
+
+antecedentes timbrados por esta D.O.M., que forman parte de la presente autorización y que se encuentran archivados en el expediente
+
+S.A.P.-5.1.5. N° **.201606343 / 364-E/2016.**
+
+2.- Dejar constancia que su vigencia será de **1 AÑO** a contar de la fecha de esta resolución, de acuerdo al Art. 1.4.11. de la O.G.U.C.
+
+3.- Establecer que la aprobación del futuro permiso de edificación queda condicionada a la tramitación previa, conjunta o simultánea de las
+
+siguientes actuaciones **EISTU, SUBDIVISIÓN Y FUSIÓN PERFECCIONADA 3.1.3 OGUC**
+
+4.-Se deja constancia que el anteproyecto que se aprueba se acoge a las siguientes disposiciones especiales
+
+**.ART. 63o L.G.U.C., ART. 2.6.11 O.G.U.C., LEY 19.537 SOBRE COPROPIEDAD INMOBILIARIA, DFL No 2 DE 1959, ART. 15o NUMERAL 7 DEL**
+
+**P.R.C.**
+
+**5.- INDIVIDUALIZACIÓN DEL PROPIETARIO**
+
+|NOMBRE O RAZÓN SOCIAL DEL PROPIETARIO|R.U.T.|
+|---|---|
+|**INMOBILIARIA LOS SILOS III S.A.**|**77390390-5**|
+|REPRESENTANTE LEGAL DEL**PROPIETARIO**|R.U.T.|
+|**RICARDO POSADA COPANO**|**5023009-0**|
+
+**6.- INDIVIDUALIZACIÓN DEL ARQUITECTO PROYECTISTA**
+
+|NOMBRE O RAZÓN SOCIAL DE LA EMPRESA DEL ARQUITECTO (CUANDO CORRESPONDA)|R.U.T.|
+|---|---|
+|**----------**|**----------**|
+|NOMBRE DEL**ARQUITECTO**RESPONSABLE|R.U.T.|
+|**RICARDO POSADA MERY**|**10347262-8**|
+
+Formulario 2.2
+
+**7.- CARACTERÍSTICAS PRINCIPALES DEL ANTEPROYECTO**
+
+**7.1.- DESTINO(S) CONTEMPLADO(S)**
+
+(R.A.E. - 5.1.5)
+
+
+
+|RESIDENCIAL<br>Art. 2.1.25. OGUC.|DESTINO ESPECÍFICO:|vivienda|Col4|
+|---|---|---|---|
+|EQUIPAMIENTO<br>Art. 2.1.33. OGUC.|CLASE ART. 2.1.33 OGUC|ACTIVIDAD|ESCALA ART. 2.1.36. OGUC|
+|EQUIPAMIENTO<br>Art. 2.1.33. OGUC.||||
+|ACTIVIDADES PRODUCTIVAS<br>Art. 2.1.28. OGUC.|DESTINO ESPECÍFICO:|||
+|INFRAESTRUCTURA<br>Art. 2.1.29. OGUC.|DESTINO ESPECÍFICO:|||
+|OTROS|(ESPECIFICAR)|||
+
+**7.2.- SUPERFICIE EDIFICADA**
+
+|Col1|UTIL (m2)|COMÚN (m2)|TOTAL (m2)|
+|---|---|---|---|
+|**BAJO TERRENO**|**4.075,76**|**5.079,76**|**9.155,52**|
+|**SOBRE TERRENO**|**17.989,96**|**5.077,04**|**23.067**|
+|**TOTAL**|**22.065,72**|**10.156,8**|**32.222,52**|
+|**SUPERFICIE TERRENO**|**6.256,84**|**6.256,84**|**6.256,84**|
+
+**7.3.- NORMAS URBANÍSTICAS APLICADAS**
+
+|DESCRIPCIÓN|PERMITIDO|PROYECTADO|DESCRIPCIÓN|PERMITIDO|PROYECTADO|
+|---|---|---|---|---|---|
+|COEFICIENTE DE<br>CONSTRUCTIBILIDAD|3+30%=3,9|2,88|COEFICIENTE DE OCUPACIÓN DE<br>SUELO|0,60|0,18|
+|COEFICIENTE DE OCUPACIÓN<br>PISOS SUPERIORES|0,40|0,17|DENSIDAD|LIBRE|1.564,21 VIV/HA|
+|ALTURA MAXIMA EN METROS O<br>PISOS|LIBRE|57,5|ADOSAMIENTO|O.G.U.C.|NO|
+|RASANTES|70o|2.6.11 O.G.U.C.|ANTEJARDIN|CONTINUIDAD|CONTINUIDAD|
+|DISTANCIAMIENTOS|O.G.U.C.|1/5 ALTURA||||
+
+|ESTACIONAMIENTO REQUERIDO|UNIDADES|ESTACIONAMIENTO PROYECTO|UNIDADES|
+|---|---|---|---|
+|240+36 VISITAS|276|295+36 visitas|331|
+
+|DISPOSICIONES ESPECIALES A QUE SE ACOGE EL PROYECTO|Col2|Col3|
+|---|---|---|
+|D.F.L.- No2 de<br>Ley No 19.537 Copropiedad<br>Conjunto Armónico Art. 2.6.4.<br>Proyección Sombras Art. 2.6.11.<br>Beneficio Fusión Art. 63<br>Otro<br>Segunda Vivienda Art. 6.2.4.<br>Conj. Viv. Econ. Art. 6.1.8.<br>ART.15o P.R.C.|D.F.L.- No2 de<br>Ley No 19.537 Copropiedad<br>Conjunto Armónico Art. 2.6.4.<br>Proyección Sombras Art. 2.6.11.<br>Beneficio Fusión Art. 63<br>Otro<br>Segunda Vivienda Art. 6.2.4.<br>Conj. Viv. Econ. Art. 6.1.8.<br>ART.15o P.R.C.|D.F.L.- No2 de<br>Ley No 19.537 Copropiedad<br>Conjunto Armónico Art. 2.6.4.<br>Proyección Sombras Art. 2.6.11.<br>Beneficio Fusión Art. 63<br>Otro<br>Segunda Vivienda Art. 6.2.4.<br>Conj. Viv. Econ. Art. 6.1.8.<br>ART.15o P.R.C.|
+|D.F.L.- No2 de<br>Ley No 19.537 Copropiedad<br>Conjunto Armónico Art. 2.6.4.<br>Proyección Sombras Art. 2.6.11.<br>Beneficio Fusión Art. 63<br>Otro<br>Segunda Vivienda Art. 6.2.4.<br>Conj. Viv. Econ. Art. 6.1.8.<br>ART.15o P.R.C.|ART.15o P.R.C.|ART.15o P.R.C.|
+|AUTORIZACIONES ESPECIALES LGUC|AUTORIZACIONES ESPECIALES LGUC|AUTORIZACIONES ESPECIALES LGUC|
+|Art. 121<br>Art. 122<br>Art. 123<br>Art. 124<br>Art. 55<br>Otro (Especificar)|Art. 121<br>Art. 122<br>Art. 123<br>Art. 124<br>Art. 55<br>Otro (Especificar)|*******|
+|EDIFICIOS DE USO PUBLICO|Tod<br>Part<br>No|Tod<br>Part<br>No|
+
+**7.4.- NUMERO DE UNIDADES TOTALES POR DESTINO**
+
+|VIVIENDAS|479|OFICINAS|---|
+|---|---|---|---|
+|LOCALES COMERCIALES|---|ESTACIONAMIENTOS|331|
+|OTRO (ESPECIFICAR)|---|---|---|
+
+|PARA PROYECTOS DE CONDOMINIO TIPO B|Col2|
+|---|---|
+|SUPERFICIE TOTAL DE TERRENO|CANTIDAD DE SITIOS RESULTANTES|
+|---|---|
+
+**8- CONSIGNACIÓN DE DERECHOS (ART. 126 L.G.U.C. ULTIMO INCISO)**
+
+|CLASIFICACIÓN (ES) DE LA CONSTRUCCIÓN|Col2|Col3|Col4|Col5|Col6|Col7|Col8|clasificación|M2|
+|---|---|---|---|---|---|---|---|---|---|
+|PRESUPUESTO|PRESUPUESTO|PRESUPUESTO|PRESUPUESTO|PRESUPUESTO|PRESUPUESTO|PRESUPUESTO||||
+|SUBTOTAL DERECHOS MUNICIPALES|SUBTOTAL DERECHOS MUNICIPALES|SUBTOTAL DERECHOS MUNICIPALES|SUBTOTAL DERECHOS MUNICIPALES|SUBTOTAL DERECHOS MUNICIPALES|SUBTOTAL DERECHOS MUNICIPALES|%||||
+|DESCUENTO POR UNIDADES REPETIDAS|DESCUENTO POR UNIDADES REPETIDAS|DESCUENTO POR UNIDADES REPETIDAS|DESCUENTO POR UNIDADES REPETIDAS|DESCUENTO POR UNIDADES REPETIDAS|DESCUENTO POR UNIDADES REPETIDAS|-||||
+|TOTAL DERECHOS MUNICIPALES|TOTAL DERECHOS MUNICIPALES|TOTAL DERECHOS MUNICIPALES|TOTAL DERECHOS MUNICIPALES|TOTAL DERECHOS MUNICIPALES|TOTAL DERECHOS MUNICIPALES|%||||
+|MONTO CONSIGNADO AL INGRESO|G.I.M. N°|G.I.M. N°|** 44858132**|FECHA|**11/05/2016**|(-)|**$ 9.272.300**|**$ 9.272.300**|**$ 9.272.300**|
+|TOTAL A PAGAR|TOTAL A PAGAR|TOTAL A PAGAR|TOTAL A PAGAR|TOTAL A PAGAR|TOTAL A PAGAR|TOTAL A PAGAR|**$ 0**|**$ 0**|**$ 0**|
+|GIRO INGRESO MUNICIPAL<br>|GIRO INGRESO MUNICIPAL<br>|No|||FECHA|FECHA||||
+
+Formulario 2.2
+
+**NOTA: (SÓLO PARA SITUACIONES ESPECIALES DEL PERMISO)**
+
+(R.A.E. - 5.1.5)
+
+
+
+**1.- PARA LA RECEPCIÓN FINAL, EL PROYECTO DEBERÁ CUMPLIR CON EXIGENCIAS DE URBANIZACIÓN**
+**CONTENIDAS EN EL PRESENTE INFORME FAVORABLE.**
+**2.- POR AVENIDA VICUÑA MACKENNA PONIENTE Y LÉRIDA DEBERÁ ADOPTAR PERFILES INDICADOS POR DOM EN**
+**CERTIFICADO DE INFORMACIONES PREVIAS Y PROYECTO TRANSANTIAGO (PARA VICUÑA MACKENNA) SEGÚN**
+**CORRESPONDA.**
+**3.- DEBERÁ REPONER PAVIMENTOS EN CONFORMIDAD A LO SEÑALADO EN ARTÍCULOS 2.2.3 Y 5.2.6 O.G.U.C.**
+**4.- PARA ENAJENAR LAS VIVIENDAS DEBERÁ ACOGER A LEY DE COPROPIEDAD INMOBILIARIA Y OBTENER**
+**RECEPCIÓN FINAL.**
+**5.- DEBERÁ CUMPLIR CON LAS EXIGENCIAS DE MITIGACIÓN AMBIENTAL SEÑALADAS EN ARTÍCULO 5.8.3 DE LA**
+
+**O.G.U.C.**
+**6.- PODRÁ SOLICITAR DISEÑO DE PLAN MAESTRO DE ESPACIOS PÚBLICOS POR FRENTE PREDIAL HACIA CALLE**
+**VICUÑA MACKENNA PONIENTE Y LÉRIDA.**
+**7.- PARA SOLICITUD DE PERMISO DE EDIFICACIÓN DEBERÁ PRESENTAR EISTU APROBADO.**
+**8.- EL PRESENTE ANTEPROYECTO SE REVISA Y SE APRUEBA CONFORME A LO SEÑALADO EN INCISO PRIMERO DEL**
+**ARTÍCULO 1.2.4 O.G.U.C. y LEY No 20.703, DE 05/11/2013, LA PRESENTE AUTORIZACIÓN SE OTORGA BAJO EL**
+**CUMPLIMIENTO DE LA REVISIÓN DE LAS NORMAS URBANÍSTICAS APLICADAS AL PROYECTO, DEJANDO RADICADA**
+**LA RESPONSABILIDAD DE REVISIÓN Y DEL CUMPLIMIENTO DE LAS DEMÁS DISPOSICIONES LEGALES Y**
+**REGLAMENTARIAS VIGENTES AL ARQUITECTO PROYECTISTA Y DEMÁS PROFESIONALES QUE INTERVIENEN EN ÉL.**
+
+**APA** **[/]** **MVS** **/** **AGR**
+
+**AGUSTÍN PÉREZ ALARCÓN**
+
+**ARQUITECTO**
+**DIRECTOR DE OBRAS MUNICIPALES**
+
+codigo: 1472215964546 validar en http://esigner.laflorida.cl/EsignerValidar/verificar.jsp

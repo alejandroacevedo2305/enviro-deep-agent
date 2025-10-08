@@ -1,0 +1,3435 @@
+---
+title: Anexo.2.3.Riesgos.Naturales.Rev.1.(17.12.2015)
+author: Diego J. Martínez Neira
+date: D:20151218072337Z00'00'
+language: es
+type: report
+pages: 16
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - Declaración
+-->
+
+# Declaración
+ de
+ Impacto
+ Ambiental** **Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+#### Comuna
+ de
+ San
+ Pedro,
+ Provincia
+ de
+ Melipilla,** **Región
+ Metropolitana
+ de
+ Santiago**
+
+## Anexo
+ 2.3.** **Riesgos
+ Naturales**
+
+#### Preparado
+ para**
+## Eclipse
+ Solar
+ Spa**
+
+### Diciembre
+ de
+ 2015**
+
+**Revisión
+ 1**
+
+________________________________________________________________________________________________________ **www.tet.cl**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+### Tabla
+ de
+ Contenidos**
+
+**1.** **INTRODUCCIÓN** **1**
+
+**1.1.** **L** **OCALIZACIÓN
+ DEL
+ PROYECTO** **1**
+
+**2.** **OBJETIVO** **3**
+
+**2.1.** **O** **BJETIVOS
+ ESPECÍFICOS** **3**
+
+**3.** **METODOLOGÍA** **4**
+
+**4.** **RESULTADOS** **5**
+
+**4.1.** **A** **MENAZA
+ SÍSMICA** **5**
+**4.2.** **R** **EMOCIÓN
+ EN
+ MASA** **8**
+**4.3.** **A** **NEGAMIENTO
+ E
+ INUNDACIÓN** **11**
+
+**5.** **CONCLUSIONES** **13**
+
+**6.** **BIBLIOGRAFÍA** **14**
+
+### Listado
+ de
+ Tablas**
+
+T ABLA 1. F ACTORES
+ CONDICIONANTES
+ DE
+ PROCESOS
+ DE
+ REMOCIÓN
+ EN
+ MASA, SECTOR
+ PROYECTO P LANTA F OTOVOLTAICA
+
+E CLIPSE . 9
+T ABLA 2. R ANGO
+ DE
+ PENDIENTES
+ Y
+ PROCESOS
+ EROSIVOS . 10
+
+### Listado
+ de
+ Figuras**
+
+F IGURA 1. U BICACIÓN P ROYECTO P LANTA F OTOVOLTAICA E CLIPSE . 2
+F IGURA 2. E VENTOS
+ SÍSMICOS
+ DURANTE
+ LOS
+ PERÍODOS (1904 - 2006). 6
+F IGURA 3. E VENTOS
+ SÍSMICOS
+ INTERPLACA, PERIODO 1906 - 2006. 7
+F IGURA 4. C LASIFICACIÓN
+ DE
+ LOS
+ TIPOS
+ DE
+ REMOCIÓN
+ EN
+ MASA . 8
+F IGURA 5: S USCEPTIBILIDAD
+ A
+ PROCESOS
+ DE
+ REMOCIÓN
+ EN
+ MASA, SECTOR
+ DE
+ EMPLAZAMIENTO
+ DEL P ROYECTO . 10
+F IGURA 6. P ROCESOS
+ DE
+ ANEGAMIENTO, SECTOR
+ PROYECTO P LANTA F OTOVOLTAICA E CLIPSE . 11
+F IGURA 7. Á REA
+ DE
+ ANEGAMIENTO, SECTOR
+ PROYECTO P LANTA F OTOVOLTAICA E CLIPSE . 12
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**i**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**1.**
+**Introducción**
+
+Eclipse
+ corresponde
+ a
+ un
+ proyecto
+ de
+ pequeños
+ medios
+ de
+ generación
+ distribuida
+ (PMGD),
+ que
+ producirá
+energía
+ eléctrica
+ a
+ través
+ de
+ energías
+ renovables
+ no
+ convencionales
+ (ERNC),
+ por
+ medio
+ de
+ la
+ construcción
+ de
+ una
+central
+ de
+ paneles
+ fotovoltaicos
+ para
+ la
+ captación
+ de
+ la
+ energía
+ solar,
+ que
+ inyectará
+ hasta
+ 9
+ MW
+ al
+ Sistema
+Interconectado
+ Central
+ (SIC)
+ en
+ media
+ tensión
+ en
+ el
+ alimentador
+ Superpollo
+ (23
+ kV).
+
+El
+ Proyecto
+ se
+ compone
+ de
+ dos
+ elementos
+ principales,
+ a
+ saber:
+ i)
+ el
+ generador;
+ y,
+ ii)
+ el
+ sistema
+ de
+ conversión/
+transformación.
+ El
+ primero
+ contempla
+ la
+ instalación
+ de
+ 40.135
+ módulos
+ fotovoltaicos
+ (paneles
+ fotovoltaicos)
+ de
+260
+ Wp
+ de
+ potencia
+ nominal,
+ que
+ inyectará
+ 9
+ MW
+ al
+ SIC,
+ para
+ lo
+ cual
+ es
+ necesario
+ instalar
+ módulos
+ fotovoltaicos
+con
+ una
+ capacidad
+ de
+ planta
+ en
+ corriente
+ continua
+ de
+ 10,43
+ MWp.
+ Estos
+ irán
+ dispuestos
+ sobre
+ estructuras
+ fijas
+ de
+24°
+ de
+ inclinación,
+ orientados
+ al
+ norte,
+ con
+ un
+ altura
+ máxima
+ de
+ 3
+ m,
+ utilizando
+ una
+ superficie
+ de
+
+ ~13,2
+ ha
+ (área
+delimitada
+ por
+ el
+ cerco
+ perimetral).
+
+En
+ fase
+ de
+ construcción
+ la
+ superficie
+ total
+ que
+ ocupará
+ el
+ proyecto
+ será
+ de
+ 13,5
+ ha
+ totales,
+ considerando
+ la
+instalación
+ de
+ faenas
+ (temporal)
+ para
+ la
+ construcción
+ de
+ la
+ planta.
+
+Dado
+ que
+ los
+ paneles
+ fotovoltaicos
+ producirán
+ energía
+ en
+ corriente
+ continua,
+ el
+ segundo
+ elemento
+ corresponde
+a
+ los
+ inversores
+ que
+ la
+ dejarán
+ como
+ corriente
+ alterna,
+ y
+ a
+ los
+ transformadores
+ que
+ aumentarán
+ su
+ potencia
+ a
+media
+ tensión
+ (23
+ kV).
+ La
+ energía
+ producida,
+ convertida
+ y
+ transformada,
+ será
+ conducida
+ desde
+ un
+ centro
+ de
+distribución
+ por
+ un
+ cable
+ de
+ potencia
+ subterráneo,
+ e
+ inyectada
+ al
+ Sistema
+ Interconectado
+ Central
+ (SIC)
+ en
+ un
+ único
+punto
+ de
+ conexión
+ a
+ la
+ red,
+ frente
+ al
+ predio
+ de
+ la
+ planta
+ cerca
+ del
+ camino
+ público.
+ La
+ definición
+ de
+ la
+ solución
+ de
+conexión
+ a
+ la
+ red
+ electrica
+ está
+ en
+ tramite
+ con
+ la
+ empresa
+ distribuidora.
+
+La
+ construcción
+ se
+ realizará
+ en
+ un
+ plazo
+ máximo
+ estimado
+ de
+ seis
+ meses,
+ y
+ la
+ operación
+ de
+ la
+ planta
+ está
+programada,
+ inicialmente,
+ para
+ 30
+ años.
+ No
+ se
+ contempla
+ fase
+ de
+ abandono,
+ puesto
+ que
+ la
+ tecnología
+ podría
+renovarse
+ y
+ darle
+ continuidad
+ al
+ proyecto.
+
+La
+ planta
+ contará
+ con
+ un
+ cerco
+ perimetral,
+ portón
+ de
+ acceso
+ y
+ equipos
+ de
+ video-­‐vigilancia
+ y
+ control.
+ La
+operación
+ y
+ vigilancia
+ de
+ la
+ planta
+ se
+ realizará
+ de
+ manera
+ remota
+ y
+ en
+ tiempo
+ real,
+ no
+ contemplándose
+ la
+ presencia
+de
+ trabajadores
+ en
+ las
+ instalaciones,
+ salvo
+ para
+ las
+ labores
+ de
+ mantención.
+
+**1.1.** **Localización
+ del
+ proyecto**
+
+La
+ Planta
+ Fotovoltaica
+ Eclipse
+ Solar
+ se
+ localizará
+ a
+ 4
+ km
+ al
+ sureste
+ de
+ la
+ ciudad
+ de
+ San
+ Pedro
+ y
+ a
+ 1,8
+ km
+ al
+ oeste
+del
+ cruce
+ de
+ la
+ Ruta
+ 66
+ con
+ la
+ Ruta
+ G60,
+ o
+ cruce
+ Las
+ Arañas,
+ distancias
+ calculadas
+ a
+ través
+ de
+ la
+ Ruta
+ 66,
+denominada
+ también
+ como
+ “Ruta
+ de
+ la
+ Fruta”.
+
+Se
+ puede
+ acceder
+ al
+ Proyecto
+ desde
+ la
+ Ruta
+ 66,
+ ingresando
+ al
+ norte
+ por
+ un
+ camino
+ sin
+ nombre,
+ cuyo
+ cruce
+ con
+la
+ Ruta
+ 66
+ se
+ localiza
+ a
+ 1,8
+ km
+ al
+ oeste
+ del
+ cruce
+ antes
+ mencionado,
+ tomando
+ como
+ referencia
+ el
+ vivero
+ de
+ CONAF
+en
+ dicha
+ esquina
+ (Figura
+ 1).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**1**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**Figura
+ 1.
+ Ubicación
+ Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse.**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**2**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**2.**
+**Objetivo**
+
+Realizar
+ la
+ identificación
+ y
+ caracterización
+ de
+ los
+ riesgos
+ naturales
+ potenciales,
+ existentes
+ en
+ el
+ área
+ de
+emplazamiento
+ del
+ Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse.
+
+**2.1.** **Objetivos
+ específicos**
+
+ Identificar
+ los
+ riesgos
+ naturales
+ presentes
+ en
+ el
+ area
+ de
+ influencia
+ del
+ Proyecto.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**3**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**3.**
+**Metodología**
+
+Desde
+ el
+ punto
+ de
+ vista
+ de
+ las
+ potenciales
+ amenazas
+ naturales
+ presentes
+ en
+ la
+ zona
+ de
+ influencia
+ del
+ proyecto,
+se
+ trabajará
+ con
+ las
+ siguientes
+ variables:
+
+ Amenaza
+ sísmica
+ Remoción
+ en
+ masa
+ Inundación
+ y
+ anegamiento
+
+Para
+ la
+ caracterización
+ de
+ la
+ amenaza
+ sismica
+ se
+ llevó
+ a
+ cabo
+ un
+ descripción
+ de
+ los
+ principales
+ eventos
+ sísmicos
+desarrollados
+ durante
+ el
+ periodo
+ entre
+ 1906
+ y
+ 2006,
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto;
+ más
+específicamente
+ dentro
+ de
+ la
+ region
+ Metropolitana.
+ Lo
+ anterior,
+ se
+ realizó
+ mediante
+ la
+ información
+ obtenida
+ de
+Silva
+ (2008).
+ Para
+ la
+ caracterización
+ del
+ riesgo
+ de
+ remoción
+ en
+ masa,
+ se
+ utlilzó
+ el
+ método
+ de
+ zonificación
+ de
+peligrosidad
+ de
+ remoción
+ en
+ masa,
+ en
+ base
+ a
+ factores
+ condicionantes.
+ Para
+ ello
+ se
+ utilizó
+ el
+ método
+ de
+ evaluación
+multicriterio,
+ donde
+ se
+ trabajó
+ con
+ las
+ variables
+ o
+ factores
+ de
+ mayor
+ incidencia
+ en
+ el
+ desarrollo
+ de
+ procesos
+ de
+remoción
+ en
+ masa
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto.
+ Para
+ ello
+ se
+ trabajara
+ con
+ las
+ siguientes
+ variables:
+
+ Geomorfología
+ Pendientes
+ Orientación
+
+Para
+ caracterizar
+ los
+ procesos
+ de
+ inundación
+ y
+ anegamiento
+ se
+ realizó
+ una
+ identificación
+ en
+ terreno
+ de
+ las
+ áreas
+que
+ presentan
+ mayor
+ saturación
+ freática
+ con
+ aportes
+ de
+ datos
+ de
+ perfiles
+ de
+ suelo
+ y
+ caracterización
+ de
+ texturas
+ de
+suelo
+ realizados
+ por
+ del
+ Laboratorio
+ de
+ Servicios
+ Agronomía
+ UC
+ (Anexo
+ 2.2).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**4**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**4.**
+**Resultados**
+
+**4.1.** **Amenaza
+ sísmica**
+
+La
+ zona
+ central
+ de
+ Chile,
+ específicamente
+ en
+ la
+ Región
+ Metropolitana
+ de
+ Santiago
+ (RMS),
+ que
+ es
+ donde
+ se
+inserta
+ el
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse,
+ ha
+ desarrollado
+ durante
+ su
+ larga
+ historia,
+ y
+ últimas
+ décadas,
+numerosos
+ eventos
+ asociados
+ a
+ terremotos.
+ Lo
+ anterior,
+ como
+ resultado
+ de
+ que
+ el
+ margen
+ continental
+sudamericano
+ del
+ Pacifico,
+ donde
+ se
+ localiza
+ Chile,
+ convergen
+ en
+ forma
+ de
+ subducción
+ la
+ Placa
+ de
+ Nazca
+ y
+ la
+ Placa
+Sudamericana.
+ Estas
+ placas
+ se
+ desplazan
+ unos
+ 3
+ cm/año
+ en
+ dirección
+ aproximada
+ hacia
+ el
+ Oeste,
+ lo
+ que
+ hace
+ una
+tasa
+ neta
+ de
+ convergencia
+ estimada
+ entre
+ 8
+ a
+ 9
+ cm/año.
+ Estas
+ características,
+ en
+ particular
+ el
+ alto
+ valor
+ de
+ la
+velocidad
+ de
+ convergencia,
+ genera
+ una
+ gran
+ acumulación
+ de
+ tensiones
+ en
+ las
+ zonas
+ de
+ fricción
+ de
+ las
+ placas,
+ las
+cuales
+ resisten
+ hasta
+ un
+ cierto
+ valor
+ límite,
+ luego
+ del
+ cual
+ se
+ produce
+ una
+ liberación
+ de
+ energía
+ ocasionando
+ lo
+ que
+se
+ percibe
+ como
+ terremoto.
+
+En
+ Chile
+ la
+ amenaza
+ sísmica
+ es
+ un
+ problema
+ de
+ preocupación,
+ responsabilidad
+ e
+ interés
+ nacional.
+ El
+ grado
+ de
+exposición
+ de
+ las
+ grandes
+ obras
+ de
+ infraestructura,
+ vivienda
+ y
+ todo
+ tipo
+ de
+ instalaciones
+ industriales
+ y
+ de
+ servicios,
+están
+ expuestas
+ a
+ la
+ amenaza
+ sísmica
+ en
+ gran
+ parte
+ del
+ territorio
+ nacional
+ y
+ representa
+ un
+ problema
+ mayor
+ para
+ la
+ingeniería
+ chilena
+ debido
+ a
+ los
+ graves
+ daños
+ ocasionados
+ históricamente
+ por
+ los
+ sismos.
+
+Dentro
+ de
+ la
+ RMS,
+ y
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse,
+ se
+ han
+ registrado
+sismos
+ pocos
+ profundos
+ entre
+ 0
+ y
+ 69
+ km
+ de
+ profundidad,
+ los
+ cuales
+ se
+ localizan
+ principalmente
+ en
+ el
+ sector
+ costero.
+En
+ el
+ área
+ cordillerana
+ se
+ observan
+ algunos
+ sismos
+ de
+ mayor
+ profundidad
+ entre
+ 70
+ y
+ 299
+ km.
+ En
+ cuanto
+ a
+ las
+magnitudes,
+ para
+ ambos
+ rangos
+ de
+ profundidad
+ predominan
+ los
+ eventos
+ entre
+ Mw [1] 6,5
+ y
+ 7,5.
+
+En
+ la
+ Figura
+ 2,
+ se
+ visualiza
+ la
+ evidencia
+ del
+ registro
+ histórico
+ de
+ eventos
+ desarrollados
+ desde
+ 1904
+ hasta
+ el
+ 2006,
+entre
+ los
+ 30°S
+ y
+ los
+ 37°
+ S,
+ y
+ entre
+ los
+ 69°
+ W
+ y
+ 73°
+ W.
+ Esta
+ imagen
+ permite
+ visualizar
+ el
+ evento
+ como
+ una
+ esfera
+ cuyo
+tamaño
+ es
+ proporcional
+ a
+ su
+ magnitud,
+ y
+ cuyo
+ color
+ está
+ representado
+ en
+ una
+ barra
+ vertical
+ que
+ indica
+ la
+ relación
+del
+ color
+ con
+ la
+ profundidad
+ focal
+ reportada
+ para
+ cada
+ evento.
+
+1 Magnitud
+ de
+ momento.
+ Corresponde
+ a
+ una
+ escala
+ logarítmica
+ que
+ refiere
+ la
+ cantidad
+ de
+ energía
+ liberada
+ en
+ un
+ sismo.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**5**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**Figura
+ 2.
+
+ Eventos
+ sísmicos
+ durante
+ los
+ períodos
+ (1904
+ -
+ 2006).**
+
+Fuente:
+ Silva
+ (2008).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**6**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+En
+ cuanto
+ al
+ registro
+ de
+ sismos
+ dentro
+ de
+ la
+ región
+ Metropolitana,
+ se
+ consideran
+ terremotos
+ aquellos
+ que
+ han
+registrado
+ una
+ magnitud
+ superior
+ a
+ los
+ Mw
+ 7.0,
+ estos
+ son
+ de
+ tipo
+ interplaca,
+ los
+ cuales
+ concentran
+ sus
+ puntos
+focales
+ cercanos
+ al
+ borde
+ costero
+ y
+ a
+ la
+ cordillera
+ de
+ la
+ costa.
+ En
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ Planta
+Fotovoltaica
+ Eclipse,
+ los
+ eventos
+ sísmicos
+ se
+ han
+ desarrollado
+ dentro
+ del
+ margen
+ continental
+ de
+ la
+ Región
+ de
+Valparaíso.
+ Por
+ otro
+ lado,
+ se
+ han
+ registrado
+ sismos
+ de
+ menor
+ magnitud
+ y
+ profundidad
+ hacia
+ la
+ zona
+ comprendida
+hacia
+ la
+ ciudad
+ de
+ Melipilla
+ (Figura
+ 3).
+
+**Figura
+ 3.
+
+ Eventos
+ sísmicos
+ interplaca,
+ periodo
+ 1906
+ -
+ 2006.**
+
+Fuente:
+ Silva
+ (2008).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**7**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**4.2.** **Remoción
+ en
+ masa**
+
+Los
+ procesos
+ de
+ remoción
+ en
+ masa
+ corresponden
+ a
+ procesos
+ gravitacionales,
+ donde
+ una
+ porción
+ específica
+ del
+terreno
+ se
+ desplaza
+ hasta
+ una
+ cota
+ o
+ nivel
+ inferior
+ del
+ original
+ (Hauser,
+ 2000).
+ Estos
+ procesos
+ no
+ corresponden
+ a
+fenómenos
+ excepcionales,
+ sino
+ que
+ participan
+ en
+ la
+ dinámica
+ natural
+ del
+ paisaje.
+ Esta
+ dinámica
+ se
+ denomina
+procesos
+ de
+ vertientes,
+ la
+ cual
+ es
+ el
+ resultado
+ de
+ la
+ dinámica
+ a
+ la
+ que
+ está
+ expuesta
+ la
+ superficie
+ de
+ la
+ tierra
+ debido
+a
+ los
+ diversos
+ procesos
+ geomorfológicos
+ que
+ actúan
+ de
+ manera
+ individual
+ o
+ conjunta,
+ y
+ que
+ van
+ definiendo
+ la
+morfología
+ de
+ la
+ vertiente,
+ la
+ cual
+ se
+ va
+ modificando
+ de
+ acuerdo
+ a
+ las
+ condiciones
+ cambiantes
+ de
+ la
+ naturaleza
+ para
+buscar
+ un
+ estado
+ de
+ equilibrio.
+
+La
+ clasificación
+ de
+ los
+ procesos
+ de
+ remoción
+ en
+ masa
+ suele
+ referirse
+ a
+ los
+ tipos
+ de
+ material
+ involucrados
+generándose
+ una
+ distinción
+ entre
+ materiales
+ rocosos,
+ derrubios
+ y
+ suelos,
+ también
+ al
+ mecanismo
+ y
+ al
+ tipo
+ de
+ rotura,
+entre
+ otros
+ aspectos
+ (González
+ de
+ Vallejo,
+ 2002).
+ Algunos
+ autores
+ consideran
+ dentro
+ de
+ las
+ clasificaciones
+ aspectos
+como
+ la
+ velocidad
+ y
+ la
+ magnitud
+ del
+ movimiento,
+ como
+ por
+ ejemplo
+ la
+ clasificación
+ de
+ Varnes
+ (1984),
+ que
+ aporta
+diversos
+ criterios
+ al
+ abordar
+ el
+ estudio
+ de
+ los
+ movimientos
+ de
+ ladera.
+
+En
+ Chile,
+ las
+ remociones
+ en
+ masa
+ se
+ asocian
+ a
+ la
+ interacción
+ de
+ una
+ serie
+ de
+ factores
+ condicionantes
+ como
+geomorfología,
+ morfometría
+ (pendientes),
+ geología
+ y
+ vegetación,
+ éstos
+ condicionan
+ el
+ desarrollo
+ de
+ variados
+mecanismos
+ desencadenantes
+ de
+ rotura
+ o
+ falla.
+ En
+ la
+ Figura
+ 4,
+ se
+ observan
+ los
+ distintos
+ tipos
+ de
+ remoción
+ en
+ masa,
+que
+ afectan
+ a
+ la
+ zona
+ central
+ de
+ Chile,
+ y
+ mas
+ específicamente,
+ al
+ área
+ donde
+ se
+ inserta
+ el
+ proyecto
+ Planta
+Fotovoltaica
+ Eclipse.
+
+**Figura
+ 4.
+
+ Clasificación
+ de
+ los
+ tipos
+ de
+ remoción
+ en
+ masa.**
+
+Fuente:
+ López
+ (2013).
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**8**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+Los
+ tipos
+ de
+ remoción
+ de
+ común
+ ocurrencia
+ en
+ zona
+ central
+ de
+ Chile
+ son
+ los
+ siguientes:
+
+ Desprendimientos
+ y
+ caída
+ de
+ Bloques:
+ caída
+ de
+ roca
+ y/o
+ suelo
+ semiconsolidado
+ que
+ se
+ desprenden
+ de
+una
+ ladera
+ de
+ fuerte
+ pendiente,
+ cornisa
+ o
+ acantilado
+ y
+ describen
+ una
+ caída
+ libre
+ al
+ menos
+ en
+ parte
+ de
+su
+ trayectoria.
+ Entre
+ las
+ zonas
+ susceptibles
+ a
+ sufrir
+ desprendimientos
+ o
+ caídas
+ de
+ rocas
+ destacan
+ los
+flancos
+ de
+ quebradas
+ profundas.
+ Dentro
+ de
+ los
+ factores
+ desencadenantes
+ destacan
+ los
+ grandes
+ sismos
+que
+ pueden
+ generar
+ numerosos
+ desprendimientos
+ a
+ partir
+ de
+ laderas
+ con
+ fuerte
+ inclinación.
+
+ Deslizamientos:
+ movimientos
+ relativos
+ de
+ suelo
+ o
+ roca
+ respecto
+ del
+ sustrato
+ más
+ resistente,
+ al
+superarse
+ la
+ resistencia
+ al
+ corte,
+ generando
+ el
+ movimiento
+ de
+ material
+ en
+ conjunto.
+
+En
+ el
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse,
+ las
+ características
+ geomorfológicas,
+morfométricas
+ y
+ de
+ orientación,
+ son
+ los
+ factores
+ de
+ tipo
+ condicionante
+ de
+ mayor
+ relevancia
+ en
+ la
+ generación
+ de
+procesos
+ de
+ remoción
+ en
+ masa.
+ En
+ este
+ sentido,
+ para
+ la
+ determinación
+ de
+ las
+ áreas
+ mas
+ susceptibles
+ a
+ este
+ tipo
+ de
+procesos
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ se
+ consideraron
+ los
+ siguientes
+ parámetros
+
+ (Tabla
+ 1).
+
+**Tabla
+ 1.
+
+ Factores
+ condicionantes
+ de
+ procesos
+ de
+ remoción
+ en
+ masa,
+ sector
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse.**
+
+|Geomorfologia|Peso|Factor de incidencia|
+|---|---|---|
+|Formas de fondo de valle|1|Baja|
+|Formas depositacionales|3|Alta|
+|Sistema de vertienes|4|Muy Alta|
+|**Pendientes**|**Peso**|**Factor de incidencia**|
+|0o-10|1|Baja|
+|10o-20o|2|Media|
+|20o-30o|3|Alta|
+|30o-50o|4|Muy Alta|
+|**Orientación**|**Peso**|**Factor de incidencia**|
+|S-E|1|Baja|
+|NW-W-SE|2|Media|
+|N-NE-SW|4|Muy Alta|
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+Como
+ resultado,
+ y
+ dadas
+ las
+ características
+ de
+ emplazamiento
+ del
+ área
+ del
+ proyecto,
+ principalmente
+ en
+ las
+unidades
+ geomorfológicas
+ de
+ fondo
+ de
+ valle
+ y
+ formas
+ depositacionales,
+ unidades
+ que
+ se
+ caracterizan
+ por
+ ser
+ de
+bajas
+ pendientes
+ y
+ de
+ baja
+ incidencia
+ en
+ la
+ generación
+ de
+ procesos
+ de
+ remoción
+ en
+ masa,
+ se
+ determinó
+ que
+ el
+ área
+donde
+ se
+ inserta
+ el
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse
+ se
+ localiza
+ en
+ una
+ zona
+ de
+ muy
+ baja
+ susceptibilidad
+ a
+procesos
+ de
+ remoción
+ en
+ masa.
+ La
+ Figura
+ 4,
+ evidencia
+ que
+ el
+ área
+ de
+ localización
+ del
+ proyecto
+ se
+ conforma
+ en
+unidades
+ geomorfológicas
+ que
+ presentan
+ una
+ morfología
+ que
+ regula
+ el
+ desarrollo
+ de
+ estos
+ procesos.
+ Las
+características
+ de
+ estas
+ unidades
+ son
+ que
+ presentan
+ una
+ morfométria
+ con
+ pendientes
+ que
+ no
+ sobrepasan
+ los
+ 10°,
+con
+ terrazas
+ de
+ inclinación
+ suave
+ con
+ un
+ perfil
+ cóncavo
+ a
+ semirrecto,
+ por
+ lo
+ que
+ su
+ incidencia
+ en
+ la
+ generación
+ de
+estos
+ procesos
+ es
+ de
+ carácter
+ bajo.
+ Los
+ procesos
+ de
+ vertientes
+ mas
+ relevantes
+ dentro
+ del
+ área
+ del
+ proyecto,
+ son
+procesos
+ de
+ erosión
+ lineal,
+ acentuados
+ por
+ escurrimiento
+ superficial
+ y
+ cárcavas
+ con
+ pequeños
+ escarpes.
+ Lo
+ anterior,
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**9**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+concuerda
+ con
+ lo
+ establecido
+ por
+ Araya
+ -
+ Vergara
+ y
+ Borgel
+ (1972;
+ Tabla
+ 2),
+ donde,
+ en
+ bajos
+ grados
+ de
+ pendiente,
+los
+ procesos
+ erosivos
+ son
+ de
+ tipo
+ lineal
+ y
+ débil.
+
+**Tabla
+ 2.
+
+ Rango
+ de
+ pendientes
+ y
+ procesos
+ erosivos.**
+
+Fuente:
+ Araya
+ -
+ Vergara
+ y
+ Börgel
+ (1972)
+
+**Figura
+ 5:
+ Susceptibilidad
+ a
+ procesos
+ de
+ remoción
+ en
+ masa,
+ sector
+ de
+ emplazamiento
+ del
+ Proyecto.**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**10**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**4.3.** **Anegamiento
+ e
+ inundación**
+
+Las
+ inundaciones
+ fluviales
+ son
+ un
+ proceso
+ natural
+ por
+ el
+ cual
+ el
+ flujo
+ desborda
+ los
+ límites
+ de
+ un
+ cauce.
+ Estos
+procesos
+ pueden
+ estar
+ asociados
+ a
+ diversas
+ causas
+ tales
+ como
+ precipitaciones
+ persistentes
+ y
+ lluvias
+ intensas
+ de
+corta
+ duración.
+ Para
+ el
+ caso
+ de
+ los
+ anegamientos,
+ estos
+ son
+ el
+ resultado
+ de
+ la
+ saturación
+ del
+ terreno
+ por
+acumulación
+ superficial
+ del
+ agua,
+ como
+ consecuencia
+ del
+ riego
+ y
+ de
+ las
+ lluvias,
+ donde
+ se
+ encuentra
+ el
+ estrato
+ firme
+(Estrato
+ 2:
+ arcilla
+ o
+ arena
+ arcillosa
+ muy
+ compacta,
+ estrato
+ duro)
+ a
+ una
+ mayor
+ profundidad
+ (1.7m) [2] .
+
+Este
+ proceso
+ se
+ evidencia
+ con
+ mayor
+ recurrencia
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ Planta
+ Fotovoltaica
+Eclipse,
+ donde
+ se
+ encuentran
+ zonas
+ deprimidas
+ de
+ baja
+ pendiente
+ con
+ suelos
+ donde
+ el
+ estrato
+ firme
+ (Estrato
+ 2)
+ se
+encuentra
+ a
+ una
+ mayor
+ profundidad
+ (1,7m)
+ generando
+ concavidades
+ aptas
+ para
+ la
+ acumulación
+ del
+ agua
+ y
+dificultando
+ la
+ infiltración.
+ La
+ mayoría
+ de
+ los
+ anegamientos
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto
+ se
+ producen
+en
+ sectores
+ planos
+ aterrazados,
+ donde
+ el
+ estrato
+ firme
+ se
+ encuentra
+ a
+ mayor
+ profundidad,
+ dificultando
+ la
+infiltración
+ y
+ aumentando
+ la
+ permanencia
+ de
+ suelos
+ saturados
+ por
+ eventos
+ pluviales
+ (Figura
+ 5).
+
+Dentro
+ del
+ área
+ de
+ emplazamiento
+ del
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse,
+ las
+ características
+ geomorfológicas
+e
+ hidrogeológicas,
+ condicionan
+ la
+ generación
+ de
+ anegamientos.
+ Según
+ los
+ apartados
+ 4
+ y
+ 5
+ del
+ Anexo
+ 2.1,
+ se
+ indica
+que
+ el
+ proyecto
+ se
+ inserta
+ dentro
+ de
+ una
+ unidad
+ de
+ baja
+ pendiente,
+ mas
+ bien
+ aterrazada
+ y
+ con
+ una
+ conformación
+litológica
+ de
+ tipo
+ aluvial
+ y
+ coluvial,
+ con
+ texturas
+ de
+ limos,
+ gravas
+ y
+ arenas,
+ conformada
+ en
+ las
+ unidades
+geomorfológicas
+ de
+ sistemas
+ de
+ vertientes.
+ Además,
+ se
+ identificó
+ que
+ la
+ configuración
+ del
+ suelo
+ posee
+ las
+ mejores
+condiciones
+ de
+ infiltración
+ de
+ agua,
+ con
+ un
+ potencial
+ de
+ escorrentía
+ escaso
+ a
+ moderado
+ y
+ drenaje
+ bueno
+ a
+moderado,
+ donde
+ la
+ tasa
+ de
+ infiltración
+ esta
+ asociada
+ directamente
+ a
+ la
+ presencia
+ de
+ suelos
+ con
+ texturas
+ gruesas
+ a
+medias
+ de
+ tipo
+ franca,
+ donde
+ se
+ propicia
+ una
+ rápida
+ saturación
+ del
+ suelo
+ en
+ periodo
+ de
+ intensa
+ precipitación,
+aumentando
+ el
+ desarrollo
+ de
+ angegamientos
+ e
+ inundaciones
+ en
+ periodos
+ cortos
+ de
+ tiempo.
+ En
+ la
+ Figura
+ 6,
+ se
+observa
+ que
+ dentro
+ del
+ área
+ de
+ influencia
+ del
+ proyecto,
+ los
+ anegamientos
+ se
+ desarrollan
+ dentro
+ de
+ las
+ terrazas
+planas
+ cercanas
+ al
+ Estero
+ San
+ Pedro,
+ donde
+ el
+ nivel
+ freático
+ alcanza
+ su
+ máximo
+ nivel
+ de
+ saturación
+ en
+ peridos
+ de
+precipitación
+ intensa
+ precipitación.
+
+**Figura
+ 6.
+
+ Procesos
+ de
+ anegamiento,
+ sector
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse.**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+2 Ingeniería
+ DICTUC
+ Construcción,
+ 2015.
+ Informe
+ N°1300647,
+ “Informe
+ de
+ Resultados
+ de
+ Ensayos
+ de
+ Mecánica
+ de
+ Suelos”.
+ Santiago,
+ Chile:
+Unidad
+ de
+ Ingeniería
+ Geotécnica.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**11**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**Figura
+ 7.
+
+ Área
+ de
+ anegamiento,
+ sector
+ proyecto
+ Planta
+ Fotovoltaica
+ Eclipse.**
+
+Fuente:
+ Terramar
+ Estudios
+ Territoriales.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**12**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**5.**
+**Conclusiones**
+
+Respecto
+ al
+ componente
+ geomorfológico,
+ se
+ determinó
+ que
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ se
+ inserta
+ entre
+la
+ zona
+ de
+ contacto
+ entre
+ las
+ terrazas
+ fluviales
+ y
+ aluviales
+ de
+ las
+ unidades
+ geomorfológicas
+ de
+ fondo
+ de
+ valle
+ y
+ los
+sistemas
+ de
+ vertientes,
+ la
+ cual
+ presenta
+ episodios
+ de
+ inundación
+ en
+ periodos
+ de
+ intensa
+ precipitación.
+
+En
+ cuanto
+ a
+ la
+ exposición
+ a
+ riesgos
+ naturales,
+ se
+ determinó
+ que
+ el
+ área
+ de
+ influencia
+ del
+ proyecto
+ posee
+ una
+muy
+ baja
+ exposición
+ a
+ procesos
+ de
+ remoción
+ en
+ masa,
+ ya
+ que
+ este
+ se
+ localiza
+ en
+ un
+ área
+ que
+ presenta
+ una
+morfométrica
+ con
+ pendientes
+ que
+ no
+ sobrepasan
+ los
+ 10°,
+ con
+ terrazas
+ de
+ inclinación
+ suave
+ con
+ un
+ perfil
+ cóncavo
+ a
+semirrecto,
+ por
+ lo
+ que
+ la
+ incidencia
+ a
+ la
+ generación
+ de
+ estos
+ tipo
+ de
+ procesos
+ es
+ de
+ carácter
+ bajo.
+ Respecto
+ a
+ los
+procesos
+ de
+ anegamiento,
+ estos
+ se
+ desarrollan
+ dentro
+ de
+ las
+ terrazas
+ planas
+ cercanas
+ al
+ Estero
+ San
+ Pedro,
+ donde
+ se
+encuentran
+ zonas
+ deprimidas
+ de
+ baja
+ pendiente
+ con
+ suelos
+ cuyo
+ estrato
+ firme
+ (Estrato
+ 2)
+ se
+ encuentra
+ a
+ una
+mayor
+ profundidad
+ (1,7m)
+ generando
+ concavidades
+ aptas
+ para
+ la
+ acumulación
+ del
+ agua
+ y
+ dificultando
+ la
+ infiltración
+en
+ peridos
+ de
+ precipitación intensa
+ precipitación.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**13**
+
+**Declaración
+ de
+ Impacto
+ Ambiental**
+**Proyecto
+ Planta
+ Fotovoltaica
+ Eclipse**
+
+**Comuna
+ de
+ San
+ Pedro**
+Diciembre
+ de
+ 2015
+ |
+ Rev.
+ 1
+
+**6.**
+**Bibliografía**
+
+Araya-­‐Vergara,
+ J.
+ 1985.
+ Carta
+ Geomorfológica
+ de
+ la
+ Comuna
+ de
+ Melipilla.
+ Informaciones
+ Geograficas,
+ 32:31-­‐34.
+
+Baüerle,
+ M.
+ 2007.
+ Carta
+ geomorfológica
+ de
+ la
+ sección
+ central
+ y
+ occidental
+ de
+ la
+ Región
+ Metropolitana
+ de
+Santiago.
+ Informaciones
+ Geográficas _,_ 2007,
+ 39:91-­‐104.
+
+CIREN.
+ 2011.
+ Determinación
+ de
+ la
+ Erosión
+ Actual
+ y
+ Potencial
+ de
+ los
+ Suelos
+ de
+ Chile.
+ Santiago,
+ Chile
+
+DGA.
+ 2005.
+ Determinación
+ de
+ la
+ Disponibilidad
+ de
+ Derechos
+ de
+ Aprovechamiento
+ de
+ Aguas
+ Subterráneas
+ en
+ la
+Cuenca
+ del
+ Estero
+ Yali
+ hasta
+ Sector
+ El
+ Prado,
+ Región
+ Metropolitana.
+ Santiago,
+ Chile.
+
+DGA.
+ 2008.
+ Evaluación
+ de
+ la
+ Explotación
+ Maxima
+ Sustentable
+ del
+ Acuifero
+ del
+ Yali.
+ Santiago,
+ Chile.
+
+DGA.
+ 2008.
+ Informe
+ de
+ Zonificación
+ Hidrogeologica
+ para
+ las
+ Regiones
+ Metropolitana
+ y
+ V.
+ Santiago,
+ Chile.
+
+DGA.
+ 2011.
+ Diagnóstico
+ de
+ la
+ Red
+ de
+ Aguas
+ Subterráneas
+ de
+ la
+ Región
+ del
+ Libertador
+ General
+ Bernardo
+ O'Higgins.
+Santiago,
+ Chile.
+
+Dirección
+ Meteorológica
+ de
+ Chile.
+ (2001).
+ Climatología
+ Regional.
+ Santiago:
+ Departamento
+ de
+ Climatología,
+Dirección
+ Meteorológica
+ de
+ Chile.
+ Pp.
+ 16-­‐39.
+
+Ingeniería
+ DICTUC
+ Construcción.
+ 2015.
+ Informe
+ N°1300647,
+ Informe
+ de
+ Resultados
+ de
+ Ensayos
+ de
+ Mecánica
+ de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Suelos.
+ Santiago,
+ Chile:
+Unidad
+ de
+ Ingeniería
+ Geotécnica.
+
+SERNAGEOMIN.
+ Carta
+ Geológica
+ de
+ Chile
+ escala
+ 1:1.000.000,
+ 2003.
+
+Silva,
+ N.
+ 2008.
+ Caracterización
+ y
+ Determinación
+ del
+ Peligro
+ Sismico
+ en
+ la
+ Región
+ Metropolitana.
+ Memoria
+presentada
+ a
+ la
+ Facultad
+ de
+ Ciencias
+ Fisicas
+ y
+ Matematicas
+ de
+ la
+ Universidad
+ de
+ Chile
+ para
+ optar
+ al
+ título
+ de
+Ingeniero
+ Civil.
+
+Vega,
+ J.
+ 2007.
+ Analisis
+ de
+ las
+ Potencialidades
+ de
+ los
+ Suelos
+ de
+ la
+ Comuna
+ de
+ Melipilla,
+ Identificando
+ Zonas
+ Aptas
+para
+ la
+ Disposición
+ Final
+ de
+ Bisolidos,
+ Región
+ Metropolitana.
+ Memoria
+ presentada
+ a
+ la
+ Facultad
+ de
+ Arquitectura
+ y
+Urbanismo
+ de
+ la
+ Universidad
+ de
+ Chile
+ para
+ optar
+ al
+ título
+ de
+ Geógrafo.
+
+**www.tet.cl** ________________________________________________________________________________________________________ **Anexo
+ 2.3.
+ Riesgos
+ Naturales**
+**14**

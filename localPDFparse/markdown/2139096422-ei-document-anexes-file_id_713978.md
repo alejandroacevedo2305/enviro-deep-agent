@@ -1,0 +1,16 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20180421202021
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|PLANTA CONTENEDOR OFICINA PLANTA APOYO CONTENEDOR DADO DE HORMIGON<br>ESC.1/20. ESC.1/20.<br>FACHADA PRINCIPAL FACHADA POSTERIOR<br>ACCESO CONTENEDOR OFICINA ESC.1/25. CONTENEDOR OFICINA ESC.1/25.<br>FACHADA LATERAL<br>CONTENEDOR OFICINA ESC.1/25.<br>FACHADA LATERAL CORTE A - A CORTE B - B<br>ACCESO CONTENEDOR OFICINA ESC.1/25. CONTENEDOR OFICINA ESC.1/25. ACCESO CONTENEDOR OFICINA ESC.1/25.|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
+|||||||||||

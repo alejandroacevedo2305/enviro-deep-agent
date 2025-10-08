@@ -1,0 +1,69 @@
+---
+title: Presentación1
+author: Desconocido
+date: D:20200206151501
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+PLANO DE CONCESIÓN
+
+PORCIÓN DE AGUA Y FONDO DE MAR
+
+XIa REGIÓN AYSÉN DEL GENERAL
+
+CARLOS IBÁÑEZ DEL CAMPO
+
+PROVINCIA DE AISÉN - COMUNA DE CISNES.
+
+AL ESTE DE ISLA CANALAD.
+
+N
+
+S
+
+PLANO DE UBICACIÓN
+
+REFERIDO A LA CARTA SHOA 8500
+
+"CANALES PUYUGUAPI Y JACAF"
+2a EDICIÓN 2006 - ESCALA 1:100.000, DATUM WGS 84.
+
+0 2,0 4,0 6,0Km.
+
+ESCALA GRÁFICA
+
+ANTECEDENTES DEL PLANO
+
+DATUM WGS 84 - PROYECCIÓN UTM
+
+ESCALA DEL PLANO 1:5000
+
+0 50 100 200 300m
+
+ESCALA GRÁFICA
+
+|° 19'|W W<br>20" 00"<br>4 4 ° 3 3 ' 0 0 " S<br>19'<br>73°<br>-<br>C<br>° 3 3 ' 2 0 " S<br>1<br>2<br>I S L A C A N A L A D<br>° 3 3 ' 4 0 " S<br>E-633600 E-633900|0 W<br>-07<br>0<br>7 40"<br>-3 -<br>18'<br>0<br>4<br>-<br>73°<br>0<br>5<br>-<br>0<br>6<br>-<br>S E N O C<br>20<br>A<br>-70<br>0<br>6<br>-<br>-30<br>4<br>0<br>5<br>-<br>3<br>-<br>40<br>-4<br>0<br>-30<br>-<br>20-1<br>B 0<br>E-634200|Mar Chileno<br>A N A L A D<br>CARBON<br>-10<br>-20<br>I t e s G u d e l i o<br>E-634500|W<br>20"<br>18'<br>N-5068800 73°<br>N-5068500<br>O (g m-2GtD-1)<br>4,8<br>N-5068200<br>4<br>3<br>N-5067900<br>2<br>1<br>N-5067600|
+|---|---|---|---|---|
+|7|7|7|7|7|
+|44|44|44|44|44|
+||||||
+|44|44|44|44|44|
+||||||
+
+|COORDENADAS DE LOS VÉRTICES DE CONCESIÓN REGULARIZADA, DATUM WGS-84<br>MERIDIANO CENTRAL 75° W, HUSO 18 S - 2a EDICIÓN CARTA SHOA 8500.|Col2|Col3|Col4|Col5|Col6|Col7|
+|---|---|---|---|---|---|---|
+|PUNTO|COORDENADAS U.T.M.|COORDENADAS U.T.M.|LONGITUD (W)<br>LATITUD (S)<br>COORDENADAS GEOGRÁFICAS<br>|LONGITUD (W)<br>LATITUD (S)<br>COORDENADAS GEOGRÁFICAS<br>|LADO|DISTANCIA|
+|PUNTO|NORTE (N)|ESTE (E)|LATITUD (S)|LATITUD (S)|LATITUD (S)|LATITUD (S)|
+|A|5065368,12|633868,0|44° 33' 09,31"<br>0|73° 18' 52,44"|A - B|856,21 mts|
+|B|5064513,99|633927,6|44° 33' 36,94"<br>1|73° 18' 48,94"|B - C|667,26 mts|
+|C|5065112,45|633632,5|44° 33' 17,75"<br>2|73° 19' 02,87"|C - A|347,59 mts|
+|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|SUPERFICIE PORCIÓN DE AGUA 10,81 Hás.|
+
+Av. Juan Soler Manfredini 11 Of. 1501. Puerto Montt-Chile. UBICACIÓN DE CONCESIÓN
+
+Tel: 56 65 2773000-www.wsp.com

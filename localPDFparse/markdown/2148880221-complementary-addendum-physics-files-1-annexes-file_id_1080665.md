@@ -1,0 +1,136 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20191211123554-03'00'
+language: es
+type: invoice
+pages: 1
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+**CGE S.A**
+
+Distribución de energía eléctrica, compraventa de productos
+
+_**AVENIDA PRESIDENTE RIESCO 5561**_
+
+_**Las Condes - Las Condes**_
+
+**R.U.T.: 76.411.321-7**
+
+**FACTURA ELECTRONICA**
+
+**No 12846056**
+
+**05 de octubre de 2019**
+
+**Señor:**
+
+**Giro:**
+
+CURTIEMBRE RUFINO MELERO S.A.
+CURTIDO Y ADOBO DE CUEROS; ADOBO Y TEÑID
+
+91.448.000-0
+
+**Señor:** CURTIEMBRE RUFINO MELERO S.A. **Ciudad:** CURICO
+**Giro:** CURTIDO Y ADOBO DE CUEROS; ADOBO Y TEÑID **Comuna:** CURICO
+
+**R.U.T.:** 91.448.000-0 **Forma de** CRÉDITO
+
+**Dirección:** RUTA 5 SUR KM 195 **Fecha Venc:** 21-10-2019
+
+**Ciudad:**
+
+**Comuna:**
+
+**Forma de**
+
+**Dirección:**
+
+**Fecha Venc:**
+
+**Nro.** **Código** **Descripción** **Dscto.** **Cantidad** **Precio Unit.** **Valor Item**
+
+1 0 Servicio Eléctrico 0,00 1,00 0 0
+
+2 1000060 Administración del Servicio 0,00 1,00 1.346 1.346
+
+3 1000033 Transporte de Electricidad 0,00 1,00 2.871.153 2.871.153
+
+4 1000114 Cargo por Servicio Público 0,00 1,00 66.062 66.062
+
+5 1000032 Electricidad Consumida (168.524,544 kWh) 0,00 1,00 11.519.327 11.519.327
+
+6 1000044 Cargo por Demanda Máxima de Potencia Suministrada (702,336 0,00 1,00 1.748.817 1.748.817
+kW)
+
+7 1000047 Cargo Demanda Máxima Leída de Potencia en Horas Punta 0,00 1,00 1.898.713 1.898.713
+(314,112 kW)
+
+8 1000050 Arriendo de Medidor 0,00 1,00 1.345 1.345
+
+9 100115 Pago de la Cuenta Fuera de Plazo 0,00 1,00 92 92
+
+10 400020 Interés 0,00 1,00 190.416 190.416
+
+11 0 Otros Cargos 0,00 1,00 0 0
+
+12 650010 Ajuste para Facilitar el Pago en Efectivo, Mes Anterior 0,00 1,00 94 94
+
+13 650010 Ajuste para Facilitar el Pago en Efectivo, Mes Actual 0,00 1,00 56 56
+
+14 0 Saldo Anterior Vencido 0,00 1,00 0 0
+
+15 0 Saldo Anterior Servicio Eléctrico 0,00 1,00 0 0
+
+16 0 Otro Saldo Anterior 0,00 1,00 0 0
+
+**SON** VEINTIUN MILLONES QUINIENTOS TRECE MIL CIENTO SESENTA Y DOS .-
+
+0
+
+0
+
+208.436
+
+0
+
+**Neto :** 18.022.773
+
+**Exento :**
+
+66.062
+
+**19**
+
+**% I.V.A. :** 3.424.327
+
+**Monto Total:** **21.513.162**
+
+Timbre Electronico S.I.I
+
+Verifique Documento: http://www.sii.cl
+
+**Impuestos :**
+
+**Retenciones**
+
+**Descuento :**
+
+**Recargo :**
+
+Observación:
+
+Nombre :
+
+Recinto :
+
+R.U.T. :
+
+Fecha : Firma :
+
+"El acuse de recibo que se declara en este acto, de acuerdo a lo dispuesto en la letra b) del Art. 4o, y la letra c) del Art. 5o de la Ley 19.983, acredita que
+la entrega de mercaderias o servicio(s) prestado(s) ha(n) sido recibido(s)".

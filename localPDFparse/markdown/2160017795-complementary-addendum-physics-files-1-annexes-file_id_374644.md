@@ -1,0 +1,237 @@
+---
+title: 25643 fecha 28-11-2023.pdf
+author: Desconocido
+date: D:20240326135711-03'00'
+language: es
+type: report
+pages: 4
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+FORMULARIO 2-4.1. P.ON.
+
+|NOMBRE O RAZÓN SOCIAL DEL PROPIETARIO|Col2|Col3|Col4|R.U.T.|Col6|
+|---|---|---|---|---|---|
+|CONSTRUCTORA GARCIA LIMITADA|CONSTRUCTORA GARCIA LIMITADA|CONSTRUCTORA GARCIA LIMITADA|CONSTRUCTORA GARCIA LIMITADA|78592680-3|78592680-3|
+|REPRESENTANTE LEGAL DEL PROPIETARIO|REPRESENTANTE LEGAL DEL PROPIETARIO|REPRESENTANTE LEGAL DEL PROPIETARIO|REPRESENTANTE LEGAL DEL PROPIETARIO|R.U.T.|R.U.T.|
+|ALVARO SEBASTIAN DONOSO LUER|ALVARO SEBASTIAN DONOSO LUER|ALVARO SEBASTIAN DONOSO LUER|ALVARO SEBASTIAN DONOSO LUER|15244426-5|15244426-5|
+|DIRECCIÓN: Nombre de la vía|DIRECCIÓN: Nombre de la vía|DIRECCIÓN: Nombre de la vía|N°|Local/ Of/ Depto|Localidad|
+|AVDA. CIRCUNVALACIÓN, LOMAS DE ORIENTE|AVDA. CIRCUNVALACIÓN, LOMAS DE ORIENTE|AVDA. CIRCUNVALACIÓN, LOMAS DE ORIENTE|751||CHILLAN|
+|COMUNA|CORREO ELECTRÓNICO|TELÉFONO FIJO|TELÉFONO FIJO|TELÉFONO CELULAR|TELÉFONO CELULAR|
+|CHILLAN||||||
+|PERSONERÍA DEL REPRESENTANTE LEGAL :|PERSONERÍA DEL REPRESENTANTE LEGAL :|PERSONERÍA DEL REPRESENTANTE LEGAL :|PERSONERÍA DEL REPRESENTANTE LEGAL :|PERSONERÍA DEL REPRESENTANTE LEGAL :|PERSONERÍA DEL REPRESENTANTE LEGAL :|
+
+|NOMBRE O RAZÓN SOCIAL de la empresa del ARQUITECTO (cuando corresponda)|R.U.T|
+|---|---|
+|||
+|NOMBRE DEL PROFESIONAL ARQUITECTORESPONSABLE|R.U.T|
+|GONZALO FIERRO ISLA|7448586-3|
+
+|NOMBRE DEL CALCULISTA|R.U.T|
+|---|---|
+|ROBERTO STOCKER LAGOS|6509978-0|
+
+|NOMBRE DEL CONSTRUCTOR (*)|R.U.T|
+|---|---|
+|||
+
+FORMULARIO 2-4.1. P.ON.
+
+|NOMBRE DEL INSPECTOR TÉCNICO DE OBRA (*)|INSCRIPCIÓN REGISTRO|Col3|
+|---|---|---|
+|NOMBRE DELINSPECTOR TÉCNICO DE OBRA(*)|CATEGORÍA|N°|
+||||
+
+|NOMBRE DEL REVISOR INDEPENDIENTE (cuando corresponda)|REGISTRO|CATEGORÍA|
+|---|---|---|
+|CARLOS RODRIGUEZ SAEZ|66-16|PRIMERA|
+
+|NOMBRE O RAZÓN SOCIAL DEL REVISOR DEL PROYECTO DE CÁLCULO ESTRUCTURAL( cuando corresponda)|REGISTRO|CATEGORÍA|
+|---|---|---|
+||||
+|NOMBRE DEL PROFESIONAL RESPONSABLE DELA REVISIÓN DEL PROYECTO DE CÁLCULO ESTRUCTURAL|R.U.T|R.U.T|
+||||
+
+|SUPERFICIE|ÚTIL (m2)|COMÚN (m2)|TOTAL (m2)|
+|---|---|---|---|
+|S. EDIFICADA SUBTERRÁNEO (S)||||
+|S. EDIFICADA SOBRE TERRENO<br> (1er piso + pisos superiores)|14.178,26||14.178,26|
+|S. EDIFICADA TOTAL|14.178,26||14.178,26|
+
+|S. Edificada por nivel o piso|Col2|ÚTIL (m2)|COMÚN (m2)|TOTAL (m2)|
+|---|---|---|---|---|
+|nivel o piso|-1||||
+|nivel o piso|-2||||
+|nivel o piso|-3||||
+|nivel o piso|-4||||
+|nivel o piso|-5||||
+|TOTAL|TOTAL||||
+
+|S. Edificada por nivel o piso|Col2|ÚTIL (m2)|COMÚN (m2)|TOTAL (m2)|
+|---|---|---|---|---|
+|~~nivel o piso~~<br>|1|8,261,82||8.261,82|
+|~~nivel o piso~~<br>|2|5.916,44||5.916,44|
+|~~nivel o piso~~<br>|3||||
+|~~nivel o piso~~<br>|4||||
+|~~nivel o piso~~<br>|5||||
+|~~nivel o piso~~<br>|6||||
+|~~nivel o piso~~<br>|7||||
+|~~nivel o piso~~<br>|8||||
+|~~nivel o piso~~<br>|9||||
+|~~nivel o piso~~|10||||
+|TOTAL|TOTAL|14.178,26||14.178,26|
+
+|DESTINO (S) CONTEMPLADO (S)|Residencial<br>ART 2.1.25. OGUC|Equipamiento<br>ART. 2.1.33. OGUC|Act. Productivas<br>ART 2.1.28. OGUC|Infraestructura<br>ART 2.1.29. OGUC|Área verde<br>ART 2.1.31. OGUC|Espacio Público<br>ART 2.1.30. OGUC|
+|---|---|---|---|---|---|---|
+|~~SUPERFICIE EDIFICADA~~|14.107,91|70,35|||||
+
+|NORMAS URBANÍSTICAS PREDIO(S) EMPLAZADO(S) EN ÁREA DE RIESGO|NO SÍ|PARCIAL|
+|---|---|---|
+|NORMAS URBANÍSTICAS|PROYECTADO|PERMITIDO|
+|DENSIDAD|173,82 HAB/HA|1.000 HAB/HA|
+|COEFICIENTE DE OCUPACIÓN PISOS SUPERIORES (sobre 1er piso)|xxxx|xxxxxxx|
+|COEFICIENTE DE OCUPACIÓN DE SUELO (1er piso)|0,4|0,6|
+|COEFICIENTE DE CONSTRUCTIBILIDAD|0,6|3|
+
+FORMULARIO 2-4.1. P.ON.
+
+|DISTANCIAMIENTOS|Col2|CUMPLE|O.G.U.C.|
+|---|---|---|---|
+|RASANTE|RASANTE|CUMPLE|ART. 2.6.3 DE LA O.G.U.C.|
+|SISTEMA DE AGRUPAMIENTO|SISTEMA DE AGRUPAMIENTO|CUMPLE|AISLADO, PAREADO|
+|ADOSAMIENTO|ADOSAMIENTO|CUMPLE|O.G.U.C.|
+|ANTEJARDÍN|ANTEJARDÍN|2 M|LOTEO CON CONSTRUCCION SIM.|
+|ALTURA EN METROS Y/O PISOS|ALTURA EN METROS Y/O PISOS|2 PISOS|15 M|
+|ESTACIONAMIENTOS AUTOMÓVILES|ESTACIONAMIENTOS AUTOMÓVILES|210|ART 5 PRC.|
+|ESTACIONAMIENTOS BICICLETAS|ESTACIONAMIENTOS BICICLETAS|-|-|
+|ESTACIONAMIENTOSOTROS VEHÍCULOS (ESPECIFICAR)|||-|
+|ESTACIONAMIENTOSPARA PERSONAS CON DISCAPACIDAD|ESTACIONAMIENTOSPARA PERSONAS CON DISCAPACIDAD|2|-|
+
+|TIPO DE USO|Residencial<br>ART 2.1.25. OGUC|Equipamiento<br>ART. 2.1.33. OGUC|Act. Productivas<br>ART 2.1.28. OGUC|Infraestructura<br>ART 2.1.29. OGUC|Area verde<br>ART 2.1.31. OGUC|Espacio Público<br>ART 2.1.30. OGUC|
+|---|---|---|---|---|---|---|
+|CLASE / DESTINO|VIVIENDAS|COMERCIAL|||||
+|ACTIVIDAD|ACTIVIDAD|LOCAL COMERC|||||
+|ESCALA<br> (Art. 2.1.36. OGUC)|ESCALA<br> (Art. 2.1.36. OGUC)|BASICA|BASICA|BASICA|BASICA|BASICA|
+
+|NO|Sí, especificar|Col3|Col4|ZCH|Col6|Col7|ICH|Col9|Col10|ZOIT|Col12|Col13|OTRO; especificar|Col15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MONUMENTO NACIONAL:|MONUMENTO NACIONAL:|ZT|ZT|ZT|MH|MH|MH|SANTUARIO DE LA NATURALEZA|SANTUARIO DE LA NATURALEZA|SANTUARIO DE LA NATURALEZA|SANTUARIO DE LA NATURALEZA|SANTUARIO DE LA NATURALEZA|SANTUARIO DE LA NATURALEZA||
+
+(b)
+
+|PROYECTO|PORCENTAJE DE CESIÓN|
+|---|---|
+|CON DENSIDAD DE OCUPACIÓNHASTA8.000<br>Personas/Hectárea|(DENSIDAD DE OCUPACIÓN )<br>X 11 =<br>%<br>2000<br> <br>XXXXXX<br>XXXXXX|
+|CON DENSIDAD DE OCUPACIÓNSOBRE 8.000<br>Personas/Hectárea<br>|44%<br>|
+
+(e)
+
+|BENEFICIO|XXXXX|CONDICIÓN PARA OPTAR AL BENEFICIO:|XXXX|
+|---|---|---|---|
+|BENEFICIO||CONDICIÓN PARA OPTAR AL BENEFICIO:||
+|BENEFICIO||CONDICIÓN PARA OPTAR AL BENEFICIO:||
+
+|D.F.L-N°2 de 1959|Conjunto Armónico|Proyección Sombras Art. 2.6.11. OGUC|Col4|Segunda Vivienda Art. 6.2.4. OGUC|Col6|
+|---|---|---|---|---|---|
+|Ley No 19.537 Copropiedad Inmobiliaria|Beneficio Fusión Art. 63 LGUC|Conj. Viv. Econ. Art. 6.1.8. OGUC|Conj. Viv. Econ. Art. 6.1.8. OGUC|Art. 2.4.1. OGUC Inciso Segundo|Art. 2.4.1. OGUC Inciso Segundo|
+|Art. 6.6.1. OGUC, según resolución N°||(V y U) de fecha||vigente hasta||
+|||||||
+
+|VIVIENDAS|BODEGAS|OFICINAS|LOCALES COMERCIALES|Otro; especificar<br>N°|Col6|TOTAL UNIDADES|
+|---|---|---|---|---|---|---|
+|209|||1|1||210|
+
+|ESTACIONAMIENTOS para automóviles|210|Otros<br>Estacionamientos<br>exigidos (IPT):|Especificar|Cantidad|Especificar|Cantidad|
+|---|---|---|---|---|---|---|
+|ESTACIONAMIENTOS para bicicletas|-|-|||||
+
+FORMULARIO 2-4.1. P.ON.
+
+7 OTRAS AUTORIZACIONES QUE FORMAN PARTE DE ESTE PERMISO (Inciso final Art. 5.1.6. de la OGUC)
+
+|DEMOLICIÓN|Col2|Col3|INSTALACIÓN DE FAENAS|Col5|Col6|INSTALACIÓN DE GRÚAS Y SIMILARES|
+|---|---|---|---|---|---|---|
+|OTRAS (especificar)||||EJECUCIÓN DE EXCAVACIONES, ENTIBACIONES Y SOCALZADO|EJECUCIÓN DE EXCAVACIONES, ENTIBACIONES Y SOCALZADO|EJECUCIÓN DE EXCAVACIONES, ENTIBACIONES Y SOCALZADO|
+
+|CLASIFICACIÓN|m2|%(*)|VALOR m2 (**) CLASIFICACIÓN|m2|%(*)|VALOR m2 (**)|
+|---|---|---|---|---|---|---|
+|G-4/ E-4|14.178,26|1,5%|$121.482||||
+||||||||
+||||||||
+
+|PRESUPUESTO (Calculado con Tabla Costos Unitarios MINVU)|Col2|Col3|$|1.722.403.381|
+|---|---|---|---|---|
+|SUBTOTAL 1 DERECHOS MUNICIPALES [(a) x (1,5% Art. 130 LGUC)]|SUBTOTAL 1 DERECHOS MUNICIPALES [(a) x (1,5% Art. 130 LGUC)]|%|$|25.836.051|
+|DESCUENTO POR UNIDADES DE CASAS O PISOS TIPO REPETIDOS|DESCUENTO POR UNIDADES DE CASAS O PISOS TIPO REPETIDOS|(-)|$|9.199.025|
+|SUBTOTAL 2 DERECHOS MUNICIPALES [(b) - (c)]|SUBTOTAL 2 DERECHOS MUNICIPALES [(b) - (c)]|SUBTOTAL 2 DERECHOS MUNICIPALES [(b) - (c)]|$||
+|DESCUENTO 30% CON INFORME DE REVISOR INDEPENDIENTE [(d)x (30%)]|DESCUENTO 30% CON INFORME DE REVISOR INDEPENDIENTE [(d)x (30%)]|(-)|$|4.991.108|
+|DESCUENTO MONTO CONSIGNADO AL INGRESO SOLICITUD|DESCUENTO MONTO CONSIGNADO AL INGRESO SOLICITUD|(-)|$|$|
+|TOTAL DERECHOS A PAGAR [(d) - (e) - (f))]|TOTAL DERECHOS A PAGAR [(d) - (e) - (f))]|TOTAL DERECHOS A PAGAR [(d) - (e) - (f))]|TOTAL DERECHOS A PAGAR [(d) - (e) - (f))]|TOTAL DERECHOS A PAGAR [(d) - (e) - (f))]|
+|GIRO INGRESO MUNICIPAL NÚMERO|5529093|FECHA :|FECHA :|FECHA :|
+
+|Unidades de Casas o pisos tipo<br>repetidos|Porcentaje de descuentos de los<br>derechos municipales|número maximo de unidades con<br>descuento por tramo|DESCUENTO ($)|
+|---|---|---|---|
+|1° y 2°|0%|0|0|
+|3°,4° y 5°|10%|3|145.846|
+|6°,7°,8°,9 y 10°|20%|5|486.153|
+|11 a la 20, inclusive|30%|10|1.458.458|
+|21 a la 40 ° inclusive|40%|20|3.025.325|
+|41 o más|50%|variable|4.083.244|
+|TOTAL DESCUENTO:<br>|TOTAL DESCUENTO:<br>|TOTAL DESCUENTO:<br>|9.199.025|
+
+Esta tabla se debe aplicar para cada vivienda o piso tipo que se repita
+
+10 GLOSARIO:
+
+D.F.L.: Decreto con Fuerza de Ley I.P.T:Instrumento de Planificación Territorial. SAG: Servicio Agrícola y Ganadero
+
+D.S: Decreto Supremo LGUC: Ley General de Urbanismo y Construcciones SEREMI: Secretaría Regional Ministerial
+
+EISTU: Estudio de Impacto Sistema Transporte Urbano MH: Monumento Histórico
+
+GIM: Giro de Ingreso Municipal MINAGRI: Ministerio de Agricultura.
+
+SEIM: Sistema de Evaluación de Impacto
+
+en Movilidad.
+
+ICH: Inmueble de Conservación Histórica MINVU: Ministerio de Vivienda y Urbanismo ZCH: Zona de Conservación Histórica
+
+IMIV:Informe de Mitigación de Impacto Vial MTT: Ministerio de Transportes y Telecomunicaciones ZOIT: Zona de Interés Turístico
+
+INE: Instituto Nacional de Estadísticas OGUC: Ordenanza General de Urbanismo y Construcciones ZT: Zona Típica
+
+NOTAS: (SOLO PARA SITUACIONES ESPECIALES)
+
+PARA LA RECEPCION DEFINITIVA DE OBRAS DEBERÁ ADJUNTAR RESOLUCION FAVORABLE DE CALIFICACION AMBIENTAL, SI
+CORRESPONDE.
+
+SE AUTORIZA PERMISO DE EDIFICACION DE 209 VIVIENDAS Y 1 LOCAL COMERCIAL SEGUN EL SGTE. DETALLE.
+
+32 VIV. TIPOLOGIA AISLADA IA41-55:
+1° PISO: 29,67M2 /G4
+2° PISO: 29,67M2 /G4
+
+51VIV. TIPOLOGIA AISLADA IA39-53
+1° PISO:38,23M2/ G4
+2° PISO:28,84/ G4
+
+2 VIV. TIPOLOGIA AISLADA MA54-69
+1° PISO: 69,97M2 / G4
+
+94 VIV. TIPOLOGIA AISLADAS IA42-55
+1° PISO: 39,64M2/G4
+2° PISO: 29,69M2/G4
+
+30 VIV. TIPOLOGIA AISLADAS GF-07B LOCAL COMERCIAL: 70,35M2/ E4
+1° PISO: 47,54M2/G4
+2° PISO: 23,51 M2/ G4
+
+Este documento contiene una firma electrónica avanzada.
+Verificar www.municipalidadchillan.cl/firmasobra ID: r78gc-002eg
+
+DIRECTOR DE OBRAS MUNICIPALES
+
+TIMBRE nombre y firma

@@ -1,0 +1,52 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20230111051429-04
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|1.000|Me|
+|---|---|---|
+||||
+||||
+
+|Col1|Col2|Col3|Col4|Col5| ̄|
+|---|---|---|---|---|---|
+|||||||
+|||||||
+|ros||||||
+|||||||
+
+|bicación G|eneral dentro de|l Proyecto|Col4|Col5|Col6| ̄|
+|---|---|---|---|---|---|---|
+||||||||
+||||**EM**|**EM**|**BALSE RAPEL**||
+||||||||
+|**EMBALS**<br><br><br>6<br>K|** PAILIMO**<br><br><br>ilometers||||||
+
+| ̄|Col2|20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>6.1<br>2 0<br>6.1<br>20|20 20 20 0 4 20 20|40 20 Seco Estero 20|
+|---|---|---|---|---|
+|20<br>20|40<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>20|**6.3**<br>**6.3**<br>20<br><br>40<br>40<br>20<br>20<br>20|**41-1**<br>20<br>20<br>20<br>20<br><br>20|20<br>20<br>20<br>20<br>Estero Seco<br><br>|
+||40<br>20<br>40<br>40<br>20<br>40<br>40<br>40<br>40<br>20<br><br>|20<br>20<br>40<br>20<br>20<br><br>|20<br>20<br>20<br>20<br><br>|20<br>20<br>20<br>20<br>20<br>20<br>Estero Seco<br><br>|
+
+|Predio|N_a|Nom_Predio|Rol|Clase_uso|Uso_actual|
+|---|---|---|---|---|---|
+|~~6~~<br>|~~6.1~~<br>|~~Fdo Bellavista LT A~~<br>|~~41-1~~<br><br>|~~VI~~<br>|~~Esclerófilo~~<br>|
+|~~6~~|~~6.3~~|~~Fdo Bellavista LT A~~|~~41-1~~|~~VI~~|~~Bosque Mixto~~|
+
+|0|0|
+|---|---|
+|**EMBALSE RAPEL**<br>**EMBALSE PAILIMO**<br>**240000**<br>**240000**<br>**248000**<br>**248000**<br>**256000**<br>**256000**<br>**264000**<br>**264000**<br>**272000**<br>**272000**<br>**280000**<br>**280000**<br>**6208000**<br>**6208000**<br>**6216000**<br>**6216000**<br>**6224000**<br>**6224000**<br>**6232000**<br>**6232000**<br>**6.1**<br>**6.1**<br>**6.3**<br>**6.3**<br>**41-1**<br>40<br>20<br>20<br>20<br>40<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>40<br>40<br>40<br>20<br>20<br>20<br>20<br>40<br>40<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>Estero Seco<br>Estero Seco<br>Estero Seco<br>**_255000_**<br>**_255000_**<br>**_255500_**<br>**_255500_**<br>**_256000_**<br>**_256000_**<br>**_256500_**<br>**_256500_**<br>**_6214000_**<br>**_6214000_**<br>**_6214500_**<br>**_6214500_**<br>**_621500_**<br>**_621500_**<br>**PROYECTO**<br>**TEMA**<br>~~**CONTENIDO**~~<br>~~ESCALA~~<br>FECHA<br>~~FORMATO~~<br>**UBICACIÓN GENERAL DE PROYECTO**<br>**DATOS DE REFERENCIA**<br>ENERO 2023<br>A2<br>Huso 19 Sur<br>Proyección: Universal Transversal de Mercator<br>Elipsoide del Sistema Geodésico Mundial 1984<br>~~**DATOS GEODÉSICOS:**~~<br>Elipsoide<br>**DATOS CARTOGRÁFICOS:**<br>Datum Horizontal: WGS-84<br>~~**Chile**~~<br>~~**ESCALA GRÁFICA MAPA PRINCIPAL**~~<br>_Cachapoal_<br>_Cordillera_<br>_Colchagua_<br>_Melipilla_<br>_Santiago_<br>_Chacabuco_<br>_Maipo_<br>_Cardenal Caro_<br>_Talagante_<br>**PLAN DE MANEJO CORTA Y**<br>**REFORESTACIÓN**<br>**DE BOSQUES NATIVOS**<br>**PARA EJECUTAR OBRAS CIVILES**<br>Datum vertical: Nivel Medio del Mar<br>~~0~~<br>~~140~~<br>~~280~~<br>~~70~~<br>m<br>**PROYECTO SUBESTACIÓN**<br>**LOICA-PORTEZUELO**<br>Datum<br>WGS-84<br>**255500**<br>**255500**<br>**256000**<br>**256000**<br>**256500**<br>**256500**<br>**257000**<br>**257000**<br>**6214000**<br>**6214000**<br>**6214500**<br>**6214500**<br>**255000**<br>**255000**<br>**255300**<br>**255300**<br>**255600**<br>**255600**<br>**255900**<br>**255900**<br>**256200**<br>**256200**<br>**256500**<br>**256500**<br>**6213900**<br>**6213900**<br>**6214200**<br>**6214200**<br>**6214500**<br>**6214500**<br>**6214800**<br>**6214800**<br> ̄<br>~~ ̄~~<br>~~ ̄~~<br>~~ ̄~~<br>Base Cartográfica IGM 1:50.000<br> Levantamiento en terreno GS3<br>**Ubicación General dentro del Proyecto**<br>~~**Vegetación**~~<br>**Pendientes**<br>**Vegetación**<br>**Región del**<br>**Libertador General**<br>**Bernardo O'Higgins**<br>**PROYECCIÓN:**<br>190<br>Metros<br>1.000<br>Metros<br>6<br>Kilometers<br>**Cuadro Resumen Áreas de Corta**<br>UNIDADES<br>**Metros**<br>~~VERSIÓN~~<br>**1.0**<br>PLANO No<br>**IDEA-0001-PAS-BN-COR-006**<br>**1:5.000**<br>0 a 10%<br>10 a 30%<br>30 a 45%<br>45 a 60%<br>60% o mas<br>**Simbología**<br>a<br>Puntos de referencia<br>Caminos<br>Obras<br>Cursos de agua<br>Cuerpos de agua<br>Curvas de nivel<br>Áreas de Corta<br>Áreas de Plantaciones<br>Límites prediales<br>~~**INTERESADO**~~<br>**COLBUN S.A.**<br>**PLANO ÁREA DE CORTA DETALLE 6**<br>~~**CANTIDAD**~~<br>**PREDIOS:**<br>**1**<br>£<br>¤<br>**5**<br>**Comuna de**<br>**La Estrella**<br>**Pendientes**<br>Áreas de Corta<br>Bosque Mixto<br>Bosque Nativo<br>Ciudades, Pueblos, Zonas Industriales<br>Lagos, Lagunas, Embalses, Tranques<br>Matorral<br>Matorral Arborescente<br>Matorral con Suculentas<br>Matorral-Pradera<br>Otros sin Vegetación<br>Plantación<br>Praderas<br>Terreno de Uso Agrícola<br>~~Nombre Interesado~~<br>~~COLBUN S.A.~~<br>Comuna, Provincia y Región<br>~~La Estrella, Cardenal Caro, del~~<br>Libertador General Bernardo<br>O'Higgins<br>**Antecedentes**<br>**Predios representados en la cartografía**<br>~~N° PREDIO:~~<br>~~6~~<br>NOMBRE PROPIETARIO:<br>Sin Información<br>NOMBRE PROYECTO:<br>~~Nueva Subestación Seccionadora Loica y~~<br>Nueva Línea 2x220 kv Loica Portezuelo<br>~~ROL DE AVALÚO:~~<br>~~41-1~~<br>~~CANTIDAD TOTAL DE PREDIOS:~~<br>~~1~~<br>~~SUPERFICIE AFECTA (ha):~~<br>~~0,45~~<br>~~Predio~~<br>~~N_a~~<br>~~Nom_Predio~~<br>~~Rol~~<br>~~Clase_uso~~<br>~~Uso_actual~~<br>~~Sup_ha~~<br>~~6~~<br>~~6.1~~<br>~~Fdo Bellavista LT A~~<br>~~41-1~~<br>~~VI~~<br>~~Esclerófilo~~<br>~~0,39~~<br>~~6~~<br>~~6.3~~<br>~~Fdo Bellavista LT A~~<br>~~41-1~~<br>~~VI~~<br>~~Bosque Mixto~~<br>~~0,06~~|**EMBALSE RAPEL**<br>**EMBALSE PAILIMO**<br>**240000**<br>**240000**<br>**248000**<br>**248000**<br>**256000**<br>**256000**<br>**264000**<br>**264000**<br>**272000**<br>**272000**<br>**280000**<br>**280000**<br>**6208000**<br>**6208000**<br>**6216000**<br>**6216000**<br>**6224000**<br>**6224000**<br>**6232000**<br>**6232000**<br>**6.1**<br>**6.1**<br>**6.3**<br>**6.3**<br>**41-1**<br>40<br>20<br>20<br>20<br>40<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>40<br>40<br>40<br>40<br>20<br>20<br>20<br>20<br>40<br>40<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>40<br>20<br>20<br>20<br>20<br>20<br>20<br>20<br>Estero Seco<br>Estero Seco<br>Estero Seco<br>**_255000_**<br>**_255000_**<br>**_255500_**<br>**_255500_**<br>**_256000_**<br>**_256000_**<br>**_256500_**<br>**_256500_**<br>**_6214000_**<br>**_6214000_**<br>**_6214500_**<br>**_6214500_**<br>**_621500_**<br>**_621500_**<br>**PROYECTO**<br>**TEMA**<br>~~**CONTENIDO**~~<br>~~ESCALA~~<br>FECHA<br>~~FORMATO~~<br>**UBICACIÓN GENERAL DE PROYECTO**<br>**DATOS DE REFERENCIA**<br>ENERO 2023<br>A2<br>Huso 19 Sur<br>Proyección: Universal Transversal de Mercator<br>Elipsoide del Sistema Geodésico Mundial 1984<br>~~**DATOS GEODÉSICOS:**~~<br>Elipsoide<br>**DATOS CARTOGRÁFICOS:**<br>Datum Horizontal: WGS-84<br>~~**Chile**~~<br>~~**ESCALA GRÁFICA MAPA PRINCIPAL**~~<br>_Cachapoal_<br>_Cordillera_<br>_Colchagua_<br>_Melipilla_<br>_Santiago_<br>_Chacabuco_<br>_Maipo_<br>_Cardenal Caro_<br>_Talagante_<br>**PLAN DE MANEJO CORTA Y**<br>**REFORESTACIÓN**<br>**DE BOSQUES NATIVOS**<br>**PARA EJECUTAR OBRAS CIVILES**<br>Datum vertical: Nivel Medio del Mar<br>~~0~~<br>~~140~~<br>~~280~~<br>~~70~~<br>m<br>**PROYECTO SUBESTACIÓN**<br>**LOICA-PORTEZUELO**<br>Datum<br>WGS-84<br>**255500**<br>**255500**<br>**256000**<br>**256000**<br>**256500**<br>**256500**<br>**257000**<br>**257000**<br>**6214000**<br>**6214000**<br>**6214500**<br>**6214500**<br>**255000**<br>**255000**<br>**255300**<br>**255300**<br>**255600**<br>**255600**<br>**255900**<br>**255900**<br>**256200**<br>**256200**<br>**256500**<br>**256500**<br>**6213900**<br>**6213900**<br>**6214200**<br>**6214200**<br>**6214500**<br>**6214500**<br>**6214800**<br>**6214800**<br> ̄<br>~~ ̄~~<br>~~ ̄~~<br>~~ ̄~~<br>Base Cartográfica IGM 1:50.000<br> Levantamiento en terreno GS3<br>**Ubicación General dentro del Proyecto**<br>~~**Vegetación**~~<br>**Pendientes**<br>**Vegetación**<br>**Región del**<br>**Libertador General**<br>**Bernardo O'Higgins**<br>**PROYECCIÓN:**<br>190<br>Metros<br>1.000<br>Metros<br>6<br>Kilometers<br>**Cuadro Resumen Áreas de Corta**<br>UNIDADES<br>**Metros**<br>~~VERSIÓN~~<br>**1.0**<br>PLANO No<br>**IDEA-0001-PAS-BN-COR-006**<br>**1:5.000**<br>0 a 10%<br>10 a 30%<br>30 a 45%<br>45 a 60%<br>60% o mas<br>**Simbología**<br>a<br>Puntos de referencia<br>Caminos<br>Obras<br>Cursos de agua<br>Cuerpos de agua<br>Curvas de nivel<br>Áreas de Corta<br>Áreas de Plantaciones<br>Límites prediales<br>~~**INTERESADO**~~<br>**COLBUN S.A.**<br>**PLANO ÁREA DE CORTA DETALLE 6**<br>~~**CANTIDAD**~~<br>**PREDIOS:**<br>**1**<br>£<br>¤<br>**5**<br>**Comuna de**<br>**La Estrella**<br>**Pendientes**<br>Áreas de Corta<br>Bosque Mixto<br>Bosque Nativo<br>Ciudades, Pueblos, Zonas Industriales<br>Lagos, Lagunas, Embalses, Tranques<br>Matorral<br>Matorral Arborescente<br>Matorral con Suculentas<br>Matorral-Pradera<br>Otros sin Vegetación<br>Plantación<br>Praderas<br>Terreno de Uso Agrícola<br>~~Nombre Interesado~~<br>~~COLBUN S.A.~~<br>Comuna, Provincia y Región<br>~~La Estrella, Cardenal Caro, del~~<br>Libertador General Bernardo<br>O'Higgins<br>**Antecedentes**<br>**Predios representados en la cartografía**<br>~~N° PREDIO:~~<br>~~6~~<br>NOMBRE PROPIETARIO:<br>Sin Información<br>NOMBRE PROYECTO:<br>~~Nueva Subestación Seccionadora Loica y~~<br>Nueva Línea 2x220 kv Loica Portezuelo<br>~~ROL DE AVALÚO:~~<br>~~41-1~~<br>~~CANTIDAD TOTAL DE PREDIOS:~~<br>~~1~~<br>~~SUPERFICIE AFECTA (ha):~~<br>~~0,45~~<br>~~Predio~~<br>~~N_a~~<br>~~Nom_Predio~~<br>~~Rol~~<br>~~Clase_uso~~<br>~~Uso_actual~~<br>~~Sup_ha~~<br>~~6~~<br>~~6.1~~<br>~~Fdo Bellavista LT A~~<br>~~41-1~~<br>~~VI~~<br>~~Esclerófilo~~<br>~~0,39~~<br>~~6~~<br>~~6.3~~<br>~~Fdo Bellavista LT A~~<br>~~41-1~~<br>~~VI~~<br>~~Bosque Mixto~~<br>~~0,06~~|
+
+|N° PREDIO:|6|
+|---|---|
+|NOMBRE PROPIETARIO:|Sin Información<br>|
+|NOMBRE PROYECTO:<br>|~~Nueva Subestación Seccionadora Loica y~~<br>Nueva Línea 2x220 kv Loica Portezuelo<br>|
+|~~ROL DE AVALÚO:~~<br>|~~41-1~~<br><br>|
+|~~CANTIDAD TOTAL DE PREDIOS~~<br>|~~1~~<br>|
+|~~SUPERFICIE AFECTA (ha):~~|~~0,45~~|

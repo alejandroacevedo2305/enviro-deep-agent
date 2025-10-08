@@ -1,0 +1,34 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20150813152823Z
+language: es
+type: general
+pages: 16
+has_toc: False
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - ANEXO 5 RCA 597/2014 “BARRIO CONTRATISTA, GERENCIA DE PROYECTOS”
+-->
+
+CORPORACIÓN NACIONAL DEL COBRE DE CHILE
+
+CODELCO - CHILE
+
+**DECLARACIÓN DE IMPACTO AMBIENTAL**
+
+**PROYECTO “AUMENTO DE EFICIENCIA PLANTAS DE ÁCIDO SULFÚRICO N°**
+
+**3 y 4 A DOBLE CONTACTO - DOBLE ABSORCIÓN”**
+
+# ANEXO 5 RCA 597/2014 “BARRIO CONTRATISTA, GERENCIA DE PROYECTOS”
+
+AGOSTO DE 2015
+
+**GERENCIA DE SUSTENTABILIDAD Y ASUNTOS EXTERNOS DIVISIÓN**
+
+**CHUQUICAMATA**

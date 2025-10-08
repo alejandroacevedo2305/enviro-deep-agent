@@ -1,0 +1,32 @@
+---
+title: L1
+author: Desconocido
+date: D:20211201105343
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|APR.|C.Q.M C.Q.M|Col3|Col4|
+|---|---|---|---|
+|**REV.**|M.L.M<br>M.L.M|||
+|**DIB.**|S.D.J<br>S.D.J|||
+
+|DESCRIPCIÓN|PROPUESTA UNA TORRE, 4 ASCENSORES, 20 DEPTOS POR PISO SE MODIFICA MIX POR SOLICITUD DEL MANDANTE A 50% 1D1B - 40% ESTUDIO. SE AJUSTAN DIMENSIONES PARA HACER EFICIENTE LA ESTRUCTURA.|Col3|Col4|
+|---|---|---|---|
+|**FECHA**|21.04.2021<br>05.05.2021|||
+|**VERSIÓN**|A<br>B|||
+
+**NOTA:**
+
+CUALQUIER DISCREPANCIA EN LA
+INFORMACIÓN CONTENIDA EN EL
+
+PRESENTE PLANO Y OTROS
+
+DOCUMENTOS DEBERÁ SER
+
+CONSULTADA CON EL ARQUITECTO

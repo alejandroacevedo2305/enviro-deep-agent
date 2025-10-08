@@ -1,0 +1,573 @@
+---
+title: A+ROJO
+author: A+ROJO
+date: D:20230908113840-03'00'
+language: es
+type: general
+pages: 22
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - FICHA DE ESPECIFICACIONES TECNICAS RESUMIDAS PARA CALIFICACIÓN INDUSTRIAL
+-->
+
+FERRARI ARQUITECTOS SPA EETT
+
+# FICHA DE ESPECIFICACIONES TECNICAS RESUMIDAS PARA CALIFICACIÓN INDUSTRIAL
+
+## DIRECCION DE LA PROPIEDAD
+
+|OBRA A REGULARIZAR|Col2|Col3|FECHA|
+|---|---|---|---|
+|<br>1|CENTRO DE DISTRIBUCION LO ESPEJO|CENTRO DE DISTRIBUCION LO ESPEJO|<br>08-09-2023|
+|<br>**CALLE O CAMI NO**|<br>**CALLE O CAMI NO**|<br>**NUMERO**|<br>**COMUNA**|
+|<br>2|<br>Av. Lo Espejo|<br>3200|Cerrillos|
+
+## IDENTIFICACION DEL PROPIETARIO
+
+|NOMBRE O RAZON SOCIAL|Col2|RUT|Col4|
+|---|---|---|---|
+|<br>3|<br>Falabella Inmobiliario S.A|<br>99.556.170 - 0||
+|<br>**DIRECCION**|<br>**DIRECCION**|<br>**TELEFONO**|<br>**TELEFONO**|
+|<br>4|Av. Manuel Rodriguez Norte 730,<br>Santiago|22 384 8570|22 384 8570|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## I) BODEGA TRADIS (944) - 1. FUNDACIONES
+
+|A|x|FUNDACION CORRIDA DE HORMIGON|B|Col5|POYOS DE HORMIGON|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>PILOTES DE MADERA|<br>D||<br>OTROS (ESPECIFICAR)|
+
+## - 2. ESTRUCTURA DE MUROS
+
+|A|x|METALICA - ACERO|Col4|B|Col6|HORMIGON ARMADO|Col8|
+|---|---|---|---|---|---|---|---|
+|<br>C Y D|<br>C Y D|<br>|<br>ALB.REFORZADA O ARMADA|<br>ALB.REFORZADA O ARMADA|<br>E||<br>MADERA|
+|<br>F||<br>ADOBE|<br>ADOBE|<br>G|<br>x|<br>SISTEMAS<br>PREFABRICADOS|<br>SISTEMAS<br>PREFABRICADOS|
+
+## - 3. ESTRUCTURA DE ENTRE PISOS
+
+|A.-|Col2|METALICA - ACERO|B.-|x|LOSA HORMIGON<br>ARMADO|
+|---|---|---|---|---|---|
+|<br>C.-|<br>|<br>ENVIGADO DE MADERA|<br>D.-||<br>SISTEMA PREFABRICADO|
+|<br>E.-||<br>OTROS (ESPECIFICAR)||||
+
+## - 4. ESTRUCTURA DE CUBIERTA
+
+|A|X|CERCHA METALICA - ACERO|B|Col5|CERCHA MADERA|
+|---|---|---|---|---|---|
+|<br>C||<br>ENVIGADO DE ACERO|<br>D||<br>ENVIGADO DE MADERA|
+|<br>E|<br>X|<br>OTROS (ESPECIFICAR)<br> <br>|<br> x||<br>Pilar y Vigas de Hormigón.|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 5. ESTRUCTURA DE DIVISIONES INTERIORES
+
+|A|Col2|MADERA|B|x|PERFILERIA METALICA|
+|---|---|---|---|---|---|
+|<br>C||<br>LADRILLO EN PANDERETA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+## - 6. CUBIERTA
+
+|A|Col2|FIBROCEMENTO EN<br>PLANCHA ONDA|B|Col5|FIBROCEMENTO EN TEJUELAS|
+|---|---|---|---|---|---|
+|<br>C||<br>TEJA DE CEMENTO O<br>ARCILLA|<br>D||<br>TEJUELA DE MADERA|
+|<br>E||<br>ACERO GALVANIZADO<br>ONDA|<br>F|<br>x|<br>ACERO GALVANIZADO LISO<br>EMBALLETADO|
+|<br>G|<br>|<br>OTROS (ESPECIFICAR||||
+
+## - 7. REVESTIMIENTOS EXTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D||<br>PANEL MADERA<br>AGLOMERADA|
+|<br>E|<br>x|<br>PLANCHA ACERO GALVANIZADO|<br>F||<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 8. REVESTIMIENTOS INTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D|<br>x|<br>PLANCHA YESO - CARTON|
+|<br>E||<br>OTROS (ESPECIFICAR)|<br>F|<br>|<br>|
+
+## - 9. REVESTIMIENTOS INTERIORES DE BAÑO Y COCINA
+
+|A|Col2|PLANCHA FIBROCEMENTO|B|Col5|AZULEJOS|
+|---|---|---|---|---|---|
+|<br>C|<br>x|<br>CERAMICOS|<br>D||<br>VINILICOS|
+|<br>E||<br>OTROS (ESPECIFICAR)<br>||<br> x|<br>PORCELANATO|
+
+## - 10. CIELOS
+
+|A|x|PLANCHA YESO - CARTON|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA MADERA<br>AGLOMERADA|<br>D|<br>x|<br>OTROS (ESPECIFICAR)<br>Cielo Americano.|
+|<br>E||<br>NO TIENE||||
+
+## - 11. AISLACION
+
+|A|Col2|POLIESTIRENO EXPANDIDO|B|x|COLCHONETA LANA MINERAL|
+|---|---|---|---|---|---|
+|<br>C||<br>OTROS (ESPECIFICAR)<br>|<br>D||<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 12. PAVIMENTOS (INDICAR % APROXIMADO)
+
+|A|Col2|AFINADO A|B|Col5|CUBREPISO|
+|---|---|---|---|---|---|
+|<br>C||<br>ALFOMBRA PELO O BOUCLE|<br>D||<br>PLASTICO - VINILICOS|
+|<br>E|<br> <br>|<br>ENTABLADO|<br>F||<br>PARQUET|
+|<br>G|<br>x|<br>PORCELANATO|<br>H|<br>x|<br>PISO FLOTANTE|
+|<br>L||||||
+
+## - 13. PUERTAS
+
+|A|Col2|ATABLERADAS|B|Col5|TERCIADAS|
+|---|---|---|---|---|---|
+||x||||<br>OTROS (TIPO PLACAROL)|
+
+## - 14. VENTANAS
+
+|A|x|PERFILERIA ALUMINIO|B|Col5|PERFILERIA ACERO|
+|---|---|---|---|---|---|
+|<br>C||<br>MADERA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 15. INSTALACIONES AGUA POTABLE
+
+|A|X|CAÑERIA PVC|B|Col5|CAÑERIA COBRE|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>GRIFERIA CORRIENTE|<br>D|<br>|<br>GRIFERIA ESPECIAL|
+
+## - 16. ALCANTARILLADO
+
+|A|x|TUBERIA PVC A COLECTOR|B|Col5|TUBERIA CEMENTO A FOSA<br>Y POZA|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>TUBERIA CEMENTO A COLECTOR|<br>D||<br>TUBERIA PVC A FOSA Y<br>POZO|
+
+## - 17. INSTALACION ELECTRICA
+
+|A|X|CANALIZACION PVC<br>EMBUTIDO|B|x|CANALIZACION PVC A LA<br>VISTA|
+|---|---|---|---|---|---|
+|<br>C||<br>SIN CANALIZACION|<br>D||<br>ARTEFACTOS ECONOMICOS|
+|<br>E||<br>ARTEFACTOS ESPECIALES|<br>F|<br>X|<br>OTROS|
+
+## - 18. INSTALACION DE GAS
+
+|A|Col2|CONEXIÓN A RED PUBLICA|B|Col5|GAS LICUADO|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>NO TIENE|<br>D|||
+
+FERRARI ARQUITECTOS SPA EETT
+
+## II) BODEGA TRADIS (945) - 1. FUNDACIONES
+
+|A|x|FUNDACION CORRIDA DE HORMIGON|B|Col5|POYOS DE HORMIGON|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>PILOTES DE MADERA|<br>D||<br>OTROS (ESPECIFICAR)|
+
+## - 2. ESTRUCTURA DE MUROS
+
+|A|x|METALICA - ACERO|Col4|B|Col6|HORMIGON ARMADO|Col8|
+|---|---|---|---|---|---|---|---|
+|<br>C Y D|<br>C Y D|<br>|<br>ALB.REFORZADA O ARMADA|<br>ALB.REFORZADA O ARMADA|<br>E||<br>MADERA|
+|<br>F||<br>ADOBE|<br>ADOBE|<br>G|<br>x|<br>SISTEMAS<br>PREFABRICADOS|<br>SISTEMAS<br>PREFABRICADOS|
+
+## - 3. ESTRUCTURA DE ENTRE PISOS
+
+|A.-|Col2|METALICA - ACERO|B.-|x|LOSA HORMIGON<br>ARMADO|
+|---|---|---|---|---|---|
+|<br>C.-|<br>|<br>ENVIGADO DE MADERA|<br>D.-||<br>SISTEMA PREFABRICADO|
+|<br>E.-||<br>OTROS (ESPECIFICAR)||||
+
+## - 4. ESTRUCTURA DE CUBIERTA
+
+|A|X|CERCHA METALICA - ACERO|B|Col5|CERCHA MADERA|
+|---|---|---|---|---|---|
+|<br>C||<br>ENVIGADO DE ACERO|<br>D||<br>ENVIGADO DE MADERA|
+|<br>E|<br>X|<br>OTROS (ESPECIFICAR)<br> <br>|<br> x||<br>Pilar y Vigas de Hormigón.|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 5. ESTRUCTURA DE DIVISIONES INTERIORES
+
+|A|Col2|MADERA|B|x|PERFILERIA METALICA|
+|---|---|---|---|---|---|
+|<br>C||<br>LADRILLO EN PANDERETA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+## - 6. CUBIERTA
+
+|A|Col2|FIBROCEMENTO EN<br>PLANCHA ONDA|B|Col5|FIBROCEMENTO EN TEJUELAS|
+|---|---|---|---|---|---|
+|<br>C||<br>TEJA DE CEMENTO O<br>ARCILLA|<br>D||<br>TEJUELA DE MADERA|
+|<br>E||<br>ACERO GALVANIZADO<br>ONDA|<br>F|<br>x|<br>ACERO GALVANIZADO LISO<br>EMBALLETADO|
+|<br>G|<br>|<br>OTROS (ESPECIFICAR||||
+
+## - 7. REVESTIMIENTOS EXTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D||<br>PANEL MADERA<br>AGLOMERADA|
+|<br>E|<br>x|<br>PLANCHA ACERO GALVANIZADO|<br>F||<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 8. REVESTIMIENTOS INTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D|<br>x|<br>PLANCHA YESO - CARTON|
+|<br>E||<br>OTROS (ESPECIFICAR)|<br>F|<br>|<br>|
+
+## - 9. REVESTIMIENTOS INTERIORES DE BAÑO Y COCINA
+
+|A|Col2|PLANCHA FIBROCEMENTO|B|Col5|AZULEJOS|
+|---|---|---|---|---|---|
+|<br>C|<br>x|<br>CERAMICOS|<br>D||<br>VINILICOS|
+|<br>E||<br>OTROS (ESPECIFICAR)<br>||<br> x|<br>PORCELANATO|
+
+## - 10. CIELOS
+
+|A|x|PLANCHA YESO - CARTON|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA MADERA<br>AGLOMERADA|<br>D|<br>x|<br>OTROS (ESPECIFICAR)<br>Cielo Americano.|
+|<br>E||<br>NO TIENE||||
+
+## - 11. AISLACION
+
+|A|Col2|POLIESTIRENO EXPANDIDO|B|x|COLCHONETA LANA MINERAL|
+|---|---|---|---|---|---|
+|<br>C||<br>OTROS (ESPECIFICAR)<br>|<br>D||<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 12. PAVIMENTOS (INDICAR % APROXIMADO)
+
+|A|Col2|AFINADO A|B|Col5|CUBREPISO|
+|---|---|---|---|---|---|
+|<br>C||<br>ALFOMBRA PELO O BOUCLE|<br>D||<br>PLASTICO - VINILICOS|
+|<br>E|<br> <br>|<br>ENTABLADO|<br>F||<br>PARQUET|
+|<br>G|<br>x|<br>PORCELANATO|<br>H|<br>x|<br>PISO FLOTANTE|
+|<br>L||||||
+
+## - 13. PUERTAS
+
+|A|Col2|ATABLERADAS|B|Col5|TERCIADAS|
+|---|---|---|---|---|---|
+||x||||<br>OTROS (TIPO PLACAROL)|
+
+## - 14. VENTANAS
+
+|A|x|PERFILERIA ALUMINIO|B|Col5|PERFILERIA ACERO|
+|---|---|---|---|---|---|
+|<br>C||<br>MADERA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 15. INSTALACIONES AGUA POTABLE
+
+|A|X|CAÑERIA PVC|B|Col5|CAÑERIA COBRE|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>GRIFERIA CORRIENTE|<br>D|<br>|<br>GRIFERIA ESPECIAL|
+
+## - 16. ALCANTARILLADO
+
+|A|x|TUBERIA PVC A COLECTOR|B|Col5|TUBERIA CEMENTO A FOSA<br>Y POZA|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>TUBERIA CEMENTO A COLECTOR|<br>D||<br>TUBERIA PVC A FOSA Y<br>POZO|
+
+## - 17. INSTALACION ELECTRICA
+
+|A|X|CANALIZACION PVC<br>EMBUTIDO|B|x|CANALIZACION PVC A LA<br>VISTA|
+|---|---|---|---|---|---|
+|<br>C||<br>SIN CANALIZACION|<br>D||<br>ARTEFACTOS ECONOMICOS|
+|<br>E||<br>ARTEFACTOS ESPECIALES|<br>F|<br>X|<br>OTROS|
+
+## - 18. INSTALACION DE GAS
+
+|A|Col2|CONEXIÓN A RED PUBLICA|B|Col5|GAS LICUADO|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>NO TIENE|<br>D|||
+
+FERRARI ARQUITECTOS SPA EETT
+
+## III) BODEGA SODIMAC (S1) - 1. FUNDACIONES
+
+|A|x|FUNDACION CORRIDA DE HORMIGON|B|Col5|POYOS DE HORMIGON|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>PILOTES DE MADERA|<br>D||<br>OTROS (ESPECIFICAR)|
+
+## - 2. ESTRUCTURA DE MUROS
+
+|A|x|METALICA - ACERO|Col4|B|Col6|HORMIGON ARMADO|Col8|
+|---|---|---|---|---|---|---|---|
+|<br>C Y D|<br>C Y D|<br>|<br>ALB.REFORZADA O ARMADA|<br>ALB.REFORZADA O ARMADA|<br>E||<br>MADERA|
+|<br>F||<br>ADOBE|<br>ADOBE|<br>G|<br>x|<br>SISTEMAS<br>PREFABRICADOS|<br>SISTEMAS<br>PREFABRICADOS|
+
+## - 3. ESTRUCTURA DE ENTRE PISOS
+
+|A.-|Col2|METALICA - ACERO|B.-|x|LOSA HORMIGON<br>ARMADO|
+|---|---|---|---|---|---|
+|<br>C.-|<br>|<br>ENVIGADO DE MADERA|<br>D.-||<br>SISTEMA PREFABRICADO|
+|<br>E.-||<br>OTROS (ESPECIFICAR)||||
+
+## - 4. ESTRUCTURA DE CUBIERTA
+
+|A|X|CERCHA METALICA - ACERO|B|Col5|CERCHA MADERA|
+|---|---|---|---|---|---|
+|<br>C||<br>ENVIGADO DE ACERO|<br>D||<br>ENVIGADO DE MADERA|
+|<br>E|<br>X|<br>OTROS (ESPECIFICAR)|<br> x||<br>Pilar y Vigas de Hormigón.|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 5. ESTRUCTURA DE DIVISIONES INTERIORES
+
+|A|Col2|MADERA|B|x|PERFILERIA METALICA|
+|---|---|---|---|---|---|
+|<br>C||<br>LADRILLO EN PANDERETA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+## - 6. CUBIERTA
+
+|A|Col2|FIBROCEMENTO EN<br>PLANCHA ONDA|B|Col5|FIBROCEMENTO EN TEJUELAS|
+|---|---|---|---|---|---|
+|<br>C||<br>TEJA DE CEMENTO O<br>ARCILLA|<br>D||<br>TEJUELA DE MADERA|
+|<br>E||<br>ACERO GALVANIZADO<br>ONDA|<br>F|<br>x|<br>ACERO GALVANIZADO LISO<br>EMBALLETADO|
+|<br>G|<br>|<br>OTROS (ESPECIFICAR||||
+
+## - 7. REVESTIMIENTOS EXTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D||<br>PANEL MADERA<br>AGLOMERADA|
+|<br>E|<br>x|<br>PLANCHA ACERO GALVANIZADO|<br>F||<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 8. REVESTIMIENTOS INTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D|<br>x|<br>PLANCHA YESO - CARTON|
+|<br>E||<br>OTROS (ESPECIFICAR)|<br>F|<br>|<br>|
+
+## - 9. REVESTIMIENTOS INTERIORES DE BAÑO Y COCINA
+
+|A|Col2|PLANCHA FIBROCEMENTO|B|Col5|AZULEJOS|
+|---|---|---|---|---|---|
+|<br>C|<br>x|<br>CERAMICOS|<br>D||<br>VINILICOS|
+|<br>E||<br>OTROS (ESPECIFICAR)<br>||<br> x|<br>PORCELANATO|
+
+## - 10. CIELOS
+
+|A|x|PLANCHA YESO - CARTON|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA MADERA<br>AGLOMERADA|<br>D|<br>x|<br>OTROS (ESPECIFICAR)<br>Cielo Americano.|
+|<br>E||<br>NO TIENE||||
+
+## - 11. AISLACION
+
+|A|Col2|POLIESTIRENO EXPANDIDO|B|x|COLCHONETA LANA MINERAL|
+|---|---|---|---|---|---|
+|<br>C||<br>OTROS (ESPECIFICAR)<br>|<br>D||<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 12. PAVIMENTOS (INDICAR % APROXIMADO)
+
+|A|Col2|AFINADO A|B|Col5|CUBREPISO|
+|---|---|---|---|---|---|
+|<br>C||<br>ALFOMBRA PELO O BOUCLE|<br>D||<br>PLASTICO - VINILICOS|
+|<br>E|<br> <br>|<br>ENTABLADO|<br>F||<br>PARQUET|
+|<br>G|<br>x|<br>PORCELANATO|<br>H|<br>x|<br>PISO FLOTANTE|
+|<br>L||||||
+
+## - 13. PUERTAS
+
+|A|Col2|ATABLERADAS|B|Col5|TERCIADAS|
+|---|---|---|---|---|---|
+||x||||<br>OTROS (TIPO PLACAROL)|
+
+## - 14. VENTANAS
+
+|A|x|PERFILERIA ALUMINIO|B|Col5|PERFILERIA ACERO|
+|---|---|---|---|---|---|
+|<br>C||<br>MADERA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 15. INSTALACIONES AGUA POTABLE
+
+|A|X|CAÑERIA PVC|B|Col5|CAÑERIA COBRE|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>GRIFERIA CORRIENTE|<br>D|<br>|<br>GRIFERIA ESPECIAL|
+
+## - 16. ALCANTARILLADO
+
+|A|x|TUBERIA PVC A COLECTOR|B|Col5|TUBERIA CEMENTO A FOSA<br>Y POZA|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>TUBERIA CEMENTO A COLECTOR|<br>D||<br>TUBERIA PVC A FOSA Y<br>POZO|
+
+## - 17. INSTALACION ELECTRICA
+
+|A|X|CANALIZACION PVC<br>EMBUTIDO|B|x|CANALIZACION PVC A LA<br>VISTA|
+|---|---|---|---|---|---|
+|<br>C||<br>SIN CANALIZACION|<br>D||<br>ARTEFACTOS ECONOMICOS|
+|<br>E||<br>ARTEFACTOS ESPECIALES|<br>F|<br>X|<br>OTROS|
+
+## - 18. INSTALACION DE GAS
+
+|A|Col2|CONEXIÓN A RED PUBLICA|B|Col5|GAS LICUADO|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>NO TIENE|<br>D|||
+
+FERRARI ARQUITECTOS SPA EETT
+
+## IV) BODEGA SODIMAC (S2) - 1. FUNDACIONES
+
+|A|x|FUNDACION CORRIDA DE HORMIGON|B|Col5|POYOS DE HORMIGON|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>PILOTES DE MADERA|<br>D||<br>OTROS (ESPECIFICAR)|
+
+## - 2. ESTRUCTURA DE MUROS
+
+|A|x|METALICA - ACERO|Col4|B|Col6|HORMIGON ARMADO|Col8|
+|---|---|---|---|---|---|---|---|
+|<br>C Y D|<br>C Y D|<br>|<br>ALB.REFORZADA O ARMADA|<br>ALB.REFORZADA O ARMADA|<br>E||<br>MADERA|
+|<br>F||<br>ADOBE|<br>ADOBE|<br>G|<br>x|<br>SISTEMAS<br>PREFABRICADOS|<br>SISTEMAS<br>PREFABRICADOS|
+
+## - 3. ESTRUCTURA DE ENTRE PISOS
+
+|A.-|Col2|METALICA - ACERO|B.-|x|LOSA HORMIGON<br>ARMADO|
+|---|---|---|---|---|---|
+|<br>C.-|<br>|<br>ENVIGADO DE MADERA|<br>D.-||<br>SISTEMA PREFABRICADO|
+|<br>E.-||<br>OTROS (ESPECIFICAR)||||
+
+## - 4. ESTRUCTURA DE CUBIERTA
+
+|A|X|CERCHA METALICA - ACERO|B|Col5|CERCHA MADERA|
+|---|---|---|---|---|---|
+|<br>C||<br>ENVIGADO DE ACERO|<br>D||<br>ENVIGADO DE MADERA|
+|<br>E|<br>X|<br>OTROS (ESPECIFICAR)<br> <br>|<br> x||<br>Pilar y Vigas de Hormigón.|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 5. ESTRUCTURA DE DIVISIONES INTERIORES
+
+|A|Col2|MADERA|B|x|PERFILERIA METALICA|
+|---|---|---|---|---|---|
+|<br>C||<br>LADRILLO EN PANDERETA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+## - 6. CUBIERTA
+
+|A|Col2|FIBROCEMENTO EN<br>PLANCHA ONDA|B|Col5|FIBROCEMENTO EN TEJUELAS|
+|---|---|---|---|---|---|
+|<br>C||<br>TEJA DE CEMENTO O<br>ARCILLA|<br>D||<br>TEJUELA DE MADERA|
+|<br>E||<br>ACERO GALVANIZADO<br>ONDA|<br>F|<br>x|<br>ACERO GALVANIZADO LISO<br>EMBALLETADO|
+|<br>G|<br>|<br>OTROS (ESPECIFICAR||||
+
+## - 7. REVESTIMIENTOS EXTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D||<br>PANEL MADERA<br>AGLOMERADA|
+|<br>E|<br>x|<br>PLANCHA ACERO GALVANIZADO|<br>F||<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 8. REVESTIMIENTOS INTERIORES
+
+|A|Col2|REVOQUE A CEMENTO|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA FIBROCEMENTO|<br>D|<br>x|<br>PLANCHA YESO - CARTON|
+|<br>E||<br>OTROS (ESPECIFICAR)|<br>F|<br>|<br>|
+
+## - 9. REVESTIMIENTOS INTERIORES DE BAÑO Y COCINA
+
+|A|Col2|PLANCHA FIBROCEMENTO|B|Col5|AZULEJOS|
+|---|---|---|---|---|---|
+|<br>C|<br>x|<br>CERAMICOS|<br>D||<br>VINILICOS|
+|<br>E||<br>OTROS (ESPECIFICAR)<br>||<br> x|<br>PORCELANATO|
+
+## - 10. CIELOS
+
+|A|x|PLANCHA YESO - CARTON|B|Col5|ENTABLADO|
+|---|---|---|---|---|---|
+|<br>C||<br>PLANCHA MADERA<br>AGLOMERADA|<br>D|<br>x|<br>OTROS (ESPECIFICAR)<br>Cielo Americano.|
+|<br>E||<br>NO TIENE||||
+
+## - 11. AISLACION
+
+|A|Col2|POLIESTIRENO EXPANDIDO|B|x|COLCHONETA LANA MINERAL|
+|---|---|---|---|---|---|
+|<br>C||<br>OTROS (ESPECIFICAR)<br>|<br>D||<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 12. PAVIMENTOS (INDICAR % APROXIMADO)
+
+|A|Col2|AFINADO A|B|Col5|CUBREPISO|
+|---|---|---|---|---|---|
+|<br>C||<br>ALFOMBRA PELO O BOUCLE|<br>D||<br>PLASTICO - VINILICOS|
+|<br>E|<br> <br>|<br>ENTABLADO|<br>F||<br>PARQUET|
+|<br>G|<br>x|<br>PORCELANATO|<br>H|<br>x|<br>PISO FLOTANTE|
+|<br>L||||||
+
+## - 13. PUERTAS
+
+|A|Col2|ATABLERADAS|B|Col5|TERCIADAS|
+|---|---|---|---|---|---|
+||x||||<br>OTROS (TIPO PLACAROL)|
+
+## - 14. VENTANAS
+
+|A|x|PERFILERIA ALUMINIO|B|Col5|PERFILERIA ACERO|
+|---|---|---|---|---|---|
+|<br>C||<br>MADERA|<br>D|<br>|<br>OTROS (ESPECIFICAR)<br>|
+
+FERRARI ARQUITECTOS SPA EETT
+
+## - 15. INSTALACIONES AGUA POTABLE
+
+|A|X|CAÑERIA PVC|B|Col5|CAÑERIA COBRE|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>GRIFERIA CORRIENTE|<br>D|<br>|<br>GRIFERIA ESPECIAL|
+
+## - 16. ALCANTARILLADO
+
+|A|x|TUBERIA PVC A COLECTOR|B|Col5|TUBERIA CEMENTO A FOSA<br>Y POZA|
+|---|---|---|---|---|---|
+|<br>C|<br>|<br>TUBERIA CEMENTO A COLECTOR|<br>D||<br>TUBERIA PVC A FOSA Y<br>POZO|
+
+## - 17. INSTALACION ELECTRICA
+
+|A|X|CANALIZACION PVC<br>EMBUTIDO|B|x|CANALIZACION PVC A LA<br>VISTA|
+|---|---|---|---|---|---|
+|<br>C||<br>SIN CANALIZACION|<br>D||<br>ARTEFACTOS ECONOMICOS|
+|<br>E||<br>ARTEFACTOS ESPECIALES|<br>F|<br>X|<br>OTROS|
+
+## - 18. INSTALACION DE GAS
+
+|A|Col2|CONEXIÓN A RED PUBLICA|B|Col5|GAS LICUADO|
+|---|---|---|---|---|---|
+|<br>C|<br>X|<br>NO TIENE|<br>D|||
+
+FERRARI ARQUITECTOS SPA EETT
+
+Sin otro particular se despide atentamente,
+
+**Cristian Ferrari Cifuentes**
+
+**FERRARI ARQUITECTOS SPA**
+
+cf@ferrariarquitectos.com
+ferrariarquitecto@gmail.com
+
++56 9 94335205

@@ -1,0 +1,25 @@
+---
+title: 1237ar01
+author: Desconocido
+date: D:20240903181800
+language: unknown
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|FECHA|19.07.18|14.08.18|30.09.18|03.09.24|Col6|Col7|Col8|
+|---|---|---|---|---|---|---|---|
+|OBSERVACION|DESARROLLA SEGUN LAYOUT APROBADO|PARA LICITAR|PREPARA INGRESO DOM|AJUSTE PLANTA RILES||||
+|REV.|H|I|J|K||||
+
+|ECHA|Col2|0.04.18|1.04.18|1.04.18|4.05.18|1.06.18|4.07.18|
+|---|---|---|---|---|---|---|---|
+|OBSERVACION<br>FE|PRELIMINAR|PROPONE ALTERNATIVA N°1<br>20|PROPONE ALTERNATIVA N°2<br>21|PROPONE ALTERNATIVA N°3<br>21|DESARROLLA ALTERNATIVA N°2<br>14|AJUSTA EMPLAZAMIENTO<br>01|AJUSTA SEGUN NUEVO MASTER PLAN<br>04|
+|REV.|A|B|C|D|E|F|G|
+
+|PROYECTO|ESPECIALIDAD|LAMINA|VERSION|
+|---|---|---|---|
+|1237|AR|01|K|

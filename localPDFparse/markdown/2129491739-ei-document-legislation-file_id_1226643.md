@@ -1,0 +1,256 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20140520113620-04'00'
+language: es
+type: report
+pages: 14
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - 3 Cumplimiento de la Normativa Ambiental Aplicable al Proyecto (Artículo 19D.S
+  - CUADRO 24. Normativa Ambiental Aplicable
+  - 4 Permisos Ambientales Sectoriales
+  - 5 Compromisos Ambientales Voluntarios
+-->
+
+# 3 Cumplimiento de la Normativa Ambiental Aplicable al Proyecto (Artículo 19D.S
+
+**N°40/12 letra c)**
+
+# CUADRO 24. Normativa Ambiental Aplicable
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|Constitución Política de<br>la República de Chile|Etapa de<br>construcción<br>y operación.|<br> La realización de esta DIA y su<br>sometimiento al SEIA para su evaluación<br>y aprobación, tienen por objeto contribuir<br>al<br>cumplimiento<br>de<br>la<br>garantía<br>constitucional: El Derecho a vivir en un<br>ambiente libre de contaminación.<br>| Se mantendrán registros digitales y en<br>papel de toda la documentación legal<br>asociada<br>al<br>centro<br>de<br>cultivo,<br>resoluciones y permisos normativos que<br>le apliquen.<br>|
+|Ley N° 18.892<br>MINECON<br>“Ley General de Pesca<br>y Acuicultura”.|Etapa de<br>construcción<br>y operación|<br> Cumplimiento<br>con<br>las<br>normas<br>ambientales indicadas en la ley, por la<br>implementación de técnicas de manejo<br>del centro y tecnologías para reducir y<br>eliminar efectos negativos sobre el medio<br>ambiente.<br>|<br> Se mantendrán archivos digitales del<br>plan de siembra establecido, PVS (Plan<br>Veterinario de Salud), PSG, PSE y se<br>implementará una bitácora de inspección<br>veterinaria asociada a cada visita y<br>manejos sanitarios establecidos durante<br>el ciclo productivo, por el veterinario de la<br>empresa.<br>|
+
+51
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D.S. N° 320/01<br>MINECON<br>“Reglamento Ambiental<br>para la Acuicultura”.|Etapa de<br>operación.|<br> Mantener la limpieza del área y<br>terrenos aledaños al centro de cultivo de<br>todo residuo generado por la actividad<br>acuícola.<br> Disponer los desechos sólidos o líquidos<br>en depósitos y condiciones que no<br>resulten<br>perjudiciales<br>al<br>medio<br>circundante.<br> Retirar todo tipo de soporte no<br>degradable o degradable como sistema<br>de fijación al fondo, al término de la vida<br>útil del centro.<br> Impedir que las redes tengan contacto<br>con el fondo. En cada centro deberá<br>existir un plan de contingencia, para<br>casos<br>de<br>escapes,<br>mortalidades<br>y <br>pérdidas de alimento.<br> Para pérdida o escape de peces, se<br>deberá avisar al SERNAPESCA y capitanía<br>de Puerto correspondiente, y presentar<br>un informe.<br> Sólo se podrán liberar ejemplares con<br>la<br>expresa<br>autorización<br>de<br>la<br>Subsecretaría de Pesca.<br> No se podrán realizar cultivos de<br>organismos vivos modificados sin la<br>expresa autorización de la Subsecretaría<br>de Pesca.<br> Sólo se podrá realizar limpieza y<br>lavado de redes con y sin anti-fouling en<br>instalaciones que permitan el tratamiento<br>de los efluentes.<br>| Informe mensual limpieza de playas y<br>sectores aledaños al centro de cultivo.,<br>el depto. de medio ambiente envía<br>reporte a la autoridad marítima local de<br>acuerdo a su formato establecido, se<br>mantendrá archivos digitales en el centro<br>de cultivo.<br> Se destinará una bodega de químico<br>en el centro para almacenamiento de<br>estos, con sus respectivas fichas técnicas<br>y hojas de seguridad para su correcto<br>uso. Se dispondrá de un recipiente y<br>lugar especial, debidamente señalizado<br>para los envases de químicos vacíos y<br>vencidos, su despacho se realizará con<br>registro de Residuos Peligrosos y Guías<br>de despacho indicando tipo y cantidades.<br> Se<br>realizará<br>limpieza,<br>lavado<br>y <br>desinfección de todas las estructuras<br>instaladas en el centro, all in - all out,de<br>acuerdo a procedimientos establecidos,<br>registrando la actividad realizada y<br>manteniendo los certificados en papel en<br>el centro,<br>Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.|
+|Res. 3612/09<br>MINECON<br>“Resolución<br>Acompañante<br>Reglamento Ambiental<br>para la Acuicultura”|Etapa de<br>operación| Cumplimiento con los contenidos y<br>metodologías<br>de<br>análisis<br>para<br>la<br>elaboración<br>de<br>la<br>Caracterización<br>Preliminar del Sitio (CPS) y la información<br>ambiental a que se refieren los artículos 2<br>letra p) y 15 del D.S. N° 320 de 2001.<br>| Toda la documentación legal del centro<br>se mantendrá archivada digitalmente en<br>el<br>centro<br>de<br>cultivo,<br>monitoreos<br>ambientales, planes de manejo, CPS e<br>INFA’s para uso y disposición del personal<br>del centro y autoridades fiscalizadoras.|
+|Ley N° 19.300<br>MINSEGPRES<br>“Ley de Bases del<br>Medio Ambiente”.|Etapa de<br>construcción<br>y operación| Cumplimiento<br>con<br>las<br>normas<br>ambientales indicadas en la ley, por la<br>implementación de técnicas de manejo<br>del centro y tecnologías para reducir y<br>eliminar efectos negativos sobre el medio<br>ambiente.<br>| Se mantendrán registros digitales y en<br>papel de toda la documentación legal<br>asociada al centro de cultivo,<br>resoluciones y permisos normativos que<br>le apliquen.|
+
+52
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D.S. N° 40/12<br>MINSEGPRES<br>“Reglamento del<br>Sistema de Evaluación<br>de Impacto Ambiental”.|Etapa de<br>construcción<br>y operación<br>de<br>Evaluación<br>de Impacto<br>Ambiental.|<br> Se ha ingresado este proyecto al<br>sistema<br>de<br>evaluación<br>de<br>impacto<br>ambiental para la evaluación de las<br>etapas del proyecto, donde se demuestra<br>cumplimiento debido a los manejos de<br>residuos<br>producidos,<br>medidas<br>para<br>reducir los impactos sobre el ambiente<br>tales<br>como<br>implementación<br>de<br>tecnologías de alimentación, planes de<br>contingencia en caso de emergencia, etc.<br>Además<br>CPS<br>y <br>se<br>considera<br>el<br>emplazamiento<br>del<br>sitio<br>respecto<br>a <br>grupos humanos, flora, fauna, etc.<br> <br>|<br> Se mantendrán registros digitales y en<br>papel de toda la documentación legal<br>asociada<br>al<br>centro<br>de<br>cultivo,<br>resoluciones y permisos normativos que<br>le apliquen.<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado<br>al<br>Sistema<br>de<br>Gestión<br>Integrado.<br> Toda<br>la<br>documentación<br>legal<br>se<br>mantendrá archivada digitalmente en el<br>centro<br>de<br>cultivo;<br>monitoreos<br>ambientales, planes de manejo, CPS e<br>INFA’s para uso y disposición del personal<br>del centro y autoridades fiscalizadoras.<br>|
+|D.S. N° 1/92<br>“Reglamento para el<br>Control de la<br>Contaminación<br>Acuática”.|Todo el<br>Proyecto|<br> Dentro del desarrollo del proyecto se<br>prohibirá arrojar lastre, escombros o<br>basuras y derramar petróleo o sus<br>derivados o residuos u otras aguas<br>nocivas<br>o <br>peligrosas,<br>de<br>cualquier<br>especie, que puedan ocasionar daños a<br>las aguas sometidas a la jurisdicción<br>nacional.<br>| Todos los residuos generados durante<br>el proceso productivo, residuos líquidos,<br>sólidos y domésticos serán almacenados<br>en<br>lugares<br>específicos<br>debidamente<br>señalizados para su posterior envío a<br>plantas autorizadas, mediante guías de<br>despacho. Se mantendrá registros de<br>respaldo en el centro de cultivo.<br>|
+|Ley N° 19.821<br>“Deroga la Ley N°<br>3.133 y modifica la Ley<br>N° 18.902 en Materia<br>de Residuos<br>Industriales Líquidos”.|Todo el<br>Proyecto| La<br>evacuación,<br>tratamiento<br>o <br>disposición final de desagües, aguas<br>servidas de cualquier naturaleza y o<br>residuos industriales.|<br> Se<br>realizarán<br>monitores,<br>chequeos<br>preventivos<br>y <br>controles<br>en<br>forma<br>permanente de la planta de tratamiento<br>asociada al centro, se mantendrán los<br>registros de retiro de lodos y los informes<br>de análisis de muestreos realizada a la<br>planta de tratamiento en el centro de<br>cultivo.<br>|
+
+53
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D.S. N° 90/01<br>MINSEGPRES<br>“Norma de Emisión<br>para la Regulación de<br>Contaminantes<br>Asociados a las<br>Descargas de Residuos<br>Líquidos a Aguas<br>Marinas y<br>Continentales<br>Superficiales”.|Todo el<br>Proyecto|<br> No se considera vertimiento de agua-<br>sangre proveniente del corte de agallas<br>durante la cosecha, ya que el sistema de<br>cosecha será el traslado de peces vivos<br>hasta la planta de proceso de X y XI<br>región, que cuenten con todas las<br>autorizaciones ambientales vigentes y<br>plantas<br>de<br>tratamientos<br>de<br>riles<br>aprobadas,<br>para<br>la<br>recepción<br>y <br>procesamiento de este tipo de residuos.<br> Las aguas para consumo diario serán<br>vertidas en las aguas sometidas a<br>jurisdicción nacional desde la bodega,<br>previo paso por la planta de tratamiento,<br>cumpliendo la norma y se tendrá especial<br>cuidado que el efluente no contendrá<br>sólidos flotantes visibles y no ocasionara<br>la<br>decoloración<br>de<br>las<br>aguas<br>circundantes.<br> <br>| Se realizarán monitores, chequeos<br>preventivos<br>y <br>controles<br>en<br>forma<br>permanente de la planta de tratamiento<br>asociada<br>al<br>centro<br>y <br>planta<br>de<br>tratamiento de riles en caso de destinar<br>aguas sangre a la base ubicado en Bahia<br>Chacabuco, se mantendrán los registros<br>de retiro de lodos y los informes de<br>análisis de muestreos realizada a la<br>planta en el centro de cultivo y en la<br>oficina del departamento de medio<br>ambiente de la empresa.|
+|DGTM. Y MM.<br>ORDINARIO N° 12600/<br>931|Etapa de<br>operación.|<br> Los efluentes a verter sobre la columna<br>de agua no superarán los valores<br>establecidos en él (cuadro 3). La planta<br>de tratamiento fue sometida a los análisis<br>respectivos<br>que<br>aseguren<br>dicho<br>cumplimiento<br> <br>| Se realizarán monitores, chequeos<br>preventivos<br>y <br>controles<br>en<br>forma<br>permanente de la planta de tratamiento<br>asociada al centro, se mantendrán los<br>registros de retiro de lodos y los informes<br>de análisis de muestreos realizada a la<br>planta en el centro de cultivo.|
+|DGTM. Y MM. ORD. A-<br>52/004<br>deroga la Resolución<br>DGTM y MM 12600/5<br>del 4 de Enero de 2006|Todo el<br>Proyecto|<br> Las aguas para consumo diario serán<br>vertidas en las aguas sometidas a<br>jurisdicción nacional desde la bodega,<br>previo paso por la planta de tratamiento,<br>cumpliendo la norma y se tendrá especial<br>cuidado que el efluente no contendrá<br>sólidos flotantes visibles y no ocasionara<br>la<br>decoloración<br>de<br>las<br>aguas<br>circundantes.<br>| Se realizarán monitores, chequeos<br>preventivos<br>y <br>controles<br>en<br>forma<br>permanente de la planta de tratamiento<br>asociada al centro, se mantendrán los<br>registros de retiro de lodos y los informes<br>de análisis de muestreos realizada a la<br>planta en el centro de cultivo.<br>|
+|DFL 725/1967 MINSAL<br>“Código Sanitario”.|Todo el<br>Proyecto|<br> La<br>evacuación,<br>tratamiento<br>o <br>disposición final de desagües, aguas<br>servidas de cualquier naturaleza y o<br>residuos industriales.<br> Eliminación de residuos sólidos en<br>vertedero autorizado.<br>|<br> Se realizarán monitores, chequeos<br>preventivos<br>y <br>controles<br>en<br>forma<br>permanente de la planta de tratamiento<br>asociada al centro, se mantendrán los<br>registros de retiro de lodos y los informes<br>de análisis de muestreos realizada a la<br>planta de tratamiento en el centro de<br>cultivo.<br> Se mantendrán archivados los registros<br>de envíos de residuos sólidos en el centro<br>de cultivo, estos residuos son enviados<br>con guías de despacho, respaldados con<br>un certificado de recepción final del<br>vertedero autorizado.<br>|
+
+54
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D.S. 201/01 MINSAL<br>“Reglamento sobre<br>Condiciones<br>Ambientales y<br>Sanitarias Básicas en<br>los Lugares de<br>Trabajo”|Todo el<br>Proyecto|<br> Eliminación de residuos sólidos en<br>vertedero autorizado.<br> Niveles de ruidos compatibles con la<br>salud de los trabajadores.<br> Provisión de agua potable y servicios<br>higiénicos en el lugar de trabajo según lo<br>exigido por la autoridad competente.<br>|<br> Se mantendrán archivados los registros<br>de envíos de residuos sólidos en el centro<br>de cultivo, estos residuos son enviados<br>con guías de despacho, respaldados con<br>un certificado de recepción final del<br>vertedero autorizado.<br> Los procesos productivos de la actividad<br>no generarán ruidos significativos en<br>ninguna sus etapas, esto basado en una<br>caracterización del ruido realizada en un<br>pontón de similares características.<br> Se mantendrá un stock permanente de<br>botellones de agua purificada sin gas de<br>20 lts, estos serán recambiados en forma<br>constante,<br>se<br>respaldará<br>con<br>un<br>certificado del proveedor autorizado.<br> El artefacto naval cuenta con servicios<br>higiénicos<br>habilitados<br>(planta<br>de<br>tratamiento), que cumple con toda la<br>normativa vigente.<br> <br>|
+|DS No 148/03 MINSAL<br>“Reglamento Sanitario<br>sobre manejo de<br>Residuos Peligrosos***”**|Todo el<br>Proyecto|<br> Almacenaje diferenciado de residuos<br>peligrosos, debidamente rotulados, en<br>envases herméticos y retirados por<br>empresa autorizada.<br>|<br> Los<br>residuos<br>peligrosos<br>serán<br>identificados como tal y dispuestos en<br>lugar específico para ello, los residuos<br>serán enviados a bodega RESPEL ubicado<br>en la Base en Bahía Chacabuco se enviará<br>con guías de despacho y registro de<br>Residuos Peligrosos, indicando tipo y<br>cantidades,<br>para<br>finalmente<br>ser<br>despachados a planta autorizada para su<br>tratamiento final, Se mantendrán registros<br>en el centro de cultivo.<br> <br>|
+|D.S. N°225/95<br>“Veda para Mamíferos,<br>Aves y Reptiles<br>Marinos”|Todo el<br>proyecto| Medidas para prevenir enmalles y<br>capacitación<br>de<br>trabajadores<br>en<br>preservación de animales.|<br> Se tendrá a disposición del personal del<br>centro de cultivo archivos digitales con la<br>normativa legal vigente, asociado al<br>proceso productivo y a las autoridades<br>competentes.<br> <br>|
+|D. Ex. N°765/2004<br>MINECON<br>“Establece Veda<br>Extractiva para el Lobo<br>Marino Común”.|D. Ex. N°765/2004<br>MINECON<br>“Establece Veda<br>Extractiva para el Lobo<br>Marino Común”.|D. Ex. N°765/2004<br>MINECON<br>“Establece Veda<br>Extractiva para el Lobo<br>Marino Común”.|<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.<br>Se capacitará a los trabajadores mediante<br>simulacros<br>medio<br>ambientales<br>registrando la actividad y generando un<br>informe bajo un formato establecido, se<br>mantendrán registros en el centro.<br>|
+
+55
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D.S N° 594/1999,<br>MINSAL (Pub. D.O.<br>29/04/2000).<br>Reglamento sobre<br>condiciones Sanitarias<br>y Ambientales Básicas<br>en los Lugares de<br>Trabajo|Todo el<br>Proyecto|<br> Los lugares de trabajo, durante la<br>instalación y construcción del proyecto,<br>contarán con suministro de agua potable<br>destinada,<br>tanto<br>para<br>el<br>consumo<br>personal, como para las necesidades<br>básicas de higiene y aseo.<br>|<br> Se mantendrá un stock permanente de<br>botellones de agua purificada sin gas de<br>20 lts, estos serán recambiados en forma<br>constante,<br>se<br>respaldará<br>con<br>un<br>certificado del proveedor autorizado. Se<br>almacenará agua para higiene y aseo en<br>un estanque de 10.000 lts en el pontón,<br>ésta agua es extraída de fuentes de<br>abastecimiento de agua dulce cercana al<br>centro, no es apta para consumo humano,<br>pero cubre algunas de las necesidades<br>básicas.<br> <br>|
+|D.S (MINECOM) No<br>345/2005, Reglamento<br>sobre Plagas<br>hidrobiológicas.|<br>Todo el<br>proyecto|<br> El Titular notificará a la Autoridad<br>competente<br>ante<br>cualquier<br>brote<br>epidemiológico.<br>|<br> Se mantendrán archivos digitales del<br>PVS (Plan Veterinario de Salud), PSG, PSE<br>y se implementará una bitácora de<br>inspección veterinaria asociada a cada<br>visita y manejos sanitarios establecidos<br>durante el ciclo productivo, por el<br>veterinario de la empresa; se habilitará un<br>lugar específico para realizar necropsias<br>según normativa establecida registrando<br>todo lo observado.<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado. <br>|
+|D.Ex. (MINECOM) No<br>1892/2009, Establece<br>veda extractiva para<br>recurso lobo marino<br>común en área y<br>periodo que indica.|<br>Todo el<br>proyecto| El Titular instruirá a su personal técnico<br>y profesional respecto del cumplimiento<br>de la normativa y de las medidas a<br>aplicar en caso de enmalle o muerte de<br>un ejemplar.| Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.<br>Se capacitará a los trabajadores mediante<br>simulacros<br>medio<br>ambientales<br>registrando la actividad y generando un<br>informe bajo un formato establecido, se<br>mantendrán registros en el centro.<br> <br>|
+|Código Marítimo<br>Internacional de<br>Mercancías Peligrosas,<br>Decreto Supremo (M)<br>N° 777 de 1978|Todo el<br>Proyecto|<br> El titular se regirá de acuerdo al código<br>Marítimo internacional de mercancías<br>peligrosas, ante cualquier traslado o uso<br>de este tipo de sustancias de acuerdo al<br>decreto estipulado.<br>|<br> Todo material considerado peligroso ya<br>sea del tipo sólido, líquido, gaseoso o<br>RESPEL, son enviados con guías de<br>despacho y además se acompaña con<br>registro de residuos Peligrosos, donde se<br>detalla lo enviado y cantidades; además<br>se aplicará los procedimiento e instructivo<br>de transporte establecidos por Sistema de<br>Gestión<br>Integrado<br>de<br>la<br>empresa,<br>utilizando en todo momento los EPP’s si<br>correspondiera.<br>|
+
+56
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|Resolución MSC.205<br>(81) del 18 de Mayo de<br>2006, vigente en todo<br>el mundo a contar del<br>1 de Enero de 2008.|Todo el<br>proyecto| Se establecerán y dispondrán los<br>diferentes tópicos de esta resolución que<br>amplían<br>la<br>identificación<br>del<br>Ácido<br>Fórmico como mercancía peligrosa en sus<br>diferentes formas.|<br> Se<br>mantendrán<br>a <br>disposición<br>del<br>personal del centro un instructivo para<br>uso y manejo del sistema de ensilaje,<br>indicando tablas de aplicación del químico<br>y uso de EPP’s para manipulación,<br>además se dispondrán del plan de<br>contingencia asociado a la actividad. Se<br>realizarán capacitaciones para uso del<br>sistema<br>de<br>ensilaje,<br>registrando<br>la<br>actividad.<br> Para el traslado del químico se utilizará<br>guías de despacho y se aplicará los<br>procedimiento e instructivo de transporte<br>establecidos por Sistema de Gestión<br>Integrado de la empresa, se mantendrán<br>archivos para respaldo en el centro de<br>cultivo.<br> <br>|
+|<br>Circular Marítima DGTM<br>y MM O-32/011, del 14<br>de Enero de 2000|Todo el<br>proyecto|<br> El titular establecerá los procedimientos<br>necesarios para el control de mercancías<br>peligrosas en los recintos portuarios que<br>posea,<br>así<br>como<br>también<br>en<br>sus<br>artefactos navales.<br>|<br> Se mantendrán archivos en el centro de<br>cultivo de todos los movimientos de<br>materiales considerados peligroso ya sea<br>del tipo sólido, líquido, gaseoso o RESPEL,<br>son enviados con guías de despacho y<br>además se acompaña con registro de<br>Residuos Peligrosos, donde se detalla lo<br>enviado y cantidades; además se aplicará<br>los<br>procedimiento<br>e <br>instructivo<br>de<br>transporte establecidos por Sistema de<br>Gestión<br>Integrado<br>de<br>la<br>empresa,<br>utilizando en todo momento los EPP’s si<br>correspondiera.<br> <br>|
+|<br>Circular Marítima DGTM<br>y MM O-31/015, del 20<br>de Mayo de 1992.|<br>Todo el<br>proyecto|<br> El<br>titular<br>establecerá<br>los<br>procedimientos<br>para<br>obtener<br>la<br>aprobación y certificación de embalajes /<br>envases y recipientes intermedios para<br>gráneles que se utilicen en el transporte<br>marítimo de mercancías peligrosas.<br>|<br> Se mantendrán archivos en el centro de<br>cultivo<br>todos<br>los<br>certificados<br>de<br>aprobación y especificaciones de los tipos<br>de materiales utilizados, se mantendrá<br>información de los proveedores y de las<br>fichas técnicas y de seguridad del<br>producto. Los movimientos de materiales<br>considerados peligroso ya sea del tipo<br>sólido, líquido, gaseoso o RESPEL, son<br>enviados con guías de despacho y además<br>se acompaña con registro de Residuos<br>Peligrosos, donde se detalla lo enviado y<br>cantidades;<br>además<br>se<br>aplicará<br>los<br>Procedimiento e Instructivo de transporte<br>establecidos por Sistema de Gestión<br>Integrado de la empresa, utilizando en<br>todo momento los EPP’s si correspondiera.<br>|
+
+57
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|<br>Decreto Supremo (M)<br>N° 146, del 6 de<br>Febrero de 1987.|<br>Todo el<br>proyecto|<br> El Titular instruirá a su personal técnico<br>y profesional respecto del cumplimiento<br>del Reglamento para la construcción,<br>reparaciones y conservación de las naves<br>mercantes y especiales mayores y de<br>artefactos navales, sus inspecciones y<br>reconocimiento.<br>| Se<br>mantendrá<br>archivada<br>la<br>documentación legal asociada al artefacto<br>naval asignado al centro de cultivo, con<br>especificaciones técnicas, diagrama de las<br>instalaciones,<br>matrículas<br>y <br>normativa<br>vigente que le aplique.|
+|<br>Circular Marítima DGTM<br>Y MM O-71/010, del 5<br>de Diciembre de 2006.|<br>Todo el<br>proyecto| El<br>titular<br>establecerá<br>los<br>procedimientos que establece normas<br>sobre<br>construcción,<br>equipamiento,<br>inspecciones<br>y <br>otras<br>exigencias<br>de<br>seguridad que deben cumplir las naves y<br>artefactos navales menores.<br>| Se<br>mantendrá<br>archivada<br>la<br>documentación legal asociada al artefacto<br>naval asignado al centro de cultivo, con<br>especificaciones técnicas, diagrama de las<br>instalaciones,<br>matrículas<br>y <br>normativa<br>vigente que le aplique.<br>|
+|<br>Circular Marítima DGTM<br>y MM O-63/002, del 15<br>de Enero de 2008.|<br>Todo el<br>proyecto|<br> El Titular aplicará en todo momento la<br>normativa de señalización marítima para<br>balsas-jaulas<br>de<br>cultivos<br>marinos<br>e <br>instalaciones relacionadas.<br>|<br> Se<br>mantendrá<br>la<br>normativa<br>legal<br>vigente relacionada a la señalética de<br>balsas jaulas y plataformas asociada al<br>centro de cultivo; se archivaran registros<br>relacionados al cumplimiento legal en<br>vigor.<br>|
+|Resolución<br>(SERNAPESCA) No<br>2638 de 2008,<br>Programa Sanitario<br>Específico de Vigilancia<br>y Control de la Anemia<br>Infecciosa del Salmón.|Operación|<br> Se establecerán y dispondrán los<br>programas<br>sanitarios<br>generales<br>y <br>específicos, junto con los planes de<br>vigilancia y control del ISA, los cuales<br>incluirán las acciones a implementar en<br>periodos<br>normales,<br>como<br>ante<br>la<br>ocurrencia de algún evento. Se notificará<br>al Servicio, dentro de las 48 horas<br>siguientes, la sospecha fundada de la<br>presencia del virus o de la aparición de<br>un brote, a partir de un informe Médico<br>Veterinario o del resultado positivo de un<br>laboratorio de diagnóstico. Todos los<br>procedimientos<br>se<br>ajustarán<br>a <br>lo<br>señalado en la Res. No 2638 de 2008.<br> Se mantendrá plataforma de ensilaje<br>para tratamiento de la mortalidad del<br>centro conforme a lo dispuesto en la<br>normativa.<br>| Se mantendrá documentación legal y<br>normativa<br>vigente<br>digitalizada<br>a <br>disposición del personal del centro, PSG,<br>PSE,<br>PVS<br>(Programa<br>Veterinario<br>de<br>Salud), Procedimientos e Instructivos<br>relacionados a procesos productivos del<br>centro de cultivo, se registrará cada una<br>de<br>las<br>actividades<br>asociadas,<br>se<br>mantendrán certificados de LLD (limpieza,<br>lavado y desinfección) de las actividades<br>llevadas a cabo en el centro. El personal<br>será capacitado previamente. para realizar<br>actividades de necropsia, ensilaje y LLD.<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.<br> Se dispondrá en forma limpia, ordenada<br>y bajo todas las medidas establecidas de<br>bioseguridad y seguridad para el operador<br>respecto al sistema de ensilaje del centro,<br>ubicado en una plataforma debidamente<br>señalizada, manteniendo las bitácoras de<br>uso,<br>control<br>y <br>manejo<br>de<br>ensilaje<br>actualizadas.<br>|
+
+58
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D. L. No 2.222 de<br>1978. Ley de<br>Navegación, Título IX,<br>de la Contaminación|<br> <br>Operación|<br> En caso de transporte de ácido fórmico<br>por vía marítima, el titular del proyecto<br>presentará los antecedentes establecidos<br>en Circular O-31/015, para obtener la<br>aprobación<br>de<br>la<br>Autoridad.<br>Si<br>el<br>transporte<br>lo<br>efectuara<br>un<br>tercero<br>autorizado, el titular lo informará.<br> <br>|<br> Se<br>mantendrán<br>a <br>disposición<br>del<br>personal del centro un instructivo para<br>uso y manejo del sistema de ensilaje,<br>indicando tablas de aplicación del químico<br>y uso de EPP’s para manipulación,<br>además se dispondrán del plan de<br>contingencia asociado a la actividad. Se<br>realizarán capacitaciones para uso del<br>sistema<br>de<br>ensilaje,<br>registrando<br>la<br>actividad.<br> Para el traslado del químico se utilizará<br>guías de despacho y se aplicará los<br>procedimiento e instructivo de transporte<br>establecidos por Sistema de Gestión<br>Integrado de la empresa, se mantendrán<br>archivos para respaldo en el centro de<br>cultivo.<br>|
+|D.S. N° 1/92 Ministerio<br>de Defensa Nacional,<br>Subsecretaria de<br>Marina,<br>“Reglamento para el<br>Control de la<br>Contaminación<br>acuática”.|Todo el<br>Proyecto|<br> Dentro del desarrollo del proyecto se<br>prohibirá arrojar lastre, escombros o<br>basuras y derramar petróleo o sus<br>derivados o residuos u otras aguas<br>nocivas<br>o <br>peligrosas,<br>de<br>cualquier<br>especie, que puedan ocasionar daños a<br>las aguas sometidas a la jurisdicción<br>nacional.<br>| Se<br>realizarán<br>monitores,<br>chequeos<br>preventivos<br>y <br>controles<br>en<br>forma<br>permanente de la planta de tratamiento<br>asociada al centro, se mantendrán los<br>registros de retiro de lodos y los informes<br>de análisis de muestreos realizada a la<br>planta de tratamiento en el centro de<br>cultivo.<br>|
+|Res. No 2.572/07,<br>Establece la<br>Clasificación de<br>Enfermedades de<br>Alto Riesgo.|Operación| Se tendrá en cuenta las enfermedades<br>de alto riesgo, establecidas en esta<br>resolución.|<br> Se<br>mantendrán<br>los<br>documentos<br>referentes al PVS (Plan Veterinario de<br>Salud), PSG, PSE y se implementará una<br>bitácora<br>de<br>inspección<br>veterinaria<br>asociada<br>a <br>cada<br>visita<br>y <br>manejos<br>sanitarios establecidos durante el ciclo<br>productivo, por el veterinario de la<br>empresa.<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.<br>|
+
+59
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|Res. 60/03 MINECON<br>(SERNAPESCA),<br>Programa<br>Sanitario General de<br>Vacunaciones (PSGV)|Operación|<br> Se realizarán vacunaciones siguiendo<br>los procedimientos establecidos en el<br>manual.<br> Se utilizarán servicios autorizados, y<br>solo aquellas vacunas que se encuentren<br>registradas por el SAG.<br> El<br>uso<br>de<br>vacunas<br>en<br>especies<br>hidrobiológicas,<br>se<br>realizará<br>bajo<br>prescripción<br>médico<br>veterinaria,<br>extendida en conformidad a la ley.<br> Las vacunaciones efectuadas en el<br>centro de cultivo serán anotadas en los<br>registros sanitarios del centro, los cuales<br>deberán<br>señalar,<br>al<br>menos,<br>la<br>enfermedad para la cual se vacunó, fecha<br>de<br>vacunación,<br>lotes<br>inmunizados,<br>número<br>de<br>individuos<br>vacunados,<br>producto utilizado, el laboratorio que<br>comercializa o ensaya el producto, peso<br>promedio de los peces a los cuales se<br>inmunizó y la empresa de vacunaciones<br>que efectuó el manejo, si ésta fuera<br>externa.<br>| Se mantendrán archivos digitales del<br>PVS (Plan Veterinario de Salud), PSG, PSE<br>y se implementará una bitácora de<br>inspección veterinaria asociada a cada<br>visita y manejos sanitarios establecidos<br>durante el ciclo productivo, por el<br>veterinario de la empresa.<br> Solo se trabajará con laboratorios<br>acreditados<br>y <br>certificados<br>para<br>los<br>muestreos<br>y <br>análisis;<br>todos<br>los<br>tratamientos se llevarán a cabo solo con<br>prescripción médica veterinario y solo con<br>vacunas autorizadas por el SAG.|
+|Res. N° 62/03<br>MINECON<br>(SERNAPESCA)<br>Programa<br>Sanitario General de<br>Investigación Oficial de<br>Enfermedades (PSGI)|Operación|<br> Se cumplirá el procedimiento descrito<br>en el presente programa, en caso que<br>ocurra alguna enfermedad o se produzca<br>un hallazgo de agente causante de<br>enfermedad.<br>| Se mantendrán archivos digitales del<br>PVS (Plan Veterinario de Salud), PSG, PSE<br>y se implementará una bitácora de<br>inspección veterinaria asociada a cada<br>visita y manejos sanitarios establecidos<br>durante el ciclo productivo, por el<br>veterinario de la empresa.<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.<br>|
+|Res. N° 67/03<br>MINECON<br>(SERNAPESCA),<br>Programa<br>Sanitario General de<br>Manejo de<br>Enfermedades (PSGE)|Operación|<br> El<br>centro<br>contará<br>con<br>los<br>procedimientos<br>necesarios<br>para<br>el<br>manejo de enfermedades, tales como, un<br>equipo<br>de<br>salud,<br>manual<br>de<br>procedimientos, registros de tratamiento<br>y los demás requerimientos del presente<br>programa.<br>| Se<br>mantendrán<br>la<br>documentación<br>referente al PVS (Plan Veterinario de<br>Salud), PSG, PSE y se implementará una<br>bitácora<br>de<br>inspección<br>veterinaria<br>asociada<br>a <br>cada<br>visita<br>y <br>manejos<br>sanitarios establecidos durante el ciclo<br>productivo, por el veterinario de la<br>empresa.<br> Se dispondrán de todos los planes de<br>contingencia asociados a la actividad<br>productiva del centro, de acuerdo a lo<br>establecido en normativa RAMA-RESA y<br>asociado al Sistema de Gestión Integrado.<br>|
+
+60
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|D.S. N°225/95<br>“Veda para Mamíferos,<br>Aves y Reptiles Marinos|Todo el<br>proyecto|<br> Medidas para prevenir enmalles y<br>capacitación<br>de<br>trabajadores<br>en<br>preservación de animales.<br>|<br>Se mantendrá archivados (en las oficinas<br>del centro de cultivo) los registros de la<br>instrucción respecto de las medidas a<br>adoptar en caso de enmalle o muerte de<br>mamíferos, para el organismo fiscalizador<br>que lo solicite.<br>|
+|D.S No 345/2005<br>REPLA|Operación| Prohibición o restricción de traslado de<br>todo<br>o <br>parte<br>de<br>organismos<br>hidrobiológicos vivos o frescos enfriados,<br>destinados a su uso como carnada.<br> Restricciones al traslado de ejemplares<br>hidrobiológicos y de su medio acuoso en<br>sistema hermético.<br> Restricciones al traslado de elementos,<br>artefactos o estructuras de cultivo, y de<br>artes o aparejos de pesca.<br> Identificación del agente causal.<br> Seguimiento y vigilancia. Esta medida<br>será ejecutada a través del instituto de<br>Fomento<br>Pesquero,<br>mediante<br>el<br>“Programa de Manejo y Monitoreo de las<br>mareas rojas en las regiones de los<br>Lagos, Aysén y Magallanes”.<br> Muestreos puntuales o esporádicos.<br> Contención<br>de<br>Recursos<br>hidrobiológicos.<br> Entrega oportuna de información.<br>|Se mantendrá archivados (en las oficinas<br>del centro de cultivo) los registros de los<br>manejos sanitarios y eventos de<br>contingencia (incluidos brotes<br>epidemiológicos), para el organismo<br>fiscalizador que lo solicite.|
+|la Resolución Exenta<br>(SUBPESCA)<br>No177/2009.<br> <br>|Operación<br>| Si se detecta algún Florecimiento Algal<br>Nocivo<br>(FAN)<br>con<br>presencia<br>de<br>Alexandrium catenella, el centro no<br>realizará ningún tipo de traslado, hasta<br>que no haya presencia de en el cuerpo de<br>agua de la especie mencionada<br>|Se mantendrá archivados (en las oficinas<br>del centro de cultivo) los registros de los<br>manejos sanitarios y eventos de<br>contingencia (incluidos brotes de FAN),<br>para el organismo fiscalizador que lo<br>solicite.<br>|
+|~~Ley N° 19.473/1996~~<br>del Ministerio de<br>Agricultura, Ley de<br>Caza y su reglamento<br>D.S. N° 5/1998 del<br>Ministerio de<br>Agricultura,<br>Reglamento de la Ley<br>de Caza y Reglamento<br>de Caza|Construcción<br>y Operación|<br><br>No se intervendrá la fauna nativa y se<br>capacitará a los trabajadores sobre los<br>cuidados ambientales que deben tener<br>|Se mantendrá registro de las<br>capacitaciones y el listado de<br>participantes|
+|Ley N° 17.288 de<br>Monumentos<br>Nacionales|Construcción<br>Operación|<br>~~No se intervendrá el territorio de la~~<br>Reserva Nacional Las Guaitecas y se<br>mantendrá limpio las costas aledañas al<br>proyecto de los materiales que puedan<br>llegar a ellas producto da la actividad<br>acuícola|Se mantendrá un registro de las<br>campañas de limpieza de costas|
+
+61
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+|NORMATIVA|ETAPA|FORMA DE CUMPLIMIENTO|INDICADOR|
+|---|---|---|---|
+|~~D.S. N° 319/2001~~<br>(MINECON),<br>Reglamento de<br>Medidas de Protección,<br>Control y Erradicación<br>de Enfermedades de<br>Alto Riesgo para las<br>especies<br>Hidrobiológicas<br>|Operación<br>|El proyecto cuenta con un programa<br>sanitario. El titular se someterá al<br>cumplimiento de todas las etapas del<br>proyecto con las exigencias y condiciones<br>impuestas por el presente Reglamento,<br>incluyendo el ensilaje de la mortalidad.<br>|Se mantendrán en el centro los manuales<br>de operación, se realizarán monitoreos y<br>medidas preventivas en forma regular,<br>todas ellas documentadas y archivadas<br>en el mismo centro.<br>|
+
+***** Respecto al DS No 148/03 se señala que no compete realizar un plan de manejo de sustancias
+peligrosas puesto que la generación de residuos peligrosos es inferior a 12 toneladas anuales y no
+existen sustancias clasificadas como crónicas agudas. Sin embargo, los residuos peligrosos
+generados, serán manejados de la siguiente forma:
+
+## 3.1 Residuos Peligrosos generados en centros de cultivo
+
+- Cada vez que se generen residuos peligrosos provenientes de mantenciones periódicas aceites
+usados, cambio de pilas o baterías y otros, deberán ser enviados al acopio transitorio autorizado
+para tal efecto. Estos deberán salir del centro con una guía de despacho indicando los residuos y la
+
+cantidad.
+
+- En el caso de pilas, éstas serán entregadas al técnico a cargo cuando sea necesario para que
+sean repuestas por pilas nuevas. Las baterías una vez que ya no carguen también serán entregadas
+para su reposición.
+
+- Cada vez que se cambien los cartuchos de tinta deberán ser enviados a base.
+
+- Para el caso de los residuos peligrosos (baterías) generados por el centro de cultivo, estos son
+retirados internamente con guía de despacho, los cuales se llevan a distintos centros de acopio
+transitorio que mantiene la empresa, para ser finalmente trasladados a un sitio de acopio definitivo
+que cuenta con la resolución sanitaria correspondiente.
+
+## 3.2 Registros
+
+- El presente procedimiento será registrado en una planilla de Control de Residuos.
+
+62
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+# 4 Permisos Ambientales Sectoriales
+
+Para su ejecución, cada proyecto requiere los siguientes permisos ambientales sectoriales,
+establecidos en el D.S. 40/12 MINSEGPRES “Reglamento del Sistema de Evaluación de Impacto
+
+Ambiental”.
+
+|CUADRO 25. Permiso A|Ambiental Sectorial.|Col3|
+|---|---|---|
+|SEA|Cuerpo Legal|Antecedentes para Otorgar el<br>PAS.|
+|Art. 116 del D.S. N° 40/12<br>|Permiso<br>para<br>realizar<br>actividades de acuicultura, será<br>el establecido en el inciso 3°<br>del artículo 87 del decreto<br>supremo N°430 de 1991, de<br>Ministerio<br>de<br>Economía,<br>Fomento<br>y <br>Reconstrucción,<br>que fija el texto refundido,<br>coordinado y sistematizado de<br>la ley 18.892 de 1989 y sus<br>modificaciones, ley general de<br>pesca y acuicultura.<br>|En el Anexo II se adjuntan los<br>Planes de Contingencia que<br>establecen todas las medidas<br>para minimizar los posibles y<br>eventuales<br>impactos<br>que<br>pudiese ocasionar el proyecto<br>en su etapa de operación En el<br>Anexo<br>IV<br>se<br>adjunta<br>la<br>Caracterización Preliminar de<br>Sitio (CPS) que da cuenta de la<br>situación ambiental de base en<br>el lugar de la concesión.|
+
+63
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)
+
+# 5 Compromisos Ambientales Voluntarios
+
+- No se contemplan compromisos ambientales voluntarios
+
+64
+
+Litoral Austral Ltda.
+
+Inés Gallardo 2129, Pelluco. Puerto Montt
+
+[contacto@litoralaustral.cl](mailto:contacto@litoralaustral.cl)

@@ -1,0 +1,32 @@
+---
+title: Presentación1
+author: Desconocido
+date: D:20231215103618
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|%|%|Col3|Col4|
+|---|---|---|---|
+|20 %<br>20 %|20 %|||
+|20 %<br>20 %||||
+
+|Col1|Col2|
+|---|---|
+|||
+
+|Col1|Col2|Col3|Col4|
+|---|---|---|---|
+|||||
+|||||
+|||||
+|||||
+
+|Col1|REV : A|
+|---|---|
+|Nuevosur|ANTEPROYECTO :<br>_SAN JAVIER_<br>_AGUAS SERVIDAS_<br>_LOTEO PARQUE DEL SOL - ETAPA III-I_<br>_Etapa 1 : 198 Viviendas + 1 Equipamientos + 1 LOCAL C. + 1 PEAS_|
+|INGENIERO PROYECTISTA<br>No PROYECTO<br>ESCALA<br>LAMINA<br>FECHA<br>CONTENIDO :<br>APROBACION NUEVOSUR<br>PROYECTISTA<br>_2 de 2_<br>LAS INDICADAS<br>MAYO 2023<br>PROYECTISTA :ERNESTO MORALES CERONI<br>AVENIDA 30 ORIENTE No1528 OF. 902<br>(71) 2228981<br>emorales@insercol.cl<br>E-MAIL :<br>TELÉFONO :<br>DIRECCIÓN :<br>JEFE NUEVOS CLIENTES<br>NUEVOSUR S.A.<br>ADMINISTRADOR DE PROYECTOS DE TERCEROS<br>NUEVOSUR S.A.<br>CUADRO DE CÁMARAS, CUADRO DE RESUMEN DE CÁMARAS, CUADRO DE CAÑERÍAS, DETALLES|INGENIERO PROYECTISTA<br>No PROYECTO<br>ESCALA<br>LAMINA<br>FECHA<br>CONTENIDO :<br>APROBACION NUEVOSUR<br>PROYECTISTA<br>_2 de 2_<br>LAS INDICADAS<br>MAYO 2023<br>PROYECTISTA :ERNESTO MORALES CERONI<br>AVENIDA 30 ORIENTE No1528 OF. 902<br>(71) 2228981<br>emorales@insercol.cl<br>E-MAIL :<br>TELÉFONO :<br>DIRECCIÓN :<br>JEFE NUEVOS CLIENTES<br>NUEVOSUR S.A.<br>ADMINISTRADOR DE PROYECTOS DE TERCEROS<br>NUEVOSUR S.A.<br>CUADRO DE CÁMARAS, CUADRO DE RESUMEN DE CÁMARAS, CUADRO DE CAÑERÍAS, DETALLES|

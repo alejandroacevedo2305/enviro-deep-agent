@@ -1,0 +1,19 @@
+---
+title: Sin título
+author: Desconocido
+date: D:20180725190157-04'00'
+language: es
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|PLANO DE ELEVACIÓN FRONTAL<br>ESTACIÓN INVERSORA<br>12,00<br>2,6<br>Línea de Suelo<br>DETALLE PLANTA<br>ESTACIÓN INVERSORA<br>12,00<br>5<br>PLANO DE ELEVACIÓN LATERAL<br>ESTACIÓN INVERSORA<br>5<br>DECLARACIÓN DE IMPACTO<br>AMBIENTAL PARQUE SOLAR<br>FOTOVOLTAICO NEGREIROS 2,6<br>PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN<br>ESCALA :Unidades expresadas en metros<br>Elaboró : LRV<br>Línea de Suelo Unidades de Medida: Metros Reviso : RS<br>Reviso : MBR<br>Fecha: Junio, 2021.|Col2|Col3|
+|---|---|---|
+|12,00<br>2,6<br>5<br>**PLANO DE ELEVACIÓN FRONTAL**<br>**ESTACIÓN INVERSORA**<br>**DETALLE PLANTA**<br>**ESTACIÓN INVERSORA**<br>12,00<br>2,6<br>**PLANO DE ELEVACIÓN LATERAL**<br>**ESTACIÓN INVERSORA**<br>5<br>Línea de Suelo<br>Línea de Suelo<br>**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**<br>PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN<br>Fecha: Junio, 2021.<br>Elaboró<br>:<br>Reviso<br>:<br>RS<br>Reviso<br>:<br>MBR<br>Unidades de Medida: Metros<br>LRV<br>ESCALA :Unidades expresadas en metros|**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**|**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**|
+|12,00<br>2,6<br>5<br>**PLANO DE ELEVACIÓN FRONTAL**<br>**ESTACIÓN INVERSORA**<br>**DETALLE PLANTA**<br>**ESTACIÓN INVERSORA**<br>12,00<br>2,6<br>**PLANO DE ELEVACIÓN LATERAL**<br>**ESTACIÓN INVERSORA**<br>5<br>Línea de Suelo<br>Línea de Suelo<br>**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**<br>PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN<br>Fecha: Junio, 2021.<br>Elaboró<br>:<br>Reviso<br>:<br>RS<br>Reviso<br>:<br>MBR<br>Unidades de Medida: Metros<br>LRV<br>ESCALA :Unidades expresadas en metros|PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN|PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN|
+|12,00<br>2,6<br>5<br>**PLANO DE ELEVACIÓN FRONTAL**<br>**ESTACIÓN INVERSORA**<br>**DETALLE PLANTA**<br>**ESTACIÓN INVERSORA**<br>12,00<br>2,6<br>**PLANO DE ELEVACIÓN LATERAL**<br>**ESTACIÓN INVERSORA**<br>5<br>Línea de Suelo<br>Línea de Suelo<br>**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**<br>PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN<br>Fecha: Junio, 2021.<br>Elaboró<br>:<br>Reviso<br>:<br>RS<br>Reviso<br>:<br>MBR<br>Unidades de Medida: Metros<br>LRV<br>ESCALA :Unidades expresadas en metros|ESCALA :Unidades expresadas en metros|ESCALA :Unidades expresadas en metros|
+|12,00<br>2,6<br>5<br>**PLANO DE ELEVACIÓN FRONTAL**<br>**ESTACIÓN INVERSORA**<br>**DETALLE PLANTA**<br>**ESTACIÓN INVERSORA**<br>12,00<br>2,6<br>**PLANO DE ELEVACIÓN LATERAL**<br>**ESTACIÓN INVERSORA**<br>5<br>Línea de Suelo<br>Línea de Suelo<br>**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**<br>PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN<br>Fecha: Junio, 2021.<br>Elaboró<br>:<br>Reviso<br>:<br>RS<br>Reviso<br>:<br>MBR<br>Unidades de Medida: Metros<br>LRV<br>ESCALA :Unidades expresadas en metros|Unidades de Medida: Metros|Elaboró<br>:<br>Reviso<br>:<br>RS<br>Reviso<br>:<br>MBR<br>LRV|
+|12,00<br>2,6<br>5<br>**PLANO DE ELEVACIÓN FRONTAL**<br>**ESTACIÓN INVERSORA**<br>**DETALLE PLANTA**<br>**ESTACIÓN INVERSORA**<br>12,00<br>2,6<br>**PLANO DE ELEVACIÓN LATERAL**<br>**ESTACIÓN INVERSORA**<br>5<br>Línea de Suelo<br>Línea de Suelo<br>**DECLARACIÓN DE IMPACTO**<br>**AMBIENTAL PARQUE SOLAR**<br>**FOTOVOLTAICO NEGREIROS**<br>PLANTAS DE ARQUITECTURA Y SILUETASDE<br>ELEVACIÓN<br>Fecha: Junio, 2021.<br>Elaboró<br>:<br>Reviso<br>:<br>RS<br>Reviso<br>:<br>MBR<br>Unidades de Medida: Metros<br>LRV<br>ESCALA :Unidades expresadas en metros||Fecha: Junio, 2021.|

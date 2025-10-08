@@ -1,0 +1,32 @@
+---
+title: Actros 4144 K
+author: Desconocido
+date: D:20140707135637-04'00'
+language: es
+type: general
+pages: 2
+has_toc: True
+has_tables: False
+extraction_quality: high
+---
+
+www.kaufmann.cl
+
+**ACTROS 4144K Euro IV**
+
+**VENTAS: AV. GLADYS MARÍN 5830. ESTACIÓN CENTRAL - SANTIAGO. TELÉFONO: (02) 2720 2000 - VENTAS: (02) 2720 2842**
+
+SUCURSALES: Arica, Iquique, Calama, Antofagasta, Copiapó, La Serena, Valparaíso, Curicó, Talca, Linares, Chillán, Rancagua, Concepción, Los Angeles,
+Temuco, Valdivia, Castro, Osorno, Llanquihue y Punta Arenas.
+SUCURSALES SANTIAGO: Nos, Quilicura, Vicuña Mackenna **servicioclientes@kaufmann.cl**
+
+ACTROS 4144K Euro IV
+
+Con EPS II el conductor puede acoplar las marchas de forma cómoda y sin esfuerzo, lo que
+repercute en su estado físico. Al mismo tiempo, una selección de marchas óptima proporciona
+un modo de conducir económico y reduce el consumo de combustible
+
+DIMENSIONES (mm)
+
+Mercedes-Benz se reserva el derecho de cambiar las especificaciones de sus productos sin previo aviso.
+Fotos pueden incluir opcionales. **www.kaufmann.cl**

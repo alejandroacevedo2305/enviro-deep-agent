@@ -1,0 +1,51 @@
+---
+title: Sin título
+author: María José Vásquez
+date: D:20220902205527-04'00'
+language: es
+type: general
+pages: 5
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Ficha de registro Arqueológico|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|** Nombre**|Comahue 94|Comahue 94|Comahue 94|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|Rasgo lineal|Rasgo lineal|
+|** Región**|Antofagasta|Antofagasta|Antofagasta|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|
+|** Provincia**|Antofagasta|Antofagasta|Antofagasta|**Punto**|**Punto**|**Punto**|**UTM E**|**UTM E**|**UTM N**|
+|** Comuna**|Antofagasta|Antofagasta|Antofagasta|Inicio (Intersección<br>con Comahue 96)|Inicio (Intersección<br>con Comahue 96)|Inicio (Intersección<br>con Comahue 96)|375543|375543|7399157|
+|**Sector proyecto**|Área agua 4<br>Camino de acceso|Área agua 4<br>Camino de acceso|Área agua 4<br>Camino de acceso|Cambio dirección|Cambio dirección|Cambio dirección|375431|375431|7399051|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso|Intersección con<br>Área de agua 4|Intersección con<br>Área de agua 4|Intersección con<br>Área de agua 4|375315|375315|7399049|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso|Corte (sólo en<br>registro)|Corte (sólo en<br>registro)|Corte (sólo en<br>registro)|374765|374765|7398890|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso|Continuación (luego<br>de corte)|Continuación (luego<br>de corte)|Continuación (luego<br>de corte)|374726|374726|7398890|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso|Cruce con Camino<br>de acceso|Cruce con Camino<br>de acceso|Cruce con Camino<br>de acceso|373981|373981|7398901|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso|Interrupción por<br>camino|Interrupción por<br>camino|Interrupción por<br>camino|373612|373612|7398937|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso|Final registro|Final registro|Final registro|373465|373465|7398925|
+|**Dimensiones**|2,3 metros de<br>ancho<br>2,2 km de largo|2,3 metros de<br>ancho<br>2,2 km de largo|2,3 metros de<br>ancho<br>2,2 km de largo|**Altitud**|624|624|624|624|624|
+|**Tipología General**|**Tipología General**|**Tipología General**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Cronología estimada**|**Cronología estimada**|
+|Vialidad|Vialidad|Vialidad|Superficial|Superficial|Superficial|Superficial|Superficial|Histórico|Histórico|
+|**Emplazamiento**|**Emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Cubierta vegetacional**|**Cubierta vegetacional**|**Cubierta vegetacional**|**Cubierta vegetacional**|
+|Cielo abierto|Cielo abierto|Llanura|Llanura|Llanura|Llanura|Sin cubierta|Sin cubierta|Sin cubierta|Sin cubierta|
+|**Evidencias Muebles**|**Evidencias Muebles**|**Evidencias Muebles**|**Evidencias Muebles**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|
+|Sin materiales asociados|Sin materiales asociados|Sin materiales asociados|Sin materiales asociados|Huella de carreta de 3 surcos. Incorpora huella<br>Comahue 107, ya que forman el mismo rasgo lineal. Al<br>registrarlas durante la prospección inicial no se<br>observó la continuidad entre ambas.<br>En su límite este intersecta con Comahue 96, cruza las<br>obras área de agua 4 y el camino de acceso. Además,<br>sufre intermitencias por caminos existentes. La<br>distancia entre ambos tramos (Comahue 94 y<br>Comahue 107) es de 39 metros, pero según lo<br>observado en gabinete se conectan y en terreno se<br>verifica que continúan sin hacer el registro ya que está<br>fuera del área de influencia.<br>En su límite oeste se observa que continúa, en<br>gabinete se observa que conecta con Comahue 23 o<br>Comahue 22)<br>Se extiende en dirección Noreste/Suroeste por 2,2<br>kilómetros.|Huella de carreta de 3 surcos. Incorpora huella<br>Comahue 107, ya que forman el mismo rasgo lineal. Al<br>registrarlas durante la prospección inicial no se<br>observó la continuidad entre ambas.<br>En su límite este intersecta con Comahue 96, cruza las<br>obras área de agua 4 y el camino de acceso. Además,<br>sufre intermitencias por caminos existentes. La<br>distancia entre ambos tramos (Comahue 94 y<br>Comahue 107) es de 39 metros, pero según lo<br>observado en gabinete se conectan y en terreno se<br>verifica que continúan sin hacer el registro ya que está<br>fuera del área de influencia.<br>En su límite oeste se observa que continúa, en<br>gabinete se observa que conecta con Comahue 23 o<br>Comahue 22)<br>Se extiende en dirección Noreste/Suroeste por 2,2<br>kilómetros.|Huella de carreta de 3 surcos. Incorpora huella<br>Comahue 107, ya que forman el mismo rasgo lineal. Al<br>registrarlas durante la prospección inicial no se<br>observó la continuidad entre ambas.<br>En su límite este intersecta con Comahue 96, cruza las<br>obras área de agua 4 y el camino de acceso. Además,<br>sufre intermitencias por caminos existentes. La<br>distancia entre ambos tramos (Comahue 94 y<br>Comahue 107) es de 39 metros, pero según lo<br>observado en gabinete se conectan y en terreno se<br>verifica que continúan sin hacer el registro ya que está<br>fuera del área de influencia.<br>En su límite oeste se observa que continúa, en<br>gabinete se observa que conecta con Comahue 23 o<br>Comahue 22)<br>Se extiende en dirección Noreste/Suroeste por 2,2<br>kilómetros.|Huella de carreta de 3 surcos. Incorpora huella<br>Comahue 107, ya que forman el mismo rasgo lineal. Al<br>registrarlas durante la prospección inicial no se<br>observó la continuidad entre ambas.<br>En su límite este intersecta con Comahue 96, cruza las<br>obras área de agua 4 y el camino de acceso. Además,<br>sufre intermitencias por caminos existentes. La<br>distancia entre ambos tramos (Comahue 94 y<br>Comahue 107) es de 39 metros, pero según lo<br>observado en gabinete se conectan y en terreno se<br>verifica que continúan sin hacer el registro ya que está<br>fuera del área de influencia.<br>En su límite oeste se observa que continúa, en<br>gabinete se observa que conecta con Comahue 23 o<br>Comahue 22)<br>Se extiende en dirección Noreste/Suroeste por 2,2<br>kilómetros.|Huella de carreta de 3 surcos. Incorpora huella<br>Comahue 107, ya que forman el mismo rasgo lineal. Al<br>registrarlas durante la prospección inicial no se<br>observó la continuidad entre ambas.<br>En su límite este intersecta con Comahue 96, cruza las<br>obras área de agua 4 y el camino de acceso. Además,<br>sufre intermitencias por caminos existentes. La<br>distancia entre ambos tramos (Comahue 94 y<br>Comahue 107) es de 39 metros, pero según lo<br>observado en gabinete se conectan y en terreno se<br>verifica que continúan sin hacer el registro ya que está<br>fuera del área de influencia.<br>En su límite oeste se observa que continúa, en<br>gabinete se observa que conecta con Comahue 23 o<br>Comahue 22)<br>Se extiende en dirección Noreste/Suroeste por 2,2<br>kilómetros.|Huella de carreta de 3 surcos. Incorpora huella<br>Comahue 107, ya que forman el mismo rasgo lineal. Al<br>registrarlas durante la prospección inicial no se<br>observó la continuidad entre ambas.<br>En su límite este intersecta con Comahue 96, cruza las<br>obras área de agua 4 y el camino de acceso. Además,<br>sufre intermitencias por caminos existentes. La<br>distancia entre ambos tramos (Comahue 94 y<br>Comahue 107) es de 39 metros, pero según lo<br>observado en gabinete se conectan y en terreno se<br>verifica que continúan sin hacer el registro ya que está<br>fuera del área de influencia.<br>En su límite oeste se observa que continúa, en<br>gabinete se observa que conecta con Comahue 23 o<br>Comahue 22)<br>Se extiende en dirección Noreste/Suroeste por 2,2<br>kilómetros.|
+|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|
+|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|
+|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|
+|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|
+
+|Col1|En el tramo del rasgo que cruza el camino de acceso,<br>la huella es muy visible al, pero a medida que avanza<br>hacia el oeste, se observa notoriamente el deterioro<br>del rasgo.<br>Presencia de escorrentías que provocan alteraciones<br>en el rasgo.|Col3|
+|---|---|---|
+|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Registra:**Pablo Calfuqueo <br> Surimana Concha|
+|**Observaciones**|**Observaciones**|**Observaciones**|
+|Llega al punto que se conoce como Comahue 107, siendo parte de la misma huella|Llega al punto que se conoce como Comahue 107, siendo parte de la misma huella|Llega al punto que se conoce como Comahue 107, siendo parte de la misma huella|
+|**Fotografías**|**Fotografías**|**Fotografías**|
+|<br>Inicio, intersección con Comahue 96, vista hacia el Suroeste<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|<br>Inicio, intersección con Comahue 96, vista hacia el Suroeste<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|<br>Inicio, intersección con Comahue 96, vista hacia el Suroeste<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>|
+
+Vista desde final de tramo Comahue 94. Se observa que rasgo continúa y conecta con
+
+Comahue 107, siendo la misma huella.
+
+Vista hacia el interior del tramo de Comahue 94 (tramo identificado iniciamente como
+Comahue 107). Vista hacia el sureste, final del registro, pero rasgo continúa hacia el oeste.

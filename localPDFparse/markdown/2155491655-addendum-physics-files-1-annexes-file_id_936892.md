@@ -1,0 +1,38 @@
+---
+title: Sin título
+author: María José Vásquez
+date: D:20220902205630-04'00'
+language: es
+type: general
+pages: 2
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Ficha de registro Arqueológico|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|
+|---|---|---|---|---|---|---|---|---|---|---|
+|** Nombre**|Comahue 101|Comahue 101|Comahue 101|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|**Tipo de hallazgo**|Rasgo lineal|Rasgo lineal|
+|** Región**|Antofagasta|Antofagasta|Antofagasta|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|**Coordenadas**|
+|** Provincia**|Antofagasta|Antofagasta|Antofagasta|**Punto**|**Punto**|**Punto**|**Punto**|**UTM E**|**UTM E**|**UTM N**|
+|** Comuna**|Antofagasta|Antofagasta|Antofagasta|Inicio|Inicio|Inicio|Inicio|373462|373462|7401734|
+|**Sector proyecto**||||Fin|Fin|Fin|Fin|373380|373380|7401695|
+|**Uso del suelo**|Sin uso|Sin uso|Sin uso||||||||
+|**Dimensiones**|2,4 m de ancho<br>90 m de largo|2,4 m de ancho<br>90 m de largo|2,4 m de ancho<br>90 m de largo|**Altitud**|**Altitud**|742|742|742|742|742|
+|**Tipología General**|**Tipología General**|**Tipología General**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Potencial Estratigráfico**|**Cronología estimada**|**Cronología estimada**|
+|Huella de carreta|Huella de carreta|Huella de carreta|Superficial|Superficial|Superficial|Superficial|Superficial|Superficial|Histórico|Histórico|
+|**Emplazamiento**|**Emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Geoforma del emplazamiento**|**Cubierta vegetacional**|**Cubierta vegetacional**|**Cubierta vegetacional**|**Cubierta vegetacional**|
+|Cielo abierto|Cielo abierto|Llanura|Llanura|Llanura|Llanura|Llanura|Sin cubierta|Sin cubierta|Sin cubierta|Sin cubierta|
+|**Evidencias Muebles**|**Evidencias Muebles**|**Evidencias Muebles**|**Evidencias Muebles**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|**Descripción**|
+|Sin material asociado|Sin material asociado|Sin material asociado|Sin material asociado|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|Huella de carreta de 3 surcos. Se extiende en dirección<br>Noreste/Suroeste por 90 metros, cercano a Comahue<br>132 (campamento). Se registra sólo al interior del<br>polígono, en su límite oeste se pierde en una quebrada<br>con alta intervención. Mientras que en su límite este al<br>salir del polígono se superpone una huella vehicular<br>que no permite identificar la continuidad de la huella.|
+|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|**Evidencias Inmuebles**|
+|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|Huella de carreta|
+|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|**Estado de conservación**|
+|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|Regular a malo|
+|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Fecha:**02.08.2022|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|**Registra:**Pablo Calfuqueo|
+|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|**Observaciones**|
+|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|Se observa intervención de camino de vehículos|
+|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|**Fotografías**|
+|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|<br>Inicio, Vista hacia el Suroeste|
+
+Fin, vista hacia el Suroeste

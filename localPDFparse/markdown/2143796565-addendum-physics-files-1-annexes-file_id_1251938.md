@@ -1,0 +1,31 @@
+---
+title: TO FUTRONO
+author: Desconocido
+date: D:20190809154630
+language: unknown
+type: general
+pages: 1
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|E E E E E E<br>721400 721600 721800 722000 722200 722400<br>5556400 N|722600 E 722800 E 723000 E 723200 E 723400 E 723600 E|723800 E 724000 E|5556400 N|
+|---|---|---|---|
+|5556200 N|V100<br>V099<br>98<br>V001||5556200 N|
+|5556000 N|V0<br>V097<br>V096<br>V002||5556000 N|
+|5555800 N|V095<br>V004<br>V003||5555800 N|
+|5555600 N|V094<br>V093<br>V092||5555600 N|
+|5555400 N<br>05|V091<br>V0||5555400 N|
+||V090<br>V089|||
+|5555000 N<br>5555200 N<br>V008<br>V007<br>V006|V087<br>V088<br>077<br>V081<br>V080||5555000 N<br>5555200 N|
+|5554800 N<br><br>V015|V076<br>V075<br>V<br><br>V083<br>V082<br>V079<br>V084<br>V085||5554800 N<br>|
+|5554600 N<br><br>V031<br>V030<br>V029<br><br>V019<br>V018<br>V017<br>V016|~~Sector Padre~~<br>'WR1
+<br>Fecha Dto. :25<br>V074<br>V086<br>V078|~~icardo~~<br>/04/2017|5554600 N<br>|
+|V035<br>V034<br>V033<br>V032<br><br>V028<br>V027<br>V026<br>V025<br>V024<br>V023<br>V022<br>V021<br>V020||||
+|5554200 N<br>5554400 N<br>V039<br>V038<br>V037<br>V036|V073<br>V072<br>V071<br>068<br>V040||5554200 N<br>5554400 N|
+|5554000 N<br>041|V070<br>V069<br>V<br>V067<br>V066<br>V065<br>V0<br>V06<br>||5554000 N|
+|5553800 N<br>043<br>V042<br>V|V064<br>63<br>V062<br>1<br>V058<br>V056<br>V055||5553800 N|
+|5553600 N<br>V054<br>V|V060<br>V059||5553600 N|
+|V053<br>052<br>8<br>V047<br>V046<br>V045<br>V044||||
+|721400 E<br>721600 E<br>721800 E<br>722000 E<br>722200 E<br>722400 E<br>5553400 N<br>V<br>V051<br>V050<br>V049<br>V04|722600 E<br>722800 E<br>723000 E<br>723200 E<br>723400 E<br>723600 E<br>|723800 E<br>724000 E|5553400 N|

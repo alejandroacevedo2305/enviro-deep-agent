@@ -1,0 +1,25 @@
+---
+title: Layout1
+author: Desconocido
+date: D:20210825184414
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|.5 0 1|Col2|
+|---|---|
+|10<br>9.5<br>8.5<br>8|9<br>10|
+|7.5<br>7<br>7<br>6<br>-93|9<br>7<br>7<br>6.5<br>6|
+|7.5|6<br>6.5<br>7.5<br>9<br>9.5<br>10|
+|6<br>6.5<br>7<br>7|5.5|
+
+|Col1|Col2|PROYECTO<br>NUEVA LINEA 2x66 KV NUEVA VALDIVIA-PICARTE,TENDIDO DEL PRIMER CIRCUITO|Col4|
+|---|---|---|---|
+|||UBICACIÓN<br>COMUNA DE VALDIVIA,PROVINCIA DE VALDIVIA,REGION DE LOS RÍOS|UBICACIÓN<br>COMUNA DE VALDIVIA,PROVINCIA DE VALDIVIA,REGION DE LOS RÍOS|
+|||CONTENIDO<br>SITUACIÓN CON PROYECTO: PLANTA, SECCIONES, MANCHAS DE INUNDACIÓN|CONTENIDO<br>SITUACIÓN CON PROYECTO: PLANTA, SECCIONES, MANCHAS DE INUNDACIÓN|
+|REVISION<br>|24/08/202|ESCALA<br>FECHA<br>INDICADAS<br>AGOSTO 2021<br>CALCULÓ<br>DIBUJÓ<br>H.S.F<br>R.A.A.<br>REVI<br>1|SÓ<br>CÓDIGO<br>LÁMINA<br>REV.<br>2 DE 2<br>A<br>I.P.C<br>STS1102<br>17.406.970-0|
+|REVISION<br>|FECHA|FECHA|FECHA|

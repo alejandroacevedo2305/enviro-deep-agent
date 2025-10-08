@@ -1,0 +1,49 @@
+---
+title: Sin título
+author: yaghan consultora ambiental spa
+date: D:20211215113034-03'00'
+language: es
+type: general
+pages: 3
+has_toc: False
+has_tables: True
+extraction_quality: high
+---
+
+|Ficha de Elementos patrimoniales|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Proyecto**|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|Planta Fotovoltaica Chungungo|
+|**Categoría sitio**|Sitio arqueológico|Sitio arqueológico|Sitio arqueológico|Sitio arqueológico|**Código GPS**|**Código GPS**|**Código GPS**|**Código GPS**|**Código GPS**|**Código GPS**|**CH-TL-03**|**CH-TL-03**|**CH-TL-03**|**CH-TL-03**|
+|**Región**|Antofagasta|Antofagasta|Antofagasta|Antofagasta|**Provincia**|**Provincia**|**Provincia**|**Provincia**|**Provincia**|**Provincia**|Antofagasta|Antofagasta|Antofagasta|Antofagasta|
+|**Comuna**|Taltal|Taltal|Taltal|Taltal|**Ciudad o Pueblo**|**Ciudad o Pueblo**|**Ciudad o Pueblo**|**Ciudad o Pueblo**|**Ciudad o Pueblo**|**Ciudad o Pueblo**|Taltal|Taltal|Taltal|Taltal|
+|**Dirección**|N-S|N-S|N-S|N-S|**Huso**|**Huso**|**Huso**|**Huso**|19 J|19 J|**Datum**|**Datum**|**Datum**|WGS84|
+|**Rumbo**|-|-|-|**Altura**|**Altura**|**Altura**|1784 m.s.n.m.|1784 m.s.n.m.|1784 m.s.n.m.|1784 m.s.n.m.|**Fecha**|**Fecha**|**Fecha**|09.04.2021|
+|**Coordenada**<br>**central**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Este (x)**|**UTM Norte (y)**|**UTM Norte (y)**|**UTM Norte (y)**|**UTM Norte (y)**|
+|**Coordenada**<br>**central**|417850|417850|417850|417850|417850|417850|417850|417850|417850|417850|7148793|7148793|7148793|7148793|
+|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|**Descripción ambiental del emplazamiento**|
+|**Geoformas del**<br>**emplazamiento**|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|Planicie desértica|**Pendiente**|**Pendiente**|**Pendiente**|Leve-moderada|
+|**Cubierta**<br>**Vegetacional**|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|Escasa o nula|**Cobertura**<br>**espacial**|**Cobertura**<br>**espacial**|**Cobertura**<br>**espacial**||
+|**Matriz**|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|Arena fina, color amarillo.|
+|**Visibilidad**|Alta|Alta|Alta|**Accesibilidad**|**Accesibilidad**|**Accesibilidad**|**Accesibilidad**|Alta|Alta|Alta|**Obstrusividad**|**Obstrusividad**|**Obstrusividad**|Baja|
+|**Uso de Suelo**|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|Sin uso|
+|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|**Evidencias Culturales**|
+|**Tipo de Sitio**|Evento de Talla|Evento de Talla|Evento de Talla|Evento de Talla|**Funcionalidad**|**Funcionalidad**|**Funcionalidad**|**Funcionalidad**|**Funcionalidad**|productivo|productivo|productivo|productivo|productivo|
+|**Descripción del**<br>**sitio**|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|Evento de talla caracterizado por lascas, laminas y trozos angulares donde se<br>contabilizan a lo menos 12, estas corresponden a la misma materia prima de color<br>burdeo rojizo. Esta concentración tiene una dimensión aproximada de 100 x 100 cm.|
+|**Superficie**|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|**Puntos**<br>**Asociados**|**Punto**|**Punto**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Este**|**UTM Norte**|**UTM Norte**|**UTM Norte**|
+|**Puntos**<br>**Asociados**|||||||||||||||
+|**Puntos**<br>**Asociados**|||||||||||||||
+|**Puntos**<br>**Asociados**|||||||||||||||
+|**Potencial Estratigráfico**|**Potencial Estratigráfico**|Superficial|Superficial|Superficial|Superficial|**Componentes culturales**|**Componentes culturales**|**Componentes culturales**|**Componentes culturales**|**Componentes culturales**|**Componentes culturales**|**Componentes culturales**|||
+|**Período (s)**|prehispánico|prehispánico|prehispánico|prehispánico|prehispánico|**Período específico**|**Período específico**|**Período específico**|**Período específico**|**Período específico**|**Período específico**|indeterminado|indeterminado|indeterminado|
+|**Estado de Conservación**|**Estado de Conservación**|**Estado de Conservación**|Regular-<br>malo|Regular-<br>malo|Regular-<br>malo|**Origen**|**Origen**|**Origen**|**Origen**|**Origen**|**Origen**|Antrópico|Antrópico|Antrópico|
+|**Registrado por**|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|Valeska Torres|
+||||||||||||||||
+
+**Fotografías**
+
+_Fotografía 1: Vista general hacia el norte de hallazgo CH-TL-03._
+
+_Fotografía 2: Vista en detalle de lascas en sitio CH-LT-03._
+
+_Fotografía 3: Vista en detalle de lascas presentes en CH-LT-03._

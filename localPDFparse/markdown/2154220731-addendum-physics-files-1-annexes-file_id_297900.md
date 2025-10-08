@@ -1,0 +1,1270 @@
+---
+title: 1
+author: Laufer
+date: D:20180315181453+01'00'
+language: es
+type: general
+pages: 20
+has_toc: True
+has_tables: False
+extraction_quality: high
+---
+
+<!-- ESTRUCTURA DEL DOCUMENTO -->
+<!-- Este documento contiene las siguientes secciones principales:
+  - SECCIÓN 11. Información toxicológica
+-->
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Fecha de revisión 14.03.2018 Versión 10.3
+
+SECCIÓN 1. Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1 Identificador del producto
+
+Artículo número 109986
+
+Denominación Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Número de registro REACH Este producto es una mezcla. Número de registro REACH véase
+
+sección 3.
+
+1.2 Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+
+Usos identificados Análisis químico
+
+Para informaciones adicionales a usos refiérase al portal Merck
+
+Chemicals (www.merckgroup.com; for USA/Canada
+
+www.emdgroup.com).
+
+1.3 Datos del proveedor de la ficha de datos de seguridad
+
+Compañía Merck S.A. * Francisco de Paula Taforó 1981 * Casilla 48D * 7780349
+
+Santiago de Chile * Chile * Tel.: +5623400000 * Fax: +5623400199 *
+
+e-mail: prodsafe@merckgroup.com
+
+1.4 Teléfono de emergencia Centro Toxicológico CITUC: En caso de intoxicación: 56-2-6353800 *
+
+En caso de emergencia química: 56-2-2473600 * Casilla 114-D,
+
+Santiago * Chile * Calle: Marcoleta 367, Santiago * Chile * e-mail:
+
+cituc@med.puc.cl
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 1 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+SECCIÓN 2. Identificación de los peligros
+
+2.1 Clasificación de la sustancia o de la mezcla
+
+Clasificación (REGLAMENTO (CE) No 1272/2008)
+
+Sensibilización respiratoria, Categoría 1, H334
+
+Sensibilización cutánea, Categoría 1, H317
+
+Mutagenicidad en células germinales, Categoría 2, H341
+
+Carcinogenicidad, Categoría 1B, H350i
+
+Toxicidad para la reproducción, Categoría 1B, H360F
+
+Toxicidad acuática crónica, Categoría 2, H411
+
+Para el texto integro de las Declaraciones-H mencionadas en esta sección, véase la Sección 16.
+
+2.2 Elementos de la etiqueta
+
+Etiquetado (REGLAMENTO (CE) No 1272/2008)
+
+Pictogramas de peligro
+
+Palabra de advertencia
+
+Peligro
+
+Indicaciones de peligro
+
+H360F Puede perjudicar a la fertilidad.
+
+H317 Puede provocar una reacción alérgica en la piel.
+
+H334 Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación.
+
+H341 Se sospecha que provoca defectos genéticos.
+
+H411 Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+
+H350i Puede provocar cáncer por inhalación.
+
+Consejos de prudencia
+
+Prevención
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 2 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+P201 Solicitar instrucciones especiales antes del uso.
+
+P273 Evitar su liberación al medio ambiente.
+
+P280 Llevar guantes de protección.
+
+Intervención
+
+P302 + P352 EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y jabón abundantes.
+
+P304 + P340 EN CASO DE INHALACIÓN: Transportar a la víctima al exterior y mantenerla en reposo
+
+en una posición confortable para respirar.
+
+P342 + P311 En caso de síntomas respiratorios: Llamar a un CENTRO DE TOXICOLOGÍA/médico.
+
+Reservado exclusivamente a usuarios profesionales.
+
+Etiquetado reducido (≤125 ml)
+
+Pictogramas de peligro
+
+Palabra de advertencia
+
+Peligro
+
+Indicaciones de peligro
+
+H350i Puede provocar cáncer por inhalación.
+
+H360F Puede perjudicar a la fertilidad.
+
+H317 Puede provocar una reacción alérgica en la piel.
+
+H334 Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación.
+
+H341 Se sospecha que provoca defectos genéticos.
+
+Consejos de prudencia
+
+P201 Solicitar instrucciones especiales antes del uso.
+
+P280 Llevar guantes de protección.
+
+P302 + P352 EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y jabón abundantes.
+
+P304 + P341 EN CASO DE INHALACIÓN: Si respira con dificultad, transportar a la víctima al exterior y mantenerla en
+
+reposo en una posición confortable para respirar.
+
+P308 + P313 EN CASO DE exposición manifiesta o presunta: Consultar a un médico.
+
+Contiene: Cobaltdichlorid
+
+2.3 Otros peligros
+
+Ninguno conocido.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 3 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+SECCIÓN 3. Composición/ información sobre los componentes
+
+Naturaleza química Solución acuosa
+
+3.1 Sustancia
+
+No aplicable
+
+3.2 Mezcla
+
+Componentes peligrosos (REGLAMENTO (CE) No 1272/2008)
+
+Nombre químico(Concentración)
+
+No. CAS Número de registro Clasificación
+
+Cobaltdichlorid (>= 1% - < 2,5% )
+
+7646-79-9 *)
+
+Toxicidad aguda, Categoría 4, H302
+
+Lesiones oculares graves, Categoría 1, H318
+
+Sensibilización respiratoria, Categoría 1, H334
+
+Sensibilización cutánea, Categoría 1, H317
+
+Mutagenicidad en células germinales, Categoría 2, H341
+
+Carcinogenicidad, Categoría 1B, H350i
+
+Toxicidad para la reproducción, Categoría 1B, H360F
+
+Toxicidad acuática aguda, Categoría 1, H400
+
+Toxicidad acuática crónica, Categoría 1, H410
+
+Factor-M: 10
+
+*) No hay disponible un número de registro para esta sustancia, ya que la s ustancia o su uso están exentos del registro; según el
+
+artículo 2 del Re glamento REACH (CE) núm. 1097/2006, el tonelaje anual no requiere regist ro o dicho registro está previsto para una
+
+fecha posterior.
+
+Para el texto integro de las Declaraciones-H mencionadas en esta sección, véase la Sección 16.
+
+SECCIÓN 4. Primeros auxilios
+
+4.1 Descripción de los primeros auxilios
+
+Recomendaciones generales
+
+El socorrista necesita protegerse a si mismo.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 4 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Tras inhalación: aire fresco. Llamar al médico.
+
+En caso de contacto con la piel: Quitar inmediatamente todas las prendas contaminadas.
+
+Aclararse la piel con agua/ducharse. Consultar a un médico.
+
+Tras contacto con los ojos: aclarar con abundante agua. Consultar al oftalmólogo. Retirar las
+
+lentillas.
+
+Tras ingestión: hacer beber agua inmediatamente (máximo 2 vasos). Consultar a un médico.
+
+4.2 Principales síntomas y efectos, agudos y retardados
+
+efectos irritantes, Reacciones alérgicas
+
+Síntomas de una intoxicación aguda de cobalto: descomposición, pérdida del apetito,
+
+descenso de la temperatura corporal y de la tensión sanguínea. Efecto tóxico sobre los
+
+riñones (albuminuria, anuria), corazón y páncreas.
+
+4.3 Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse
+
+inmediatamente
+
+No hay información disponible.
+
+SECCIÓN 5. Medidas de lucha contra incendios
+
+5.1 Medios de extinción
+
+Medios de extinción apropiados
+
+Usar medidas de extinción que sean apropiadas a las circunstancias del local y a sus
+
+alrededores.
+
+Medios de extinción no apropiados
+
+No existen limitaciones de agentes extinguidores para esta sustancia/mez cla.
+
+5.2 Peligros específicos derivados de la sustancia o la mezcla
+
+No combustible.
+
+Posibilidad de formación de vapores peligrosos por incendio en el entorno.
+
+5.3 Recomendaciones para el personal de lucha contra incendios
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 5 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Equipo de protección especial para el personal de lucha contra incendios
+
+Permanencia en el área de riesgo sólo con sistemas de respiración artificiales e independientes
+
+del ambiente. Protección de la piel mediante observación de una distancia de seguridad y uso
+
+de ropa protectora adecuada .
+
+Otros datos
+
+Reprimir los gases/vapores/neblinas con agua pulverizada. Impedir la contaminación de las
+
+aguas superficiales o subterráneas por el agua que ha servido a la extinción de incendios.
+
+SECCIÓN 6. Medidas en caso de vertido accidental
+
+6.1 Precauciones personales, equipo de protección y procedimientos de emergencia
+
+Indicaciones para el personal que no forma parte de los servicios de emergencia: No respirar los
+
+vapores, aerosoles. Evitar el contacto con la sustancia. Asegúrese una ventilación apropiada.
+
+Evacúe el área de peligro, respete los procedimientos de emergencia, con sulte con expertos.
+
+Consejos para el personal de emergencia:
+
+Equipo protector véase sección 8.
+
+6.2 Precauciones relativas al medio ambiente
+
+No dejar que el producto entre en el sistema de alcantarillado.
+
+6.3 Métodos y material de contención y de limpieza
+
+Cubra las alcantarillas. Recoja, una y aspire los derrames. Observe posibles restricciones de
+
+materiales (véanse indicaciones en las secciónes 7 o 10). Recoger cuidadosamente con
+
+agentes absorbentes de líquidos, p.ej. Chemizorb®. Añadir a residuos a tratar. Aclarar.
+
+6.4 Referencia a otras secciones
+
+Para indicaciones sobre el tratamiento de residuos, véase sección 13.
+
+SECCIÓN 7. Manipulación y almacenamiento
+
+7.1 Precauciones para una manipulación segura
+
+Consejos para una manipulación segura
+
+Observar las indicaciones de la etiqueta.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 6 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Trabajar bajo campana extractora. No inhalar la sustancia/la mezcla. Evítese la generación de
+
+vapores/aerosoles.
+
+Medidas de higiene
+
+Sustituir inmediatamente la ropa contaminada. Protección preventiva de la piel. Lavar cara y
+
+manos al término del trabajo.
+
+7.2 Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+
+Condiciones de almacenamiento
+
+Bien cerrado. Manténgase el recipiente en un lugar bien ventilado. Mantenerlo encerrado en una
+
+zona unicamente accesible por las personas autorizadas o calificadas.
+
+Temperatura de almacenaje recomendada indicada en la etiqueta del producto.
+
+7.3 Usos específicos finales
+
+Fuera de los usos indicados en la sección 1.2 no se previenen aplicacion es finales adicionales.
+
+SECCIÓN 8. Controles de exposición/ protección individual
+
+8.1 Parámetros de control
+
+No contiene sustancias con valores límites de exposición profesional.
+
+8.2 Controles de la exposición
+
+Medidas de ingeniería
+
+Medidas técnicas y observación de métodos adecuados de trabajo tienen pr ioridad ante el uso
+
+de equipos de protección personal.
+
+Véase sección 7.1.
+
+Medidas de protección individual
+
+Los tipos de auxiliares para protección del cuerpo deben elegirse específicamente según el
+
+puesto de trabajo en función de la concentración y cantidad de la sustancia peligrosa.
+
+Debería aclararse con el suministrador la estabilidad de los medios protectores frente a los
+
+productos químicos.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 7 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Protección de los ojos/ la cara
+
+Gafas de seguridad
+
+Protección de las manos
+
+Sumerción:
+
+Material del guante: Caucho nitrílo
+
+Espesor del guante: 0,11 mm
+
+Tiempo de penetración: - 480 min
+
+Salpicaduras:
+
+Material del guante: Caucho nitrílo
+
+Espesor del guante: 0,11 mm
+
+Tiempo de penetración: - 480 min
+
+Los guantes de protección indicados deben cumplir con las especificaciones de la Directiva
+
+89/686/EEC y con su norma resultante EN374, por ejemplo KCL 741 Dermatril® L (Sumerción),
+
+KCL 741 Dermatril® L (Salpicaduras).
+
+Los tiempos de ruptura mencionados anteriormente han sido determinados con
+
+muestras de material de los tipos de guantes recomendados en mediciones de laboratorio de
+
+KCL según EN374.
+
+Esta recomendación solo es válida para el producto mencionado en la ficha de datos de
+
+seguridad, suministrado por nosotros y para el fin indicado. Al disolver o mezclar en otras
+
+sustancias y cuando las condiciones difieran de las indicadas en EN374, debe dirigirse al
+
+suministrador de guantes con distintivo CE (por ejem. KCL GmbH, D-36124 Eichenzell,
+
+Internet: www.kcl.de)
+
+Otras medidas de protección
+
+prendas de protección
+
+Protección respiratoria
+
+necesaria en presencia de vapores/aerosoles.
+
+Tipo de Filtro recomendado: Filtro P 2
+
+El empresario debe garantizar que el mantenimiento, la limpieza y la prueba técnica de los
+
+protectores respiratorios se hagan según las instrucciones del productor de las mismas. Éstas
+
+medidas deben ser documentadas debidamente.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 8 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Controles de exposición medioambiental
+
+No dejar que el producto entre en el sistema de alcantarillado.
+
+SECCIÓN 9. Propiedades físicas y químicas
+
+9.1 Información sobre propiedades físicas y químicas básicas
+
+Forma líquido
+
+Color rosa
+
+Olor inodoro
+
+Umbral olfativo No aplicable
+
+pH aprox. 4,8
+
+a 20 °C
+
+Punto de fusión No hay información disponible.
+
+Punto de ebullición No hay información disponible.
+
+Punto de inflamación No aplicable
+
+Tasa de evaporación No hay información disponible.
+
+Inflamabilidad (sólido, gas) No hay información disponible.
+
+Límites inferior de explosividad No hay información disponible.
+
+Límite superior de explosividad No hay información disponible.
+
+Presión de vapor No hay información disponible.
+
+Densidad relativa del vapor No hay información disponible.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 9 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Densidad aprox.1,04 g/cm3
+
+a 20 °C
+
+Densidad relativa No hay información disponible.
+
+Solubilidad en agua a 20 °C
+
+soluble
+
+Coeficiente de reparto n
+
+octanol/agua
+
+Temperatura de auto
+
+inflamación
+
+No hay información disponible.
+
+No hay información disponible.
+
+Temperatura de descomposición No hay información disponible.
+
+Viscosidad, dinámica No hay información disponible.
+
+Propiedades explosivas No clasificado/a como explosivo/a.
+
+Propiedades comburentes ningún
+
+9.2 Otros datos
+
+ningún
+
+SECCIÓN 10. Estabilidad y reactividad
+
+10.1 Reactividad
+
+Véase sección 10.3
+
+10.2 Estabilidad química
+
+El producto es químicamente estable bajo condiciones normales (a tempera tura ambiental).
+
+10.3 Posibilidad de reacciones peligrosas
+
+Posibles reacciones violentas con:
+
+Los reaccionantes con agua habituales.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 10 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+10.4 Condiciones que deben evitarse
+
+información no disponible
+
+10.5 Materiales incompatibles
+
+información no disponible
+
+10.6 Productos de descomposición peligrosos
+
+en caso de incendio: véase sección 5.
+
+# SECCIÓN 11. Información toxicológica
+
+11.1 Información sobre los efectos toxicológicos
+
+Mezcla
+
+Toxicidad oral aguda
+
+Estimación de la toxicidad aguda: > 2.000 mg/kg
+
+Método de cálculo
+
+Toxicidad aguda por inhalación
+
+Síntomas: Posibles síntomas:, Irritaciones en las vias respiratorias.
+
+Toxicidad cutánea aguda
+
+Esta información no está disponible.
+
+Irritación de la piel
+
+Consecuencias posibles: ligera irritación
+
+Irritación ocular
+
+Esta información no está disponible.
+
+Sensibilización
+
+Mezcla puede provocar síntomas de alergia o asma o dificultades respirat orias en caso de
+
+inhalación. Mezcl puede provocar una reacción alérgica en la piel.
+
+Mutagenicidad en células germinales
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 11 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Esta información no está disponible.
+
+Carcinogenicidad
+
+Esta información no está disponible.
+
+Toxicidad para la reproducción
+
+Esta información no está disponible.
+
+Teratogenicidad
+
+Esta información no está disponible.
+
+Efectos CMR
+
+Carcinogenicidad:
+
+Posible carcinógeno por inhalación.
+
+Mutagenicidad:
+
+Evidencia de defectos genéticos.
+
+Toxicidad para la reproducción:
+
+Puede perjudicar la fertilidad.
+
+Toxicidad específica en determinados órganos - exposición única
+
+Esta información no está disponible.
+
+Toxicidad específica en determinados órganos - exposiciones repetidas
+
+Esta información no está disponible.
+
+Peligro de aspiración
+
+Esta información no está disponible.
+
+11.2 Otros datos
+
+Síntomas de una intoxicación aguda de cobalto: descomposición, pérdida del apetito,
+
+descenso de la temperatura corporal y de la tensión sanguínea. Efecto tóxico sobre los
+
+riñones (albuminuria, anuria), corazón y páncreas.
+
+Las otras propiedades peligrosas no pueden ser excluidas.
+
+El producto debe manejarse con especial cuidado.
+
+Componentes
+
+Cobaltdichlorid
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 12 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Toxicidad oral aguda
+
+DL50 Rata: 418 mg/kg
+
+Directrices de ensayo 401 del OECD
+
+Toxicidad cutánea aguda
+
+LDLO Rata: 2.000 mg/kg
+
+(RTECS) Tricobalto tetraóxido
+
+Irritación de la piel
+
+Estudio in vitro
+
+Resultado: no corrosivo
+
+OECD TG 431
+
+Conejo
+
+Resultado: No irrita la piel
+
+Directrices de ensayo 404 del OECD
+
+Irritación ocular
+
+Conejo
+
+Resultado: Efectos irreversibles en los ojos
+
+Directrices de ensayo 405 del OECD
+
+Sensibilización
+
+Buehler Test Conejillo de indias
+
+Resultado: positivo
+
+Método: Directrices de ensayo 406 del OECD
+
+Mutagenicidad en células germinales
+
+Genotoxicidad in vivo
+
+Prueba de micronúcleos in vivo
+
+Ratón
+
+machos y hembras
+
+Oral
+
+Resultado: negativo
+
+Método: OECD TG 474
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 13 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Prueba de micronúcleos in vivo
+
+Ratón
+
+machos y hembras
+
+inhalación (polvo /neblina /humo)
+
+Resultado: negativo
+
+Método: OECD TG 474
+
+Genotoxicidad in vitro
+
+Prueba de Ames
+
+Salmonella typhimurium
+
+Resultado: negativo
+
+Método: OECD TG 471
+
+SECCIÓN 12. Información ecológica
+
+Mezcla
+
+12.1 Toxicidad
+
+No hay información disponible.
+
+12.2 Persistencia y degradabilidad
+
+No hay información disponible.
+
+12.3 Potencial de bioacumulación
+
+No hay información disponible.
+
+12.4 Movilidad en el suelo
+
+No hay información disponible.
+
+12.5 Resultados de la valoración PBT y mPmB
+
+La(s) sustancia(s) en la mezcla no cumplen los criterios de PBT o mPmB s egún el Reglamento
+
+(CE) núm. 1907/2006, anexo XIII.
+
+12.6 Otros efectos adversos
+
+Información ecológica complementaria
+
+La descarga en el ambiente debe ser evitada.
+
+Componentes
+
+Cobaltdichlorid
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 14 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Toxicidad para los peces
+
+Ensayo dinámico CL50 Danio rerio (pez zebra): 85,3 mg/l; 96 h
+
+Controlo analítico: si
+
+(ECHA)
+
+Toxicidad para las dafnias y otros invertebrados acuáticos
+
+Ensayo estático CL50 Ceriodaphnia dubia (pulga de agua): 0,605 mg/l; 48 h
+
+Controlo analítico: si
+
+US-EPA
+
+Toxicidad para las algas
+
+IC50 algas: 0,0067 mg/l
+
+Toxicidad para las bacterias
+
+Inhibición de la respiración CE50 lodo activado: 120 mg/l; 30 min
+
+Controlo analítico: si
+
+OECD TG 209
+
+Toxicidad para los peces (Toxicidad crónica)
+
+Ensayo dinámico NOEC Oncorhynchus mykiss (Trucha irisada): 2,1 mg/l; 81 d
+
+Controlo analítico: si
+
+OECD TG 210
+
+Toxicidad para las dafnias y otros invertebrados acuáticos (Toxicidad crónica)
+
+Ensayo semiestático NOEC: 6,83 mg/l; 28 d
+
+Controlo analítico: si
+
+OECD TG 211
+
+Biodegradabilidad
+
+Los métodos para la determinación de la degradabilidad biologica no son aplicables para las sustancias
+
+inorgánicas.
+
+Coeficiente de reparto n-octanol/agua
+
+log Pow: 0,85
+
+(calculado)
+
+(Literatura) No es de esperar una bioacumulación.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 15 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Factor-M
+
+10
+
+SECCIÓN 13. Consideraciones relativas a la eliminación
+
+Métodos para el tratamiento de residuos
+
+Los residuos deben eliminarse de acuerdo con normativas locales y nacion ales. Deje los
+
+productos químicos en sus recipientes originales. No los mezcle con otros residuos. Maneje los
+
+recipientes sucios como el propio producto.
+
+Consulte en www.retrologistik.com sobre procesos relativos a la devolución de productos
+
+químicos o recipientes, o contáctenos si tiene más preguntas.
+
+SECCIÓN 14. Información relativa al transporte
+
+Transporte por carretera (ADR/RID)
+
+14.1 Número ONU UN 3082
+
+14.2 Designación oficial de
+
+transporte de las Naciones
+
+Unidas
+
+Sustancia líquida potencialmente peligrosa para el medio
+
+ambiente, n.e.p. (COBALT(II)-CHLORIDE SOLUTION)
+
+14.3 Clase 9
+
+14.4 Grupo de embalaje III
+
+14.5 Peligrosas ambientalmente si
+
+14.6 Precauciones particulares
+
+para los usuarios
+
+Código de restricciones en
+
+túneles
+
+si
+
+Paquetes que sean igual o inferior a 5 kg / L, ninguna mercancía peligr osa de la Clase 9
+
+Transporte fluvial (ADN)
+
+No relevante
+
+Transporte aéreo (IATA)
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 16 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+14.1 Número ONU UN 3082
+
+14.2 Designación oficial de
+
+transporte de las Naciones
+
+Unidas
+
+ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID,
+
+N.O.S. (COBALT(II)-CHLORIDE SOLUTION)
+
+14.3 Clase 9
+
+14.4 Grupo de embalaje III
+
+14.5 Peligrosas ambientalmente si
+
+14.6 Precauciones particulares
+
+para los usuarios
+
+no
+
+Paquetes que sean igual o inferior a 5 kg / L, ninguna mercancía peligr osa de la Clase 9
+
+Transporte marítimo (IMDG)
+
+14.1 Número ONU UN 3082
+
+14.2 Designación oficial de
+
+transporte de las Naciones
+
+Unidas
+
+ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID,
+
+N.O.S. (COBALT(II)-CHLORIDE SOLUTION)
+
+14.3 Clase 9
+
+14.4 Grupo de embalaje III
+
+14.5 Peligrosas ambientalmente si
+
+14.6 Precauciones particulares
+
+para los usuarios
+
+si
+
+EmS F-A S-F
+
+Paquetes que sean igual o inferior a 5 kg / L, ninguna mercancía peligr osa de la Clase 9
+
+14.7 Transporte a granel con arreglo al anexo II del Convenio Marpol 73/78 y del Código IBC
+
+No relevante
+
+SECCIÓN 15. Información reglamentaria
+
+15.1 Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la
+
+sustancia o la mezcla
+
+Legislación nacional
+
+Clase de almacenamiento 6.1D
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 17 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Legislación en Chile:
+
+Decreto Supremo N° 298 y sus modificaciones
+
+Ministerio de Transporte y Telecomunicaciones
+
+Decreto Supremo N°40
+
+Ministerio del Trabajo y Previsión Social
+
+Decreto Supremo N° 594 y sus modificaciones
+
+Ministerio de Salud
+
+15.2 Evaluación de la seguridad química
+
+Para éste producto no se realizo una valoración de la seguridad química.
+
+SECCIÓN 16. Otra información
+
+Texto íntegro de las Declaraciones-H referidas en las secciones 2 y 3.
+
+H302 Nocivo en caso de ingestión.
+
+H317 Puede provocar una reacción alérgica en la piel.
+
+H318 Provoca lesiones oculares graves.
+
+H334 Puede provocar síntomas de alergia o asma o dificultades
+
+respiratorias en caso de inhalación.
+
+H341 Se sospecha que provoca defectos genéticos.
+
+H350i Puede provocar cáncer por inhalación.
+
+H360F Puede perjudicar a la fertilidad.
+
+H400 Muy tóxico para los organismos acuáticos.
+
+H410 Muy tóxico para los organismos acuáticos, con efectos nocivos
+
+duraderos.
+
+H411 Tóxico para los organismos acuáticos, con efectos nocivos
+
+duraderos.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 18 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Consejos relativos a la formación
+
+Debe disponer a los trabajadores la información y la formación práctica suficientes.
+
+Etiquetado
+
+Pictogramas de peligro
+
+Palabra de advertencia
+
+Peligro
+
+Indicaciones de peligro
+
+H317 Puede provocar una reacción alérgica en la piel.
+
+H334 Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación.
+
+H341 Se sospecha que provoca defectos genéticos.
+
+H350i Puede provocar cáncer por inhalación.
+
+H360 Puede perjudicar la fertilidad o dañar al feto.
+
+H411 Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+
+Consejos de prudencia
+
+Prevención
+
+P201 Solicitar instrucciones especiales antes del uso.
+
+P273 Evitar su liberación al medio ambiente.
+
+P280 Llevar guantes de protección.
+
+Intervención
+
+P302 + P352 EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y jabón abundantes.
+
+P304 + P340 EN CASO DE INHALACIÓN: Transportar a la víctima al exterior y mantenerla en reposo
+
+en una posición confortable para respirar.
+
+P342 + P311 En caso de síntomas respiratorios: Llamar a un CENTRO DE TOXICOLOGÍA/médico.
+
+Otros datos
+
+Reservado exclusivamente a usuarios profesionales.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 19 de 20
+
+FICHA DE DATOS DE SEGURIDAD
+
+de acuerdo al Reglamento (CE) No. 1907/2006
+
+Artículo número 109986
+
+Nombre del producto Cobalto patrón 1000 mg Co, (CoCl2 in H2O) Titrisol®
+
+Contiene: Cobaltdichlorid
+
+Una explicación de las abreviaturas y los acrónimos utilizados en la ficha de datos de seguridad
+
+Puede consultar las abreviaturas y acrónimos utilizados en www.wikipedia.org.
+
+Los datos suministrados en ésta ficha de seguridad se basan a nuestro actual conocimiento. Describen tan sólo las
+
+medidas de seguridad en el manejo de éste producto y no representan una garantía sobre las propiedades descritas
+
+del mismo.
+
+Las Fichas de Datos de Seguridad para artículos del catálogo también pueden obtenerse a través de www.merckgroup.com
+
+Pagina 20 de 20

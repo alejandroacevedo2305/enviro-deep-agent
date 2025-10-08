@@ -1,0 +1,90 @@
+---
+title: CORTE D-D
+author: Desconocido
+date: D:20230120191340
+language: es
+type: general
+pages: 1
+has_toc: True
+has_tables: True
+extraction_quality: high
+---
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||||||||||||||||||||||
+||DORMITORIO<br>|DORMITORIO<br>||||||PASILLO<br>|COC<br>|INA<br>ESTAR<br><br>|INA<br>ESTAR<br><br>|INA<br>ESTAR<br><br>|INA<br>ESTAR<br><br>|INA<br>ESTAR<br><br>|||||||
+||DORMITORIO<br>DORMITORIO|DORMITORIO<br>DORMITORIO||||||PASILLO<br>PASILLO|COC<br>COC|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|||||||
+||DORMITORIO<br>DORMITORIO|DORMITORIO<br>DORMITORIO||||||PASILLO<br>PASILLO|COC<br>COC|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|INA<br>ESTAR<br>INA<br>ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+||DORMITORIO|DORMITORIO||||||PASILLO|COC|INA||ESTAR|ESTAR|ESTAR|||||||
+|ERA|DORMITORIO|DORMITORIO||||||PASILLO<br>220||GIMNASIO<br>233|GIMNASIO<br>233|GIMNASIO<br>233|||||||||
+|ERA|DORMITORIO|DORMITORIO||||||PASILLO<br>220||GIMNASIO<br>233|GIMNASIO<br>233|GIMNASIO<br>233|||||||||
+|ERA|DORMITORIO|1° SUBTE<br>NOG. -340<br>2° SUBTE<br>NOG. -620<br>SALA<br>ELECTRICA<br>SALA<br>CCDD|1° SUBTE<br>NOG. -340<br>2° SUBTE<br>NOG. -620<br>SALA<br>ELECTRICA<br>SALA<br>CCDD|1° SUBTE<br>NOG. -340<br>2° SUBTE<br>NOG. -620<br>SALA<br>ELECTRICA<br>SALA<br>CCDD|1° SUBTE<br>NOG. -340<br>2° SUBTE<br>NOG. -620<br>SALA<br>ELECTRICA<br>SALA<br>CCDD|SALA<br>BASURA|SALA<br>BASURA|325<br>265|325<br>265|325<br>265|325<br>265|325<br>265|220<br>280||||||||
+
+|OBSERVACIONES:|Col2|Col3|Col4|
+|---|---|---|---|
+|||||
+|N°|MODIFICACION|FECHA|DIBUJO|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+|UBICACION:<br>MAIMÓNIDES 551<br>SANTIAGO, REGIÓN METROPOLITANA|Col2|Col3|
+|---|---|---|
+||||
+|------|------|------|
+|--------|--------|--------|
+|CONTENIDO:<br>PROFUNDIDAD NAPA<br>EDIFICIO MAIMÓNIDES|CONTENIDO:<br>PROFUNDIDAD NAPA<br>EDIFICIO MAIMÓNIDES|CONTENIDO:<br>PROFUNDIDAD NAPA<br>EDIFICIO MAIMÓNIDES|
+|ARCHIVO:<br>PROFUNDIDAD DE LA NAPA|ARCHIVO:<br>PROFUNDIDAD DE LA NAPA||
+|DIBUJO:<br>--------|DIBUJO:<br>--------|DIBUJO:<br>--------|
+|ESCALA:<br>1/100|ESCALA:<br>1/100|LAMINA:<br>L01|
+|FECHA:<br>JUNIO 2022|VERSION:<br>0|VERSION:<br>0|
