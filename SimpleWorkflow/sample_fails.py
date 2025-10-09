@@ -199,7 +199,7 @@ failed files:
 
 ```python
 # In optimize_retry_workers.py
-FAILED_SAMPLES_DIR = Path("SimpleWorkflow/ParsedFiles/failed_samples")
+FAILED_SAMPLES_DIR = Path("SimpleWorkflow/ParsingFailsSamples")
 failed_files = find_failed_files(FAILED_SAMPLES_DIR)
 ```
 
@@ -260,10 +260,10 @@ Examples:
     parser.add_argument(
         "--target-dir",
         type=str,
-        default="SimpleWorkflow/ParsedFiles/failed_samples",
+        default="SimpleWorkflow/ParsingFailsSamples",
         help=(
             "Target directory for samples "
-            "(default: SimpleWorkflow/ParsedFiles/failed_samples)"
+            "(default: SimpleWorkflow/ParsingFailsSamples)"
         ),
     )
 
