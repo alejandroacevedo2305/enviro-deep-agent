@@ -47,15 +47,18 @@ from __future__ import annotations
 
 import asyncio
 import gc
+import json
 import logging
 import os
 import resource
+import signal
 import sys
 import tempfile
 import time
 from concurrent.futures import ProcessPoolExecutor
 from concurrent.futures import TimeoutError as FuturesTimeoutError
-from dataclasses import dataclass, field
+from dataclasses import asdict, dataclass, field
+from datetime import datetime
 from pathlib import Path
 from typing import Any, Optional
 
@@ -104,6 +107,9 @@ MAX_RETRIES = 3
 RETRY_DELAY = 1
 PDF_TIMEOUT_SECONDS = 300  # 5 minutes per PDF
 MEMORY_LIMIT_GB = 2  # 2GB per process
+BATCH_SIZE = 100  # Process files in batches for memory efficiency
+CHECKPOINT_INTERVAL = 50  # Save progress every N files
+STATE_FILE = Path("SimpleWorkflow/.retry_state.json")  # Resume capability
 
 
 # Auto-detect optimal workers
@@ -253,6 +259,71 @@ class RetryStats:
             - self.textpage_failed,
         )
         logger.info("")
+
+
+@dataclass
+class ProcessingState:
+    """Track processing state for resume capability."""
+
+    total_files: int = 0
+    processed_files: list[str] = field(default_factory=list)
+    successful_files: list[str] = field(default_factory=list)
+    failed_files: list[str] = field(default_factory=list)
+    start_time: str = field(default_factory=lambda: datetime.now().isoformat())
+    last_checkpoint: str = field(default_factory=lambda: datetime.now().isoformat())
+
+    def to_dict(self) -> dict:
+        """Convert to dictionary for JSON serialization."""
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> ProcessingState:
+        """Create from dictionary."""
+        return cls(**data)
+
+    def save(self, path: Path) -> None:
+        """Save state to file."""
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with open(path, "w") as f:
+            json.dump(self.to_dict(), f, indent=2)
+
+    @classmethod
+    def load(cls, path: Path) -> Optional[ProcessingState]:
+        """Load state from file."""
+        if not path.exists():
+            return None
+        try:
+            with open(path, "r") as f:
+                data = json.load(f)
+            return cls.from_dict(data)
+        except Exception as e:
+            logger.warning("Could not load state from %s: %s", path, e)
+            return None
+
+
+# Global flag for graceful shutdown
+shutdown_requested = False
+
+
+def signal_handler(signum, frame):
+    """Handle shutdown signals gracefully."""
+    global shutdown_requested
+    if not shutdown_requested:
+        logger.info("")
+        logger.info("=" * 70)
+        logger.info("🛑 Shutdown signal received (SIGTERM/SIGINT)")
+        logger.info("=" * 70)
+        logger.info("Completing current tasks and saving state...")
+        logger.info("Press Ctrl+C again to force quit (not recommended)")
+        shutdown_requested = True
+    else:
+        logger.warning("⚠️  Force shutdown requested!")
+        sys.exit(1)
+
+
+# Register signal handlers
+signal.signal(signal.SIGTERM, signal_handler)
+signal.signal(signal.SIGINT, signal_handler)
 
 
 def parse_failed_file_metadata(failed_file_path: Path) -> Optional[dict]:
@@ -639,6 +710,7 @@ async def retry_single_file(
     stats: RetryStats,
     metrics: PerformanceMetrics,
     output_dir: Path,
+    state: Optional[ProcessingState] = None,
 ) -> bool:
     """Retry processing a single failed file with all enhancements.
 
@@ -647,6 +719,12 @@ async def retry_single_file(
     """
     file_identifier = metadata["file_identifier"]
     s3_key = metadata["s3_key"]
+
+    # Check if should shutdown
+    global shutdown_requested
+    if shutdown_requested:
+        logger.info("Skipping %s due to shutdown request", file_identifier)
+        return False
 
     try:
         # Get bucket from metadata or parse from s3_key
@@ -719,6 +797,12 @@ fallback_used: {proc_stats.get("fallback_used", False)}
             used_ocr=proc_stats.get("ocr_used", False),
             used_fallback=proc_stats.get("fallback_used", False),
         )
+
+        # Update state if provided
+        if state:
+            state.successful_files.append(file_identifier)
+            state.processed_files.append(file_identifier)
+
         return True
 
     except Exception as exc:
@@ -726,6 +810,12 @@ fallback_used: {proc_stats.get("fallback_used", False)}
         error_msg = str(exc)
         await stats.increment_failed(file_identifier, error_type, error_msg)
         logger.debug("✗ %s: %s: %s", file_identifier, error_type, error_msg)
+
+        # Update state if provided
+        if state:
+            state.failed_files.append(file_identifier)
+            state.processed_files.append(file_identifier)
+
         return False
 
 
@@ -735,8 +825,17 @@ async def retry_all_failed_files(
     download_workers: int,
     processing_workers: int,
     keep_failed_files: bool = False,
+    resume: bool = True,
+    batch_size: int = BATCH_SIZE,
 ):
     """Main async function to retry all failed files with all enhancements.
+
+    Optimized for processing millions of files with:
+    - Batching: Process files in manageable batches
+    - Checkpointing: Save progress periodically for resume
+    - Memory management: Aggressive GC between batches
+    - Graceful shutdown: Handle SIGTERM/SIGINT signals
+    - Progress persistence: Resume from last checkpoint
 
     Args:
         input_dir: Directory containing FAILED-*.md files
@@ -744,13 +843,16 @@ async def retry_all_failed_files(
         download_workers: Number of concurrent download workers
         processing_workers: Number of concurrent processing workers
         keep_failed_files: If True, don't delete original FAILED-*.md files
+        resume: If True, resume from last checkpoint
+        batch_size: Number of files to process per batch
     """
     stats = RetryStats()
     metrics = PerformanceMetrics()
+    global shutdown_requested
 
     # Header
     logger.info("=" * 70)
-    logger.info("ENHANCED FAILED FILES RETRY PROCESS")
+    logger.info("ENHANCED FAILED FILES RETRY PROCESS (v2.0 - Scaled for Millions)")
     logger.info("=" * 70)
     logger.info("")
     logger.info("🔧 Enhancements Active:")
@@ -760,6 +862,10 @@ async def retry_all_failed_files(
     logger.info("   ✓ Memory limits (%dGB per process)", MEMORY_LIMIT_GB)
     logger.info("   ✓ Multiple parser fallbacks")
     logger.info("   ✓ Weak reference protection")
+    logger.info("   ✓ Batch processing (%d files per batch)", batch_size)
+    logger.info("   ✓ Checkpointing (every %d files)", CHECKPOINT_INTERVAL)
+    logger.info("   ✓ Graceful shutdown support")
+    logger.info("   ✓ Resume capability")
     logger.info("")
 
     # Find failed files
@@ -767,13 +873,43 @@ async def retry_all_failed_files(
     logger.info("📁 Output directory: %s", output_dir)
     logger.info("")
 
+    # Load or create state
+    state = None
+    if resume and STATE_FILE.exists():
+        state = ProcessingState.load(STATE_FILE)
+        if state:
+            logger.info("📂 Resuming from checkpoint:")
+            logger.info("   Previously processed: %d files", len(state.processed_files))
+            logger.info("   Previous successes: %d", len(state.successful_files))
+            logger.info("   Previous failures: %d", len(state.failed_files))
+            logger.info("")
+
+    if state is None:
+        state = ProcessingState()
+
     failed_files = find_failed_files(input_dir)
 
     if not failed_files:
         logger.info("No failed files found in %s", input_dir)
         return stats, metrics
 
+    # Filter out already processed files if resuming
+    if resume and state.processed_files:
+        processed_ids = set(state.processed_files)
+        failed_files = [
+            (path, meta)
+            for path, meta in failed_files
+            if meta["file_identifier"] not in processed_ids
+        ]
+        logger.info("📂 Filtered %d already-processed files", len(processed_ids))
+
     stats.total = len(failed_files)
+    state.total_files = len(failed_files) + len(state.processed_files)
+
+    if stats.total == 0:
+        logger.info("✅ All files already processed!")
+        return stats, metrics
+
     logger.info("📊 Found %d failed files to retry", stats.total)
     logger.info("")
 
@@ -812,9 +948,20 @@ async def retry_all_failed_files(
 
     async def retry_with_semaphore(failed_path: Path, metadata: dict):
         """Retry with download semaphore."""
+        global shutdown_requested
+        if shutdown_requested:
+            return False
+
         async with download_semaphore:
             success = await retry_single_file(
-                session, failed_path, metadata, df_metadata, stats, metrics, output_dir
+                session,
+                failed_path,
+                metadata,
+                df_metadata,
+                stats,
+                metrics,
+                output_dir,
+                state,
             )
             # Only delete original FAILED file if successful and not keeping them
             if success and not keep_failed_files:
@@ -823,6 +970,8 @@ async def retry_all_failed_files(
                 except Exception as e:
                     logger.warning("Could not delete %s: %s", failed_path, e)
 
+            return success
+
     # Sample memory periodically
     async def memory_sampler():
         while True:
@@ -830,9 +979,14 @@ async def retry_all_failed_files(
             await asyncio.sleep(5)
 
     memory_task = asyncio.create_task(memory_sampler())
+    checkpoint_counter = 0
 
     try:
         logger.info("🔄 Starting enhanced retry process...")
+        logger.info("   Batch size: %d files", batch_size)
+        logger.info(
+            "   Total batches: %d", (stats.total + batch_size - 1) // batch_size
+        )
         logger.info("")
 
         # Process with progress bar
@@ -841,34 +995,94 @@ async def retry_all_failed_files(
             desc="Retrying",
             unit="files",
         ) as pbar:
-            tasks = []
+            # Process in batches for memory efficiency
+            for batch_idx in range(0, len(failed_files), batch_size):
+                # Check for shutdown
+                if shutdown_requested:
+                    logger.info("")
+                    logger.info("=" * 70)
+                    logger.info("⚠️  Shutdown requested - saving state and exiting")
+                    logger.info("=" * 70)
+                    state.save(STATE_FILE)
+                    break
 
-            async def update_progress(task, pbar):
-                """Update progress bar after task completion."""
-                await task
-                async with stats.lock:
-                    pbar.set_description(f"Retrying [✓{stats.success} ✗{stats.failed}]")
-                pbar.update(1)
+                # Get current batch
+                batch = failed_files[batch_idx : batch_idx + batch_size]
+                batch_num = (batch_idx // batch_size) + 1
+                total_batches = (len(failed_files) + batch_size - 1) // batch_size
 
-            for failed_path, metadata in failed_files:
-                task = asyncio.create_task(retry_with_semaphore(failed_path, metadata))
+                if len(failed_files) > batch_size:
+                    logger.info(
+                        "Processing batch %d/%d (%d files)",
+                        batch_num,
+                        total_batches,
+                        len(batch),
+                    )
 
-                # Wrap with progress updater
-                progress_task = asyncio.create_task(update_progress(task, pbar))
-                tasks.append(progress_task)
+                tasks = []
 
-                # Batch processing to avoid memory spike
-                if len(tasks) >= download_workers * 2:
+                async def update_progress(task, pbar):
+                    """Update progress bar after task completion."""
+                    await task
+                    async with stats.lock:
+                        pbar.set_description(
+                            f"Retrying [✓{stats.success} ✗{stats.failed}]"
+                        )
+                    pbar.update(1)
+
+                for failed_path, metadata in batch:
+                    if shutdown_requested:
+                        break
+
+                    task = asyncio.create_task(
+                        retry_with_semaphore(failed_path, metadata)
+                    )
+
+                    # Wrap with progress updater
+                    progress_task = asyncio.create_task(update_progress(task, pbar))
+                    tasks.append(progress_task)
+
+                # Wait for all tasks in batch
+                if tasks:
                     await asyncio.gather(*tasks, return_exceptions=True)
                     tasks = []
-                    gc.collect()
 
-            # Wait for remaining tasks
-            if tasks:
-                await asyncio.gather(*tasks, return_exceptions=True)
+                # Checkpoint periodically
+                checkpoint_counter += len(batch)
+                if checkpoint_counter >= CHECKPOINT_INTERVAL:
+                    state.last_checkpoint = datetime.now().isoformat()
+                    state.save(STATE_FILE)
+
+                    if len(failed_files) > batch_size:
+                        logger.info(
+                            "💾 Checkpoint: %d/%d files processed",
+                            len(state.processed_files),
+                            state.total_files,
+                        )
+
+                    checkpoint_counter = 0
+
+                # Aggressive GC between batches
+                gc.collect()
+
+                # Memory health check
+                memory_pct = psutil.virtual_memory().percent
+                if memory_pct > 85:
+                    logger.warning(
+                        "⚠️  High memory usage (%.1f%%), pausing for GC...", memory_pct
+                    )
+                    gc.collect()
+                    await asyncio.sleep(2)
 
     finally:
         memory_task.cancel()
+
+        # Final checkpoint
+        state.last_checkpoint = datetime.now().isoformat()
+        state.save(STATE_FILE)
+
+        if not shutdown_requested:
+            logger.info("💾 Final checkpoint saved")
 
     return stats, metrics
 
@@ -945,8 +1159,29 @@ Examples:
         action="store_true",
         help="Keep original FAILED-*.md files (don't delete after success)",
     )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=BATCH_SIZE,
+        help=f"Process files in batches of N (default: {BATCH_SIZE}, for millions: 1000)",
+    )
+    parser.add_argument(
+        "--no-resume",
+        action="store_true",
+        help="Don't resume from checkpoint (start fresh)",
+    )
+    parser.add_argument(
+        "--clear-state",
+        action="store_true",
+        help="Clear checkpoint state file and start fresh",
+    )
 
     args = parser.parse_args()
+
+    # Clear state if requested
+    if args.clear_state and STATE_FILE.exists():
+        STATE_FILE.unlink()
+        logger.info("🗑️  Cleared checkpoint state file")
 
     # Run enhanced retry process
     stats, metrics = await retry_all_failed_files(
@@ -955,6 +1190,8 @@ Examples:
         download_workers=args.download_workers,
         processing_workers=args.processing_workers,
         keep_failed_files=args.keep_failed,
+        resume=not args.no_resume,
+        batch_size=args.batch_size,
     )
 
     # Log results
