@@ -494,58 +494,152 @@ def _extract_markdown_with_pymupdf(pdf_path_str: str) -> tuple[str, Any]:
     )
 
 
-def _extract_markdown_with_pdfplumber(pdf_path_str: str) -> tuple[str, Any]:
-    """Extract using pdfplumber (fallback)."""
+def verify_extraction_dependencies():
+    """Verify all PDF extraction libraries are available at startup."""
+    import sys
+
+    missing = []
+    available = []
+
+    try:
+        import pymupdf
+
+        available.append(f"pymupdf ({pymupdf.__version__})")
+    except ImportError:
+        missing.append("pymupdf")
+
     try:
         import pdfplumber
 
-        with pdfplumber.open(pdf_path_str) as pdf:
-            pages_text = []
-            for page_num, page in enumerate(pdf.pages, start=1):
-                text = page.extract_text() or ""
-                if text:
-                    pages_text.append(f"## Page {page_num}\n\n{text}")
-
-            combined_text = "\n\n---\n\n".join(pages_text)
-            metadata = DocumentMetadata(
-                page_count=len(pdf.pages),
-                extraction_quality=ExtractionQuality.MEDIUM,
-                quality_notes=["pdfplumber fallback used"],
-            )
-            return combined_text, metadata
+        available.append(f"pdfplumber ({pdfplumber.__version__})")
     except ImportError:
-        raise ImportError("pdfplumber not installed. Install with: uv add pdfplumber")
+        missing.append("pdfplumber")
 
-
-def _extract_markdown_with_pypdf(pdf_path_str: str) -> tuple[str, Any]:
-    """Extract using pypdf (last resort fallback)."""
     try:
-        from pypdf import PdfReader
+        import pypdf
 
-        reader = PdfReader(pdf_path_str)
+        available.append(f"pypdf ({pypdf.__version__})")
+    except ImportError:
+        missing.append("pypdf")
+
+    logger.info("=" * 70)
+    logger.info("ENVIRONMENT VERIFICATION")
+    logger.info("=" * 70)
+    logger.info("Python executable: %s", sys.executable)
+
+    if available:
+        logger.info("✓ Available PDF libraries:")
+        for lib in available:
+            logger.info("  - %s", lib)
+
+    if missing:
+        logger.warning("⚠ Missing PDF libraries:")
+        for lib in missing:
+            logger.warning("  - %s", lib)
+        logger.warning("")
+        logger.warning(
+            "Some extraction strategies will not be available. Install with: uv add %s",
+            " ".join(missing),
+        )
+
+        # Don't fail if at least one library is available
+        if not available:
+            raise EnvironmentError(
+                "No PDF extraction libraries available. "
+                "Install with: uv add pymupdf pdfplumber pypdf"
+            )
+    else:
+        logger.info("✓ All PDF extraction libraries available")
+
+    logger.info("=" * 70)
+    logger.info("")
+
+
+def _extract_markdown_with_pdfplumber(pdf_path_str: str) -> tuple[str, Any]:
+    """Extract using pdfplumber (fallback)."""
+    # Let ImportError propagate as normal exception to allow pypdf fallback
+    import pdfplumber
+
+    with pdfplumber.open(pdf_path_str) as pdf:
         pages_text = []
-
-        for page_num, page in enumerate(reader.pages, start=1):
-            text = page.extract_text()
+        for page_num, page in enumerate(pdf.pages, start=1):
+            text = page.extract_text() or ""
             if text:
                 pages_text.append(f"## Page {page_num}\n\n{text}")
 
         combined_text = "\n\n---\n\n".join(pages_text)
         metadata = DocumentMetadata(
-            page_count=len(reader.pages),
-            extraction_quality=ExtractionQuality.LOW,
-            quality_notes=["pypdf fallback used"],
+            page_count=len(pdf.pages),
+            extraction_quality=ExtractionQuality.MEDIUM,
+            quality_notes=["pdfplumber fallback used"],
         )
         return combined_text, metadata
-    except ImportError:
-        raise ImportError("pypdf not installed. Install with: uv add pypdf")
+
+
+def _extract_markdown_with_pypdf(pdf_path_str: str) -> tuple[str, Any]:
+    """Extract using pypdf (last resort fallback)."""
+    # Let ImportError propagate as normal exception
+    from pypdf import PdfReader
+
+    reader = PdfReader(pdf_path_str)
+    pages_text = []
+
+    for page_num, page in enumerate(reader.pages, start=1):
+        text = page.extract_text()
+        if text:
+            pages_text.append(f"## Page {page_num}\n\n{text}")
+
+    combined_text = "\n\n---\n\n".join(pages_text)
+    metadata = DocumentMetadata(
+        page_count=len(reader.pages),
+        extraction_quality=ExtractionQuality.LOW,
+        quality_notes=["pypdf fallback used"],
+    )
+    return combined_text, metadata
 
 
 def _extract_markdown_worker_isolated(
     pdf_path_str: str,
 ) -> tuple[str, Any, dict]:
     """Extract markdown in isolated worker with all strategies and resource limits."""
+    import sys
+
     stats = {"fallback_used": False, "strategy": "pymupdf"}
+
+    # Verify we're in the correct environment
+    logger.debug("Worker Python executable: %s", sys.executable)
+
+    # Check library availability (log warnings but don't fail yet)
+    available_libs = []
+    try:
+        import pymupdf
+
+        available_libs.append("pymupdf")
+    except ImportError:
+        logger.warning("pymupdf not available in worker process")
+
+    try:
+        import pdfplumber
+
+        available_libs.append("pdfplumber")
+    except ImportError:
+        logger.warning("pdfplumber not available in worker process")
+
+    try:
+        import pypdf
+
+        available_libs.append("pypdf")
+    except ImportError:
+        logger.warning("pypdf not available in worker process")
+
+    if not available_libs:
+        raise EnvironmentError(
+            f"No PDF extraction libraries available in worker. "
+            f"Python: {sys.executable}. "
+            f"This indicates an environment configuration issue."
+        )
+
+    logger.debug("Available PDF libraries in worker: %s", ", ".join(available_libs))
 
     # Set memory limit
     try:
@@ -753,6 +847,7 @@ async def process_single_pdf(
     metrics: PerformanceMetrics,
     state: ProcessingState,
     skip_existing: bool = True,
+    retry_mode: bool = False,
 ) -> None:
     """Process a single PDF with all optimizations and safety measures."""
     global shutdown_requested
@@ -764,10 +859,18 @@ async def process_single_pdf(
     markdown_path = OUTPUT_DIR / f"{safe_idx}.md"
     error_path = OUTPUT_DIR / f"FAILED-{safe_idx}.md"
 
-    # Skip if already exists
-    if skip_existing and (markdown_path.exists() or error_path.exists()):
-        await stats.increment_skipped()
-        return
+    # Skip logic depends on mode
+    if skip_existing:
+        if retry_mode:
+            # In retry mode: only skip if success file exists (allow reprocessing FAILED)
+            if markdown_path.exists():
+                await stats.increment_skipped()
+                return
+        else:
+            # Normal mode: skip if either success or error file exists
+            if markdown_path.exists() or error_path.exists():
+                await stats.increment_skipped()
+                return
 
     s3_key = None
 
@@ -984,7 +1087,7 @@ async def process_batch_async(
             return
         async with download_semaphore:
             await process_single_pdf(
-                session, row, idx, stats, metrics, state, skip_existing
+                session, row, idx, stats, metrics, state, skip_existing, retry_failed
             )
 
     # Memory sampler
@@ -1188,6 +1291,9 @@ Examples:
     if args.clear_state and STATE_FILE.exists():
         STATE_FILE.unlink()
         logger.info("🗑️  Cleared checkpoint state")
+
+    # Verify environment dependencies
+    verify_extraction_dependencies()
 
     # Ensure directories
     ensure_directories()

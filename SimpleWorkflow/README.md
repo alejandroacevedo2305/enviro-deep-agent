@@ -74,6 +74,12 @@ nohup uv run python SimpleWorkflow/pdf_processor.py \
     --checkpoint-interval 100 \
     > processor.log 2>&1 &
 echo $! > .processor.pid
+
+# Monitor progress in real time
+tail -f SimpleWorkflow/pdf_processor.log | grep -E "Checkpoint|✓|Success Rate|Batch"
+
+# Gracefully kill it
+kill $(pgrep -f "pdf_processor.py")
 ```
 
 ### Command-Line Options
@@ -221,6 +227,12 @@ tail -20 SimpleWorkflow/processor.log
 
 ### Monitor Progress
 
+**📊 Real-time monitoring (one-liner):**
+```bash
+tail -f SimpleWorkflow/pdf_processor.log | grep -E "Checkpoint|✓|Success Rate|Batch"
+```
+
+**Additional monitoring options:**
 ```bash
 # Follow logs
 tail -f SimpleWorkflow/processor.log
@@ -243,8 +255,14 @@ grep "✓" SimpleWorkflow/processor.log | wc -l
 
 ### Graceful Shutdown
 
+**🛑 Gracefully kill (one-liner):**
 ```bash
-# Send SIGTERM (graceful)
+kill $(pgrep -f "pdf_processor.py")
+```
+
+**Alternative methods:**
+```bash
+# If you saved the PID
 kill $(cat SimpleWorkflow/.processor.pid)
 
 # Wait for shutdown message
@@ -604,15 +622,18 @@ uv run python SimpleWorkflow/pdf_processor.py --retry-failed
 # Or use retry tool
 uv run python SimpleWorkflow/retry_failed_files_enhanced.py
 
-# Background mode
+# Background mode (millions of files)
 nohup uv run python SimpleWorkflow/pdf_processor.py \
-    --batch-size 1000 > processor.log 2>&1 &
+    --batch-size 1000 > SimpleWorkflow/pdf_processor.log 2>&1 &
 
-# Stop gracefully
-kill $(cat SimpleWorkflow/.processor.pid)
+# Monitor progress in real time
+tail -f SimpleWorkflow/pdf_processor.log | grep -E "Checkpoint|✓|Success Rate|Batch"
+
+# Gracefully kill it
+kill $(pgrep -f "pdf_processor.py")
 
 # Check for failures
-ls SimpleWorkflow/ParsedFiles/FAILED-*.md | wc -l
+find SimpleWorkflow/ParsedFiles -name "FAILED-*.md" | wc -l
 
 # Analyze failures
 uv run python SimpleWorkflow/analyze_parsing_failures.py
