@@ -54,9 +54,11 @@ import botocore
 import pandas as pd
 from dotenv import load_dotenv
 
+load_dotenv(override=True)
+
 # Constants
 PARQUET_PATH: str = "sql/metadata_table/flora_fauna_metadata_indexed.parquet"
-OUTPUT_DIR: Path = Path("docs_colletions/PDFs")
+OUTPUT_DIR: Path = Path("s3pdf_manager/test_collection")
 INDEX_NAME: str = "id_type_anexes"
 
 

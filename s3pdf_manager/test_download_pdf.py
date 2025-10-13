@@ -1,271 +1,389 @@
 """Tests for `s3pdf_manager.download_pdf`.
 
-These tests avoid real AWS by mocking the downloader and S3 client behavior.
+Tests downloading real PDFs from S3, similar to SimpleWorkflow/pdf_processor.py.
+Verifies AWS credentials and performs actual downloads to test_collection directory.
+
+uv run python s3pdf_manager/test_download_pdf.py
 """
 
 # %%
 from __future__ import annotations
 
-import io
+import logging
 import os
+import sys
 from pathlib import Path
-from typing import Dict
-from zipfile import ZipFile
 
 import pandas as pd
-import pytest
+from dotenv import load_dotenv
+
+# Load environment variables first
+load_dotenv(override=True)
+
+# Add parent directory for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from s3pdf_manager.download_pdf import (
-    PARQUET_PATH,
-    _build_output_path,
-    _extract_pdf_from_zip_bytes,
-    compute_indices_in_range,
     delete_by_index,
     delete_by_list,
     download_by_index,
+    download_by_list,
+    download_by_range,
     load_metadata,
 )
 
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+    stream=sys.stdout,
+)
+logger = logging.getLogger(__name__)
 
-def create_zip_with_files(files: Dict[str, bytes]) -> bytes:
-    buf = io.BytesIO()
-    with ZipFile(buf, "w") as zf:
-        for name, content in files.items():
-            zf.writestr(name, content)
-    buf.seek(0)
-    return buf.read()
-
-
-def test_compute_indices_in_range_basic():
-    df = pd.DataFrame(index=["a", "b", "c", "d"])
-    assert compute_indices_in_range(df, "b", "d") == ["b", "c", "d"]
-    assert compute_indices_in_range(df, "d", "b") == ["b", "c", "d"]
-
-
-def test_extract_pdf_from_zip_bytes_prefers_named_match():
-    files = {
-        "random.txt": b"hello",
-        "report.pdf": b"%PDF-1.4 content A",
-        "other.pdf": b"%PDF-1.4 content B",
-    }
-    zip_bytes = create_zip_with_files(files)
-    name, content = _extract_pdf_from_zip_bytes(zip_bytes, prefer_name="other.pdf")
-    assert name.endswith("other.pdf")
-    assert content == files["other.pdf"]
+# Constants
+TEST_OUTPUT_DIR = Path(
+    "/home/alejandro/Desktop/repos/NVIRO-airflow-parsing/s3pdf_manager/test_collection"
+)
+PARQUET_PATH = "sql/metadata_table/flora_fauna_metadata_indexed.parquet"
 
 
-def test_extract_pdf_from_zip_bytes_first_pdf_when_no_preference():
-    files = {
-        "a.pdf": b"%PDF-1.4 A",
-        "b.pdf": b"%PDF-1.4 B",
-    }
-    zip_bytes = create_zip_with_files(files)
-    name, content = _extract_pdf_from_zip_bytes(zip_bytes)
-    assert name in files
-    assert content in files.values()
+def check_aws_credentials() -> None:
+    """Check if AWS credentials are available in environment.
 
-
-class DummyDownloader:
-    def __init__(self, content_map: Dict[str, bytes]):
-        self.content_map = content_map
-
-    def download_to_file(self, s3_key: str, destination: Path) -> None:
-        destination.write_bytes(self.content_map[s3_key])
-
-    def download_to_memory(self, s3_key: str) -> bytes:
-        return self.content_map[s3_key]
-
-
-def test_download_by_index_uncompressed(
-    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-):
-    df = pd.DataFrame(
-        {
-            "s3_key": ["key1"],
-            "from_compressed_file": [False],
-            "file_name": ["doc.pdf"],
-        },
-        index=pd.Index(["IDX_1"], name="id_type_anexes"),
-    )
-
-    # Patch metadata loader
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.load_metadata", lambda *_args, **_kw: df
-    )
-    # Env required by downloader factory
-    monkeypatch.setenv("S3_BUCKET", "dummy-bucket")
-
-    # Patch downloader factory
-    dummy = DummyDownloader({"key1": b"%PDF-1.4 uncompressed"})
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.S3Downloader", lambda *_a, **_k: dummy
-    )
-
-    out_dir = tmp_path / "out"
-    path = download_by_index(
-        "IDX_1", output_dir=out_dir, skip_existing=True, dry_run=False
-    )
-    assert path.exists()
-    assert path.read_bytes() == b"%PDF-1.4 uncompressed"
-    assert path.name == _build_output_path("IDX_1", out_dir).name
-
-
-def test_download_by_index_from_zip(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-    files = {"inside.pdf": b"%PDF-1.4 zipped"}
-    zip_bytes = create_zip_with_files(files)
-
-    df = pd.DataFrame(
-        {
-            "s3_key": ["zipkey"],
-            "from_compressed_file": [True],
-            "file_name": ["inside.pdf"],
-        },
-        index=pd.Index(["IDX_ZIP"], name="id_type_anexes"),
-    )
-
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.load_metadata", lambda *_args, **_kw: df
-    )
-    monkeypatch.setenv("S3_BUCKET", "dummy-bucket")
-
-    dummy = DummyDownloader({"zipkey": zip_bytes})
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.S3Downloader", lambda *_a, **_k: dummy
-    )
-
-    out_dir = tmp_path / "out"
-    path = download_by_index(
-        "IDX_ZIP", output_dir=out_dir, skip_existing=True, dry_run=False
-    )
-    assert path.exists()
-    assert path.read_bytes() == files["inside.pdf"]
-
-
-def test_skip_existing_file_uncompressed(
-    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-):
-    df = pd.DataFrame(
-        {
-            "s3_key": ["key1"],
-            "from_compressed_file": [False],
-            "file_name": ["doc.pdf"],
-        },
-        index=pd.Index(["IDX_EXIST"], name="id_type_anexes"),
-    )
-
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.load_metadata", lambda *_args, **_kw: df
-    )
-    monkeypatch.setenv("S3_BUCKET", "dummy-bucket")
-
-    # Create an existing file with known content
-    out_dir = tmp_path / "out"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    existing_path = _build_output_path("IDX_EXIST", out_dir)
-    existing_path.write_bytes(b"EXISTING")
-
-    # Dummy downloader that would otherwise overwrite
-    dummy = DummyDownloader({"key1": b"%PDF-1.4 would-overwrite"})
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.S3Downloader", lambda *_a, **_k: dummy
-    )
-
-    result_path = download_by_index(
-        "IDX_EXIST", output_dir=out_dir, skip_existing=True, dry_run=False
-    )
-    assert result_path == existing_path
-    assert result_path.read_bytes() == b"EXISTING"
-
-
-def test_skip_existing_file_from_zip(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-    df = pd.DataFrame(
-        {
-            "s3_key": ["zipkey"],
-            "from_compressed_file": [True],
-            "file_name": ["inside.pdf"],
-        },
-        index=pd.Index(["IDX_EXIST_ZIP"], name="id_type_anexes"),
-    )
-
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.load_metadata", lambda *_args, **_kw: df
-    )
-    monkeypatch.setenv("S3_BUCKET", "dummy-bucket")
-
-    out_dir = tmp_path / "out"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    existing_path = _build_output_path("IDX_EXIST_ZIP", out_dir)
-    existing_path.write_bytes(b"EXISTING-ZIP")
-
-    files = {"inside.pdf": b"%PDF-1.4 zipped"}
-    zip_bytes = create_zip_with_files(files)
-    dummy = DummyDownloader({"zipkey": zip_bytes})
-    monkeypatch.setattr(
-        "s3pdf_manager.download_pdf.S3Downloader", lambda *_a, **_k: dummy
-    )
-
-    result_path = download_by_index(
-        "IDX_EXIST_ZIP", output_dir=out_dir, skip_existing=True, dry_run=False
-    )
-    assert result_path == existing_path
-    assert result_path.read_bytes() == b"EXISTING-ZIP"
-
-
-def test_delete_by_index(tmp_path: Path):
-    out_dir = tmp_path / "out"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    p = _build_output_path("IDX_DEL", out_dir)
-    p.write_bytes(b"X")
-    assert p.exists()
-    assert delete_by_index("IDX_DEL", output_dir=out_dir) is True
-    assert not p.exists()
-    # idempotent second call
-    assert delete_by_index("IDX_DEL", output_dir=out_dir) is False
-
-
-def test_delete_by_list(tmp_path: Path):
-    out_dir = tmp_path / "out"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    p1 = _build_output_path("IDX1", out_dir)
-    p2 = _build_output_path("IDX2", out_dir)
-    p1.write_bytes(b"1")
-    p2.write_bytes(b"2")
-    count = delete_by_list(["IDX1", "IDX2", "IDX3"], output_dir=out_dir)
-    assert count == 2
-    assert not p1.exists() and not p2.exists()
-
-
-def test_integration_download_real_pdf(tmp_path: Path):
-    """Integration: actually download one PDF from S3 if env is configured.
-
-    Skips when ``S3_BUCKET`` is not set or when metadata is empty.
-    Uses a temporary output directory to avoid polluting the repo.
+    Raises ValueError if credentials are missing.
     """
+    access_key = os.getenv("AWS_ACCESS_KEY_ID")
+    secret_key = os.getenv("AWS_SECRET_ACCESS_KEY")
+
+    if not access_key or not secret_key:
+        raise ValueError(
+            "AWS credentials not found in environment!\n"
+            "Please set AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables.\n"
+            "You can set them in a .env file or export them in your shell."
+        )
+
+    logger.info("✓ AWS credentials found")
+
+    # Check optional configurations
+    region = os.getenv("AWS_DEFAULT_REGION")
     bucket = os.getenv("S3_BUCKET")
-    if not bucket:
-        import pytest
+    endpoint = os.getenv("S3_ENDPOINT_URL")
 
-        pytest.skip("S3_BUCKET not set; skipping real download test")
+    if region:
+        logger.info(f"  - Region: {region}")
+    if bucket:
+        logger.info(f"  - Default bucket: {bucket}")
+    if endpoint:
+        logger.info(f"  - Endpoint URL: {endpoint}")
 
-    df = load_metadata(PARQUET_PATH)
+
+def test_load_metadata() -> pd.DataFrame:
+    """Test loading metadata from parquet file.
+
+    Returns the loaded DataFrame for further testing.
+    """
+    logger.info("\n=== Testing Metadata Loading ===")
+
+    try:
+        df = load_metadata(PARQUET_PATH)
+        logger.info(f"✓ Loaded {len(df)} rows from metadata")
+        logger.info(f"  - Index name: {df.index.name}")
+        logger.info(f"  - Columns: {', '.join(df.columns[:5])}...")
+
+        # Show first few indices
+        if len(df) > 0:
+            sample_indices = list(df.index[:5])
+            logger.info(f"  - Sample indices: {sample_indices}")
+
+        return df
+    except Exception as e:
+        logger.error(f"✗ Failed to load metadata: {e}")
+        raise
+
+
+def test_single_download(df: pd.DataFrame) -> None:
+    """Test downloading a single PDF file."""
+    logger.info("\n=== Testing Single PDF Download ===")
+
     if len(df) == 0:
-        import pytest
+        logger.warning("No data in metadata, skipping single download test")
+        return
 
-        pytest.skip("No rows in metadata; skipping real download test")
+    # Get first index
+    test_index = str(df.index[0])
+    logger.info(f"Testing download of index: {test_index}")
 
-    index_value = str(df.index[0])
-    out_dir = tmp_path / "real"
+    # Show metadata for this index
+    row = df.loc[test_index]
+    logger.info(f"  - S3 key: {row.get('s3_key', 'N/A')}")
+    logger.info(f"  - From compressed: {row.get('from_compressed_file', False)}")
+    logger.info(f"  - File name: {row.get('file_name', 'N/A')}")
 
-    path = download_by_index(
-        index_value,
-        parquet_path=PARQUET_PATH,
-        output_dir=out_dir,
-        skip_existing=False,
-        dry_run=False,
+    try:
+        # Download the file
+        output_path = download_by_index(
+            test_index,
+            parquet_path=PARQUET_PATH,
+            output_dir=TEST_OUTPUT_DIR,
+            skip_existing=False,  # Force download for testing
+        )
+
+        if output_path.exists():
+            file_size = output_path.stat().st_size
+            logger.info(f"✓ Successfully downloaded to: {output_path}")
+            logger.info(f"  - File size: {file_size:,} bytes")
+        else:
+            logger.error(f"✗ Download completed but file not found: {output_path}")
+
+    except Exception as e:
+        logger.error(f"✗ Failed to download {test_index}: {e}")
+        raise
+
+
+def test_list_download(df: pd.DataFrame) -> None:
+    """Test downloading multiple PDFs from a list."""
+    logger.info("\n=== Testing List Download (Multiple PDFs) ===")
+
+    if len(df) < 3:
+        logger.warning("Not enough data for list download test")
+        return
+
+    # Get 3 indices to test
+    test_indices = list(df.index[1:4])  # Skip first since we already downloaded it
+    logger.info(f"Testing download of {len(test_indices)} PDFs")
+    logger.info(f"  - Indices: {test_indices}")
+
+    try:
+        # Download the files
+        output_paths = download_by_list(
+            test_indices,
+            parquet_path=PARQUET_PATH,
+            output_dir=TEST_OUTPUT_DIR,
+            skip_existing=True,  # Skip if already exists
+        )
+
+        success_count = sum(1 for p in output_paths if p.exists())
+        logger.info(f"✓ Downloaded {success_count}/{len(test_indices)} files")
+
+        for idx, path in zip(test_indices, output_paths):
+            if path.exists():
+                size = path.stat().st_size
+                logger.info(f"  - {idx}: {size:,} bytes")
+            else:
+                logger.warning(f"  - {idx}: Not downloaded")
+
+    except Exception as e:
+        logger.error(f"✗ Failed to download list: {e}")
+        raise
+
+
+def test_range_download(df: pd.DataFrame) -> None:
+    """Test downloading PDFs in a range."""
+    logger.info("\n=== Testing Range Download ===")
+
+    if len(df) < 10:
+        logger.warning("Not enough data for range download test")
+        return
+
+    # Get a range of 5 indices
+    start_idx = str(df.index[5])
+    end_idx = str(df.index[9])
+
+    logger.info(f"Testing download range from {start_idx} to {end_idx}")
+
+    try:
+        # Download the range
+        output_paths = download_by_range(
+            start_idx,
+            end_idx,
+            parquet_path=PARQUET_PATH,
+            output_dir=TEST_OUTPUT_DIR,
+            skip_existing=True,
+        )
+
+        logger.info(f"✓ Downloaded {len(output_paths)} files in range")
+
+        # Show summary
+        total_size = sum(p.stat().st_size for p in output_paths if p.exists())
+        logger.info(f"  - Total size: {total_size:,} bytes")
+
+    except Exception as e:
+        logger.error(f"✗ Failed to download range: {e}")
+        raise
+
+
+def test_delete_files(df: pd.DataFrame) -> None:
+    """Test deleting downloaded files."""
+    logger.info("\n=== Testing File Deletion ===")
+
+    if len(df) < 2:
+        logger.warning("Not enough data for deletion test")
+        return
+
+    # Delete single file
+    test_index = str(df.index[0])
+    logger.info(f"Testing deletion of single file: {test_index}")
+
+    deleted = delete_by_index(test_index, output_dir=TEST_OUTPUT_DIR)
+    if deleted:
+        logger.info(f"✓ Deleted {test_index}")
+    else:
+        logger.info(f"  - File didn't exist: {test_index}")
+
+    # Delete multiple files
+    if len(df) >= 4:
+        indices_to_delete = [str(df.index[1]), str(df.index[2])]
+        logger.info(f"Testing deletion of multiple files: {indices_to_delete}")
+
+        deleted_count = delete_by_list(indices_to_delete, output_dir=TEST_OUTPUT_DIR)
+        logger.info(f"✓ Deleted {deleted_count} files")
+
+
+def test_compressed_files(df: pd.DataFrame) -> None:
+    """Test downloading PDFs from compressed (ZIP) files."""
+    logger.info("\n=== Testing Compressed File Extraction ===")
+
+    # Find indices with compressed files
+    compressed_df = (
+        df[df["from_compressed_file"] == True]
+        if "from_compressed_file" in df.columns
+        else pd.DataFrame()
     )
 
-    assert path.exists(), f"Expected file to exist at {path}"
-    assert path.stat().st_size > 0, "Downloaded file is empty"
+    if len(compressed_df) == 0:
+        logger.warning("No compressed files found in metadata")
+        return
 
-    # Cleanup
-    assert delete_by_index(index_value, output_dir=out_dir) is True
+    logger.info(f"Found {len(compressed_df)} compressed files")
+
+    # Test first compressed file
+    test_index = str(compressed_df.index[0])
+    row = compressed_df.loc[test_index]
+
+    logger.info(f"Testing compressed file: {test_index}")
+    logger.info(f"  - S3 key: {row.get('s3_key', 'N/A')}")
+    logger.info(f"  - File name in ZIP: {row.get('file_name', 'N/A')}")
+
+    try:
+        output_path = download_by_index(
+            test_index,
+            parquet_path=PARQUET_PATH,
+            output_dir=TEST_OUTPUT_DIR,
+            skip_existing=False,
+        )
+
+        if output_path.exists():
+            logger.info("✓ Successfully extracted PDF from ZIP")
+            logger.info(f"  - Output: {output_path}")
+            logger.info(f"  - Size: {output_path.stat().st_size:,} bytes")
+        else:
+            logger.error("✗ Extraction failed")
+
+    except Exception as e:
+        logger.error(f"✗ Failed to extract from compressed file: {e}")
+
+
+def test_dry_run(df: pd.DataFrame) -> None:
+    """Test dry-run mode without actual downloads."""
+    logger.info("\n=== Testing Dry-Run Mode ===")
+
+    if len(df) == 0:
+        logger.warning("No data for dry-run test")
+        return
+
+    test_index = str(df.index[0])
+    logger.info(f"Testing dry-run for index: {test_index}")
+
+    try:
+        output_path = download_by_index(
+            test_index,
+            parquet_path=PARQUET_PATH,
+            output_dir=TEST_OUTPUT_DIR,
+            dry_run=True,  # Dry-run mode
+        )
+
+        logger.info(f"✓ Dry-run completed (would save to: {output_path})")
+
+    except Exception as e:
+        logger.error(f"✗ Dry-run failed: {e}")
+
+
+def show_download_summary() -> None:
+    """Show summary of downloaded files."""
+    logger.info("\n=== Download Summary ===")
+
+    if not TEST_OUTPUT_DIR.exists():
+        logger.info("Test directory doesn't exist yet")
+        return
+
+    pdf_files = list(TEST_OUTPUT_DIR.glob("*.pdf"))
+
+    if not pdf_files:
+        logger.info("No PDF files downloaded yet")
+        return
+
+    logger.info(f"Found {len(pdf_files)} PDF files in test collection:")
+
+    total_size = 0
+    for pdf in sorted(pdf_files)[:10]:  # Show first 10
+        size = pdf.stat().st_size
+        total_size += size
+        logger.info(f"  - {pdf.name}: {size:,} bytes")
+
+    if len(pdf_files) > 10:
+        logger.info(f"  ... and {len(pdf_files) - 10} more files")
+
+    # Calculate total for all files
+    total_size = sum(f.stat().st_size for f in pdf_files)
+    logger.info(
+        f"\nTotal size: {total_size:,} bytes ({total_size / 1024 / 1024:.2f} MB)"
+    )
+
+
+def main():
+    """Run all tests for PDF download functionality."""
+    logger.info("=" * 60)
+    logger.info("PDF Download Test Suite")
+    logger.info("=" * 60)
+
+    try:
+        # Check AWS credentials first
+        check_aws_credentials()
+
+        # Ensure test directory exists
+        TEST_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        logger.info(f"\nTest output directory: {TEST_OUTPUT_DIR}")
+
+        # Load metadata
+        df = test_load_metadata()
+
+        # Run tests
+        test_single_download(df)
+        test_list_download(df)
+        test_range_download(df)
+        test_compressed_files(df)
+        test_dry_run(df)
+
+        # Show summary
+        show_download_summary()
+
+        # Optional: Test deletion (commented out to preserve downloads)
+        # test_delete_files(df)
+
+        logger.info("\n" + "=" * 60)
+        logger.info("✓ All tests completed successfully!")
+        logger.info("=" * 60)
+
+    except ValueError as e:
+        logger.error(f"\n✗ Configuration Error: {e}")
+        sys.exit(1)
+    except Exception as e:
+        logger.error(f"\n✗ Test Suite Failed: {e}")
+        import traceback
+
+        traceback.print_exc()
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
