@@ -1,0 +1,4 @@
+---
+alwaysApply: true
+---
+Unless the user explicitely asks for, never create/write markdown files reporting what you do or have done.

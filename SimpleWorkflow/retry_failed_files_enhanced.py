@@ -17,7 +17,8 @@ Key Enhancements:
 10. Advanced retry strategies
 
 Run with default (looks in SimpleWorkflow/ParsedFiles):
-    uv run python SimpleWorkflow/retry_failed_files_enhanced.py
+
+uv run python SimpleWorkflow/retry_failed_files_enhanced.py
 
 Specify custom input directory:
     uv run python SimpleWorkflow/retry_failed_files_enhanced.py \
