@@ -1,0 +1,2 @@
+# This file ensures the documents_to_upsert directory is tracked by git
+# All JSON document files in this directory are ignored per .gitignore

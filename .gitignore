@@ -123,3 +123,7 @@ docs_colletions/**/*
 !docs_colletions/**/
 !docs_colletions/.gitkeep
 !docs_colletions/**/.gitkeep
+
+# Keep documents_to_upsert folder but ignore all JSON files inside
+PrepareDocsForUpsert/OneToOneDocs/documents_to_upsert/*
+!PrepareDocsForUpsert/OneToOneDocs/documents_to_upsert/.gitkeep
