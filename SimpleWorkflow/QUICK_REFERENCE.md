@@ -191,3 +191,5 @@ uv run python SimpleWorkflow/pdf_processor.py --clear-state
 **Scalability:** Millions of files
 
 *Last updated: October 9, 2025*
+
+
