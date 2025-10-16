@@ -41,4 +41,5 @@ dependencies = [
     "neo4j>=6.0.2",
     "langchain-openai>=0.3.35",
     "langchain-community>=0.3.31",
+    "fastmcp>=2.12.4",
 ]

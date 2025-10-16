@@ -2,6 +2,9 @@
 
 This script loads documents from the documents_to_upsert directory
 and populates the Neo4j knowledge graph with proper nodes and relationships.
+
+uv run python Neo4j/upsert/add_documents.py
+
 """
 
 # %%
@@ -17,7 +20,6 @@ sys.path.append(str(Path(__file__).parent.parent.parent))
 from Neo4j.create.KnowledgeGraphDB import KnowledgeGraphDB
 from PrepareDocsForUpsert.OneToOneDocs.load_documents import (
     load_all_documents,
-    load_document_from_json,
 )
 
 # Configure logging
@@ -120,7 +122,6 @@ def print_unique_metadata_values(documents: list) -> dict[str, set]:
 def populate_knowledge_graph(
     documents_dir: Path | None = None,
     batch_size: int = 50,
-    max_documents: int | None = None,
     clear_existing: bool = False,
 ) -> None:
     """Populate the Neo4j knowledge graph with documents.
@@ -128,7 +129,6 @@ def populate_knowledge_graph(
     Args:
         documents_dir: Directory containing JSON document files
         batch_size: Number of documents to process at once
-        max_documents: Maximum number of documents to process (None for all)
         clear_existing: Whether to clear existing data before populating
     """
     # Default documents directory
@@ -171,16 +171,8 @@ def populate_knowledge_graph(
 
     # Load documents
     print(f"\nLoading documents from {documents_dir}...")
-    if max_documents:
-        json_files = sorted(documents_dir.glob("*.json"))[:max_documents]
-        documents = []
-        for json_file in json_files:
-            doc = load_document_from_json(json_file)
-            documents.append(doc)
-        print(f"Loaded {len(documents)} documents (limited to {max_documents})")
-    else:
-        documents = load_all_documents(documents_dir)
-        print(f"Loaded {len(documents)} documents")
+    documents = load_all_documents(documents_dir)
+    print(f"Loaded {len(documents)} documents")
 
     # Analyze metadata
     unique_values = print_unique_metadata_values(documents)
@@ -256,6 +248,7 @@ def populate_knowledge_graph(
 
     print("\n" + "=" * 80)
     print("✓ Knowledge graph population complete!")
+    print(f"Total of {len(documents)} documents uploaded successfully.")
     print("✓ Ready for HybridCypherRetriever and GraphRAG queries")
     print("=" * 80)
 
@@ -277,11 +270,6 @@ def main() -> None:
         help="Number of documents to process in each batch (default: 50)",
     )
     parser.add_argument(
-        "--max-documents",
-        type=int,
-        help="Maximum number of documents to process (default: all)",
-    )
-    parser.add_argument(
         "--clear",
         action="store_true",
         help="Clear existing graph data before populating",
@@ -297,7 +285,6 @@ def main() -> None:
     populate_knowledge_graph(
         documents_dir=args.documents_dir,
         batch_size=args.batch_size,
-        max_documents=args.max_documents,
         clear_existing=args.clear,
     )
 

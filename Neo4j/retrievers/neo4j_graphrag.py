@@ -2,6 +2,8 @@
 
 This module provides a retriever compatible with the neo4j-graphrag package
 that performs hybrid search combining vector similarity with Cypher graph traversal.
+
+poetry run python Neo4j/retrievers/neo4j_graphrag.py
 """
 
 # %%
@@ -305,38 +307,31 @@ Answer: """
         return result
 
 
-def example_usage():
-    """Example of using the HybridCypherRetriever with GraphRAG."""
-    from Neo4j.connection.conn import Neo4jConnection
+from Neo4j.connection.conn import Neo4jConnection
 
-    print("=" * 80)
-    print("Neo4j GraphRAG with HybridCypherRetriever Example")
-    print("=" * 80)
-    print()
+# Initialize connection
+conn = Neo4jConnection()
+driver = conn.driver
 
-    # Initialize connection
-    conn = Neo4jConnection()
-    driver = conn.driver
+# Initialize embedder
+embedder = OpenAIEmbeddings(model="text-embedding-3-large")
 
-    # Initialize embedder
-    embedder = OpenAIEmbeddings(model="text-embedding-3-large")
+# Initialize retriever
+retriever = HybridCypherRetriever(
+    driver=driver,
+    vector_index_name="document_embeddings",
+    fulltext_index_name="document_content",
+    embedder=embedder,
+)
 
-    # Initialize retriever
-    retriever = HybridCypherRetriever(
-        driver=driver,
-        vector_index_name="document_embeddings",
-        fulltext_index_name="document_content",
-        embedder=embedder,
-    )
+# Initialize LLM
+llm = ChatOpenAI(
+    model="gpt-4.1",
+    temperature=0,
+)
 
-    # Initialize LLM
-    llm = ChatOpenAI(
-        model="gpt-4o-mini",
-        temperature=0,
-    )
-
-    # Custom RAG template
-    rag_template = """
+# Custom RAG template
+RAG_TEMPLATE = """
 You are an expert environmental consultant analyzing environmental impact assessments.
 Based on the provided context, answer the question accurately and comprehensively.
 If the context doesn't contain enough information, clearly state what's missing.
@@ -349,18 +344,18 @@ Question: {question}
 Provide a detailed answer based on the documents:
 """
 
-    # Initialize GraphRAG
-    graph_rag = GraphRAG(
-        retriever=retriever,
-        llm=llm,
-        prompt_template=rag_template,
-    )
+# Initialize GraphRAG
+graph_rag_searcher = GraphRAG(
+    retriever=retriever,
+    llm=llm,
+    prompt_template=RAG_TEMPLATE,
+)
 
+
+if __name__ == "__main__":
     # Example queries
     queries = [
         "¿Cuál es el impacto ambiental del proyecto en la flora y fauna?",
-        "¿Qué medidas de mitigación se proponen?",
-        "¿En qué región se desarrolla el proyecto?",
     ]
 
     for query in queries:
@@ -369,7 +364,7 @@ Provide a detailed answer based on the documents:
         print("-" * 60)
 
         # Search with GraphRAG
-        response = graph_rag.search(
+        response = graph_rag_searcher.search(
             query_text=query,
             retriever_config={"top_k": 3, "threshold": 0.6},
             return_context=True,
@@ -377,18 +372,6 @@ Provide a detailed answer based on the documents:
 
         print(f"Answer: {response['answer']}")
 
-        if "context" in response:
-            print(f"\nRetrieved {len(response['context'])} documents:")
-            for i, ctx in enumerate(response["context"], 1):
-                metadata = ctx["metadata"]
-                print(f"  {i}. {metadata['filename']} (score: {metadata['score']:.3f})")
-                print(f"     Project: {metadata['project']}")
-                print(f"     Region: {metadata['region']}")
-
     # Clean up
     conn.close()
     print("\n✓ Example complete")
-
-
-if __name__ == "__main__":
-    example_usage()

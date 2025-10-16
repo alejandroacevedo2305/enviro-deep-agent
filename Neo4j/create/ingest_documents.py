@@ -2,6 +2,8 @@
 
 This script loads documents from the documents_to_upsert directory
 and populates the Neo4j knowledge graph for hybrid search.
+
+uv run python Neo4j/create/ingest_documents.py
 """
 
 # %%
