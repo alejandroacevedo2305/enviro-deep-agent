@@ -2,6 +2,10 @@
 
 This module provides a retriever that can be used with neo4j-graphrag
 for hybrid search combining vector similarity and Cypher graph traversal.
+
+
+uv run Neo4j/retrievers/HybridCypher.py
+
 """
 
 # %%
@@ -246,8 +250,8 @@ def example_usage():
             print(f"\nResult {i} (Score: {result['score']:.3f}):")
             print(f"File: {result['filename']}")
             print(f"Metadata: {result['metadata']}")
-            print("Context preview:")
-            print(result["content"][:300] + "...")
+            print("Content:")
+            print(result["content"])
 
     # Clean up
     conn.close()

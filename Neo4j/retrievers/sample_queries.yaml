@@ -1,0 +1,1050 @@
+# Sample Cypher queries for testing cypher_runner.
+# Each entry has 'pregunta' and 'cypher_query' fields.
+#
+# These examples are aligned with the graph built in
+# Neo4j/create/KnowledgeGraphDB.py, which defines:
+# - Nodes: Document, Project, Region, Commune, ProjectType, Typology, Class
+# - Relationships from Document to the others as created in that module.
+
+- pregunta: "Contar total de documentos en la base de datos"
+  cypher_query: |
+    MATCH (d:Document)
+    RETURN count(d) AS total_documents
+
+- pregunta: "Obtener primeros 3 documentos (id, nombre archivo, fragmento)"
+  cypher_query: |
+    MATCH (d:Document)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           substring(d.content, 0, 100) AS snippet
+    LIMIT 3
+
+- pregunta: "Mostrar todos los tipos de relaciones presentes en la base de datos"
+  cypher_query: |
+    CALL db.relationshipTypes() YIELD relationshipType
+    RETURN relationshipType
+    ORDER BY relationshipType
+
+- pregunta: "Mostrar índices"
+  cypher_query: |
+    SHOW INDEXES
+    YIELD name, type, entityType, labelsOrTypes, properties, state
+    RETURN name, type, entityType, labelsOrTypes, properties, state
+
+- pregunta: "Mostrar restricciones"
+  cypher_query: |
+    SHOW CONSTRAINTS
+    YIELD name, type, entityType, labelsOrTypes, properties
+    RETURN name, type, entityType, labelsOrTypes, properties
+
+- pregunta: "Contar nodos por etiqueta"
+  cypher_query: |
+    CALL db.labels() YIELD label
+    CALL {
+      WITH label
+      MATCH (n)
+      WHERE label IN labels(n)
+      RETURN count(n) AS count
+    }
+    RETURN label, count
+    ORDER BY count DESC
+
+- pregunta: "Obtener estadísticas de la base de datos (nodos y relaciones)"
+  cypher_query: |
+    MATCH (n)
+    WITH count(n) AS node_count
+    MATCH ()-[r]->()
+    RETURN node_count, count(r) AS relationship_count
+
+- pregunta: "Documentos por tipo de proyecto"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN pt.name AS project_type, count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Documentos por región"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region)
+    RETURN r.name AS region, count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Documentos por comuna"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_COMMUNE]->(cm:Commune)
+    RETURN cm.name AS commune, count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Documentos por tipología"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology)
+    RETURN t.code AS typology, count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Documentos por proyecto"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)
+    RETURN p.name AS project, count(d) AS num_docs
+    ORDER BY num_docs DESC
+    LIMIT 10
+
+- pregunta: "Metadatos de documentos con clases agregadas"
+  cypher_query: |
+    MATCH (d:Document)
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c:Class)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.documentType AS document_type,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           pt.name AS project_type,
+           t.code AS typology,
+           collect(DISTINCT c.name) AS classes
+    LIMIT 10
+
+- pregunta: "Top 20 clases por frecuencia"
+  cypher_query: |
+    MATCH (:Document)-[:HAS_CLASS]->(c:Class)
+    RETURN c.name AS class, count(*) AS freq
+    ORDER BY freq DESC
+    LIMIT 20
+
+- pregunta: "Co-ocurrencia de clases entre documentos"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class)
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c1.name < c2.name
+    RETURN c1.name AS class_a, c2.name AS class_b, count(DISTINCT d) AS together
+    ORDER BY together DESC
+    LIMIT 20
+
+- pregunta: "Documentos más recientes por fecha"
+  cypher_query: |
+    MATCH (d:Document)
+    RETURN d.id AS doc_id, d.filename AS filename, d.date AS date
+    ORDER BY date DESC
+    LIMIT 10
+
+- pregunta: "Búsqueda de texto completo sobre contenido/resumen (consulta de ejemplo)"
+  cypher_query: |
+    CALL db.index.fulltext.queryNodes('document_content', 'water OR river')
+    YIELD node, score
+    RETURN node.id AS doc_id, node.filename AS filename, score
+    ORDER BY score DESC
+    LIMIT 10
+
+- pregunta: "Conteo cruzado de región vs tipología"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    RETURN r.name AS region, t.code AS typology, count(d) AS num_docs
+    ORDER BY num_docs DESC
+    LIMIT 20
+
+- pregunta: "Encontrar proyectos con documentos en múltiples regiones"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)-[:IN_REGION]->(r:Region)
+    WITH p, collect(DISTINCT r.name) AS regions, count(DISTINCT d) AS num_docs
+    WHERE size(regions) > 1
+    RETURN p.name AS project, regions, num_docs
+    ORDER BY size(regions) DESC, num_docs DESC
+    LIMIT 15
+
+- pregunta: "Documentos por tipo de proyecto en Región Metropolitana de Santiago"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region {name: 'Región Metropolitana de Santiago'})
+    MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN pt.name AS project_type, count(d) AS num_docs
+    ORDER BY num_docs DESC
+    LIMIT 15
+
+- pregunta: "Top comunas por conteo de documentos para proyectos mineros (tipología i1)"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'i1'})
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    RETURN cm.name AS commune, count(d) AS num_docs
+    ORDER BY num_docs DESC
+    LIMIT 15
+
+- pregunta: "Proyectos con más documentos relacionados a Flora"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)-[:HAS_CLASS]->(c:Class)
+    WHERE c.name IN ['Flora', 'Flora y Vegetación', 'Bosque Nativo']
+    WITH p, collect(DISTINCT c.name) AS flora_classes, count(DISTINCT d) AS num_docs
+    RETURN p.name AS project, flora_classes, num_docs
+    ORDER BY num_docs DESC
+    LIMIT 15
+
+- pregunta: "Documentos con clases tanto de Flora como de Fauna"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class)
+    WHERE c1.name CONTAINS 'Flora'
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name CONTAINS 'Fauna'
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           p.name AS project,
+           r.name AS region
+    LIMIT 20
+
+- pregunta: "Proyectos de energía (tipo 'Centrales generadoras') por región"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    WHERE pt.name CONTAINS 'Centrales generadoras'
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN r.name AS region, count(DISTINCT d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Proyectos en 'Región de Antofagasta' con distribución de tipologías"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region {name: 'Región de Antofagasta'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    WITH p, collect(DISTINCT t.code) AS typologies, count(d) AS num_docs
+    RETURN p.name AS project, typologies, num_docs
+    ORDER BY num_docs DESC
+    LIMIT 15
+
+- pregunta: "Diversidad de clases por proyecto (proyectos con más clases únicas)"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)-[:HAS_CLASS]->(c:Class)
+    WITH p, collect(DISTINCT c.name) AS classes, count(DISTINCT d) AS num_docs
+    RETURN p.name AS project,
+           size(classes) AS num_unique_classes,
+           num_docs,
+           classes[0..5] AS sample_classes
+    ORDER BY num_unique_classes DESC
+    LIMIT 15
+
+- pregunta: "Comunas con proyectos de energía renovable (tipología c)"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'c'})
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    WITH cm, r, count(DISTINCT d) AS num_docs
+    RETURN cm.name AS commune, r.name AS region, num_docs
+    ORDER BY num_docs DESC
+    LIMIT 20
+
+- pregunta: "Documentos con clasificaciones PAS por tipo de proyecto"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class)
+    WHERE c.name STARTS WITH 'PAS'
+    MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN pt.name AS project_type, c.name AS pas_class, count(d) AS num_docs
+    ORDER BY num_docs DESC
+    LIMIT 20
+
+- pregunta: "Regiones con mayor diversidad de clases"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c:Class)
+    WITH r, collect(DISTINCT c.name) AS classes, count(DISTINCT d) AS num_docs
+    RETURN r.name AS region,
+           size(classes) AS num_unique_classes,
+           num_docs,
+           classes[0..5] AS sample_classes
+    ORDER BY num_unique_classes DESC
+
+- pregunta: "Proyectos que abarcan múltiples comunas"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)-[:IN_COMMUNE]->(cm:Commune)
+    WITH p, collect(DISTINCT cm.name) AS communes, count(DISTINCT d) AS num_docs
+    WHERE size(communes) > 1
+    RETURN p.name AS project, size(communes) AS num_communes, num_docs
+    ORDER BY num_communes DESC, num_docs DESC
+    LIMIT 15
+
+- pregunta: "Documentos con clase Adenda agrupados por tipo de proyecto"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN pt.name AS project_type, count(d) AS num_adendas
+    ORDER BY num_adendas DESC
+    LIMIT 15
+
+- pregunta: "Co-ocurrencia de tipos de proyecto dentro de comunas"
+  cypher_query: |
+    MATCH (d1:Document)-[:IN_COMMUNE]->(cm:Commune)
+    MATCH (d1)-[:HAS_PROJECT_TYPE]->(pt1:ProjectType)
+    MATCH (d2:Document)-[:IN_COMMUNE]->(cm)
+    MATCH (d2)-[:HAS_PROJECT_TYPE]->(pt2:ProjectType)
+    WHERE pt1.name < pt2.name
+    RETURN pt1.name AS type_a,
+           pt2.name AS type_b,
+           count(DISTINCT cm) AS communes_in_common
+    ORDER BY communes_in_common DESC
+    LIMIT 15
+
+- pregunta: "Promedio de documentos por proyecto por región"
+  cypher_query: |
+    MATCH (d:Document)-[:BELONGS_TO]->(p:Project)
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    WITH r, p, count(d) AS docs_in_project
+    RETURN r.name AS region,
+           count(DISTINCT p) AS num_projects,
+           avg(docs_in_project) AS avg_docs_per_project,
+           max(docs_in_project) AS max_docs_per_project
+    ORDER BY avg_docs_per_project DESC
+
+- pregunta: "Encontrar documentos con combinaciones raras de clases (< 10 ocurrencias)"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class)
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c1.name < c2.name
+    WITH c1.name AS class_a, c2.name AS class_b, count(DISTINCT d) AS together
+    WHERE together < 10 AND together > 1
+    RETURN class_a, class_b, together
+    ORDER BY together DESC
+    LIMIT 20
+
+- pregunta: "Distribución de tipologías dentro de proyectos 'Centrales generadoras'"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    WHERE pt.name CONTAINS 'Centrales generadoras'
+    MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    RETURN t.code AS typology, count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Proyectos con documentos que contienen clase 'Línea Base'"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Línea Base'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    WITH p, r, count(d) AS num_docs_linea_base
+    RETURN p.name AS project,
+           r.name AS region,
+           num_docs_linea_base
+    ORDER BY num_docs_linea_base DESC
+    LIMIT 15
+
+- pregunta: "Regiones con proyectos de petróleo/gas (tipología i4)"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'i4'})
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    RETURN r.name AS region,
+           count(DISTINCT p) AS num_projects,
+           count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Clases que aparecen exclusivamente en documentos mineros (i1, i2, i3)"
+  cypher_query: |
+    MATCH (d_mining:Document)-[:HAS_TIPOLOGIA]->(t:Typology)
+    WHERE t.code IN ['i1', 'i2', 'i3']
+    MATCH (d_mining)-[:HAS_CLASS]->(c:Class)
+    WITH c, count(DISTINCT d_mining) AS mining_count
+    MATCH (d_all:Document)-[:HAS_CLASS]->(c)
+    WITH c, mining_count, count(d_all) AS total_count
+    WHERE mining_count = total_count AND total_count > 5
+    RETURN c.name AS class_name, mining_count
+    ORDER BY mining_count DESC
+    LIMIT 15
+
+- pregunta: "Documentos creados en el último lote indexado (Oct 2025)"
+  cypher_query: |
+    MATCH (d:Document)
+    WHERE d.date >= datetime('2025-10-01T00:00:00')
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.date AS created_date,
+           p.name AS project,
+           r.name AS region
+    ORDER BY d.date DESC
+    LIMIT 20
+
+- pregunta: "Comunas con tipologías diversas (> 5 tipos únicos)"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    WITH cm, collect(DISTINCT t.code) AS typologies, count(d) AS num_docs
+    WHERE size(typologies) > 5
+    RETURN cm.name AS commune, typologies, size(typologies) AS num_typologies, num_docs
+    ORDER BY num_typologies DESC
+    LIMIT 15
+
+- pregunta: "Proyectos con documentos de clasificación ICSARA"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'ICSARA'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    WITH p, r, count(d) AS num_icsara_docs
+    RETURN p.name AS project, r.name AS region, num_icsara_docs
+    ORDER BY num_icsara_docs DESC
+    LIMIT 15
+
+- pregunta: "Densidad del grafo: ratio de relaciones a relaciones posibles"
+  cypher_query: |
+    MATCH (d:Document)
+    WITH count(d) AS doc_count
+    MATCH ()-[r]->()
+    WITH doc_count, count(r) AS rel_count
+    RETURN doc_count AS total_documents,
+           rel_count AS total_relationships,
+           toFloat(rel_count) / doc_count AS avg_rels_per_doc
+
+- pregunta: "Encontrar todos los caminos desde un documento específico a su contexto (2 saltos)"
+  cypher_query: |
+    MATCH path = (d:Document)-[*1..2]->(related)
+    WHERE d.id = '2129155081-ei-document-anexes-file_id_768698'
+    RETURN d.id AS source_doc,
+           [node in nodes(path) | labels(node)[0]] AS node_labels,
+           [rel in relationships(path) | type(rel)] AS rel_types,
+           related.name AS related_entity
+    LIMIT 20
+
+- pregunta: "Análisis de documentos ICSARA: distribución por región"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'ICSARA'})
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN r.name AS region, count(d) AS num_icsara_docs
+    ORDER BY num_icsara_docs DESC
+
+- pregunta: "Análisis de documentos Adenda: distribución por región"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN r.name AS region, count(d) AS num_adenda_docs
+    ORDER BY num_adenda_docs DESC
+
+- pregunta: "Proyectos con mayor cantidad de documentos ICSARA"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'ICSARA'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    WITH p, r, count(d) AS num_icsara
+    RETURN p.name AS project,
+           r.name AS region,
+           num_icsara
+    ORDER BY num_icsara DESC
+    LIMIT 20
+
+- pregunta: "Proyectos con mayor cantidad de documentos Adenda"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    WITH p, r, count(d) AS num_adendas
+    RETURN p.name AS project,
+           r.name AS region,
+           num_adendas
+    ORDER BY num_adendas DESC
+    LIMIT 20
+
+- pregunta: "Comparación: proyectos con ICSARA vs Adenda"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c1:Class {name: 'ICSARA'})
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c2:Class {name: 'Adenda'})
+    WITH p,
+         count(DISTINCT CASE WHEN c1 IS NOT NULL THEN d END) AS icsara_count,
+         count(DISTINCT CASE WHEN c2 IS NOT NULL THEN d END) AS adenda_count
+    WHERE icsara_count > 0 OR adenda_count > 0
+    RETURN p.name AS project,
+           icsara_count,
+           adenda_count,
+           icsara_count + adenda_count AS total
+    ORDER BY total DESC
+    LIMIT 20
+
+- pregunta: "Documentos con ambas clases: ICSARA y Adenda"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'ICSARA'})
+    MATCH (d)-[:HAS_CLASS]->(c2:Class {name: 'Adenda'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           p.name AS project,
+           r.name AS region,
+           pt.name AS project_type
+    LIMIT 30
+
+- pregunta: "Ratio ICSARA/Adenda por tipo de proyecto"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c1:Class {name: 'ICSARA'})
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c2:Class {name: 'Adenda'})
+    WITH pt,
+         count(DISTINCT CASE WHEN c1 IS NOT NULL THEN d END) AS icsara_count,
+         count(DISTINCT CASE WHEN c2 IS NOT NULL THEN d END) AS adenda_count
+    WHERE icsara_count > 0 OR adenda_count > 0
+    RETURN pt.name AS project_type,
+           icsara_count,
+           adenda_count,
+           CASE WHEN adenda_count > 0
+                THEN round(toFloat(icsara_count) / adenda_count, 2)
+                ELSE null
+           END AS icsara_adenda_ratio
+    ORDER BY icsara_count + adenda_count DESC
+    LIMIT 20
+
+- pregunta: "Comunas con documentos ICSARA y su distribución por tipología"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'ICSARA'})
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    WITH cm, collect(DISTINCT t.code) AS tipologias, count(d) AS num_docs
+    RETURN cm.name AS commune,
+           tipologias,
+           size(tipologias) AS num_tipologias,
+           num_docs
+    ORDER BY num_docs DESC
+    LIMIT 20
+
+- pregunta: "Timeline de documentos Adenda: distribución mensual 2025"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    WHERE d.date >= datetime('2025-01-01T00:00:00')
+      AND d.date < datetime('2026-01-01T00:00:00')
+    WITH date.truncate('month', d.date) AS month, count(d) AS num_adendas
+    RETURN toString(month) AS mes, num_adendas
+    ORDER BY month
+
+- pregunta: "Co-ocurrencia de otras clases con ICSARA"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'ICSARA'})
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name <> 'ICSARA'
+    WITH c2.name AS other_class, count(DISTINCT d) AS co_occurrence
+    RETURN other_class, co_occurrence
+    ORDER BY co_occurrence DESC
+    LIMIT 15
+
+- pregunta: "Extraer contenido completo de un documento específico por ID"
+  cypher_query: |
+    MATCH (d:Document {id: '2129155081-ei-document-anexes-file_id_768698'})
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           d.documentType AS document_type,
+           d.date AS created_date
+
+- pregunta: "Extraer primeras 500 caracteres de contenido de documentos ICSARA"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'ICSARA'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           substring(d.content, 0, 500) AS content_preview,
+           p.name AS project
+    LIMIT 10
+
+- pregunta: "Extraer contenido de documentos Adenda de un proyecto específico"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project {name: 'Parque Fotovoltaico La Chupalla'})
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           d.date AS created_date
+    ORDER BY d.date DESC
+
+- pregunta: "Buscar documentos por contenido (búsqueda de texto en content)"
+  cypher_query: |
+    MATCH (d:Document)
+    WHERE d.content CONTAINS 'flora' OR d.content CONTAINS 'fauna'
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           substring(d.content, 0, 300) AS content_preview,
+           p.name AS project,
+           r.name AS region
+    LIMIT 20
+
+- pregunta: "Extraer contenido completo de documentos más recientes"
+  cypher_query: |
+    MATCH (d:Document)
+    WHERE d.date >= datetime('2025-10-01T00:00:00')
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c:Class)
+    WITH d, p, collect(DISTINCT c.name) AS classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           d.date AS created_date,
+           p.name AS project,
+           classes
+    ORDER BY d.date DESC
+    LIMIT 5
+
+- pregunta: "Documentos con contenido más largo (top 10 por tamaño)"
+  cypher_query: |
+    MATCH (d:Document)
+    WHERE d.content IS NOT NULL
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c:Class)
+    WITH d, p, collect(DISTINCT c.name) AS classes, size(d.content) AS content_length
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           content_length,
+           substring(d.content, 0, 200) AS content_preview,
+           p.name AS project,
+           classes
+    ORDER BY content_length DESC
+    LIMIT 10
+
+- pregunta: "Contenido completo de documentos ICSARA en Región Metropolitana"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'ICSARA'})
+    MATCH (d)-[:IN_REGION]->(r:Region {name: 'Región Metropolitana de Santiago'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           pt.name AS project_type,
+           d.date AS created_date
+    LIMIT 5
+
+- pregunta: "Contenido de documentos Adenda de proyectos mineros (tipología i1)"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'i1'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           d.date AS created_date
+    ORDER BY d.date DESC
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Flora y Fauna en Región de Antofagasta"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class)
+    WHERE c1.name CONTAINS 'Flora'
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name CONTAINS 'Fauna'
+    MATCH (d)-[:IN_REGION]->(r:Region {name: 'Región de Antofagasta'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c:Class)
+    WITH d, p, r, collect(DISTINCT c.name) AS all_classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           all_classes AS classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos de energía renovable (tipología c) en comunas específicas"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'c'})
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    WHERE cm.name IN ['Antofagasta', 'Calama', 'Copiapó']
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           pt.name AS project_type
+    LIMIT 8
+
+- pregunta: "Contenido de documentos con Línea Base de proyectos en múltiples regiones"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Línea Base'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    MATCH (p)<-[:BELONGS_TO]-(d2:Document)-[:IN_REGION]->(r:Region)
+    WITH p, collect(DISTINCT r.name) AS regions
+    WHERE size(regions) > 1
+    MATCH (p)<-[:BELONGS_TO]-(doc:Document)-[:HAS_CLASS]->(c2:Class {name: 'Línea Base'})
+    OPTIONAL MATCH (doc)-[:IN_REGION]->(reg:Region)
+    RETURN doc.id AS doc_id,
+           doc.filename AS filename,
+           doc.content AS page_content,
+           p.name AS project,
+           reg.name AS region,
+           regions AS project_regions
+    LIMIT 5
+
+- pregunta: "Contenido de documentos PAS 148 de proyectos con Bosque Nativo"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'PAS 148'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    MATCH (p)<-[:BELONGS_TO]-(d2:Document)-[:HAS_CLASS]->(c2:Class {name: 'Bosque Nativo'})
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN DISTINCT d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           pt.name AS project_type
+    LIMIT 5
+
+- pregunta: "Contenido de documentos ICSARA y Adenda de proyectos energéticos recientes"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class)
+    WHERE c.name IN ['ICSARA', 'Adenda']
+    MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    WHERE pt.name CONTAINS 'Centrales generadoras'
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    WHERE d.date >= datetime('2025-01-01T00:00:00')
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(cl:Class)
+    WITH d, p, r, pt, collect(DISTINCT cl.name) AS all_classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           pt.name AS project_type,
+           all_classes AS classes,
+           d.date AS created_date
+    ORDER BY d.date DESC
+    LIMIT 7
+
+- pregunta: "Contenido de documentos con clasificación PAS de comuna con mayor diversidad"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class)
+    WHERE c.name STARTS WITH 'PAS'
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune {name: 'Antofagasta'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(cl:Class)
+    WITH d, p, t, collect(DISTINCT cl.name) AS all_classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           t.code AS typology,
+           all_classes AS classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos de proyectos inmobiliarios (h1) con Adenda"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'h1'})
+    MATCH (d)-[:HAS_CLASS]->(c:Class {name: 'Adenda'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           pt.name AS project_type
+    LIMIT 6
+
+- pregunta: "Contenido de documentos de petróleo/gas (i4) en Región de Magallanes"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_TIPOLOGIA]->(t:Typology {code: 'i4'})
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    WHERE r.name CONTAINS 'Magallanes'
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(c:Class)
+    WITH d, p, r, cm, collect(DISTINCT c.name) AS classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Fauna Vertebrada en proyectos con PAS 146"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'Fauna Vertebrada'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    MATCH (p)<-[:BELONGS_TO]-(d2:Document)-[:HAS_CLASS]->(c2:Class {name: 'PAS 146'})
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN DISTINCT d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           pt.name AS project_type
+    LIMIT 5
+
+- pregunta: "Contenido de documentos de comunas con tipologías diversas (> 5)"
+  cypher_query: |
+    MATCH (cm:Commune)<-[:IN_COMMUNE]-(d:Document)-[:HAS_TIPOLOGIA]->(t:Typology)
+    WITH cm, collect(DISTINCT t.code) AS tipologias
+    WHERE size(tipologias) > 5
+    MATCH (cm)<-[:IN_COMMUNE]-(doc:Document)
+    OPTIONAL MATCH (doc)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (doc)-[:HAS_CLASS]->(c:Class)
+    WITH doc, cm, p, collect(DISTINCT c.name) AS classes
+    RETURN doc.id AS doc_id,
+           doc.filename AS filename,
+           doc.content AS page_content,
+           cm.name AS commune,
+           p.name AS project,
+           classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Limnología de proyectos acuáticos"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Limnología'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(cl:Class)
+    WITH d, p, r, t, collect(DISTINCT cl.name) AS all_classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           t.code AS typology,
+           all_classes AS classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Formación Xerofítica en regiones del norte"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Formación Xerofítica'})
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    WHERE r.name IN ['Región de Arica y Parinacota', 'Región de Tarapacá',
+                     'Región de Antofagasta', 'Región de Atacama']
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           pt.name AS project_type
+    LIMIT 6
+
+- pregunta: "Contenido de documentos de proyectos que abarcan múltiples comunas"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)-[:IN_COMMUNE]->(cm:Commune)
+    WITH p, collect(DISTINCT cm.name) AS communes, count(DISTINCT d) AS num_docs
+    WHERE size(communes) > 3
+    MATCH (p)<-[:BELONGS_TO]-(doc:Document)
+    OPTIONAL MATCH (doc)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (doc)-[:IN_COMMUNE]->(com:Commune)
+    OPTIONAL MATCH (doc)-[:HAS_CLASS]->(c:Class)
+    WITH doc, p, r, com, communes, collect(DISTINCT c.name) AS classes
+    RETURN doc.id AS doc_id,
+           doc.filename AS filename,
+           doc.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           com.name AS commune,
+           communes AS all_project_communes,
+           classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Plan de Contingencia de proyectos críticos"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Plan de Contingencia'})
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_PROJECT_TYPE]->(pt:ProjectType)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(cl:Class)
+    WITH d, p, r, pt, collect(DISTINCT cl.name) AS all_classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           pt.name AS project_type,
+           all_classes AS classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Perturbación Controlada en proyectos forestales"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class {name: 'Perturbación Controlada'})
+    MATCH (d)-[:BELONGS_TO]->(p:Project)
+    MATCH (p)<-[:BELONGS_TO]-(d2:Document)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name IN ['Bosque Nativo', 'Plantaciones Forestales']
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:HAS_TIPOLOGIA]->(t:Typology)
+    RETURN DISTINCT d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           t.code AS typology
+    LIMIT 5
+
+- pregunta: "Contenido de documentos con Hongos o Avifauna de estudios especializados"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c:Class)
+    WHERE c.name IN ['Hongos', 'Avifauna']
+    OPTIONAL MATCH (d)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (d)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(cl:Class)
+    WITH d, p, r, cm, collect(DISTINCT cl.name) AS all_classes
+    RETURN d.id AS doc_id,
+           d.filename AS filename,
+           d.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           cm.name AS commune,
+           all_classes AS classes
+    LIMIT 5
+
+- pregunta: "Contenido de documentos recientes con co-ocurrencia rara de clases"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class)
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c1.name < c2.name
+      AND d.date >= datetime('2025-06-01T00:00:00')
+    WITH c1, c2, collect(d) AS docs, count(d) AS co_count
+    WHERE co_count < 5 AND co_count > 1
+    UNWIND docs AS doc
+    OPTIONAL MATCH (doc)-[:BELONGS_TO]->(p:Project)
+    OPTIONAL MATCH (doc)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (doc)-[:HAS_CLASS]->(c:Class)
+    WITH doc, p, r, collect(DISTINCT c.name) AS classes
+    RETURN doc.id AS doc_id,
+           doc.filename AS filename,
+           doc.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           classes,
+           doc.date AS created_date
+    ORDER BY doc.date DESC
+    LIMIT 5
+
+- pregunta: "Contenido de documentos de proyectos con alta diversidad de clases (> 5)"
+  cypher_query: |
+    MATCH (p:Project)<-[:BELONGS_TO]-(d:Document)-[:HAS_CLASS]->(c:Class)
+    WITH p, collect(DISTINCT c.name) AS classes
+    WHERE size(classes) > 5
+    MATCH (p)<-[:BELONGS_TO]-(doc:Document)
+    OPTIONAL MATCH (doc)-[:IN_REGION]->(r:Region)
+    OPTIONAL MATCH (doc)-[:HAS_TIPOLOGIA]->(t:Typology)
+    OPTIONAL MATCH (doc)-[:HAS_CLASS]->(cl:Class)
+    WITH doc, p, r, t, classes, collect(DISTINCT cl.name) AS doc_classes
+    RETURN doc.id AS doc_id,
+           doc.filename AS filename,
+           doc.content AS page_content,
+           p.name AS project,
+           r.name AS region,
+           t.code AS typology,
+           doc_classes AS document_classes,
+           classes AS project_classes
+    LIMIT 5
+
+- pregunta: "Listar todas las regiones disponibles"
+  cypher_query: |
+    MATCH (r:Region)
+    RETURN r.name AS region
+    ORDER BY r.name
+
+- pregunta: "Listar todas las comunas de una región específica"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region {name: 'Región Metropolitana de Santiago'})
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    RETURN DISTINCT cm.name AS commune
+    ORDER BY cm.name
+
+- pregunta: "Listar todas las comunas de Región de Antofagasta"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region {name: 'Región de Antofagasta'})
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    RETURN DISTINCT cm.name AS commune, count(d) AS num_docs
+    ORDER BY num_docs DESC
+
+- pregunta: "Obtener todas las clases y total de documentos por clase"
+  cypher_query: |
+    MATCH (c:Class)<-[:HAS_CLASS]-(d:Document)
+    RETURN c.name AS class,
+           count(d) AS total_documentos
+    ORDER BY total_documentos DESC
+
+- pregunta: "Contar documentos de Línea Base con Flora"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'Línea Base'})
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name CONTAINS 'Flora'
+    RETURN count(DISTINCT d) AS total_linea_base_flora
+
+- pregunta: "Contar documentos de Línea Base con Fauna"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'Línea Base'})
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name CONTAINS 'Fauna'
+    RETURN count(DISTINCT d) AS total_linea_base_fauna
+
+- pregunta: "Detalle de documentos Línea Base con Flora y Fauna"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'Línea Base'})
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(flora:Class)
+    WHERE flora.name CONTAINS 'Flora'
+    OPTIONAL MATCH (d)-[:HAS_CLASS]->(fauna:Class)
+    WHERE fauna.name CONTAINS 'Fauna'
+    WITH d,
+         count(DISTINCT flora) > 0 AS tiene_flora,
+         count(DISTINCT fauna) > 0 AS tiene_fauna
+    RETURN tiene_flora,
+           tiene_fauna,
+           count(d) AS total_documentos
+    ORDER BY tiene_flora DESC, tiene_fauna DESC
+
+- pregunta: "Listar todas las comunas por región (agregado)"
+  cypher_query: |
+    MATCH (d:Document)-[:IN_REGION]->(r:Region)
+    MATCH (d)-[:IN_COMMUNE]->(cm:Commune)
+    WITH r, collect(DISTINCT cm.name) AS comunas, count(DISTINCT cm) AS num_comunas
+    RETURN r.name AS region,
+           num_comunas,
+           comunas
+    ORDER BY num_comunas DESC
+
+- pregunta: "Documentos Línea Base de Flora por región"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'Línea Base'})
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name CONTAINS 'Flora'
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN r.name AS region,
+           count(d) AS total_linea_base_flora
+    ORDER BY total_linea_base_flora DESC
+
+- pregunta: "Documentos Línea Base de Fauna por región"
+  cypher_query: |
+    MATCH (d:Document)-[:HAS_CLASS]->(c1:Class {name: 'Línea Base'})
+    MATCH (d)-[:HAS_CLASS]->(c2:Class)
+    WHERE c2.name CONTAINS 'Fauna'
+    MATCH (d)-[:IN_REGION]->(r:Region)
+    RETURN r.name AS region,
+           count(d) AS total_linea_base_fauna
+    ORDER BY total_linea_base_fauna DESC
+
+- pregunta: "Resumen completo de clases en el sistema"
+  cypher_query: |
+    MATCH (c:Class)
+    OPTIONAL MATCH (c)<-[:HAS_CLASS]-(d:Document)
+    RETURN c.name AS class,
+           count(d) AS total_documentos,
+           CASE
+             WHEN count(d) = 0 THEN 'Sin documentos'
+             WHEN count(d) < 10 THEN 'Bajo uso'
+             WHEN count(d) < 100 THEN 'Uso medio'
+             WHEN count(d) < 1000 THEN 'Uso alto'
+             ELSE 'Uso muy alto'
+           END AS categoria_uso
+    ORDER BY total_documentos DESC

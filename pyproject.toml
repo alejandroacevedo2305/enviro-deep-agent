@@ -37,9 +37,10 @@ dependencies = [
     "tqdm>=4.66.0",
     "pdfplumber>=0.11.7",
     "pypdf>=6.1.1",
-    "langchain-core>=0.3.79",
+    "langchain-core>=1.0.0",
     "neo4j>=6.0.2",
-    "langchain-openai>=0.3.35",
+    "langchain-openai>=1.0.0",
     "langchain-community>=0.3.31",
     "fastmcp>=2.12.4",
+    "langchain>=1.0.0",
 ]
