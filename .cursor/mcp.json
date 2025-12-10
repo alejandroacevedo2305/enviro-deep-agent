@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+        "GraphRAGsearcher": {
+            "command": "uv",
+            "args": [
+                "run",
+                "fastmcp",
+                "run",
+                "tools/graph_rag.py"
+            ],
+            "cwd": "/home/alejandro/Desktop/repos/NVIRO-airflow-parsing",
+            "transport": "stdio"
+        }
+    }
+}

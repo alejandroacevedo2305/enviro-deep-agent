@@ -23,7 +23,6 @@ airflow-scheduler.pid
 # Data files
 data/
 *.csv
-*.json
 *.xlsx
 *.xls
 *.pickle
