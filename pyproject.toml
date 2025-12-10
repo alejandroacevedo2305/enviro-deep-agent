@@ -43,4 +43,6 @@ dependencies = [
     "langchain-community>=0.3.31",
     "fastmcp>=2.12.4",
     "langchain>=1.0.0",
+    "deepagents>=0.3.0",
+    "langgraph-sdk>=0.2.15",
 ]

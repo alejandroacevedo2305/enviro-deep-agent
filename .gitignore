@@ -48,6 +48,9 @@ ENV/
 *~
 .DS_Store
 
+# LangGraph
+.langgraph_api/
+
 # Python
 *.py[cod]
 *$py.class
